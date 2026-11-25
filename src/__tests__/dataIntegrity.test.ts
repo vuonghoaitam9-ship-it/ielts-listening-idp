@@ -65,7 +65,7 @@ describe('Vol 7-10 packaged data & policy integrity', () => {
     }
   });
 
-  it('enforces strict original audio policy (zero speechSynthesis / TTS usage in src)', () => {
+  it('enforces strict original audio policy and forbids native browser dialogs (alert/confirm/prompt)', () => {
     const srcDir = path.join(ROOT, 'src');
     const files: string[] = [];
     const walk = (dir: string) => {
@@ -82,6 +82,7 @@ describe('Vol 7-10 packaged data & policy integrity', () => {
       const content = fs.readFileSync(file, 'utf8');
       expect(content.includes('speechSynthesis')).toBe(false);
       expect(content.includes('SpeechSynthesisUtterance')).toBe(false);
+      expect(/\b(?:window\.)?(?:alert|confirm|prompt)\s*\(/.test(content)).toBe(false);
     }
   });
 });

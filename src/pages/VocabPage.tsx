@@ -11,6 +11,7 @@ import {
   Upload,
   XCircle,
 } from 'lucide-react';
+import { ConfirmDialog } from '../components/ConfirmDialog';
 import { SaveVocabModal } from '../components/SaveVocabModal';
 import { db } from '../db/database';
 import { seedVocabCoreIfNeeded } from '../lib/dataLoader';
@@ -41,6 +42,7 @@ export function VocabPage() {
   const [spellingChecked, setSpellingChecked] = useState<boolean | null>(null);
 
   const [showAddModal, setShowAddModal] = useState(false);
+  const [deleteTarget, setDeleteTarget] = useState<VocabCard | null>(null);
   const [statusMsg, setStatusMsg] = useState<string | null>(null);
 
   useEffect(() => {
@@ -125,9 +127,14 @@ export function VocabPage() {
     setSpellingChecked(normUser === normWord);
   };
 
-  const handleDeleteCard = async (card: VocabCard) => {
-    if (!window.confirm(`Xóa thẻ "${card.word}" khỏi bộ từ vựng?`)) return;
-    await db.vocabCards.delete(card.id);
+  const handleDeleteCard = (card: VocabCard) => {
+    setDeleteTarget(card);
+  };
+
+  const confirmDeleteCard = async () => {
+    if (!deleteTarget) return;
+    await db.vocabCards.delete(deleteTarget.id);
+    setDeleteTarget(null);
     setCardIdx(0);
   };
 
@@ -533,6 +540,21 @@ export function VocabPage() {
           }}
         />
       )}
+
+      <ConfirmDialog
+        open={deleteTarget !== null}
+        title="Xóa thẻ từ vựng"
+        message={
+          deleteTarget
+            ? `Xác nhận xóa thẻ "${deleteTarget.word}" khỏi bộ từ vựng cá nhân?`
+            : ''
+        }
+        confirmLabel="Xóa thẻ"
+        cancelLabel="Giữ lại"
+        danger
+        onConfirm={confirmDeleteCard}
+        onCancel={() => setDeleteTarget(null)}
+      />
     </div>
   );
 }

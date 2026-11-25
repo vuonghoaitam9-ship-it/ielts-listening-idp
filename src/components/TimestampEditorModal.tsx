@@ -1,5 +1,7 @@
-import { useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { Download, Play, Upload, X, Check } from 'lucide-react';
+import { pauseOthers, registerAudio } from '../lib/audioCoordinator';
+import { parseRawTranscriptToSegments } from '../lib/localKeyParser';
 import {
   buildLongSegmentsFromShort,
   exportSegmentsToVtt,
@@ -35,6 +37,18 @@ export function TimestampEditorModal({
   const [statusMsg, setStatusMsg] = useState<string | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
+  useEffect(() => {
+    const el = audioRef.current;
+    if (!el) return;
+    const unreg = registerAudio(el);
+    const onPlay = () => pauseOthers(el);
+    el.addEventListener('play', onPlay);
+    return () => {
+      el.removeEventListener('play', onPlay);
+      unreg();
+    };
+  }, []);
+
   const updateSegment = (idx: number, patch: Partial<TranscriptSegment>) => {
     setSegments((prev) =>
       prev.map((item, i) => (i === idx ? { ...item, ...patch, timestampSource: 'custom' } : item))
@@ -42,11 +56,13 @@ export function TimestampEditorModal({
   };
 
   const handleMarkStart = () => {
+    if (!segments[activeIdx]) return;
     const cur = audioRef.current?.currentTime ?? 0;
     updateSegment(activeIdx, { startTime: Number(cur.toFixed(2)) });
   };
 
   const handleMarkEndAndNext = () => {
+    if (!segments[activeIdx]) return;
     const cur = audioRef.current?.currentTime ?? 0;
     const endT = Number(Math.max(segments[activeIdx].startTime + 0.5, cur).toFixed(2));
     updateSegment(activeIdx, { endTime: endT });
@@ -57,24 +73,37 @@ export function TimestampEditorModal({
   };
 
   const handleImportSubtitles = () => {
-    const parsed = parseSubtitlesToSegments(subText, 1);
+    const trimmed = subText.trim();
+    if (!trimmed) {
+      setStatusMsg('Vui lòng dán nội dung SRT / VTT / LRC hoặc văn bản Transcript.');
+      return;
+    }
+    let parsed = parseSubtitlesToSegments(trimmed, 1);
+    let modeNote = 'phụ đề';
     if (parsed.length === 0) {
-      setStatusMsg('Không nhận diện được định dạng SRT / VTT / LRC hợp lệ.');
+      parsed = parseRawTranscriptToSegments(trimmed, audioDurationSec || 1500);
+      modeNote = 'văn bản thuần (đã chia câu và ước lượng mốc giờ)';
+    }
+    if (parsed.length === 0) {
+      setStatusMsg('Không nhận diện được nội dung hợp lệ.');
       return;
     }
     setSegments(parsed);
     setActiveIdx(0);
     setShowImport(false);
-    setStatusMsg(`Đã nạp ${parsed.length} đoạn từ file phụ đề.`);
+    setStatusMsg(`Đã nạp ${parsed.length} đoạn từ ${modeNote}.`);
   };
 
   const handleFileImport = async (e: React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0];
     if (!file) return;
     const txt = await file.text();
-    const parsed = parseSubtitlesToSegments(txt, 1);
+    let parsed = parseSubtitlesToSegments(txt, 1);
     if (parsed.length === 0) {
-      setStatusMsg('File không chứa mốc thời gian SRT/VTT/LRC hợp lệ.');
+      parsed = parseRawTranscriptToSegments(txt, audioDurationSec || 1500);
+    }
+    if (parsed.length === 0) {
+      setStatusMsg('File không chứa dữ liệu transcript hoặc phụ đề hợp lệ.');
       return;
     }
     setSegments(parsed);

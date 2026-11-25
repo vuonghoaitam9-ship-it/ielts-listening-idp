@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { Link, useNavigate, useParams } from 'react-router-dom';
 import {
   AlertTriangle,
@@ -8,6 +8,7 @@ import {
   ChevronRight,
   Clock,
   Eye,
+  FilePlus2,
   HelpCircle,
   Pause,
   Play,
@@ -17,10 +18,13 @@ import {
 import { SaveVocabModal } from '../components/SaveVocabModal';
 import { TimestampEditorModal } from '../components/TimestampEditorModal';
 import { db } from '../db/database';
+import { useSegmentAudio } from '../hooks/useSegmentAudio';
 import { loadManifest, loadTestData, revokeManagedObjectUrls } from '../lib/dataLoader';
 import { computeDictationDiff, type DictationDiffResult } from '../lib/dictationDiff';
 import { buildLongSegmentsFromShort, formatSecondsClock } from '../lib/subtitleParser';
 import type { ManifestData, TestData, TranscriptSegment } from '../types';
+
+const DICTATION_PAD_SEC = 0.15;
 
 export function DictationPage() {
   const { vol, test } = useParams();
@@ -39,19 +43,15 @@ export function DictationPage() {
   const [diffResult, setDiffResult] = useState<DictationDiffResult | null>(null);
   const [showFullAnswer, setShowFullAnswer] = useState(false);
 
-  const [isPlaying, setIsPlaying] = useState(false);
   const [loopSegment, setLoopSegment] = useState(false);
   const [speed, setSpeed] = useState(1.0);
-  const [currentTime, setCurrentTime] = useState(0);
 
   const [showTsModal, setShowTsModal] = useState(false);
   const [vocabTarget, setVocabTarget] = useState<{ word: string; example: string } | null>(null);
   const [toastMsg, setToastMsg] = useState<string | null>(null);
   const [bestMap, setBestMap] = useState<Record<string, number>>({});
 
-  const audioRef = useRef<HTMLAudioElement | null>(null);
-  const loopRef = useRef(loopSegment);
-  loopRef.current = loopSegment;
+  const segAudio = useSegmentAudio(testData?.audioUrl, testData?.audioDurationSec ?? 0);
 
   useEffect(() => {
     loadManifest().then((m) => setManifest(m)).catch(() => {});
@@ -71,6 +71,7 @@ export function DictationPage() {
     setShowFullAnswer(false);
     setUserInput('');
     setSegIndex(0);
+    segAudio.stop();
 
     loadTestData(selectedVol, selectedTest)
       .then(async (data) => {
@@ -98,6 +99,7 @@ export function DictationPage() {
       active = false;
       revokeManagedObjectUrls();
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectedVol, selectedTest]);
 
   const activeList = useMemo(() => {
@@ -109,72 +111,85 @@ export function DictationPage() {
 
   const currentSeg = activeList[segIndex] ?? null;
 
+  // Overall progress metrics for current mode & filter
+  const progressStats = useMemo(() => {
+    if (activeList.length === 0) return { completed: 0, avgAccuracy: 0 };
+    let completed = 0;
+    let sum = 0;
+    for (const seg of activeList) {
+      const score = bestMap[`${mode}::${seg.id}`];
+      if (score !== undefined) {
+        completed += 1;
+        sum += score;
+      }
+    }
+    return {
+      completed,
+      avgAccuracy: completed > 0 ? Math.round(sum / completed) : 0,
+    };
+  }, [activeList, bestMap, mode]);
+
+  const { stop: stopSegAudio, setRate: setSegRate, setLoop: setSegLoop } = segAudio;
+
   useEffect(() => {
+    stopSegAudio();
     setSegIndex(0);
     setUserInput('');
     setDiffResult(null);
     setShowFullAnswer(false);
-  }, [mode, partFilter]);
+  }, [mode, partFilter, stopSegAudio]);
 
   useEffect(() => {
-    if (audioRef.current) {
-      audioRef.current.playbackRate = speed;
-    }
-  }, [speed]);
+    setSegRate(speed);
+  }, [speed, setSegRate]);
 
   useEffect(() => {
-    const audio = audioRef.current;
-    if (!audio || !currentSeg) return;
-    const onTimeUpdate = () => {
-      setCurrentTime(audio.currentTime);
-      if (isPlaying && audio.currentTime >= currentSeg.endTime) {
-        if (loopRef.current) {
-          audio.currentTime = currentSeg.startTime;
-          audio.play().catch(() => {});
-        } else {
-          audio.pause();
-          setIsPlaying(false);
-        }
-      }
-    };
-    const onEnded = () => setIsPlaying(false);
-    audio.addEventListener('timeupdate', onTimeUpdate);
-    audio.addEventListener('ended', onEnded);
-    return () => {
-      audio.removeEventListener('timeupdate', onTimeUpdate);
-      audio.removeEventListener('ended', onEnded);
-    };
-  }, [currentSeg, isPlaying]);
+    setSegLoop(loopSegment);
+  }, [loopSegment, setSegLoop]);
 
-  const playCurrentSegment = () => {
-    const audio = audioRef.current;
-    if (!audio || !currentSeg) return;
-    if (isPlaying) {
-      audio.pause();
-      setIsPlaying(false);
+  const playOrToggleCurrent = () => {
+    if (!currentSeg) return;
+    if (segAudio.activeId === currentSeg.id && segAudio.isPlaying) {
+      segAudio.pause();
       return;
     }
-    audio.currentTime = currentSeg.startTime;
-    audio.playbackRate = speed;
-    setIsPlaying(true);
-    audio.play().catch(() => setIsPlaying(false));
+    if (
+      segAudio.activeId === currentSeg.id &&
+      !segAudio.isPlaying &&
+      segAudio.progressPct > 0 &&
+      segAudio.progressPct < 98
+    ) {
+      segAudio.resume();
+      return;
+    }
+    segAudio.playSegment({
+      id: currentSeg.id,
+      startTime: currentSeg.startTime,
+      endTime: currentSeg.endTime,
+      rate: speed,
+      loop: loopSegment,
+      padBefore: DICTATION_PAD_SEC,
+      padAfter: DICTATION_PAD_SEC,
+    });
   };
 
   const replayFromStart = () => {
-    const audio = audioRef.current;
-    if (!audio || !currentSeg) return;
-    audio.currentTime = currentSeg.startTime;
-    audio.playbackRate = speed;
-    setIsPlaying(true);
-    audio.play().catch(() => setIsPlaying(false));
+    if (!currentSeg) return;
+    segAudio.playSegment({
+      id: currentSeg.id,
+      startTime: currentSeg.startTime,
+      endTime: currentSeg.endTime,
+      rate: speed,
+      loop: loopSegment,
+      padBefore: DICTATION_PAD_SEC,
+      padAfter: DICTATION_PAD_SEC,
+    });
   };
 
   const goSegment = (idx: number) => {
+    if (activeList.length === 0) return;
     const clamped = Math.max(0, Math.min(activeList.length - 1, idx));
-    if (audioRef.current) {
-      audioRef.current.pause();
-      setIsPlaying(false);
-    }
+    segAudio.stop();
     setSegIndex(clamped);
     setUserInput('');
     setDiffResult(null);
@@ -224,13 +239,12 @@ export function DictationPage() {
     if (!currentSeg) return;
     const expWords = currentSeg.text.trim().split(/\s+/);
     const curWords = userInput.trim() ? userInput.trim().split(/\s+/) : [];
-    // Find first index where user diverges or stopped
     let targetIdx = 0;
     while (
       targetIdx < curWords.length &&
       targetIdx < expWords.length &&
-      curWords[targetIdx].toLowerCase().replace(/[^a-z0-9]/g, '') ===
-        expWords[targetIdx].toLowerCase().replace(/[^a-z0-9]/g, '')
+      curWords[targetIdx].toLowerCase().replace(/[^a-z0-9']/g, '') ===
+        expWords[targetIdx].toLowerCase().replace(/[^a-z0-9']/g, '')
     ) {
       targetIdx++;
     }
@@ -247,8 +261,8 @@ export function DictationPage() {
     while (
       wIdx < curWords.length &&
       wIdx < expWords.length &&
-      curWords[wIdx].toLowerCase().replace(/[^a-z0-9]/g, '') ===
-        expWords[wIdx].toLowerCase().replace(/[^a-z0-9]/g, '')
+      curWords[wIdx].toLowerCase().replace(/[^a-z0-9']/g, '') ===
+        expWords[wIdx].toLowerCase().replace(/[^a-z0-9']/g, '')
     ) {
       wIdx++;
     }
@@ -280,6 +294,19 @@ export function DictationPage() {
     return manifest.tests.filter((t) => t.vol === selectedVol);
   }, [manifest, selectedVol]);
 
+  const isCurrentPlaying = Boolean(
+    currentSeg && segAudio.activeId === currentSeg.id && segAudio.isPlaying
+  );
+  const segDisplayStart = currentSeg
+    ? Math.max(0, currentSeg.startTime - DICTATION_PAD_SEC)
+    : 0;
+  const segDisplayEnd = currentSeg
+    ? Math.min(
+        testData?.audioDurationSec || currentSeg.endTime + DICTATION_PAD_SEC,
+        currentSeg.endTime + DICTATION_PAD_SEC
+      )
+    : 0;
+
   return (
     <div className="space-y-4">
       {toastMsg && (
@@ -296,7 +323,7 @@ export function DictationPage() {
               Luyện Dictation từ Audio gốc (Short &amp; Long)
             </h1>
             <p className="text-xs text-slate-600">
-              Phát trực tiếp từng câu hoặc cụm đoạn trên audio thật Vol 7–10 · Chấm lỗi từng từ (Word-level Diff)
+              Phát chính xác từng câu hoặc cụm đoạn trên audio thật Vol 7–10 (có đệm ±0.15s tránh mất âm đầu/cuối) · Chấm lỗi từng từ
             </p>
           </div>
 
@@ -398,6 +425,18 @@ export function DictationPage() {
               </button>
             ))}
           </div>
+
+          {activeList.length > 0 && (
+            <div className="ml-auto text-slate-600 tabular-nums">
+              Tiến độ:{' '}
+              <strong className="text-slate-900">
+                {progressStats.completed}/{activeList.length} đoạn
+              </strong>
+              {progressStats.completed > 0 && (
+                <span> · TB {progressStats.avgAccuracy}%</span>
+              )}
+            </div>
+          )}
         </div>
 
         {testData && !testData.hasExactTimestamps && (
@@ -433,13 +472,34 @@ export function DictationPage() {
         </div>
       )}
 
+      {!loading && testData && activeList.length === 0 && (
+        <div className="bg-white border border-slate-300 rounded-md p-6 space-y-3 text-xs">
+          <div className="font-semibold text-sm text-slate-900">
+            Chưa có transcript cho đoạn này
+          </div>
+          <p className="text-slate-600">
+            Part hoặc bài thi này hiện chưa có dữ liệu câu thoại để tách đoạn Dictation. Bạn có thể dán transcript văn bản hoặc nhập file .SRT/.VTT ngay tại đây.
+          </p>
+          <button
+            type="button"
+            onClick={() => setShowTsModal(true)}
+            className="px-3 py-1.5 rounded bg-[#0f2942] hover:bg-[#1e3a8a] text-white font-medium inline-flex items-center gap-1.5 cursor-pointer"
+          >
+            <FilePlus2 className="w-3.5 h-3.5" />
+            <span>Tải / Dán nhanh Transcript</span>
+          </button>
+        </div>
+      )}
+
+      {/* Single hidden HTML5 Audio element bound to useSegmentAudio */}
+      {testData && (
+        <audio ref={segAudio.audioRef} src={testData.audioUrl} preload="metadata" />
+      )}
+
       {!loading && testData && currentSeg && (
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
           {/* Left 2 cols: Dictation player + input + diff */}
           <div className="lg:col-span-2 space-y-4">
-            <audio ref={audioRef} src={testData.audioUrl} preload="metadata" />
-
-            {/* Player Card */}
             <div className="bg-white border border-slate-300 rounded-md p-4 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 text-xs">
                 <div className="flex items-center gap-2">
@@ -462,15 +522,27 @@ export function DictationPage() {
                 )}
               </div>
 
+              {segAudio.error && (
+                <div className="p-2 rounded bg-red-50 border border-red-200 text-xs text-red-800">
+                  {segAudio.error}
+                </div>
+              )}
+
               {/* Audio buttons */}
               <div className="flex flex-wrap items-center gap-2">
                 <button
                   type="button"
-                  onClick={playCurrentSegment}
+                  onClick={playOrToggleCurrent}
                   className="px-3.5 py-1.5 rounded bg-[#1e40af] hover:bg-[#1e3a8a] text-white text-xs font-semibold flex items-center gap-1.5 cursor-pointer"
                 >
-                  {isPlaying ? <Pause className="w-3.5 h-3.5" /> : <Play className="w-3.5 h-3.5" />}
-                  <span>{isPlaying ? 'Tạm dừng' : 'Phát đoạn này'}</span>
+                  {isCurrentPlaying ? <Pause className="w-3.5 h-3.5" /> : <Play className="w-3.5 h-3.5" />}
+                  <span>
+                    {segAudio.isBuffering && segAudio.activeId === currentSeg.id
+                      ? 'Đang nạp...'
+                      : isCurrentPlaying
+                      ? 'Tạm dừng'
+                      : 'Phát đoạn này'}
+                  </span>
                 </button>
 
                 <button
@@ -512,26 +584,45 @@ export function DictationPage() {
                 </label>
               </div>
 
-              {/* Segment Progress */}
-              <div className="h-1.5 rounded-full bg-slate-200 overflow-hidden">
-                <div
-                  className="h-full bg-[#1e40af] transition-all"
-                  style={{
-                    width: `${
-                      currentSeg.endTime > currentSeg.startTime
-                        ? Math.max(
-                            0,
-                            Math.min(
-                              100,
-                              ((currentTime - currentSeg.startTime) /
-                                (currentSeg.endTime - currentSeg.startTime)) *
-                                100
-                            )
-                          )
-                        : 0
-                    }%`,
+              {/* Interactive Segment Mini Progress */}
+              <div className="flex items-center gap-2 text-[11px] font-mono text-slate-500 tabular-nums">
+                <span>
+                  {formatSecondsClock(
+                    segAudio.activeId === currentSeg.id
+                      ? Math.max(segDisplayStart, segAudio.currentTime)
+                      : segDisplayStart
+                  )}
+                </span>
+                <input
+                  type="range"
+                  min={segDisplayStart}
+                  max={Math.max(segDisplayStart + 0.5, segDisplayEnd)}
+                  step={0.1}
+                  value={
+                    segAudio.activeId === currentSeg.id
+                      ? Math.min(segDisplayEnd, Math.max(segDisplayStart, segAudio.currentTime))
+                      : segDisplayStart
+                  }
+                  onChange={(e) => {
+                    const targetSec = Number(e.target.value);
+                    if (segAudio.activeId !== currentSeg.id) {
+                      segAudio.playSegment({
+                        id: currentSeg.id,
+                        startTime: targetSec,
+                        endTime: currentSeg.endTime,
+                        rate: speed,
+                        loop: loopSegment,
+                        padBefore: 0,
+                        padAfter: DICTATION_PAD_SEC,
+                      });
+                    } else {
+                      segAudio.seekTo(targetSec);
+                    }
                   }}
+                  aria-label="Thanh tiến trình đoạn nghe"
+                  className="flex-1 accent-[#1e40af] cursor-pointer"
                 />
+                <span>{formatSecondsClock(segDisplayEnd)}</span>
               </div>
 
               {/* Typing area */}
@@ -632,16 +723,63 @@ export function DictationPage() {
 
                 <div className="flex flex-wrap gap-1.5 leading-relaxed">
                   {diffResult.tokens.map((tok, i) => {
-                    let cls = 'bg-emerald-100 text-emerald-900 border-emerald-300';
-                    let label = tok.word;
+                    const saveTargetWord = (tok.expected || tok.word).replace(
+                      /[^a-zA-Z0-9'-]/g,
+                      ''
+                    );
                     if (tok.status === 'misspelled') {
-                      cls = 'bg-amber-100 text-amber-950 border-amber-400';
-                      label = `${tok.word} → ${tok.expected}`;
-                    } else if (tok.status === 'missing') {
-                      cls = 'bg-red-100 text-red-900 border-red-300';
-                      label = `[thiếu: ${tok.word}]`;
-                    } else if (tok.status === 'extra') {
-                      cls = 'bg-slate-200 text-slate-700 border-slate-400 line-through';
+                      return (
+                        <button
+                          key={i}
+                          type="button"
+                          onClick={() =>
+                            setVocabTarget({
+                              word: saveTargetWord,
+                              example: currentSeg.text,
+                            })
+                          }
+                          className="px-2 py-0.5 rounded border border-red-300 bg-red-50 text-xs inline-flex items-center gap-1.5 cursor-pointer hover:opacity-85"
+                          title="Sai chính tả — bấm để lưu từ đúng vào Flashcard"
+                        >
+                          <span className="line-through text-red-700 font-medium">
+                            {tok.word}
+                          </span>
+                          <span className="text-emerald-800 font-bold">
+                            {tok.expected}
+                          </span>
+                        </button>
+                      );
+                    }
+
+                    if (tok.status === 'missing') {
+                      return (
+                        <button
+                          key={i}
+                          type="button"
+                          onClick={() =>
+                            setVocabTarget({
+                              word: saveTargetWord,
+                              example: currentSeg.text,
+                            })
+                          }
+                          className="px-1.5 py-0.5 rounded border border-dashed border-amber-500 bg-amber-50 text-amber-900 text-xs font-medium cursor-pointer hover:opacity-85"
+                          title="Từ bị thiếu — bấm để lưu vào Flashcard"
+                        >
+                          [thiếu: {tok.word}]
+                        </button>
+                      );
+                    }
+
+                    if (tok.status === 'extra') {
+                      return (
+                        <span
+                          key={i}
+                          className="px-1.5 py-0.5 rounded border border-slate-300 bg-slate-100 text-slate-600 text-xs line-through"
+                          title="Từ gõ dư"
+                        >
+                          {tok.word}
+                        </span>
+                      );
                     }
 
                     return (
@@ -650,14 +788,14 @@ export function DictationPage() {
                         type="button"
                         onClick={() =>
                           setVocabTarget({
-                            word: (tok.expected || tok.word).replace(/[^a-zA-Z0-9'-]/g, ''),
+                            word: saveTargetWord,
                             example: currentSeg.text,
                           })
                         }
-                        className={`px-1.5 py-0.5 rounded border text-xs font-medium cursor-pointer hover:opacity-80 ${cls}`}
+                        className="px-1.5 py-0.5 rounded border border-emerald-300 bg-emerald-50 text-emerald-900 text-xs font-medium cursor-pointer hover:opacity-85"
                         title="Lưu từ này vào Flashcard"
                       >
-                        {label}
+                        {tok.word}
                       </button>
                     );
                   })}
@@ -666,16 +804,16 @@ export function DictationPage() {
                 <div className="pt-2 border-t border-slate-200 flex flex-wrap items-center justify-between gap-2 text-[11px] text-slate-600">
                   <div className="flex flex-wrap items-center gap-3">
                     <span className="inline-flex items-center gap-1">
-                      <span className="w-2.5 h-2.5 rounded-sm bg-emerald-200 border border-emerald-400" /> Đúng
+                      <span className="w-2.5 h-2.5 rounded-sm bg-emerald-100 border border-emerald-400" /> Đúng
                     </span>
                     <span className="inline-flex items-center gap-1">
-                      <span className="w-2.5 h-2.5 rounded-sm bg-amber-200 border border-amber-400" /> Sai chính tả
+                      <span className="w-2.5 h-2.5 rounded-sm bg-red-100 border border-red-400" /> Sai chính tả (gạch đỏ + từ đúng)
                     </span>
                     <span className="inline-flex items-center gap-1">
-                      <span className="w-2.5 h-2.5 rounded-sm bg-red-200 border border-red-400" /> Thiếu từ
+                      <span className="w-2.5 h-2.5 rounded-sm bg-amber-100 border border-dashed border-amber-500" /> Thiếu từ
                     </span>
                     <span className="inline-flex items-center gap-1">
-                      <span className="w-2.5 h-2.5 rounded-sm bg-slate-300 border border-slate-500" /> Dư từ
+                      <span className="w-2.5 h-2.5 rounded-sm bg-slate-200 border border-slate-400" /> Dư từ
                     </span>
                   </div>
                   <button
@@ -697,7 +835,7 @@ export function DictationPage() {
           <aside className="bg-white border border-slate-300 rounded-md flex flex-col max-h-[600px]">
             <div className="px-3 py-2 border-b border-slate-200 bg-slate-50 text-xs font-semibold flex items-center justify-between">
               <span>
-                Danh sách đoạn ({activeList.length})
+                Danh sách đoạn ({progressStats.completed}/{activeList.length})
               </span>
               <span className="text-[11px] font-normal text-slate-500">
                 {mode === 'short' ? 'Short' : 'Long'}

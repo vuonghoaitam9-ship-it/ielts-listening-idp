@@ -25,6 +25,7 @@ export interface QuestionItem {
   evidenceQuote: string;
   evidenceStartTime: number;
   evidenceEndTime: number;
+  timestampEdited?: boolean;
   paraphrases: ParaphrasePair[];
   distractors: string[];
   explanationVi: string;

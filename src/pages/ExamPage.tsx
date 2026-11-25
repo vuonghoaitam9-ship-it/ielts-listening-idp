@@ -2,12 +2,14 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { Eye, Play, ShieldCheck, Sliders } from 'lucide-react';
 import { AnswerSheet } from '../components/AnswerSheet';
+import { ConfirmDialog } from '../components/ConfirmDialog';
 import { ExamAudioBar } from '../components/ExamAudioBar';
 import { ExamReviewView } from '../components/ExamReviewView';
 import { IdpHeader } from '../components/IdpHeader';
 import { PdfExamViewer } from '../components/PdfExamViewer';
 import { QuestionPalette } from '../components/QuestionPalette';
 import { db } from '../db/database';
+import { pauseOthers, registerAudio } from '../lib/audioCoordinator';
 import { loadTestData, revokeManagedObjectUrls } from '../lib/dataLoader';
 import { gradeListeningExam } from '../lib/grading';
 import type {
@@ -56,6 +58,7 @@ export function ExamPage() {
   const [activeQuestion, setActiveQuestion] = useState(1);
   const [notepadText, setNotepadText] = useState('');
   const [submittedAttempt, setSubmittedAttempt] = useState<ExamAttempt | null>(null);
+  const [confirmAction, setConfirmAction] = useState<'submit' | 'exit' | null>(null);
 
   // Audio state
   const audioRef = useRef<HTMLAudioElement | null>(null);
@@ -156,7 +159,19 @@ export function ExamPage() {
     localStorage.setItem(noteKey, notepadText);
   }, [notepadText, noteKey, testData]);
 
-  // Sync volume & speed to HTMLAudioElement
+  // Sync volume, speed & single-audio registration to HTMLAudioElement
+  useEffect(() => {
+    const el = audioRef.current;
+    if (!el) return;
+    const unreg = registerAudio(el);
+    const onPlay = () => pauseOthers(el);
+    el.addEventListener('play', onPlay);
+    return () => {
+      el.removeEventListener('play', onPlay);
+      unreg();
+    };
+  }, [testData?.audioUrl]);
+
   useEffect(() => {
     if (audioRef.current) {
       audioRef.current.volume = volume;
@@ -288,11 +303,15 @@ export function ExamPage() {
   const handleSubmitExam = async (autoTriggered = false) => {
     if (!testData || submittedAttempt) return;
     if (!autoTriggered && answeredCount < 40) {
-      const ok = window.confirm(
-        `Bạn đã trả lời ${answeredCount}/40 câu. Xác nhận nộp bài và chấm điểm ngay?`
-      );
-      if (!ok) return;
+      setConfirmAction('submit');
+      return;
     }
+    await finalizeSubmitExam();
+  };
+
+  const finalizeSubmitExam = async () => {
+    if (!testData || submittedAttempt) return;
+    setConfirmAction(null);
     if (audioRef.current && !audioRef.current.paused) {
       audioRef.current.pause();
       setIsPlaying(false);
@@ -323,10 +342,8 @@ export function ExamPage() {
 
   const handleExit = () => {
     if (examStarted && !submittedAttempt && answeredCount > 0) {
-      const ok = window.confirm(
-        'Bài làm đang được lưu nháp tự động. Thoát khỏi phòng thi?'
-      );
-      if (!ok) return;
+      setConfirmAction('exit');
+      return;
     }
     navigate('/');
   };
@@ -525,6 +542,7 @@ export function ExamPage() {
             attempt={submittedAttempt}
             onRetryExam={handleRetryExam}
             onGoDictation={() => navigate(`/dictation/${volNum}/${testNum}`)}
+            onTestDataUpdated={setTestData}
           />
         </div>
       </div>
@@ -658,6 +676,29 @@ export function ExamPage() {
         flagged={flagged}
         activeQuestion={activeQuestion}
         onSelectQuestion={handleSelectQuestion}
+      />
+
+      <ConfirmDialog
+        open={confirmAction === 'submit'}
+        title="Xác nhận nộp bài thi"
+        message={`Bạn đã trả lời ${answeredCount}/40 câu. Bạn có chắc chắn muốn nộp bài và xem kết quả chấm chữa ngay?`}
+        confirmLabel="Nộp bài ngay"
+        cancelLabel="Tiếp tục làm bài"
+        onConfirm={finalizeSubmitExam}
+        onCancel={() => setConfirmAction(null)}
+      />
+
+      <ConfirmDialog
+        open={confirmAction === 'exit'}
+        title="Thoát khỏi phòng thi"
+        message="Bài làm hiện tại đã được lưu nháp tự động trên trình duyệt. Bạn muốn quay về trang chủ?"
+        confirmLabel="Thoát phòng thi"
+        cancelLabel="Ở lại làm bài"
+        onConfirm={() => {
+          setConfirmAction(null);
+          navigate('/');
+        }}
+        onCancel={() => setConfirmAction(null)}
       />
     </div>
   );
