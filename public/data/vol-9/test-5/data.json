@@ -12,7 +12,7 @@
   "audioUrl": "./data/vol-9/test-5/audio.mp3",
   "audioDurationSec": 1458.47,
   "hasExactTimestamps": true,
-  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "timestampNote": "Mốc thời gian đã được căn chỉnh trực tiếp từ audio gốc ở mức từng từ (acoustic forced alignment).",
   "parts": [
     {
       "partNumber": 1,
@@ -21,8 +21,8 @@
         1,
         10
       ],
-      "startTime": 0.0,
-      "endTime": 363.0,
+      "startTime": 24.58,
+      "endTime": 281.86,
       "topicHint": "You will hear a student at a job fair talking to a man who works as a professional tea taster."
     },
     {
@@ -32,9 +32,9 @@
         11,
         20
       ],
-      "startTime": 363.0,
-      "endTime": 684.0,
-      "topicHint": "You will hear a guide talking to a group of visitors to Pioneer Historical Village. First you have some time to look at questions 11 to 14. Now listen carefully and answer question"
+      "startTime": 305.94,
+      "endTime": 655.04,
+      "topicHint": "You will hear a guide talking to a group of visitors to Pioneer Historical Village."
     },
     {
       "partNumber": 3,
@@ -43,8 +43,8 @@
         21,
         30
       ],
-      "startTime": 684.0,
-      "endTime": 1096.0,
+      "startTime": 659.12,
+      "endTime": 1068.88,
       "topicHint": "You will hear two environmental study students, called Annie and Ryan, discussing with their tutor a presentation they will give on disposing of dangerous household waste products."
     },
     {
@@ -54,8 +54,8 @@
         31,
         40
       ],
-      "startTime": 1096.0,
-      "endTime": 1458.47,
+      "startTime": 1074.06,
+      "endTime": 1453.98,
       "topicHint": "You will hear part of a student presentation about a field trip to a whale shark research centre given to fellow marine biology students."
     }
   ],
@@ -63,16 +63,16 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "lves • A trainee tea taster mainly works in the company's 1 ………….. • He/she learns how to: - taste the tea using a 2 …………….. - give a 3 …………… to samples of tea according to their quality - select the right size of leaves for teabags - remember the 4 …………….. of different kinds of tea. • He/she only qu",
+      "promptContext": "• A trainee tea taster mainly works in the company's",
       "answerRaw": "lab",
       "canonicalAnswer": "lab",
       "acceptedAnswers": [
         "lab"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "a trainee is based in our lab for most of their time being trained how to do the tasting.",
-      "evidenceStartTime": 71.59,
-      "evidenceEndTime": 77.96,
+      "evidenceQuote": "trainee is based in our lab for most of their time being trained how to do the tasting. Right.",
+      "evidenceStartTime": 57.78,
+      "evidenceEndTime": 64.5,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"lab\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -80,36 +80,35 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "………….. • He/she learns how to: - taste the tea using a 2 …………….. - give a 3 …………… to samples of tea according to their quality - select the right size of leaves for teabags - remember the 4 …………….. of different kinds of tea. • He/she only qualifies after 5 …………….. of training. What the tea company is lo",
+      "promptContext": ".. • He/she learns how to: - taste the tea using a",
       "answerRaw": "spoon",
       "canonicalAnswer": "spoon",
       "acceptedAnswers": [
         "spoon"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Right. How do you actually learn how to taste tea? Do you use a special kind of cup? No, rather than that or even a glass to do the tasting, we sip it from a spoon. Ah, OK.",
-      "evidenceStartTime": 77.96,
-      "evidenceEndTime": 90.19,
+      "evidenceQuote": "No, rather than that or even a glass to do the tasting, we sip it from a spoon. Ah, OK.",
+      "evidenceStartTime": 71.18,
+      "evidenceEndTime": 79.16,
       "paraphrases": [],
       "distractors": [
-        "người nói tự đính chính thông tin vừa nêu ('actually')",
         "loại trừ phương án đối chiếu ('rather than')"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"spoon\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"spoon\". Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
     },
     {
       "number": 3,
       "part": 1,
-      "promptContext": "rns how to: - taste the tea using a 2 …………….. - give a 3 …………… to samples of tea according to their quality - select the right size of leaves for teabags - remember the 4 …………….. of different kinds of tea. • He/she only qualifies after 5 …………….. of training. What the tea company is looking for in new staff",
+      "promptContext": ".. - give a",
       "answerRaw": "grade",
       "canonicalAnswer": "grade",
       "acceptedAnswers": [
         "grade"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "so one of the most important things is to learn how to decide which grade should be assigned to each sample.",
-      "evidenceStartTime": 97.27,
-      "evidenceEndTime": 105.0,
+      "evidenceQuote": "Well, there are many different qualities of tea, so one of the most important things is to learn how to decide which grade should be assigned to each sample.",
+      "evidenceStartTime": 82.58,
+      "evidenceEndTime": 92.52,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"grade\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -117,7 +116,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "elect the right size of leaves for teabags - remember the 4 …………….. of different kinds of tea. • He/she only qualifies after 5 …………….. of training. What the tea company is looking for in new staff • a degree ( 6 …………… is an advantage) • able to do 7 ………….. quickly • ability to distinguish different kinds",
+      "promptContext": "to samples of tea according to their quality - select the right size of leaves for teabags - remember the",
       "answerRaw": "name",
       "canonicalAnswer": "name",
       "acceptedAnswers": [
@@ -125,8 +124,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "So do all of the teas have their own name? Yes, that's another important part of the training.",
-      "evidenceStartTime": 124.38,
-      "evidenceEndTime": 131.0,
+      "evidenceStartTime": 112.28,
+      "evidenceEndTime": 118.12,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"name\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -134,7 +133,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "of different kinds of tea. • He/she only qualifies after 5 …………….. of training. What the tea company is looking for in new staff • a degree ( 6 …………… is an advantage) • able to do 7 ………….. quickly • ability to distinguish different kinds of 8 ……………… accurately • effective 9 ………….. skills in different si",
+      "promptContext": ".. of different kinds of tea. • He/she only qualifies after",
       "answerRaw": "5 years,five years",
       "canonicalAnswer": "5 years",
       "acceptedAnswers": [
@@ -143,8 +142,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "I heard it was seven years, is that right? Well, it used to be, but we've speeded things up a bit, so now it only takes five.",
-      "evidenceStartTime": 137.31,
-      "evidenceEndTime": 146.0,
+      "evidenceStartTime": 125.64,
+      "evidenceEndTime": 133.66,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -155,7 +154,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "the tea company is looking for in new staff • a degree ( 6 …………… is an advantage) • able to do 7 ………….. quickly • ability to distinguish different kinds of 8 ……………… accurately • effective 9 ………….. skills in different situations • being prepared to 10 ……………….",
+      "promptContext": ".. of training. What the tea company is looking for in new staff • a degree (",
       "answerRaw": "science",
       "canonicalAnswer": "science",
       "acceptedAnswers": [
@@ -163,24 +162,19 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "However, it doesn't have to be a science degree, even though that's a definite bonus.",
-      "evidenceStartTime": 210.0,
-      "evidenceEndTime": 215.2,
-      "paraphrases": [
-        {
-          "questionTerm": "advantage",
-          "audioTerm": "bonus"
-        }
-      ],
+      "evidenceStartTime": 197.2,
+      "evidenceEndTime": 201.94,
+      "paraphrases": [],
       "distractors": [
         "đảo chiều thông tin bằng 'however'",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"science\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'advantage' ↔ 'bonus'. Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+      "explanationVi": "Đáp án chuẩn cần điền là \"science\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
     },
     {
       "number": 7,
       "part": 1,
-      "promptContext": "ff • a degree ( 6 …………… is an advantage) • able to do 7 ………….. quickly • ability to distinguish different kinds of 8 ……………… accurately • effective 9 ………….. skills in different situations • being prepared to 10 ……………….",
+      "promptContext": "is an advantage) • able to do",
       "answerRaw": "maths",
       "canonicalAnswer": "maths",
       "acceptedAnswers": [
@@ -188,8 +182,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Yes, you need to be able to do maths and do it fast. A lot of the job is to do with the price of tea, so that's really important.",
-      "evidenceStartTime": 221.86,
-      "evidenceEndTime": 230.0,
+      "evidenceStartTime": 209.64,
+      "evidenceEndTime": 217.7,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"maths\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -197,7 +191,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "……….. quickly • ability to distinguish different kinds of 8 ……………… accurately • effective 9 ………….. skills in different situations • being prepared to 10 ……………….",
+      "promptContext": ".. quickly • ability to distinguish different kinds of",
       "answerRaw": "tea",
       "canonicalAnswer": "tea",
       "acceptedAnswers": [
@@ -205,8 +199,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "A lot of the job is to do with the price of tea, so that's really important.",
-      "evidenceStartTime": 225.17,
-      "evidenceEndTime": 230.0,
+      "evidenceStartTime": 213.38,
+      "evidenceEndTime": 217.7,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"tea\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -214,7 +208,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "nguish different kinds of 8 ……………… accurately • effective 9 ………….. skills in different situations • being prepared to 10 ……………….",
+      "promptContext": "accurately • effective",
       "answerRaw": "communication",
       "canonicalAnswer": "communication",
       "acceptedAnswers": [
@@ -222,8 +216,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Wow, I'd never have thought about that, but it makes sense. What about other things, like how important is good communication? Essential.",
-      "evidenceStartTime": 246.17,
-      "evidenceEndTime": 255.34,
+      "evidenceStartTime": 233.44,
+      "evidenceEndTime": 243.94,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -234,7 +228,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "……….. skills in different situations • being prepared to 10 ……………….",
+      "promptContext": ".. skills in different situations • being prepared to",
       "answerRaw": "travel",
       "canonicalAnswer": "travel",
       "acceptedAnswers": [
@@ -242,8 +236,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Yes, I'd say there's no point doing this job if you don't like to travel.",
-      "evidenceStartTime": 267.07,
-      "evidenceEndTime": 272.0,
+      "evidenceStartTime": 255.66,
+      "evidenceEndTime": 259.6,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -253,7 +247,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "11–14 Choose the correct answer. Pioneer Historical Village 11 When did Pioneer Historical Village open to the public? A 1962 B 1970 C 1980 12 How much will each adult in the group pay for a ticket? A $11.00 B $12.50 C $16.00 13 What sort of demonstration will the visitors be able to watch? A an unusual approach to bakin",
+      "promptContext": "When did Pioneer Historical Village open to the public? A 1962 B 1970 C 1980",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -261,8 +255,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Hello, everyone, and welcome to Pioneer Historical Village.",
-      "evidenceStartTime": 367.0,
-      "evidenceEndTime": 370.9,
+      "evidenceStartTime": 354.38,
+      "evidenceEndTime": 358.62,
       "paraphrases": [
         {
           "questionTerm": "public",
@@ -275,16 +269,16 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "Historical Village open to the public? A 1962 B 1970 C 1980 12 How much will each adult in the group pay for a ticket? A $11.00 B $12.50 C $16.00 13 What sort of demonstration will the visitors be able to watch? A an unusual approach to baking bread B a quick way of making candles C a traditional method of making sweets",
+      "promptContext": "How much will each adult in the group pay for a ticket? A $11.00 B $12.50 C $16.00",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The village has grown somewhat since it was first opened to the public, going back a bit,",
-      "evidenceStartTime": 385.0,
-      "evidenceEndTime": 391.21,
+      "evidenceQuote": "Since there are 10 of you all together in this party, you qualify for the group discount.",
+      "evidenceStartTime": 402.78,
+      "evidenceEndTime": 408.14,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -292,33 +286,42 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": "lt in the group pay for a ticket? A $11.00 B $12.50 C $16.00 13 What sort of demonstration will the visitors be able to watch? A an unusual approach to baking bread B a quick way of making candles C a traditional method of making sweets 14 What kind of experience with animals can visitors have at Pioneer Village? A gather",
+      "promptContext": "What sort of demonstration will the visitors be able to watch? A an unusual approach to baking bread B a quick way of making candles C a traditional method of making sweets",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "In 1980 the village welcomed its first paying visitors.",
-      "evidenceStartTime": 407.0,
-      "evidenceEndTime": 410.56,
-      "paraphrases": [],
+      "evidenceQuote": "Just outside the shop we have an expert sweet maker who will be making lollipops the old-fashioned way, so do go and have a look.",
+      "evidenceStartTime": 438.08,
+      "evidenceEndTime": 447.78,
+      "paraphrases": [
+        {
+          "questionTerm": "traditional",
+          "audioTerm": "old"
+        },
+        {
+          "questionTerm": "method",
+          "audioTerm": "way"
+        }
+      ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'traditional' ↔ 'old'; 'method' ↔ 'way'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "ay of making candles C a traditional method of making sweets 14 What kind of experience with animals can visitors have at Pioneer Village? A gathering eggs B milking cows C feeding goats Questions 15–20 Label the map below. Choose the correct letter, A-K, next to questions 15-20. A B C D E F G H I J K 15 Schoolhouse 16 Mi",
+      "promptContext": "What kind of experience with animals can visitors have at Pioneer Village? A gathering eggs B milking cows C feeding goats Questions 15–20 Label the map below. Choose the correct letter, A-K, next to questions 15-20. A B C D E F G H I J K",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "In 1980 the village welcomed its first paying visitors.",
-      "evidenceStartTime": 407.0,
-      "evidenceEndTime": 410.56,
+      "evidenceQuote": "Every house kept a few for the eggs. You're welcome to have a look and see if you can find any to collect.",
+      "evidenceStartTime": 476.22,
+      "evidenceEndTime": 483.4,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -326,24 +329,26 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "letter, A-K, next to questions 15-20. A B C D E F G H I J K 15 Schoolhouse 16 Mill 17 Stables 18 Doctor's Office 19 Hotel 20 Workshop",
+      "promptContext": "K Schoolhouse",
       "answerRaw": "I",
       "canonicalAnswer": "I",
       "acceptedAnswers": [
         "I"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The schoolhouse is diagonally across from it. The mill is quite interesting.",
-      "evidenceStartTime": 578.65,
-      "evidenceEndTime": 584.0,
+      "evidenceQuote": "So, if you'd like to see the schoolhouse, that's a good first stop because it's not too far from the gate.",
+      "evidenceStartTime": 554.86,
+      "evidenceEndTime": 560.98,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"I\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"I\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "ext to questions 15-20. A B C D E F G H I J K 15 Schoolhouse 16 Mill 17 Stables 18 Doctor's Office 19 Hotel 20 Workshop",
+      "promptContext": "Schoolhouse Mill",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -351,8 +356,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The schoolhouse is diagonally across from it. The mill is quite interesting.",
-      "evidenceStartTime": 578.65,
-      "evidenceEndTime": 584.0,
+      "evidenceStartTime": 565.34,
+      "evidenceEndTime": 571.26,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -360,16 +365,16 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "uestions 15-20. A B C D E F G H I J K 15 Schoolhouse 16 Mill 17 Stables 18 Doctor's Office 19 Hotel 20 Workshop",
+      "promptContext": "Mill Stables",
       "answerRaw": "H",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
         "H"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The schoolhouse is diagonally across from it. The mill is quite interesting.",
-      "evidenceStartTime": 578.65,
-      "evidenceEndTime": 584.0,
+      "evidenceQuote": "The mill is quite interesting. That's where they ground wheat to make flour for baking.",
+      "evidenceStartTime": 569.54,
+      "evidenceEndTime": 574.78,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"H\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -377,16 +382,16 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "-20. A B C D E F G H I J K 15 Schoolhouse 16 Mill 17 Stables 18 Doctor's Office 19 Hotel 20 Workshop",
+      "promptContext": "Stables Doctor's Office",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
         "E"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The schoolhouse is diagonally across from it. The mill is quite interesting.",
-      "evidenceStartTime": 578.65,
-      "evidenceEndTime": 584.0,
+      "evidenceQuote": "To get an idea of what it was like, you might like to visit the doctor's office.",
+      "evidenceStartTime": 604.98,
+      "evidenceEndTime": 610.12,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -394,16 +399,16 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": "H I J K 15 Schoolhouse 16 Mill 17 Stables 18 Doctor's Office 19 Hotel 20 Workshop",
+      "promptContext": "Doctor's Office Hotel",
       "answerRaw": "F",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
         "F"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "To get an idea of what it was like, you might like to visit the doctor's office.",
-      "evidenceStartTime": 617.52,
-      "evidenceEndTime": 622.2,
+      "evidenceQuote": "There's even an old hotel. Go up past the picnic area and the hotel is on the opposite side of the path, near the pond.",
+      "evidenceStartTime": 618.36,
+      "evidenceEndTime": 627.44,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"F\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -411,16 +416,16 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "5 Schoolhouse 16 Mill 17 Stables 18 Doctor's Office 19 Hotel 20 Workshop",
+      "promptContext": "Hotel Workshop",
       "answerRaw": "J",
       "canonicalAnswer": "J",
       "acceptedAnswers": [
         "J"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "To get an idea of what it was like, you might like to visit the doctor's office.",
-      "evidenceStartTime": 617.52,
-      "evidenceEndTime": 622.2,
+      "evidenceQuote": "Go up past the picnic area and the hotel is on the opposite side of the path, near the pond.",
+      "evidenceStartTime": 621.16,
+      "evidenceEndTime": 627.44,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"J\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -428,7 +433,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "questions 21–30 Questions 21–22 Choose TWO correct answers. 21-22 Which TWO things do Annie and Ryan agree are surprising about people's behaviour and attitudes to waste disposal? A People like to be reminded about what to recycle. B People often forget what is dangerous. C People are prepared to pay more for safer products",
+      "promptContext": "Which TWO things do Annie and Ryan agree are surprising about people's behaviour and attitudes to waste disposal? A People like to be reminded about what to recycle. B People often forget what is dangerous. C People are prepared to pay more for safer products. D People recycle cheap items less often than expensive ones. E People think waste disposal is boring. Questions 23–24 Choose TWO correct answers.",
       "answerRaw": "B, E",
       "canonicalAnswer": "B, E",
       "acceptedAnswers": [
@@ -446,17 +451,19 @@
           "E"
         ]
       },
-      "evidenceQuote": "You will hear two environmental study students, called Annie and Ryan, discussing with their tutor a presentation they will give on disposing of dangerous household waste products.",
-      "evidenceStartTime": 684.0,
-      "evidenceEndTime": 685.0,
+      "evidenceQuote": "but also less obvious items like electrical equipment, which are potentially really polluting as well. The research basically involved interviews, trying to find out what influenced the methods people use to get rid of their dangerous waste.",
+      "evidenceStartTime": 725.56,
+      "evidenceEndTime": 741.78,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Which TWO things do Annie and Ryan agree are surprising about people's behaviour and attitudes to waste disposal? A People like to be reminded about what to recycle. B People often forget what is dangerous. C People are prepared to pay more for safer products. D People recycle cheap items less often than expensive ones. E People think waste disposal is boring. Questions 23–24 Choose TWO correct answers.",
       "answerRaw": "B, E",
       "canonicalAnswer": "B, E",
       "acceptedAnswers": [
@@ -474,9 +481,9 @@
           "E"
         ]
       },
-      "evidenceQuote": "but also less obvious items like electrical equipment, which are potentially really polluting as well.",
-      "evidenceStartTime": 738.66,
-      "evidenceEndTime": 745.18,
+      "evidenceQuote": "but also less obvious items like electrical equipment, which are potentially really polluting as well. The research basically involved interviews, trying to find out what influenced the methods people use to get rid of their dangerous waste.",
+      "evidenceStartTime": 725.56,
+      "evidenceEndTime": 741.78,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -486,7 +493,7 @@
     {
       "number": 23,
       "part": 3,
-      "promptContext": "posal is boring. Questions 23–24 Choose TWO correct answers. 23-24 Which TWO things does Annie think will improve recycling rates in the local area? A giving people financial rewards for recycling B giving a fine to households which don't recycle C involving children in more schemes D passing laws which require local council",
+      "promptContext": "Which TWO things does Annie think will improve recycling rates in the local area? A giving people financial rewards for recycling B giving a fine to households which don't recycle C involving children in more schemes D passing laws which require local councils to recycle more E having more research on people's current habits Questions 25–30 What advice do Ryan and Annie agree should be given about each of the following types of waste? Choose SIX correct answers, A-H, next to questions 25-30. Advice Types of waste paint",
       "answerRaw": "B, C",
       "canonicalAnswer": "B, C",
       "acceptedAnswers": [
@@ -505,18 +512,23 @@
         ]
       },
       "evidenceQuote": "But were there any positives? Hope for the future? Well, in the conclusions section of the article, they talked about ways to improve recycling rates in the local area.",
-      "evidenceStartTime": 815.0,
-      "evidenceEndTime": 826.58,
-      "paraphrases": [],
+      "evidenceStartTime": 802.28,
+      "evidenceEndTime": 814.48,
+      "paraphrases": [
+        {
+          "questionTerm": "next",
+          "audioTerm": "future"
+        }
+      ],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'next' ↔ 'future'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Which TWO things does Annie think will improve recycling rates in the local area? A giving people financial rewards for recycling B giving a fine to households which don't recycle C involving children in more schemes D passing laws which require local councils to recycle more E having more research on people's current habits Questions 25–30 What advice do Ryan and Annie agree should be given about each of the following types of waste? Choose SIX correct answers, A-H, next to questions 25-30. Advice Types of waste paint",
       "answerRaw": "B, C",
       "canonicalAnswer": "B, C",
       "acceptedAnswers": [
@@ -535,18 +547,23 @@
         ]
       },
       "evidenceQuote": "But were there any positives? Hope for the future? Well, in the conclusions section of the article, they talked about ways to improve recycling rates in the local area.",
-      "evidenceStartTime": 815.0,
-      "evidenceEndTime": 826.58,
-      "paraphrases": [],
+      "evidenceStartTime": 802.28,
+      "evidenceEndTime": 814.48,
+      "paraphrases": [
+        {
+          "questionTerm": "next",
+          "audioTerm": "future"
+        }
+      ],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'next' ↔ 'future'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "s, A-H, next to questions 25-30. Advice Types of waste paint 25 ………….. batteries 26 ………… some medicines 27 ………. pesticides 28 ………… tyres 29 …………. fridges 30 ………….. A should be disposed of more regularly B should have better labelling C should normally be used up completely D should be saved for later disposal E shoul",
+      "promptContext": "paint",
       "answerRaw": "E should be made available for others' use",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -555,9 +572,9 @@
         "should be made available for others' use"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And I think we should emphasise that people should have a storage container at home where they can put them until they've got enough to take to a central collection facility because they're full of toxic substances.",
-      "evidenceStartTime": 970.93,
-      "evidenceEndTime": 985.0,
+      "evidenceQuote": "where you can take it to a centre to be used by people who need it, repainting an elderly person's home, for example, like they do in many parts of the world.",
+      "evidenceStartTime": 935.62,
+      "evidenceEndTime": 945.64,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án E should be made available for others' use. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -565,7 +582,7 @@
     {
       "number": 26,
       "part": 3,
-      "promptContext": "tions 25-30. Advice Types of waste paint 25 ………….. batteries 26 ………… some medicines 27 ………. pesticides 28 ………… tyres 29 …………. fridges 30 ………….. A should be disposed of more regularly B should have better labelling C should normally be used up completely D should be saved for later disposal E should be made available",
+      "promptContext": ".. batteries",
       "answerRaw": "D should be saved for later disposal",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -574,9 +591,9 @@
         "should be saved for later disposal"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And I think we should emphasise that people should have a storage container at home where they can put them until they've got enough to take to a central collection facility because they're full of toxic substances.",
-      "evidenceStartTime": 970.93,
-      "evidenceEndTime": 985.0,
+      "evidenceQuote": "And I think we should emphasise that people should have a storage container at home",
+      "evidenceStartTime": 959.04,
+      "evidenceEndTime": 964.62,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án D should be saved for later disposal. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -584,7 +601,7 @@
     {
       "number": 27,
       "part": 3,
-      "promptContext": "es of waste paint 25 ………….. batteries 26 ………… some medicines 27 ………. pesticides 28 ………… tyres 29 …………. fridges 30 ………….. A should be disposed of more regularly B should have better labelling C should normally be used up completely D should be saved for later disposal E should be made available for others' use F shou",
+      "promptContext": "some medicines",
       "answerRaw": "C should normally be used up completely",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -593,17 +610,19 @@
         "should normally be used up completely"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And I think we should emphasise that people should have a storage container at home where they can put them until they've got enough to take to a central collection facility because they're full of toxic substances.",
-      "evidenceStartTime": 970.93,
-      "evidenceEndTime": 985.0,
+      "evidenceQuote": "The point we want to make is that, as a rule, things like antibiotics should not need to be thrown away in the first place",
+      "evidenceStartTime": 981.04,
+      "evidenceEndTime": 989.7,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án C should normally be used up completely. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án C should normally be used up completely. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "5 ………….. batteries 26 ………… some medicines 27 ………. pesticides 28 ………… tyres 29 …………. fridges 30 ………….. A should be disposed of more regularly B should have better labelling C should normally be used up completely D should be saved for later disposal E should be made available for others' use F should be repaired rath",
+      "promptContext": ". pesticides",
       "answerRaw": "B should have better labelling",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -612,19 +631,17 @@
         "should have better labelling"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The point we want to make is that, as a rule, things like antibiotics should not need to be thrown away in the first place because doctors usually tell us we should finish off the whole course of tablets.",
-      "evidenceStartTime": 994.0,
-      "evidenceEndTime": 1006.99,
+      "evidenceQuote": "because doctors usually tell us we should finish off the whole course of tablets.",
+      "evidenceStartTime": 989.7,
+      "evidenceEndTime": 994.44,
       "paraphrases": [],
-      "distractors": [
-        "câu phủ định ('not') loại trừ phương án bẫy"
-      ],
-      "explanationVi": "Đáp án đúng là phương án B should have better labelling. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án B should have better labelling. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": "ries 26 ………… some medicines 27 ………. pesticides 28 ………… tyres 29 …………. fridges 30 ………….. A should be disposed of more regularly B should have better labelling C should normally be used up completely D should be saved for later disposal E should be made available for others' use F should be repaired rather than thrown",
+      "promptContext": "tyres",
       "answerRaw": "H should be retained and used for different purposes",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -633,19 +650,20 @@
         "should be retained and used for different purposes"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Rather than sending them to the dump, people should be encouraged to be creative with them.",
-      "evidenceStartTime": 1030.3,
-      "evidenceEndTime": 1036.29,
+      "evidenceQuote": "We thought we'd also look at tyres. Rather than sending them to the dump, people should be encouraged to be creative with them.",
+      "evidenceStartTime": 1014.72,
+      "evidenceEndTime": 1023.04,
       "paraphrases": [],
       "distractors": [
-        "loại trừ phương án đối chiếu ('rather than')"
+        "loại trừ phương án đối chiếu ('rather than')",
+        "suy đoán ban đầu ('thought') khác với thực tế"
       ],
       "explanationVi": "Đáp án đúng là phương án H should be retained and used for different purposes. Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "medicines 27 ………. pesticides 28 ………… tyres 29 …………. fridges 30 ………….. A should be disposed of more regularly B should have better labelling C should normally be used up completely D should be saved for later disposal E should be made available for others' use F should be repaired rather than thrown away G should b",
+      "promptContext": "………….. A should be disposed of more regularly B should have better labelling C should normally be used up completely D should be saved for later disposal E should be made available for others' use F should be repaired rather than thrown away G should be further modified to be made less harmful H should be retained and used for different purposes",
       "answerRaw": "G should be further modified to be made less harmful",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -655,8 +673,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Rather than sending them to the dump, people should be encouraged to be creative with them.",
-      "evidenceStartTime": 1030.3,
-      "evidenceEndTime": 1036.29,
+      "evidenceStartTime": 1017.72,
+      "evidenceEndTime": 1023.04,
       "paraphrases": [],
       "distractors": [
         "loại trừ phương án đối chiếu ('rather than')"
@@ -666,7 +684,7 @@
     {
       "number": 31,
       "part": 4,
-      "promptContext": "on plankton and krill. - Differences: They stay near the 31 ………… and they lack any actual 32 …………. . • A large number head to the waters off Ningaloo, Western Australia, each year. • The coral reef, where the whale sharks feed, is unusually close to the 33 …………. . Research centre activities • Existing me",
+      "promptContext": "- Differences: They stay near the",
       "answerRaw": "surface",
       "canonicalAnswer": "surface",
       "acceptedAnswers": [
@@ -674,8 +692,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Unlike many whale species, they prefer to swim close to the surface of the water rather than cruising the depths of the ocean.",
-      "evidenceStartTime": 1203.65,
-      "evidenceEndTime": 1212.0,
+      "evidenceStartTime": 1192.54,
+      "evidenceEndTime": 1200.08,
       "paraphrases": [
         {
           "questionTerm": "near",
@@ -690,7 +708,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "rences: They stay near the 31 ………… and they lack any actual 32 …………. . • A large number head to the waters off Ningaloo, Western Australia, each year. • The coral reef, where the whale sharks feed, is unusually close to the 33 …………. . Research centre activities • Existing methods of monitoring whale sharks a",
+      "promptContext": "and they lack any actual",
       "answerRaw": "bones",
       "canonicalAnswer": "bones",
       "acceptedAnswers": [
@@ -698,8 +716,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Their skeleton is made entirely of cartilage, in comparison to whales that have skeletons made of real bones.",
-      "evidenceStartTime": 1219.63,
-      "evidenceEndTime": 1227.0,
+      "evidenceStartTime": 1206.48,
+      "evidenceEndTime": 1214.7,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"bones\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -707,7 +725,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "reef, where the whale sharks feed, is unusually close to the 33 …………. . Research centre activities • Existing methods of monitoring whale sharks are imperfect: - tracking devices attached to the whale shark's 34 ………… (these are expensive and unreliable) - from a 35 ………… (this is imprecise) • New research p",
+      "promptContext": ". . • A large number head to the waters off Ningaloo, Western Australia, each year. • The coral reef, where the whale sharks feed, is unusually close to the",
       "answerRaw": "shore",
       "canonicalAnswer": "shore",
       "acceptedAnswers": [
@@ -715,8 +733,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "It's great for divers too, because although it's in relatively deep waters, the reef is in close proximity to the shore,",
-      "evidenceStartTime": 1248.0,
-      "evidenceEndTime": 1256.15,
+      "evidenceStartTime": 1235.58,
+      "evidenceEndTime": 1243.7,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"shore\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -724,7 +742,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "perfect: - tracking devices attached to the whale shark's 34 ………… (these are expensive and unreliable) - from a 35 ………… (this is imprecise) • New research project on whale shark feeding habits: - Analysis of plankton shows different amounts of 36 ……… varieties. - Researchers are comparing plankton data us",
+      "promptContext": ". . Research centre activities • Existing methods of monitoring whale sharks are imperfect: - tracking devices attached to the whale shark's",
       "answerRaw": "fin",
       "canonicalAnswer": "fin",
       "acceptedAnswers": [
@@ -732,8 +750,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "One way is to use an electronic tracking device, or tag, which researchers have to attach manually to the fin.",
-      "evidenceStartTime": 1278.68,
-      "evidenceEndTime": 1286.59,
+      "evidenceStartTime": 1266.22,
+      "evidenceEndTime": 1273.5,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"fin\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -741,7 +759,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "'s 34 ………… (these are expensive and unreliable) - from a 35 ………… (this is imprecise) • New research project on whale shark feeding habits: - Analysis of plankton shows different amounts of 36 ……… varieties. - Researchers are comparing plankton data using special maps. • Study on the impact of humans on wh",
+      "promptContext": "(these are expensive and unreliable) - from a",
       "answerRaw": "drone",
       "canonicalAnswer": "drone",
       "acceptedAnswers": [
@@ -749,8 +767,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Another way of monitoring whale sharks is with a special drone to spot the animals in the ocean.",
-      "evidenceStartTime": 1294.0,
-      "evidenceEndTime": 1300.54,
+      "evidenceStartTime": 1281.84,
+      "evidenceEndTime": 1287.96,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"drone\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -758,7 +776,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "habits: - Analysis of plankton shows different amounts of 36 ……… varieties. - Researchers are comparing plankton data using special maps. • Study on the impact of humans on whale shark behaviour: noise caused whale sharks to 37 …………. • Community outreach programme - The whale shark race: - A mature whale is",
+      "promptContext": "(this is imprecise) • New research project on whale shark feeding habits: - Analysis of plankton shows different amounts of",
       "answerRaw": "carbon",
       "canonicalAnswer": "carbon",
       "acceptedAnswers": [
@@ -766,8 +784,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Apparently, plankton from different places contains different quantities of carbon types.",
-      "evidenceStartTime": 1325.6,
-      "evidenceEndTime": 1331.0,
+      "evidenceStartTime": 1313.48,
+      "evidenceEndTime": 1318.98,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"carbon\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -775,7 +793,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "umans on whale shark behaviour: noise caused whale sharks to 37 …………. • Community outreach programme - The whale shark race: - A mature whale is tagged and assigned to a 38 ……….. to follow. - Results are displayed on the research centre website. Conservation and management • Record any 39 ……. to whale sharks i",
+      "promptContext": "varieties. - Researchers are comparing plankton data using special maps. • Study on the impact of humans on whale shark behaviour: noise caused whale sharks to",
       "answerRaw": "dive",
       "canonicalAnswer": "dive",
       "acceptedAnswers": [
@@ -783,8 +801,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "As soon as it heard the sound, we saw it dive. This happened on several occasions and was quite obvious.",
-      "evidenceStartTime": 1376.0,
-      "evidenceEndTime": 1383.12,
+      "evidenceStartTime": 1363.46,
+      "evidenceEndTime": 1371.34,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"dive\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -792,7 +810,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "shark race: - A mature whale is tagged and assigned to a 38 ……….. to follow. - Results are displayed on the research centre website. Conservation and management • Record any 39 ……. to whale sharks in photo-identification libraries. • Ban scuba activities as whale sharks are affected by the 40 …………… the activi",
+      "promptContext": ". • Community outreach programme - The whale shark race: - A mature whale is tagged and assigned to a",
       "answerRaw": "school",
       "canonicalAnswer": "school",
       "acceptedAnswers": [
@@ -800,8 +818,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The researchers select a mature whale shark which has been tagged and they allocate it to a school.",
-      "evidenceStartTime": 1394.46,
-      "evidenceEndTime": 1400.26,
+      "evidenceStartTime": 1381.98,
+      "evidenceEndTime": 1388.12,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"school\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -809,16 +827,16 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "centre website. Conservation and management • Record any 39 ……. to whale sharks in photo-identification libraries. • Ban scuba activities as whale sharks are affected by the 40 …………… the activities produce.",
+      "promptContext": ".. to follow. - Results are displayed on the research centre website. Conservation and management • Record any",
       "answerRaw": "injuries",
       "canonicalAnswer": "injuries",
       "acceptedAnswers": [
         "injuries"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "While these events may be rare, all injuries which whale sharks suffer must be documented,",
-      "evidenceStartTime": 1421.0,
-      "evidenceEndTime": 1426.74,
+      "evidenceQuote": "While these events may be rare, all injuries which whale sharks suffer must be documented, with information such as date",
+      "evidenceStartTime": 1407.7,
+      "evidenceEndTime": 1415.74,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"injuries\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -826,7 +844,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "Ban scuba activities as whale sharks are affected by the 40 …………… the activities produce.",
+      "promptContext": ". to whale sharks in photo-identification libraries. • Ban scuba activities as whale sharks are affected by the",
       "answerRaw": "bubbles",
       "canonicalAnswer": "bubbles",
       "acceptedAnswers": [
@@ -834,8 +852,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Scuba diving is not going to be allowed anymore, as previous research has found that whale sharks find bubbles disturbing.",
-      "evidenceStartTime": 1448.52,
-      "evidenceEndTime": 1457.99,
+      "evidenceStartTime": 1434.58,
+      "evidenceEndTime": 1441.98,
       "paraphrases": [],
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
@@ -847,1899 +865,1746 @@
     {
       "id": "seg-001",
       "part": 1,
-      "startTime": 0.0,
-      "endTime": 13.4,
-      "text": "You will hear a student at a job fair talking to a man who works as a professional tea taster.",
+      "startTime": 31.44,
+      "endTime": 32.7,
+      "text": "Hello, can I help you?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-002",
       "part": 1,
-      "startTime": 13.4,
-      "endTime": 20.95,
-      "text": "First you have some time to look at questions 1 to 5.",
+      "startTime": 33.0,
+      "endTime": 39.18,
+      "text": "Hi, I'm still a student but I've done a bit of research into the tea company you work for",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-003",
       "part": 1,
-      "startTime": 20.95,
-      "endTime": 27.93,
-      "text": "Now listen carefully and answer questions 1 to 5.",
+      "startTime": 39.38,
+      "endTime": 43.86,
+      "text": "and I have a few questions about the tea tasters jobs you have advertised.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-004",
       "part": 1,
-      "startTime": 27.93,
-      "endTime": 31.07,
-      "text": "Hello, can I help you?",
+      "startTime": 44.02,
+      "endTime": 46.24,
+      "text": "Well, that's actually what I do.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-005",
       "part": 1,
-      "startTime": 31.07,
-      "endTime": 54.44,
-      "text": "Hi, I'm still a student but I've done a bit of research into the tea company you work for and I have a few questions about the tea tasters jobs you have advertised.",
+      "startTime": 46.36,
+      "endTime": 52.24,
+      "text": "Would you like me to tell you a bit about what it's like being a trainee tea taster? Yes, please.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-006",
       "part": 1,
-      "startTime": 54.44,
-      "endTime": 59.0,
-      "text": "Well, that's actually what I do.",
+      "startTime": 52.5,
+      "endTime": 57.78,
+      "text": "Well, initially, even though there's some time spent in meetings at our office, a",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-007",
       "part": 1,
-      "startTime": 59.0,
-      "endTime": 65.01,
-      "text": "Would you like me to tell you a bit about what it's like being a trainee tea taster?",
+      "startTime": 57.78,
+      "endTime": 64.5,
+      "text": "trainee is based in our lab for most of their time being trained how to do the tasting. Right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-008",
       "part": 1,
-      "startTime": 65.01,
-      "endTime": 71.59,
-      "text": "Yes, please. Well, initially, even though there's some time spent in meetings at our office,",
+      "startTime": 64.9,
+      "endTime": 68.4,
+      "text": "How do you actually learn how to taste tea?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-009",
       "part": 1,
-      "startTime": 71.59,
-      "endTime": 77.96,
-      "text": "a trainee is based in our lab for most of their time being trained how to do the tasting.",
+      "startTime": 68.58,
+      "endTime": 70.86,
+      "text": "Do you use a special kind of cup?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-010",
       "part": 1,
-      "startTime": 77.96,
-      "endTime": 83.97,
-      "text": "Right. How do you actually learn how to taste tea? Do you use a special kind of cup?",
+      "startTime": 71.18,
+      "endTime": 79.16,
+      "text": "No, rather than that or even a glass to do the tasting, we sip it from a spoon. Ah, OK.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-011",
       "part": 1,
-      "startTime": 83.97,
-      "endTime": 90.19,
-      "text": "No, rather than that or even a glass to do the tasting, we sip it from a spoon. Ah, OK.",
+      "startTime": 79.56,
+      "endTime": 82.58,
+      "text": "And what other kind of things will I need to learn?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-012",
       "part": 1,
-      "startTime": 90.19,
-      "endTime": 93.84,
-      "text": "And what other kind of things will I need to learn?",
+      "startTime": 82.58,
+      "endTime": 92.52,
+      "text": "Well, there are many different qualities of tea, so one of the most important things is to learn how to decide which grade should be assigned to each sample.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-013",
       "part": 1,
-      "startTime": 93.84,
-      "endTime": 97.27,
-      "text": "Well, there are many different qualities of tea,",
+      "startTime": 92.74,
+      "endTime": 94.9,
+      "text": "That's a very important part of the job.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-014",
       "part": 1,
-      "startTime": 97.27,
-      "endTime": 105.0,
-      "text": "so one of the most important things is to learn how to decide which grade should be assigned to each sample.",
+      "startTime": 95.2,
+      "endTime": 97.12,
+      "text": "Yes, I can see why.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-015",
       "part": 1,
-      "startTime": 106.0,
-      "endTime": 109.67,
-      "text": "That's a very important part of the job. Yes, I can see why.",
+      "startTime": 97.26,
+      "endTime": 102.86,
+      "text": "And then another important thing to learn is how to choose the right leaf for tea bags.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-016",
       "part": 1,
-      "startTime": 109.67,
-      "endTime": 115.0,
-      "text": "And then another important thing to learn is how to choose the right leaf for tea bags.",
+      "startTime": 103.22,
+      "endTime": 106.98,
+      "text": "Shape isn't nearly as important as the size in that case.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-017",
       "part": 1,
-      "startTime": 116.0,
-      "endTime": 120.01,
-      "text": "Shape isn't nearly as important as the size in that case.",
+      "startTime": 107.22,
+      "endTime": 111.7,
+      "text": "Gosh, I'd never really thought about what goes into a tea bag.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-018",
       "part": 1,
-      "startTime": 120.01,
-      "endTime": 124.38,
-      "text": "Gosh, I'd never really thought about what goes into a tea bag.",
+      "startTime": 112.28,
+      "endTime": 115.08,
+      "text": "So do all of the teas have their own name?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-019",
       "part": 1,
-      "startTime": 124.38,
-      "endTime": 131.0,
-      "text": "So do all of the teas have their own name? Yes, that's another important part of the training.",
+      "startTime": 115.42,
+      "endTime": 118.12,
+      "text": "Yes, that's another important part of the training.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-020",
       "part": 1,
-      "startTime": 131.0,
-      "endTime": 137.31,
-      "text": "It took me ages before I remembered them all. I can imagine. So how long before I qualify?",
+      "startTime": 118.3,
+      "endTime": 122.42,
+      "text": "It took me ages before I remembered them all. I can imagine.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-021",
       "part": 1,
-      "startTime": 137.31,
-      "endTime": 140.25,
-      "text": "I heard it was seven years, is that right?",
+      "startTime": 123.16,
+      "endTime": 125.56,
+      "text": "So how long before I qualify?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-022",
       "part": 1,
-      "startTime": 140.25,
-      "endTime": 146.0,
-      "text": "Well, it used to be, but we've speeded things up a bit, so now it only takes five.",
+      "startTime": 125.64,
+      "endTime": 128.3,
+      "text": "I heard it was seven years, is that right?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-023",
       "part": 1,
-      "startTime": 147.0,
-      "endTime": 153.96,
-      "text": "That's two years less than before, which is quite significant, really. Right, I see.",
+      "startTime": 128.56,
+      "endTime": 133.66,
+      "text": "Well, it used to be, but we've speeded things up a bit, so now it only takes five.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-024",
       "part": 1,
-      "startTime": 153.96,
-      "endTime": 162.0,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions six to ten.",
+      "startTime": 134.08,
+      "endTime": 140.12,
+      "text": "That's two years less than before, which is quite significant, really. Right, I see.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-025",
       "part": 1,
-      "startTime": 187.0,
-      "endTime": 190.51,
-      "text": "Now listen and answer questions six to ten.",
+      "startTime": 180.6,
+      "endTime": 188.52,
+      "text": "The job sounds really interesting, but what I'd like to know before applying is what kind of person you're looking for.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-026",
       "part": 1,
-      "startTime": 190.51,
-      "endTime": 200.24,
-      "text": "The job sounds really interesting, but what I'd like to know before applying is what kind of person you're looking for.",
+      "startTime": 188.84,
+      "endTime": 191.98,
+      "text": "That way I can see whether I'll be a good fit.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-027",
       "part": 1,
-      "startTime": 200.24,
-      "endTime": 204.0,
-      "text": "That way I can see whether I'll be a good fit.",
+      "startTime": 191.98,
+      "endTime": 196.96,
+      "text": "Well, you need to have a degree. Well, that's fine. I'm just finishing mine.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-028",
       "part": 1,
-      "startTime": 205.0,
-      "endTime": 210.0,
-      "text": "Well, you need to have a degree. Well, that's fine. I'm just finishing mine.",
+      "startTime": 197.2,
+      "endTime": 201.94,
+      "text": "However, it doesn't have to be a science degree, even though that's a definite bonus.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-029",
       "part": 1,
-      "startTime": 210.0,
-      "endTime": 215.2,
-      "text": "However, it doesn't have to be a science degree, even though that's a definite bonus.",
+      "startTime": 202.16,
+      "endTime": 209.38,
+      "text": "My degree was in history, for example. I'm studying languages. Yes, that'll be fine. Is there anything else?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-030",
       "part": 1,
-      "startTime": 215.2,
-      "endTime": 219.0,
-      "text": "My degree was in history, for example. I'm studying languages.",
+      "startTime": 209.64,
+      "endTime": 213.32,
+      "text": "Yes, you need to be able to do maths and do it fast.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-031",
       "part": 1,
-      "startTime": 219.0,
-      "endTime": 221.86,
-      "text": "Yes, that'll be fine. Is there anything else?",
+      "startTime": 213.38,
+      "endTime": 217.7,
+      "text": "A lot of the job is to do with the price of tea, so that's really important.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-032",
       "part": 1,
-      "startTime": 221.86,
-      "endTime": 225.17,
-      "text": "Yes, you need to be able to do maths and do it fast.",
+      "startTime": 218.02,
+      "endTime": 219.86,
+      "text": "OK, that makes sense.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-033",
       "part": 1,
-      "startTime": 225.17,
-      "endTime": 230.0,
-      "text": "A lot of the job is to do with the price of tea, so that's really important.",
+      "startTime": 219.86,
+      "endTime": 224.24,
+      "text": "And this might seem unusual, but you'll have your sight tested.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-034",
       "part": 1,
-      "startTime": 231.0,
-      "endTime": 236.28,
-      "text": "OK, that makes sense. And this might seem unusual, but you'll have your sight tested.",
+      "startTime": 224.5,
+      "endTime": 230.36,
+      "text": "We're not worried about whether you need glasses or not, that's fine, but you have to see colour accurately.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-035",
       "part": 1,
-      "startTime": 236.28,
-      "endTime": 243.0,
-      "text": "We're not worried about whether you need glasses or not, that's fine, but you have to see colour accurately.",
+      "startTime": 230.58,
+      "endTime": 233.12,
+      "text": "It's very important when looking at tea leaves.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-036",
       "part": 1,
-      "startTime": 243.0,
-      "endTime": 246.17,
-      "text": "It's very important when looking at tea leaves.",
+      "startTime": 233.44,
+      "endTime": 237.86,
+      "text": "Wow, I'd never have thought about that, but it makes sense.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-037",
       "part": 1,
-      "startTime": 246.17,
-      "endTime": 250.15,
-      "text": "Wow, I'd never have thought about that, but it makes sense.",
+      "startTime": 238.26,
+      "endTime": 243.94,
+      "text": "What about other things, like how important is good communication? Essential.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-038",
       "part": 1,
-      "startTime": 250.15,
-      "endTime": 255.34,
-      "text": "What about other things, like how important is good communication? Essential.",
+      "startTime": 244.14,
+      "endTime": 251.18,
+      "text": "You'll need to be highly skilled at that, as you'll meet such varied people in this job, everyone from farmers to buyers.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-039",
       "part": 1,
-      "startTime": 255.34,
-      "endTime": 263.5,
-      "text": "You'll need to be highly skilled at that, as you'll meet such varied people in this job, everyone from farmers to buyers.",
+      "startTime": 251.6,
+      "endTime": 255.32,
+      "text": "OK, I've noted that. Anything else I should remember?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-040",
       "part": 1,
-      "startTime": 263.5,
-      "endTime": 267.07,
-      "text": "OK, I've noted that. Anything else I should remember?",
+      "startTime": 255.66,
+      "endTime": 259.6,
+      "text": "Yes, I'd say there's no point doing this job if you don't like to travel.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-041",
       "part": 1,
-      "startTime": 267.07,
-      "endTime": 272.0,
-      "text": "Yes, I'd say there's no point doing this job if you don't like to travel.",
+      "startTime": 259.72,
+      "endTime": 266.98,
+      "text": "You'll be living out of a suitcase for a while, so if you're not worried about spending time abroad, for example, that'll work in your favour.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-042",
       "part": 1,
-      "startTime": 273.0,
-      "endTime": 281.23,
-      "text": "You'll be living out of a suitcase for a while, so if you're not worried about spending time abroad, for example, that'll work in your favour.",
+      "startTime": 267.6,
+      "endTime": 271.24,
+      "text": "OK, well, thanks for all the information.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-043",
       "part": 1,
-      "startTime": 281.23,
-      "endTime": 285.0,
-      "text": "OK, well, thanks for all the information. You've been so helpful.",
+      "startTime": 271.24,
+      "endTime": 275.88,
+      "text": "You've been so helpful.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-044",
-      "part": 1,
-      "startTime": 289.0,
-      "endTime": 312.46,
-      "text": "That is the end of Part 1.",
+      "part": 2,
+      "startTime": 354.38,
+      "endTime": 358.62,
+      "text": "Hello, everyone, and welcome to Pioneer Historical Village.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-045",
-      "part": 1,
-      "startTime": 312.46,
-      "endTime": 363.0,
-      "text": "You now have one minute to check your answers to Part 1.",
+      "part": 2,
+      "startTime": 358.76,
+      "endTime": 364.46,
+      "text": "It's an outdoor park recreated to look just like a village from the mid-19th century.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-046",
       "part": 2,
-      "startTime": 363.0,
-      "endTime": 364.76,
-      "text": "You will hear a guide talking to a group of visitors to Pioneer Historical Village.",
+      "startTime": 364.86,
+      "endTime": 372.04,
+      "text": "Visitors can wander through the village, look inside the houses, and get a feel for what life was like back then.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-047",
       "part": 2,
-      "startTime": 364.76,
-      "endTime": 365.92,
-      "text": "First you have some time to look at questions 11 to 14.",
+      "startTime": 372.54,
+      "endTime": 377.68,
+      "text": "The village has grown somewhat since it was first opened to the public, going back a bit,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-048",
       "part": 2,
-      "startTime": 365.92,
-      "endTime": 367.0,
-      "text": "Now listen carefully and answer questions 11 to 14.",
+      "startTime": 377.88,
+      "endTime": 385.18,
+      "text": "in 1962 a committee was formed in the hope of preserving some of the local history.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-049",
       "part": 2,
-      "startTime": 367.0,
-      "endTime": 370.9,
-      "text": "Hello, everyone, and welcome to Pioneer Historical Village.",
+      "startTime": 385.42,
+      "endTime": 388.56,
+      "text": "Many years of planning and fundraising followed.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-050",
       "part": 2,
-      "startTime": 370.9,
-      "endTime": 376.52,
-      "text": "It's an outdoor park recreated to look just like a village from the mid-19th century.",
+      "startTime": 388.56,
+      "endTime": 393.9,
+      "text": "Volunteers worked throughout the 1970s to restore and move buildings to the site.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-051",
       "part": 2,
-      "startTime": 376.52,
-      "endTime": 384.0,
-      "text": "Visitors can wander through the village, look inside the houses, and get a feel for what life was like back then.",
+      "startTime": 394.06,
+      "endTime": 398.56,
+      "text": "In 1980 the village welcomed its first paying visitors.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-052",
       "part": 2,
-      "startTime": 385.0,
-      "endTime": 391.21,
-      "text": "The village has grown somewhat since it was first opened to the public, going back a bit,",
+      "startTime": 399.04,
+      "endTime": 401.98,
+      "text": "We'll go in now, and I'll help you purchase your tickets.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-053",
       "part": 2,
-      "startTime": 391.21,
-      "endTime": 397.0,
-      "text": "in 1962 a committee was formed in the hope of preserving some of the local history.",
+      "startTime": 402.78,
+      "endTime": 408.14,
+      "text": "Since there are 10 of you all together in this party, you qualify for the group discount.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-054",
       "part": 2,
-      "startTime": 397.0,
-      "endTime": 400.35,
-      "text": "Many years of planning and fundraising followed.",
+      "startTime": 408.26,
+      "endTime": 414.8,
+      "text": "The normal price of admission is $16 for adults and $12.50 for students and seniors,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-055",
       "part": 2,
-      "startTime": 400.35,
-      "endTime": 406.0,
-      "text": "Volunteers worked throughout the 1970s to restore and move buildings to the site.",
+      "startTime": 414.96,
+      "endTime": 421.86,
+      "text": "but it'll only be $11 per person for all of you today, which is quite a saving.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-056",
       "part": 2,
-      "startTime": 407.0,
-      "endTime": 410.56,
-      "text": "In 1980 the village welcomed its first paying visitors.",
+      "startTime": 422.86,
+      "endTime": 425.98,
+      "text": "Sometimes we have shows and demonstrations.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-057",
       "part": 2,
-      "startTime": 410.56,
-      "endTime": 414.25,
-      "text": "We'll go in now, and I'll help you purchase your tickets.",
+      "startTime": 426.38,
+      "endTime": 434.18,
+      "text": "We had hoped to show you how candles are made, but the person organising it had to cancel at the last minute.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-058",
       "part": 2,
-      "startTime": 414.25,
-      "endTime": 420.0,
-      "text": "Since there are 10 of you all together in this party, you qualify for the group discount.",
+      "startTime": 434.56,
+      "endTime": 437.6,
+      "text": "You're all in for a treat of another kind though.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-059",
       "part": 2,
-      "startTime": 421.0,
-      "endTime": 427.67,
-      "text": "The normal price of admission is $16 for adults and $12.50 for students and seniors,",
+      "startTime": 438.08,
+      "endTime": 447.78,
+      "text": "Just outside the shop we have an expert sweet maker who will be making lollipops the old-fashioned way, so do go and have a look.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-060",
       "part": 2,
-      "startTime": 427.67,
-      "endTime": 433.94,
-      "text": "but it'll only be $11 per person for all of you today, which is quite a saving.",
+      "startTime": 448.4,
+      "endTime": 452.96,
+      "text": "If you want to make bread yourself, head to the bakery and have a go.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-061",
       "part": 2,
-      "startTime": 433.94,
-      "endTime": 437.35,
-      "text": "Sometimes we have shows and demonstrations.",
+      "startTime": 453.22,
+      "endTime": 457.92,
+      "text": "The space is quite small though, so no spectators please.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-062",
       "part": 2,
-      "startTime": 437.35,
-      "endTime": 446.0,
-      "text": "We had hoped to show you how candles are made, but the person organising it had to cancel at the last minute.",
+      "startTime": 458.44,
+      "endTime": 461.82,
+      "text": "You'll have a chance to interact with some farm animals today.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-063",
       "part": 2,
-      "startTime": 447.0,
-      "endTime": 450.57,
-      "text": "You're all in for a treat of another kind though.",
+      "startTime": 462.08,
+      "endTime": 470.8,
+      "text": "We used to keep cows in the dairy, but someone had to be here twice a day to milk them, and it became difficult to manage.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-064",
       "part": 2,
-      "startTime": 450.57,
-      "endTime": 459.97,
-      "text": "Just outside the shop we have an expert sweet maker who will be making lollipops the old-fashioned way, so do go and have a look.",
+      "startTime": 471.24,
+      "endTime": 475.96,
+      "text": "Chickens are everywhere though, not just on the farms.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-065",
       "part": 2,
-      "startTime": 459.97,
-      "endTime": 465.0,
-      "text": "If you want to make bread yourself, head to the bakery and have a go.",
+      "startTime": 476.22,
+      "endTime": 478.98,
+      "text": "Every house kept a few for the eggs.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-066",
       "part": 2,
-      "startTime": 465.0,
-      "endTime": 469.26,
-      "text": "The space is quite small though, so no spectators please.",
+      "startTime": 479.12,
+      "endTime": 483.4,
+      "text": "You're welcome to have a look and see if you can find any to collect.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-067",
       "part": 2,
-      "startTime": 469.26,
-      "endTime": 473.89,
-      "text": "You'll have a chance to interact with some farm animals today.",
+      "startTime": 483.8,
+      "endTime": 487.86,
+      "text": "Goats were another favourite animal, but they cause trouble too.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-068",
       "part": 2,
-      "startTime": 473.89,
-      "endTime": 483.0,
-      "text": "We used to keep cows in the dairy, but someone had to be here twice a day to milk them, and it became difficult to manage.",
+      "startTime": 487.96,
+      "endTime": 492.6,
+      "text": "They're fun to feed, but they eat everything in sight.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-069",
       "part": 2,
-      "startTime": 484.0,
-      "endTime": 490.26,
-      "text": "Chickens are everywhere though, not just on the farms. Every house kept a few for the eggs.",
+      "startTime": 493.06,
+      "endTime": 496.72,
+      "text": "The ones that we had have moved to a nearby farm.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-070",
       "part": 2,
-      "startTime": 490.26,
-      "endTime": 495.0,
-      "text": "You're welcome to have a look and see if you can find any to collect.",
+      "startTime": 542.56,
+      "endTime": 546.14,
+      "text": "Now, you'll probably want some time to explore the village.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-071",
       "part": 2,
-      "startTime": 497.0,
-      "endTime": 501.6,
-      "text": "Goats were another favourite animal, but they cause trouble too.",
+      "startTime": 546.4,
+      "endTime": 549.74,
+      "text": "Please open your maps and we'll have a look at the layout.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-072",
       "part": 2,
-      "startTime": 501.6,
-      "endTime": 505.48,
-      "text": "They're fun to feed, but they eat everything in sight.",
+      "startTime": 550.98,
+      "endTime": 554.86,
+      "text": "We'll enter through the main gate, which is at the bottom of your map.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-073",
       "part": 2,
-      "startTime": 505.48,
-      "endTime": 509.0,
-      "text": "The ones that we had have moved to a nearby farm.",
+      "startTime": 554.86,
+      "endTime": 560.98,
+      "text": "So, if you'd like to see the schoolhouse, that's a good first stop because it's not too far from the gate.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-074",
       "part": 2,
-      "startTime": 513.0,
-      "endTime": 534.4,
-      "text": "Before you hear the rest of the talk, you have some time to look at questions 15 to 20.",
+      "startTime": 561.16,
+      "endTime": 565.12,
+      "text": "If you head directly north, you'll come to a beautiful old church.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-075",
       "part": 2,
-      "startTime": 534.4,
-      "endTime": 544.49,
-      "text": "Now listen and answer questions 15 to 20.",
+      "startTime": 565.34,
+      "endTime": 567.88,
+      "text": "The schoolhouse is diagonally across from it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-076",
       "part": 2,
-      "startTime": 544.49,
-      "endTime": 559.0,
-      "text": "Now, you'll probably want some time to explore the village.",
+      "startTime": 569.54,
+      "endTime": 571.26,
+      "text": "The mill is quite interesting.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-077",
       "part": 2,
-      "startTime": 559.0,
-      "endTime": 562.47,
-      "text": "Please open your maps and we'll have a look at the layout.",
+      "startTime": 571.36,
+      "endTime": 574.78,
+      "text": "That's where they ground wheat to make flour for baking.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-078",
       "part": 2,
-      "startTime": 562.47,
-      "endTime": 566.66,
-      "text": "We'll enter through the main gate, which is at the bottom of your map.",
+      "startTime": 575.04,
+      "endTime": 579.98,
+      "text": "To find it, go straight up from the main gate until you get to the clock tower.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-079",
       "part": 2,
-      "startTime": 566.66,
-      "endTime": 573.0,
-      "text": "So, if you'd like to see the schoolhouse, that's a good first stop because it's not too far from the gate.",
+      "startTime": 580.4,
+      "endTime": 585.84,
+      "text": "Turn right and it's on the other side of the road, across from the pond.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-080",
       "part": 2,
-      "startTime": 574.0,
-      "endTime": 578.65,
-      "text": "If you head directly north, you'll come to a beautiful old church.",
+      "startTime": 586.38,
+      "endTime": 590.18,
+      "text": "Then, there are the stables, where the horses were kept.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-081",
       "part": 2,
-      "startTime": 578.65,
-      "endTime": 584.0,
-      "text": "The schoolhouse is diagonally across from it. The mill is quite interesting.",
+      "startTime": 590.26,
+      "endTime": 596.86,
+      "text": "You may have seen the back of the stables already because they're a large building backing onto the car park.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-082",
       "part": 2,
-      "startTime": 584.0,
-      "endTime": 587.79,
-      "text": "That's where they ground wheat to make flour for baking.",
+      "startTime": 597.06,
+      "endTime": 601.56,
+      "text": "If you head west past the church, it's the first building you come to.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-083",
       "part": 2,
-      "startTime": 587.79,
-      "endTime": 593.13,
-      "text": "To find it, go straight up from the main gate until you get to the clock tower.",
+      "startTime": 602.58,
+      "endTime": 604.98,
+      "text": "Medical care was quite basic in those days.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-084",
       "part": 2,
-      "startTime": 593.13,
-      "endTime": 598.0,
-      "text": "Turn right and it's on the other side of the road, across from the pond.",
+      "startTime": 604.98,
+      "endTime": 610.12,
+      "text": "To get an idea of what it was like, you might like to visit the doctor's office.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-085",
       "part": 2,
-      "startTime": 599.0,
-      "endTime": 602.57,
-      "text": "Then, there are the stables, where the horses were kept.",
+      "startTime": 610.36,
+      "endTime": 616.12,
+      "text": "Look in the middle of your maps and it's in a block of three buildings that are all close together.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-086",
       "part": 2,
-      "startTime": 602.57,
-      "endTime": 609.53,
-      "text": "You may have seen the back of the stables already because they're a large building backing onto the car park.",
+      "startTime": 616.22,
+      "endTime": 618.0,
+      "text": "It's one of them.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-087",
       "part": 2,
-      "startTime": 609.53,
-      "endTime": 614.0,
-      "text": "If you head west past the church, it's the first building you come to.",
+      "startTime": 618.36,
+      "endTime": 620.92,
+      "text": "There's even an old hotel.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-088",
       "part": 2,
-      "startTime": 615.0,
-      "endTime": 617.52,
-      "text": "Medical care was quite basic in those days.",
+      "startTime": 621.16,
+      "endTime": 627.44,
+      "text": "Go up past the picnic area and the hotel is on the opposite side of the path, near the pond.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-089",
       "part": 2,
-      "startTime": 617.52,
-      "endTime": 622.2,
-      "text": "To get an idea of what it was like, you might like to visit the doctor's office.",
+      "startTime": 628.18,
+      "endTime": 630.9,
+      "text": "Another place to see is the workshop.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-090",
       "part": 2,
-      "startTime": 622.2,
-      "endTime": 628.0,
-      "text": "Look in the middle of your maps and it's in a block of three buildings that are all close together.",
+      "startTime": 631.36,
+      "endTime": 642.28,
+      "text": "It's at the end of that narrow winding path just south of the picnic area, which is on the right-hand side of your map, at the eastern end of the village.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-091",
       "part": 2,
-      "startTime": 629.0,
-      "endTime": 632.24,
-      "text": "It's one of them. There's even an old hotel.",
+      "startTime": 643.04,
+      "endTime": 645.24,
+      "text": "The village has been here since.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-092",
-      "part": 2,
-      "startTime": 632.24,
-      "endTime": 639.0,
-      "text": "Go up past the picnic area and the hotel is on the opposite side of the path, near the pond.",
+      "part": 3,
+      "startTime": 705.06,
+      "endTime": 708.76,
+      "text": "Hi, Annie, Ryan, come in. Morning.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-093",
-      "part": 2,
-      "startTime": 641.0,
-      "endTime": 644.22,
-      "text": "Another place to see is the workshop.",
+      "part": 3,
+      "startTime": 708.92,
+      "endTime": 711.98,
+      "text": "I know you want to discuss your project presentation.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-094",
-      "part": 2,
-      "startTime": 644.22,
-      "endTime": 650.65,
-      "text": "It's at the end of that narrow winding path just south of the picnic area,",
+      "part": 3,
+      "startTime": 712.76,
+      "endTime": 715.66,
+      "text": "Start by reminding me what you're focussing on.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-095",
-      "part": 2,
-      "startTime": 650.65,
-      "endTime": 657.52,
-      "text": "which is on the right-hand side of your map, at the eastern end of the village.",
+      "part": 3,
+      "startTime": 715.92,
+      "endTime": 720.94,
+      "text": "We've been looking at a research article on the disposal of hazardous household waste.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-096",
-      "part": 2,
-      "startTime": 657.52,
-      "endTime": 663.0,
-      "text": "The village has been here since... That is the end of part two.",
+      "part": 3,
+      "startTime": 721.14,
+      "endTime": 725.56,
+      "text": "That includes things like dangerous chemicals we use in the home,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-097",
-      "part": 2,
-      "startTime": 663.0,
-      "endTime": 684.0,
-      "text": "You now have 30 seconds to check your answers to part two.",
+      "part": 3,
+      "startTime": 725.56,
+      "endTime": 732.4,
+      "text": "but also less obvious items like electrical equipment, which are potentially really polluting as well.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-098",
       "part": 3,
-      "startTime": 684.0,
-      "endTime": 685.0,
-      "text": "You will hear two environmental study students, called Annie and Ryan, discussing with their tutor a presentation they will give on disposing of dangerous household waste products.",
+      "startTime": 732.64,
+      "endTime": 741.78,
+      "text": "The research basically involved interviews, trying to find out what influenced the methods people use to get rid of their dangerous waste.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-099",
       "part": 3,
-      "startTime": 685.0,
-      "endTime": 699.69,
-      "text": "First you have some time to look at questions 21 to 24.",
+      "startTime": 741.78,
+      "endTime": 749.3,
+      "text": "There were some really surprising results about people's behaviour and attitudes with regard to waste disposal. Yeah.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-100",
       "part": 3,
-      "startTime": 699.69,
-      "endTime": 713.32,
-      "text": "Now listen carefully and answer questions 21 to 24.",
+      "startTime": 749.66,
+      "endTime": 759.72,
+      "text": "It's no great shock that in general people are much more aware than they used to be, you know, about the effects of these materials on the environment,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-101",
       "part": 3,
-      "startTime": 713.32,
-      "endTime": 720.0,
-      "text": "Hi, Annie, Ryan, come in.",
+      "startTime": 759.72,
+      "endTime": 765.04,
+      "text": "and about the value of careful disposal, even the smallest, cheapest things.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-102",
       "part": 3,
-      "startTime": 720.0,
-      "endTime": 724.55,
-      "text": "Morning. I know you want to discuss your project presentation.",
+      "startTime": 765.04,
+      "endTime": 772.76,
+      "text": "Yes, but I did think it was surprising that people don't get very enthusiastic about the subject of waste disposal,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-103",
       "part": 3,
-      "startTime": 724.55,
-      "endTime": 728.0,
-      "text": "Start by reminding me what you're focussing on.",
+      "startTime": 773.02,
+      "endTime": 778.12,
+      "text": "like they do about other aspects of environmental protection. Me too.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-104",
       "part": 3,
-      "startTime": 729.0,
-      "endTime": 734.5,
-      "text": "We've been looking at a research article on the disposal of hazardous household waste.",
+      "startTime": 778.58,
+      "endTime": 781.74,
+      "text": "Apparently they find it all rather tiresome.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-105",
       "part": 3,
-      "startTime": 734.5,
-      "endTime": 738.66,
-      "text": "That includes things like dangerous chemicals we use in the home,",
+      "startTime": 782.2,
+      "endTime": 790.98,
+      "text": "Another striking thing was that many people are more careful when they're using certain hazardous materials. than when they are getting rid of them.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-106",
       "part": 3,
-      "startTime": 738.66,
-      "endTime": 745.18,
-      "text": "but also less obvious items like electrical equipment, which are potentially really polluting as well.",
+      "startTime": 791.54,
+      "endTime": 797.7,
+      "text": "At that stage, they simply don't remember that they'll be bad for the environment. Absolutely.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-107",
       "part": 3,
-      "startTime": 745.18,
-      "endTime": 754.0,
-      "text": "The research basically involved interviews, trying to find out what influenced the methods people use to get rid of their dangerous waste.",
+      "startTime": 797.92,
+      "endTime": 801.72,
+      "text": "That really amazed us. I can see why.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-108",
       "part": 3,
-      "startTime": 755.0,
-      "endTime": 762.44,
-      "text": "There were some really surprising results about people's behaviour and attitudes with regard to waste disposal.",
+      "startTime": 802.28,
+      "endTime": 806.04,
+      "text": "But were there any positives? Hope for the future?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-109",
       "part": 3,
-      "startTime": 762.44,
-      "endTime": 762.78,
-      "text": "Yeah.",
+      "startTime": 806.38,
+      "endTime": 814.48,
+      "text": "Well, in the conclusions section of the article, they talked about ways to improve recycling rates in the local area.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-110",
       "part": 3,
-      "startTime": 762.78,
-      "endTime": 769.08,
-      "text": "It's no great shock that in general people are much more aware than they used to be, you know,",
+      "startTime": 814.62,
+      "endTime": 818.94,
+      "text": "And I think some of the ideas would improve things around here, you know.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-111",
       "part": 3,
-      "startTime": 769.08,
-      "endTime": 778.0,
-      "text": "about the effects of these materials on the environment, and about the value of careful disposal, even the smallest, cheapest things.",
+      "startTime": 819.24,
+      "endTime": 828.74,
+      "text": "The article talked about laws in certain countries that certain types of waste have to be disposed of safely or you are taken to court.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-112",
       "part": 3,
-      "startTime": 778.0,
-      "endTime": 786.07,
-      "text": "Yes, but I did think it was surprising that people don't get very enthusiastic about the subject of waste disposal,",
+      "startTime": 828.84,
+      "endTime": 835.42,
+      "text": "I think financial penalties are a good idea, but criminalising people is too harsh.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-113",
       "part": 3,
-      "startTime": 786.07,
-      "endTime": 790.91,
-      "text": "like they do about other aspects of environmental protection. Me too.",
+      "startTime": 835.7,
+      "endTime": 841.42,
+      "text": "I think it's more effective to impose a penalty on homes if they don't recycle stuff.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-114",
       "part": 3,
-      "startTime": 790.91,
-      "endTime": 794.0,
-      "text": "Apparently they find it all rather tiresome.",
+      "startTime": 841.78,
+      "endTime": 847.98,
+      "text": "I still think legislation forcing local councils to increase recycling rates works better.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-115",
       "part": 3,
-      "startTime": 795.0,
-      "endTime": 804.01,
-      "text": "Another striking thing was that many people are more careful when they're using certain hazardous materials. than when they are getting rid of them.",
+      "startTime": 848.7,
+      "endTime": 850.5,
+      "text": "You can present both ideas.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-116",
       "part": 3,
-      "startTime": 804.01,
-      "endTime": 809.0,
-      "text": "At that stage, they simply don't remember that they'll be bad for the environment.",
+      "startTime": 850.86,
+      "endTime": 853.22,
+      "text": "Yeah, and agree to differ.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-117",
       "part": 3,
-      "startTime": 810.0,
-      "endTime": 814.0,
-      "text": "Absolutely. That really amazed us. I can see why.",
+      "startTime": 854.42,
+      "endTime": 863.22,
+      "text": "I think encouragement is always better in the long run, and getting the local community involved, such as schools, working with kids.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-118",
       "part": 3,
-      "startTime": 815.0,
-      "endTime": 818.47,
-      "text": "But were there any positives? Hope for the future?",
+      "startTime": 863.52,
+      "endTime": 868.94,
+      "text": "That way you establish good habits which last throughout their lives. Okay.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-119",
       "part": 3,
-      "startTime": 818.47,
-      "endTime": 826.58,
-      "text": "Well, in the conclusions section of the article, they talked about ways to improve recycling rates in the local area.",
+      "startTime": 915.7,
+      "endTime": 919.02,
+      "text": "Do you want to talk through your actual presentation?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-120",
       "part": 3,
-      "startTime": 826.58,
-      "endTime": 831.64,
-      "text": "And I think some of the ideas would improve things around here, you know.",
+      "startTime": 919.4,
+      "endTime": 929.04,
+      "text": "Yes, we thought we'd talk about different types of waste covered in the research and give advice on each one. That's a great idea.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-121",
       "part": 3,
-      "startTime": 831.64,
-      "endTime": 841.0,
-      "text": "The article talked about laws in certain countries that certain types of waste have to be disposed of safely or you are taken to court.",
+      "startTime": 929.04,
+      "endTime": 931.36,
+      "text": "We thought we'd start with paint.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-122",
       "part": 3,
-      "startTime": 842.0,
-      "endTime": 848.11,
-      "text": "I think financial penalties are a good idea, but criminalising people is too harsh.",
+      "startTime": 931.74,
+      "endTime": 935.62,
+      "text": "Yeah, we'll explain that we advise setting up schemes",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-123",
       "part": 3,
-      "startTime": 848.11,
-      "endTime": 854.37,
-      "text": "I think it's more effective to impose a penalty on homes if they don't recycle stuff.",
+      "startTime": 935.62,
+      "endTime": 945.64,
+      "text": "where you can take it to a centre to be used by people who need it, repainting an elderly person's home, for example, like they do in many parts of the world.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-124",
       "part": 3,
-      "startTime": 854.37,
-      "endTime": 861.0,
-      "text": "I still think legislation forcing local councils to increase recycling rates works better.",
+      "startTime": 946.0,
+      "endTime": 949.46,
+      "text": "Yes, which is a positive note to start on.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-125",
       "part": 3,
-      "startTime": 862.0,
-      "endTime": 866.04,
-      "text": "You can present both ideas. Yeah, and agree to differ.",
+      "startTime": 950.02,
+      "endTime": 951.98,
+      "text": "And will you discuss batteries?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-126",
       "part": 3,
-      "startTime": 866.04,
-      "endTime": 876.0,
-      "text": "I think encouragement is always better in the long run, and getting the local community involved, such as schools, working with kids.",
+      "startTime": 952.9,
+      "endTime": 953.48,
+      "text": "Definitely.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-127",
       "part": 3,
-      "startTime": 876.0,
-      "endTime": 882.7,
-      "text": "That way you establish good habits which last throughout their lives. Okay.",
+      "startTime": 953.72,
+      "endTime": 958.8,
+      "text": "They're so small that they're the simplest things to drop in a bin and forget.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-128",
       "part": 3,
-      "startTime": 882.7,
-      "endTime": 891.0,
-      "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30.",
+      "startTime": 959.04,
+      "endTime": 964.62,
+      "text": "And I think we should emphasise that people should have a storage container at home",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-129",
       "part": 3,
-      "startTime": 921.0,
-      "endTime": 924.86,
-      "text": "Now listen and answer questions 25 to 30.",
+      "startTime": 964.62,
+      "endTime": 972.64,
+      "text": "where they can put them until they've got enough to take to a central collection facility because they're full of toxic substances.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-130",
       "part": 3,
-      "startTime": 924.86,
-      "endTime": 929.85,
-      "text": "Do you want to talk through your actual presentation?",
+      "startTime": 973.04,
+      "endTime": 975.38,
+      "text": "Medicines are really interesting.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-131",
       "part": 3,
-      "startTime": 929.85,
-      "endTime": 940.11,
-      "text": "Yes, we thought we'd talk about different types of waste covered in the research and give advice on each one.",
+      "startTime": 975.76,
+      "endTime": 980.78,
+      "text": "I imagine people don't think of them as dangerous. No, indeed.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-132",
       "part": 3,
-      "startTime": 940.11,
-      "endTime": 942.0,
-      "text": "That's a great idea.",
+      "startTime": 981.04,
+      "endTime": 989.7,
+      "text": "The point we want to make is that, as a rule, things like antibiotics should not need to be thrown away in the first place",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-133",
       "part": 3,
-      "startTime": 942.0,
-      "endTime": 944.31,
-      "text": "We thought we'd start with paint.",
+      "startTime": 989.7,
+      "endTime": 994.44,
+      "text": "because doctors usually tell us we should finish off the whole course of tablets.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-134",
       "part": 3,
-      "startTime": 944.31,
-      "endTime": 952.77,
-      "text": "Yeah, we'll explain that we advise setting up schemes where you can take it to a centre to be used by people who need it,",
+      "startTime": 994.66,
+      "endTime": 999.0,
+      "text": "So there aren't any left to go for waste. Doubly good strategy.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-135",
       "part": 3,
-      "startTime": 952.77,
-      "endTime": 959.06,
-      "text": "repainting an elderly person's home, for example, like they do in many parts of the world.",
+      "startTime": 999.46,
+      "endTime": 1002.4,
+      "text": "Are you discussing pesticides? Yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-136",
       "part": 3,
-      "startTime": 959.06,
-      "endTime": 962.0,
-      "text": "Yes, which is a positive note to start on.",
+      "startTime": 1002.6,
+      "endTime": 1007.94,
+      "text": "The point we highlight from the article is that people are often unsure what to do with them.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-137",
       "part": 3,
-      "startTime": 963.0,
-      "endTime": 965.82,
-      "text": "And will you discuss batteries? Definitely.",
+      "startTime": 1008.22,
+      "endTime": 1014.56,
+      "text": "And there needs to be clearer information given on the packaging so people are left in no doubt.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-138",
       "part": 3,
-      "startTime": 965.82,
-      "endTime": 970.93,
-      "text": "They're so small that they're the simplest things to drop in a bin and forget.",
+      "startTime": 1014.72,
+      "endTime": 1017.5,
+      "text": "We thought we'd also look at tyres.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-139",
       "part": 3,
-      "startTime": 970.93,
-      "endTime": 985.0,
-      "text": "And I think we should emphasise that people should have a storage container at home where they can put them until they've got enough to take to a central collection facility because they're full of toxic substances.",
+      "startTime": 1017.72,
+      "endTime": 1023.04,
+      "text": "Rather than sending them to the dump, people should be encouraged to be creative with them.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-140",
       "part": 3,
-      "startTime": 986.0,
-      "endTime": 992.19,
-      "text": "Medicines are really interesting. I imagine people don't think of them as dangerous.",
+      "startTime": 1023.36,
+      "endTime": 1033.4,
+      "text": "Not just sending them away to be recut for retreads, but to make them into things like plant holders for your garden. Good, yeah.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-141",
       "part": 3,
-      "startTime": 992.19,
-      "endTime": 993.0,
-      "text": "No, indeed.",
+      "startTime": 1033.98,
+      "endTime": 1036.98,
+      "text": "And will you mention any electrical appliances?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-142",
       "part": 3,
-      "startTime": 994.0,
-      "endTime": 1006.99,
-      "text": "The point we want to make is that, as a rule, things like antibiotics should not need to be thrown away in the first place because doctors usually tell us we should finish off the whole course of tablets.",
+      "startTime": 1037.68,
+      "endTime": 1042.82,
+      "text": "We've opted to finish with fridges because this is actually a good news story.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-143",
       "part": 3,
-      "startTime": 1006.99,
-      "endTime": 1011.0,
-      "text": "So there aren't any left to go for waste. Doubly good strategy.",
+      "startTime": 1043.06,
+      "endTime": 1047.84,
+      "text": "The fact that we now have the capacity to use less dangerous materials.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-144",
       "part": 3,
-      "startTime": 1012.0,
-      "endTime": 1014.34,
-      "text": "Are you discussing pesticides? Yes.",
+      "startTime": 1048.08,
+      "endTime": 1056.86,
+      "text": "And we should continue to exploit that capacity to reduce effects on the ozone layer. Good. Well, that seems.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-145",
-      "part": 3,
-      "startTime": 1014.34,
-      "endTime": 1020.57,
-      "text": "The point we highlight from the article is that people are often unsure what to do with them.",
+      "part": 4,
+      "startTime": 1146.26,
+      "endTime": 1147.32,
+      "text": "Hi everyone.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-146",
-      "part": 3,
-      "startTime": 1020.57,
-      "endTime": 1027.0,
-      "text": "And there needs to be clearer information given on the packaging so people are left in no doubt.",
+      "part": 4,
+      "startTime": 1147.52,
+      "endTime": 1152.66,
+      "text": "I've just returned from my field trip and want to share some of my experiences with you.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-147",
-      "part": 3,
-      "startTime": 1028.0,
-      "endTime": 1030.3,
-      "text": "We thought we'd also look at tyres.",
+      "part": 4,
+      "startTime": 1153.1,
+      "endTime": 1155.74,
+      "text": "I learnt a lot about whale sharks on this trip.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-148",
-      "part": 3,
-      "startTime": 1030.3,
-      "endTime": 1036.29,
-      "text": "Rather than sending them to the dump, people should be encouraged to be creative with them.",
+      "part": 4,
+      "startTime": 1155.98,
+      "endTime": 1162.62,
+      "text": "For example, they're actually the largest species of fish in the world's seas, about the size of a bus.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-149",
-      "part": 3,
-      "startTime": 1036.29,
-      "endTime": 1044.0,
-      "text": "Not just sending them away to be recut for retreads, but to make them into things like plant holders for your garden.",
+      "part": 4,
+      "startTime": 1163.02,
+      "endTime": 1167.18,
+      "text": "Despite their massive size, whale sharks are docile animals.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-150",
-      "part": 3,
-      "startTime": 1045.0,
-      "endTime": 1049.25,
-      "text": "Good, yeah. And will you mention any electrical appliances?",
+      "part": 4,
+      "startTime": 1173.78,
+      "endTime": 1179.34,
+      "text": "They are in fact sharks, but they do have some things in common with whales.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-151",
-      "part": 3,
-      "startTime": 1049.25,
-      "endTime": 1054.88,
-      "text": "We've opted to finish with fridges because this is actually a good news story.",
+      "part": 4,
+      "startTime": 1179.88,
+      "endTime": 1183.78,
+      "text": "They're similar in terms of their large size and what they eat.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-152",
-      "part": 3,
-      "startTime": 1054.88,
-      "endTime": 1060.0,
-      "text": "The fact that we now have the capacity to use less dangerous materials.",
+      "part": 4,
+      "startTime": 1184.0,
+      "endTime": 1191.26,
+      "text": "Like many species of whales, their diet consists mainly of plankton and krill, which are tiny plants and animals.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-153",
-      "part": 3,
-      "startTime": 1061.0,
-      "endTime": 1076.49,
-      "text": "And we should continue to exploit that capacity to reduce effects on the ozone layer.",
+      "part": 4,
+      "startTime": 1192.54,
+      "endTime": 1200.08,
+      "text": "Unlike many whale species, they prefer to swim close to the surface of the water rather than cruising the depths of the ocean.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-154",
-      "part": 3,
-      "startTime": 1076.49,
-      "endTime": 1081.05,
-      "text": "Good. Well, that seems...",
+      "part": 4,
+      "startTime": 1200.08,
+      "endTime": 1203.36,
+      "text": "So that's a key difference relating to their habits.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-155",
-      "part": 3,
-      "startTime": 1081.05,
-      "endTime": 1085.79,
-      "text": "That is the end of Part 3.",
+      "part": 4,
+      "startTime": 1203.66,
+      "endTime": 1206.48,
+      "text": "Another one relates to their physical make-up.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-156",
-      "part": 3,
-      "startTime": 1085.79,
-      "endTime": 1096.0,
-      "text": "You now have 30 seconds to check your answers to Part 3.",
+      "part": 4,
+      "startTime": 1206.48,
+      "endTime": 1214.7,
+      "text": "Their skeleton is made entirely of cartilage, in comparison to whales that have skeletons made of real bones.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-157",
       "part": 4,
-      "startTime": 1096.0,
-      "endTime": 1097.0,
-      "text": "You will hear part of a student presentation about a field trip to a whale shark research centre given to fellow marine biology students.",
+      "startTime": 1214.96,
+      "endTime": 1218.84,
+      "text": "The place I visited is called Ningaloo in Western Australia.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-158",
       "part": 4,
-      "startTime": 1097.0,
-      "endTime": 1109.05,
-      "text": "First you have some time to look at questions 31 to 40.",
+      "startTime": 1219.3,
+      "endTime": 1226.98,
+      "text": "We were there to observe a large group of whale sharks which congregate in that part of the ocean each year between April and July.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-159",
       "part": 4,
-      "startTime": 1109.05,
-      "endTime": 1120.22,
-      "text": "Now listen carefully and answer questions 31 to 40.",
+      "startTime": 1227.84,
+      "endTime": 1235.36,
+      "text": "Ningaloo is ideal for whale sharks because there is a coral reef nearby which ensures an abundant supply of food.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-160",
       "part": 4,
-      "startTime": 1120.22,
-      "endTime": 1122.85,
-      "text": "Hi everyone.",
+      "startTime": 1235.58,
+      "endTime": 1243.7,
+      "text": "It's great for divers too, because although it's in relatively deep waters, the reef is in close proximity to the shore,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-161",
       "part": 4,
-      "startTime": 1122.85,
-      "endTime": 1142.13,
-      "text": "I've just returned from my field trip and want to share some of my experiences with you.",
+      "startTime": 1243.96,
+      "endTime": 1247.22,
+      "text": "unlike some reefs that you have to travel miles to get to.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-162",
       "part": 4,
-      "startTime": 1142.13,
-      "endTime": 1152.43,
-      "text": "I learnt a lot about whale sharks on this trip.",
+      "startTime": 1248.76,
+      "endTime": 1254.2,
+      "text": "I'd like to move on now to tell you about the Whale Shark Research Centre and the research being conducted there.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-163",
       "part": 4,
-      "startTime": 1152.43,
-      "endTime": 1175.0,
-      "text": "For example, they're actually the largest species of fish in the world's seas, about the size of a bus.",
+      "startTime": 1255.18,
+      "endTime": 1261.58,
+      "text": "We know that whale sharks are migratory, but not a lot is known about where they go and why.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-164",
       "part": 4,
-      "startTime": 1176.0,
-      "endTime": 1180.21,
-      "text": "Despite their massive size, whale sharks are docile animals.",
+      "startTime": 1261.88,
+      "endTime": 1265.98,
+      "text": "The methods currently being used to monitor them could be better.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-165",
       "part": 4,
-      "startTime": 1180.21,
-      "endTime": 1186.67,
-      "text": "Because of the name, you might be confused about whether these animals are whales or sharks.",
+      "startTime": 1266.22,
+      "endTime": 1273.5,
+      "text": "One way is to use an electronic tracking device, or tag, which researchers have to attach manually to the fin.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-166",
       "part": 4,
-      "startTime": 1186.67,
-      "endTime": 1192.0,
-      "text": "They are in fact sharks, but they do have some things in common with whales.",
+      "startTime": 1273.76,
+      "endTime": 1280.98,
+      "text": "It's not an easy process, and the tags are also quite expensive, so if it falls off, you're in trouble.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-167",
       "part": 4,
-      "startTime": 1192.0,
-      "endTime": 1196.17,
-      "text": "They're similar in terms of their large size and what they eat.",
+      "startTime": 1281.84,
+      "endTime": 1287.96,
+      "text": "Another way of monitoring whale sharks is with a special drone to spot the animals in the ocean.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-168",
       "part": 4,
-      "startTime": 1196.17,
-      "endTime": 1203.65,
-      "text": "Like many species of whales, their diet consists mainly of plankton and krill, which are tiny plants and animals.",
+      "startTime": 1288.18,
+      "endTime": 1293.26,
+      "text": "This can give you a rough idea of numbers, but obviously it's not an exact science.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-169",
       "part": 4,
-      "startTime": 1203.65,
-      "endTime": 1212.0,
-      "text": "Unlike many whale species, they prefer to swim close to the surface of the water rather than cruising the depths of the ocean.",
+      "startTime": 1295.24,
+      "endTime": 1303.44,
+      "text": "The researchers at Ningaloo are involved in a new research project that's currently being carried out to investigate whale shark feeding habits.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-170",
       "part": 4,
-      "startTime": 1213.0,
-      "endTime": 1216.52,
-      "text": "So that's a key difference relating to their habits.",
+      "startTime": 1303.72,
+      "endTime": 1307.94,
+      "text": "They hope to find out more about how far whale sharks travel to feed.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-171",
       "part": 4,
-      "startTime": 1216.52,
-      "endTime": 1219.63,
-      "text": "Another one relates to their physical make-up.",
+      "startTime": 1308.34,
+      "endTime": 1312.7,
+      "text": "They're using an innovative approach to do this, which analyses plankton.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-172",
       "part": 4,
-      "startTime": 1219.63,
-      "endTime": 1227.0,
-      "text": "Their skeleton is made entirely of cartilage, in comparison to whales that have skeletons made of real bones.",
+      "startTime": 1313.48,
+      "endTime": 1318.98,
+      "text": "Apparently, plankton from different places contains different quantities of carbon types.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-173",
       "part": 4,
-      "startTime": 1228.0,
-      "endTime": 1231.95,
-      "text": "The place I visited is called Ningaloo in Western Australia.",
+      "startTime": 1319.14,
+      "endTime": 1327.18,
+      "text": "The researchers are checking the plankton consumed by the whale shark against maps which have all the different plankton zones marked on them.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-174",
       "part": 4,
-      "startTime": 1231.95,
-      "endTime": 1240.57,
-      "text": "We were there to observe a large group of whale sharks which congregate in that part of the ocean each year between April and July.",
+      "startTime": 1327.44,
+      "endTime": 1332.56,
+      "text": "This comparison allows them to track exactly where the whale shark has been feeding.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-175",
       "part": 4,
-      "startTime": 1240.57,
-      "endTime": 1248.0,
-      "text": "Ningaloo is ideal for whale sharks because there is a coral reef nearby which ensures an abundant supply of food.",
+      "startTime": 1337.6,
+      "endTime": 1343.76,
+      "text": "Some research that I was involved in on my field trip was directly observing the whale shark behaviour.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-176",
       "part": 4,
-      "startTime": 1248.0,
-      "endTime": 1256.15,
-      "text": "It's great for divers too, because although it's in relatively deep waters, the reef is in close proximity to the shore,",
+      "startTime": 1344.0,
+      "endTime": 1351.18,
+      "text": "This was part of a small study being carried out in Ningaloo to find out how whale sharks are affected by human activity.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-177",
       "part": 4,
-      "startTime": 1256.15,
-      "endTime": 1260.09,
-      "text": "unlike some reefs that you have to travel miles to get to.",
+      "startTime": 1351.56,
+      "endTime": 1358.52,
+      "text": "We drifted along in our boat with the engine off, then when a whale shark was nearby, we switched on the engine.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-178",
       "part": 4,
-      "startTime": 1260.09,
-      "endTime": 1267.76,
-      "text": "I'd like to move on now to tell you about the Whale Shark Research Centre and the research being conducted there.",
+      "startTime": 1358.82,
+      "endTime": 1363.32,
+      "text": "We noticed that the resulting noise affected the behaviour of the animal.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-179",
       "part": 4,
-      "startTime": 1267.76,
-      "endTime": 1274.0,
-      "text": "We know that whale sharks are migratory, but not a lot is known about where they go and why.",
+      "startTime": 1363.46,
+      "endTime": 1365.98,
+      "text": "As soon as it heard the sound, we saw it dive.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-180",
       "part": 4,
-      "startTime": 1274.0,
-      "endTime": 1278.68,
-      "text": "The methods currently being used to monitor them could be better.",
+      "startTime": 1366.84,
+      "endTime": 1371.34,
+      "text": "This happened on several occasions and was quite obvious.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-181",
       "part": 4,
-      "startTime": 1278.68,
-      "endTime": 1286.59,
-      "text": "One way is to use an electronic tracking device, or tag, which researchers have to attach manually to the fin.",
+      "startTime": 1371.7,
+      "endTime": 1378.54,
+      "text": "One day, we got to witness the great work they're doing at the centre to educate the community about whale sharks.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-182",
       "part": 4,
-      "startTime": 1286.59,
-      "endTime": 1294.0,
-      "text": "It's not an easy process, and the tags are also quite expensive, so if it falls off, you're in trouble.",
+      "startTime": 1378.86,
+      "endTime": 1381.82,
+      "text": "At the moment, there's a whale shark race.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-183",
       "part": 4,
-      "startTime": 1294.0,
-      "endTime": 1300.54,
-      "text": "Another way of monitoring whale sharks is with a special drone to spot the animals in the ocean.",
+      "startTime": 1381.98,
+      "endTime": 1388.12,
+      "text": "The researchers select a mature whale shark which has been tagged and they allocate it to a school.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-184",
       "part": 4,
-      "startTime": 1300.54,
-      "endTime": 1306.19,
-      "text": "This can give you a rough idea of numbers, but obviously it's not an exact science.",
+      "startTime": 1388.26,
+      "endTime": 1392.98,
+      "text": "The children get to track the journey of their whale shark and see which one travels the furthest.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-185",
       "part": 4,
-      "startTime": 1306.19,
-      "endTime": 1316.0,
-      "text": "The researchers at Ningaloo are involved in a new research project that's currently being carried out to investigate whale shark feeding habits.",
+      "startTime": 1393.84,
+      "endTime": 1396.36,
+      "text": "All the data is on the website.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-186",
       "part": 4,
-      "startTime": 1317.0,
-      "endTime": 1321.18,
-      "text": "They hope to find out more about how far whale sharks travel to feed.",
+      "startTime": 1396.54,
+      "endTime": 1402.16,
+      "text": "It's clear that these majestic creatures require careful conservation and management.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-187",
       "part": 4,
-      "startTime": 1321.18,
-      "endTime": 1325.6,
-      "text": "They're using an innovative approach to do this, which analyses plankton.",
+      "startTime": 1402.5,
+      "endTime": 1407.46,
+      "text": "With humans and whale sharks being in close proximity, problems can occur.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-188",
       "part": 4,
-      "startTime": 1325.6,
-      "endTime": 1331.0,
-      "text": "Apparently, plankton from different places contains different quantities of carbon types.",
+      "startTime": 1407.7,
+      "endTime": 1415.74,
+      "text": "While these events may be rare, all injuries which whale sharks suffer must be documented, with information such as date",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-189",
       "part": 4,
-      "startTime": 1332.0,
-      "endTime": 1342.36,
-      "text": "The researchers are checking the plankton consumed by the whale shark against maps which have all the different plankton zones marked on them.",
+      "startTime": 1415.74,
+      "endTime": 1418.94,
+      "text": "and location and a photograph if possible.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-190",
       "part": 4,
-      "startTime": 1342.36,
-      "endTime": 1348.49,
-      "text": "This comparison allows them to track exactly where the whale shark has been feeding.",
+      "startTime": 1418.94,
+      "endTime": 1424.54,
+      "text": "The Fisheries Department has agreed to keep these records in their digital image library.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-191",
       "part": 4,
-      "startTime": 1348.49,
-      "endTime": 1356.0,
-      "text": "Some research that I was involved in on my field trip was directly observing the whale shark behaviour.",
+      "startTime": 1424.98,
+      "endTime": 1429.36,
+      "text": "Something that is being introduced next year in Ningaloo is a Code of Conduct.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-192",
       "part": 4,
-      "startTime": 1356.0,
-      "endTime": 1363.91,
-      "text": "This was part of a small study being carried out in Ningaloo to find out how whale sharks are affected by human activity.",
+      "startTime": 1429.56,
+      "endTime": 1434.32,
+      "text": "It covers the rules that need to be followed to minimise any distress to the sharks.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-193",
       "part": 4,
-      "startTime": 1363.91,
-      "endTime": 1371.23,
-      "text": "We drifted along in our boat with the engine off, then when a whale shark was nearby, we switched on the engine.",
+      "startTime": 1434.58,
+      "endTime": 1441.98,
+      "text": "Scuba diving is not going to be allowed anymore, as previous research has found that whale sharks find bubbles disturbing.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-194",
       "part": 4,
-      "startTime": 1371.23,
-      "endTime": 1376.0,
-      "text": "We noticed that the resulting noise affected the behaviour of the animal.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-195",
-      "part": 4,
-      "startTime": 1376.0,
-      "endTime": 1379.18,
-      "text": "As soon as it heard the sound, we saw it dive.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-196",
-      "part": 4,
-      "startTime": 1379.18,
-      "endTime": 1383.12,
-      "text": "This happened on several occasions and was quite obvious.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-197",
-      "part": 4,
-      "startTime": 1383.12,
-      "endTime": 1391.0,
-      "text": "One day, we got to witness the great work they're doing at the centre to educate the community about whale sharks.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-198",
-      "part": 4,
-      "startTime": 1392.0,
-      "endTime": 1394.46,
-      "text": "At the moment, there's a whale shark race.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-199",
-      "part": 4,
-      "startTime": 1394.46,
-      "endTime": 1400.26,
-      "text": "The researchers select a mature whale shark which has been tagged and they allocate it to a school.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-200",
-      "part": 4,
-      "startTime": 1400.26,
-      "endTime": 1406.0,
-      "text": "The children get to track the journey of their whale shark and see which one travels the furthest.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-201",
-      "part": 4,
-      "startTime": 1407.0,
-      "endTime": 1409.12,
-      "text": "All the data is on the website.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-202",
-      "part": 4,
-      "startTime": 1409.12,
-      "endTime": 1414.94,
-      "text": "It's clear that these majestic creatures require careful conservation and management.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-203",
-      "part": 4,
-      "startTime": 1414.94,
-      "endTime": 1420.0,
-      "text": "With humans and whale sharks being in close proximity, problems can occur.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-204",
-      "part": 4,
-      "startTime": 1421.0,
-      "endTime": 1426.74,
-      "text": "While these events may be rare, all injuries which whale sharks suffer must be documented,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-205",
-      "part": 4,
-      "startTime": 1426.74,
-      "endTime": 1431.34,
-      "text": "with information such as date and location and a photograph if possible.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-206",
-      "part": 4,
-      "startTime": 1431.34,
-      "endTime": 1437.02,
-      "text": "The Fisheries Department has agreed to keep these records in their digital image library.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-207",
-      "part": 4,
-      "startTime": 1437.02,
-      "endTime": 1442.0,
-      "text": "Something that is being introduced next year in Ningaloo is a Code of Conduct.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-208",
-      "part": 4,
-      "startTime": 1442.0,
-      "endTime": 1448.52,
-      "text": "It covers the rules that need to be followed to minimise any distress to the sharks.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-209",
-      "part": 4,
-      "startTime": 1448.52,
-      "endTime": 1457.99,
-      "text": "Scuba diving is not going to be allowed anymore, as previous research has found that whale sharks find bubbles disturbing.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-210",
-      "part": 4,
-      "startTime": 1457.99,
-      "endTime": 1458.47,
-      "text": "Another new rule is that boats... That is the end of Part 4.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-211",
-      "part": 4,
-      "startTime": 1462.65,
-      "endTime": 1458.47,
-      "text": "You now have one minute to check your answers to Part 4.",
+      "startTime": 1442.54,
+      "endTime": 1444.0,
+      "text": "Another new rule is that boats.",
       "timestampSource": "exact",
       "qTags": []
     }
@@ -2748,36 +2613,26 @@
     {
       "id": "long-001",
       "part": 1,
-      "startTime": 0.0,
-      "endTime": 27.93,
-      "text": "You will hear a student at a job fair talking to a man who works as a professional tea taster. First you have some time to look at questions 1 to 5. Now listen carefully and answer questions 1 to 5.",
+      "startTime": 31.44,
+      "endTime": 52.24,
+      "text": "Hello, can I help you? Hi, I'm still a student but I've done a bit of research into the tea company you work for and I have a few questions about the tea tasters jobs you have advertised. Well, that's actually what I do. Would you like me to tell you a bit about what it's like being a trainee tea taster? Yes, please.",
       "segmentIds": [
         "seg-001",
         "seg-002",
-        "seg-003"
+        "seg-003",
+        "seg-004",
+        "seg-005"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-002",
       "part": 1,
-      "startTime": 27.93,
-      "endTime": 59.0,
-      "text": "Hello, can I help you? Hi, I'm still a student but I've done a bit of research into the tea company you work for and I have a few questions about the tea tasters jobs you have advertised. Well, that's actually what I do.",
+      "startTime": 52.5,
+      "endTime": 70.86,
+      "text": "Well, initially, even though there's some time spent in meetings at our office, a trainee is based in our lab for most of their time being trained how to do the tasting. Right. How do you actually learn how to taste tea? Do you use a special kind of cup?",
       "segmentIds": [
-        "seg-004",
-        "seg-005",
-        "seg-006"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-003",
-      "part": 1,
-      "startTime": 59.0,
-      "endTime": 77.96,
-      "text": "Would you like me to tell you a bit about what it's like being a trainee tea taster? Yes, please. Well, initially, even though there's some time spent in meetings at our office, a trainee is based in our lab for most of their time being trained how to do the tasting.",
-      "segmentIds": [
+        "seg-006",
         "seg-007",
         "seg-008",
         "seg-009"
@@ -2785,11 +2640,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-004",
+      "id": "long-003",
       "part": 1,
-      "startTime": 77.96,
-      "endTime": 97.27,
-      "text": "Right. How do you actually learn how to taste tea? Do you use a special kind of cup? No, rather than that or even a glass to do the tasting, we sip it from a spoon. Ah, OK. And what other kind of things will I need to learn? Well, there are many different qualities of tea,",
+      "startTime": 71.18,
+      "endTime": 94.9,
+      "text": "No, rather than that or even a glass to do the tasting, we sip it from a spoon. Ah, OK. And what other kind of things will I need to learn? Well, there are many different qualities of tea, so one of the most important things is to learn how to decide which grade should be assigned to each sample. That's a very important part of the job.",
       "segmentIds": [
         "seg-010",
         "seg-011",
@@ -2799,40 +2654,30 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-005",
+      "id": "long-004",
       "part": 1,
-      "startTime": 97.27,
-      "endTime": 120.01,
-      "text": "so one of the most important things is to learn how to decide which grade should be assigned to each sample. That's a very important part of the job. Yes, I can see why. And then another important thing to learn is how to choose the right leaf for tea bags. Shape isn't nearly as important as the size in that case.",
+      "startTime": 95.2,
+      "endTime": 115.08,
+      "text": "Yes, I can see why. And then another important thing to learn is how to choose the right leaf for tea bags. Shape isn't nearly as important as the size in that case. Gosh, I'd never really thought about what goes into a tea bag. So do all of the teas have their own name?",
       "segmentIds": [
         "seg-014",
         "seg-015",
         "seg-016",
-        "seg-017"
+        "seg-017",
+        "seg-018"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-006",
+      "id": "long-005",
       "part": 1,
-      "startTime": 120.01,
-      "endTime": 140.25,
-      "text": "Gosh, I'd never really thought about what goes into a tea bag. So do all of the teas have their own name? Yes, that's another important part of the training. It took me ages before I remembered them all. I can imagine. So how long before I qualify? I heard it was seven years, is that right?",
+      "startTime": 115.42,
+      "endTime": 140.12,
+      "text": "Yes, that's another important part of the training. It took me ages before I remembered them all. I can imagine. So how long before I qualify? I heard it was seven years, is that right? Well, it used to be, but we've speeded things up a bit, so now it only takes five. That's two years less than before, which is quite significant, really. Right, I see.",
       "segmentIds": [
-        "seg-018",
         "seg-019",
         "seg-020",
-        "seg-021"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-007",
-      "part": 1,
-      "startTime": 140.25,
-      "endTime": 162.0,
-      "text": "Well, it used to be, but we've speeded things up a bit, so now it only takes five. That's two years less than before, which is quite significant, really. Right, I see. Before you hear the rest of the conversation, you have some time to look at questions six to ten.",
-      "segmentIds": [
+        "seg-021",
         "seg-022",
         "seg-023",
         "seg-024"
@@ -2840,11 +2685,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-008",
+      "id": "long-006",
       "part": 1,
-      "startTime": 187.0,
-      "endTime": 210.0,
-      "text": "Now listen and answer questions six to ten. The job sounds really interesting, but what I'd like to know before applying is what kind of person you're looking for. That way I can see whether I'll be a good fit. Well, you need to have a degree. Well, that's fine. I'm just finishing mine.",
+      "startTime": 180.6,
+      "endTime": 201.94,
+      "text": "The job sounds really interesting, but what I'd like to know before applying is what kind of person you're looking for. That way I can see whether I'll be a good fit. Well, you need to have a degree. Well, that's fine. I'm just finishing mine. However, it doesn't have to be a science degree, even though that's a definite bonus.",
       "segmentIds": [
         "seg-025",
         "seg-026",
@@ -2854,11 +2699,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-009",
+      "id": "long-007",
       "part": 1,
-      "startTime": 210.0,
-      "endTime": 230.0,
-      "text": "However, it doesn't have to be a science degree, even though that's a definite bonus. My degree was in history, for example. I'm studying languages. Yes, that'll be fine. Is there anything else? Yes, you need to be able to do maths and do it fast. A lot of the job is to do with the price of tea, so that's really important.",
+      "startTime": 202.16,
+      "endTime": 224.24,
+      "text": "My degree was in history, for example. I'm studying languages. Yes, that'll be fine. Is there anything else? Yes, you need to be able to do maths and do it fast. A lot of the job is to do with the price of tea, so that's really important. OK, that makes sense. And this might seem unusual, but you'll have your sight tested.",
       "segmentIds": [
         "seg-029",
         "seg-030",
@@ -2869,11 +2714,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-010",
+      "id": "long-008",
       "part": 1,
-      "startTime": 231.0,
-      "endTime": 250.15,
-      "text": "OK, that makes sense. And this might seem unusual, but you'll have your sight tested. We're not worried about whether you need glasses or not, that's fine, but you have to see colour accurately. It's very important when looking at tea leaves. Wow, I'd never have thought about that, but it makes sense.",
+      "startTime": 224.5,
+      "endTime": 243.94,
+      "text": "We're not worried about whether you need glasses or not, that's fine, but you have to see colour accurately. It's very important when looking at tea leaves. Wow, I'd never have thought about that, but it makes sense. What about other things, like how important is good communication? Essential.",
       "segmentIds": [
         "seg-034",
         "seg-035",
@@ -2883,11 +2728,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-011",
+      "id": "long-009",
       "part": 1,
-      "startTime": 250.15,
-      "endTime": 272.0,
-      "text": "What about other things, like how important is good communication? Essential. You'll need to be highly skilled at that, as you'll meet such varied people in this job, everyone from farmers to buyers. OK, I've noted that. Anything else I should remember? Yes, I'd say there's no point doing this job if you don't like to travel.",
+      "startTime": 244.14,
+      "endTime": 266.98,
+      "text": "You'll need to be highly skilled at that, as you'll meet such varied people in this job, everyone from farmers to buyers. OK, I've noted that. Anything else I should remember? Yes, I'd say there's no point doing this job if you don't like to travel. You'll be living out of a suitcase for a while, so if you're not worried about spending time abroad, for example, that'll work in your favour.",
       "segmentIds": [
         "seg-038",
         "seg-039",
@@ -2897,66 +2742,66 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-012",
+      "id": "long-010",
       "part": 1,
-      "startTime": 273.0,
-      "endTime": 312.46,
-      "text": "You'll be living out of a suitcase for a while, so if you're not worried about spending time abroad, for example, that'll work in your favour. OK, well, thanks for all the information. You've been so helpful. That is the end of Part 1.",
+      "startTime": 267.6,
+      "endTime": 275.88,
+      "text": "OK, well, thanks for all the information. You've been so helpful.",
       "segmentIds": [
         "seg-042",
-        "seg-043",
-        "seg-044"
+        "seg-043"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 2,
+      "startTime": 354.38,
+      "endTime": 377.68,
+      "text": "Hello, everyone, and welcome to Pioneer Historical Village. It's an outdoor park recreated to look just like a village from the mid-19th century. Visitors can wander through the village, look inside the houses, and get a feel for what life was like back then. The village has grown somewhat since it was first opened to the public, going back a bit,",
+      "segmentIds": [
+        "seg-044",
+        "seg-045",
+        "seg-046",
+        "seg-047"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 2,
+      "startTime": 377.88,
+      "endTime": 398.56,
+      "text": "in 1962 a committee was formed in the hope of preserving some of the local history. Many years of planning and fundraising followed. Volunteers worked throughout the 1970s to restore and move buildings to the site. In 1980 the village welcomed its first paying visitors.",
+      "segmentIds": [
+        "seg-048",
+        "seg-049",
+        "seg-050",
+        "seg-051"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-013",
-      "part": 1,
-      "startTime": 312.46,
-      "endTime": 363.0,
-      "text": "You now have one minute to check your answers to Part 1.",
+      "part": 2,
+      "startTime": 399.04,
+      "endTime": 421.86,
+      "text": "We'll go in now, and I'll help you purchase your tickets. Since there are 10 of you all together in this party, you qualify for the group discount. The normal price of admission is $16 for adults and $12.50 for students and seniors, but it'll only be $11 per person for all of you today, which is quite a saving.",
       "segmentIds": [
-        "seg-045"
+        "seg-052",
+        "seg-053",
+        "seg-054",
+        "seg-055"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-014",
       "part": 2,
-      "startTime": 363.0,
-      "endTime": 376.52,
-      "text": "You will hear a guide talking to a group of visitors to Pioneer Historical Village. First you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14. Hello, everyone, and welcome to Pioneer Historical Village. It's an outdoor park recreated to look just like a village from the mid-19th century.",
+      "startTime": 422.86,
+      "endTime": 437.6,
+      "text": "Sometimes we have shows and demonstrations. We had hoped to show you how candles are made, but the person organising it had to cancel at the last minute. You're all in for a treat of another kind though.",
       "segmentIds": [
-        "seg-046",
-        "seg-047",
-        "seg-048",
-        "seg-049",
-        "seg-050"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-015",
-      "part": 2,
-      "startTime": 376.52,
-      "endTime": 400.35,
-      "text": "Visitors can wander through the village, look inside the houses, and get a feel for what life was like back then. The village has grown somewhat since it was first opened to the public, going back a bit, in 1962 a committee was formed in the hope of preserving some of the local history. Many years of planning and fundraising followed.",
-      "segmentIds": [
-        "seg-051",
-        "seg-052",
-        "seg-053",
-        "seg-054"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-016",
-      "part": 2,
-      "startTime": 400.35,
-      "endTime": 420.0,
-      "text": "Volunteers worked throughout the 1970s to restore and move buildings to the site. In 1980 the village welcomed its first paying visitors. We'll go in now, and I'll help you purchase your tickets. Since there are 10 of you all together in this party, you qualify for the group discount.",
-      "segmentIds": [
-        "seg-055",
         "seg-056",
         "seg-057",
         "seg-058"
@@ -2964,268 +2809,248 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-017",
+      "id": "long-015",
       "part": 2,
-      "startTime": 421.0,
-      "endTime": 437.35,
-      "text": "The normal price of admission is $16 for adults and $12.50 for students and seniors, but it'll only be $11 per person for all of you today, which is quite a saving. Sometimes we have shows and demonstrations.",
+      "startTime": 438.08,
+      "endTime": 461.82,
+      "text": "Just outside the shop we have an expert sweet maker who will be making lollipops the old-fashioned way, so do go and have a look. If you want to make bread yourself, head to the bakery and have a go. The space is quite small though, so no spectators please. You'll have a chance to interact with some farm animals today.",
       "segmentIds": [
         "seg-059",
         "seg-060",
-        "seg-061"
+        "seg-061",
+        "seg-062"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 2,
+      "startTime": 462.08,
+      "endTime": 483.4,
+      "text": "We used to keep cows in the dairy, but someone had to be here twice a day to milk them, and it became difficult to manage. Chickens are everywhere though, not just on the farms. Every house kept a few for the eggs. You're welcome to have a look and see if you can find any to collect.",
+      "segmentIds": [
+        "seg-063",
+        "seg-064",
+        "seg-065",
+        "seg-066"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 2,
+      "startTime": 483.8,
+      "endTime": 496.72,
+      "text": "Goats were another favourite animal, but they cause trouble too. They're fun to feed, but they eat everything in sight. The ones that we had have moved to a nearby farm.",
+      "segmentIds": [
+        "seg-067",
+        "seg-068",
+        "seg-069"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-018",
       "part": 2,
-      "startTime": 437.35,
-      "endTime": 459.97,
-      "text": "We had hoped to show you how candles are made, but the person organising it had to cancel at the last minute. You're all in for a treat of another kind though. Just outside the shop we have an expert sweet maker who will be making lollipops the old-fashioned way, so do go and have a look.",
+      "startTime": 542.56,
+      "endTime": 565.12,
+      "text": "Now, you'll probably want some time to explore the village. Please open your maps and we'll have a look at the layout. We'll enter through the main gate, which is at the bottom of your map. So, if you'd like to see the schoolhouse, that's a good first stop because it's not too far from the gate. If you head directly north, you'll come to a beautiful old church.",
       "segmentIds": [
-        "seg-062",
-        "seg-063",
-        "seg-064"
+        "seg-070",
+        "seg-071",
+        "seg-072",
+        "seg-073",
+        "seg-074"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-019",
       "part": 2,
-      "startTime": 459.97,
-      "endTime": 483.0,
-      "text": "If you want to make bread yourself, head to the bakery and have a go. The space is quite small though, so no spectators please. You'll have a chance to interact with some farm animals today. We used to keep cows in the dairy, but someone had to be here twice a day to milk them, and it became difficult to manage.",
+      "startTime": 565.34,
+      "endTime": 585.84,
+      "text": "The schoolhouse is diagonally across from it. The mill is quite interesting. That's where they ground wheat to make flour for baking. To find it, go straight up from the main gate until you get to the clock tower. Turn right and it's on the other side of the road, across from the pond.",
       "segmentIds": [
-        "seg-065",
-        "seg-066",
-        "seg-067",
-        "seg-068"
+        "seg-075",
+        "seg-076",
+        "seg-077",
+        "seg-078",
+        "seg-079"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-020",
       "part": 2,
-      "startTime": 484.0,
-      "endTime": 505.48,
-      "text": "Chickens are everywhere though, not just on the farms. Every house kept a few for the eggs. You're welcome to have a look and see if you can find any to collect. Goats were another favourite animal, but they cause trouble too. They're fun to feed, but they eat everything in sight.",
+      "startTime": 586.38,
+      "endTime": 610.12,
+      "text": "Then, there are the stables, where the horses were kept. You may have seen the back of the stables already because they're a large building backing onto the car park. If you head west past the church, it's the first building you come to. Medical care was quite basic in those days. To get an idea of what it was like, you might like to visit the doctor's office.",
       "segmentIds": [
-        "seg-069",
-        "seg-070",
-        "seg-071",
-        "seg-072"
+        "seg-080",
+        "seg-081",
+        "seg-082",
+        "seg-083",
+        "seg-084"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-021",
       "part": 2,
-      "startTime": 505.48,
-      "endTime": 544.49,
-      "text": "The ones that we had have moved to a nearby farm. Before you hear the rest of the talk, you have some time to look at questions 15 to 20. Now listen and answer questions 15 to 20.",
+      "startTime": 610.36,
+      "endTime": 630.9,
+      "text": "Look in the middle of your maps and it's in a block of three buildings that are all close together. It's one of them. There's even an old hotel. Go up past the picnic area and the hotel is on the opposite side of the path, near the pond. Another place to see is the workshop.",
       "segmentIds": [
-        "seg-073",
-        "seg-074",
-        "seg-075"
+        "seg-085",
+        "seg-086",
+        "seg-087",
+        "seg-088",
+        "seg-089"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-022",
       "part": 2,
-      "startTime": 544.49,
-      "endTime": 566.66,
-      "text": "Now, you'll probably want some time to explore the village. Please open your maps and we'll have a look at the layout. We'll enter through the main gate, which is at the bottom of your map.",
+      "startTime": 631.36,
+      "endTime": 645.24,
+      "text": "It's at the end of that narrow winding path just south of the picnic area, which is on the right-hand side of your map, at the eastern end of the village. The village has been here since.",
       "segmentIds": [
-        "seg-076",
-        "seg-077",
-        "seg-078"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-023",
-      "part": 2,
-      "startTime": 566.66,
-      "endTime": 587.79,
-      "text": "So, if you'd like to see the schoolhouse, that's a good first stop because it's not too far from the gate. If you head directly north, you'll come to a beautiful old church. The schoolhouse is diagonally across from it. The mill is quite interesting. That's where they ground wheat to make flour for baking.",
-      "segmentIds": [
-        "seg-079",
-        "seg-080",
-        "seg-081",
-        "seg-082"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-024",
-      "part": 2,
-      "startTime": 587.79,
-      "endTime": 609.53,
-      "text": "To find it, go straight up from the main gate until you get to the clock tower. Turn right and it's on the other side of the road, across from the pond. Then, there are the stables, where the horses were kept. You may have seen the back of the stables already because they're a large building backing onto the car park.",
-      "segmentIds": [
-        "seg-083",
-        "seg-084",
-        "seg-085",
-        "seg-086"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-025",
-      "part": 2,
-      "startTime": 609.53,
-      "endTime": 632.24,
-      "text": "If you head west past the church, it's the first building you come to. Medical care was quite basic in those days. To get an idea of what it was like, you might like to visit the doctor's office. Look in the middle of your maps and it's in a block of three buildings that are all close together. It's one of them. There's even an old hotel.",
-      "segmentIds": [
-        "seg-087",
-        "seg-088",
-        "seg-089",
         "seg-090",
         "seg-091"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-026",
-      "part": 2,
-      "startTime": 632.24,
-      "endTime": 650.65,
-      "text": "Go up past the picnic area and the hotel is on the opposite side of the path, near the pond. Another place to see is the workshop. It's at the end of that narrow winding path just south of the picnic area,",
+      "id": "long-023",
+      "part": 3,
+      "startTime": 705.06,
+      "endTime": 725.56,
+      "text": "Hi, Annie, Ryan, come in. Morning. I know you want to discuss your project presentation. Start by reminding me what you're focussing on. We've been looking at a research article on the disposal of hazardous household waste. That includes things like dangerous chemicals we use in the home,",
       "segmentIds": [
         "seg-092",
         "seg-093",
-        "seg-094"
+        "seg-094",
+        "seg-095",
+        "seg-096"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 3,
+      "startTime": 725.56,
+      "endTime": 749.3,
+      "text": "but also less obvious items like electrical equipment, which are potentially really polluting as well. The research basically involved interviews, trying to find out what influenced the methods people use to get rid of their dangerous waste. There were some really surprising results about people's behaviour and attitudes with regard to waste disposal. Yeah.",
+      "segmentIds": [
+        "seg-097",
+        "seg-098",
+        "seg-099"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 3,
+      "startTime": 749.66,
+      "endTime": 772.76,
+      "text": "It's no great shock that in general people are much more aware than they used to be, you know, about the effects of these materials on the environment, and about the value of careful disposal, even the smallest, cheapest things. Yes, but I did think it was surprising that people don't get very enthusiastic about the subject of waste disposal,",
+      "segmentIds": [
+        "seg-100",
+        "seg-101",
+        "seg-102"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 3,
+      "startTime": 773.02,
+      "endTime": 790.98,
+      "text": "like they do about other aspects of environmental protection. Me too. Apparently they find it all rather tiresome. Another striking thing was that many people are more careful when they're using certain hazardous materials. than when they are getting rid of them.",
+      "segmentIds": [
+        "seg-103",
+        "seg-104",
+        "seg-105"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-027",
-      "part": 2,
-      "startTime": 650.65,
-      "endTime": 684.0,
-      "text": "which is on the right-hand side of your map, at the eastern end of the village. The village has been here since... That is the end of part two. You now have 30 seconds to check your answers to part two.",
+      "part": 3,
+      "startTime": 791.54,
+      "endTime": 814.48,
+      "text": "At that stage, they simply don't remember that they'll be bad for the environment. Absolutely. That really amazed us. I can see why. But were there any positives? Hope for the future? Well, in the conclusions section of the article, they talked about ways to improve recycling rates in the local area.",
       "segmentIds": [
-        "seg-095",
-        "seg-096",
-        "seg-097"
+        "seg-106",
+        "seg-107",
+        "seg-108",
+        "seg-109"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-028",
       "part": 3,
-      "startTime": 684.0,
-      "endTime": 713.32,
-      "text": "You will hear two environmental study students, called Annie and Ryan, discussing with their tutor a presentation they will give on disposing of dangerous household waste products. First you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24.",
+      "startTime": 814.62,
+      "endTime": 835.42,
+      "text": "And I think some of the ideas would improve things around here, you know. The article talked about laws in certain countries that certain types of waste have to be disposed of safely or you are taken to court. I think financial penalties are a good idea, but criminalising people is too harsh.",
       "segmentIds": [
-        "seg-098",
-        "seg-099",
-        "seg-100"
+        "seg-110",
+        "seg-111",
+        "seg-112"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-029",
       "part": 3,
-      "startTime": 713.32,
-      "endTime": 734.5,
-      "text": "Hi, Annie, Ryan, come in. Morning. I know you want to discuss your project presentation. Start by reminding me what you're focussing on. We've been looking at a research article on the disposal of hazardous household waste.",
+      "startTime": 835.7,
+      "endTime": 853.22,
+      "text": "I think it's more effective to impose a penalty on homes if they don't recycle stuff. I still think legislation forcing local councils to increase recycling rates works better. You can present both ideas. Yeah, and agree to differ.",
       "segmentIds": [
-        "seg-101",
-        "seg-102",
-        "seg-103",
-        "seg-104"
+        "seg-113",
+        "seg-114",
+        "seg-115",
+        "seg-116"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-030",
       "part": 3,
-      "startTime": 734.5,
-      "endTime": 754.0,
-      "text": "That includes things like dangerous chemicals we use in the home, but also less obvious items like electrical equipment, which are potentially really polluting as well. The research basically involved interviews, trying to find out what influenced the methods people use to get rid of their dangerous waste.",
+      "startTime": 854.42,
+      "endTime": 868.94,
+      "text": "I think encouragement is always better in the long run, and getting the local community involved, such as schools, working with kids. That way you establish good habits which last throughout their lives. Okay.",
       "segmentIds": [
-        "seg-105",
-        "seg-106",
-        "seg-107"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-031",
-      "part": 3,
-      "startTime": 755.0,
-      "endTime": 778.0,
-      "text": "There were some really surprising results about people's behaviour and attitudes with regard to waste disposal. Yeah. It's no great shock that in general people are much more aware than they used to be, you know, about the effects of these materials on the environment, and about the value of careful disposal, even the smallest, cheapest things.",
-      "segmentIds": [
-        "seg-108",
-        "seg-109",
-        "seg-110",
-        "seg-111"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-032",
-      "part": 3,
-      "startTime": 778.0,
-      "endTime": 794.0,
-      "text": "Yes, but I did think it was surprising that people don't get very enthusiastic about the subject of waste disposal, like they do about other aspects of environmental protection. Me too. Apparently they find it all rather tiresome.",
-      "segmentIds": [
-        "seg-112",
-        "seg-113",
-        "seg-114"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-033",
-      "part": 3,
-      "startTime": 795.0,
-      "endTime": 818.47,
-      "text": "Another striking thing was that many people are more careful when they're using certain hazardous materials. than when they are getting rid of them. At that stage, they simply don't remember that they'll be bad for the environment. Absolutely. That really amazed us. I can see why. But were there any positives? Hope for the future?",
-      "segmentIds": [
-        "seg-115",
-        "seg-116",
         "seg-117",
         "seg-118"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-034",
+      "id": "long-031",
       "part": 3,
-      "startTime": 818.47,
-      "endTime": 841.0,
-      "text": "Well, in the conclusions section of the article, they talked about ways to improve recycling rates in the local area. And I think some of the ideas would improve things around here, you know. The article talked about laws in certain countries that certain types of waste have to be disposed of safely or you are taken to court.",
+      "startTime": 915.7,
+      "endTime": 935.62,
+      "text": "Do you want to talk through your actual presentation? Yes, we thought we'd talk about different types of waste covered in the research and give advice on each one. That's a great idea. We thought we'd start with paint. Yeah, we'll explain that we advise setting up schemes",
       "segmentIds": [
         "seg-119",
         "seg-120",
-        "seg-121"
+        "seg-121",
+        "seg-122"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-035",
+      "id": "long-032",
       "part": 3,
-      "startTime": 842.0,
-      "endTime": 861.0,
-      "text": "I think financial penalties are a good idea, but criminalising people is too harsh. I think it's more effective to impose a penalty on homes if they don't recycle stuff. I still think legislation forcing local councils to increase recycling rates works better.",
+      "startTime": 935.62,
+      "endTime": 958.8,
+      "text": "where you can take it to a centre to be used by people who need it, repainting an elderly person's home, for example, like they do in many parts of the world. Yes, which is a positive note to start on. And will you discuss batteries? Definitely. They're so small that they're the simplest things to drop in a bin and forget.",
       "segmentIds": [
-        "seg-122",
         "seg-123",
-        "seg-124"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-036",
-      "part": 3,
-      "startTime": 862.0,
-      "endTime": 882.7,
-      "text": "You can present both ideas. Yeah, and agree to differ. I think encouragement is always better in the long run, and getting the local community involved, such as schools, working with kids. That way you establish good habits which last throughout their lives. Okay.",
-      "segmentIds": [
+        "seg-124",
         "seg-125",
         "seg-126",
         "seg-127"
@@ -3233,94 +3058,94 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-037",
+      "id": "long-033",
       "part": 3,
-      "startTime": 882.7,
-      "endTime": 891.0,
-      "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30.",
+      "startTime": 959.04,
+      "endTime": 980.78,
+      "text": "And I think we should emphasise that people should have a storage container at home where they can put them until they've got enough to take to a central collection facility because they're full of toxic substances. Medicines are really interesting. I imagine people don't think of them as dangerous. No, indeed.",
       "segmentIds": [
-        "seg-128"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-038",
-      "part": 3,
-      "startTime": 921.0,
-      "endTime": 944.31,
-      "text": "Now listen and answer questions 25 to 30. Do you want to talk through your actual presentation? Yes, we thought we'd talk about different types of waste covered in the research and give advice on each one. That's a great idea. We thought we'd start with paint.",
-      "segmentIds": [
+        "seg-128",
         "seg-129",
         "seg-130",
-        "seg-131",
+        "seg-131"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 3,
+      "startTime": 981.04,
+      "endTime": 1002.4,
+      "text": "The point we want to make is that, as a rule, things like antibiotics should not need to be thrown away in the first place because doctors usually tell us we should finish off the whole course of tablets. So there aren't any left to go for waste. Doubly good strategy. Are you discussing pesticides? Yes.",
+      "segmentIds": [
         "seg-132",
-        "seg-133"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-039",
-      "part": 3,
-      "startTime": 944.31,
-      "endTime": 965.82,
-      "text": "Yeah, we'll explain that we advise setting up schemes where you can take it to a centre to be used by people who need it, repainting an elderly person's home, for example, like they do in many parts of the world. Yes, which is a positive note to start on. And will you discuss batteries? Definitely.",
-      "segmentIds": [
+        "seg-133",
         "seg-134",
-        "seg-135",
+        "seg-135"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 3,
+      "startTime": 1002.6,
+      "endTime": 1023.04,
+      "text": "The point we highlight from the article is that people are often unsure what to do with them. And there needs to be clearer information given on the packaging so people are left in no doubt. We thought we'd also look at tyres. Rather than sending them to the dump, people should be encouraged to be creative with them.",
+      "segmentIds": [
         "seg-136",
-        "seg-137"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-040",
-      "part": 3,
-      "startTime": 965.82,
-      "endTime": 992.19,
-      "text": "They're so small that they're the simplest things to drop in a bin and forget. And I think we should emphasise that people should have a storage container at home where they can put them until they've got enough to take to a central collection facility because they're full of toxic substances. Medicines are really interesting. I imagine people don't think of them as dangerous.",
-      "segmentIds": [
+        "seg-137",
         "seg-138",
-        "seg-139",
-        "seg-140"
+        "seg-139"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-041",
+      "id": "long-036",
       "part": 3,
-      "startTime": 992.19,
-      "endTime": 1014.34,
-      "text": "No, indeed. The point we want to make is that, as a rule, things like antibiotics should not need to be thrown away in the first place because doctors usually tell us we should finish off the whole course of tablets. So there aren't any left to go for waste. Doubly good strategy. Are you discussing pesticides? Yes.",
+      "startTime": 1023.36,
+      "endTime": 1042.82,
+      "text": "Not just sending them away to be recut for retreads, but to make them into things like plant holders for your garden. Good, yeah. And will you mention any electrical appliances? We've opted to finish with fridges because this is actually a good news story.",
       "segmentIds": [
+        "seg-140",
         "seg-141",
-        "seg-142",
+        "seg-142"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 1043.06,
+      "endTime": 1056.86,
+      "text": "The fact that we now have the capacity to use less dangerous materials. And we should continue to exploit that capacity to reduce effects on the ozone layer. Good. Well, that seems.",
+      "segmentIds": [
         "seg-143",
         "seg-144"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-042",
-      "part": 3,
-      "startTime": 1014.34,
-      "endTime": 1036.29,
-      "text": "The point we highlight from the article is that people are often unsure what to do with them. And there needs to be clearer information given on the packaging so people are left in no doubt. We thought we'd also look at tyres. Rather than sending them to the dump, people should be encouraged to be creative with them.",
+      "id": "long-038",
+      "part": 4,
+      "startTime": 1146.26,
+      "endTime": 1167.18,
+      "text": "Hi everyone. I've just returned from my field trip and want to share some of my experiences with you. I learnt a lot about whale sharks on this trip. For example, they're actually the largest species of fish in the world's seas, about the size of a bus. Despite their massive size, whale sharks are docile animals.",
       "segmentIds": [
         "seg-145",
         "seg-146",
         "seg-147",
-        "seg-148"
+        "seg-148",
+        "seg-149"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-043",
-      "part": 3,
-      "startTime": 1036.29,
-      "endTime": 1060.0,
-      "text": "Not just sending them away to be recut for retreads, but to make them into things like plant holders for your garden. Good, yeah. And will you mention any electrical appliances? We've opted to finish with fridges because this is actually a good news story. The fact that we now have the capacity to use less dangerous materials.",
+      "id": "long-039",
+      "part": 4,
+      "startTime": 1173.78,
+      "endTime": 1191.26,
+      "text": "They are in fact sharks, but they do have some things in common with whales. They're similar in terms of their large size and what they eat. Like many species of whales, their diet consists mainly of plankton and krill, which are tiny plants and animals.",
       "segmentIds": [
-        "seg-149",
         "seg-150",
         "seg-151",
         "seg-152"
@@ -3328,35 +3153,25 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-044",
-      "part": 3,
-      "startTime": 1061.0,
-      "endTime": 1085.79,
-      "text": "And we should continue to exploit that capacity to reduce effects on the ozone layer. Good. Well, that seems... That is the end of Part 3.",
+      "id": "long-040",
+      "part": 4,
+      "startTime": 1192.54,
+      "endTime": 1214.7,
+      "text": "Unlike many whale species, they prefer to swim close to the surface of the water rather than cruising the depths of the ocean. So that's a key difference relating to their habits. Another one relates to their physical make-up. Their skeleton is made entirely of cartilage, in comparison to whales that have skeletons made of real bones.",
       "segmentIds": [
         "seg-153",
         "seg-154",
-        "seg-155"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-045",
-      "part": 3,
-      "startTime": 1085.79,
-      "endTime": 1096.0,
-      "text": "You now have 30 seconds to check your answers to Part 3.",
-      "segmentIds": [
+        "seg-155",
         "seg-156"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-046",
+      "id": "long-041",
       "part": 4,
-      "startTime": 1096.0,
-      "endTime": 1120.22,
-      "text": "You will hear part of a student presentation about a field trip to a whale shark research centre given to fellow marine biology students. First you have some time to look at questions 31 to 40. Now listen carefully and answer questions 31 to 40.",
+      "startTime": 1214.96,
+      "endTime": 1235.36,
+      "text": "The place I visited is called Ningaloo in Western Australia. We were there to observe a large group of whale sharks which congregate in that part of the ocean each year between April and July. Ningaloo is ideal for whale sharks because there is a coral reef nearby which ensures an abundant supply of food.",
       "segmentIds": [
         "seg-157",
         "seg-158",
@@ -3365,11 +3180,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-047",
+      "id": "long-042",
       "part": 4,
-      "startTime": 1120.22,
-      "endTime": 1152.43,
-      "text": "Hi everyone. I've just returned from my field trip and want to share some of my experiences with you. I learnt a lot about whale sharks on this trip.",
+      "startTime": 1235.58,
+      "endTime": 1254.2,
+      "text": "It's great for divers too, because although it's in relatively deep waters, the reef is in close proximity to the shore, unlike some reefs that you have to travel miles to get to. I'd like to move on now to tell you about the Whale Shark Research Centre and the research being conducted there.",
       "segmentIds": [
         "seg-160",
         "seg-161",
@@ -3378,11 +3193,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-048",
+      "id": "long-043",
       "part": 4,
-      "startTime": 1152.43,
-      "endTime": 1186.67,
-      "text": "For example, they're actually the largest species of fish in the world's seas, about the size of a bus. Despite their massive size, whale sharks are docile animals. Because of the name, you might be confused about whether these animals are whales or sharks.",
+      "startTime": 1255.18,
+      "endTime": 1273.5,
+      "text": "We know that whale sharks are migratory, but not a lot is known about where they go and why. The methods currently being used to monitor them could be better. One way is to use an electronic tracking device, or tag, which researchers have to attach manually to the fin.",
       "segmentIds": [
         "seg-163",
         "seg-164",
@@ -3391,11 +3206,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-049",
+      "id": "long-044",
       "part": 4,
-      "startTime": 1186.67,
-      "endTime": 1203.65,
-      "text": "They are in fact sharks, but they do have some things in common with whales. They're similar in terms of their large size and what they eat. Like many species of whales, their diet consists mainly of plankton and krill, which are tiny plants and animals.",
+      "startTime": 1273.76,
+      "endTime": 1293.26,
+      "text": "It's not an easy process, and the tags are also quite expensive, so if it falls off, you're in trouble. Another way of monitoring whale sharks is with a special drone to spot the animals in the ocean. This can give you a rough idea of numbers, but obviously it's not an exact science.",
       "segmentIds": [
         "seg-166",
         "seg-167",
@@ -3404,11 +3219,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-050",
+      "id": "long-045",
       "part": 4,
-      "startTime": 1203.65,
-      "endTime": 1227.0,
-      "text": "Unlike many whale species, they prefer to swim close to the surface of the water rather than cruising the depths of the ocean. So that's a key difference relating to their habits. Another one relates to their physical make-up. Their skeleton is made entirely of cartilage, in comparison to whales that have skeletons made of real bones.",
+      "startTime": 1295.24,
+      "endTime": 1318.98,
+      "text": "The researchers at Ningaloo are involved in a new research project that's currently being carried out to investigate whale shark feeding habits. They hope to find out more about how far whale sharks travel to feed. They're using an innovative approach to do this, which analyses plankton. Apparently, plankton from different places contains different quantities of carbon types.",
       "segmentIds": [
         "seg-169",
         "seg-170",
@@ -3418,77 +3233,67 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-051",
+      "id": "long-046",
       "part": 4,
-      "startTime": 1228.0,
-      "endTime": 1248.0,
-      "text": "The place I visited is called Ningaloo in Western Australia. We were there to observe a large group of whale sharks which congregate in that part of the ocean each year between April and July. Ningaloo is ideal for whale sharks because there is a coral reef nearby which ensures an abundant supply of food.",
+      "startTime": 1319.14,
+      "endTime": 1332.56,
+      "text": "The researchers are checking the plankton consumed by the whale shark against maps which have all the different plankton zones marked on them. This comparison allows them to track exactly where the whale shark has been feeding.",
       "segmentIds": [
         "seg-173",
-        "seg-174",
-        "seg-175"
+        "seg-174"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-052",
+      "id": "long-047",
       "part": 4,
-      "startTime": 1248.0,
-      "endTime": 1267.76,
-      "text": "It's great for divers too, because although it's in relatively deep waters, the reef is in close proximity to the shore, unlike some reefs that you have to travel miles to get to. I'd like to move on now to tell you about the Whale Shark Research Centre and the research being conducted there.",
+      "startTime": 1337.6,
+      "endTime": 1358.52,
+      "text": "Some research that I was involved in on my field trip was directly observing the whale shark behaviour. This was part of a small study being carried out in Ningaloo to find out how whale sharks are affected by human activity. We drifted along in our boat with the engine off, then when a whale shark was nearby, we switched on the engine.",
       "segmentIds": [
+        "seg-175",
         "seg-176",
-        "seg-177",
-        "seg-178"
+        "seg-177"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-053",
+      "id": "long-048",
       "part": 4,
-      "startTime": 1267.76,
-      "endTime": 1286.59,
-      "text": "We know that whale sharks are migratory, but not a lot is known about where they go and why. The methods currently being used to monitor them could be better. One way is to use an electronic tracking device, or tag, which researchers have to attach manually to the fin.",
+      "startTime": 1358.82,
+      "endTime": 1381.82,
+      "text": "We noticed that the resulting noise affected the behaviour of the animal. As soon as it heard the sound, we saw it dive. This happened on several occasions and was quite obvious. One day, we got to witness the great work they're doing at the centre to educate the community about whale sharks. At the moment, there's a whale shark race.",
       "segmentIds": [
+        "seg-178",
         "seg-179",
         "seg-180",
-        "seg-181"
+        "seg-181",
+        "seg-182"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-054",
+      "id": "long-049",
       "part": 4,
-      "startTime": 1286.59,
-      "endTime": 1306.19,
-      "text": "It's not an easy process, and the tags are also quite expensive, so if it falls off, you're in trouble. Another way of monitoring whale sharks is with a special drone to spot the animals in the ocean. This can give you a rough idea of numbers, but obviously it's not an exact science.",
+      "startTime": 1381.98,
+      "endTime": 1402.16,
+      "text": "The researchers select a mature whale shark which has been tagged and they allocate it to a school. The children get to track the journey of their whale shark and see which one travels the furthest. All the data is on the website. It's clear that these majestic creatures require careful conservation and management.",
       "segmentIds": [
-        "seg-182",
         "seg-183",
-        "seg-184"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-055",
-      "part": 4,
-      "startTime": 1306.19,
-      "endTime": 1325.6,
-      "text": "The researchers at Ningaloo are involved in a new research project that's currently being carried out to investigate whale shark feeding habits. They hope to find out more about how far whale sharks travel to feed. They're using an innovative approach to do this, which analyses plankton.",
-      "segmentIds": [
+        "seg-184",
         "seg-185",
-        "seg-186",
-        "seg-187"
+        "seg-186"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-056",
+      "id": "long-050",
       "part": 4,
-      "startTime": 1325.6,
-      "endTime": 1348.49,
-      "text": "Apparently, plankton from different places contains different quantities of carbon types. The researchers are checking the plankton consumed by the whale shark against maps which have all the different plankton zones marked on them. This comparison allows them to track exactly where the whale shark has been feeding.",
+      "startTime": 1402.5,
+      "endTime": 1424.54,
+      "text": "With humans and whale sharks being in close proximity, problems can occur. While these events may be rare, all injuries which whale sharks suffer must be documented, with information such as date and location and a photograph if possible. The Fisheries Department has agreed to keep these records in their digital image library.",
       "segmentIds": [
+        "seg-187",
         "seg-188",
         "seg-189",
         "seg-190"
@@ -3496,73 +3301,16 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-057",
+      "id": "long-051",
       "part": 4,
-      "startTime": 1348.49,
-      "endTime": 1371.23,
-      "text": "Some research that I was involved in on my field trip was directly observing the whale shark behaviour. This was part of a small study being carried out in Ningaloo to find out how whale sharks are affected by human activity. We drifted along in our boat with the engine off, then when a whale shark was nearby, we switched on the engine.",
+      "startTime": 1424.98,
+      "endTime": 1444.0,
+      "text": "Something that is being introduced next year in Ningaloo is a Code of Conduct. It covers the rules that need to be followed to minimise any distress to the sharks. Scuba diving is not going to be allowed anymore, as previous research has found that whale sharks find bubbles disturbing. Another new rule is that boats.",
       "segmentIds": [
         "seg-191",
         "seg-192",
-        "seg-193"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-058",
-      "part": 4,
-      "startTime": 1371.23,
-      "endTime": 1394.46,
-      "text": "We noticed that the resulting noise affected the behaviour of the animal. As soon as it heard the sound, we saw it dive. This happened on several occasions and was quite obvious. One day, we got to witness the great work they're doing at the centre to educate the community about whale sharks. At the moment, there's a whale shark race.",
-      "segmentIds": [
-        "seg-194",
-        "seg-195",
-        "seg-196",
-        "seg-197",
-        "seg-198"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-059",
-      "part": 4,
-      "startTime": 1394.46,
-      "endTime": 1414.94,
-      "text": "The researchers select a mature whale shark which has been tagged and they allocate it to a school. The children get to track the journey of their whale shark and see which one travels the furthest. All the data is on the website. It's clear that these majestic creatures require careful conservation and management.",
-      "segmentIds": [
-        "seg-199",
-        "seg-200",
-        "seg-201",
-        "seg-202"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-060",
-      "part": 4,
-      "startTime": 1414.94,
-      "endTime": 1437.02,
-      "text": "With humans and whale sharks being in close proximity, problems can occur. While these events may be rare, all injuries which whale sharks suffer must be documented, with information such as date and location and a photograph if possible. The Fisheries Department has agreed to keep these records in their digital image library.",
-      "segmentIds": [
-        "seg-203",
-        "seg-204",
-        "seg-205",
-        "seg-206"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-061",
-      "part": 4,
-      "startTime": 1437.02,
-      "endTime": 1458.47,
-      "text": "Something that is being introduced next year in Ningaloo is a Code of Conduct. It covers the rules that need to be followed to minimise any distress to the sharks. Scuba diving is not going to be allowed anymore, as previous research has found that whale sharks find bubbles disturbing. Another new rule is that boats... That is the end of Part 4. You now have one minute to check your answers to Part 4.",
-      "segmentIds": [
-        "seg-207",
-        "seg-208",
-        "seg-209",
-        "seg-210",
-        "seg-211"
+        "seg-193",
+        "seg-194"
       ],
       "timestampSource": "exact"
     }

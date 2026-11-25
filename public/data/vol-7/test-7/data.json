@@ -12,7 +12,7 @@
   "audioUrl": "./data/vol-7/test-7/audio.mp3",
   "audioDurationSec": 1559.3,
   "hasExactTimestamps": true,
-  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "timestampNote": "Mốc thời gian đã được căn chỉnh trực tiếp từ audio gốc ở mức từng từ (acoustic forced alignment).",
   "parts": [
     {
       "partNumber": 1,
@@ -21,8 +21,8 @@
         1,
         10
       ],
-      "startTime": 0.0,
-      "endTime": 363.0,
+      "startTime": 1.98,
+      "endTime": 328.12,
       "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
     },
     {
@@ -32,8 +32,8 @@
         11,
         20
       ],
-      "startTime": 363.0,
-      "endTime": 726.0,
+      "startTime": 328.22,
+      "endTime": 686.82,
       "topicHint": "You will hear a school principal talking to a group of parents who are volunteering at a school fair."
     },
     {
@@ -43,9 +43,9 @@
         21,
         30
       ],
-      "startTime": 726.0,
-      "endTime": 1174.0,
-      "topicHint": "You will hear two students, called Jamie and Martha, discussing their environmental science course. First, you have some time to look at questions 21 to 26."
+      "startTime": 715.52,
+      "endTime": 1083.1,
+      "topicHint": "You will hear two students, called Jamie and Martha, discussing their environmental science course."
     },
     {
       "partNumber": 4,
@@ -54,25 +54,25 @@
         31,
         40
       ],
-      "startTime": 1174.0,
-      "endTime": 1556.0,
-      "topicHint": "You will hear a music student giving a talk about an Italian composer. First you have some time to look at questions 31 to 40. Now listen carefully and answer questions 31 to 40."
+      "startTime": 1111.76,
+      "endTime": 1488.34,
+      "topicHint": "You will hear a music student giving a talk about an Italian composer."
     }
   ],
   "questions": [
     {
       "number": 1,
       "part": 1,
-      "promptContext": "h children Alma Park o Go to the zoo. o A family ticket is $ 1…… . o The fastest bus takes about 2…… minutes. o You can hold some animals and have a 3…… for a small fee. The Entertainment Room o John 4 …..is performing. o Performance run from Tuesday to 5 …... o There is a 6…… on tickets for Monday night’s preview. The C",
+      "promptContext": "o A family ticket is $",
       "answerRaw": "65",
       "canonicalAnswer": "65",
       "acceptedAnswers": [
         "65"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "A standard adult ticket is normally $30, but there's a special deal for families of $65, which is a saving of $35.",
-      "evidenceStartTime": 118.11,
-      "evidenceEndTime": 132.0,
+      "evidenceQuote": "A standard adult ticket is normally $30, but there's a special deal for families of $65, which is a saving of $35. That's a great deal.",
+      "evidenceStartTime": 125.2,
+      "evidenceEndTime": 135.64,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -82,7 +82,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ". o A family ticket is $ 1…… . o The fastest bus takes about 2…… minutes. o You can hold some animals and have a 3…… for a small fee. The Entertainment Room o John 4 …..is performing. o Performance run from Tuesday to 5 …... o There is a 6…… on tickets for Monday night’s preview. The City o Go to the city center 7…… to s",
+      "promptContext": ". o The fastest bus takes about",
       "answerRaw": "40",
       "canonicalAnswer": "40",
       "acceptedAnswers": [
@@ -90,8 +90,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The 385 will get you there in approximately 40 minutes, depending on traffic.",
-      "evidenceStartTime": 138.93,
-      "evidenceEndTime": 144.0,
+      "evidenceStartTime": 140.16,
+      "evidenceEndTime": 145.22,
       "paraphrases": [],
       "distractors": [
         "Có số gây nhiễu (385) xuất hiện sát đáp án chuẩn '40'."
@@ -101,7 +101,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "es about 2…… minutes. o You can hold some animals and have a 3…… for a small fee. The Entertainment Room o John 4 …..is performing. o Performance run from Tuesday to 5 …... o There is a 6…… on tickets for Monday night’s preview. The City o Go to the city center 7…… to see a special exhibition. – Do origami – we’ll need t",
+      "promptContext": "minutes. o You can hold some animals and have a",
       "answerRaw": "photo",
       "canonicalAnswer": "photo",
       "acceptedAnswers": [
@@ -109,8 +109,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "They've stopped that, but most tourists love the fact that you're allowed to hold some of the animals and get your photo taken.",
-      "evidenceStartTime": 157.33,
-      "evidenceEndTime": 164.99,
+      "evidenceStartTime": 159.64,
+      "evidenceEndTime": 166.64,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -120,16 +120,16 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "nd have a 3…… for a small fee. The Entertainment Room o John 4 …..is performing. o Performance run from Tuesday to 5 …... o There is a 6…… on tickets for Monday night’s preview. The City o Go to the city center 7…… to see a special exhibition. – Do origami – we’ll need to take a small 8…… . Bunyabbie Island o Explore wit",
+      "promptContext": "for a small fee. The Entertainment Room o John …..is performing. o Performance run from Tuesday to",
       "answerRaw": "Rosie",
       "canonicalAnswer": "Rosie",
       "acceptedAnswers": [
         "Rosie"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Hmm, yes, there's a festival running at the moment with John Rosie as the main entertainer.",
-      "evidenceStartTime": 184.0,
-      "evidenceEndTime": 191.08,
+      "evidenceQuote": "Hmm, yes, there's a festival running at the moment with John Rosie as the main entertainer. He's really funny. How do you spell that? Is it R-O-Z-Y?",
+      "evidenceStartTime": 184.72,
+      "evidenceEndTime": 195.06,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"Rosie\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -137,16 +137,16 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "o John 4 …..is performing. o Performance run from Tuesday to 5 …... o There is a 6…… on tickets for Monday night’s preview. The City o Go to the city center 7…… to see a special exhibition. – Do origami – we’ll need to take a small 8…… . Bunyabbie Island o Explore with a four-wheel drive. o Go snorkelling at Salty Lake –",
+      "promptContext": "o Performance run from Tuesday to",
       "answerRaw": "Saturday",
       "canonicalAnswer": "Saturday",
       "acceptedAnswers": [
         "Saturday"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "It was supposed to finish on Friday, but because of the demand it's been extended to Saturday.",
-      "evidenceStartTime": 206.0,
-      "evidenceEndTime": 211.8,
+      "evidenceQuote": "It was supposed to finish on Friday, but because of the demand it's been extended to Saturday. It must be good then. Is it expensive?",
+      "evidenceStartTime": 207.48,
+      "evidenceEndTime": 215.48,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -156,7 +156,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "rming. o Performance run from Tuesday to 5 …... o There is a 6…… on tickets for Monday night’s preview. The City o Go to the city center 7…… to see a special exhibition. – Do origami – we’ll need to take a small 8…… . Bunyabbie Island o Explore with a four-wheel drive. o Go snorkelling at Salty Lake – it’s on the 9…… sid",
+      "promptContext": "o There is a",
       "answerRaw": "discount",
       "canonicalAnswer": "discount",
       "acceptedAnswers": [
@@ -164,8 +164,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Oh, it says there's a special preview show on the Monday, and they're offering a discount on tickets that night.",
-      "evidenceStartTime": 215.93,
-      "evidenceEndTime": 222.84,
+      "evidenceStartTime": 218.72,
+      "evidenceEndTime": 224.42,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"discount\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -173,7 +173,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "for Monday night’s preview. The City o Go to the city center 7…… to see a special exhibition. – Do origami – we’ll need to take a small 8…… . Bunyabbie Island o Explore with a four-wheel drive. o Go snorkelling at Salty Lake – it’s on the 9…… side of the Island. o You’re not allowed to 10……… on the island",
+      "promptContext": "on tickets for Monday night’s preview. The City o Go to the city center",
       "answerRaw": "museum",
       "canonicalAnswer": "museum",
       "acceptedAnswers": [
@@ -181,8 +181,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Is there anything else for them to do? What's the museum like?",
-      "evidenceStartTime": 256.62,
-      "evidenceEndTime": 264.14,
+      "evidenceStartTime": 268.04,
+      "evidenceEndTime": 271.82,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"museum\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -190,38 +190,42 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "pecial exhibition. – Do origami – we’ll need to take a small 8…… . Bunyabbie Island o Explore with a four-wheel drive. o Go snorkelling at Salty Lake – it’s on the 9…… side of the Island. o You’re not allowed to 10……… on the island",
+      "promptContext": "to see a special exhibition. – Do origami – we’ll need to take a small",
       "answerRaw": "box",
       "canonicalAnswer": "box",
       "acceptedAnswers": [
         "box"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "They just advise children to bring a box to carry the completed origami home in.",
-      "evidenceStartTime": 290.0,
-      "evidenceEndTime": 294.76,
+      "evidenceQuote": "They just advise children to bring a box to carry the completed origami home in. Just a little one will do.",
+      "evidenceStartTime": 290.82,
+      "evidenceEndTime": 296.68,
       "paraphrases": [
         {
           "questionTerm": "take",
           "audioTerm": "bring"
+        },
+        {
+          "questionTerm": "small",
+          "audioTerm": "little"
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"box\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'take' ↔ 'bring'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"box\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'take' ↔ 'bring'; 'small' ↔ 'little'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 9,
       "part": 1,
-      "promptContext": "ur-wheel drive. o Go snorkelling at Salty Lake – it’s on the 9…… side of the Island. o You’re not allowed to 10……… on the island",
+      "promptContext": ". Bunyabbie Island o Explore with a four-wheel drive. o Go snorkelling at Salty Lake – it’s on the",
       "answerRaw": "Ocean",
       "canonicalAnswer": "Ocean",
       "acceptedAnswers": [
         "Ocean"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Is that in the centre of the island, near the mountain? No, it's on the ocean side.",
-      "evidenceStartTime": 310.0,
-      "evidenceEndTime": 314.53,
+      "evidenceQuote": "No, it's on the ocean side. OK, I'll get a map and check it out.",
+      "evidenceStartTime": 312.64,
+      "evidenceEndTime": 318.28,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"Ocean\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -229,36 +233,33 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "it’s on the 9…… side of the Island. o You’re not allowed to 10……… on the island",
+      "promptContext": "side of the Island. o You’re not allowed to",
       "answerRaw": "camp",
       "canonicalAnswer": "camp",
       "acceptedAnswers": [
         "camp"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Are you allowed to camp there? That would be lovely, but I'm afraid...",
-      "evidenceStartTime": 324.0,
-      "evidenceEndTime": 363.0,
+      "evidenceQuote": "I'd like to stay there at least one night, and I quite like the idea of taking a tent and sleeping out in the open air. Are you allowed to camp there?",
+      "evidenceStartTime": 318.4,
+      "evidenceEndTime": 325.94,
       "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
-        "từ chối hoặc báo không khả dụng ('I'm afraid')"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"camp\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"camp\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 11,
       "part": 2,
-      "promptContext": "s 11-14. Comments Volunteer roles Entertainment co-ordinator 11……. Advertising and promotion co-ordinator 12…… Technical co-ordinator 13……… Staffing co-ordinator 14…………. A An office will be provided for this role. B More than one person is needed for this role. C This is a new role for this year’s fair. D This role will s",
+      "promptContext": "Entertainment co-ordinator",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
         "E"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "We need an advertising and promotion coordinator to make sure that people hear about the fair and lots of people come.",
-      "evidenceStartTime": 414.31,
-      "evidenceEndTime": 422.0,
+      "evidenceQuote": "The entertainment coordinator position involves deciding what kinds of rides",
+      "evidenceStartTime": 394.08,
+      "evidenceEndTime": 398.28,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -266,116 +267,117 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "nt co-ordinator 11……. Advertising and promotion co-ordinator 12…… Technical co-ordinator 13……… Staffing co-ordinator 14…………. A An office will be provided for this role. B More than one person is needed for this role. C This is a new role for this year’s fair. D This role will start next month. E This role will mainly invo",
+      "promptContext": ". Advertising and promotion co-ordinator",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The parent who did this role last year has just been offered a job, which starts next month,",
-      "evidenceStartTime": 428.89,
-      "evidenceEndTime": 434.42,
-      "paraphrases": [
-        {
-          "questionTerm": "role",
-          "audioTerm": "job"
-        }
-      ],
+      "evidenceQuote": "We need an advertising and promotion coordinator to make sure that people hear about the fair and lots of people come.",
+      "evidenceStartTime": 416.28,
+      "evidenceEndTime": 423.62,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'role' ↔ 'job'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "ising and promotion co-ordinator 12…… Technical co-ordinator 13……… Staffing co-ordinator 14…………. A An office will be provided for this role. B More than one person is needed for this role. C This is a new role for this year’s fair. D This role will start next month. E This role will mainly involve evening work. F To do th",
+      "promptContext": "Technical co-ordinator",
       "answerRaw": "F",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
         "F"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The parent who did this role last year has just been offered a job, which starts next month,",
-      "evidenceStartTime": 428.89,
-      "evidenceEndTime": 434.42,
-      "paraphrases": [
-        {
-          "questionTerm": "work",
-          "audioTerm": "job"
-        }
-      ],
+      "evidenceQuote": "We know this is a big job, so we've decided to have a couple of people doing it to share the load.",
+      "evidenceStartTime": 423.94,
+      "evidenceEndTime": 430.44,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"F\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"F\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "ator 12…… Technical co-ordinator 13……… Staffing co-ordinator 14…………. A An office will be provided for this role. B More than one person is needed for this role. C This is a new role for this year’s fair. D This role will start next month. E This role will mainly involve evening work. F To do this role you need your own tr",
+      "promptContext": "…………. A An office will be provided for this role. B More than one person is needed for this role. C This is a new role for this year’s fair. D This role will start next month. E This role will mainly involve evening work. F To do this role you need your own transport. Questions 15–20 Label the map below Choose the correct letter, A-I, next to questions 15-20. A B C D E F G H I",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The parent who did this role last year has just been offered a job, which starts next month,",
-      "evidenceStartTime": 428.89,
-      "evidenceEndTime": 434.42,
+      "evidenceQuote": "The parent who did this role last year has just been offered a job, which starts next month, so she won't be able to lend us the benefit of her experience, sadly.",
+      "evidenceStartTime": 430.8,
+      "evidenceEndTime": 439.46,
       "paraphrases": [
         {
           "questionTerm": "work",
           "audioTerm": "job"
         }
       ],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "rect letter, A-I, next to questions 15-20. A B C D E F G H I 15 Fairground rides 16 Entertainment stage 17 Café 18 First aid tent 19 Market stalls 20 Pony rides",
+      "promptContext": ". A An office will be provided for this role. B More than one person is needed for this role. C This is a new role for this year’s fair. D This role will start next month. E This role will mainly involve evening work. F To do this role you need your own transp",
       "answerRaw": "I",
       "canonicalAnswer": "I",
       "acceptedAnswers": [
         "I"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The first thing I'll show you are the fairground rights, which are always popular with the children.",
-      "evidenceStartTime": 557.04,
-      "evidenceEndTime": 563.0,
-      "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"I\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "evidenceQuote": "The parent who did this role last year has just been offered a job, which starts next month, so she won't be able to lend us the benefit of her experience, sadly.",
+      "evidenceStartTime": 430.8,
+      "evidenceEndTime": 439.46,
+      "paraphrases": [
+        {
+          "questionTerm": "work",
+          "audioTerm": "job"
+        }
+      ],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"I\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "xt to questions 15-20. A B C D E F G H I 15 Fairground rides 16 Entertainment stage 17 Café 18 First aid tent 19 Market stalls 20 Pony rides",
+      "promptContext": "rides Entertainment stage",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
         "D"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The first thing I'll show you are the fairground rights, which are always popular with the children.",
-      "evidenceStartTime": 557.04,
-      "evidenceEndTime": 563.0,
+      "evidenceQuote": "The parent who did this role last year has just been offered a job, which starts next month, so she won't be able to lend us the benefit of her experience, sadly.",
+      "evidenceStartTime": 430.8,
+      "evidenceEndTime": 439.46,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
     },
     {
       "number": 17,
       "part": 2,
-      "promptContext": "A B C D E F G H I 15 Fairground rides 16 Entertainment stage 17 Café 18 First aid tent 19 Market stalls 20 Pony rides",
+      "promptContext": "stage Café",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The entertainment stage is a big feature of the fair, and this is where everyone will be able to see all the performers.",
-      "evidenceStartTime": 575.76,
-      "evidenceEndTime": 583.0,
+      "evidenceQuote": "We found that our volunteers felt a bit overworked, and so we're hoping that this role will make things easier.",
+      "evidenceStartTime": 483.62,
+      "evidenceEndTime": 490.2,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -383,7 +385,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "E F G H I 15 Fairground rides 16 Entertainment stage 17 Café 18 First aid tent 19 Market stalls 20 Pony rides",
+      "promptContext": "Café First aid tent",
       "answerRaw": "H",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -391,8 +393,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The first A tent is always an important part of the fair.",
-      "evidenceStartTime": 619.69,
-      "evidenceEndTime": 623.42,
+      "evidenceStartTime": 621.54,
+      "evidenceEndTime": 625.42,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"H\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -400,7 +402,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": "round rides 16 Entertainment stage 17 Café 18 First aid tent 19 Market stalls 20 Pony rides",
+      "promptContext": "First aid tent Market stalls",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -408,8 +410,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The market stalls are where visitors will be able to pick up a bargain, or some homemade produce.",
-      "evidenceStartTime": 639.06,
-      "evidenceEndTime": 645.12,
+      "evidenceStartTime": 640.9,
+      "evidenceEndTime": 646.62,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -417,7 +419,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "tertainment stage 17 Café 18 First aid tent 19 Market stalls 20 Pony rides",
+      "promptContext": "Market stalls Pony rides",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -425,8 +427,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Of course, there'll be the ever-popular pony rides. To reach these, direct visitors to follow the main path from the entrance until they reach the L-shaped area on the left, next to the playground.",
-      "evidenceStartTime": 661.58,
-      "evidenceEndTime": 704.5,
+      "evidenceStartTime": 662.84,
+      "evidenceEndTime": 675.62,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -434,7 +436,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "mental Science modules Statistics for environmental research 21……. Sewage and drainage systems 22………. Agriculture and food security 23……… Sustainable energy 24……….. Government policy 25………. Water management 26………. A was surprisingly interesting B covered too many topics C included out-of-date materials D involved practica",
+      "promptContext": "Statistics for environmental research",
       "answerRaw": "F",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -442,8 +444,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "What about statistics for environmental research? I've always been hopeless with numbers, so I thought that I'd learn a lot.",
-      "evidenceStartTime": 783.36,
-      "evidenceEndTime": 791.29,
+      "evidenceStartTime": 785.82,
+      "evidenceEndTime": 793.46,
       "paraphrases": [],
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
@@ -453,7 +455,7 @@
     {
       "number": 22,
       "part": 3,
-      "promptContext": "for environmental research 21……. Sewage and drainage systems 22………. Agriculture and food security 23……… Sustainable energy 24……….. Government policy 25………. Water management 26………. A was surprisingly interesting B covered too many topics C included out-of-date materials D involved practical applications E supplied useful t",
+      "promptContext": ". Sewage and drainage systems",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -461,8 +463,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Now, sewage and drainage systems. I wasn't looking forward to that one.",
-      "evidenceStartTime": 803.0,
-      "evidenceEndTime": 808.09,
+      "evidenceStartTime": 804.82,
+      "evidenceEndTime": 810.06,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -472,7 +474,7 @@
     {
       "number": 23,
       "part": 3,
-      "promptContext": "ge and drainage systems 22………. Agriculture and food security 23……… Sustainable energy 24……….. Government policy 25………. Water management 26………. A was surprisingly interesting B covered too many topics C included out-of-date materials D involved practical applications E supplied useful technical information F was too basic",
+      "promptContext": ". Agriculture and food security",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -480,8 +482,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The module on agriculture and food security could have been good.",
-      "evidenceStartTime": 825.4,
-      "evidenceEndTime": 830.36,
+      "evidenceStartTime": 828.18,
+      "evidenceEndTime": 832.68,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -489,16 +491,16 @@
     {
       "number": 24,
       "part": 3,
-      "promptContext": "2………. Agriculture and food security 23……… Sustainable energy 24……….. Government policy 25………. Water management 26………. A was surprisingly interesting B covered too many topics C included out-of-date materials D involved practical applications E supplied useful technical information F was too basic to be useful G provided u",
+      "promptContext": "Sustainable energy",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
         "D"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The module on agriculture and food security could have been good.",
-      "evidenceStartTime": 825.4,
-      "evidenceEndTime": 830.36,
+      "evidenceQuote": "What about the module on sustainable energy? I really got into the project we had to do to invent something functional.",
+      "evidenceStartTime": 843.76,
+      "evidenceEndTime": 851.24,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -506,79 +508,81 @@
     {
       "number": 25,
       "part": 3,
-      "promptContext": "security 23……… Sustainable energy 24……….. Government policy 25………. Water management 26………. A was surprisingly interesting B covered too many topics C included out-of-date materials D involved practical applications E supplied useful technical information F was too basic to be useful G provided unnecessary detail H was re",
+      "promptContext": ".. Government policy",
       "answerRaw": "I",
       "canonicalAnswer": "I",
       "acceptedAnswers": [
         "I"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I mentioned that to the lecturer, but she said it was best to concentrate on one country in depth at first. Maybe. And there was that module called Water Management.",
-      "evidenceStartTime": 875.7,
-      "evidenceEndTime": 886.89,
+      "evidenceQuote": "And the government policy module? I wish it had included policy in other countries.",
+      "evidenceStartTime": 867.14,
+      "evidenceEndTime": 872.6,
       "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"I\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"I\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "ble energy 24……….. Government policy 25………. Water management 26………. A was surprisingly interesting B covered too many topics C included out-of-date materials D involved practical applications E supplied useful technical information F was too basic to be useful G provided unnecessary detail H was relevant to a topic in the",
+      "promptContext": "………. A was surprisingly interesting B covered too many topics C included out-of-date materials D involved practical applications E supplied useful technical information F was too basic to be useful G provided unnecessary detail H was relevant to a topic in the news I seemed too limited geographically Questions 27–28 Choose TWO correct answers.",
       "answerRaw": "G",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
         "G"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I mentioned that to the lecturer, but she said it was best to concentrate on one country in depth at first. Maybe. And there was that module called Water Management.",
-      "evidenceStartTime": 875.7,
-      "evidenceEndTime": 886.89,
+      "evidenceQuote": "I wish it had included policy in other countries. It was a bit inward-looking, I thought, focused just on this country.",
+      "evidenceStartTime": 869.42,
+      "evidenceEndTime": 877.78,
       "paraphrases": [],
       "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+        "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"G\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"G\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "d geographically Questions 27–28 Choose TWO correct answers. 27-28 Which TWO aspects of the course organisation did both Jamie and Martha like? A the amount of reading B the flexibility in the length of the course C the convenience of choosing when take modules D the range of different modules offered E the relevance of the",
+      "promptContext": "Which TWO aspects of the course organisation did both Jamie and Martha like? A the amount of reading B the flexibility in the length of the course C the convenience of choosing when take modules D the range of different modules offered E the relevance of the module content Questions 29–30 Choose TWO correct answers.",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
         "D"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And I think more assigned reading for the modules would have made the lectures easier to follow.",
-      "evidenceStartTime": 974.0,
-      "evidenceEndTime": 979.65,
+      "evidenceQuote": "I thought some aspects of the course organisation were particularly helpful. Can we talk a bit about that? Of course.",
+      "evidenceStartTime": 936.94,
+      "evidenceEndTime": 944.34,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Which TWO aspects of the course organisation did both Jamie and Martha like? A the amount of reading B the flexibility in the length of the course C the convenience of choosing when take modules D the range of different modules offered E the relevance of the module content Questions 29–30 Choose TWO correct answers.",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
         "E"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Well, I got lots of help from Dr Brown and his assistant in narrowing down what I wanted to write about.",
-      "evidenceStartTime": 1001.52,
-      "evidenceEndTime": 1008.0,
+      "evidenceQuote": "But I was pleased that the course organisers were able to provide modules focusing on real-life issues, which we can apply later when looking for jobs.",
+      "evidenceStartTime": 982.52,
+      "evidenceEndTime": 991.16,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"E\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": "e module content Questions 29–30 Choose TWO correct answers. 29-30 Which TWO suggestions for written assignment do Jamie and Martha agree to recommend to Dr Brown? A The time for choosing a topic should be changed. B The permitted world limit should be increased. C Discussions with fellow students should be arranged. D Face-",
+      "promptContext": "Which TWO suggestions for written assignment do Jamie and Martha agree to recommend to Dr Brown? A The time for choosing a topic should be changed. B The permitted world limit should be increased. C Discussions with fellow students should be arranged. D Face-to-face feedback sessions with the tutor should be scheduled. E Tutors should give more help in topic selection.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -586,8 +590,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "But choosing a topic right at the beginning of the module was difficult.",
-      "evidenceStartTime": 1012.14,
-      "evidenceEndTime": 1016.18,
+      "evidenceStartTime": 1013.74,
+      "evidenceEndTime": 1017.62,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -597,46 +601,43 @@
     {
       "number": 30,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Which TWO suggestions for written assignment do Jamie and Martha agree to recommend to Dr Brown? A The time for choosing a topic should be changed. B The permitted world limit should be increased. C Discussions with fellow students should be arranged. D Face-to-face feedback sessions with the tutor should be scheduled. E Tutors should give more help in topic selection.",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Now that we've almost finished our course, it's time to think about our career prospects.",
-      "evidenceStartTime": 1063.32,
-      "evidenceEndTime": 1069.0,
+      "evidenceQuote": "But I wish they could arrange sessions where students get together and help each other before submitting their written work. Good idea.",
+      "evidenceStartTime": 1052.8,
+      "evidenceEndTime": 1060.38,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "d taught until 1982. o As well as music, he has written many 31……. o He has worn many awards – including one in 2011 for 32……. in music. Musical characteristics o Surprisingly, his music often features 33………. and very soft sounds. o His music uses unusual instrument techniques, e.g. violins often produce sounds which rese",
+      "promptContext": "o As well as music, he has written many",
       "answerRaw": "essays",
       "canonicalAnswer": "essays",
       "acceptedAnswers": [
         "essays"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Apart from composing music and teaching, he has also produced a large number of essays on a range of topics,",
-      "evidenceStartTime": 1250.76,
-      "evidenceEndTime": 1260.83,
-      "paraphrases": [
-        {
-          "questionTerm": "instrument",
-          "audioTerm": "music"
-        }
-      ],
+      "evidenceQuote": "essays on a range of topics, such as the philosophy behind his work and musical form.",
+      "evidenceStartTime": 1259.68,
+      "evidenceEndTime": 1266.42,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"essays\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'instrument' ↔ 'music'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"essays\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 32,
       "part": 4,
-      "promptContext": "31……. o He has worn many awards – including one in 2011 for 32……. in music. Musical characteristics o Surprisingly, his music often features 33………. and very soft sounds. o His music uses unusual instrument techniques, e.g. violins often produce sounds which resemble those found in 34 …….. o He is seen as a 35……… of music",
+      "promptContext": ". o He has worn many awards – including one in 2011 for",
       "answerRaw": "originality",
       "canonicalAnswer": "originality",
       "acceptedAnswers": [
@@ -644,8 +645,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Throughout his career, he has won numerous prestigious awards, most notably a major prize in 2011 which recognised his musical originality.",
-      "evidenceStartTime": 1266.05,
-      "evidenceEndTime": 1279.0,
+      "evidenceStartTime": 1268.36,
+      "evidenceEndTime": 1280.26,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"originality\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -653,7 +654,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "cal characteristics o Surprisingly, his music often features 33………. and very soft sounds. o His music uses unusual instrument techniques, e.g. violins often produce sounds which resemble those found in 34 …….. o He is seen as a 35……… of music. o Sciarrino compares his music to a distant 36 ……….. Concert piece o for piano,",
+      "promptContext": ". in music. Musical characteristics o Surprisingly, his music often features",
       "answerRaw": "silence",
       "canonicalAnswer": "silence",
       "acceptedAnswers": [
@@ -661,21 +662,16 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The first thing that many listeners will notice about Schiarino's music is the frequent use of silence.",
-      "evidenceStartTime": 1295.26,
-      "evidenceEndTime": 1305.0,
-      "paraphrases": [
-        {
-          "questionTerm": "concert",
-          "audioTerm": "music"
-        }
-      ],
+      "evidenceStartTime": 1298.9,
+      "evidenceEndTime": 1305.8,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"silence\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'concert' ↔ 'music'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"silence\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 34,
       "part": 4,
-      "promptContext": ". violins often produce sounds which resemble those found in 34 …….. o He is seen as a 35……… of music. o Sciarrino compares his music to a distant 36 ……….. Concert piece o for piano, chorus and orchestra o finished in 1979 and written in memory of a 37……. o very difficult to play o starts with a noise that sounds like 38",
+      "promptContext": ". and very soft sounds. o His music uses unusual instrument techniques, e.g. violins often produce sounds which resemble those found in",
       "answerRaw": "nature",
       "canonicalAnswer": "nature",
       "acceptedAnswers": [
@@ -683,8 +679,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "so that, for example, a violin may end up sounding very strange and creating sounds we generally associate with nature.",
-      "evidenceStartTime": 1328.99,
-      "evidenceEndTime": 1338.76,
+      "evidenceStartTime": 1330.36,
+      "evidenceEndTime": 1340.94,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"nature\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -692,7 +688,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "unds which resemble those found in 34 …….. o He is seen as a 35……… of music. o Sciarrino compares his music to a distant 36 ……….. Concert piece o for piano, chorus and orchestra o finished in 1979 and written in memory of a 37……. o very difficult to play o starts with a noise that sounds like 38 ……, produced by two people",
+      "promptContext": ".. o He is seen as a",
       "answerRaw": "pioneer",
       "canonicalAnswer": "pioneer",
       "acceptedAnswers": [
@@ -700,8 +696,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Actually, his novel instrumental techniques have often been imitated by other composers. As a result, he is widely regarded as a pioneer in terms of creating new sounds.",
-      "evidenceStartTime": 1338.76,
-      "evidenceEndTime": 1353.9,
+      "evidenceStartTime": 1341.72,
+      "evidenceEndTime": 1355.72,
       "paraphrases": [],
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')"
@@ -711,7 +707,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "35……… of music. o Sciarrino compares his music to a distant 36 ……….. Concert piece o for piano, chorus and orchestra o finished in 1979 and written in memory of a 37……. o very difficult to play o starts with a noise that sounds like 38 ……, produced by two people moving large pieces of 39…….. although the music is unusual",
+      "promptContext": "of music. o Sciarrino compares his music to a distant",
       "answerRaw": "volcano",
       "canonicalAnswer": "volcano",
       "acceptedAnswers": [
@@ -719,23 +715,18 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "It may sound strange, but Schiarino himself has likened his music to a volcano viewed from afar.",
-      "evidenceStartTime": 1353.9,
-      "evidenceEndTime": 1363.38,
-      "paraphrases": [
-        {
-          "questionTerm": "concert",
-          "audioTerm": "music"
-        }
-      ],
+      "evidenceStartTime": 1356.14,
+      "evidenceEndTime": 1365.24,
+      "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"volcano\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'concert' ↔ 'music'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"volcano\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 37,
       "part": 4,
-      "promptContext": "and orchestra o finished in 1979 and written in memory of a 37……. o very difficult to play o starts with a noise that sounds like 38 ……, produced by two people moving large pieces of 39…….. although the music is unusual, it has a traditional 40……….",
+      "promptContext": ".. Concert piece o for piano, chorus and orchestra o finished in 1979 and written in memory of a",
       "answerRaw": "friend",
       "canonicalAnswer": "friend",
       "acceptedAnswers": [
@@ -743,8 +734,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The work is dedicated to a friend who died unexpectedly, so it was written as a kind of memorial.",
-      "evidenceStartTime": 1391.0,
-      "evidenceEndTime": 1398.7,
+      "evidenceStartTime": 1392.86,
+      "evidenceEndTime": 1400.84,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"friend\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -752,7 +743,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "ery difficult to play o starts with a noise that sounds like 38 ……, produced by two people moving large pieces of 39…….. although the music is unusual, it has a traditional 40……….",
+      "promptContext": ". o very difficult to play o starts with a noise that sounds like",
       "answerRaw": "thunder",
       "canonicalAnswer": "thunder",
       "acceptedAnswers": [
@@ -760,8 +751,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The piece opens with a low sound of great complexity that is similar to thunder.",
-      "evidenceStartTime": 1415.0,
-      "evidenceEndTime": 1421.78,
+      "evidenceStartTime": 1415.96,
+      "evidenceEndTime": 1422.96,
       "paraphrases": [
         {
           "questionTerm": "like",
@@ -774,16 +765,16 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "ds like 38 ……, produced by two people moving large pieces of 39…….. although the music is unusual, it has a traditional 40……….",
+      "promptContext": ", produced by two people moving large pieces of",
       "answerRaw": "metal",
       "canonicalAnswer": "metal",
       "acceptedAnswers": [
         "metal"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "but I found it to be very haunting and atmospheric. The sound, by the way, is created by large vibrating sheets of metal, which are slowly manipulated by two percussionists.",
-      "evidenceStartTime": 1430.42,
-      "evidenceEndTime": 1445.0,
+      "evidenceQuote": "which may sound quite boring, but I found it to be very haunting and atmospheric. The sound, by the way, is created by large vibrating sheets of metal, which are slowly manipulated by two percussionists.",
+      "evidenceStartTime": 1430.22,
+      "evidenceEndTime": 1446.72,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -793,16 +784,16 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "f 39…….. although the music is unusual, it has a traditional 40……….",
+      "promptContext": ".. although the music is unusual, it has a traditional",
       "answerRaw": "structure",
       "canonicalAnswer": "structure",
       "acceptedAnswers": [
         "structure"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "it actually has a very conventional structure, which is just another surprising aspect of Schiarino's work.",
-      "evidenceStartTime": 1465.69,
-      "evidenceEndTime": 1475.03,
+      "evidenceQuote": "Even though the piece will be, for many people, very unusual in terms of the sounds it creates, it actually has a very conventional structure,",
+      "evidenceStartTime": 1460.64,
+      "evidenceEndTime": 1470.9,
       "paraphrases": [],
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')"
@@ -814,1890 +805,1674 @@
     {
       "id": "seg-001",
       "part": 1,
-      "startTime": 0.0,
-      "endTime": 11.01,
-      "text": "IELTS Listening Version 54744 You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+      "startTime": 100.98,
+      "endTime": 102.7,
+      "text": "Good afternoon. Can I help you?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-002",
       "part": 1,
-      "startTime": 11.01,
-      "endTime": 20.36,
-      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "startTime": 103.32,
+      "endTime": 107.9,
+      "text": "Yes, I'm looking for some places to visit when my sister and her children come to stay.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-003",
       "part": 1,
-      "startTime": 20.36,
-      "endTime": 24.0,
-      "text": "All the recordings will be played once only.",
+      "startTime": 108.2,
+      "endTime": 110.36,
+      "text": "They arrive this weekend from overseas.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-004",
       "part": 1,
-      "startTime": 25.0,
-      "endTime": 31.46,
-      "text": "The test is in four parts. Write all your answers in the listening question booklet.",
+      "startTime": 110.88,
+      "endTime": 115.46,
+      "text": "I'm new to the area and don't really know what to recommend. Do you have any ideas?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-005",
       "part": 1,
-      "startTime": 31.46,
-      "endTime": 39.0,
-      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet.",
+      "startTime": 115.8,
+      "endTime": 118.9,
+      "text": "What about going to Alma Park to visit the zoo?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-006",
       "part": 1,
-      "startTime": 41.0,
-      "endTime": 47.59,
-      "text": "Now turn to Part 1 on page 2 of your question booklet.",
+      "startTime": 118.9,
+      "endTime": 121.1,
+      "text": "Oh, I like the idea of that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-007",
       "part": 1,
-      "startTime": 47.59,
-      "endTime": 61.01,
-      "text": "Part 1 You will hear a woman asking a man in a tourist information office about places to visit in the region.",
+      "startTime": 121.32,
+      "endTime": 123.0,
+      "text": "Is it reasonably priced?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-008",
       "part": 1,
-      "startTime": 61.01,
-      "endTime": 67.48,
-      "text": "First you have some time to look at questions 1 to 6.",
+      "startTime": 123.38,
+      "endTime": 125.12,
+      "text": "Yes, it's not a bad price.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-009",
       "part": 1,
-      "startTime": 67.48,
-      "endTime": 75.41,
-      "text": "Now listen carefully and answer questions 1 to 6. Good afternoon.",
+      "startTime": 125.2,
+      "endTime": 135.64,
+      "text": "A standard adult ticket is normally $30, but there's a special deal for families of $65, which is a saving of $35. That's a great deal.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-010",
       "part": 1,
-      "startTime": 75.41,
-      "endTime": 77.24,
-      "text": "Can I help you?",
+      "startTime": 135.88,
+      "endTime": 139.94,
+      "text": "How do we get there from the city? You can go by bus. Is it very far?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-011",
       "part": 1,
-      "startTime": 77.24,
-      "endTime": 87.85,
-      "text": "Yes, I'm looking for some places to visit when my sister and her children come to stay.",
+      "startTime": 140.16,
+      "endTime": 145.22,
+      "text": "The 385 will get you there in approximately 40 minutes, depending on traffic.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-012",
       "part": 1,
-      "startTime": 87.85,
-      "endTime": 92.61,
-      "text": "They arrive this weekend from overseas.",
+      "startTime": 145.36,
+      "endTime": 154.0,
+      "text": "There is another bus, the 388, but it takes 20 minutes longer, so it's worth waiting a few more minutes for the more direct bus. OK.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-013",
       "part": 1,
-      "startTime": 92.61,
-      "endTime": 99.93,
-      "text": "I'm new to the area and don't really know what to recommend.",
+      "startTime": 154.78,
+      "endTime": 157.04,
+      "text": "Are there any special things to do there?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-014",
       "part": 1,
-      "startTime": 99.93,
-      "endTime": 108.47,
-      "text": "Do you have any ideas? What about going to Alma Park to visit the zoo?",
+      "startTime": 157.16,
+      "endTime": 159.4,
+      "text": "Can you feed the animals or anything like that?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-015",
       "part": 1,
-      "startTime": 108.47,
-      "endTime": 114.94,
-      "text": "Oh, I like the idea of that. Is it reasonably priced?",
+      "startTime": 159.64,
+      "endTime": 166.64,
+      "text": "They've stopped that, but most tourists love the fact that you're allowed to hold some of the animals and get your photo taken.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-016",
       "part": 1,
-      "startTime": 114.94,
-      "endTime": 118.11,
-      "text": "Yes, it's not a bad price.",
+      "startTime": 166.92,
+      "endTime": 170.14,
+      "text": "They just ask you to make a small payment to help with costs.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-017",
       "part": 1,
-      "startTime": 118.11,
-      "endTime": 132.0,
-      "text": "A standard adult ticket is normally $30, but there's a special deal for families of $65, which is a saving of $35.",
+      "startTime": 170.14,
+      "endTime": 172.18,
+      "text": "Oh, the kids would love that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-018",
       "part": 1,
-      "startTime": 133.0,
-      "endTime": 138.93,
-      "text": "That's a great deal. How do we get there from the city? You can go by bus. Is it very far?",
+      "startTime": 172.44,
+      "endTime": 174.98,
+      "text": "My sister also likes going to the theatre.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-019",
       "part": 1,
-      "startTime": 138.93,
-      "endTime": 144.0,
-      "text": "The 385 will get you there in approximately 40 minutes, depending on traffic.",
+      "startTime": 175.16,
+      "endTime": 177.02,
+      "text": "Is there anything good on at the moment?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-020",
       "part": 1,
-      "startTime": 144.0,
-      "endTime": 151.72,
-      "text": "There is another bus, the 388, but it takes 20 minutes longer, so it's worth waiting a few more minutes for the more direct bus.",
+      "startTime": 177.24,
+      "endTime": 179.12,
+      "text": "She especially likes comedies.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-021",
       "part": 1,
-      "startTime": 151.72,
-      "endTime": 157.33,
-      "text": "OK. Are there any special things to do there? Can you feed the animals or anything like that?",
+      "startTime": 179.4,
+      "endTime": 182.86,
+      "text": "There's a place called the Entertainment Room in Ascot.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-022",
       "part": 1,
-      "startTime": 157.33,
-      "endTime": 164.99,
-      "text": "They've stopped that, but most tourists love the fact that you're allowed to hold some of the animals and get your photo taken.",
+      "startTime": 182.86,
+      "endTime": 184.72,
+      "text": "I'll just check their website.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-023",
       "part": 1,
-      "startTime": 164.99,
-      "endTime": 170.48,
-      "text": "They just ask you to make a small payment to help with costs. Oh, the kids would love that.",
+      "startTime": 184.72,
+      "endTime": 195.06,
+      "text": "Hmm, yes, there's a festival running at the moment with John Rosie as the main entertainer. He's really funny. How do you spell that? Is it R-O-Z-Y?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-024",
       "part": 1,
-      "startTime": 170.48,
-      "endTime": 173.0,
-      "text": "My sister also likes going to the theatre.",
+      "startTime": 195.58,
+      "endTime": 201.7,
+      "text": "No, it's R-O-S-I-E. Got it. And when is it on? Next week.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-025",
       "part": 1,
-      "startTime": 174.0,
-      "endTime": 178.07,
-      "text": "Is there anything good on at the moment? She especially likes comedies.",
+      "startTime": 201.7,
+      "endTime": 207.28,
+      "text": "It says it starts on Tuesday with a special matinee show on the Wednesday.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-026",
       "part": 1,
-      "startTime": 178.07,
-      "endTime": 183.0,
-      "text": "There's a place called the Entertainment Room in Ascot. I'll just check their website.",
+      "startTime": 207.48,
+      "endTime": 215.48,
+      "text": "It was supposed to finish on Friday, but because of the demand it's been extended to Saturday. It must be good then. Is it expensive?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-027",
       "part": 1,
-      "startTime": 184.0,
-      "endTime": 191.08,
-      "text": "Hmm, yes, there's a festival running at the moment with John Rosie as the main entertainer.",
+      "startTime": 215.54,
+      "endTime": 217.86,
+      "text": "I don't think so. Let's see.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-028",
       "part": 1,
-      "startTime": 191.08,
-      "endTime": 197.0,
-      "text": "He's really funny. How do you spell that? Is it R-O-Z-Y? No, it's R-O-S-I-E.",
+      "startTime": 218.72,
+      "endTime": 224.42,
+      "text": "Oh, it says there's a special preview show on the Monday, and they're offering a discount on tickets that night.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-029",
       "part": 1,
-      "startTime": 197.0,
-      "endTime": 200.0,
-      "text": "Got it. And when is it on? Next week.",
+      "startTime": 224.42,
+      "endTime": 226.14,
+      "text": "We'll try and go then in that case.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-030",
       "part": 1,
-      "startTime": 200.0,
-      "endTime": 206.0,
-      "text": "It says it starts on Tuesday with a special matinee show on the Wednesday.",
+      "startTime": 262.58,
+      "endTime": 265.1,
+      "text": "I also wanted to spend a day in the city centre.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-031",
       "part": 1,
-      "startTime": 206.0,
-      "endTime": 211.8,
-      "text": "It was supposed to finish on Friday, but because of the demand it's been extended to Saturday.",
+      "startTime": 265.24,
+      "endTime": 267.82,
+      "text": "The children will get bored just looking at the shops.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-032",
       "part": 1,
-      "startTime": 211.8,
-      "endTime": 215.93,
-      "text": "It must be good then. Is it expensive? I don't think so. Let's see.",
+      "startTime": 268.04,
+      "endTime": 271.82,
+      "text": "Is there anything else for them to do? What's the museum like?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-033",
       "part": 1,
-      "startTime": 215.93,
-      "endTime": 222.84,
-      "text": "Oh, it says there's a special preview show on the Monday, and they're offering a discount on tickets that night.",
+      "startTime": 272.0,
+      "endTime": 279.18,
+      "text": "It's very popular with children, and there's a very hands-on exhibition on at the moment. They'd love that. Sounds good.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-034",
       "part": 1,
-      "startTime": 222.84,
-      "endTime": 225.0,
-      "text": "We'll try and go then in that case.",
+      "startTime": 279.36,
+      "endTime": 283.0,
+      "text": "And there's a workshop on, where they learn how to do origami.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-035",
       "part": 1,
-      "startTime": 228.0,
-      "endTime": 239.4,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions 7 to 10.",
+      "startTime": 283.16,
+      "endTime": 285.44,
+      "text": "Will they need to bring anything special for that?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-036",
       "part": 1,
-      "startTime": 239.4,
-      "endTime": 244.25,
-      "text": "Now listen and answer questions 7 to 10.",
+      "startTime": 285.7,
+      "endTime": 290.7,
+      "text": "On this leaflet it says that things like scissors and all of the paper are provided.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-037",
       "part": 1,
-      "startTime": 244.25,
-      "endTime": 250.07,
-      "text": "I also wanted to spend a day in the city centre.",
+      "startTime": 290.82,
+      "endTime": 296.68,
+      "text": "They just advise children to bring a box to carry the completed origami home in. Just a little one will do.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-038",
       "part": 1,
-      "startTime": 250.07,
-      "endTime": 256.62,
-      "text": "The children will get bored just looking at the shops.",
+      "startTime": 297.38,
+      "endTime": 299.94,
+      "text": "I'm also looking for a weekend activity.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-039",
       "part": 1,
-      "startTime": 256.62,
-      "endTime": 264.14,
-      "text": "Is there anything else for them to do? What's the museum like?",
+      "startTime": 300.04,
+      "endTime": 302.32,
+      "text": "I've heard Bunyabi Island is great.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-040",
       "part": 1,
-      "startTime": 264.14,
-      "endTime": 274.93,
-      "text": "It's very popular with children, and there's a very hands-on exhibition on at the moment.",
+      "startTime": 302.4,
+      "endTime": 304.62,
+      "text": "Would we need a car to get round the island?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-041",
       "part": 1,
-      "startTime": 274.93,
-      "endTime": 277.0,
-      "text": "They'd love that.",
+      "startTime": 304.72,
+      "endTime": 307.8,
+      "text": "A four-wheel drive is a great way to explore.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-042",
       "part": 1,
-      "startTime": 277.0,
-      "endTime": 281.31,
-      "text": "Sounds good. And there's a workshop on, where they learn how to do origami.",
+      "startTime": 308.06,
+      "endTime": 310.58,
+      "text": "You should also try snorkelling at Salty Lake.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-043",
       "part": 1,
-      "startTime": 281.31,
-      "endTime": 284.18,
-      "text": "Will they need to bring anything special for that?",
+      "startTime": 310.92,
+      "endTime": 312.64,
+      "text": "Is that in the centre of the island, near the mountain?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-044",
       "part": 1,
-      "startTime": 284.18,
-      "endTime": 289.0,
-      "text": "On this leaflet it says that things like scissors and all of the paper are provided.",
+      "startTime": 312.64,
+      "endTime": 315.46,
+      "text": "No, it's on the ocean side.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-045",
       "part": 1,
-      "startTime": 290.0,
-      "endTime": 294.76,
-      "text": "They just advise children to bring a box to carry the completed origami home in.",
+      "startTime": 315.8,
+      "endTime": 318.28,
+      "text": "OK, I'll get a map and check it out.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-046",
       "part": 1,
-      "startTime": 294.76,
-      "endTime": 298.75,
-      "text": "Just a little one will do. I'm also looking for a weekend activity.",
+      "startTime": 318.4,
+      "endTime": 325.94,
+      "text": "I'd like to stay there at least one night, and I quite like the idea of taking a tent and sleeping out in the open air. Are you allowed to camp there?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-047",
       "part": 1,
-      "startTime": 298.75,
-      "endTime": 303.51,
-      "text": "I've heard Bunyabi Island is great. Would we need a car to get round the island?",
+      "startTime": 326.26,
+      "endTime": 328.12,
+      "text": "That would be lovely, but I'm afraid...",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-048",
-      "part": 1,
-      "startTime": 303.51,
-      "endTime": 309.0,
-      "text": "A four-wheel drive is a great way to explore. You should also try snorkelling at Salty Lake.",
+      "part": 2,
+      "startTime": 367.36,
+      "endTime": 372.02,
+      "text": "Good evening and thank you for coming to the Kenvale School Fair Volunteers Meeting.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-049",
-      "part": 1,
-      "startTime": 310.0,
-      "endTime": 314.53,
-      "text": "Is that in the centre of the island, near the mountain? No, it's on the ocean side.",
+      "part": 2,
+      "startTime": 372.66,
+      "endTime": 380.36,
+      "text": "As you know, this is the biggest fundraising event in the school year, and as usual, we're expecting lots of people to come,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-050",
-      "part": 1,
-      "startTime": 314.53,
-      "endTime": 316.5,
-      "text": "OK, I'll get a map and check it out.",
+      "part": 2,
+      "startTime": 380.36,
+      "endTime": 384.78,
+      "text": "which is why we're starting to prepare now, six months before the big day.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-051",
-      "part": 1,
-      "startTime": 316.5,
-      "endTime": 323.0,
-      "text": "I'd like to stay there at least one night, and I quite like the idea of taking a tent and sleeping out in the open air.",
+      "part": 2,
+      "startTime": 386.36,
+      "endTime": 393.9,
+      "text": "I'll begin tonight by talking about the different volunteer roles, so you can decide what you'd like to do.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-052",
-      "part": 1,
-      "startTime": 324.0,
-      "endTime": 340.96,
-      "text": "Are you allowed to camp there?",
+      "part": 2,
+      "startTime": 394.08,
+      "endTime": 398.28,
+      "text": "The entertainment coordinator position involves deciding what kinds of rides",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-053",
-      "part": 1,
-      "startTime": 340.96,
-      "endTime": 363.0,
-      "text": "That would be lovely, but I'm afraid...",
+      "part": 2,
+      "startTime": 398.28,
+      "endTime": 404.28,
+      "text": "and activities will be at the fair, and making sure there's a good variety of things to do.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-054",
       "part": 2,
-      "startTime": 363.0,
-      "endTime": 364.46,
-      "text": "You will hear a school principal talking to a group of parents who are volunteering at a school fair.",
+      "startTime": 404.46,
+      "endTime": 410.24,
+      "text": "From past experience, this role involves a lot of liaising with other helpers and the entertainers,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-055",
       "part": 2,
-      "startTime": 364.46,
-      "endTime": 365.26,
-      "text": "First you have some time to look at questions 11 to 14.",
+      "startTime": 410.76,
+      "endTime": 414.29,
+      "text": "which means that most of the work is done after office hours.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-056",
       "part": 2,
-      "startTime": 365.26,
-      "endTime": 366.0,
-      "text": "Now listen carefully and answer questions 11 to 14.",
+      "startTime": 416.28,
+      "endTime": 423.62,
+      "text": "We need an advertising and promotion coordinator to make sure that people hear about the fair and lots of people come.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-057",
       "part": 2,
-      "startTime": 366.0,
-      "endTime": 371.61,
-      "text": "Good evening and thank you for coming to the Kenvale School Fair Volunteers Meeting.",
+      "startTime": 423.94,
+      "endTime": 430.44,
+      "text": "We know this is a big job, so we've decided to have a couple of people doing it to share the load.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-058",
       "part": 2,
-      "startTime": 371.61,
-      "endTime": 377.22,
-      "text": "As you know, this is the biggest fundraising event in the school year, and as usual,",
+      "startTime": 430.8,
+      "endTime": 439.46,
+      "text": "The parent who did this role last year has just been offered a job, which starts next month, so she won't be able to lend us the benefit of her experience, sadly.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-059",
       "part": 2,
-      "startTime": 377.22,
-      "endTime": 384.84,
-      "text": "we're expecting lots of people to come, which is why we're starting to prepare now, six months before the big day.",
+      "startTime": 441.24,
+      "endTime": 449.88,
+      "text": "The technical coordinator makes sure that there is a suitable stage for the performers, and that there are enough speakers and people can hear them and so on.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-060",
       "part": 2,
-      "startTime": 384.84,
-      "endTime": 392.0,
-      "text": "I'll begin tonight by talking about the different volunteer roles, so you can decide what you'd like to do.",
+      "startTime": 450.34,
+      "endTime": 459.34,
+      "text": "Now, this may sound like a technical background is required, but it's not, as you don't actually have to set up or fix anything yourself.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-061",
       "part": 2,
-      "startTime": 393.0,
-      "endTime": 400.3,
-      "text": "The entertainment coordinator position involves deciding what kinds of rides and activities will be at the fair,",
+      "startTime": 460.02,
+      "endTime": 465.0,
+      "text": "Having a car is essential, though, because in the week leading up to the event, you'll need to be able to",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-062",
       "part": 2,
-      "startTime": 400.3,
-      "endTime": 403.88,
-      "text": "and making sure there's a good variety of things to do.",
+      "startTime": 465.0,
+      "endTime": 470.12,
+      "text": "get to the school early in the mornings, and occasionally later at night.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-063",
       "part": 2,
-      "startTime": 403.88,
-      "endTime": 410.33,
-      "text": "From past experience, this role involves a lot of liaising with other helpers and the entertainers,",
+      "startTime": 470.28,
+      "endTime": 472.92,
+      "text": "We also need a staffing coordinator.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-064",
       "part": 2,
-      "startTime": 410.33,
-      "endTime": 414.31,
-      "text": "which means that most of the work is done after office hours.",
+      "startTime": 473.08,
+      "endTime": 477.38,
+      "text": "This person will be required to look after the many helpers on the day of the fair.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-065",
       "part": 2,
-      "startTime": 414.31,
-      "endTime": 422.0,
-      "text": "We need an advertising and promotion coordinator to make sure that people hear about the fair and lots of people come.",
+      "startTime": 477.96,
+      "endTime": 483.12,
+      "text": "This role has just been created based on our experience of last year's event.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-066",
       "part": 2,
-      "startTime": 423.0,
-      "endTime": 428.89,
-      "text": "We know this is a big job, so we've decided to have a couple of people doing it to share the load.",
+      "startTime": 483.62,
+      "endTime": 490.2,
+      "text": "We found that our volunteers felt a bit overworked, and so we're hoping that this role will make things easier.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-067",
       "part": 2,
-      "startTime": 428.89,
-      "endTime": 434.42,
-      "text": "The parent who did this role last year has just been offered a job, which starts next month,",
+      "startTime": 490.2,
+      "endTime": 495.58,
+      "text": "It will help to reduce stress if you organise the helpers about a month before the fair.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-068",
       "part": 2,
-      "startTime": 434.42,
-      "endTime": 438.57,
-      "text": "so she won't be able to lend us the benefit of her experience, sadly.",
+      "startTime": 541.84,
+      "endTime": 549.66,
+      "text": "Now, moving on to the map of the school fair, I'll point out some of the more important areas that you'll need to know about so you can help direct the visitors.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-069",
       "part": 2,
-      "startTime": 438.57,
-      "endTime": 443.8,
-      "text": "The technical coordinator makes sure that there is a suitable stage for the performers,",
+      "startTime": 551.2,
+      "endTime": 558.78,
+      "text": "You can see that we'll be using the large grounds just behind the school, and we'll set up temporary areas and pathways there.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-070",
       "part": 2,
-      "startTime": 443.8,
-      "endTime": 448.0,
-      "text": "and that there are enough speakers and people can hear them and so on.",
+      "startTime": 558.88,
+      "endTime": 564.88,
+      "text": "The first thing I'll show you are the fairground rights, which are always popular with the children.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-071",
       "part": 2,
-      "startTime": 449.0,
-      "endTime": 457.59,
-      "text": "Now, this may sound like a technical background is required, but it's not, as you don't actually have to set up or fix anything yourself.",
+      "startTime": 565.44,
+      "endTime": 569.0,
+      "text": "If you look at the map, you'll see the fair entrance at the bottom.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-072",
       "part": 2,
-      "startTime": 457.59,
-      "endTime": 462.54,
-      "text": "Having a car is essential, though, because in the week leading up to the event,",
+      "startTime": 569.32,
+      "endTime": 576.32,
+      "text": "From there, follow the main path in the direction of the river, and it's the third area on the left, the large rectangular area.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-073",
       "part": 2,
-      "startTime": 462.54,
-      "endTime": 468.75,
-      "text": "you'll need to be able to get to the school early in the mornings, and occasionally later at night.",
+      "startTime": 577.72,
+      "endTime": 584.92,
+      "text": "The entertainment stage is a big feature of the fair, and this is where everyone will be able to see all the performers.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-074",
       "part": 2,
-      "startTime": 468.75,
-      "endTime": 471.0,
-      "text": "We also need a staffing coordinator.",
+      "startTime": 585.1,
+      "endTime": 589.38,
+      "text": "To find this, go straight along the main path until you get to the river.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-075",
       "part": 2,
-      "startTime": 472.0,
-      "endTime": 477.21,
-      "text": "This person will be required to look after the many helpers on the day of the fair.",
+      "startTime": 589.86,
+      "endTime": 594.06,
+      "text": "Turn right and follow the path to the end, and there it is.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-076",
       "part": 2,
-      "startTime": 477.21,
-      "endTime": 482.04,
-      "text": "This role has just been created based on our experience of last year's event.",
+      "startTime": 594.64,
+      "endTime": 599.58,
+      "text": "There's not much shade here, so we should remind parents to bring hats for their children.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-077",
       "part": 2,
-      "startTime": 482.04,
-      "endTime": 489.0,
-      "text": "We found that our volunteers felt a bit overworked, and so we're hoping that this role will make things easier.",
+      "startTime": 600.18,
+      "endTime": 605.16,
+      "text": "If anyone wants a cold drink or a snack, then they'll ask you where the cafe is.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-078",
       "part": 2,
-      "startTime": 489.0,
-      "endTime": 508.56,
-      "text": "It will help to reduce stress if you organise the helpers about a month before the fair.",
+      "startTime": 605.58,
+      "endTime": 613.44,
+      "text": "Originally, we were going to put it opposite the toilets, but we've decided to put it near the river to take advantage of the views and breezes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-079",
       "part": 2,
-      "startTime": 508.56,
-      "endTime": 527.89,
-      "text": "Before you hear the rest of the talk, you have some time to look at questions 15 to 20.",
+      "startTime": 614.04,
+      "endTime": 615.46,
+      "text": "You can see it on the map.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-080",
       "part": 2,
-      "startTime": 527.89,
-      "endTime": 537.0,
-      "text": "Now listen and answer questions 15 to 20.",
+      "startTime": 615.68,
+      "endTime": 619.92,
+      "text": "It's the circular area, surrounded by trees, near the playground.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-081",
       "part": 2,
-      "startTime": 540.0,
-      "endTime": 542.68,
-      "text": "Now, moving on to the map of the school fair,",
+      "startTime": 621.54,
+      "endTime": 625.42,
+      "text": "The first A tent is always an important part of the fair.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-082",
       "part": 2,
-      "startTime": 542.68,
-      "endTime": 549.53,
-      "text": "I'll point out some of the more important areas that you'll need to know about so you can help direct the visitors.",
+      "startTime": 626.34,
+      "endTime": 633.78,
+      "text": "We wanted to put that in an area that was easily accessible, and a bit separated from the other attractions, but near the entrance.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-083",
       "part": 2,
-      "startTime": 549.53,
-      "endTime": 557.04,
-      "text": "You can see that we'll be using the large grounds just behind the school, and we'll set up temporary areas and pathways there.",
+      "startTime": 634.8,
+      "endTime": 639.1,
+      "text": "If you look at the map, you'll see it's south of the toilets, not far from the school fence line.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-084",
       "part": 2,
-      "startTime": 557.04,
-      "endTime": 563.0,
-      "text": "The first thing I'll show you are the fairground rights, which are always popular with the children.",
+      "startTime": 640.9,
+      "endTime": 646.62,
+      "text": "The market stalls are where visitors will be able to pick up a bargain, or some homemade produce.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-085",
       "part": 2,
-      "startTime": 564.0,
-      "endTime": 568.04,
-      "text": "If you look at the map, you'll see the fair entrance at the bottom.",
+      "startTime": 646.96,
+      "endTime": 654.64,
+      "text": "Last year, these were located just south of the meeting area, but the stallholders complained that it was too exposed and hot.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-086",
       "part": 2,
-      "startTime": 568.04,
-      "endTime": 575.76,
-      "text": "From there, follow the main path in the direction of the river, and it's the third area on the left, the large rectangular area.",
+      "startTime": 655.02,
+      "endTime": 658.58,
+      "text": "So, this year, we've moved them to the north of the meeting area.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-087",
       "part": 2,
-      "startTime": 575.76,
-      "endTime": 583.0,
-      "text": "The entertainment stage is a big feature of the fair, and this is where everyone will be able to see all the performers.",
+      "startTime": 658.78,
+      "endTime": 661.96,
+      "text": "Lots of good shelter provided by the trees here.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-088",
       "part": 2,
-      "startTime": 584.0,
-      "endTime": 588.27,
-      "text": "To find this, go straight along the main path until you get to the river.",
+      "startTime": 662.84,
+      "endTime": 666.96,
+      "text": "Of course, there'll be the ever-popular pony rides.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-089",
       "part": 2,
-      "startTime": 588.27,
-      "endTime": 591.72,
-      "text": "Turn right and follow the path to the end, and there it is.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-090",
-      "part": 2,
-      "startTime": 591.72,
-      "endTime": 597.0,
-      "text": "There's not much shade here, so we should remind parents to bring hats for their children.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-091",
-      "part": 2,
-      "startTime": 599.0,
-      "endTime": 604.24,
-      "text": "If anyone wants a cold drink or a snack, then they'll ask you where the cafe is.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-092",
-      "part": 2,
-      "startTime": 604.24,
-      "endTime": 613.67,
-      "text": "Originally, we were going to put it opposite the toilets, but we've decided to put it near the river to take advantage of the views and breezes.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-093",
-      "part": 2,
-      "startTime": 613.67,
-      "endTime": 619.69,
-      "text": "You can see it on the map. It's the circular area, surrounded by trees, near the playground.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-094",
-      "part": 2,
-      "startTime": 619.69,
-      "endTime": 623.42,
-      "text": "The first A tent is always an important part of the fair.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-095",
-      "part": 2,
-      "startTime": 623.42,
-      "endTime": 632.0,
-      "text": "We wanted to put that in an area that was easily accessible, and a bit separated from the other attractions, but near the entrance.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-096",
-      "part": 2,
-      "startTime": 633.0,
-      "endTime": 639.06,
-      "text": "If you look at the map, you'll see it's south of the toilets, not far from the school fence line.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-097",
-      "part": 2,
-      "startTime": 639.06,
-      "endTime": 645.12,
-      "text": "The market stalls are where visitors will be able to pick up a bargain, or some homemade produce.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-098",
-      "part": 2,
-      "startTime": 645.12,
-      "endTime": 653.0,
-      "text": "Last year, these were located just south of the meeting area, but the stallholders complained that it was too exposed and hot.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-099",
-      "part": 2,
-      "startTime": 654.0,
-      "endTime": 658.36,
-      "text": "So, this year, we've moved them to the north of the meeting area.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-100",
-      "part": 2,
-      "startTime": 658.36,
-      "endTime": 661.58,
-      "text": "Lots of good shelter provided by the trees here.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-101",
-      "part": 2,
-      "startTime": 661.58,
-      "endTime": 665.0,
-      "text": "Of course, there'll be the ever-popular pony rides.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-102",
-      "part": 2,
-      "startTime": 666.0,
-      "endTime": 704.5,
+      "startTime": 667.14,
+      "endTime": 675.62,
       "text": "To reach these, direct visitors to follow the main path from the entrance until they reach the L-shaped area on the left, next to the playground.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
+      "id": "seg-090",
+      "part": 3,
+      "startTime": 765.36,
+      "endTime": 766.48,
+      "text": "Hi, Martha.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 3,
+      "startTime": 766.7,
+      "endTime": 768.6,
+      "text": "Do you have time to talk?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 3,
+      "startTime": 768.66,
+      "endTime": 776.38,
+      "text": "We have to submit our evaluations of our course next week, and I thought it'd be useful to discuss what we both think. Good idea.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 3,
+      "startTime": 776.6,
+      "endTime": 782.34,
+      "text": "That would help refresh my memory, especially about things we did in previous years. I agree.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 3,
+      "startTime": 782.64,
+      "endTime": 785.6,
+      "text": "So, let's talk about the modules we took.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 3,
+      "startTime": 785.82,
+      "endTime": 789.22,
+      "text": "What about statistics for environmental research?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 3,
+      "startTime": 789.32,
+      "endTime": 793.46,
+      "text": "I've always been hopeless with numbers, so I thought that I'd learn a lot.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 3,
+      "startTime": 793.6,
+      "endTime": 797.06,
+      "text": "But, you know, it wasn't at a high enough level for me.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 3,
+      "startTime": 797.3,
+      "endTime": 801.04,
+      "text": "I actually had to do a lot of reading on my own. Me too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 3,
+      "startTime": 801.16,
+      "endTime": 804.12,
+      "text": "I had to get an additional reading list from the tutor.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 3,
+      "startTime": 804.82,
+      "endTime": 807.72,
+      "text": "Now, sewage and drainage systems.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 3,
+      "startTime": 807.88,
+      "endTime": 810.06,
+      "text": "I wasn't looking forward to that one.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 3,
+      "startTime": 810.36,
+      "endTime": 820.3,
+      "text": "Not exactly a pleasant subject, but, you know, the module convinced me that it's an essential topic to understand for both cities and rural environments.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
       "id": "seg-103",
-      "part": 2,
-      "startTime": 704.5,
-      "endTime": 711.4,
-      "text": "That is the end of Part 2.",
+      "part": 3,
+      "startTime": 820.58,
+      "endTime": 821.52,
+      "text": "Right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-104",
-      "part": 2,
-      "startTime": 711.4,
-      "endTime": 726.0,
-      "text": "You now have 30 seconds to check your answers to Part 2",
+      "part": 3,
+      "startTime": 821.78,
+      "endTime": 826.0,
+      "text": "And, in the end, not a boring subject. Not at all.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-105",
       "part": 3,
-      "startTime": 726.0,
-      "endTime": 745.16,
-      "text": "You will hear two students, called Jamie and Martha, discussing their environmental science course.",
+      "startTime": 826.1,
+      "endTime": 828.0,
+      "text": "It was quite a revelation.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-106",
       "part": 3,
-      "startTime": 745.16,
-      "endTime": 756.0,
-      "text": "First, you have some time to look at questions 21 to 26.",
+      "startTime": 828.18,
+      "endTime": 832.68,
+      "text": "The module on agriculture and food security could have been good.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-107",
       "part": 3,
-      "startTime": 756.0,
-      "endTime": 763.74,
-      "text": "Now listen carefully and answer questions 21 to 26. Hi, Martha. Do you have time to talk?",
+      "startTime": 833.12,
+      "endTime": 837.44,
+      "text": "But the assigned readings were only those ancient government publications.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-108",
       "part": 3,
-      "startTime": 763.74,
-      "endTime": 774.0,
-      "text": "We have to submit our evaluations of our course next week, and I thought it'd be useful to discuss what we both think.",
+      "startTime": 837.76,
+      "endTime": 843.18,
+      "text": "And the lecture notes clearly hadn't been updated for years. I know.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-109",
       "part": 3,
-      "startTime": 774.0,
-      "endTime": 780.13,
-      "text": "Good idea. That would help refresh my memory, especially about things we did in previous years.",
+      "startTime": 843.76,
+      "endTime": 846.8,
+      "text": "What about the module on sustainable energy?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-110",
       "part": 3,
-      "startTime": 780.13,
-      "endTime": 783.36,
-      "text": "I agree. So, let's talk about the modules we took.",
+      "startTime": 846.94,
+      "endTime": 851.24,
+      "text": "I really got into the project we had to do to invent something functional.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-111",
       "part": 3,
-      "startTime": 783.36,
-      "endTime": 786.52,
-      "text": "What about statistics for environmental research?",
+      "startTime": 851.34,
+      "endTime": 854.84,
+      "text": "I devised a windmill to power my laptop. Yep.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-112",
       "part": 3,
-      "startTime": 786.52,
-      "endTime": 791.29,
-      "text": "I've always been hopeless with numbers, so I thought that I'd learn a lot.",
+      "startTime": 854.86,
+      "endTime": 858.52,
+      "text": "The projects were great. So hands-on.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-113",
       "part": 3,
-      "startTime": 791.29,
-      "endTime": 794.84,
-      "text": "But, you know, it wasn't at a high enough level for me.",
+      "startTime": 858.76,
+      "endTime": 863.52,
+      "text": "Though the personal battery charger I built never really worked. Too bad.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-114",
       "part": 3,
-      "startTime": 794.84,
-      "endTime": 798.45,
-      "text": "I actually had to do a lot of reading on my own. Me too.",
+      "startTime": 863.72,
+      "endTime": 866.94,
+      "text": "But I'm sure you learned a lot nonetheless. I did.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-115",
       "part": 3,
-      "startTime": 798.45,
-      "endTime": 802.0,
-      "text": "I had to get an additional reading list from the tutor.",
+      "startTime": 867.14,
+      "endTime": 869.2,
+      "text": "And the government policy module?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-116",
       "part": 3,
-      "startTime": 803.0,
-      "endTime": 808.09,
-      "text": "Now, sewage and drainage systems. I wasn't looking forward to that one.",
+      "startTime": 869.42,
+      "endTime": 872.6,
+      "text": "I wish it had included policy in other countries.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-117",
       "part": 3,
-      "startTime": 808.09,
-      "endTime": 811.39,
-      "text": "Not exactly a pleasant subject, but, you know,",
+      "startTime": 872.76,
+      "endTime": 877.78,
+      "text": "It was a bit inward-looking, I thought, focused just on this country.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-118",
       "part": 3,
-      "startTime": 811.39,
-      "endTime": 819.0,
-      "text": "the module convinced me that it's an essential topic to understand for both cities and rural environments.",
+      "startTime": 877.94,
+      "endTime": 885.1,
+      "text": "I mentioned that to the lecturer, but she said it was best to concentrate on one country in depth at first. Maybe.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-119",
       "part": 3,
-      "startTime": 819.0,
-      "endTime": 825.4,
-      "text": "Right. And, in the end, not a boring subject. Not at all. It was quite a revelation.",
+      "startTime": 885.32,
+      "endTime": 888.3,
+      "text": "And there was that module called Water Management.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-120",
       "part": 3,
-      "startTime": 825.4,
-      "endTime": 830.36,
-      "text": "The module on agriculture and food security could have been good.",
+      "startTime": 888.54,
+      "endTime": 897.32,
+      "text": "I must admit, I got lost in the discussion about the issues of groundwater levels and flood risk management, which weren't that essential.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-121",
       "part": 3,
-      "startTime": 830.36,
-      "endTime": 836.0,
-      "text": "But the assigned readings were only those ancient government publications.",
+      "startTime": 897.54,
+      "endTime": 899.24,
+      "text": "You weren't the only one.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-122",
       "part": 3,
-      "startTime": 837.0,
-      "endTime": 841.87,
-      "text": "And the lecture notes clearly hadn't been updated for years. I know.",
+      "startTime": 936.94,
+      "endTime": 944.34,
+      "text": "I thought some aspects of the course organisation were particularly helpful. Can we talk a bit about that? Of course.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-123",
       "part": 3,
-      "startTime": 841.87,
-      "endTime": 845.02,
-      "text": "What about the module on sustainable energy?",
+      "startTime": 945.08,
+      "endTime": 951.62,
+      "text": "Actually, I was disappointed that I couldn't take any module whenever I wanted. That's true.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-124",
       "part": 3,
-      "startTime": 845.02,
-      "endTime": 850.32,
-      "text": "I really got into the project we had to do to invent something functional.",
+      "startTime": 951.68,
+      "endTime": 958.38,
+      "text": "But the variety of modules on offer was a strong point and meant I managed to cover a lot of subjects. Me too.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-125",
       "part": 3,
-      "startTime": 850.32,
-      "endTime": 856.26,
-      "text": "I devised a windmill to power my laptop. Yep. The projects were great. So hands-on.",
+      "startTime": 958.5,
+      "endTime": 960.3,
+      "text": "More than I expected.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-126",
       "part": 3,
-      "startTime": 856.26,
-      "endTime": 861.49,
-      "text": "Though the personal battery charger I built never really worked. Too bad.",
+      "startTime": 960.52,
+      "endTime": 969.96,
+      "text": "I had wanted to finish the course early by doing an extra module each term, which would have been useful, but unfortunately that wasn't allowed.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-127",
       "part": 3,
-      "startTime": 861.49,
-      "endTime": 867.5,
-      "text": "But I'm sure you learned a lot nonetheless. I did. And the government policy module?",
+      "startTime": 970.52,
+      "endTime": 974.82,
+      "text": "I had to wait to do some modules, which I found hard to schedule.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-128",
       "part": 3,
-      "startTime": 867.5,
-      "endTime": 871.0,
-      "text": "I wish it had included policy in other countries.",
+      "startTime": 975.08,
+      "endTime": 982.28,
+      "text": "And I think more assigned reading for the modules would have made the lectures easier to follow. That would have been good.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-129",
       "part": 3,
-      "startTime": 871.0,
-      "endTime": 875.7,
-      "text": "It was a bit inward-looking, I thought, focused just on this country.",
+      "startTime": 982.52,
+      "endTime": 991.16,
+      "text": "But I was pleased that the course organisers were able to provide modules focusing on real-life issues, which we can apply later when looking for jobs.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-130",
       "part": 3,
-      "startTime": 875.7,
-      "endTime": 883.0,
-      "text": "I mentioned that to the lecturer, but she said it was best to concentrate on one country in depth at first.",
+      "startTime": 991.48,
+      "endTime": 992.14,
+      "text": "True.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-131",
       "part": 3,
-      "startTime": 883.0,
-      "endTime": 886.89,
-      "text": "Maybe. And there was that module called Water Management.",
+      "startTime": 992.28,
+      "endTime": 995.5,
+      "text": "And I would have hated it if it had all been theory.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-132",
       "part": 3,
-      "startTime": 886.89,
-      "endTime": 896.3,
-      "text": "I must admit, I got lost in the discussion about the issues of groundwater levels and flood risk management, which weren't that essential.",
+      "startTime": 995.64,
+      "endTime": 998.78,
+      "text": "What about the written paper we had to do for Dr Brown?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-133",
       "part": 3,
-      "startTime": 896.3,
-      "endTime": 898.0,
-      "text": "You weren't the only one.",
+      "startTime": 998.78,
+      "endTime": 1002.5,
+      "text": "Are there any things we could suggest to improve the way that's handled?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-134",
       "part": 3,
-      "startTime": 900.0,
-      "endTime": 913.68,
-      "text": "Before you hear the rest of the discussion, you have some time to look at questions 27 to 30.",
+      "startTime": 1002.94,
+      "endTime": 1009.52,
+      "text": "Well, I got lots of help from Dr Brown and his assistant in narrowing down what I wanted to write about.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-135",
       "part": 3,
-      "startTime": 913.68,
-      "endTime": 920.3,
-      "text": "Now listen and answer questions 27 to 30. OK.",
+      "startTime": 1009.82,
+      "endTime": 1013.62,
+      "text": "Yes, they stopped me from doing something too ambitious.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-136",
       "part": 3,
-      "startTime": 920.3,
-      "endTime": 931.48,
-      "text": "I thought some aspects of the course organisation were particularly helpful.",
+      "startTime": 1013.74,
+      "endTime": 1017.62,
+      "text": "But choosing a topic right at the beginning of the module was difficult.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-137",
       "part": 3,
-      "startTime": 931.48,
-      "endTime": 937.37,
-      "text": "Can we talk a bit about that? Of course.",
+      "startTime": 1018.1,
+      "endTime": 1022.94,
+      "text": "Maybe he could postpone the decision until halfway through the term. Good idea.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-138",
       "part": 3,
-      "startTime": 937.37,
-      "endTime": 949.0,
-      "text": "Actually, I was disappointed that I couldn't take any module whenever I wanted.",
+      "startTime": 1023.18,
+      "endTime": 1025.64,
+      "text": "I was happy with the word limit for the assignment though.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-139",
       "part": 3,
-      "startTime": 949.0,
-      "endTime": 949.82,
-      "text": "That's true.",
+      "startTime": 1026.14,
+      "endTime": 1033.78,
+      "text": "Well, as usual, I could have written on and on, but the limit made me refine my thoughts, so it was OK in the end.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-140",
       "part": 3,
-      "startTime": 949.82,
-      "endTime": 956.77,
-      "text": "But the variety of modules on offer was a strong point and meant I managed to cover a lot of subjects.",
+      "startTime": 1033.98,
+      "endTime": 1038.96,
+      "text": "I wish I could have had a session with Dr Brown after he'd marked my written paper.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-141",
       "part": 3,
-      "startTime": 956.77,
-      "endTime": 958.75,
-      "text": "Me too. More than I expected.",
+      "startTime": 1039.22,
+      "endTime": 1043.92,
+      "text": "I know it would be time-consuming, but it would have been really useful.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-142",
       "part": 3,
-      "startTime": 958.75,
-      "endTime": 968.57,
-      "text": "I had wanted to finish the course early by doing an extra module each term, which would have been useful, but unfortunately that wasn't allowed.",
+      "startTime": 1044.78,
+      "endTime": 1048.4,
+      "text": "Actually, I was satisfied with Dr Brown's written feedback.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-143",
       "part": 3,
-      "startTime": 968.57,
-      "endTime": 973.0,
-      "text": "I had to wait to do some modules, which I found hard to schedule.",
+      "startTime": 1048.62,
+      "endTime": 1052.32,
+      "text": "It was amazingly detailed, so I don't think I needed more.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-144",
       "part": 3,
-      "startTime": 974.0,
-      "endTime": 979.65,
-      "text": "And I think more assigned reading for the modules would have made the lectures easier to follow.",
+      "startTime": 1052.8,
+      "endTime": 1060.38,
+      "text": "But I wish they could arrange sessions where students get together and help each other before submitting their written work. Good idea.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-145",
       "part": 3,
-      "startTime": 979.65,
-      "endTime": 981.18,
-      "text": "That would have been good.",
+      "startTime": 1060.84,
+      "endTime": 1065.58,
+      "text": "If they provided time for that, it would be quite convenient. Right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-146",
       "part": 3,
-      "startTime": 981.18,
-      "endTime": 987.24,
-      "text": "But I was pleased that the course organisers were able to provide modules focusing on real-life issues,",
+      "startTime": 1065.86,
+      "endTime": 1070.86,
+      "text": "Now that we've almost finished our course, it's time to think about our career prospects.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-147",
       "part": 3,
-      "startTime": 987.24,
-      "endTime": 990.0,
-      "text": "which we can apply later when looking for jobs.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-148",
-      "part": 3,
-      "startTime": 990.0,
-      "endTime": 993.61,
-      "text": "True. And I would have hated it if it had all been theory.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-149",
-      "part": 3,
-      "startTime": 993.61,
-      "endTime": 997.04,
-      "text": "What about the written paper we had to do for Dr Brown?",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-150",
-      "part": 3,
-      "startTime": 997.04,
-      "endTime": 1001.52,
-      "text": "Are there any things we could suggest to improve the way that's handled?",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-151",
-      "part": 3,
-      "startTime": 1001.52,
-      "endTime": 1008.0,
-      "text": "Well, I got lots of help from Dr Brown and his assistant in narrowing down what I wanted to write about.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-152",
-      "part": 3,
-      "startTime": 1009.0,
-      "endTime": 1012.14,
-      "text": "Yes, they stopped me from doing something too ambitious.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-153",
-      "part": 3,
-      "startTime": 1012.14,
-      "endTime": 1016.18,
-      "text": "But choosing a topic right at the beginning of the module was difficult.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-154",
-      "part": 3,
-      "startTime": 1016.18,
-      "endTime": 1020.0,
-      "text": "Maybe he could postpone the decision until halfway through the term.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-155",
-      "part": 3,
-      "startTime": 1021.0,
-      "endTime": 1025.15,
-      "text": "Good idea. I was happy with the word limit for the assignment though.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-156",
-      "part": 3,
-      "startTime": 1025.15,
-      "endTime": 1032.0,
-      "text": "Well, as usual, I could have written on and on, but the limit made me refine my thoughts, so it was OK in the end.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-157",
-      "part": 3,
-      "startTime": 1033.0,
-      "endTime": 1038.3,
-      "text": "I wish I could have had a session with Dr Brown after he'd marked my written paper.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-158",
-      "part": 3,
-      "startTime": 1038.3,
-      "endTime": 1042.9,
-      "text": "I know it would be time-consuming, but it would have been really useful.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-159",
-      "part": 3,
-      "startTime": 1042.9,
-      "endTime": 1046.67,
-      "text": "Actually, I was satisfied with Dr Brown's written feedback.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-160",
-      "part": 3,
-      "startTime": 1046.67,
-      "endTime": 1050.37,
-      "text": "It was amazingly detailed, so I don't think I needed more.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-161",
-      "part": 3,
-      "startTime": 1050.37,
-      "endTime": 1058.28,
-      "text": "But I wish they could arrange sessions where students get together and help each other before submitting their written work.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-162",
-      "part": 3,
-      "startTime": 1058.28,
-      "endTime": 1063.32,
-      "text": "Good idea. If they provided time for that, it would be quite convenient. Right.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-163",
-      "part": 3,
-      "startTime": 1063.32,
-      "endTime": 1069.0,
-      "text": "Now that we've almost finished our course, it's time to think about our career prospects.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-164",
-      "part": 3,
-      "startTime": 1070.0,
-      "endTime": 1109.39,
+      "startTime": 1071.12,
+      "endTime": 1074.02,
       "text": "What type of organisation do you hope to work for?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
+      "id": "seg-148",
+      "part": 4,
+      "startTime": 1179.42,
+      "endTime": 1180.54,
+      "text": "Good morning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 4,
+      "startTime": 1180.8,
+      "endTime": 1191.56,
+      "text": "We're really pleased that our university is going to hold a concert featuring the music of the Italian composer Salvatore Schiarino.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 4,
+      "startTime": 1191.56,
+      "endTime": 1197.42,
+      "text": "He's considered one of the leading composers of modern classical music in Europe.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 4,
+      "startTime": 1197.56,
+      "endTime": 1207.5,
+      "text": "His music is highly unusual, so in order to prepare you for this concert, I'm going to talk about his life and music.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 4,
+      "startTime": 1207.9,
+      "endTime": 1211.18,
+      "text": "First, some biographical details.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 4,
+      "startTime": 1211.44,
+      "endTime": 1218.58,
+      "text": "Salvatore Schiarino was born in the Italian city of Palermo in 1947.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 4,
+      "startTime": 1219.04,
+      "endTime": 1225.08,
+      "text": "Though he did receive some music lessons, he is mainly self-taught as a composer.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 4,
+      "startTime": 1225.66,
+      "endTime": 1235.46,
+      "text": "After a few years of university in his home city, he moved to Rome in 1969, where he studied electronic music.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 4,
+      "startTime": 1235.88,
+      "endTime": 1241.84,
+      "text": "This experience served as a turning point in the development of Schiarino as a composer.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 4,
+      "startTime": 1243.7,
+      "endTime": 1252.0,
+      "text": "Turning to his work, he composed a great deal in the 1970s and was a music teacher until 1982.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 4,
+      "startTime": 1253.74,
+      "endTime": 1259.68,
+      "text": "Apart from composing music and teaching, he has also produced a large number of",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 4,
+      "startTime": 1259.68,
+      "endTime": 1266.42,
+      "text": "essays on a range of topics, such as the philosophy behind his work and musical form.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 4,
+      "startTime": 1268.36,
+      "endTime": 1280.26,
+      "text": "Throughout his career, he has won numerous prestigious awards, most notably a major prize in 2011 which recognised his musical originality.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 4,
+      "startTime": 1280.54,
+      "endTime": 1286.18,
+      "text": "So you could say that he is one of the most important composers of our times.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 4,
+      "startTime": 1291.38,
+      "endTime": 1298.36,
+      "text": "Now I'll talk about the characteristics of his music, which some people are a bit surprised by.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 4,
+      "startTime": 1298.9,
+      "endTime": 1305.8,
+      "text": "The first thing that many listeners will notice about Schiarino's music is the frequent use of silence.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 4,
+      "startTime": 1307.3,
+      "endTime": 1313.52,
+      "text": "What is also striking about his music is his preference for extremely soft",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
       "id": "seg-165",
-      "part": 3,
-      "startTime": 1109.39,
-      "endTime": 1129.87,
-      "text": "That is the end of Part 3.",
+      "part": 4,
+      "startTime": 1313.52,
+      "endTime": 1319.5,
+      "text": "sounds that are sometimes at such a low volume that they can hardly be heard.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-166",
-      "part": 3,
-      "startTime": 1129.87,
-      "endTime": 1174.0,
-      "text": "You now have 30 seconds to check your answers to Part 3.",
+      "part": 4,
+      "startTime": 1320.08,
+      "endTime": 1330.36,
+      "text": "The other unusual aspect of his music is that he frequently requires musicians to play their instruments in unconventional ways,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-167",
       "part": 4,
-      "startTime": 1174.0,
-      "endTime": 1175.59,
-      "text": "You will hear a music student giving a talk about an Italian composer.",
+      "startTime": 1330.36,
+      "endTime": 1340.94,
+      "text": "so that, for example, a violin may end up sounding very strange and creating sounds we generally associate with nature.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-168",
       "part": 4,
-      "startTime": 1175.59,
-      "endTime": 1176.84,
-      "text": "First you have some time to look at questions 31 to 40.",
+      "startTime": 1341.72,
+      "endTime": 1347.6,
+      "text": "Actually, his novel instrumental techniques have often been imitated by other composers.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-169",
       "part": 4,
-      "startTime": 1176.84,
-      "endTime": 1178.0,
-      "text": "Now listen carefully and answer questions 31 to 40.",
+      "startTime": 1348.3,
+      "endTime": 1355.72,
+      "text": "As a result, he is widely regarded as a pioneer in terms of creating new sounds.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-170",
       "part": 4,
-      "startTime": 1178.0,
-      "endTime": 1179.04,
-      "text": "Good morning.",
+      "startTime": 1356.14,
+      "endTime": 1365.24,
+      "text": "It may sound strange, but Schiarino himself has likened his music to a volcano viewed from afar.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-171",
       "part": 4,
-      "startTime": 1179.04,
-      "endTime": 1189.55,
-      "text": "We're really pleased that our university is going to hold a concert featuring the music of the Italian composer Salvatore Schiarino.",
+      "startTime": 1365.74,
+      "endTime": 1371.04,
+      "text": "As you'll see, it builds up slowly to an exciting climax.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-172",
       "part": 4,
-      "startTime": 1189.55,
-      "endTime": 1196.0,
-      "text": "He's considered one of the leading composers of modern classical music in Europe.",
+      "startTime": 1372.6,
+      "endTime": 1378.16,
+      "text": "Let's move on to talk about the particular piece that we'll hear at the concert.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-173",
       "part": 4,
-      "startTime": 1197.0,
-      "endTime": 1207.73,
-      "text": "His music is highly unusual, so in order to prepare you for this concert, I'm going to talk about his life and music.",
+      "startTime": 1378.4,
+      "endTime": 1382.7,
+      "text": "Many people consider it to be his finest work to date.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-174",
       "part": 4,
-      "startTime": 1207.73,
-      "endTime": 1210.76,
-      "text": "First, some biographical details.",
+      "startTime": 1382.88,
+      "endTime": 1390.42,
+      "text": "It's an immense piece of music for piano, chorus and orchestra that was completed in 1979.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-175",
       "part": 4,
-      "startTime": 1210.76,
-      "endTime": 1217.0,
-      "text": "Salvatore Schiarino was born in the Italian city of Palermo in 1947.",
+      "startTime": 1392.86,
+      "endTime": 1400.84,
+      "text": "The work is dedicated to a friend who died unexpectedly, so it was written as a kind of memorial.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-176",
       "part": 4,
-      "startTime": 1218.0,
-      "endTime": 1224.68,
-      "text": "Though he did receive some music lessons, he is mainly self-taught as a composer.",
+      "startTime": 1401.36,
+      "endTime": 1408.58,
+      "text": "In many ways, it is representative of his work as a whole in terms of the sound that it creates.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-177",
       "part": 4,
-      "startTime": 1224.68,
-      "endTime": 1233.75,
-      "text": "After a few years of university in his home city, he moved to Rome in 1969, where he studied electronic music.",
+      "startTime": 1408.74,
+      "endTime": 1415.52,
+      "text": "It's technically formidable and it's a very challenging piece for musicians to play.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-178",
       "part": 4,
-      "startTime": 1233.75,
-      "endTime": 1241.0,
-      "text": "This experience served as a turning point in the development of Schiarino as a composer.",
+      "startTime": 1415.96,
+      "endTime": 1422.96,
+      "text": "The piece opens with a low sound of great complexity that is similar to thunder.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-179",
       "part": 4,
-      "startTime": 1242.0,
-      "endTime": 1250.76,
-      "text": "Turning to his work, he composed a great deal in the 1970s and was a music teacher until 1982.",
+      "startTime": 1423.5,
+      "endTime": 1429.98,
+      "text": "This low-pitched noise is sustained almost uninterrupted for 45 minutes,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-180",
       "part": 4,
-      "startTime": 1250.76,
-      "endTime": 1260.83,
-      "text": "Apart from composing music and teaching, he has also produced a large number of essays on a range of topics,",
+      "startTime": 1430.22,
+      "endTime": 1436.42,
+      "text": "which may sound quite boring, but I found it to be very haunting and atmospheric.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-181",
       "part": 4,
-      "startTime": 1260.83,
-      "endTime": 1266.05,
-      "text": "such as the philosophy behind his work and musical form.",
+      "startTime": 1436.86,
+      "endTime": 1446.72,
+      "text": "The sound, by the way, is created by large vibrating sheets of metal, which are slowly manipulated by two percussionists.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-182",
       "part": 4,
-      "startTime": 1266.05,
-      "endTime": 1279.0,
-      "text": "Throughout his career, he has won numerous prestigious awards, most notably a major prize in 2011 which recognised his musical originality.",
+      "startTime": 1447.16,
+      "endTime": 1452.88,
+      "text": "There are very quiet and strange chords produced by string instruments",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-183",
       "part": 4,
-      "startTime": 1279.0,
-      "endTime": 1286.28,
-      "text": "So you could say that he is one of the most important composers of our times.",
+      "startTime": 1452.88,
+      "endTime": 1460.04,
+      "text": "and very complex piano melodies that quietly appear and then disappear.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-184",
       "part": 4,
-      "startTime": 1286.28,
-      "endTime": 1295.26,
-      "text": "Now I'll talk about the characteristics of his music, which some people are a bit surprised by.",
+      "startTime": 1460.64,
+      "endTime": 1470.9,
+      "text": "Even though the piece will be, for many people, very unusual in terms of the sounds it creates, it actually has a very conventional structure,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-185",
       "part": 4,
-      "startTime": 1295.26,
-      "endTime": 1305.0,
-      "text": "The first thing that many listeners will notice about Schiarino's music is the frequent use of silence.",
+      "startTime": 1471.22,
+      "endTime": 1476.38,
+      "text": "which is just another surprising aspect of Schiarino's work.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-186",
       "part": 4,
-      "startTime": 1306.0,
-      "endTime": 1318.48,
-      "text": "What is also striking about his music is his preference for extremely soft sounds that are sometimes at such a low volume that they can hardly be heard.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-187",
-      "part": 4,
-      "startTime": 1318.48,
-      "endTime": 1328.99,
-      "text": "The other unusual aspect of his music is that he frequently requires musicians to play their instruments in unconventional ways,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-188",
-      "part": 4,
-      "startTime": 1328.99,
-      "endTime": 1338.76,
-      "text": "so that, for example, a violin may end up sounding very strange and creating sounds we generally associate with nature.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-189",
-      "part": 4,
-      "startTime": 1338.76,
-      "endTime": 1346.0,
-      "text": "Actually, his novel instrumental techniques have often been imitated by other composers.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-190",
-      "part": 4,
-      "startTime": 1346.0,
-      "endTime": 1353.9,
-      "text": "As a result, he is widely regarded as a pioneer in terms of creating new sounds.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-191",
-      "part": 4,
-      "startTime": 1353.9,
-      "endTime": 1363.38,
-      "text": "It may sound strange, but Schiarino himself has likened his music to a volcano viewed from afar.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-192",
-      "part": 4,
-      "startTime": 1363.38,
-      "endTime": 1369.0,
-      "text": "As you'll see, it builds up slowly to an exciting climax.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-193",
-      "part": 4,
-      "startTime": 1371.0,
-      "endTime": 1377.79,
-      "text": "Let's move on to talk about the particular piece that we'll hear at the concert.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-194",
-      "part": 4,
-      "startTime": 1377.79,
-      "endTime": 1382.37,
-      "text": "Many people consider it to be his finest work to date.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-195",
-      "part": 4,
-      "startTime": 1382.37,
-      "endTime": 1390.0,
-      "text": "It's an immense piece of music for piano, chorus and orchestra that was completed in 1979.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-196",
-      "part": 4,
-      "startTime": 1391.0,
-      "endTime": 1398.7,
-      "text": "The work is dedicated to a friend who died unexpectedly, so it was written as a kind of memorial.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-197",
-      "part": 4,
-      "startTime": 1398.7,
-      "endTime": 1406.32,
-      "text": "In many ways, it is representative of his work as a whole in terms of the sound that it creates.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-198",
-      "part": 4,
-      "startTime": 1406.32,
-      "endTime": 1413.0,
-      "text": "It's technically formidable and it's a very challenging piece for musicians to play.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-199",
-      "part": 4,
-      "startTime": 1415.0,
-      "endTime": 1421.78,
-      "text": "The piece opens with a low sound of great complexity that is similar to thunder.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-200",
-      "part": 4,
-      "startTime": 1421.78,
-      "endTime": 1430.42,
-      "text": "This low-pitched noise is sustained almost uninterrupted for 45 minutes, which may sound quite boring,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-201",
-      "part": 4,
-      "startTime": 1430.42,
-      "endTime": 1434.74,
-      "text": "but I found it to be very haunting and atmospheric.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-202",
-      "part": 4,
-      "startTime": 1434.74,
-      "endTime": 1445.0,
-      "text": "The sound, by the way, is created by large vibrating sheets of metal, which are slowly manipulated by two percussionists.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-203",
-      "part": 4,
-      "startTime": 1445.0,
-      "endTime": 1457.4,
-      "text": "There are very quiet and strange chords produced by string instruments and very complex piano melodies that quietly appear and then disappear.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-204",
-      "part": 4,
-      "startTime": 1457.4,
-      "endTime": 1465.69,
-      "text": "Even though the piece will be, for many people, very unusual in terms of the sounds it creates,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-205",
-      "part": 4,
-      "startTime": 1465.69,
-      "endTime": 1475.03,
-      "text": "it actually has a very conventional structure, which is just another surprising aspect of Schiarino's work.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-206",
-      "part": 4,
-      "startTime": 1475.03,
-      "endTime": 1478.0,
+      "startTime": 1476.94,
+      "endTime": 1479.78,
       "text": "Now let's move on to another work.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-207",
-      "part": 4,
-      "startTime": 1481.0,
-      "endTime": 1490.75,
-      "text": "That is the end of Part 4.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-208",
-      "part": 4,
-      "startTime": 1490.75,
-      "endTime": 1511.75,
-      "text": "You now have one minute to check your answers to Part 4.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-209",
-      "part": 4,
-      "startTime": 1511.75,
-      "endTime": 1526.0,
-      "text": "That is the end of the listening test.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-210",
-      "part": 4,
-      "startTime": 1526.0,
-      "endTime": 1556.0,
-      "text": "You now have ten minutes to transfer your answers to the listening answer sheet.",
       "timestampSource": "exact",
       "qTags": []
     }
@@ -2706,156 +2481,126 @@
     {
       "id": "long-001",
       "part": 1,
-      "startTime": 0.0,
-      "endTime": 24.0,
-      "text": "IELTS Listening Version 54744 You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only.",
+      "startTime": 100.98,
+      "endTime": 118.9,
+      "text": "Good afternoon. Can I help you? Yes, I'm looking for some places to visit when my sister and her children come to stay. They arrive this weekend from overseas. I'm new to the area and don't really know what to recommend. Do you have any ideas? What about going to Alma Park to visit the zoo?",
       "segmentIds": [
         "seg-001",
         "seg-002",
-        "seg-003"
+        "seg-003",
+        "seg-004",
+        "seg-005"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-002",
       "part": 1,
-      "startTime": 25.0,
-      "endTime": 47.59,
-      "text": "The test is in four parts. Write all your answers in the listening question booklet. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to Part 1 on page 2 of your question booklet.",
+      "startTime": 118.9,
+      "endTime": 139.94,
+      "text": "Oh, I like the idea of that. Is it reasonably priced? Yes, it's not a bad price. A standard adult ticket is normally $30, but there's a special deal for families of $65, which is a saving of $35. That's a great deal. How do we get there from the city? You can go by bus. Is it very far?",
       "segmentIds": [
-        "seg-004",
-        "seg-005",
-        "seg-006"
+        "seg-006",
+        "seg-007",
+        "seg-008",
+        "seg-009",
+        "seg-010"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-003",
       "part": 1,
-      "startTime": 47.59,
-      "endTime": 75.41,
-      "text": "Part 1 You will hear a woman asking a man in a tourist information office about places to visit in the region. First you have some time to look at questions 1 to 6. Now listen carefully and answer questions 1 to 6. Good afternoon.",
+      "startTime": 140.16,
+      "endTime": 159.4,
+      "text": "The 385 will get you there in approximately 40 minutes, depending on traffic. There is another bus, the 388, but it takes 20 minutes longer, so it's worth waiting a few more minutes for the more direct bus. OK. Are there any special things to do there? Can you feed the animals or anything like that?",
       "segmentIds": [
-        "seg-007",
-        "seg-008",
-        "seg-009"
+        "seg-011",
+        "seg-012",
+        "seg-013",
+        "seg-014"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-004",
       "part": 1,
-      "startTime": 75.41,
-      "endTime": 92.61,
-      "text": "Can I help you? Yes, I'm looking for some places to visit when my sister and her children come to stay. They arrive this weekend from overseas.",
+      "startTime": 159.64,
+      "endTime": 177.02,
+      "text": "They've stopped that, but most tourists love the fact that you're allowed to hold some of the animals and get your photo taken. They just ask you to make a small payment to help with costs. Oh, the kids would love that. My sister also likes going to the theatre. Is there anything good on at the moment?",
       "segmentIds": [
-        "seg-010",
-        "seg-011",
-        "seg-012"
+        "seg-015",
+        "seg-016",
+        "seg-017",
+        "seg-018",
+        "seg-019"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-005",
       "part": 1,
-      "startTime": 92.61,
-      "endTime": 114.94,
-      "text": "I'm new to the area and don't really know what to recommend. Do you have any ideas? What about going to Alma Park to visit the zoo? Oh, I like the idea of that. Is it reasonably priced?",
+      "startTime": 177.24,
+      "endTime": 195.06,
+      "text": "She especially likes comedies. There's a place called the Entertainment Room in Ascot. I'll just check their website. Hmm, yes, there's a festival running at the moment with John Rosie as the main entertainer. He's really funny. How do you spell that? Is it R-O-Z-Y?",
       "segmentIds": [
-        "seg-013",
-        "seg-014",
-        "seg-015"
+        "seg-020",
+        "seg-021",
+        "seg-022",
+        "seg-023"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-006",
       "part": 1,
-      "startTime": 114.94,
-      "endTime": 138.93,
-      "text": "Yes, it's not a bad price. A standard adult ticket is normally $30, but there's a special deal for families of $65, which is a saving of $35. That's a great deal. How do we get there from the city? You can go by bus. Is it very far?",
+      "startTime": 195.58,
+      "endTime": 217.86,
+      "text": "No, it's R-O-S-I-E. Got it. And when is it on? Next week. It says it starts on Tuesday with a special matinee show on the Wednesday. It was supposed to finish on Friday, but because of the demand it's been extended to Saturday. It must be good then. Is it expensive? I don't think so. Let's see.",
       "segmentIds": [
-        "seg-016",
-        "seg-017",
-        "seg-018"
+        "seg-024",
+        "seg-025",
+        "seg-026",
+        "seg-027"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-007",
       "part": 1,
-      "startTime": 138.93,
-      "endTime": 157.33,
-      "text": "The 385 will get you there in approximately 40 minutes, depending on traffic. There is another bus, the 388, but it takes 20 minutes longer, so it's worth waiting a few more minutes for the more direct bus. OK. Are there any special things to do there? Can you feed the animals or anything like that?",
+      "startTime": 218.72,
+      "endTime": 226.14,
+      "text": "Oh, it says there's a special preview show on the Monday, and they're offering a discount on tickets that night. We'll try and go then in that case.",
       "segmentIds": [
-        "seg-019",
-        "seg-020",
-        "seg-021"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-008",
-      "part": 1,
-      "startTime": 157.33,
-      "endTime": 178.07,
-      "text": "They've stopped that, but most tourists love the fact that you're allowed to hold some of the animals and get your photo taken. They just ask you to make a small payment to help with costs. Oh, the kids would love that. My sister also likes going to the theatre. Is there anything good on at the moment? She especially likes comedies.",
-      "segmentIds": [
-        "seg-022",
-        "seg-023",
-        "seg-024",
-        "seg-025"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-009",
-      "part": 1,
-      "startTime": 178.07,
-      "endTime": 200.0,
-      "text": "There's a place called the Entertainment Room in Ascot. I'll just check their website. Hmm, yes, there's a festival running at the moment with John Rosie as the main entertainer. He's really funny. How do you spell that? Is it R-O-Z-Y? No, it's R-O-S-I-E. Got it. And when is it on? Next week.",
-      "segmentIds": [
-        "seg-026",
-        "seg-027",
         "seg-028",
         "seg-029"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-010",
+      "id": "long-008",
       "part": 1,
-      "startTime": 200.0,
-      "endTime": 222.84,
-      "text": "It says it starts on Tuesday with a special matinee show on the Wednesday. It was supposed to finish on Friday, but because of the demand it's been extended to Saturday. It must be good then. Is it expensive? I don't think so. Let's see. Oh, it says there's a special preview show on the Monday, and they're offering a discount on tickets that night.",
+      "startTime": 262.58,
+      "endTime": 283.0,
+      "text": "I also wanted to spend a day in the city centre. The children will get bored just looking at the shops. Is there anything else for them to do? What's the museum like? It's very popular with children, and there's a very hands-on exhibition on at the moment. They'd love that. Sounds good. And there's a workshop on, where they learn how to do origami.",
       "segmentIds": [
         "seg-030",
         "seg-031",
         "seg-032",
-        "seg-033"
+        "seg-033",
+        "seg-034"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-011",
+      "id": "long-009",
       "part": 1,
-      "startTime": 222.84,
-      "endTime": 244.25,
-      "text": "We'll try and go then in that case. Before you hear the rest of the conversation, you have some time to look at questions 7 to 10. Now listen and answer questions 7 to 10.",
+      "startTime": 283.16,
+      "endTime": 302.32,
+      "text": "Will they need to bring anything special for that? On this leaflet it says that things like scissors and all of the paper are provided. They just advise children to bring a box to carry the completed origami home in. Just a little one will do. I'm also looking for a weekend activity. I've heard Bunyabi Island is great.",
       "segmentIds": [
-        "seg-034",
         "seg-035",
-        "seg-036"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-012",
-      "part": 1,
-      "startTime": 244.25,
-      "endTime": 264.14,
-      "text": "I also wanted to spend a day in the city centre. The children will get bored just looking at the shops. Is there anything else for them to do? What's the museum like?",
-      "segmentIds": [
+        "seg-036",
         "seg-037",
         "seg-038",
         "seg-039"
@@ -2863,27 +2608,27 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-013",
+      "id": "long-010",
       "part": 1,
-      "startTime": 264.14,
-      "endTime": 284.18,
-      "text": "It's very popular with children, and there's a very hands-on exhibition on at the moment. They'd love that. Sounds good. And there's a workshop on, where they learn how to do origami. Will they need to bring anything special for that?",
+      "startTime": 302.4,
+      "endTime": 315.46,
+      "text": "Would we need a car to get round the island? A four-wheel drive is a great way to explore. You should also try snorkelling at Salty Lake. Is that in the centre of the island, near the mountain? No, it's on the ocean side.",
       "segmentIds": [
         "seg-040",
         "seg-041",
         "seg-042",
-        "seg-043"
+        "seg-043",
+        "seg-044"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-014",
+      "id": "long-011",
       "part": 1,
-      "startTime": 284.18,
-      "endTime": 303.51,
-      "text": "On this leaflet it says that things like scissors and all of the paper are provided. They just advise children to bring a box to carry the completed origami home in. Just a little one will do. I'm also looking for a weekend activity. I've heard Bunyabi Island is great. Would we need a car to get round the island?",
+      "startTime": 315.8,
+      "endTime": 328.12,
+      "text": "OK, I'll get a map and check it out. I'd like to stay there at least one night, and I quite like the idea of taking a tent and sleeping out in the open air. Are you allowed to camp there? That would be lovely, but I'm afraid...",
       "segmentIds": [
-        "seg-044",
         "seg-045",
         "seg-046",
         "seg-047"
@@ -2891,66 +2636,66 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-015",
-      "part": 1,
-      "startTime": 303.51,
-      "endTime": 323.0,
-      "text": "A four-wheel drive is a great way to explore. You should also try snorkelling at Salty Lake. Is that in the centre of the island, near the mountain? No, it's on the ocean side. OK, I'll get a map and check it out. I'd like to stay there at least one night, and I quite like the idea of taking a tent and sleeping out in the open air.",
+      "id": "long-012",
+      "part": 2,
+      "startTime": 367.36,
+      "endTime": 384.78,
+      "text": "Good evening and thank you for coming to the Kenvale School Fair Volunteers Meeting. As you know, this is the biggest fundraising event in the school year, and as usual, we're expecting lots of people to come, which is why we're starting to prepare now, six months before the big day.",
       "segmentIds": [
         "seg-048",
         "seg-049",
-        "seg-050",
-        "seg-051"
+        "seg-050"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 2,
+      "startTime": 386.36,
+      "endTime": 410.24,
+      "text": "I'll begin tonight by talking about the different volunteer roles, so you can decide what you'd like to do. The entertainment coordinator position involves deciding what kinds of rides and activities will be at the fair, and making sure there's a good variety of things to do. From past experience, this role involves a lot of liaising with other helpers and the entertainers,",
+      "segmentIds": [
+        "seg-051",
+        "seg-052",
+        "seg-053",
+        "seg-054"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 2,
+      "startTime": 410.76,
+      "endTime": 430.44,
+      "text": "which means that most of the work is done after office hours. We need an advertising and promotion coordinator to make sure that people hear about the fair and lots of people come. We know this is a big job, so we've decided to have a couple of people doing it to share the load.",
+      "segmentIds": [
+        "seg-055",
+        "seg-056",
+        "seg-057"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 2,
+      "startTime": 430.8,
+      "endTime": 459.34,
+      "text": "The parent who did this role last year has just been offered a job, which starts next month, so she won't be able to lend us the benefit of her experience, sadly. The technical coordinator makes sure that there is a suitable stage for the performers, and that there are enough speakers and people can hear them and so on. Now, this may sound like a technical background is required, but it's not, as you don't actually have to set up or fix anything yourself.",
+      "segmentIds": [
+        "seg-058",
+        "seg-059",
+        "seg-060"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-016",
-      "part": 1,
-      "startTime": 324.0,
-      "endTime": 363.0,
-      "text": "Are you allowed to camp there? That would be lovely, but I'm afraid...",
-      "segmentIds": [
-        "seg-052",
-        "seg-053"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-017",
       "part": 2,
-      "startTime": 363.0,
-      "endTime": 377.22,
-      "text": "You will hear a school principal talking to a group of parents who are volunteering at a school fair. First you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14. Good evening and thank you for coming to the Kenvale School Fair Volunteers Meeting. As you know, this is the biggest fundraising event in the school year, and as usual,",
+      "startTime": 460.02,
+      "endTime": 483.12,
+      "text": "Having a car is essential, though, because in the week leading up to the event, you'll need to be able to get to the school early in the mornings, and occasionally later at night. We also need a staffing coordinator. This person will be required to look after the many helpers on the day of the fair. This role has just been created based on our experience of last year's event.",
       "segmentIds": [
-        "seg-054",
-        "seg-055",
-        "seg-056",
-        "seg-057",
-        "seg-058"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-018",
-      "part": 2,
-      "startTime": 377.22,
-      "endTime": 400.3,
-      "text": "we're expecting lots of people to come, which is why we're starting to prepare now, six months before the big day. I'll begin tonight by talking about the different volunteer roles, so you can decide what you'd like to do. The entertainment coordinator position involves deciding what kinds of rides and activities will be at the fair,",
-      "segmentIds": [
-        "seg-059",
-        "seg-060",
-        "seg-061"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-019",
-      "part": 2,
-      "startTime": 400.3,
-      "endTime": 422.0,
-      "text": "and making sure there's a good variety of things to do. From past experience, this role involves a lot of liaising with other helpers and the entertainers, which means that most of the work is done after office hours. We need an advertising and promotion coordinator to make sure that people hear about the fair and lots of people come.",
-      "segmentIds": [
+        "seg-061",
         "seg-062",
         "seg-063",
         "seg-064",
@@ -2959,118 +2704,108 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-020",
+      "id": "long-017",
       "part": 2,
-      "startTime": 423.0,
-      "endTime": 443.8,
-      "text": "We know this is a big job, so we've decided to have a couple of people doing it to share the load. The parent who did this role last year has just been offered a job, which starts next month, so she won't be able to lend us the benefit of her experience, sadly. The technical coordinator makes sure that there is a suitable stage for the performers,",
-      "segmentIds": [
-        "seg-066",
-        "seg-067",
-        "seg-068",
-        "seg-069"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-021",
-      "part": 2,
-      "startTime": 443.8,
-      "endTime": 462.54,
-      "text": "and that there are enough speakers and people can hear them and so on. Now, this may sound like a technical background is required, but it's not, as you don't actually have to set up or fix anything yourself. Having a car is essential, though, because in the week leading up to the event,",
-      "segmentIds": [
-        "seg-070",
-        "seg-071",
-        "seg-072"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-022",
-      "part": 2,
-      "startTime": 462.54,
-      "endTime": 482.04,
-      "text": "you'll need to be able to get to the school early in the mornings, and occasionally later at night. We also need a staffing coordinator. This person will be required to look after the many helpers on the day of the fair. This role has just been created based on our experience of last year's event.",
-      "segmentIds": [
-        "seg-073",
-        "seg-074",
-        "seg-075",
-        "seg-076"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-023",
-      "part": 2,
-      "startTime": 482.04,
-      "endTime": 508.56,
+      "startTime": 483.62,
+      "endTime": 495.58,
       "text": "We found that our volunteers felt a bit overworked, and so we're hoping that this role will make things easier. It will help to reduce stress if you organise the helpers about a month before the fair.",
       "segmentIds": [
+        "seg-066",
+        "seg-067"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 2,
+      "startTime": 541.84,
+      "endTime": 564.88,
+      "text": "Now, moving on to the map of the school fair, I'll point out some of the more important areas that you'll need to know about so you can help direct the visitors. You can see that we'll be using the large grounds just behind the school, and we'll set up temporary areas and pathways there. The first thing I'll show you are the fairground rights, which are always popular with the children.",
+      "segmentIds": [
+        "seg-068",
+        "seg-069",
+        "seg-070"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 2,
+      "startTime": 565.44,
+      "endTime": 589.38,
+      "text": "If you look at the map, you'll see the fair entrance at the bottom. From there, follow the main path in the direction of the river, and it's the third area on the left, the large rectangular area. The entertainment stage is a big feature of the fair, and this is where everyone will be able to see all the performers. To find this, go straight along the main path until you get to the river.",
+      "segmentIds": [
+        "seg-071",
+        "seg-072",
+        "seg-073",
+        "seg-074"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 589.86,
+      "endTime": 613.44,
+      "text": "Turn right and follow the path to the end, and there it is. There's not much shade here, so we should remind parents to bring hats for their children. If anyone wants a cold drink or a snack, then they'll ask you where the cafe is. Originally, we were going to put it opposite the toilets, but we've decided to put it near the river to take advantage of the views and breezes.",
+      "segmentIds": [
+        "seg-075",
+        "seg-076",
         "seg-077",
         "seg-078"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-024",
+      "id": "long-021",
       "part": 2,
-      "startTime": 508.56,
-      "endTime": 542.68,
-      "text": "Before you hear the rest of the talk, you have some time to look at questions 15 to 20. Now listen and answer questions 15 to 20. Now, moving on to the map of the school fair,",
+      "startTime": 614.04,
+      "endTime": 633.78,
+      "text": "You can see it on the map. It's the circular area, surrounded by trees, near the playground. The first A tent is always an important part of the fair. We wanted to put that in an area that was easily accessible, and a bit separated from the other attractions, but near the entrance.",
       "segmentIds": [
         "seg-079",
         "seg-080",
-        "seg-081"
+        "seg-081",
+        "seg-082"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-025",
+      "id": "long-022",
       "part": 2,
-      "startTime": 542.68,
-      "endTime": 563.0,
-      "text": "I'll point out some of the more important areas that you'll need to know about so you can help direct the visitors. You can see that we'll be using the large grounds just behind the school, and we'll set up temporary areas and pathways there. The first thing I'll show you are the fairground rights, which are always popular with the children.",
+      "startTime": 634.8,
+      "endTime": 658.58,
+      "text": "If you look at the map, you'll see it's south of the toilets, not far from the school fence line. The market stalls are where visitors will be able to pick up a bargain, or some homemade produce. Last year, these were located just south of the meeting area, but the stallholders complained that it was too exposed and hot. So, this year, we've moved them to the north of the meeting area.",
       "segmentIds": [
-        "seg-082",
         "seg-083",
-        "seg-084"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-026",
-      "part": 2,
-      "startTime": 564.0,
-      "endTime": 583.0,
-      "text": "If you look at the map, you'll see the fair entrance at the bottom. From there, follow the main path in the direction of the river, and it's the third area on the left, the large rectangular area. The entertainment stage is a big feature of the fair, and this is where everyone will be able to see all the performers.",
-      "segmentIds": [
+        "seg-084",
         "seg-085",
-        "seg-086",
-        "seg-087"
+        "seg-086"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-027",
+      "id": "long-023",
       "part": 2,
-      "startTime": 584.0,
-      "endTime": 604.24,
-      "text": "To find this, go straight along the main path until you get to the river. Turn right and follow the path to the end, and there it is. There's not much shade here, so we should remind parents to bring hats for their children. If anyone wants a cold drink or a snack, then they'll ask you where the cafe is.",
+      "startTime": 658.78,
+      "endTime": 675.62,
+      "text": "Lots of good shelter provided by the trees here. Of course, there'll be the ever-popular pony rides. To reach these, direct visitors to follow the main path from the entrance until they reach the L-shaped area on the left, next to the playground.",
       "segmentIds": [
+        "seg-087",
         "seg-088",
-        "seg-089",
-        "seg-090",
-        "seg-091"
+        "seg-089"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-028",
-      "part": 2,
-      "startTime": 604.24,
-      "endTime": 623.42,
-      "text": "Originally, we were going to put it opposite the toilets, but we've decided to put it near the river to take advantage of the views and breezes. You can see it on the map. It's the circular area, surrounded by trees, near the playground. The first A tent is always an important part of the fair.",
+      "id": "long-024",
+      "part": 3,
+      "startTime": 765.36,
+      "endTime": 785.6,
+      "text": "Hi, Martha. Do you have time to talk? We have to submit our evaluations of our course next week, and I thought it'd be useful to discuss what we both think. Good idea. That would help refresh my memory, especially about things we did in previous years. I agree. So, let's talk about the modules we took.",
       "segmentIds": [
+        "seg-090",
+        "seg-091",
         "seg-092",
         "seg-093",
         "seg-094"
@@ -3078,133 +2813,113 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-029",
-      "part": 2,
-      "startTime": 623.42,
-      "endTime": 645.12,
-      "text": "We wanted to put that in an area that was easily accessible, and a bit separated from the other attractions, but near the entrance. If you look at the map, you'll see it's south of the toilets, not far from the school fence line. The market stalls are where visitors will be able to pick up a bargain, or some homemade produce.",
+      "id": "long-025",
+      "part": 3,
+      "startTime": 785.82,
+      "endTime": 804.12,
+      "text": "What about statistics for environmental research? I've always been hopeless with numbers, so I thought that I'd learn a lot. But, you know, it wasn't at a high enough level for me. I actually had to do a lot of reading on my own. Me too. I had to get an additional reading list from the tutor.",
       "segmentIds": [
         "seg-095",
         "seg-096",
-        "seg-097"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-030",
-      "part": 2,
-      "startTime": 645.12,
-      "endTime": 665.0,
-      "text": "Last year, these were located just south of the meeting area, but the stallholders complained that it was too exposed and hot. So, this year, we've moved them to the north of the meeting area. Lots of good shelter provided by the trees here. Of course, there'll be the ever-popular pony rides.",
-      "segmentIds": [
+        "seg-097",
         "seg-098",
-        "seg-099",
+        "seg-099"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 3,
+      "startTime": 804.82,
+      "endTime": 826.0,
+      "text": "Now, sewage and drainage systems. I wasn't looking forward to that one. Not exactly a pleasant subject, but, you know, the module convinced me that it's an essential topic to understand for both cities and rural environments. Right. And, in the end, not a boring subject. Not at all.",
+      "segmentIds": [
         "seg-100",
-        "seg-101"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-031",
-      "part": 2,
-      "startTime": 666.0,
-      "endTime": 704.5,
-      "text": "To reach these, direct visitors to follow the main path from the entrance until they reach the L-shaped area on the left, next to the playground.",
-      "segmentIds": [
-        "seg-102"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-032",
-      "part": 2,
-      "startTime": 704.5,
-      "endTime": 726.0,
-      "text": "That is the end of Part 2. You now have 30 seconds to check your answers to Part 2",
-      "segmentIds": [
+        "seg-101",
+        "seg-102",
         "seg-103",
         "seg-104"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-033",
+      "id": "long-027",
       "part": 3,
-      "startTime": 726.0,
-      "endTime": 763.74,
-      "text": "You will hear two students, called Jamie and Martha, discussing their environmental science course. First, you have some time to look at questions 21 to 26. Now listen carefully and answer questions 21 to 26. Hi, Martha. Do you have time to talk?",
+      "startTime": 826.1,
+      "endTime": 846.8,
+      "text": "It was quite a revelation. The module on agriculture and food security could have been good. But the assigned readings were only those ancient government publications. And the lecture notes clearly hadn't been updated for years. I know. What about the module on sustainable energy?",
       "segmentIds": [
         "seg-105",
         "seg-106",
-        "seg-107"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-034",
-      "part": 3,
-      "startTime": 763.74,
-      "endTime": 786.52,
-      "text": "We have to submit our evaluations of our course next week, and I thought it'd be useful to discuss what we both think. Good idea. That would help refresh my memory, especially about things we did in previous years. I agree. So, let's talk about the modules we took. What about statistics for environmental research?",
-      "segmentIds": [
+        "seg-107",
         "seg-108",
-        "seg-109",
-        "seg-110",
-        "seg-111"
+        "seg-109"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-035",
+      "id": "long-028",
       "part": 3,
-      "startTime": 786.52,
-      "endTime": 808.09,
-      "text": "I've always been hopeless with numbers, so I thought that I'd learn a lot. But, you know, it wasn't at a high enough level for me. I actually had to do a lot of reading on my own. Me too. I had to get an additional reading list from the tutor. Now, sewage and drainage systems. I wasn't looking forward to that one.",
+      "startTime": 846.94,
+      "endTime": 866.94,
+      "text": "I really got into the project we had to do to invent something functional. I devised a windmill to power my laptop. Yep. The projects were great. So hands-on. Though the personal battery charger I built never really worked. Too bad. But I'm sure you learned a lot nonetheless. I did.",
       "segmentIds": [
+        "seg-110",
+        "seg-111",
         "seg-112",
         "seg-113",
-        "seg-114",
-        "seg-115",
-        "seg-116"
+        "seg-114"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-036",
+      "id": "long-029",
       "part": 3,
-      "startTime": 808.09,
-      "endTime": 830.36,
-      "text": "Not exactly a pleasant subject, but, you know, the module convinced me that it's an essential topic to understand for both cities and rural environments. Right. And, in the end, not a boring subject. Not at all. It was quite a revelation. The module on agriculture and food security could have been good.",
+      "startTime": 867.14,
+      "endTime": 888.3,
+      "text": "And the government policy module? I wish it had included policy in other countries. It was a bit inward-looking, I thought, focused just on this country. I mentioned that to the lecturer, but she said it was best to concentrate on one country in depth at first. Maybe. And there was that module called Water Management.",
       "segmentIds": [
+        "seg-115",
+        "seg-116",
         "seg-117",
         "seg-118",
-        "seg-119",
-        "seg-120"
+        "seg-119"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-037",
+      "id": "long-030",
       "part": 3,
-      "startTime": 830.36,
-      "endTime": 850.32,
-      "text": "But the assigned readings were only those ancient government publications. And the lecture notes clearly hadn't been updated for years. I know. What about the module on sustainable energy? I really got into the project we had to do to invent something functional.",
+      "startTime": 888.54,
+      "endTime": 899.24,
+      "text": "I must admit, I got lost in the discussion about the issues of groundwater levels and flood risk management, which weren't that essential. You weren't the only one.",
       "segmentIds": [
-        "seg-121",
+        "seg-120",
+        "seg-121"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 3,
+      "startTime": 936.94,
+      "endTime": 960.3,
+      "text": "I thought some aspects of the course organisation were particularly helpful. Can we talk a bit about that? Of course. Actually, I was disappointed that I couldn't take any module whenever I wanted. That's true. But the variety of modules on offer was a strong point and meant I managed to cover a lot of subjects. Me too. More than I expected.",
+      "segmentIds": [
         "seg-122",
         "seg-123",
-        "seg-124"
+        "seg-124",
+        "seg-125"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-038",
+      "id": "long-032",
       "part": 3,
-      "startTime": 850.32,
-      "endTime": 871.0,
-      "text": "I devised a windmill to power my laptop. Yep. The projects were great. So hands-on. Though the personal battery charger I built never really worked. Too bad. But I'm sure you learned a lot nonetheless. I did. And the government policy module? I wish it had included policy in other countries.",
+      "startTime": 960.52,
+      "endTime": 982.28,
+      "text": "I had wanted to finish the course early by doing an extra module each term, which would have been useful, but unfortunately that wasn't allowed. I had to wait to do some modules, which I found hard to schedule. And I think more assigned reading for the modules would have made the lectures easier to follow. That would have been good.",
       "segmentIds": [
-        "seg-125",
         "seg-126",
         "seg-127",
         "seg-128"
@@ -3212,81 +2927,71 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-039",
+      "id": "long-033",
       "part": 3,
-      "startTime": 871.0,
-      "endTime": 886.89,
-      "text": "It was a bit inward-looking, I thought, focused just on this country. I mentioned that to the lecturer, but she said it was best to concentrate on one country in depth at first. Maybe. And there was that module called Water Management.",
+      "startTime": 982.52,
+      "endTime": 1002.5,
+      "text": "But I was pleased that the course organisers were able to provide modules focusing on real-life issues, which we can apply later when looking for jobs. True. And I would have hated it if it had all been theory. What about the written paper we had to do for Dr Brown? Are there any things we could suggest to improve the way that's handled?",
       "segmentIds": [
         "seg-129",
         "seg-130",
-        "seg-131"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-040",
-      "part": 3,
-      "startTime": 886.89,
-      "endTime": 913.68,
-      "text": "I must admit, I got lost in the discussion about the issues of groundwater levels and flood risk management, which weren't that essential. You weren't the only one. Before you hear the rest of the discussion, you have some time to look at questions 27 to 30.",
-      "segmentIds": [
+        "seg-131",
         "seg-132",
-        "seg-133",
-        "seg-134"
+        "seg-133"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-041",
+      "id": "long-034",
       "part": 3,
-      "startTime": 913.68,
-      "endTime": 937.37,
-      "text": "Now listen and answer questions 27 to 30. OK. I thought some aspects of the course organisation were particularly helpful. Can we talk a bit about that? Of course.",
+      "startTime": 1002.94,
+      "endTime": 1025.64,
+      "text": "Well, I got lots of help from Dr Brown and his assistant in narrowing down what I wanted to write about. Yes, they stopped me from doing something too ambitious. But choosing a topic right at the beginning of the module was difficult. Maybe he could postpone the decision until halfway through the term. Good idea. I was happy with the word limit for the assignment though.",
       "segmentIds": [
+        "seg-134",
         "seg-135",
         "seg-136",
-        "seg-137"
+        "seg-137",
+        "seg-138"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-042",
+      "id": "long-035",
       "part": 3,
-      "startTime": 937.37,
-      "endTime": 958.75,
-      "text": "Actually, I was disappointed that I couldn't take any module whenever I wanted. That's true. But the variety of modules on offer was a strong point and meant I managed to cover a lot of subjects. Me too. More than I expected.",
+      "startTime": 1026.14,
+      "endTime": 1048.4,
+      "text": "Well, as usual, I could have written on and on, but the limit made me refine my thoughts, so it was OK in the end. I wish I could have had a session with Dr Brown after he'd marked my written paper. I know it would be time-consuming, but it would have been really useful. Actually, I was satisfied with Dr Brown's written feedback.",
       "segmentIds": [
-        "seg-138",
         "seg-139",
         "seg-140",
-        "seg-141"
+        "seg-141",
+        "seg-142"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-043",
+      "id": "long-036",
       "part": 3,
-      "startTime": 958.75,
-      "endTime": 981.18,
-      "text": "I had wanted to finish the course early by doing an extra module each term, which would have been useful, but unfortunately that wasn't allowed. I had to wait to do some modules, which I found hard to schedule. And I think more assigned reading for the modules would have made the lectures easier to follow. That would have been good.",
+      "startTime": 1048.62,
+      "endTime": 1074.02,
+      "text": "It was amazingly detailed, so I don't think I needed more. But I wish they could arrange sessions where students get together and help each other before submitting their written work. Good idea. If they provided time for that, it would be quite convenient. Right. Now that we've almost finished our course, it's time to think about our career prospects. What type of organisation do you hope to work for?",
       "segmentIds": [
-        "seg-142",
         "seg-143",
         "seg-144",
-        "seg-145"
+        "seg-145",
+        "seg-146",
+        "seg-147"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-044",
-      "part": 3,
-      "startTime": 981.18,
-      "endTime": 1001.52,
-      "text": "But I was pleased that the course organisers were able to provide modules focusing on real-life issues, which we can apply later when looking for jobs. True. And I would have hated it if it had all been theory. What about the written paper we had to do for Dr Brown? Are there any things we could suggest to improve the way that's handled?",
+      "id": "long-037",
+      "part": 4,
+      "startTime": 1179.42,
+      "endTime": 1197.42,
+      "text": "Good morning. We're really pleased that our university is going to hold a concert featuring the music of the Italian composer Salvatore Schiarino. He's considered one of the leading composers of modern classical music in Europe.",
       "segmentIds": [
-        "seg-146",
-        "seg-147",
         "seg-148",
         "seg-149",
         "seg-150"
@@ -3294,28 +2999,38 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-045",
-      "part": 3,
-      "startTime": 1001.52,
-      "endTime": 1025.15,
-      "text": "Well, I got lots of help from Dr Brown and his assistant in narrowing down what I wanted to write about. Yes, they stopped me from doing something too ambitious. But choosing a topic right at the beginning of the module was difficult. Maybe he could postpone the decision until halfway through the term. Good idea. I was happy with the word limit for the assignment though.",
+      "id": "long-038",
+      "part": 4,
+      "startTime": 1197.56,
+      "endTime": 1218.58,
+      "text": "His music is highly unusual, so in order to prepare you for this concert, I'm going to talk about his life and music. First, some biographical details. Salvatore Schiarino was born in the Italian city of Palermo in 1947.",
       "segmentIds": [
         "seg-151",
         "seg-152",
-        "seg-153",
-        "seg-154",
-        "seg-155"
+        "seg-153"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-046",
-      "part": 3,
-      "startTime": 1025.15,
-      "endTime": 1046.67,
-      "text": "Well, as usual, I could have written on and on, but the limit made me refine my thoughts, so it was OK in the end. I wish I could have had a session with Dr Brown after he'd marked my written paper. I know it would be time-consuming, but it would have been really useful. Actually, I was satisfied with Dr Brown's written feedback.",
+      "id": "long-039",
+      "part": 4,
+      "startTime": 1219.04,
+      "endTime": 1241.84,
+      "text": "Though he did receive some music lessons, he is mainly self-taught as a composer. After a few years of university in his home city, he moved to Rome in 1969, where he studied electronic music. This experience served as a turning point in the development of Schiarino as a composer.",
       "segmentIds": [
-        "seg-156",
+        "seg-154",
+        "seg-155",
+        "seg-156"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 4,
+      "startTime": 1243.7,
+      "endTime": 1266.42,
+      "text": "Turning to his work, he composed a great deal in the 1970s and was a music teacher until 1982. Apart from composing music and teaching, he has also produced a large number of essays on a range of topics, such as the philosophy behind his work and musical form.",
+      "segmentIds": [
         "seg-157",
         "seg-158",
         "seg-159"
@@ -3323,243 +3038,119 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-047",
-      "part": 3,
-      "startTime": 1046.67,
-      "endTime": 1069.0,
-      "text": "It was amazingly detailed, so I don't think I needed more. But I wish they could arrange sessions where students get together and help each other before submitting their written work. Good idea. If they provided time for that, it would be quite convenient. Right. Now that we've almost finished our course, it's time to think about our career prospects.",
+      "id": "long-041",
+      "part": 4,
+      "startTime": 1268.36,
+      "endTime": 1286.18,
+      "text": "Throughout his career, he has won numerous prestigious awards, most notably a major prize in 2011 which recognised his musical originality. So you could say that he is one of the most important composers of our times.",
       "segmentIds": [
         "seg-160",
-        "seg-161",
-        "seg-162",
-        "seg-163"
+        "seg-161"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-048",
-      "part": 3,
-      "startTime": 1070.0,
-      "endTime": 1109.39,
-      "text": "What type of organisation do you hope to work for?",
+      "id": "long-042",
+      "part": 4,
+      "startTime": 1291.38,
+      "endTime": 1313.52,
+      "text": "Now I'll talk about the characteristics of his music, which some people are a bit surprised by. The first thing that many listeners will notice about Schiarino's music is the frequent use of silence. What is also striking about his music is his preference for extremely soft",
       "segmentIds": [
+        "seg-162",
+        "seg-163",
         "seg-164"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-049",
-      "part": 3,
-      "startTime": 1109.39,
-      "endTime": 1129.87,
-      "text": "That is the end of Part 3.",
-      "segmentIds": [
-        "seg-165"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-050",
-      "part": 3,
-      "startTime": 1129.87,
-      "endTime": 1174.0,
-      "text": "You now have 30 seconds to check your answers to Part 3.",
-      "segmentIds": [
-        "seg-166"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-051",
+      "id": "long-043",
       "part": 4,
-      "startTime": 1174.0,
-      "endTime": 1189.55,
-      "text": "You will hear a music student giving a talk about an Italian composer. First you have some time to look at questions 31 to 40. Now listen carefully and answer questions 31 to 40. Good morning. We're really pleased that our university is going to hold a concert featuring the music of the Italian composer Salvatore Schiarino.",
+      "startTime": 1313.52,
+      "endTime": 1340.94,
+      "text": "sounds that are sometimes at such a low volume that they can hardly be heard. The other unusual aspect of his music is that he frequently requires musicians to play their instruments in unconventional ways, so that, for example, a violin may end up sounding very strange and creating sounds we generally associate with nature.",
       "segmentIds": [
-        "seg-167",
+        "seg-165",
+        "seg-166",
+        "seg-167"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 4,
+      "startTime": 1341.72,
+      "endTime": 1365.24,
+      "text": "Actually, his novel instrumental techniques have often been imitated by other composers. As a result, he is widely regarded as a pioneer in terms of creating new sounds. It may sound strange, but Schiarino himself has likened his music to a volcano viewed from afar.",
+      "segmentIds": [
         "seg-168",
         "seg-169",
-        "seg-170",
-        "seg-171"
+        "seg-170"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-052",
+      "id": "long-045",
       "part": 4,
-      "startTime": 1189.55,
-      "endTime": 1210.76,
-      "text": "He's considered one of the leading composers of modern classical music in Europe. His music is highly unusual, so in order to prepare you for this concert, I'm going to talk about his life and music. First, some biographical details.",
+      "startTime": 1365.74,
+      "endTime": 1382.7,
+      "text": "As you'll see, it builds up slowly to an exciting climax. Let's move on to talk about the particular piece that we'll hear at the concert. Many people consider it to be his finest work to date.",
       "segmentIds": [
+        "seg-171",
         "seg-172",
-        "seg-173",
-        "seg-174"
+        "seg-173"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-053",
+      "id": "long-046",
       "part": 4,
-      "startTime": 1210.76,
-      "endTime": 1233.75,
-      "text": "Salvatore Schiarino was born in the Italian city of Palermo in 1947. Though he did receive some music lessons, he is mainly self-taught as a composer. After a few years of university in his home city, he moved to Rome in 1969, where he studied electronic music.",
+      "startTime": 1382.88,
+      "endTime": 1408.58,
+      "text": "It's an immense piece of music for piano, chorus and orchestra that was completed in 1979. The work is dedicated to a friend who died unexpectedly, so it was written as a kind of memorial. In many ways, it is representative of his work as a whole in terms of the sound that it creates.",
       "segmentIds": [
+        "seg-174",
         "seg-175",
-        "seg-176",
-        "seg-177"
+        "seg-176"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-054",
+      "id": "long-047",
       "part": 4,
-      "startTime": 1233.75,
-      "endTime": 1260.83,
-      "text": "This experience served as a turning point in the development of Schiarino as a composer. Turning to his work, he composed a great deal in the 1970s and was a music teacher until 1982. Apart from composing music and teaching, he has also produced a large number of essays on a range of topics,",
+      "startTime": 1408.74,
+      "endTime": 1429.98,
+      "text": "It's technically formidable and it's a very challenging piece for musicians to play. The piece opens with a low sound of great complexity that is similar to thunder. This low-pitched noise is sustained almost uninterrupted for 45 minutes,",
       "segmentIds": [
+        "seg-177",
         "seg-178",
-        "seg-179",
-        "seg-180"
+        "seg-179"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-055",
+      "id": "long-048",
       "part": 4,
-      "startTime": 1260.83,
-      "endTime": 1286.28,
-      "text": "such as the philosophy behind his work and musical form. Throughout his career, he has won numerous prestigious awards, most notably a major prize in 2011 which recognised his musical originality. So you could say that he is one of the most important composers of our times.",
+      "startTime": 1430.22,
+      "endTime": 1452.88,
+      "text": "which may sound quite boring, but I found it to be very haunting and atmospheric. The sound, by the way, is created by large vibrating sheets of metal, which are slowly manipulated by two percussionists. There are very quiet and strange chords produced by string instruments",
       "segmentIds": [
+        "seg-180",
         "seg-181",
-        "seg-182",
-        "seg-183"
+        "seg-182"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-056",
+      "id": "long-049",
       "part": 4,
-      "startTime": 1286.28,
-      "endTime": 1318.48,
-      "text": "Now I'll talk about the characteristics of his music, which some people are a bit surprised by. The first thing that many listeners will notice about Schiarino's music is the frequent use of silence. What is also striking about his music is his preference for extremely soft sounds that are sometimes at such a low volume that they can hardly be heard.",
+      "startTime": 1452.88,
+      "endTime": 1479.78,
+      "text": "and very complex piano melodies that quietly appear and then disappear. Even though the piece will be, for many people, very unusual in terms of the sounds it creates, it actually has a very conventional structure, which is just another surprising aspect of Schiarino's work. Now let's move on to another work.",
       "segmentIds": [
+        "seg-183",
         "seg-184",
         "seg-185",
         "seg-186"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-057",
-      "part": 4,
-      "startTime": 1318.48,
-      "endTime": 1346.0,
-      "text": "The other unusual aspect of his music is that he frequently requires musicians to play their instruments in unconventional ways, so that, for example, a violin may end up sounding very strange and creating sounds we generally associate with nature. Actually, his novel instrumental techniques have often been imitated by other composers.",
-      "segmentIds": [
-        "seg-187",
-        "seg-188",
-        "seg-189"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-058",
-      "part": 4,
-      "startTime": 1346.0,
-      "endTime": 1369.0,
-      "text": "As a result, he is widely regarded as a pioneer in terms of creating new sounds. It may sound strange, but Schiarino himself has likened his music to a volcano viewed from afar. As you'll see, it builds up slowly to an exciting climax.",
-      "segmentIds": [
-        "seg-190",
-        "seg-191",
-        "seg-192"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-059",
-      "part": 4,
-      "startTime": 1371.0,
-      "endTime": 1390.0,
-      "text": "Let's move on to talk about the particular piece that we'll hear at the concert. Many people consider it to be his finest work to date. It's an immense piece of music for piano, chorus and orchestra that was completed in 1979.",
-      "segmentIds": [
-        "seg-193",
-        "seg-194",
-        "seg-195"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-060",
-      "part": 4,
-      "startTime": 1391.0,
-      "endTime": 1413.0,
-      "text": "The work is dedicated to a friend who died unexpectedly, so it was written as a kind of memorial. In many ways, it is representative of his work as a whole in terms of the sound that it creates. It's technically formidable and it's a very challenging piece for musicians to play.",
-      "segmentIds": [
-        "seg-196",
-        "seg-197",
-        "seg-198"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-061",
-      "part": 4,
-      "startTime": 1415.0,
-      "endTime": 1434.74,
-      "text": "The piece opens with a low sound of great complexity that is similar to thunder. This low-pitched noise is sustained almost uninterrupted for 45 minutes, which may sound quite boring, but I found it to be very haunting and atmospheric.",
-      "segmentIds": [
-        "seg-199",
-        "seg-200",
-        "seg-201"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-062",
-      "part": 4,
-      "startTime": 1434.74,
-      "endTime": 1465.69,
-      "text": "The sound, by the way, is created by large vibrating sheets of metal, which are slowly manipulated by two percussionists. There are very quiet and strange chords produced by string instruments and very complex piano melodies that quietly appear and then disappear. Even though the piece will be, for many people, very unusual in terms of the sounds it creates,",
-      "segmentIds": [
-        "seg-202",
-        "seg-203",
-        "seg-204"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-063",
-      "part": 4,
-      "startTime": 1465.69,
-      "endTime": 1490.75,
-      "text": "it actually has a very conventional structure, which is just another surprising aspect of Schiarino's work. Now let's move on to another work. That is the end of Part 4.",
-      "segmentIds": [
-        "seg-205",
-        "seg-206",
-        "seg-207"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-064",
-      "part": 4,
-      "startTime": 1490.75,
-      "endTime": 1526.0,
-      "text": "You now have one minute to check your answers to Part 4. That is the end of the listening test.",
-      "segmentIds": [
-        "seg-208",
-        "seg-209"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-065",
-      "part": 4,
-      "startTime": 1526.0,
-      "endTime": 1556.0,
-      "text": "You now have ten minutes to transfer your answers to the listening answer sheet.",
-      "segmentIds": [
-        "seg-210"
       ],
       "timestampSource": "exact"
     }

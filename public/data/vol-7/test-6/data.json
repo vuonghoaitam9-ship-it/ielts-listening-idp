@@ -12,7 +12,7 @@
   "audioUrl": "./data/vol-7/test-6/audio.mp3",
   "audioDurationSec": 1586.6,
   "hasExactTimestamps": true,
-  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "timestampNote": "Mốc thời gian đã được căn chỉnh trực tiếp từ audio gốc ở mức từng từ (acoustic forced alignment).",
   "parts": [
     {
       "partNumber": 1,
@@ -21,9 +21,9 @@
         1,
         10
       ],
-      "startTime": 2.0,
-      "endTime": 379.0,
-      "topicHint": "You will hear a telephone conversation between a woman who is moving to London and an employee of a relocation service. First you have some time to look at questions 1 to 7. Now li"
+      "startTime": 4.42,
+      "endTime": 303.86,
+      "topicHint": "You will hear a telephone conversation between a woman who is moving to London and an employee of a relocation service."
     },
     {
       "partNumber": 2,
@@ -32,9 +32,9 @@
         11,
         20
       ],
-      "startTime": 379.0,
-      "endTime": 824.0,
-      "topicHint": "You will hear an official talking to a group of people who are volunteering to help at a local event, the beach races. First, you have some time to look at questions 11 to 16."
+      "startTime": 366.1,
+      "endTime": 823.84,
+      "topicHint": "You will hear an official talking to a group of people who are volunteering to help at a local event, the beach races."
     },
     {
       "partNumber": 3,
@@ -43,8 +43,8 @@
         21,
         30
       ],
-      "startTime": 824.0,
-      "endTime": 1140.0,
+      "startTime": 824.42,
+      "endTime": 1121.14,
       "topicHint": "Section 3 (Questions 21-30)"
     },
     {
@@ -54,8 +54,8 @@
         31,
         40
       ],
-      "startTime": 1140.0,
-      "endTime": 1561.0,
+      "startTime": 1131.94,
+      "endTime": 1561.56,
       "topicHint": "You will hear a geography professor telling his class about an upcoming field trip to the far north of Quebec in Canada."
     }
   ],
@@ -63,57 +63,50 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "nna Woods Customer’s personal details o Customer address 118 1…… Park, Ballysillan o Postcode: BT14 9BJ o Phone no: 2……… (mobile) Other information o Anna is hoping to find work as a 3……… o She needs to find a 4……… school for her son. Requirements for the new property Location: o Her preferred location is in the 5………. of",
+      "promptContext": "o Customer address 118",
       "answerRaw": "Fordyce",
       "canonicalAnswer": "Fordyce",
       "acceptedAnswers": [
         "Fordyce"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Thanks. Where are you moving from? Northern Ireland, just outside Belfast, actually. Right. And what's your current address? It's 118 Fordyce Park. I'll spell that for you.",
-      "evidenceStartTime": 78.0,
-      "evidenceEndTime": 91.87,
+      "evidenceQuote": "It's 118 Fordyce Park. I'll spell that for you. It's F-O-R-D-Y-C-E. And that's in Ballysillan.",
+      "evidenceStartTime": 87.12,
+      "evidenceEndTime": 98.83,
       "paraphrases": [],
-      "distractors": [
-        "người nói tự đính chính thông tin vừa nêu ('actually')"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"Fordyce\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Fordyce\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 2,
       "part": 1,
-      "promptContext": "s 118 1…… Park, Ballysillan o Postcode: BT14 9BJ o Phone no: 2……… (mobile) Other information o Anna is hoping to find work as a 3……… o She needs to find a 4……… school for her son. Requirements for the new property Location: o Her preferred location is in the 5………. of the city. o Her husband would like to be near a 6…………",
+      "promptContext": "o Phone no:",
       "answerRaw": "07840051963",
       "canonicalAnswer": "07840051963",
       "acceptedAnswers": [
         "07840051963"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Yes, my husband's just got a new job in London. And what about you? Do you work?",
-      "evidenceStartTime": 122.62,
-      "evidenceEndTime": 129.11,
-      "paraphrases": [
-        {
-          "questionTerm": "work",
-          "audioTerm": "job"
-        }
-      ],
+      "evidenceQuote": "And could I take a contact phone number? I'll give you my mobile number as you can get me on that anytime. It's 07-8400-51963.",
+      "evidenceStartTime": 107.26,
+      "evidenceEndTime": 117.24,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"07840051963\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"07840051963\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 3,
       "part": 1,
-      "promptContext": "mobile) Other information o Anna is hoping to find work as a 3……… o She needs to find a 4……… school for her son. Requirements for the new property Location: o Her preferred location is in the 5………. of the city. o Her husband would like to be near a 6………… o Her son would prefer to be close to a 7………… Property details: o S",
+      "promptContext": "(mobile) Other information o Anna is hoping to find work as a",
       "answerRaw": "nurse",
       "canonicalAnswer": "nurse",
       "acceptedAnswers": [
         "nurse"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Well, I've been working as a teaching assistant recently, but I'm actually a qualified nurse and I'd like to get back into that if possible.",
-      "evidenceStartTime": 129.11,
-      "evidenceEndTime": 140.46,
+      "evidenceQuote": "Well, I've been working as a teaching assistant recently, but I'm actually a qualified nurse and I'd like to get back into that if possible. Right.",
+      "evidenceStartTime": 136.98,
+      "evidenceEndTime": 145.46,
       "paraphrases": [],
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')",
@@ -124,41 +117,45 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "Anna is hoping to find work as a 3……… o She needs to find a 4……… school for her son. Requirements for the new property Location: o Her preferred location is in the 5………. of the city. o Her husband would like to be near a 6………… o Her son would prefer to be close to a 7………… Property details: o She would like to live in a",
+      "promptContext": "o She needs to find a",
       "answerRaw": "primary",
       "canonicalAnswer": "primary",
       "acceptedAnswers": [
         "primary"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Is it a secondary school you'll be looking for? No, he's still in primary school.",
-      "evidenceStartTime": 147.35,
-      "evidenceEndTime": 153.92,
+      "evidenceQuote": "No, he's still in primary school. He's not quite at the secondary level yet. Fine.",
+      "evidenceStartTime": 153.9,
+      "evidenceEndTime": 159.22,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"primary\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"primary\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
     },
     {
       "number": 5,
       "part": 1,
-      "promptContext": "he new property Location: o Her preferred location is in the 5………. of the city. o Her husband would like to be near a 6………… o Her son would prefer to be close to a 7………… Property details: o She would like to live in a 8……….. o She would prefer 9………… bedrooms. A small 10………… is also desirable.",
+      "promptContext": "school for her son. Requirements for the new property Location: o Her preferred location is in the",
       "answerRaw": "south",
       "canonicalAnswer": "south",
       "acceptedAnswers": [
         "south"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "There are some lovely areas in the south. OK, that sounds great.",
-      "evidenceStartTime": 172.5,
-      "evidenceEndTime": 176.51,
+      "evidenceQuote": "No, it's in East London, but we'd rather live somewhere quieter. Sure. There are some lovely areas in the south. OK, that sounds great.",
+      "evidenceStartTime": 167.84,
+      "evidenceEndTime": 176.72,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"south\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"south\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 6,
       "part": 1,
-      "promptContext": "the 5………. of the city. o Her husband would like to be near a 6………… o Her son would prefer to be close to a 7………… Property details: o She would like to live in a 8……….. o She would prefer 9………… bedrooms. A small 10………… is also desirable.",
+      "promptContext": ". of the city. o Her husband would like to be near a",
       "answerRaw": "station",
       "canonicalAnswer": "station",
       "acceptedAnswers": [
@@ -166,8 +163,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "So I imagine that ideally he'd like to be not too far from a station then?",
-      "evidenceStartTime": 181.66,
-      "evidenceEndTime": 186.74,
+      "evidenceStartTime": 181.56,
+      "evidenceEndTime": 187.26,
       "paraphrases": [],
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
@@ -177,7 +174,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "e to be near a 6………… o Her son would prefer to be close to a 7………… Property details: o She would like to live in a 8……….. o She would prefer 9………… bedrooms. A small 10………… is also desirable.",
+      "promptContext": "o Her son would prefer to be close to a",
       "answerRaw": "park",
       "canonicalAnswer": "park",
       "acceptedAnswers": [
@@ -185,21 +182,16 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "He's quite active, so I'm sure he'd love a park nearby to run around in.",
-      "evidenceStartTime": 200.11,
-      "evidenceEndTime": 204.69,
-      "paraphrases": [
-        {
-          "questionTerm": "near",
-          "audioTerm": "nearby"
-        }
-      ],
+      "evidenceStartTime": 199.48,
+      "evidenceEndTime": 204.0,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"park\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'near' ↔ 'nearby'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"park\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 8,
       "part": 1,
-      "promptContext": "e to a 7………… Property details: o She would like to live in a 8……….. o She would prefer 9………… bedrooms. A small 10………… is also desirable.",
+      "promptContext": "Property details: o She would like to live in a",
       "answerRaw": "house",
       "canonicalAnswer": "house",
       "acceptedAnswers": [
@@ -207,8 +199,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "We have friends who live in an amazing flat over there, but as we've always lived in a house, I think we'll stick with that.",
-      "evidenceStartTime": 230.44,
-      "evidenceEndTime": 243.91,
+      "evidenceStartTime": 242.04,
+      "evidenceEndTime": 249.18,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -218,7 +210,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "Customer address 118 1…… Park, Ballysillan o Postcode: BT14 9BJ o Phone no: 2……… (mobile) Other information o Anna is hoping to find work as a 3……… o She needs to find a 4……… school for her son. Requirements for the new property Location: o Her preferred location is in the 5………. of the city. o Her husband would like to",
+      "promptContext": "Park, Ballysillan o Postcode: BT14 BJ o Phone no:",
       "answerRaw": "3 / three",
       "canonicalAnswer": "3",
       "acceptedAnswers": [
@@ -226,24 +218,19 @@
         "three"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "So you'd definitely need a two-bedroom property. But how about having a guest room? I might be able to find a three-bedroom property for you. Yes, that would be ideal.",
-      "evidenceStartTime": 260.0,
-      "evidenceEndTime": 270.34,
-      "paraphrases": [
-        {
-          "questionTerm": "customer",
-          "audioTerm": "guest"
-        }
-      ],
+      "evidenceQuote": "But how about having a guest room? I might be able to find a three-bedroom property for you. Yes, that would be ideal.",
+      "evidenceStartTime": 263.24,
+      "evidenceEndTime": 269.54,
+      "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"3\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'customer' ↔ 'guest'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"3\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 10,
       "part": 1,
-      "promptContext": "live in a 8……….. o She would prefer 9………… bedrooms. A small 10………… is also desirable.",
+      "promptContext": "bedrooms. A small",
       "answerRaw": "office",
       "canonicalAnswer": "office",
       "acceptedAnswers": [
@@ -251,8 +238,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Well, it's not essential, but it'd be handy to have an office for when my husband works from home.",
-      "evidenceStartTime": 278.88,
-      "evidenceEndTime": 285.0,
+      "evidenceStartTime": 278.42,
+      "evidenceEndTime": 285.02,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -263,16 +250,16 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "ose the correct answer. Starting work at Hollies supermarket 11 The supervisor starts her talk by explaining that employees have to A be aware of the importance of teamwork. B be flexible in terms of their availability. C be capable of lifting heavy loads. 12 The supervisor says that when the supermarket is very busy, emp",
+      "promptContext": "The supervisor starts her talk by explaining that employees have to A be aware of the importance of teamwork. B be flexible in terms of their availability. C be capable of lifting heavy loads.",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "But you'll only be required to do manual lifting if the goods are light. When the store is very busy, you'll also have to assess changing priorities.",
-      "evidenceStartTime": 468.53,
-      "evidenceEndTime": 480.4,
+      "evidenceQuote": "But you'll only be required to do manual lifting if the goods are light.",
+      "evidenceStartTime": 469.26,
+      "evidenceEndTime": 474.08,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -283,7 +270,7 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "of their availability. C be capable of lifting heavy loads. 12 The supervisor says that when the supermarket is very busy, employees must A decide for themselves what needs doing. B postpone their scheduled break. C report minor accidents quickly. 13 The supervisor explains that when employees have a positive attitude, i",
+      "promptContext": "The supervisor says that when the supermarket is very busy, employees must A decide for themselves what needs doing. B postpone their scheduled break. C report minor accidents quickly.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -291,8 +278,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "But you'll only be required to do manual lifting if the goods are light. When the store is very busy, you'll also have to assess changing priorities.",
-      "evidenceStartTime": 468.53,
-      "evidenceEndTime": 480.4,
+      "evidenceStartTime": 469.26,
+      "evidenceEndTime": 481.22,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -303,29 +290,24 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": "one their scheduled break. C report minor accidents quickly. 13 The supervisor explains that when employees have a positive attitude, it A helps everyone in the supermarket to relax. B encourages customers to spend more. C improves work effectiveness. 14 The supervisor says it is essential to stay calm when a customer A r",
+      "promptContext": "The supervisor explains that when employees have a positive attitude, it A helps everyone in the supermarket to relax. B encourages customers to spend more. C improves work effectiveness.",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "We pride ourselves on a positive attitude here. A little small talk shows you're interested in customers and are providing excellent service,",
-      "evidenceStartTime": 512.8,
-      "evidenceEndTime": 522.75,
-      "paraphrases": [
-        {
-          "questionTerm": "minor",
-          "audioTerm": "small"
-        }
-      ],
+      "evidenceQuote": "We pride ourselves on a positive attitude here. A little small talk shows you're interested in customers",
+      "evidenceStartTime": 514.42,
+      "evidenceEndTime": 521.2,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'minor' ↔ 'small'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "ages customers to spend more. C improves work effectiveness. 14 The supervisor says it is essential to stay calm when a customer A reports an employee to the manager. B delays other shoppers. C refuses to wait their turn. Questions 15–20 Label the plan below. Choose the correct letter, A-J, next to questions 15-20. A B C",
+      "promptContext": "The supervisor says it is essential to stay calm when a customer A reports an employee to the manager. B delays other shoppers. C refuses to wait their turn. Questions 15–20 Label the plan below. Choose the correct letter, A-J, next to questions 15-20. A B C D E F G H I J",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -333,8 +315,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "If a customer's unhappy for any reason, keep cool and call for a supervisor to help defuse a situation if things are getting out of hand.",
-      "evidenceStartTime": 551.94,
-      "evidenceEndTime": 561.67,
+      "evidenceStartTime": 555.2,
+      "evidenceEndTime": 564.54,
       "paraphrases": [
         {
           "questionTerm": "manager",
@@ -347,16 +329,16 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "ct letter, A-J, next to questions 15-20. A B C D E F G H I J 15 Staff entrance 16 Manager's office 17 Storage and unpacking 18 Kitchen 19 Cleaning equipment 20 Staff relaxation area",
+      "promptContext": "J Staff entrance",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Finally, you'll be pleased to know there's a separate staff relaxation area.",
-      "evidenceStartTime": 740.91,
-      "evidenceEndTime": 745.86,
+      "evidenceQuote": "We'll start with the staff entrance. Today you came in through the customer entrance, clearly marked on the bottom of your plan,",
+      "evidenceStartTime": 633.98,
+      "evidenceEndTime": 641.76,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -364,16 +346,16 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "xt to questions 15-20. A B C D E F G H I J 15 Staff entrance 16 Manager's office 17 Storage and unpacking 18 Kitchen 19 Cleaning equipment 20 Staff relaxation area",
+      "promptContext": "Staff entrance Manager's office",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
         "D"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Finally, you'll be pleased to know there's a separate staff relaxation area.",
-      "evidenceStartTime": 740.91,
-      "evidenceEndTime": 745.86,
+      "evidenceQuote": "Regarding the manager's office, some of you may have attended interviews here, when it was next to the newspaper and magazine sales area.",
+      "evidenceStartTime": 660.06,
+      "evidenceEndTime": 668.42,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -381,33 +363,36 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "0. A B C D E F G H I J 15 Staff entrance 16 Manager's office 17 Storage and unpacking 18 Kitchen 19 Cleaning equipment 20 Staff relaxation area",
+      "promptContext": "Manager's office Storage and unpacking",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Finally, you'll be pleased to know there's a separate staff relaxation area.",
-      "evidenceStartTime": 740.91,
-      "evidenceEndTime": 745.86,
+      "evidenceQuote": "However, it's recently been moved and is now the circular space marked on the right of your plans. When the manager's not on the shop floor, that's where you'll find her.",
+      "evidenceStartTime": 668.82,
+      "evidenceEndTime": 679.46,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": "Staff entrance 16 Manager's office 17 Storage and unpacking 18 Kitchen 19 Cleaning equipment 20 Staff relaxation area",
+      "promptContext": "unpacking Kitchen",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
         "E"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Finally, you'll be pleased to know there's a separate staff relaxation area.",
-      "evidenceStartTime": 740.91,
-      "evidenceEndTime": 745.86,
+      "evidenceQuote": "The storage and unpacking area. You may be asked to help out here, both before and after opening hours.",
+      "evidenceStartTime": 681.04,
+      "evidenceEndTime": 688.6,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -415,16 +400,16 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": "ance 16 Manager's office 17 Storage and unpacking 18 Kitchen 19 Cleaning equipment 20 Staff relaxation area",
+      "promptContext": "Kitchen Cleaning equipment",
       "answerRaw": "G",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
         "G"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Finally, you'll be pleased to know there's a separate staff relaxation area.",
-      "evidenceStartTime": 740.91,
-      "evidenceEndTime": 745.86,
+      "evidenceQuote": "Cleaning equipment is stored in a cupboard. It's the smaller of the two squares marked near the vegetable and fruit section, and can come in very handy.",
+      "evidenceStartTime": 726.3,
+      "evidenceEndTime": 735.74,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"G\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -432,7 +417,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "ce 17 Storage and unpacking 18 Kitchen 19 Cleaning equipment 20 Staff relaxation area",
+      "promptContext": "Cleaning equipment Staff relaxation area",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -440,8 +425,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Finally, you'll be pleased to know there's a separate staff relaxation area.",
-      "evidenceStartTime": 740.91,
-      "evidenceEndTime": 745.86,
+      "evidenceStartTime": 741.56,
+      "evidenceEndTime": 745.64,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -449,7 +434,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": ", next to questions 21-26. Reasons Picture books Spy Friends 21…… Goodnight Little Rabbit 22……. The Boat Party 23……… Puppy and Friends 24…….. Hats and Socks 25…….. A Family Adventure 26…….. A The pictures show changing times of day. B The words are fun to say out loud. C It has an uncommon plot structure. D The text can e",
+      "promptContext": "Spy Friends",
       "answerRaw": "I well-known chars.",
       "canonicalAnswer": "I",
       "acceptedAnswers": [
@@ -458,19 +443,17 @@
         "well-known chars."
       ],
       "sharedGroup": null,
-      "evidenceQuote": "That's true. But apparently it's the images that make it popular with children. The artist is really well known, and children often ask for her books. Oh, that's good to know.",
-      "evidenceStartTime": 886.66,
-      "evidenceEndTime": 897.81,
+      "evidenceQuote": "The children like to find the familiar faces from the fairy tales they know so well.",
+      "evidenceStartTime": 843.42,
+      "evidenceEndTime": 848.14,
       "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
-      ],
-      "explanationVi": "Đáp án đúng là phương án I well-known chars.. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án I well-known chars.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "asons Picture books Spy Friends 21…… Goodnight Little Rabbit 22……. The Boat Party 23……… Puppy and Friends 24…….. Hats and Socks 25…….. A Family Adventure 26…….. A The pictures show changing times of day. B The words are fun to say out loud. C It has an uncommon plot structure. D The text can easily be turned into song. E",
+      "promptContext": "Goodnight Little Rabbit",
       "answerRaw": "A changing times",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -479,14 +462,12 @@
         "changing times"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And shall we also include Puppy and Friends? Yes. It sounds like an innocent title, but the article warns that there's a bit of a fright,",
-      "evidenceStartTime": 897.81,
-      "evidenceEndTime": 906.13,
+      "evidenceQuote": "Now, how about Goodnight Little Rabbit, which has those delightful pictures?",
+      "evidenceStartTime": 855.4,
+      "evidenceEndTime": 860.64,
       "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
-      ],
-      "explanationVi": "Đáp án đúng là phương án A changing times. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án A changing times. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 23,
@@ -500,19 +481,17 @@
         "famous illustrator"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And shall we also include Puppy and Friends? Yes. It sounds like an innocent title, but the article warns that there's a bit of a fright,",
-      "evidenceStartTime": 897.81,
-      "evidenceEndTime": 906.13,
+      "evidenceQuote": "There's a lot of repetition, which I think would be great for vocabulary development. That's true.",
+      "evidenceStartTime": 882.44,
+      "evidenceEndTime": 887.68,
       "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
-      ],
-      "explanationVi": "Đáp án đúng là phương án E famous illustrator. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E famous illustrator. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "t Little Rabbit 22……. The Boat Party 23……… Puppy and Friends 24…….. Hats and Socks 25…….. A Family Adventure 26…….. A The pictures show changing times of day. B The words are fun to say out loud. C It has an uncommon plot structure. D The text can easily be turned into song. E The pictures were done by a famous illustrato",
+      "promptContext": "Puppy and Friends",
       "answerRaw": "F surprise ending",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -521,19 +500,19 @@
         "surprise ending"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Hats and Socks is a good one. It doesn't really have a beginning and an end, does it?",
-      "evidenceStartTime": 916.1,
-      "evidenceEndTime": 921.3,
+      "evidenceQuote": "And shall we also include Puppy and Friends? Yes. It sounds like an innocent title, but the article warns that there's a bit of a fright, you know, the one on the last page when the puppy suddenly encounters the scary cat.",
+      "evidenceStartTime": 898.26,
+      "evidenceEndTime": 910.9,
       "paraphrases": [],
       "distractors": [
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án F surprise ending. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án F surprise ending. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "The Boat Party 23……… Puppy and Friends 24…….. Hats and Socks 25…….. A Family Adventure 26…….. A The pictures show changing times of day. B The words are fun to say out loud. C It has an uncommon plot structure. D The text can easily be turned into song. E The pictures were done by a famous illustrator. F There is a surpri",
+      "promptContext": ".. Hats and Socks",
       "answerRaw": "C uncommon plot",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -542,9 +521,9 @@
         "uncommon plot"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Hats and Socks is a good one. It doesn't really have a beginning and an end, does it?",
-      "evidenceStartTime": 916.1,
-      "evidenceEndTime": 921.3,
+      "evidenceQuote": "Hats and Socks is a good one. It doesn't really have a beginning and an end, does it? Which is unusual.",
+      "evidenceStartTime": 916.0,
+      "evidenceEndTime": 922.74,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -554,7 +533,7 @@
     {
       "number": 26,
       "part": 3,
-      "promptContext": "and Friends 24…….. Hats and Socks 25…….. A Family Adventure 26…….. A The pictures show changing times of day. B The words are fun to say out loud. C It has an uncommon plot structure. D The text can easily be turned into song. E The pictures were done by a famous illustrator. F There is a surprise at the end of the story",
+      "promptContext": "…….. A The pictures show changing times of day. B The words are fun to say out loud. C It has an uncommon plot structure. D The text can easily be turned into song. E The pictures were done by a famous illustrator. F There is a surprise at the end of the story. G The pictures are simple line drawings. H It was published very recently. I It features well-known characters Questions 27–28 Choose TWO correct answers.",
       "answerRaw": "D song-like text",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -563,17 +542,19 @@
         "song-like text"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I really liked Smith's article about the history of picture books.",
-      "evidenceStartTime": 995.93,
-      "evidenceEndTime": 1000.72,
+      "evidenceQuote": "That's why teachers like this one, though. Because it's so different, it's good for children to hear a story that doesn't follow the usual pattern.",
+      "evidenceStartTime": 923.22,
+      "evidenceEndTime": 931.02,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D song-like text. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án D song-like text. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "known characters Questions 27–28 Choose TWO correct answers. 27-28 Which TWO points from Smith's article about picture books did both speakers find surprising? A their standard length how recent the genre is B the argument that they are not literature C the lack of research about this age group D the popularity of books from",
+      "promptContext": "Which TWO points from Smith's article about picture books did both speakers find surprising? A their standard length how recent the genre is B the argument that they are not literature C the lack of research about this age group D the popularity of books from overseas E the variety of versions Questions 29–30 Choose TWO correct answers.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -581,8 +562,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "I really liked Smith's article about the history of picture books.",
-      "evidenceStartTime": 995.93,
-      "evidenceEndTime": 1000.72,
+      "evidenceStartTime": 998.48,
+      "evidenceEndTime": 1002.04,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -590,16 +571,16 @@
     {
       "number": 28,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Which TWO points from Smith's article about picture books did both speakers find surprising? A their standard length how recent the genre is B the argument that they are not literature C the lack of research about this age group D the popularity of books from overseas E the variety of versions Questions 29–30 Choose TWO correct answers.",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "It's important, so let's include it. Alright. Now let's think about other aspects of picture books we want to include in our presentation.",
-      "evidenceStartTime": 1049.0,
-      "evidenceEndTime": 1057.61,
+      "evidenceQuote": "Now let's think about other aspects of picture books we want to include in our presentation. How about the characters?",
+      "evidenceStartTime": 1052.88,
+      "evidenceEndTime": 1058.74,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -607,16 +588,16 @@
     {
       "number": 29,
       "part": 3,
-      "promptContext": "iety of versions Questions 29–30 Choose TWO correct answers. 29-30 Which TWO aspects of picture books do the speakers agree to talk about in their presentation? A the material they are made from B common characters in them C the variety of roles in them D cultural elements in them E the future of the genre",
+      "promptContext": "Which TWO aspects of picture books do the speakers agree to talk about in their presentation? A the material they are made from B common characters in them C the variety of roles in them D cultural elements in them E the future of the genre",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Now let's think about other aspects of picture books we want to include in our presentation.",
-      "evidenceStartTime": 1051.83,
-      "evidenceEndTime": 1057.61,
+      "evidenceQuote": "The cardboard material makes it easy for young children to turn their pages. I agree.",
+      "evidenceStartTime": 1073.4,
+      "evidenceEndTime": 1078.42,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -624,26 +605,24 @@
     {
       "number": 30,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Which TWO aspects of picture books do the speakers agree to talk about in their presentation? A the material they are made from B common characters in them C the variety of roles in them D cultural elements in them E the future of the genre",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
         "D"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Good point. Why don't we also discuss how culture is important in picture books, like the importance of respecting the elderly?",
-      "evidenceStartTime": 1085.32,
-      "evidenceEndTime": 1099.29,
+      "evidenceQuote": "Would it be interesting to make a comparison between modern and historical picture books and consider future directions for the genre?",
+      "evidenceStartTime": 1097.4,
+      "evidenceEndTime": 1104.6,
       "paraphrases": [],
-      "distractors": [
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "o At the starting point of the road, everyone must stop for 31……….. . o For safety reasons, there are 32…….. on the highway. Radisson Research Centre o The Centre works with other institutes to research the region's 33 ………. o Security is the responsibility of Hydro Quebec. o Lectures will discuss the effect of 34……… on t",
+      "promptContext": "for",
       "answerRaw": "registration",
       "canonicalAnswer": "registration",
       "acceptedAnswers": [
@@ -651,8 +630,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The road is remote, so your registration is very important in case of an emergency.",
-      "evidenceStartTime": 1205.53,
-      "evidenceEndTime": 1215.3,
+      "evidenceStartTime": 1242.8,
+      "evidenceEndTime": 1248.74,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"registration\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -660,7 +639,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "yone must stop for 31……….. . o For safety reasons, there are 32…….. on the highway. Radisson Research Centre o The Centre works with other institutes to research the region's 33 ………. o Security is the responsibility of Hydro Quebec. o Lectures will discuss the effect of 34……… on the land. o Outpost stations gather and pub",
+      "promptContext": ".. . o For safety reasons, there are",
       "answerRaw": "telephones",
       "canonicalAnswer": "telephones",
       "acceptedAnswers": [
@@ -668,8 +647,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "For additional safety, at different places along the highway, telephones have been installed which connect with staff in the office.",
-      "evidenceStartTime": 1229.9,
-      "evidenceEndTime": 1245.44,
+      "evidenceStartTime": 1260.8,
+      "evidenceEndTime": 1270.32,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"telephones\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -677,7 +656,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "Centre works with other institutes to research the region's 33 ………. o Security is the responsibility of Hydro Quebec. o Lectures will discuss the effect of 34……… on the land. o Outpost stations gather and publish research related to variations in the 35 …………. The Trans-Taiga Road o The road is unpaved. o Breakdowns are s",
+      "promptContext": ".. on the highway. Radisson Research Centre o The Centre works with other institutes to research the region's",
       "answerRaw": "ecology",
       "canonicalAnswer": "ecology",
       "acceptedAnswers": [
@@ -685,8 +664,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "You will stay at Radisson Research Centre, which works with various universities and Hydro-Québec to carry out studies into the ecology of the region.",
-      "evidenceStartTime": 1266.28,
-      "evidenceEndTime": 1283.94,
+      "evidenceStartTime": 1285.92,
+      "evidenceEndTime": 1296.96,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"ecology\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -694,7 +673,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "ility of Hydro Quebec. o Lectures will discuss the effect of 34……… on the land. o Outpost stations gather and publish research related to variations in the 35 …………. The Trans-Taiga Road o The road is unpaved. o Breakdowns are serious as car 36 ……….. are expensive. o At hydro stations, engineers will discuss hydro producti",
+      "promptContext": ". o Security is the responsibility of Hydro Quebec. o Lectures will discuss the effect of",
       "answerRaw": "insects",
       "canonicalAnswer": "insects",
       "acceptedAnswers": [
@@ -702,8 +681,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "You will hear that they have paid particular attention to any disturbance to the land caused by insects.",
-      "evidenceStartTime": 1321.0,
-      "evidenceEndTime": 1328.43,
+      "evidenceStartTime": 1320.88,
+      "evidenceEndTime": 1328.34,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"insects\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -711,16 +690,16 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "ons gather and publish research related to variations in the 35 …………. The Trans-Taiga Road o The road is unpaved. o Breakdowns are serious as car 36 ……….. are expensive. o At hydro stations, engineers will discuss hydro production and the impact of rainfall. The Taiga o There are not many types of 37 ………., but a good rang",
+      "promptContext": "on the land. o Outpost stations gather and publish research related to variations in the",
       "answerRaw": "climate",
       "canonicalAnswer": "climate",
       "acceptedAnswers": [
         "climate"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "you will be able to observe how data on the varying patterns of the climate is collected and published for scientific research.",
-      "evidenceStartTime": 1335.93,
-      "evidenceEndTime": 1345.0,
+      "evidenceQuote": "varying patterns of the climate is collected and published for scientific research.",
+      "evidenceStartTime": 1339.64,
+      "evidenceEndTime": 1345.64,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"climate\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -728,7 +707,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "Road o The road is unpaved. o Breakdowns are serious as car 36 ……….. are expensive. o At hydro stations, engineers will discuss hydro production and the impact of rainfall. The Taiga o There are not many types of 37 ………., but a good range of wildlife. o The area known as Muskeg is dangerous as it has hidden 38 ……….. o Ph",
+      "promptContext": ". The Trans-Taiga Road o The road is unpaved. o Breakdowns are serious as car",
       "answerRaw": "repairs",
       "canonicalAnswer": "repairs",
       "acceptedAnswers": [
@@ -736,21 +715,16 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Any breakdown is serious, as repairs are costly. Along the way, you will be stopping at two hydroelectric generating stations, each on a different river.",
-      "evidenceStartTime": 1377.0,
-      "evidenceEndTime": 1388.87,
-      "paraphrases": [
-        {
-          "questionTerm": "expensive",
-          "audioTerm": "costly"
-        }
-      ],
+      "evidenceStartTime": 1377.24,
+      "evidenceEndTime": 1389.14,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"repairs\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'expensive' ↔ 'costly'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"repairs\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 37,
       "part": 4,
-      "promptContext": "impact of rainfall. The Taiga o There are not many types of 37 ………., but a good range of wildlife. o The area known as Muskeg is dangerous as it has hidden 38 ……….. o Photographs of birds should be taken for future 39 ………... o Water samples will be checked for 40 ………...",
+      "promptContext": ".. are expensive. o At hydro stations, engineers will discuss hydro production and the impact of rainfall. The Taiga o There are not many types of",
       "answerRaw": "plant",
       "canonicalAnswer": "plant",
       "acceptedAnswers": [
@@ -758,8 +732,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "You will find the region is relatively poor in the number of plant species, yet there is a great variety of wildlife that can be seen.",
-      "evidenceStartTime": 1409.55,
-      "evidenceEndTime": 1420.0,
+      "evidenceStartTime": 1410.48,
+      "evidenceEndTime": 1419.96,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"plant\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -767,7 +741,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "fe. o The area known as Muskeg is dangerous as it has hidden 38 ……….. o Photographs of birds should be taken for future 39 ………... o Water samples will be checked for 40 ………...",
+      "promptContext": "., but a good range of wildlife. o The area known as Muskeg is dangerous as it has hidden",
       "answerRaw": "pools",
       "canonicalAnswer": "pools",
       "acceptedAnswers": [
@@ -775,8 +749,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "It is not safe to walk on it, as it has pools that are not easily seen, so keep to the rocks.",
-      "evidenceStartTime": 1438.61,
-      "evidenceEndTime": 1446.01,
+      "evidenceStartTime": 1439.04,
+      "evidenceEndTime": 1447.28,
       "paraphrases": [],
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
@@ -786,7 +760,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "n 38 ……….. o Photographs of birds should be taken for future 39 ………... o Water samples will be checked for 40 ………...",
+      "promptContext": ".. o Photographs of birds should be taken for future",
       "answerRaw": "documentation",
       "canonicalAnswer": "documentation",
       "acceptedAnswers": [
@@ -794,8 +768,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Then we will have documentation of the existing waterfowl, as some are becoming extinct.",
-      "evidenceStartTime": 1460.0,
-      "evidenceEndTime": 1467.0,
+      "evidenceStartTime": 1461.08,
+      "evidenceEndTime": 1468.44,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"documentation\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -803,7 +777,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "ken for future 39 ………... o Water samples will be checked for 40 ………...",
+      "promptContext": "o Water samples will be checked for",
       "answerRaw": "pollution",
       "canonicalAnswer": "pollution",
       "acceptedAnswers": [
@@ -811,8 +785,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "It needs to be monitored for pollution that may be caused by rainfall coming from the south.",
-      "evidenceStartTime": 1496.86,
-      "evidenceEndTime": 1516.73,
+      "evidenceStartTime": 1478.12,
+      "evidenceEndTime": 1483.92,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"pollution\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -822,1899 +796,1710 @@
     {
       "id": "seg-001",
       "part": 1,
-      "startTime": 2.0,
-      "endTime": 20.25,
-      "text": "You will hear a telephone conversation between a woman who is moving to London and an employee of a relocation service.",
+      "startTime": 62.18,
+      "endTime": 64.5,
+      "text": "Good morning.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-002",
       "part": 1,
-      "startTime": 20.25,
-      "endTime": 28.38,
-      "text": "First you have some time to look at questions 1 to 7.",
+      "startTime": 64.74,
+      "endTime": 70.3,
+      "text": "My family and I are moving to London later this year and I wonder if you can help? Sure.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-003",
       "part": 1,
-      "startTime": 28.38,
-      "endTime": 35.9,
-      "text": "Now listen carefully and answer questions 1 to 7.",
+      "startTime": 70.6,
+      "endTime": 73.56,
+      "text": "First of all, I'll need to get some personal details.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-004",
       "part": 1,
-      "startTime": 35.9,
-      "endTime": 42.65,
-      "text": "London Relocation Services, Daniel speaking.",
+      "startTime": 73.74,
+      "endTime": 80.32,
+      "text": "May I take your full name, please? It's Anna Woods. Thanks. Where are you moving from?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-005",
       "part": 1,
-      "startTime": 42.65,
-      "endTime": 47.71,
-      "text": "How may I help you? Good morning.",
+      "startTime": 80.7,
+      "endTime": 84.52,
+      "text": "Northern Ireland, just outside Belfast, actually. Right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-006",
       "part": 1,
-      "startTime": 47.71,
-      "endTime": 60.29,
-      "text": "My family and I are moving to London later this year and I wonder if you can help?",
+      "startTime": 84.9,
+      "endTime": 86.98,
+      "text": "And what's your current address?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-007",
       "part": 1,
-      "startTime": 60.29,
-      "endTime": 61.06,
-      "text": "Sure.",
+      "startTime": 87.12,
+      "endTime": 92.08,
+      "text": "It's 118 Fordyce Park. I'll spell that for you.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-008",
       "part": 1,
-      "startTime": 61.06,
-      "endTime": 69.19,
-      "text": "First of all, I'll need to get some personal details.",
+      "startTime": 92.32,
+      "endTime": 98.83,
+      "text": "It's F-O-R-D-Y-C-E. And that's in Ballysillan.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-009",
       "part": 1,
-      "startTime": 69.19,
-      "endTime": 77.0,
-      "text": "May I take your full name, please? It's Anna Woods.",
+      "startTime": 100.02,
+      "endTime": 105.72,
+      "text": "And what's the postcode? It's B-T-14-9-B-J.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-010",
       "part": 1,
-      "startTime": 78.0,
-      "endTime": 85.38,
-      "text": "Thanks. Where are you moving from? Northern Ireland, just outside Belfast, actually. Right.",
+      "startTime": 107.26,
+      "endTime": 110.14,
+      "text": "And could I take a contact phone number?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-011",
       "part": 1,
-      "startTime": 85.38,
-      "endTime": 91.87,
-      "text": "And what's your current address? It's 118 Fordyce Park. I'll spell that for you.",
+      "startTime": 110.3,
+      "endTime": 117.24,
+      "text": "I'll give you my mobile number as you can get me on that anytime. It's 07-8400-51963.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-012",
       "part": 1,
-      "startTime": 91.87,
-      "endTime": 99.17,
-      "text": "It's F-O-R-D-Y-C-E. And that's in Ballysillan. And what's the postcode? It's B-T-14-9-B-J.",
+      "startTime": 121.76,
+      "endTime": 123.18,
+      "text": "Great. Got that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-013",
       "part": 1,
-      "startTime": 99.17,
-      "endTime": 103.31,
-      "text": "All right. And could I take a contact phone number?",
+      "startTime": 123.56,
+      "endTime": 131.26,
+      "text": "Now, we always like to get a bit more information about the families that we're moving. It helps with the search. Are you moving for work?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-014",
       "part": 1,
-      "startTime": 103.31,
-      "endTime": 110.77,
-      "text": "I'll give you my mobile number as you can get me on that anytime. It's 07-8400-51963. Great.",
+      "startTime": 131.74,
+      "endTime": 136.66,
+      "text": "Yes, my husband's just got a new job in London. And what about you? Do you work?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-015",
       "part": 1,
-      "startTime": 110.77,
-      "endTime": 111.5,
-      "text": "Got that.",
+      "startTime": 136.98,
+      "endTime": 145.46,
+      "text": "Well, I've been working as a teaching assistant recently, but I'm actually a qualified nurse and I'd like to get back into that if possible. Right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-016",
       "part": 1,
-      "startTime": 111.5,
-      "endTime": 118.56,
-      "text": "Now, we always like to get a bit more information about the families that we're moving.",
+      "startTime": 145.82,
+      "endTime": 148.92,
+      "text": "And do you have any children? Yes, a son.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-017",
       "part": 1,
-      "startTime": 118.56,
-      "endTime": 122.62,
-      "text": "It helps with the search. Are you moving for work?",
+      "startTime": 149.18,
+      "endTime": 150.96,
+      "text": "So we need to find a school for him.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-018",
       "part": 1,
-      "startTime": 122.62,
-      "endTime": 129.11,
-      "text": "Yes, my husband's just got a new job in London. And what about you? Do you work?",
+      "startTime": 151.22,
+      "endTime": 153.4,
+      "text": "Is it a secondary school you'll be looking for?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-019",
       "part": 1,
-      "startTime": 129.11,
-      "endTime": 140.46,
-      "text": "Well, I've been working as a teaching assistant recently, but I'm actually a qualified nurse and I'd like to get back into that if possible.",
+      "startTime": 153.9,
+      "endTime": 155.8,
+      "text": "No, he's still in primary school.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-020",
       "part": 1,
-      "startTime": 140.46,
-      "endTime": 147.35,
-      "text": "Right. And do you have any children? Yes, a son. So we need to find a school for him.",
+      "startTime": 155.94,
+      "endTime": 159.22,
+      "text": "He's not quite at the secondary level yet. Fine.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-021",
       "part": 1,
-      "startTime": 147.35,
-      "endTime": 153.92,
-      "text": "Is it a secondary school you'll be looking for? No, he's still in primary school.",
+      "startTime": 159.58,
+      "endTime": 163.2,
+      "text": "So let's go on to talk about your requirements for the property.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-022",
       "part": 1,
-      "startTime": 153.92,
-      "endTime": 157.81,
-      "text": "He's not quite at the secondary level yet. Fine.",
+      "startTime": 163.38,
+      "endTime": 165.24,
+      "text": "Do you have a preferred location?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-023",
       "part": 1,
-      "startTime": 157.81,
-      "endTime": 163.0,
-      "text": "So let's go on to talk about your requirements for the property.",
+      "startTime": 165.38,
+      "endTime": 167.28,
+      "text": "Is your husband's job in the centre?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-024",
       "part": 1,
-      "startTime": 164.0,
-      "endTime": 168.25,
-      "text": "Do you have a preferred location? Is your husband's job in the centre?",
+      "startTime": 167.84,
+      "endTime": 172.68,
+      "text": "No, it's in East London, but we'd rather live somewhere quieter. Sure.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-025",
       "part": 1,
-      "startTime": 168.25,
-      "endTime": 172.5,
-      "text": "No, it's in East London, but we'd rather live somewhere quieter. Sure.",
+      "startTime": 172.9,
+      "endTime": 176.72,
+      "text": "There are some lovely areas in the south. OK, that sounds great.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-026",
       "part": 1,
-      "startTime": 172.5,
-      "endTime": 175.0,
-      "text": "There are some lovely areas in the south.",
+      "startTime": 177.32,
+      "endTime": 181.18,
+      "text": "Now, my husband doesn't want to spend too long commuting to work every day.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-027",
       "part": 1,
-      "startTime": 175.0,
-      "endTime": 176.51,
-      "text": "OK, that sounds great.",
+      "startTime": 181.56,
+      "endTime": 187.26,
+      "text": "So I imagine that ideally he'd like to be not too far from a station then?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-028",
       "part": 1,
-      "startTime": 176.51,
-      "endTime": 181.66,
-      "text": "Now, my husband doesn't want to spend too long commuting to work every day.",
+      "startTime": 187.6,
+      "endTime": 196.62,
+      "text": "Yes, he drives now, but I guess that's not going to be possible and he's not keen on buses. What about you or your son? Do you have any preferences?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-029",
       "part": 1,
-      "startTime": 181.66,
-      "endTime": 186.74,
-      "text": "So I imagine that ideally he'd like to be not too far from a station then?",
+      "startTime": 196.64,
+      "endTime": 199.28,
+      "text": "Does your son do any sport, for example?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-030",
       "part": 1,
-      "startTime": 186.74,
-      "endTime": 193.0,
-      "text": "Yes, he drives now, but I guess that's not going to be possible and he's not keen on buses.",
+      "startTime": 199.48,
+      "endTime": 204.0,
+      "text": "He's quite active, so I'm sure he'd love a park nearby to run around in.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-031",
       "part": 1,
-      "startTime": 194.0,
-      "endTime": 197.56,
-      "text": "What about you or your son? Do you have any preferences?",
+      "startTime": 204.26,
+      "endTime": 208.04,
+      "text": "He doesn't do swimming or anything like that. Great.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-032",
       "part": 1,
-      "startTime": 197.56,
-      "endTime": 200.11,
-      "text": "Does your son do any sport, for example?",
+      "startTime": 238.88,
+      "endTime": 241.8,
+      "text": "So what sort of property do you have in mind?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-033",
       "part": 1,
-      "startTime": 200.11,
-      "endTime": 204.69,
-      "text": "He's quite active, so I'm sure he'd love a park nearby to run around in.",
+      "startTime": 242.04,
+      "endTime": 249.18,
+      "text": "We have friends who live in an amazing flat over there, but as we've always lived in a house, I think we'll stick with that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-034",
       "part": 1,
-      "startTime": 204.69,
-      "endTime": 208.0,
-      "text": "He doesn't do swimming or anything like that. Great.",
+      "startTime": 249.38,
+      "endTime": 252.5,
+      "text": "We'd find it hard to adapt to a flat. OK.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-035",
       "part": 1,
-      "startTime": 211.0,
-      "endTime": 221.21,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions 8 to 10.",
+      "startTime": 252.86,
+      "endTime": 256.08,
+      "text": "And size-wise, how many bedrooms would you like?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-036",
       "part": 1,
-      "startTime": 221.21,
-      "endTime": 225.55,
-      "text": "Now listen and answer questions 8 to 10.",
+      "startTime": 256.44,
+      "endTime": 259.34,
+      "text": "Well, there's just myself, my husband and our son.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-037",
       "part": 1,
-      "startTime": 225.55,
-      "endTime": 230.44,
-      "text": "So what sort of property do you have in mind?",
+      "startTime": 259.76,
+      "endTime": 263.06,
+      "text": "So you'd definitely need a two-bedroom property.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-038",
       "part": 1,
-      "startTime": 230.44,
-      "endTime": 243.91,
-      "text": "We have friends who live in an amazing flat over there, but as we've always lived in a house, I think we'll stick with that.",
+      "startTime": 263.24,
+      "endTime": 265.06,
+      "text": "But how about having a guest room?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-039",
       "part": 1,
-      "startTime": 243.91,
-      "endTime": 248.36,
-      "text": "We'd find it hard to adapt to a flat. OK.",
+      "startTime": 265.1,
+      "endTime": 269.54,
+      "text": "I might be able to find a three-bedroom property for you. Yes, that would be ideal.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-040",
       "part": 1,
-      "startTime": 248.36,
-      "endTime": 253.57,
-      "text": "And size-wise, how many bedrooms would you like?",
+      "startTime": 269.64,
+      "endTime": 271.88,
+      "text": "We're sure to have family visiting often.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-041",
       "part": 1,
-      "startTime": 253.57,
-      "endTime": 259.0,
-      "text": "Well, there's just myself, my husband and our son.",
+      "startTime": 272.22,
+      "endTime": 274.38,
+      "text": "All right, I've made a note of that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-042",
       "part": 1,
-      "startTime": 260.0,
-      "endTime": 265.17,
-      "text": "So you'd definitely need a two-bedroom property. But how about having a guest room?",
+      "startTime": 274.76,
+      "endTime": 277.92,
+      "text": "Now are there any other requirements for your new property?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-043",
       "part": 1,
-      "startTime": 265.17,
-      "endTime": 270.34,
-      "text": "I might be able to find a three-bedroom property for you. Yes, that would be ideal.",
+      "startTime": 278.42,
+      "endTime": 285.02,
+      "text": "Well, it's not essential, but it'd be handy to have an office for when my husband works from home.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-044",
       "part": 1,
-      "startTime": 270.34,
-      "endTime": 275.2,
-      "text": "We're sure to have family visiting often. All right, I've made a note of that.",
+      "startTime": 285.18,
+      "endTime": 286.9,
+      "text": "It doesn't need to be a big one.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-045",
       "part": 1,
-      "startTime": 275.2,
-      "endTime": 278.88,
-      "text": "Now are there any other requirements for your new property?",
+      "startTime": 287.14,
+      "endTime": 291.18,
+      "text": "I guess it all comes down to budget. Yes. OK, Anna.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-046",
       "part": 1,
-      "startTime": 278.88,
-      "endTime": 285.0,
-      "text": "Well, it's not essential, but it'd be handy to have an office for when my husband works from home.",
+      "startTime": 291.36,
+      "endTime": 294.08,
+      "text": "Well, I've certainly got enough to be getting on with and.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-047",
-      "part": 1,
-      "startTime": 285.0,
-      "endTime": 298.43,
-      "text": "It doesn't need to be a big one.",
+      "part": 2,
+      "startTime": 436.52,
+      "endTime": 438.9,
+      "text": "Welcome to Holly's Supermarket.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-048",
-      "part": 1,
-      "startTime": 298.43,
-      "endTime": 313.54,
-      "text": "I guess it all comes down to budget.",
+      "part": 2,
+      "startTime": 439.04,
+      "endTime": 443.28,
+      "text": "I'm sure you'll all enjoy working in our dedicated team here.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-049",
-      "part": 1,
-      "startTime": 313.54,
-      "endTime": 319.42,
-      "text": "Yes. OK, Anna.",
+      "part": 2,
+      "startTime": 443.74,
+      "endTime": 445.76,
+      "text": "So, what will you be doing?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-050",
-      "part": 1,
-      "startTime": 319.42,
-      "endTime": 344.6,
-      "text": "Well, I've certainly got enough to be getting on with and...",
+      "part": 2,
+      "startTime": 446.02,
+      "endTime": 454.62,
+      "text": "Well, we're open Monday through Sunday, so you'll need to be able to work weekends as well as irregular weekday shifts.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-051",
-      "part": 1,
-      "startTime": 344.6,
-      "endTime": 355.51,
-      "text": "That is the end of Part 1.",
+      "part": 2,
+      "startTime": 454.98,
+      "endTime": 460.4,
+      "text": "These sometimes start at 5am or finish at 11pm.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-052",
-      "part": 1,
-      "startTime": 355.51,
-      "endTime": 379.0,
-      "text": "You now have one minute to check your answers to Part 1.",
+      "part": 2,
+      "startTime": 460.4,
+      "endTime": 468.96,
+      "text": "Your duties will include checking and unpacking lorry deliveries, as well as working on the shop floor, stocking shelves and so on.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-053",
       "part": 2,
-      "startTime": 379.0,
-      "endTime": 386.0,
-      "text": "You will hear an official talking to a group of people who are volunteering to help at a local event, the beach races. First, you have some time to look at questions 11 to 16.",
+      "startTime": 469.26,
+      "endTime": 474.08,
+      "text": "But you'll only be required to do manual lifting if the goods are light.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-054",
       "part": 2,
-      "startTime": 386.0,
-      "endTime": 406.94,
-      "text": "You will hear a supervisor at Holly's Supermarket talking to a group of new employees.",
+      "startTime": 475.6,
+      "endTime": 481.22,
+      "text": "When the store is very busy, you'll also have to assess changing priorities.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-055",
       "part": 2,
-      "startTime": 406.94,
-      "endTime": 420.58,
-      "text": "First, you have some time to look at questions 11 to 14.",
+      "startTime": 481.38,
+      "endTime": 486.66,
+      "text": "For example, if there's a queue at the tills, you'll jump on a spare one to help.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-056",
       "part": 2,
-      "startTime": 420.58,
-      "endTime": 433.0,
-      "text": "Now listen carefully and answer questions 11 to 14.",
+      "startTime": 487.2,
+      "endTime": 493.44,
+      "text": "If you notice something's been spilt and the surface is a little bit wet, you'll get a mop to clean it up.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-057",
       "part": 2,
-      "startTime": 436.0,
-      "endTime": 443.0,
-      "text": "Welcome to Holly's Supermarket. I'm sure you'll all enjoy working in our dedicated team here.",
+      "startTime": 493.64,
+      "endTime": 496.48,
+      "text": "No need to check with a manager first.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-058",
       "part": 2,
-      "startTime": 443.0,
-      "endTime": 445.03,
-      "text": "So, what will you be doing?",
+      "startTime": 497.06,
+      "endTime": 501.94,
+      "text": "Similarly, if bakery items are selling quickly, you'll help cook some more.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-059",
       "part": 2,
-      "startTime": 445.03,
-      "endTime": 454.0,
-      "text": "Well, we're open Monday through Sunday, so you'll need to be able to work weekends as well as irregular weekday shifts.",
+      "startTime": 502.24,
+      "endTime": 509.32,
+      "text": "And if a customer can't find, say, the apples, you'll instantly leave what you're doing and show them.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-060",
       "part": 2,
-      "startTime": 455.0,
-      "endTime": 458.57,
-      "text": "These sometimes start at 5am or finish at 11pm.",
+      "startTime": 509.6,
+      "endTime": 513.82,
+      "text": "But you'll still get time off to relax too, of course.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-061",
       "part": 2,
-      "startTime": 458.57,
-      "endTime": 468.53,
-      "text": "Your duties will include checking and unpacking lorry deliveries, as well as working on the shop floor, stocking shelves and so on.",
+      "startTime": 514.42,
+      "endTime": 517.8,
+      "text": "We pride ourselves on a positive attitude here.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-062",
       "part": 2,
-      "startTime": 468.53,
-      "endTime": 474.0,
-      "text": "But you'll only be required to do manual lifting if the goods are light.",
+      "startTime": 517.88,
+      "endTime": 521.2,
+      "text": "A little small talk shows you're interested in customers",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-063",
       "part": 2,
-      "startTime": 475.0,
-      "endTime": 480.4,
-      "text": "When the store is very busy, you'll also have to assess changing priorities.",
+      "startTime": 521.2,
+      "endTime": 530.34,
+      "text": "and are providing excellent service, just as long as you don't overdo it and keep another customer waiting. And always smile.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-064",
       "part": 2,
-      "startTime": 480.4,
-      "endTime": 486.15,
-      "text": "For example, if there's a queue at the tills, you'll jump on a spare one to help.",
+      "startTime": 530.42,
+      "endTime": 537.04,
+      "text": "It forces you to stay positive and being generally upbeat makes your whole team happy too.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-065",
       "part": 2,
-      "startTime": 486.15,
-      "endTime": 493.68,
-      "text": "If you notice something's been spilt and the surface is a little bit wet, you'll get a mop to clean it up.",
+      "startTime": 537.44,
+      "endTime": 541.36,
+      "text": "This increases efficiency and gives a good impression to customers.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-066",
       "part": 2,
-      "startTime": 493.68,
-      "endTime": 496.38,
-      "text": "No need to check with a manager first.",
+      "startTime": 541.98,
+      "endTime": 545.3,
+      "text": "If it's quiet, help someone pack their bags.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-067",
       "part": 2,
-      "startTime": 496.38,
-      "endTime": 501.71,
-      "text": "Similarly, if bakery items are selling quickly, you'll help cook some more.",
+      "startTime": 545.3,
+      "endTime": 549.88,
+      "text": "Customers really appreciate it, especially when they've bought more than they expected to.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-068",
       "part": 2,
-      "startTime": 501.71,
-      "endTime": 508.96,
-      "text": "And if a customer can't find, say, the apples, you'll instantly leave what you're doing and show them.",
+      "startTime": 552.22,
+      "endTime": 554.96,
+      "text": "Staying calm's also a necessity.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-069",
       "part": 2,
-      "startTime": 508.96,
-      "endTime": 512.8,
-      "text": "But you'll still get time off to relax too, of course.",
+      "startTime": 555.2,
+      "endTime": 564.54,
+      "text": "If a customer's unhappy for any reason, keep cool and call for a supervisor to help defuse a situation if things are getting out of hand.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-070",
       "part": 2,
-      "startTime": 512.8,
-      "endTime": 516.14,
-      "text": "We pride ourselves on a positive attitude here.",
+      "startTime": 565.28,
+      "endTime": 572.2,
+      "text": "Occasionally, when working tills, you'll find yourself waiting for someone to extract their wallet from the bottom of a cluttered bag,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-071",
       "part": 2,
-      "startTime": 516.14,
-      "endTime": 522.75,
-      "text": "A little small talk shows you're interested in customers and are providing excellent service,",
+      "startTime": 572.2,
+      "endTime": 575.28,
+      "text": "while a long queue of annoyed customers builds up.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-072",
       "part": 2,
-      "startTime": 522.75,
-      "endTime": 529.0,
-      "text": "just as long as you don't overdo it and keep another customer waiting. And always smile.",
+      "startTime": 575.54,
+      "endTime": 580.18,
+      "text": "You have to make sure, however hard it might be, that you remain composed.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-073",
       "part": 2,
-      "startTime": 529.0,
-      "endTime": 535.39,
-      "text": "It forces you to stay positive and being generally upbeat makes your whole team happy too.",
+      "startTime": 625.9,
+      "endTime": 629.32,
+      "text": "So, now let's look at the plan of the supermarket.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-074",
       "part": 2,
-      "startTime": 535.39,
-      "endTime": 540.15,
-      "text": "This increases efficiency and gives a good impression to customers.",
+      "startTime": 629.56,
+      "endTime": 633.76,
+      "text": "Have you all got your plans? Okay, good.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-075",
       "part": 2,
-      "startTime": 540.15,
-      "endTime": 543.28,
-      "text": "If it's quiet, help someone pack their bags.",
+      "startTime": 633.98,
+      "endTime": 636.36,
+      "text": "We'll start with the staff entrance.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-076",
       "part": 2,
-      "startTime": 543.28,
-      "endTime": 549.67,
-      "text": "Customers really appreciate it, especially when they've bought more than they expected to.",
+      "startTime": 636.76,
+      "endTime": 641.76,
+      "text": "Today you came in through the customer entrance, clearly marked on the bottom of your plan,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-077",
       "part": 2,
-      "startTime": 549.67,
-      "endTime": 551.94,
-      "text": "Staying calm's also a necessity.",
+      "startTime": 641.88,
+      "endTime": 646.58,
+      "text": "but in future, you'll enter through the door in the top left-hand corner of the diagram.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-078",
       "part": 2,
-      "startTime": 551.94,
-      "endTime": 561.67,
-      "text": "If a customer's unhappy for any reason, keep cool and call for a supervisor to help defuse a situation if things are getting out of hand.",
+      "startTime": 647.22,
+      "endTime": 653.8,
+      "text": "Please don't confuse this with the emergency exits in the top right-hand corner and bottom left.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-079",
       "part": 2,
-      "startTime": 561.67,
-      "endTime": 571.19,
-      "text": "Occasionally, when working tills, you'll find yourself waiting for someone to extract their wallet from the bottom of a cluttered bag,",
+      "startTime": 654.0,
+      "endTime": 657.96,
+      "text": "It's very important that these are kept clear at all times.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-080",
       "part": 2,
-      "startTime": 571.19,
-      "endTime": 574.74,
-      "text": "while a long queue of annoyed customers builds up.",
+      "startTime": 660.06,
+      "endTime": 668.42,
+      "text": "Regarding the manager's office, some of you may have attended interviews here, when it was next to the newspaper and magazine sales area.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-081",
       "part": 2,
-      "startTime": 574.74,
-      "endTime": 580.0,
-      "text": "You have to make sure, however hard it might be, that you remain composed.",
+      "startTime": 668.82,
+      "endTime": 675.88,
+      "text": "However, it's recently been moved and is now the circular space marked on the right of your plans.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-082",
       "part": 2,
-      "startTime": 584.0,
-      "endTime": 592.6,
-      "text": "Before you hear the rest of the talk, you have some time to look at questions 15 to 20.",
+      "startTime": 675.88,
+      "endTime": 679.46,
+      "text": "When the manager's not on the shop floor, that's where you'll find her.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-083",
       "part": 2,
-      "startTime": 592.6,
-      "endTime": 596.65,
-      "text": "Now listen and answer questions 15 to 20.",
+      "startTime": 681.04,
+      "endTime": 683.46,
+      "text": "The storage and unpacking area.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-084",
       "part": 2,
-      "startTime": 596.65,
-      "endTime": 604.46,
-      "text": "So, now let's look at the plan of the supermarket. Have you all got your plans?",
+      "startTime": 683.68,
+      "endTime": 688.6,
+      "text": "You may be asked to help out here, both before and after opening hours.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-085",
       "part": 2,
-      "startTime": 604.46,
-      "endTime": 609.21,
-      "text": "Okay, good. We'll start with the staff entrance.",
+      "startTime": 688.94,
+      "endTime": 694.26,
+      "text": "This is represented by the largest of the four rectangles in the top section of the plan.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-086",
       "part": 2,
-      "startTime": 609.21,
-      "endTime": 618.21,
-      "text": "Today you came in through the customer entrance, clearly marked on the bottom of your plan,",
+      "startTime": 694.56,
+      "endTime": 701.12,
+      "text": "It tends to get very busy there at times, so please be careful on entering and leaving this area.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-087",
       "part": 2,
-      "startTime": 618.21,
-      "endTime": 626.91,
-      "text": "but in future, you'll enter through the door in the top left-hand corner of the diagram.",
+      "startTime": 701.58,
+      "endTime": 706.38,
+      "text": "There's a kitchen on site, where food and drinks are prepared for customers.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-088",
       "part": 2,
-      "startTime": 626.91,
-      "endTime": 636.4,
-      "text": "Please don't confuse this with the emergency exits in the top right-hand corner and bottom left.",
+      "startTime": 706.5,
+      "endTime": 711.68,
+      "text": "It has specialist staff, but some of you may have to fill in occasionally.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-089",
       "part": 2,
-      "startTime": 636.4,
-      "endTime": 642.24,
-      "text": "It's very important that these are kept clear at all times.",
+      "startTime": 712.04,
+      "endTime": 717.76,
+      "text": "On the plan, it's shown by the triangular shape to the left of the tinned goods aisle.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-090",
       "part": 2,
-      "startTime": 642.24,
-      "endTime": 655.79,
-      "text": "Regarding the manager's office, some of you may have attended interviews here, when it was next to the newspaper and magazine sales area.",
+      "startTime": 717.76,
+      "endTime": 725.48,
+      "text": "It's very busy, as many customers like to take a break in the cafe and read a newspaper, before or after doing their shopping.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-091",
       "part": 2,
-      "startTime": 655.79,
-      "endTime": 665.48,
-      "text": "However, it's recently been moved and is now the circular space marked on the right of your plans.",
+      "startTime": 726.3,
+      "endTime": 728.78,
+      "text": "Cleaning equipment is stored in a cupboard.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-092",
       "part": 2,
-      "startTime": 665.48,
-      "endTime": 672.5,
-      "text": "When the manager's not on the shop floor, that's where you'll find her.",
+      "startTime": 729.04,
+      "endTime": 735.74,
+      "text": "It's the smaller of the two squares marked near the vegetable and fruit section, and can come in very handy.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-093",
       "part": 2,
-      "startTime": 672.5,
-      "endTime": 675.57,
-      "text": "The storage and unpacking area.",
+      "startTime": 735.76,
+      "endTime": 740.8,
+      "text": "You'd be surprised how often we have to mop up squashed tomatoes or grapes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-094",
       "part": 2,
-      "startTime": 675.57,
-      "endTime": 682.59,
-      "text": "You may be asked to help out here, both before and after opening hours.",
+      "startTime": 741.56,
+      "endTime": 745.64,
+      "text": "Finally, you'll be pleased to know there's a separate staff relaxation area.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-095",
       "part": 2,
-      "startTime": 682.59,
-      "endTime": 691.39,
-      "text": "This is represented by the largest of the four rectangles in the top section of the plan.",
+      "startTime": 745.9,
+      "endTime": 750.88,
+      "text": "This is at the top of your plan, between the frozen goods section and the exit.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-096",
       "part": 2,
-      "startTime": 691.39,
-      "endTime": 701.0,
-      "text": "It tends to get very busy there at times, so please be careful on entering and leaving this area.",
+      "startTime": 751.28,
+      "endTime": 759.68,
+      "text": "As well as comfortable chairs, there's also a microwave for heating up snacks and a drinks dispenser. So, let's go there now.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-097",
       "part": 2,
-      "startTime": 702.0,
-      "endTime": 706.83,
-      "text": "There's a kitchen on site, where food and drinks are prepared for customers.",
+      "startTime": 820.58,
+      "endTime": 823.84,
+      "text": "Hi, are you ready to discuss our presentation? Yeah, sure.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-098",
-      "part": 2,
-      "startTime": 706.83,
-      "endTime": 711.53,
-      "text": "It has specialist staff, but some of you may have to fill in occasionally.",
+      "part": 3,
+      "startTime": 824.42,
+      "endTime": 828.78,
+      "text": "So, what are we going to say about teachers reading picture books with young children?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-099",
-      "part": 2,
-      "startTime": 711.53,
-      "endTime": 717.0,
-      "text": "On the plan, it's shown by the triangular shape to the left of the tinned goods aisle.",
+      "part": 3,
+      "startTime": 829.26,
+      "endTime": 833.32,
+      "text": "I think we should start with the reasons why teachers use picture books.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-100",
-      "part": 2,
-      "startTime": 718.0,
-      "endTime": 726.2,
-      "text": "It's very busy, as many customers like to take a break in the cafe and read a newspaper, before or after doing their shopping.",
+      "part": 3,
+      "startTime": 833.44,
+      "endTime": 842.66,
+      "text": "The journal article we read mentioned several picture books, and why they're popular with teachers. Right. Like, I spy friends. It's a lovely story.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-101",
-      "part": 2,
-      "startTime": 726.2,
-      "endTime": 729.0,
-      "text": "Cleaning equipment is stored in a cupboard.",
+      "part": 3,
+      "startTime": 842.66,
+      "endTime": 843.24,
+      "text": "Yeah.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-102",
-      "part": 2,
-      "startTime": 729.0,
-      "endTime": 736.03,
-      "text": "It's the smaller of the two squares marked near the vegetable and fruit section, and can come in very handy.",
+      "part": 3,
+      "startTime": 843.42,
+      "endTime": 848.14,
+      "text": "The children like to find the familiar faces from the fairy tales they know so well.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-103",
-      "part": 2,
-      "startTime": 736.03,
-      "endTime": 740.91,
-      "text": "You'd be surprised how often we have to mop up squashed tomatoes or grapes.",
+      "part": 3,
+      "startTime": 848.34,
+      "endTime": 850.28,
+      "text": "And they're all doing predictable things.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-104",
-      "part": 2,
-      "startTime": 740.91,
-      "endTime": 745.86,
-      "text": "Finally, you'll be pleased to know there's a separate staff relaxation area.",
+      "part": 3,
+      "startTime": 850.4,
+      "endTime": 854.7,
+      "text": "The article said children find this familiarity very comforting. Yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-105",
-      "part": 2,
-      "startTime": 745.86,
-      "endTime": 751.0,
-      "text": "This is at the top of your plan, between the frozen goods section and the exit.",
+      "part": 3,
+      "startTime": 855.4,
+      "endTime": 860.64,
+      "text": "Now, how about Goodnight Little Rabbit, which has those delightful pictures?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-106",
-      "part": 2,
-      "startTime": 751.0,
-      "endTime": 791.73,
-      "text": "As well as comfortable chairs, there's also a microwave for heating up snacks and a drinks dispenser.",
+      "part": 3,
+      "startTime": 860.82,
+      "endTime": 867.72,
+      "text": "I love the way the colours get darker as the book progresses, indicating how evening turns into night. Me too.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-107",
-      "part": 2,
-      "startTime": 791.73,
-      "endTime": 801.01,
-      "text": "So, let's go there now.",
+      "part": 3,
+      "startTime": 867.9,
+      "endTime": 871.38,
+      "text": "The article said that's why teachers like it. Very cute.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-108",
-      "part": 2,
-      "startTime": 801.01,
-      "endTime": 819.56,
-      "text": "Hi, are you ready to discuss our presentation?",
+      "part": 3,
+      "startTime": 871.68,
+      "endTime": 874.06,
+      "text": "And a good example of visual subtext.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-109",
-      "part": 2,
-      "startTime": 819.56,
-      "endTime": 824.0,
-      "text": "Yeah, sure.",
+      "part": 3,
+      "startTime": 874.34,
+      "endTime": 879.02,
+      "text": "Hard to believe that it came out over 60 years ago. It's still relevant.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-110",
       "part": 3,
-      "startTime": 824.0,
-      "endTime": 829.16,
-      "text": "So, what are we going to say about teachers reading picture books with young children?",
+      "startTime": 879.22,
+      "endTime": 882.26,
+      "text": "I really liked what the article said about the boat party.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-111",
       "part": 3,
-      "startTime": 829.16,
-      "endTime": 833.48,
-      "text": "I think we should start with the reasons why teachers use picture books.",
+      "startTime": 882.44,
+      "endTime": 887.68,
+      "text": "There's a lot of repetition, which I think would be great for vocabulary development. That's true.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-112",
       "part": 3,
-      "startTime": 833.48,
-      "endTime": 839.42,
-      "text": "The journal article we read mentioned several picture books, and why they're popular with teachers.",
+      "startTime": 887.88,
+      "endTime": 891.86,
+      "text": "But apparently it's the images that make it popular with children.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-113",
       "part": 3,
-      "startTime": 839.42,
-      "endTime": 842.66,
-      "text": "Right. Like, I spy friends. It's a lovely story. Yeah.",
+      "startTime": 892.1,
+      "endTime": 895.74,
+      "text": "The artist is really well known, and children often ask for her books.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-114",
       "part": 3,
-      "startTime": 842.66,
-      "endTime": 847.7,
-      "text": "The children like to find the familiar faces from the fairy tales they know so well.",
+      "startTime": 895.74,
+      "endTime": 897.68,
+      "text": "Oh, that's good to know.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-115",
       "part": 3,
-      "startTime": 847.7,
-      "endTime": 850.16,
-      "text": "And they're all doing predictable things.",
+      "startTime": 898.26,
+      "endTime": 902.0,
+      "text": "And shall we also include Puppy and Friends? Yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-116",
       "part": 3,
-      "startTime": 850.16,
-      "endTime": 854.0,
-      "text": "The article said children find this familiarity very comforting.",
+      "startTime": 902.18,
+      "endTime": 910.9,
+      "text": "It sounds like an innocent title, but the article warns that there's a bit of a fright, you know, the one on the last page when the puppy suddenly encounters the scary cat.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-117",
       "part": 3,
-      "startTime": 854.0,
-      "endTime": 859.7,
-      "text": "Yes. Now, how about Goodnight Little Rabbit, which has those delightful pictures?",
+      "startTime": 911.24,
+      "endTime": 915.82,
+      "text": "Teachers like to use this to help children explore their emotions. Sounds good.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-118",
       "part": 3,
-      "startTime": 859.7,
-      "endTime": 866.88,
-      "text": "I love the way the colours get darker as the book progresses, indicating how evening turns into night.",
+      "startTime": 916.0,
+      "endTime": 918.08,
+      "text": "Hats and Socks is a good one.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-119",
       "part": 3,
-      "startTime": 866.88,
-      "endTime": 871.39,
-      "text": "Me too. The article said that's why teachers like it. Very cute.",
+      "startTime": 918.26,
+      "endTime": 922.74,
+      "text": "It doesn't really have a beginning and an end, does it? Which is unusual.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-120",
       "part": 3,
-      "startTime": 871.39,
-      "endTime": 874.0,
-      "text": "And a good example of visual subtext.",
+      "startTime": 923.22,
+      "endTime": 925.44,
+      "text": "That's why teachers like this one, though.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-121",
       "part": 3,
-      "startTime": 874.0,
-      "endTime": 878.43,
-      "text": "Hard to believe that it came out over 60 years ago. It's still relevant.",
+      "startTime": 925.92,
+      "endTime": 931.02,
+      "text": "Because it's so different, it's good for children to hear a story that doesn't follow the usual pattern.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-122",
       "part": 3,
-      "startTime": 878.43,
-      "endTime": 882.0,
-      "text": "I really liked what the article said about the boat party.",
+      "startTime": 931.26,
+      "endTime": 935.36,
+      "text": "And the pages are so full of life and colour. A good choice.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-123",
       "part": 3,
-      "startTime": 882.0,
-      "endTime": 886.66,
-      "text": "There's a lot of repetition, which I think would be great for vocabulary development.",
+      "startTime": 937.16,
+      "endTime": 941.5,
+      "text": "And for our last one, how about A Family Adventure?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-124",
       "part": 3,
-      "startTime": 886.66,
-      "endTime": 891.0,
-      "text": "That's true. But apparently it's the images that make it popular with children.",
+      "startTime": 941.78,
+      "endTime": 947.74,
+      "text": "This one uses a lot of the same language throughout, which I think can help with letter and word recognition.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-125",
       "part": 3,
-      "startTime": 892.0,
-      "endTime": 897.81,
-      "text": "The artist is really well known, and children often ask for her books. Oh, that's good to know.",
+      "startTime": 948.98,
+      "endTime": 951.62,
+      "text": "Teachers say it has a really poetic feel to it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-126",
       "part": 3,
-      "startTime": 897.81,
-      "endTime": 900.81,
-      "text": "And shall we also include Puppy and Friends? Yes.",
+      "startTime": 951.84,
+      "endTime": 953.84,
+      "text": "They often sing it to a simple tune.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-127",
       "part": 3,
-      "startTime": 900.81,
-      "endTime": 906.13,
-      "text": "It sounds like an innocent title, but the article warns that there's a bit of a fright,",
+      "startTime": 954.22,
+      "endTime": 958.24,
+      "text": "Yes, and it's full of beautiful watercolours too.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-128",
       "part": 3,
-      "startTime": 906.13,
-      "endTime": 911.27,
-      "text": "you know, the one on the last page when the puppy suddenly encounters the scary cat.",
+      "startTime": 993.6,
+      "endTime": 998.3,
+      "text": "In the next part of our presentation, shall we look at some of the other research?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-129",
       "part": 3,
-      "startTime": 911.27,
-      "endTime": 916.1,
-      "text": "Teachers like to use this to help children explore their emotions. Sounds good.",
+      "startTime": 998.48,
+      "endTime": 1002.04,
+      "text": "I really liked Smith's article about the history of picture books.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-130",
       "part": 3,
-      "startTime": 916.1,
-      "endTime": 921.3,
-      "text": "Hats and Socks is a good one. It doesn't really have a beginning and an end, does it?",
+      "startTime": 1002.66,
+      "endTime": 1004.74,
+      "text": "Picture books haven't been around for that long, of course.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-131",
       "part": 3,
-      "startTime": 921.3,
-      "endTime": 924.97,
-      "text": "Which is unusual. That's why teachers like this one, though.",
+      "startTime": 1005.4,
+      "endTime": 1009.66,
+      "text": "And as we know from our reading lists, there's a lot of research on them already.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-132",
       "part": 3,
-      "startTime": 924.97,
-      "endTime": 931.33,
-      "text": "Because it's so different, it's good for children to hear a story that doesn't follow the usual pattern.",
+      "startTime": 1010.22,
+      "endTime": 1011.92,
+      "text": "Smith makes some interesting points.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-133",
       "part": 3,
-      "startTime": 931.33,
-      "endTime": 935.0,
-      "text": "And the pages are so full of life and colour. A good choice.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-134",
-      "part": 3,
-      "startTime": 936.0,
-      "endTime": 940.37,
-      "text": "OK. And for our last one, how about A Family Adventure?",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-135",
-      "part": 3,
-      "startTime": 940.37,
-      "endTime": 949.03,
-      "text": "This one uses a lot of the same language throughout, which I think can help with letter and word recognition.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-136",
-      "part": 3,
-      "startTime": 949.03,
-      "endTime": 955.71,
-      "text": "Teachers say it has a really poetic feel to it. They often sing it to a simple tune.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-137",
-      "part": 3,
-      "startTime": 955.71,
-      "endTime": 959.6,
-      "text": "Yes, and it's full of beautiful watercolours too.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-138",
-      "part": 3,
-      "startTime": 959.6,
-      "endTime": 967.0,
-      "text": "Before you hear the rest of the discussion, you have some time to look at questions 27 to 30.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-139",
-      "part": 3,
-      "startTime": 987.0,
-      "endTime": 989.98,
-      "text": "Now listen and answer questions 27 to 30.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-140",
-      "part": 3,
-      "startTime": 989.98,
-      "endTime": 995.93,
-      "text": "In the next part of our presentation, shall we look at some of the other research?",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-141",
-      "part": 3,
-      "startTime": 995.93,
-      "endTime": 1000.72,
-      "text": "I really liked Smith's article about the history of picture books.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-142",
-      "part": 3,
-      "startTime": 1000.72,
-      "endTime": 1005.0,
-      "text": "Picture books haven't been around for that long, of course.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-143",
-      "part": 3,
-      "startTime": 1005.0,
-      "endTime": 1009.34,
-      "text": "And as we know from our reading lists, there's a lot of research on them already.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-144",
-      "part": 3,
-      "startTime": 1009.34,
-      "endTime": 1011.27,
-      "text": "Smith makes some interesting points.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-145",
-      "part": 3,
-      "startTime": 1011.27,
+      "startTime": 1012.2,
       "endTime": 1019.0,
       "text": "Yes, one thing that shocked me was that some people don't consider picture books as proper writing because they don't have enough words in them.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 1019.54,
+      "endTime": 1022.1,
+      "text": "Yes, that was unexpected for me as well.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 1022.38,
+      "endTime": 1025.98,
+      "text": "I think they should be just as respected as other works of fiction.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 1026.68,
+      "endTime": 1032.74,
+      "text": "Smith also mentioned that books from other countries are very popular here, even though they don't show our daily life.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 1033.68,
+      "endTime": 1035.24,
+      "text": "I think that's interesting.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 1035.58,
+      "endTime": 1039.88,
+      "text": "But it's the same for adult fiction too. People want variety.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 1040.06,
+      "endTime": 1044.52,
+      "text": "What I didn't realise is how fixed the number of pages is. Me neither.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 1044.76,
+      "endTime": 1049.06,
+      "text": "I wasn't expecting that they're so strictly limited to 32 pages.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1049.52,
+      "endTime": 1052.58,
+      "text": "It's important, so let's include it. Alright.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1052.88,
+      "endTime": 1058.74,
+      "text": "Now let's think about other aspects of picture books we want to include in our presentation. How about the characters?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1059.82,
+      "endTime": 1066.12,
+      "text": "Okay, well, a lot of them feature animals, or families often in very traditional roles.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1066.26,
+      "endTime": 1068.66,
+      "text": "But do you think we need to talk about that?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1069.06,
+      "endTime": 1073.26,
+      "text": "For me, the main thing is that they are mostly printed as board books.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
       "id": "seg-146",
       "part": 3,
-      "startTime": 1020.0,
-      "endTime": 1022.41,
-      "text": "Yes, that was unexpected for me as well.",
+      "startTime": 1073.4,
+      "endTime": 1078.42,
+      "text": "The cardboard material makes it easy for young children to turn their pages. I agree.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-147",
       "part": 3,
-      "startTime": 1022.41,
-      "endTime": 1026.45,
-      "text": "I think they should be just as respected as other works of fiction.",
+      "startTime": 1078.58,
+      "endTime": 1086.66,
+      "text": "And it's essential for children to hold books and learn how they open at the front, and that the text goes in a certain direction. Good point.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-148",
       "part": 3,
-      "startTime": 1026.45,
-      "endTime": 1033.63,
-      "text": "Smith also mentioned that books from other countries are very popular here, even though they don't show our daily life.",
+      "startTime": 1087.1,
+      "endTime": 1093.48,
+      "text": "Why don't we also discuss how culture is important in picture books, like the importance of respecting the elderly?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-149",
       "part": 3,
-      "startTime": 1033.63,
-      "endTime": 1039.0,
-      "text": "I think that's interesting. But it's the same for adult fiction too. People want variety.",
+      "startTime": 1093.82,
+      "endTime": 1097.16,
+      "text": "Yes, it's probably different all over the world.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-150",
       "part": 3,
-      "startTime": 1040.0,
-      "endTime": 1044.7,
-      "text": "What I didn't realise is how fixed the number of pages is. Me neither.",
+      "startTime": 1097.4,
+      "endTime": 1104.6,
+      "text": "Would it be interesting to make a comparison between modern and historical picture books and consider future directions for the genre?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-151",
       "part": 3,
-      "startTime": 1044.7,
-      "endTime": 1049.0,
-      "text": "I wasn't expecting that they're so strictly limited to 32 pages.",
+      "startTime": 1104.84,
+      "endTime": 1112.18,
+      "text": "It sounds interesting, but I don't have any research on that, so we'd better leave it. So what's next? We don't need.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-152",
-      "part": 3,
-      "startTime": 1049.0,
-      "endTime": 1051.83,
-      "text": "It's important, so let's include it. Alright.",
+      "part": 4,
+      "startTime": 1203.38,
+      "endTime": 1204.5,
+      "text": "Good morning.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-153",
-      "part": 3,
-      "startTime": 1051.83,
-      "endTime": 1057.61,
-      "text": "Now let's think about other aspects of picture books we want to include in our presentation.",
+      "part": 4,
+      "startTime": 1204.98,
+      "endTime": 1211.0,
+      "text": "Next week is the Geography 331 field trip to the far north of Quebec.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-154",
-      "part": 3,
-      "startTime": 1057.61,
-      "endTime": 1059.18,
-      "text": "How about the characters?",
+      "part": 4,
+      "startTime": 1211.46,
+      "endTime": 1215.44,
+      "text": "Today I'll discuss your trip and your tasks.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-155",
-      "part": 3,
-      "startTime": 1059.18,
-      "endTime": 1064.65,
-      "text": "Okay, well, a lot of them feature animals, or families often in very traditional roles.",
+      "part": 4,
+      "startTime": 1215.94,
+      "endTime": 1219.34,
+      "text": "As you know, you will be close to the Arctic Circle.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-156",
-      "part": 3,
-      "startTime": 1064.65,
-      "endTime": 1067.41,
-      "text": "But do you think we need to talk about that?",
+      "part": 4,
+      "startTime": 1219.56,
+      "endTime": 1228.24,
+      "text": "You're going to travel up the James Bay Road through a region that is very remote and uninhabited, yet very beautiful.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-157",
-      "part": 3,
-      "startTime": 1067.41,
-      "endTime": 1071.81,
-      "text": "For me, the main thing is that they are mostly printed as board books.",
+      "part": 4,
+      "startTime": 1228.42,
+      "endTime": 1235.64,
+      "text": "The highway is 620 km long, but it's fully paved for the entire length.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-158",
-      "part": 3,
-      "startTime": 1071.81,
-      "endTime": 1077.15,
-      "text": "The cardboard material makes it easy for young children to turn their pages. I agree.",
+      "part": 4,
+      "startTime": 1237.1,
+      "endTime": 1242.7,
+      "text": "Where the highway begins, there is a roadside office where you must stop.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-159",
-      "part": 3,
-      "startTime": 1077.15,
-      "endTime": 1085.32,
-      "text": "And it's essential for children to hold books and learn how they open at the front, and that the text goes in a certain direction.",
+      "part": 4,
+      "startTime": 1242.8,
+      "endTime": 1248.74,
+      "text": "The road is remote, so your registration is very important in case of an emergency.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-160",
-      "part": 3,
-      "startTime": 1085.32,
-      "endTime": 1086.0,
-      "text": "Good point.",
+      "part": 4,
+      "startTime": 1249.42,
+      "endTime": 1254.9,
+      "text": "The office is staffed 24 hours per day, 7 days per week.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-161",
-      "part": 3,
-      "startTime": 1087.0,
-      "endTime": 1099.29,
-      "text": "Why don't we also discuss how culture is important in picture books, like the importance of respecting the elderly?",
+      "part": 4,
+      "startTime": 1255.06,
+      "endTime": 1260.34,
+      "text": "You have to sign in to go up the road and sign out upon your return.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-162",
-      "part": 3,
-      "startTime": 1099.29,
-      "endTime": 1104.42,
-      "text": "Yes, it's probably different all over the world.",
+      "part": 4,
+      "startTime": 1260.8,
+      "endTime": 1270.32,
+      "text": "For additional safety, at different places along the highway, telephones have been installed which connect with staff in the office.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-163",
-      "part": 3,
-      "startTime": 1104.42,
-      "endTime": 1118.74,
-      "text": "Would it be interesting to make a comparison between modern and historical picture books and consider future directions for the genre?",
+      "part": 4,
+      "startTime": 1270.66,
+      "endTime": 1274.74,
+      "text": "Remember, there is no mobile service in this remote area.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-164",
-      "part": 3,
-      "startTime": 1118.74,
-      "endTime": 1127.93,
-      "text": "It sounds interesting, but I don't have any research on that, so we'd better leave it.",
+      "part": 4,
+      "startTime": 1275.78,
+      "endTime": 1285.44,
+      "text": "The first work of your field trip is at the end of the James Bay Road in Radisson, a small town of only 300 inhabitants.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-165",
-      "part": 3,
-      "startTime": 1127.93,
-      "endTime": 1134.02,
-      "text": "So what's next? We don't need… That is the end of Part 3.",
+      "part": 4,
+      "startTime": 1285.92,
+      "endTime": 1296.96,
+      "text": "You will stay at Radisson Research Centre, which works with various universities and Hydro-Québec to carry out studies into the ecology of the region.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-166",
-      "part": 3,
-      "startTime": 1134.02,
-      "endTime": 1140.0,
-      "text": "You now have 30 seconds to check your answers to Part 3.",
+      "part": 4,
+      "startTime": 1298.42,
+      "endTime": 1306.24,
+      "text": "Because the Research Centre and the road exist as a result of the development of hydroelectricity complexes in northern Quebec,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-167",
       "part": 4,
-      "startTime": 1140.0,
-      "endTime": 1141.0,
-      "text": "You will hear a geography professor telling his class about an upcoming field trip to the far north of Quebec in Canada.",
+      "startTime": 1306.66,
+      "endTime": 1313.68,
+      "text": "Hydro-Québec is responsible for all emergency assistance and security of all visitors.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-168",
       "part": 4,
-      "startTime": 1141.0,
-      "endTime": 1147.59,
-      "text": "First, you have some time to look at questions 31 to 40.",
+      "startTime": 1314.24,
+      "endTime": 1320.64,
+      "text": "Your first few days at the Centre will be spent attending lectures about their past research.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-169",
       "part": 4,
-      "startTime": 1147.59,
-      "endTime": 1155.24,
-      "text": "Now listen carefully and answer questions 31 to 40. Good morning.",
+      "startTime": 1320.88,
+      "endTime": 1328.34,
+      "text": "You will hear that they have paid particular attention to any disturbance to the land caused by insects.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-170",
       "part": 4,
-      "startTime": 1155.24,
-      "endTime": 1163.37,
-      "text": "Next week is the Geography 331 field trip to the far north of Quebec.",
+      "startTime": 1328.96,
+      "endTime": 1332.74,
+      "text": "After that, you will visit the various outpost stations.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-171",
       "part": 4,
-      "startTime": 1163.37,
-      "endTime": 1168.55,
-      "text": "Today I'll discuss your trip and your tasks.",
+      "startTime": 1333.7,
+      "endTime": 1339.64,
+      "text": "There are three of them, and when you visit them, you will be able to observe how data on the",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-172",
       "part": 4,
-      "startTime": 1168.55,
-      "endTime": 1174.67,
-      "text": "As you know, you will be close to the Arctic Circle.",
+      "startTime": 1339.64,
+      "endTime": 1345.64,
+      "text": "varying patterns of the climate is collected and published for scientific research.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-173",
       "part": 4,
-      "startTime": 1174.67,
-      "endTime": 1188.57,
-      "text": "You're going to travel up the James Bay Road through a region that is very remote and uninhabited, yet very beautiful.",
+      "startTime": 1349.84,
+      "endTime": 1356.56,
+      "text": "The second part of your field trip is back down the James Bay Road to the Trans-Taga Road,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-174",
       "part": 4,
-      "startTime": 1188.57,
-      "endTime": 1196.93,
-      "text": "The highway is 620 km long, but it's fully paved for the entire length.",
+      "startTime": 1356.56,
+      "endTime": 1362.96,
+      "text": "which is the northernmost continuous unpaved road in eastern North America.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-175",
       "part": 4,
-      "startTime": 1196.93,
-      "endTime": 1205.53,
-      "text": "Where the highway begins, there is a roadside office where you must stop.",
+      "startTime": 1363.18,
+      "endTime": 1369.28,
+      "text": "In fact, it's very uneven gravel, so drivers have to be very careful.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-176",
       "part": 4,
-      "startTime": 1205.53,
-      "endTime": 1215.3,
-      "text": "The road is remote, so your registration is very important in case of an emergency.",
+      "startTime": 1369.68,
+      "endTime": 1377.04,
+      "text": "Hydro-Québec cautions that driving over rocks on the rough road may cause severe damage to the car.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-177",
       "part": 4,
-      "startTime": 1215.3,
-      "endTime": 1221.89,
-      "text": "The office is staffed 24 hours per day, 7 days per week.",
+      "startTime": 1377.24,
+      "endTime": 1381.62,
+      "text": "Any breakdown is serious, as repairs are costly.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-178",
       "part": 4,
-      "startTime": 1221.89,
-      "endTime": 1229.9,
-      "text": "You have to sign in to go up the road and sign out upon your return.",
+      "startTime": 1382.4,
+      "endTime": 1389.14,
+      "text": "Along the way, you will be stopping at two hydroelectric generating stations, each on a different river.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-179",
       "part": 4,
-      "startTime": 1229.9,
-      "endTime": 1245.44,
-      "text": "For additional safety, at different places along the highway, telephones have been installed which connect with staff in the office.",
+      "startTime": 1389.5,
+      "endTime": 1398.68,
+      "text": "There, you will meet with engineers who will explain and demonstrate how rainfall has an impact on producing electric energy.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-180",
       "part": 4,
-      "startTime": 1245.44,
-      "endTime": 1252.15,
-      "text": "Remember, there is no mobile service in this remote area.",
+      "startTime": 1399.24,
+      "endTime": 1405.6,
+      "text": "Your last two days of the trip will be spent camping out in the taiga on the Canadian Shield.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-181",
       "part": 4,
-      "startTime": 1252.15,
-      "endTime": 1266.28,
-      "text": "The first work of your field trip is at the end of the James Bay Road in Radisson, a small town of only 300 inhabitants.",
+      "startTime": 1405.6,
+      "endTime": 1409.12,
+      "text": "Taiga is the Russian term for a type of forest.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-182",
       "part": 4,
-      "startTime": 1266.28,
-      "endTime": 1283.94,
-      "text": "You will stay at Radisson Research Centre, which works with various universities and Hydro-Québec to carry out studies into the ecology of the region.",
+      "startTime": 1410.48,
+      "endTime": 1419.96,
+      "text": "You will find the region is relatively poor in the number of plant species, yet there is a great variety of wildlife that can be seen.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-183",
       "part": 4,
-      "startTime": 1283.94,
-      "endTime": 1298.9,
-      "text": "Because the Research Centre and the road exist as a result of the development of hydroelectricity complexes in northern Quebec,",
+      "startTime": 1420.58,
+      "endTime": 1431.68,
+      "text": "You'll go to an area that once had forest fires, and you'll see how the landscape has naturally small rocky hills which confine the lower wetlands.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-184",
       "part": 4,
-      "startTime": 1298.9,
-      "endTime": 1309.03,
-      "text": "Hydro-Québec is responsible for all emergency assistance and security of all visitors.",
+      "startTime": 1432.14,
+      "endTime": 1438.42,
+      "text": "These low-lying areas are called muskeg, which is made up of slowly decomposing plants.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-185",
       "part": 4,
-      "startTime": 1309.03,
-      "endTime": 1320.0,
-      "text": "Your first few days at the Centre will be spent attending lectures about their past research.",
+      "startTime": 1439.04,
+      "endTime": 1447.28,
+      "text": "It is not safe to walk on it, as it has pools that are not easily seen, so keep to the rocks.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-186",
       "part": 4,
-      "startTime": 1321.0,
-      "endTime": 1328.43,
-      "text": "You will hear that they have paid particular attention to any disturbance to the land caused by insects.",
+      "startTime": 1447.44,
+      "endTime": 1451.16,
+      "text": "The muskeg is home to many small birds and waterfowl.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-187",
       "part": 4,
-      "startTime": 1328.43,
-      "endTime": 1332.43,
-      "text": "After that, you will visit the various outpost stations.",
+      "startTime": 1451.46,
+      "endTime": 1460.74,
+      "text": "In fact, there are at least 60 varieties, so keep your waterproof digital cameras handy so you can take plenty of pictures.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-188",
       "part": 4,
-      "startTime": 1332.43,
-      "endTime": 1335.93,
-      "text": "There are three of them, and when you visit them,",
+      "startTime": 1461.08,
+      "endTime": 1468.44,
+      "text": "Then we will have documentation of the existing waterfowl, as some are becoming extinct.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-189",
       "part": 4,
-      "startTime": 1335.93,
-      "endTime": 1345.0,
-      "text": "you will be able to observe how data on the varying patterns of the climate is collected and published for scientific research.",
+      "startTime": 1469.1,
+      "endTime": 1477.94,
+      "text": "Water is a problem in this area, so you'll also be collecting test tubes of water to bring back to our research lab for analysis.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-190",
       "part": 4,
-      "startTime": 1350.0,
-      "endTime": 1357.3,
-      "text": "The second part of your field trip is back down the James Bay Road to the Trans-Taga Road,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-191",
-      "part": 4,
-      "startTime": 1357.3,
-      "endTime": 1363.38,
-      "text": "which is the northernmost continuous unpaved road in eastern North America.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-192",
-      "part": 4,
-      "startTime": 1363.38,
-      "endTime": 1368.97,
-      "text": "In fact, it's very uneven gravel, so drivers have to be very careful.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-193",
-      "part": 4,
-      "startTime": 1368.97,
-      "endTime": 1377.0,
-      "text": "Hydro-Québec cautions that driving over rocks on the rough road may cause severe damage to the car.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-194",
-      "part": 4,
-      "startTime": 1377.0,
-      "endTime": 1380.75,
-      "text": "Any breakdown is serious, as repairs are costly.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-195",
-      "part": 4,
-      "startTime": 1380.75,
-      "endTime": 1388.87,
-      "text": "Along the way, you will be stopping at two hydroelectric generating stations, each on a different river.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-196",
-      "part": 4,
-      "startTime": 1388.87,
-      "endTime": 1398.62,
-      "text": "There, you will meet with engineers who will explain and demonstrate how rainfall has an impact on producing electric energy.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-197",
-      "part": 4,
-      "startTime": 1398.62,
-      "endTime": 1405.88,
-      "text": "Your last two days of the trip will be spent camping out in the taiga on the Canadian Shield.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-198",
-      "part": 4,
-      "startTime": 1405.88,
-      "endTime": 1409.55,
-      "text": "Taiga is the Russian term for a type of forest.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-199",
-      "part": 4,
-      "startTime": 1409.55,
-      "endTime": 1420.0,
-      "text": "You will find the region is relatively poor in the number of plant species, yet there is a great variety of wildlife that can be seen.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-200",
-      "part": 4,
-      "startTime": 1420.0,
-      "endTime": 1431.69,
-      "text": "You'll go to an area that once had forest fires, and you'll see how the landscape has naturally small rocky hills which confine the lower wetlands.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-201",
-      "part": 4,
-      "startTime": 1431.69,
-      "endTime": 1438.61,
-      "text": "These low-lying areas are called muskeg, which is made up of slowly decomposing plants.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-202",
-      "part": 4,
-      "startTime": 1438.61,
-      "endTime": 1446.01,
-      "text": "It is not safe to walk on it, as it has pools that are not easily seen, so keep to the rocks.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-203",
-      "part": 4,
-      "startTime": 1446.01,
-      "endTime": 1450.22,
-      "text": "The muskeg is home to many small birds and waterfowl.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-204",
-      "part": 4,
-      "startTime": 1450.22,
-      "endTime": 1460.0,
-      "text": "In fact, there are at least 60 varieties, so keep your waterproof digital cameras handy so you can take plenty of pictures.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-205",
-      "part": 4,
-      "startTime": 1460.0,
-      "endTime": 1467.0,
-      "text": "Then we will have documentation of the existing waterfowl, as some are becoming extinct.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-206",
-      "part": 4,
-      "startTime": 1469.0,
-      "endTime": 1496.86,
-      "text": "Water is a problem in this area, so you'll also be collecting test tubes of water to bring back to our research lab for analysis.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-207",
-      "part": 4,
-      "startTime": 1496.86,
-      "endTime": 1516.73,
+      "startTime": 1478.12,
+      "endTime": 1483.92,
       "text": "It needs to be monitored for pollution that may be caused by rainfall coming from the south.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-208",
-      "part": 4,
-      "startTime": 1516.73,
-      "endTime": 1522.99,
-      "text": "That is the end of part four.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-209",
-      "part": 4,
-      "startTime": 1522.99,
-      "endTime": 1535.73,
-      "text": "You now have one minute to check your answers to part four.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-210",
-      "part": 4,
-      "startTime": 1535.73,
-      "endTime": 1543.94,
-      "text": "That is the end of the listening test.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-211",
-      "part": 4,
-      "startTime": 1543.94,
-      "endTime": 1561.0,
-      "text": "You now have 10 minutes to transfer your answers to the listening answer sheet.",
       "timestampSource": "exact",
       "qTags": []
     }
@@ -2723,36 +2508,26 @@
     {
       "id": "long-001",
       "part": 1,
-      "startTime": 2.0,
-      "endTime": 35.9,
-      "text": "You will hear a telephone conversation between a woman who is moving to London and an employee of a relocation service. First you have some time to look at questions 1 to 7. Now listen carefully and answer questions 1 to 7.",
+      "startTime": 62.18,
+      "endTime": 84.52,
+      "text": "Good morning. My family and I are moving to London later this year and I wonder if you can help? Sure. First of all, I'll need to get some personal details. May I take your full name, please? It's Anna Woods. Thanks. Where are you moving from? Northern Ireland, just outside Belfast, actually. Right.",
       "segmentIds": [
         "seg-001",
         "seg-002",
-        "seg-003"
+        "seg-003",
+        "seg-004",
+        "seg-005"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-002",
       "part": 1,
-      "startTime": 35.9,
-      "endTime": 60.29,
-      "text": "London Relocation Services, Daniel speaking. How may I help you? Good morning. My family and I are moving to London later this year and I wonder if you can help?",
+      "startTime": 84.9,
+      "endTime": 105.72,
+      "text": "And what's your current address? It's 118 Fordyce Park. I'll spell that for you. It's F-O-R-D-Y-C-E. And that's in Ballysillan. And what's the postcode? It's B-T-14-9-B-J.",
       "segmentIds": [
-        "seg-004",
-        "seg-005",
-        "seg-006"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-003",
-      "part": 1,
-      "startTime": 60.29,
-      "endTime": 77.0,
-      "text": "Sure. First of all, I'll need to get some personal details. May I take your full name, please? It's Anna Woods.",
-      "segmentIds": [
+        "seg-006",
         "seg-007",
         "seg-008",
         "seg-009"
@@ -2760,40 +2535,40 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-004",
+      "id": "long-003",
       "part": 1,
-      "startTime": 78.0,
-      "endTime": 99.17,
-      "text": "Thanks. Where are you moving from? Northern Ireland, just outside Belfast, actually. Right. And what's your current address? It's 118 Fordyce Park. I'll spell that for you. It's F-O-R-D-Y-C-E. And that's in Ballysillan. And what's the postcode? It's B-T-14-9-B-J.",
+      "startTime": 107.26,
+      "endTime": 117.24,
+      "text": "And could I take a contact phone number? I'll give you my mobile number as you can get me on that anytime. It's 07-8400-51963.",
       "segmentIds": [
         "seg-010",
-        "seg-011",
-        "seg-012"
+        "seg-011"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 121.76,
+      "endTime": 145.46,
+      "text": "Great. Got that. Now, we always like to get a bit more information about the families that we're moving. It helps with the search. Are you moving for work? Yes, my husband's just got a new job in London. And what about you? Do you work? Well, I've been working as a teaching assistant recently, but I'm actually a qualified nurse and I'd like to get back into that if possible. Right.",
+      "segmentIds": [
+        "seg-012",
+        "seg-013",
+        "seg-014",
+        "seg-015"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-005",
       "part": 1,
-      "startTime": 99.17,
-      "endTime": 122.62,
-      "text": "All right. And could I take a contact phone number? I'll give you my mobile number as you can get me on that anytime. It's 07-8400-51963. Great. Got that. Now, we always like to get a bit more information about the families that we're moving. It helps with the search. Are you moving for work?",
+      "startTime": 145.82,
+      "endTime": 159.22,
+      "text": "And do you have any children? Yes, a son. So we need to find a school for him. Is it a secondary school you'll be looking for? No, he's still in primary school. He's not quite at the secondary level yet. Fine.",
       "segmentIds": [
-        "seg-013",
-        "seg-014",
-        "seg-015",
         "seg-016",
-        "seg-017"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-006",
-      "part": 1,
-      "startTime": 122.62,
-      "endTime": 147.35,
-      "text": "Yes, my husband's just got a new job in London. And what about you? Do you work? Well, I've been working as a teaching assistant recently, but I'm actually a qualified nurse and I'd like to get back into that if possible. Right. And do you have any children? Yes, a son. So we need to find a school for him.",
-      "segmentIds": [
+        "seg-017",
         "seg-018",
         "seg-019",
         "seg-020"
@@ -2801,27 +2576,27 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-007",
+      "id": "long-006",
       "part": 1,
-      "startTime": 147.35,
-      "endTime": 168.25,
-      "text": "Is it a secondary school you'll be looking for? No, he's still in primary school. He's not quite at the secondary level yet. Fine. So let's go on to talk about your requirements for the property. Do you have a preferred location? Is your husband's job in the centre?",
+      "startTime": 159.58,
+      "endTime": 176.72,
+      "text": "So let's go on to talk about your requirements for the property. Do you have a preferred location? Is your husband's job in the centre? No, it's in East London, but we'd rather live somewhere quieter. Sure. There are some lovely areas in the south. OK, that sounds great.",
       "segmentIds": [
         "seg-021",
         "seg-022",
         "seg-023",
-        "seg-024"
+        "seg-024",
+        "seg-025"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-008",
+      "id": "long-007",
       "part": 1,
-      "startTime": 168.25,
-      "endTime": 186.74,
-      "text": "No, it's in East London, but we'd rather live somewhere quieter. Sure. There are some lovely areas in the south. OK, that sounds great. Now, my husband doesn't want to spend too long commuting to work every day. So I imagine that ideally he'd like to be not too far from a station then?",
+      "startTime": 177.32,
+      "endTime": 199.28,
+      "text": "Now, my husband doesn't want to spend too long commuting to work every day. So I imagine that ideally he'd like to be not too far from a station then? Yes, he drives now, but I guess that's not going to be possible and he's not keen on buses. What about you or your son? Do you have any preferences? Does your son do any sport, for example?",
       "segmentIds": [
-        "seg-025",
         "seg-026",
         "seg-027",
         "seg-028",
@@ -2830,128 +2605,98 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-009",
+      "id": "long-008",
       "part": 1,
-      "startTime": 186.74,
-      "endTime": 208.0,
-      "text": "Yes, he drives now, but I guess that's not going to be possible and he's not keen on buses. What about you or your son? Do you have any preferences? Does your son do any sport, for example? He's quite active, so I'm sure he'd love a park nearby to run around in. He doesn't do swimming or anything like that. Great.",
+      "startTime": 199.48,
+      "endTime": 208.04,
+      "text": "He's quite active, so I'm sure he'd love a park nearby to run around in. He doesn't do swimming or anything like that. Great.",
       "segmentIds": [
         "seg-030",
-        "seg-031",
+        "seg-031"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 238.88,
+      "endTime": 259.34,
+      "text": "So what sort of property do you have in mind? We have friends who live in an amazing flat over there, but as we've always lived in a house, I think we'll stick with that. We'd find it hard to adapt to a flat. OK. And size-wise, how many bedrooms would you like? Well, there's just myself, my husband and our son.",
+      "segmentIds": [
         "seg-032",
         "seg-033",
-        "seg-034"
+        "seg-034",
+        "seg-035",
+        "seg-036"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-010",
       "part": 1,
-      "startTime": 211.0,
-      "endTime": 230.44,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions 8 to 10. Now listen and answer questions 8 to 10. So what sort of property do you have in mind?",
+      "startTime": 259.76,
+      "endTime": 274.38,
+      "text": "So you'd definitely need a two-bedroom property. But how about having a guest room? I might be able to find a three-bedroom property for you. Yes, that would be ideal. We're sure to have family visiting often. All right, I've made a note of that.",
       "segmentIds": [
-        "seg-035",
-        "seg-036",
-        "seg-037"
+        "seg-037",
+        "seg-038",
+        "seg-039",
+        "seg-040",
+        "seg-041"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-011",
       "part": 1,
-      "startTime": 230.44,
-      "endTime": 253.57,
-      "text": "We have friends who live in an amazing flat over there, but as we've always lived in a house, I think we'll stick with that. We'd find it hard to adapt to a flat. OK. And size-wise, how many bedrooms would you like?",
+      "startTime": 274.76,
+      "endTime": 294.08,
+      "text": "Now are there any other requirements for your new property? Well, it's not essential, but it'd be handy to have an office for when my husband works from home. It doesn't need to be a big one. I guess it all comes down to budget. Yes. OK, Anna. Well, I've certainly got enough to be getting on with and.",
       "segmentIds": [
-        "seg-038",
-        "seg-039",
-        "seg-040"
+        "seg-042",
+        "seg-043",
+        "seg-044",
+        "seg-045",
+        "seg-046"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-012",
-      "part": 1,
-      "startTime": 253.57,
-      "endTime": 275.2,
-      "text": "Well, there's just myself, my husband and our son. So you'd definitely need a two-bedroom property. But how about having a guest room? I might be able to find a three-bedroom property for you. Yes, that would be ideal. We're sure to have family visiting often. All right, I've made a note of that.",
+      "part": 2,
+      "startTime": 436.52,
+      "endTime": 460.4,
+      "text": "Welcome to Holly's Supermarket. I'm sure you'll all enjoy working in our dedicated team here. So, what will you be doing? Well, we're open Monday through Sunday, so you'll need to be able to work weekends as well as irregular weekday shifts. These sometimes start at 5am or finish at 11pm.",
       "segmentIds": [
-        "seg-041",
-        "seg-042",
-        "seg-043",
-        "seg-044"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-013",
-      "part": 1,
-      "startTime": 275.2,
-      "endTime": 298.43,
-      "text": "Now are there any other requirements for your new property? Well, it's not essential, but it'd be handy to have an office for when my husband works from home. It doesn't need to be a big one.",
-      "segmentIds": [
-        "seg-045",
-        "seg-046",
-        "seg-047"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-014",
-      "part": 1,
-      "startTime": 298.43,
-      "endTime": 319.42,
-      "text": "I guess it all comes down to budget. Yes. OK, Anna.",
-      "segmentIds": [
+        "seg-047",
         "seg-048",
-        "seg-049"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-015",
-      "part": 1,
-      "startTime": 319.42,
-      "endTime": 355.51,
-      "text": "Well, I've certainly got enough to be getting on with and... That is the end of Part 1.",
-      "segmentIds": [
+        "seg-049",
         "seg-050",
         "seg-051"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-016",
-      "part": 1,
-      "startTime": 355.51,
-      "endTime": 379.0,
-      "text": "You now have one minute to check your answers to Part 1.",
-      "segmentIds": [
-        "seg-052"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-017",
+      "id": "long-013",
       "part": 2,
-      "startTime": 379.0,
-      "endTime": 420.58,
-      "text": "You will hear an official talking to a group of people who are volunteering to help at a local event, the beach races. First, you have some time to look at questions 11 to 16. You will hear a supervisor at Holly's Supermarket talking to a group of new employees. First, you have some time to look at questions 11 to 14.",
+      "startTime": 460.4,
+      "endTime": 481.22,
+      "text": "Your duties will include checking and unpacking lorry deliveries, as well as working on the shop floor, stocking shelves and so on. But you'll only be required to do manual lifting if the goods are light. When the store is very busy, you'll also have to assess changing priorities.",
       "segmentIds": [
+        "seg-052",
         "seg-053",
-        "seg-054",
-        "seg-055"
+        "seg-054"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-018",
+      "id": "long-014",
       "part": 2,
-      "startTime": 420.58,
-      "endTime": 445.03,
-      "text": "Now listen carefully and answer questions 11 to 14. Welcome to Holly's Supermarket. I'm sure you'll all enjoy working in our dedicated team here. So, what will you be doing?",
+      "startTime": 481.38,
+      "endTime": 501.94,
+      "text": "For example, if there's a queue at the tills, you'll jump on a spare one to help. If you notice something's been spilt and the surface is a little bit wet, you'll get a mop to clean it up. No need to check with a manager first. Similarly, if bakery items are selling quickly, you'll help cook some more.",
       "segmentIds": [
+        "seg-055",
         "seg-056",
         "seg-057",
         "seg-058"
@@ -2959,53 +2704,53 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-019",
+      "id": "long-015",
       "part": 2,
-      "startTime": 445.03,
-      "endTime": 468.53,
-      "text": "Well, we're open Monday through Sunday, so you'll need to be able to work weekends as well as irregular weekday shifts. These sometimes start at 5am or finish at 11pm. Your duties will include checking and unpacking lorry deliveries, as well as working on the shop floor, stocking shelves and so on.",
+      "startTime": 502.24,
+      "endTime": 521.2,
+      "text": "And if a customer can't find, say, the apples, you'll instantly leave what you're doing and show them. But you'll still get time off to relax too, of course. We pride ourselves on a positive attitude here. A little small talk shows you're interested in customers",
       "segmentIds": [
         "seg-059",
         "seg-060",
-        "seg-061"
+        "seg-061",
+        "seg-062"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-020",
+      "id": "long-016",
       "part": 2,
-      "startTime": 468.53,
-      "endTime": 486.15,
-      "text": "But you'll only be required to do manual lifting if the goods are light. When the store is very busy, you'll also have to assess changing priorities. For example, if there's a queue at the tills, you'll jump on a spare one to help.",
+      "startTime": 521.2,
+      "endTime": 541.36,
+      "text": "and are providing excellent service, just as long as you don't overdo it and keep another customer waiting. And always smile. It forces you to stay positive and being generally upbeat makes your whole team happy too. This increases efficiency and gives a good impression to customers.",
       "segmentIds": [
-        "seg-062",
         "seg-063",
-        "seg-064"
+        "seg-064",
+        "seg-065"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-021",
+      "id": "long-017",
       "part": 2,
-      "startTime": 486.15,
-      "endTime": 508.96,
-      "text": "If you notice something's been spilt and the surface is a little bit wet, you'll get a mop to clean it up. No need to check with a manager first. Similarly, if bakery items are selling quickly, you'll help cook some more. And if a customer can't find, say, the apples, you'll instantly leave what you're doing and show them.",
+      "startTime": 541.98,
+      "endTime": 564.54,
+      "text": "If it's quiet, help someone pack their bags. Customers really appreciate it, especially when they've bought more than they expected to. Staying calm's also a necessity. If a customer's unhappy for any reason, keep cool and call for a supervisor to help defuse a situation if things are getting out of hand.",
       "segmentIds": [
-        "seg-065",
         "seg-066",
         "seg-067",
-        "seg-068"
+        "seg-068",
+        "seg-069"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-022",
+      "id": "long-018",
       "part": 2,
-      "startTime": 508.96,
-      "endTime": 529.0,
-      "text": "But you'll still get time off to relax too, of course. We pride ourselves on a positive attitude here. A little small talk shows you're interested in customers and are providing excellent service, just as long as you don't overdo it and keep another customer waiting. And always smile.",
+      "startTime": 565.28,
+      "endTime": 580.18,
+      "text": "Occasionally, when working tills, you'll find yourself waiting for someone to extract their wallet from the bottom of a cluttered bag, while a long queue of annoyed customers builds up. You have to make sure, however hard it might be, that you remain composed.",
       "segmentIds": [
-        "seg-069",
         "seg-070",
         "seg-071",
         "seg-072"
@@ -3013,11 +2758,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-023",
+      "id": "long-019",
       "part": 2,
-      "startTime": 529.0,
-      "endTime": 551.94,
-      "text": "It forces you to stay positive and being generally upbeat makes your whole team happy too. This increases efficiency and gives a good impression to customers. If it's quiet, help someone pack their bags. Customers really appreciate it, especially when they've bought more than they expected to. Staying calm's also a necessity.",
+      "startTime": 625.9,
+      "endTime": 646.58,
+      "text": "So, now let's look at the plan of the supermarket. Have you all got your plans? Okay, good. We'll start with the staff entrance. Today you came in through the customer entrance, clearly marked on the bottom of your plan, but in future, you'll enter through the door in the top left-hand corner of the diagram.",
       "segmentIds": [
         "seg-073",
         "seg-074",
@@ -3028,11 +2773,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-024",
+      "id": "long-020",
       "part": 2,
-      "startTime": 551.94,
-      "endTime": 574.74,
-      "text": "If a customer's unhappy for any reason, keep cool and call for a supervisor to help defuse a situation if things are getting out of hand. Occasionally, when working tills, you'll find yourself waiting for someone to extract their wallet from the bottom of a cluttered bag, while a long queue of annoyed customers builds up.",
+      "startTime": 647.22,
+      "endTime": 668.42,
+      "text": "Please don't confuse this with the emergency exits in the top right-hand corner and bottom left. It's very important that these are kept clear at all times. Regarding the manager's office, some of you may have attended interviews here, when it was next to the newspaper and magazine sales area.",
       "segmentIds": [
         "seg-078",
         "seg-079",
@@ -3041,51 +2786,41 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-025",
+      "id": "long-021",
       "part": 2,
-      "startTime": 574.74,
-      "endTime": 596.65,
-      "text": "You have to make sure, however hard it might be, that you remain composed. Before you hear the rest of the talk, you have some time to look at questions 15 to 20. Now listen and answer questions 15 to 20.",
+      "startTime": 668.82,
+      "endTime": 688.6,
+      "text": "However, it's recently been moved and is now the circular space marked on the right of your plans. When the manager's not on the shop floor, that's where you'll find her. The storage and unpacking area. You may be asked to help out here, both before and after opening hours.",
       "segmentIds": [
         "seg-081",
         "seg-082",
-        "seg-083"
+        "seg-083",
+        "seg-084"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-026",
+      "id": "long-022",
       "part": 2,
-      "startTime": 596.65,
-      "endTime": 618.21,
-      "text": "So, now let's look at the plan of the supermarket. Have you all got your plans? Okay, good. We'll start with the staff entrance. Today you came in through the customer entrance, clearly marked on the bottom of your plan,",
+      "startTime": 688.94,
+      "endTime": 711.68,
+      "text": "This is represented by the largest of the four rectangles in the top section of the plan. It tends to get very busy there at times, so please be careful on entering and leaving this area. There's a kitchen on site, where food and drinks are prepared for customers. It has specialist staff, but some of you may have to fill in occasionally.",
       "segmentIds": [
-        "seg-084",
         "seg-085",
-        "seg-086"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-027",
-      "part": 2,
-      "startTime": 618.21,
-      "endTime": 642.24,
-      "text": "but in future, you'll enter through the door in the top left-hand corner of the diagram. Please don't confuse this with the emergency exits in the top right-hand corner and bottom left. It's very important that these are kept clear at all times.",
-      "segmentIds": [
+        "seg-086",
         "seg-087",
-        "seg-088",
-        "seg-089"
+        "seg-088"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-028",
+      "id": "long-023",
       "part": 2,
-      "startTime": 642.24,
-      "endTime": 672.5,
-      "text": "Regarding the manager's office, some of you may have attended interviews here, when it was next to the newspaper and magazine sales area. However, it's recently been moved and is now the circular space marked on the right of your plans. When the manager's not on the shop floor, that's where you'll find her.",
+      "startTime": 712.04,
+      "endTime": 735.74,
+      "text": "On the plan, it's shown by the triangular shape to the left of the tinned goods aisle. It's very busy, as many customers like to take a break in the cafe and read a newspaper, before or after doing their shopping. Cleaning equipment is stored in a cupboard. It's the smaller of the two squares marked near the vegetable and fruit section, and can come in very handy.",
       "segmentIds": [
+        "seg-089",
         "seg-090",
         "seg-091",
         "seg-092"
@@ -3093,163 +2828,143 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-029",
+      "id": "long-024",
       "part": 2,
-      "startTime": 672.5,
-      "endTime": 691.39,
-      "text": "The storage and unpacking area. You may be asked to help out here, both before and after opening hours. This is represented by the largest of the four rectangles in the top section of the plan.",
+      "startTime": 735.76,
+      "endTime": 759.68,
+      "text": "You'd be surprised how often we have to mop up squashed tomatoes or grapes. Finally, you'll be pleased to know there's a separate staff relaxation area. This is at the top of your plan, between the frozen goods section and the exit. As well as comfortable chairs, there's also a microwave for heating up snacks and a drinks dispenser. So, let's go there now.",
       "segmentIds": [
         "seg-093",
         "seg-094",
-        "seg-095"
+        "seg-095",
+        "seg-096"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 820.58,
+      "endTime": 823.84,
+      "text": "Hi, are you ready to discuss our presentation? Yeah, sure.",
+      "segmentIds": [
+        "seg-097"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 3,
+      "startTime": 824.42,
+      "endTime": 848.14,
+      "text": "So, what are we going to say about teachers reading picture books with young children? I think we should start with the reasons why teachers use picture books. The journal article we read mentioned several picture books, and why they're popular with teachers. Right. Like, I spy friends. It's a lovely story. Yeah. The children like to find the familiar faces from the fairy tales they know so well.",
+      "segmentIds": [
+        "seg-098",
+        "seg-099",
+        "seg-100",
+        "seg-101",
+        "seg-102"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 3,
+      "startTime": 848.34,
+      "endTime": 871.38,
+      "text": "And they're all doing predictable things. The article said children find this familiarity very comforting. Yes. Now, how about Goodnight Little Rabbit, which has those delightful pictures? I love the way the colours get darker as the book progresses, indicating how evening turns into night. Me too. The article said that's why teachers like it. Very cute.",
+      "segmentIds": [
+        "seg-103",
+        "seg-104",
+        "seg-105",
+        "seg-106",
+        "seg-107"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 3,
+      "startTime": 871.68,
+      "endTime": 891.86,
+      "text": "And a good example of visual subtext. Hard to believe that it came out over 60 years ago. It's still relevant. I really liked what the article said about the boat party. There's a lot of repetition, which I think would be great for vocabulary development. That's true. But apparently it's the images that make it popular with children.",
+      "segmentIds": [
+        "seg-108",
+        "seg-109",
+        "seg-110",
+        "seg-111",
+        "seg-112"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 3,
+      "startTime": 892.1,
+      "endTime": 915.82,
+      "text": "The artist is really well known, and children often ask for her books. Oh, that's good to know. And shall we also include Puppy and Friends? Yes. It sounds like an innocent title, but the article warns that there's a bit of a fright, you know, the one on the last page when the puppy suddenly encounters the scary cat. Teachers like to use this to help children explore their emotions. Sounds good.",
+      "segmentIds": [
+        "seg-113",
+        "seg-114",
+        "seg-115",
+        "seg-116",
+        "seg-117"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-030",
-      "part": 2,
-      "startTime": 691.39,
-      "endTime": 711.53,
-      "text": "It tends to get very busy there at times, so please be careful on entering and leaving this area. There's a kitchen on site, where food and drinks are prepared for customers. It has specialist staff, but some of you may have to fill in occasionally.",
+      "part": 3,
+      "startTime": 916.0,
+      "endTime": 935.36,
+      "text": "Hats and Socks is a good one. It doesn't really have a beginning and an end, does it? Which is unusual. That's why teachers like this one, though. Because it's so different, it's good for children to hear a story that doesn't follow the usual pattern. And the pages are so full of life and colour. A good choice.",
       "segmentIds": [
-        "seg-096",
-        "seg-097",
-        "seg-098"
+        "seg-118",
+        "seg-119",
+        "seg-120",
+        "seg-121",
+        "seg-122"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-031",
-      "part": 2,
-      "startTime": 711.53,
-      "endTime": 729.0,
-      "text": "On the plan, it's shown by the triangular shape to the left of the tinned goods aisle. It's very busy, as many customers like to take a break in the cafe and read a newspaper, before or after doing their shopping. Cleaning equipment is stored in a cupboard.",
+      "part": 3,
+      "startTime": 937.16,
+      "endTime": 958.24,
+      "text": "And for our last one, how about A Family Adventure? This one uses a lot of the same language throughout, which I think can help with letter and word recognition. Teachers say it has a really poetic feel to it. They often sing it to a simple tune. Yes, and it's full of beautiful watercolours too.",
       "segmentIds": [
-        "seg-099",
-        "seg-100",
-        "seg-101"
+        "seg-123",
+        "seg-124",
+        "seg-125",
+        "seg-126",
+        "seg-127"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-032",
-      "part": 2,
-      "startTime": 729.0,
-      "endTime": 751.0,
-      "text": "It's the smaller of the two squares marked near the vegetable and fruit section, and can come in very handy. You'd be surprised how often we have to mop up squashed tomatoes or grapes. Finally, you'll be pleased to know there's a separate staff relaxation area. This is at the top of your plan, between the frozen goods section and the exit.",
+      "part": 3,
+      "startTime": 993.6,
+      "endTime": 1011.92,
+      "text": "In the next part of our presentation, shall we look at some of the other research? I really liked Smith's article about the history of picture books. Picture books haven't been around for that long, of course. And as we know from our reading lists, there's a lot of research on them already. Smith makes some interesting points.",
       "segmentIds": [
-        "seg-102",
-        "seg-103",
-        "seg-104",
-        "seg-105"
+        "seg-128",
+        "seg-129",
+        "seg-130",
+        "seg-131",
+        "seg-132"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-033",
-      "part": 2,
-      "startTime": 751.0,
-      "endTime": 791.73,
-      "text": "As well as comfortable chairs, there's also a microwave for heating up snacks and a drinks dispenser.",
-      "segmentIds": [
-        "seg-106"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-034",
-      "part": 2,
-      "startTime": 791.73,
-      "endTime": 824.0,
-      "text": "So, let's go there now. Hi, are you ready to discuss our presentation? Yeah, sure.",
-      "segmentIds": [
-        "seg-107",
-        "seg-108",
-        "seg-109"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-035",
       "part": 3,
-      "startTime": 824.0,
-      "endTime": 847.7,
-      "text": "So, what are we going to say about teachers reading picture books with young children? I think we should start with the reasons why teachers use picture books. The journal article we read mentioned several picture books, and why they're popular with teachers. Right. Like, I spy friends. It's a lovely story. Yeah. The children like to find the familiar faces from the fairy tales they know so well.",
+      "startTime": 1012.2,
+      "endTime": 1035.24,
+      "text": "Yes, one thing that shocked me was that some people don't consider picture books as proper writing because they don't have enough words in them. Yes, that was unexpected for me as well. I think they should be just as respected as other works of fiction. Smith also mentioned that books from other countries are very popular here, even though they don't show our daily life. I think that's interesting.",
       "segmentIds": [
-        "seg-110",
-        "seg-111",
-        "seg-112",
-        "seg-113",
-        "seg-114"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-036",
-      "part": 3,
-      "startTime": 847.7,
-      "endTime": 871.39,
-      "text": "And they're all doing predictable things. The article said children find this familiarity very comforting. Yes. Now, how about Goodnight Little Rabbit, which has those delightful pictures? I love the way the colours get darker as the book progresses, indicating how evening turns into night. Me too. The article said that's why teachers like it. Very cute.",
-      "segmentIds": [
-        "seg-115",
-        "seg-116",
-        "seg-117",
-        "seg-118",
-        "seg-119"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-037",
-      "part": 3,
-      "startTime": 871.39,
-      "endTime": 891.0,
-      "text": "And a good example of visual subtext. Hard to believe that it came out over 60 years ago. It's still relevant. I really liked what the article said about the boat party. There's a lot of repetition, which I think would be great for vocabulary development. That's true. But apparently it's the images that make it popular with children.",
-      "segmentIds": [
-        "seg-120",
-        "seg-121",
-        "seg-122",
-        "seg-123",
-        "seg-124"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-038",
-      "part": 3,
-      "startTime": 892.0,
-      "endTime": 911.27,
-      "text": "The artist is really well known, and children often ask for her books. Oh, that's good to know. And shall we also include Puppy and Friends? Yes. It sounds like an innocent title, but the article warns that there's a bit of a fright, you know, the one on the last page when the puppy suddenly encounters the scary cat.",
-      "segmentIds": [
-        "seg-125",
-        "seg-126",
-        "seg-127",
-        "seg-128"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-039",
-      "part": 3,
-      "startTime": 911.27,
-      "endTime": 935.0,
-      "text": "Teachers like to use this to help children explore their emotions. Sounds good. Hats and Socks is a good one. It doesn't really have a beginning and an end, does it? Which is unusual. That's why teachers like this one, though. Because it's so different, it's good for children to hear a story that doesn't follow the usual pattern. And the pages are so full of life and colour. A good choice.",
-      "segmentIds": [
-        "seg-129",
-        "seg-130",
-        "seg-131",
-        "seg-132",
-        "seg-133"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-040",
-      "part": 3,
-      "startTime": 936.0,
-      "endTime": 959.6,
-      "text": "OK. And for our last one, how about A Family Adventure? This one uses a lot of the same language throughout, which I think can help with letter and word recognition. Teachers say it has a really poetic feel to it. They often sing it to a simple tune. Yes, and it's full of beautiful watercolours too.",
-      "segmentIds": [
+        "seg-133",
         "seg-134",
         "seg-135",
         "seg-136",
@@ -3258,41 +2973,41 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-041",
+      "id": "long-034",
       "part": 3,
-      "startTime": 959.6,
-      "endTime": 995.93,
-      "text": "Before you hear the rest of the discussion, you have some time to look at questions 27 to 30. Now listen and answer questions 27 to 30. In the next part of our presentation, shall we look at some of the other research?",
+      "startTime": 1035.58,
+      "endTime": 1058.74,
+      "text": "But it's the same for adult fiction too. People want variety. What I didn't realise is how fixed the number of pages is. Me neither. I wasn't expecting that they're so strictly limited to 32 pages. It's important, so let's include it. Alright. Now let's think about other aspects of picture books we want to include in our presentation. How about the characters?",
       "segmentIds": [
         "seg-138",
         "seg-139",
-        "seg-140"
+        "seg-140",
+        "seg-141",
+        "seg-142"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-042",
+      "id": "long-035",
       "part": 3,
-      "startTime": 995.93,
-      "endTime": 1019.0,
-      "text": "I really liked Smith's article about the history of picture books. Picture books haven't been around for that long, of course. And as we know from our reading lists, there's a lot of research on them already. Smith makes some interesting points. Yes, one thing that shocked me was that some people don't consider picture books as proper writing because they don't have enough words in them.",
+      "startTime": 1059.82,
+      "endTime": 1078.42,
+      "text": "Okay, well, a lot of them feature animals, or families often in very traditional roles. But do you think we need to talk about that? For me, the main thing is that they are mostly printed as board books. The cardboard material makes it easy for young children to turn their pages. I agree.",
       "segmentIds": [
-        "seg-141",
-        "seg-142",
         "seg-143",
         "seg-144",
-        "seg-145"
+        "seg-145",
+        "seg-146"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-043",
+      "id": "long-036",
       "part": 3,
-      "startTime": 1020.0,
-      "endTime": 1039.0,
-      "text": "Yes, that was unexpected for me as well. I think they should be just as respected as other works of fiction. Smith also mentioned that books from other countries are very popular here, even though they don't show our daily life. I think that's interesting. But it's the same for adult fiction too. People want variety.",
+      "startTime": 1078.58,
+      "endTime": 1097.16,
+      "text": "And it's essential for children to hold books and learn how they open at the front, and that the text goes in a certain direction. Good point. Why don't we also discuss how culture is important in picture books, like the importance of respecting the elderly? Yes, it's probably different all over the world.",
       "segmentIds": [
-        "seg-146",
         "seg-147",
         "seg-148",
         "seg-149"
@@ -3300,28 +3015,38 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-044",
+      "id": "long-037",
       "part": 3,
-      "startTime": 1040.0,
-      "endTime": 1059.18,
-      "text": "What I didn't realise is how fixed the number of pages is. Me neither. I wasn't expecting that they're so strictly limited to 32 pages. It's important, so let's include it. Alright. Now let's think about other aspects of picture books we want to include in our presentation. How about the characters?",
+      "startTime": 1097.4,
+      "endTime": 1112.18,
+      "text": "Would it be interesting to make a comparison between modern and historical picture books and consider future directions for the genre? It sounds interesting, but I don't have any research on that, so we'd better leave it. So what's next? We don't need.",
       "segmentIds": [
         "seg-150",
-        "seg-151",
-        "seg-152",
-        "seg-153",
-        "seg-154"
+        "seg-151"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-045",
-      "part": 3,
-      "startTime": 1059.18,
-      "endTime": 1077.15,
-      "text": "Okay, well, a lot of them feature animals, or families often in very traditional roles. But do you think we need to talk about that? For me, the main thing is that they are mostly printed as board books. The cardboard material makes it easy for young children to turn their pages. I agree.",
+      "id": "long-038",
+      "part": 4,
+      "startTime": 1203.38,
+      "endTime": 1219.34,
+      "text": "Good morning. Next week is the Geography 331 field trip to the far north of Quebec. Today I'll discuss your trip and your tasks. As you know, you will be close to the Arctic Circle.",
       "segmentIds": [
-        "seg-155",
+        "seg-152",
+        "seg-153",
+        "seg-154",
+        "seg-155"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 4,
+      "startTime": 1219.56,
+      "endTime": 1242.7,
+      "text": "You're going to travel up the James Bay Road through a region that is very remote and uninhabited, yet very beautiful. The highway is 620 km long, but it's fully paved for the entire length. Where the highway begins, there is a roadside office where you must stop.",
+      "segmentIds": [
         "seg-156",
         "seg-157",
         "seg-158"
@@ -3329,11 +3054,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-046",
-      "part": 3,
-      "startTime": 1077.15,
-      "endTime": 1099.29,
-      "text": "And it's essential for children to hold books and learn how they open at the front, and that the text goes in a certain direction. Good point. Why don't we also discuss how culture is important in picture books, like the importance of respecting the elderly?",
+      "id": "long-040",
+      "part": 4,
+      "startTime": 1242.8,
+      "endTime": 1260.34,
+      "text": "The road is remote, so your registration is very important in case of an emergency. The office is staffed 24 hours per day, 7 days per week. You have to sign in to go up the road and sign out upon your return.",
       "segmentIds": [
         "seg-159",
         "seg-160",
@@ -3342,11 +3067,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-047",
-      "part": 3,
-      "startTime": 1099.29,
-      "endTime": 1127.93,
-      "text": "Yes, it's probably different all over the world. Would it be interesting to make a comparison between modern and historical picture books and consider future directions for the genre? It sounds interesting, but I don't have any research on that, so we'd better leave it.",
+      "id": "long-041",
+      "part": 4,
+      "startTime": 1260.8,
+      "endTime": 1285.44,
+      "text": "For additional safety, at different places along the highway, telephones have been installed which connect with staff in the office. Remember, there is no mobile service in this remote area. The first work of your field trip is at the end of the James Bay Road in Radisson, a small town of only 300 inhabitants.",
       "segmentIds": [
         "seg-162",
         "seg-163",
@@ -3355,25 +3080,25 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-048",
-      "part": 3,
-      "startTime": 1127.93,
-      "endTime": 1140.0,
-      "text": "So what's next? We don't need… That is the end of Part 3. You now have 30 seconds to check your answers to Part 3.",
+      "id": "long-042",
+      "part": 4,
+      "startTime": 1285.92,
+      "endTime": 1313.68,
+      "text": "You will stay at Radisson Research Centre, which works with various universities and Hydro-Québec to carry out studies into the ecology of the region. Because the Research Centre and the road exist as a result of the development of hydroelectricity complexes in northern Quebec, Hydro-Québec is responsible for all emergency assistance and security of all visitors.",
       "segmentIds": [
         "seg-165",
-        "seg-166"
+        "seg-166",
+        "seg-167"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-049",
+      "id": "long-043",
       "part": 4,
-      "startTime": 1140.0,
-      "endTime": 1163.37,
-      "text": "You will hear a geography professor telling his class about an upcoming field trip to the far north of Quebec in Canada. First, you have some time to look at questions 31 to 40. Now listen carefully and answer questions 31 to 40. Good morning. Next week is the Geography 331 field trip to the far north of Quebec.",
+      "startTime": 1314.24,
+      "endTime": 1332.74,
+      "text": "Your first few days at the Centre will be spent attending lectures about their past research. You will hear that they have paid particular attention to any disturbance to the land caused by insects. After that, you will visit the various outpost stations.",
       "segmentIds": [
-        "seg-167",
         "seg-168",
         "seg-169",
         "seg-170"
@@ -3381,193 +3106,92 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-050",
+      "id": "long-044",
       "part": 4,
-      "startTime": 1163.37,
-      "endTime": 1188.57,
-      "text": "Today I'll discuss your trip and your tasks. As you know, you will be close to the Arctic Circle. You're going to travel up the James Bay Road through a region that is very remote and uninhabited, yet very beautiful.",
+      "startTime": 1333.7,
+      "endTime": 1345.64,
+      "text": "There are three of them, and when you visit them, you will be able to observe how data on the varying patterns of the climate is collected and published for scientific research.",
       "segmentIds": [
         "seg-171",
-        "seg-172",
-        "seg-173"
+        "seg-172"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-051",
+      "id": "long-045",
       "part": 4,
-      "startTime": 1188.57,
-      "endTime": 1215.3,
-      "text": "The highway is 620 km long, but it's fully paved for the entire length. Where the highway begins, there is a roadside office where you must stop. The road is remote, so your registration is very important in case of an emergency.",
+      "startTime": 1349.84,
+      "endTime": 1369.28,
+      "text": "The second part of your field trip is back down the James Bay Road to the Trans-Taga Road, which is the northernmost continuous unpaved road in eastern North America. In fact, it's very uneven gravel, so drivers have to be very careful.",
       "segmentIds": [
+        "seg-173",
         "seg-174",
-        "seg-175",
-        "seg-176"
+        "seg-175"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-052",
+      "id": "long-046",
       "part": 4,
-      "startTime": 1215.3,
-      "endTime": 1245.44,
-      "text": "The office is staffed 24 hours per day, 7 days per week. You have to sign in to go up the road and sign out upon your return. For additional safety, at different places along the highway, telephones have been installed which connect with staff in the office.",
+      "startTime": 1369.68,
+      "endTime": 1389.14,
+      "text": "Hydro-Québec cautions that driving over rocks on the rough road may cause severe damage to the car. Any breakdown is serious, as repairs are costly. Along the way, you will be stopping at two hydroelectric generating stations, each on a different river.",
       "segmentIds": [
+        "seg-176",
         "seg-177",
-        "seg-178",
-        "seg-179"
+        "seg-178"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-053",
+      "id": "long-047",
       "part": 4,
-      "startTime": 1245.44,
-      "endTime": 1283.94,
-      "text": "Remember, there is no mobile service in this remote area. The first work of your field trip is at the end of the James Bay Road in Radisson, a small town of only 300 inhabitants. You will stay at Radisson Research Centre, which works with various universities and Hydro-Québec to carry out studies into the ecology of the region.",
+      "startTime": 1389.5,
+      "endTime": 1409.12,
+      "text": "There, you will meet with engineers who will explain and demonstrate how rainfall has an impact on producing electric energy. Your last two days of the trip will be spent camping out in the taiga on the Canadian Shield. Taiga is the Russian term for a type of forest.",
       "segmentIds": [
+        "seg-179",
         "seg-180",
-        "seg-181",
-        "seg-182"
+        "seg-181"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-054",
+      "id": "long-048",
       "part": 4,
-      "startTime": 1283.94,
-      "endTime": 1320.0,
-      "text": "Because the Research Centre and the road exist as a result of the development of hydroelectricity complexes in northern Quebec, Hydro-Québec is responsible for all emergency assistance and security of all visitors. Your first few days at the Centre will be spent attending lectures about their past research.",
+      "startTime": 1410.48,
+      "endTime": 1438.42,
+      "text": "You will find the region is relatively poor in the number of plant species, yet there is a great variety of wildlife that can be seen. You'll go to an area that once had forest fires, and you'll see how the landscape has naturally small rocky hills which confine the lower wetlands. These low-lying areas are called muskeg, which is made up of slowly decomposing plants.",
       "segmentIds": [
+        "seg-182",
         "seg-183",
-        "seg-184",
-        "seg-185"
+        "seg-184"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-055",
+      "id": "long-049",
       "part": 4,
-      "startTime": 1321.0,
-      "endTime": 1335.93,
-      "text": "You will hear that they have paid particular attention to any disturbance to the land caused by insects. After that, you will visit the various outpost stations. There are three of them, and when you visit them,",
+      "startTime": 1439.04,
+      "endTime": 1460.74,
+      "text": "It is not safe to walk on it, as it has pools that are not easily seen, so keep to the rocks. The muskeg is home to many small birds and waterfowl. In fact, there are at least 60 varieties, so keep your waterproof digital cameras handy so you can take plenty of pictures.",
       "segmentIds": [
+        "seg-185",
         "seg-186",
-        "seg-187",
-        "seg-188"
+        "seg-187"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-056",
+      "id": "long-050",
       "part": 4,
-      "startTime": 1335.93,
-      "endTime": 1363.38,
-      "text": "you will be able to observe how data on the varying patterns of the climate is collected and published for scientific research. The second part of your field trip is back down the James Bay Road to the Trans-Taga Road, which is the northernmost continuous unpaved road in eastern North America.",
+      "startTime": 1461.08,
+      "endTime": 1483.92,
+      "text": "Then we will have documentation of the existing waterfowl, as some are becoming extinct. Water is a problem in this area, so you'll also be collecting test tubes of water to bring back to our research lab for analysis. It needs to be monitored for pollution that may be caused by rainfall coming from the south.",
       "segmentIds": [
+        "seg-188",
         "seg-189",
-        "seg-190",
-        "seg-191"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-057",
-      "part": 4,
-      "startTime": 1363.38,
-      "endTime": 1380.75,
-      "text": "In fact, it's very uneven gravel, so drivers have to be very careful. Hydro-Québec cautions that driving over rocks on the rough road may cause severe damage to the car. Any breakdown is serious, as repairs are costly.",
-      "segmentIds": [
-        "seg-192",
-        "seg-193",
-        "seg-194"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-058",
-      "part": 4,
-      "startTime": 1380.75,
-      "endTime": 1405.88,
-      "text": "Along the way, you will be stopping at two hydroelectric generating stations, each on a different river. There, you will meet with engineers who will explain and demonstrate how rainfall has an impact on producing electric energy. Your last two days of the trip will be spent camping out in the taiga on the Canadian Shield.",
-      "segmentIds": [
-        "seg-195",
-        "seg-196",
-        "seg-197"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-059",
-      "part": 4,
-      "startTime": 1405.88,
-      "endTime": 1431.69,
-      "text": "Taiga is the Russian term for a type of forest. You will find the region is relatively poor in the number of plant species, yet there is a great variety of wildlife that can be seen. You'll go to an area that once had forest fires, and you'll see how the landscape has naturally small rocky hills which confine the lower wetlands.",
-      "segmentIds": [
-        "seg-198",
-        "seg-199",
-        "seg-200"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-060",
-      "part": 4,
-      "startTime": 1431.69,
-      "endTime": 1450.22,
-      "text": "These low-lying areas are called muskeg, which is made up of slowly decomposing plants. It is not safe to walk on it, as it has pools that are not easily seen, so keep to the rocks. The muskeg is home to many small birds and waterfowl.",
-      "segmentIds": [
-        "seg-201",
-        "seg-202",
-        "seg-203"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-061",
-      "part": 4,
-      "startTime": 1450.22,
-      "endTime": 1467.0,
-      "text": "In fact, there are at least 60 varieties, so keep your waterproof digital cameras handy so you can take plenty of pictures. Then we will have documentation of the existing waterfowl, as some are becoming extinct.",
-      "segmentIds": [
-        "seg-204",
-        "seg-205"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-062",
-      "part": 4,
-      "startTime": 1469.0,
-      "endTime": 1496.86,
-      "text": "Water is a problem in this area, so you'll also be collecting test tubes of water to bring back to our research lab for analysis.",
-      "segmentIds": [
-        "seg-206"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-063",
-      "part": 4,
-      "startTime": 1496.86,
-      "endTime": 1535.73,
-      "text": "It needs to be monitored for pollution that may be caused by rainfall coming from the south. That is the end of part four. You now have one minute to check your answers to part four.",
-      "segmentIds": [
-        "seg-207",
-        "seg-208",
-        "seg-209"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-064",
-      "part": 4,
-      "startTime": 1535.73,
-      "endTime": 1561.0,
-      "text": "That is the end of the listening test. You now have 10 minutes to transfer your answers to the listening answer sheet.",
-      "segmentIds": [
-        "seg-210",
-        "seg-211"
+        "seg-190"
       ],
       "timestampSource": "exact"
     }

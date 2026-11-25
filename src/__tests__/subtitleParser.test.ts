@@ -41,4 +41,19 @@ I'm calling about wedding arrangements.`;
     expect(longSegs[0].part).toBe(2);
     expect(longSegs[0].segmentIds.length).toBeGreaterThanOrEqual(2);
   });
+
+  it('splits long dictation groups cleanly across silence gaps > 2.5s within the same Part', () => {
+    const shortSegs = [
+      { id: 'seg-001', part: 1 as const, startTime: 20, endTime: 25, text: 'First sentence before pause.', timestampSource: 'exact' as const },
+      { id: 'seg-002', part: 1 as const, startTime: 25.4, endTime: 30, text: 'Second sentence before pause.', timestampSource: 'exact' as const },
+      { id: 'seg-003', part: 1 as const, startTime: 60.5, endTime: 65, text: 'First sentence after 30s silence.', timestampSource: 'exact' as const },
+      { id: 'seg-004', part: 1 as const, startTime: 65.3, endTime: 71, text: 'Second sentence after 30s silence.', timestampSource: 'exact' as const },
+    ];
+    const longSegs = buildLongSegmentsFromShort(shortSegs);
+    expect(longSegs).toHaveLength(2);
+    expect(longSegs[0].segmentIds).toEqual(['seg-001', 'seg-002']);
+    expect(longSegs[0].endTime).toBe(30);
+    expect(longSegs[1].segmentIds).toEqual(['seg-003', 'seg-004']);
+    expect(longSegs[1].startTime).toBe(60.5);
+  });
 });

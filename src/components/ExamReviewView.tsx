@@ -115,12 +115,10 @@ function resolveQuestionBounds(
     q.evidenceEndTime > q.evidenceStartTime + 0.2;
 
   if (hasValidRange) {
-    const start = q.timestampEdited
-      ? q.evidenceStartTime
-      : Math.max(0, Number((q.evidenceStartTime - 0.5).toFixed(2)));
-    const end = q.timestampEdited
-      ? Math.min(dur, q.evidenceEndTime)
-      : Math.min(dur, Number((q.evidenceEndTime + 0.6).toFixed(2)));
+    const padBefore = q.timestampEdited ? 0 : testData.hasExactTimestamps ? 0.2 : 0.5;
+    const padAfter = q.timestampEdited ? 0 : testData.hasExactTimestamps ? 0.25 : 0.6;
+    const start = Math.max(0, Number((q.evidenceStartTime - padBefore).toFixed(2)));
+    const end = Math.min(dur, Number((q.evidenceEndTime + padAfter).toFixed(2)));
     return {
       start,
       end: Math.max(start + 0.5, end),
@@ -160,26 +158,38 @@ function findTranscriptContext(
   }
 
   const quoteNorm = q.evidenceQuote.trim().toLowerCase();
+  const hasBounds =
+    Number.isFinite(q.evidenceStartTime) &&
+    Number.isFinite(q.evidenceEndTime) &&
+    q.evidenceEndTime > q.evidenceStartTime;
+  const mid = hasBounds ? (q.evidenceStartTime + q.evidenceEndTime) / 2 : 0;
   let matchIdx = -1;
 
-  if (quoteNorm.length >= 10) {
-    matchIdx = pool.findIndex((s) => {
-      const sNorm = s.text.trim().toLowerCase();
-      return (
-        quoteNorm.includes(sNorm) ||
-        sNorm.includes(quoteNorm.slice(0, Math.min(40, quoteNorm.length)))
-      );
-    });
-  }
-
-  if (matchIdx === -1 && q.evidenceEndTime > q.evidenceStartTime) {
-    const mid = (q.evidenceStartTime + q.evidenceEndTime) / 2;
-    let bestDist = Infinity;
+  if (quoteNorm.length >= 10 || hasBounds) {
+    let bestScore = -Infinity;
     pool.forEach((s, i) => {
-      const sMid = (s.startTime + s.endTime) / 2;
-      const dist = Math.abs(sMid - mid);
-      if (dist < bestDist) {
-        bestDist = dist;
+      const sNorm = s.text.trim().toLowerCase();
+      let sc = 0;
+      if (quoteNorm.length >= 10 && sNorm.length > 0) {
+        if (sNorm === quoteNorm) {
+          sc += 100;
+        } else if (
+          sNorm.length >= 15 &&
+          (quoteNorm.includes(sNorm) ||
+            sNorm.includes(quoteNorm.slice(0, Math.min(40, quoteNorm.length))))
+        ) {
+          sc += 65;
+        } else if (quoteNorm.includes(sNorm)) {
+          sc += 15;
+        }
+      }
+      if (hasBounds) {
+        const sMid = (s.startTime + s.endTime) / 2;
+        const dist = Math.abs(sMid - mid);
+        sc += Math.max(0, 40 - dist * 0.8);
+      }
+      if (sc > bestScore) {
+        bestScore = sc;
         matchIdx = i;
       }
     });

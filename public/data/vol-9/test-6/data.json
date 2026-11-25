@@ -12,7 +12,7 @@
   "audioUrl": "./data/vol-9/test-6/audio.mp3",
   "audioDurationSec": 1506.59,
   "hasExactTimestamps": true,
-  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "timestampNote": "Mốc thời gian đã được căn chỉnh trực tiếp từ audio gốc ở mức từng từ (acoustic forced alignment).",
   "parts": [
     {
       "partNumber": 1,
@@ -21,8 +21,8 @@
         1,
         10
       ],
-      "startTime": 0.0,
-      "endTime": 407.0,
+      "startTime": 1.58,
+      "endTime": 328.98,
       "topicHint": "You will hear a telephone conversation between a woman and a staff member of an airline."
     },
     {
@@ -32,8 +32,8 @@
         11,
         20
       ],
-      "startTime": 407.0,
-      "endTime": 770.0,
+      "startTime": 335.5,
+      "endTime": 716.86,
       "topicHint": "You will hear the manager of the Linwood apartment complex introducing the complex to a group of new residents."
     },
     {
@@ -43,9 +43,9 @@
         21,
         30
       ],
-      "startTime": 770.0,
-      "endTime": 1154.0,
-      "topicHint": "You will hear two Design and Technology students, called Max and Izzy, planning their presentation about the history and development of the bicycle. First, you have some time to lo"
+      "startTime": 719.4,
+      "endTime": 1116.2,
+      "topicHint": "You will hear two Design and Technology students, called Max and Izzy, planning their presentation about the history and development of the bicycle."
     },
     {
       "partNumber": 4,
@@ -54,8 +54,8 @@
         31,
         40
       ],
-      "startTime": 1154.0,
-      "endTime": 1506.59,
+      "startTime": 1146.16,
+      "endTime": 1492.34,
       "topicHint": "You will hear part of a lecture about archaeological research in the Patagonia region of South America."
     }
   ],
@@ -63,16 +63,16 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "ake a booking using the internet Booking details Name: Janet 1 ………….. Ticket details: one adult and three children (Wellington to Christchurch) – four 2 …………… tickets Flight details: November 10th – 15th Time: departing at 3 ………… a.m. Details of the problem • the website changes the rate for one child • the website kee",
+      "promptContext": "Name: Janet",
       "answerRaw": "Quigley",
       "canonicalAnswer": "Quigley",
       "acceptedAnswers": [
         "Quigley"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "So let me just take down your full name. It's Janet Quigley.",
-      "evidenceStartTime": 55.0,
-      "evidenceEndTime": 61.67,
+      "evidenceQuote": "So let me just take down your full name. It's Janet Quigley. That's Q-U-I-G-L-E-Y. Thank you.",
+      "evidenceStartTime": 53.9,
+      "evidenceEndTime": 64.32,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"Quigley\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -80,16 +80,16 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "adult and three children (Wellington to Christchurch) – four 2 …………… tickets Flight details: November 10th – 15th Time: departing at 3 ………… a.m. Details of the problem • the website changes the rate for one child • the website keep giving the customer 4 ………….. messages Customer informed that Kiwi Air policy: • allows n",
+      "promptContext": ".. Ticket details: one adult and three children (Wellington to Christchurch) – four",
       "answerRaw": "return",
       "canonicalAnswer": "return",
       "acceptedAnswers": [
         "return"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "We're wanting to fly from Wellington to Christchurch. Not one way, I mean, but return.",
-      "evidenceStartTime": 76.0,
-      "evidenceEndTime": 81.93,
+      "evidenceQuote": "Not one way, I mean, but return. So it's just a simple booking.",
+      "evidenceStartTime": 77.94,
+      "evidenceEndTime": 83.06,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -108,8 +108,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "We'd be leaving at 11.45 in the morning, arriving into Christchurch at 12.30. Mm-hm.",
-      "evidenceStartTime": 106.62,
-      "evidenceEndTime": 113.0,
+      "evidenceStartTime": 105.66,
+      "evidenceEndTime": 113.28,
       "paraphrases": [],
       "distractors": [
         "Có số gây nhiễu (12.30) xuất hiện sát đáp án chuẩn '11.45'."
@@ -119,7 +119,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "he rate for one child • the website keep giving the customer 4 ………….. messages Customer informed that Kiwi Air policy: • allows no more than 5 ………… child fares per adult (this applies to domestic flights only) Customer’s reasons for complaint • none of her children are 6 ……….. years old or older • child passengers requi",
+      "promptContext": "a.m. Details of the problem • the website changes the rate for one child • the website keep giving the customer",
       "answerRaw": "error",
       "canonicalAnswer": "error",
       "acceptedAnswers": [
@@ -127,8 +127,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "And each time I change it back, I've been getting error messages telling me to call you directly.",
-      "evidenceStartTime": 139.82,
-      "evidenceEndTime": 146.13,
+      "evidenceStartTime": 138.88,
+      "evidenceEndTime": 144.22,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"error\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -136,7 +136,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "ustomer informed that Kiwi Air policy: • allows no more than 5 ………… child fares per adult (this applies to domestic flights only) Customer’s reasons for complaint • none of her children are 6 ……….. years old or older • child passengers require less 7 …………….. • the rule is unfair for large families and 8 ………….. groups Cus",
+      "promptContext": ".. messages Customer informed that Kiwi Air policy: • allows no more than",
       "answerRaw": "two",
       "canonicalAnswer": "two",
       "acceptedAnswers": [
@@ -144,8 +144,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "It's Kiwi Air policy, I'm afraid, to allow a maximum of two children to travel on childfares with just the one adult accompanying them.",
-      "evidenceStartTime": 197.0,
-      "evidenceEndTime": 204.92,
+      "evidenceStartTime": 195.92,
+      "evidenceEndTime": 203.2,
       "paraphrases": [],
       "distractors": [
         "từ chối hoặc báo không khả dụng ('I'm afraid')"
@@ -155,27 +155,27 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "Customer’s reasons for complaint • none of her children are 6 ……….. years old or older • child passengers require less 7 …………….. • the rule is unfair for large families and 8 ………….. groups Customer invited to send written complaint • letter to go to the 9 …………… • reply predicted within a week • reference number: 10 ………",
+      "promptContext": "child fares per adult (this applies to domestic flights only) Customer’s reasons for complaint • none of her children are",
       "answerRaw": "12",
       "canonicalAnswer": "12",
       "acceptedAnswers": [
         "12"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "But an adult fare is for someone over the age of 12. My children are only 11, 8 and 5. It's not fair to charge them for an adult rate.",
-      "evidenceStartTime": 226.74,
-      "evidenceEndTime": 236.04,
+      "evidenceQuote": "But an adult fare is for someone over the age of 12. My children are only 11, 8 and 5.",
+      "evidenceStartTime": 225.58,
+      "evidenceEndTime": 232.42,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
-        "câu phủ định ('not') loại trừ phương án bẫy"
+        "giới hạn phạm vi bằng 'only'"
       ],
       "explanationVi": "Đáp án chuẩn cần điền là \"12\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 7,
       "part": 1,
-      "promptContext": "e 6 ……….. years old or older • child passengers require less 7 …………….. • the rule is unfair for large families and 8 ………….. groups Customer invited to send written complaint • letter to go to the 9 …………… • reply predicted within a week • reference number: 10 …………..",
+      "promptContext": ".. years old or older • child passengers require less",
       "answerRaw": "food",
       "canonicalAnswer": "food",
       "acceptedAnswers": [
@@ -183,8 +183,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Besides, they actually eat less than an adult, so they wouldn't consume as much food on the plane.",
-      "evidenceStartTime": 236.04,
-      "evidenceEndTime": 242.14,
+      "evidenceStartTime": 235.58,
+      "evidenceEndTime": 241.62,
       "paraphrases": [],
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')",
@@ -195,7 +195,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "e less 7 …………….. • the rule is unfair for large families and 8 ………….. groups Customer invited to send written complaint • letter to go to the 9 …………… • reply predicted within a week • reference number: 10 …………..",
+      "promptContext": ".. • the rule is unfair for large families and",
       "answerRaw": "school",
       "canonicalAnswer": "school",
       "acceptedAnswers": [
@@ -203,8 +203,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "And what about school groups? That wouldn't be fair. Well, madam, yes, I can see your point.",
-      "evidenceStartTime": 272.71,
-      "evidenceEndTime": 278.18,
+      "evidenceStartTime": 271.5,
+      "evidenceEndTime": 277.56,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -214,7 +214,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "mer invited to send written complaint • letter to go to the 9 …………… • reply predicted within a week • reference number: 10 …………..",
+      "promptContext": ".. groups Customer invited to send written complaint • letter to go to the",
       "answerRaw": "manager",
       "canonicalAnswer": "manager",
       "acceptedAnswers": [
@@ -222,8 +222,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Just address it to the manager. Then it will reach the right person. That's fine.",
-      "evidenceStartTime": 289.22,
-      "evidenceEndTime": 294.4,
+      "evidenceStartTime": 287.74,
+      "evidenceEndTime": 292.68,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"manager\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -231,19 +231,21 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "ristchurch) – four 2 …………… tickets Flight details: November 10th – 15th Time: departing at 3 ………… a.m. Details of the problem • the website changes the rate for one child • the website keep giving the customer 4 ………….. messages Customer informed that Kiwi Air policy: • allows no more than 5 ………… child fares per adult (t",
+      "promptContext": "tickets Flight details: November th – 15th",
       "answerRaw": "GBK8422",
       "canonicalAnswer": "GBK8422",
       "acceptedAnswers": [
         "GBK8422"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "It's GBK8422. All right, then. I'll put that in the letter.",
-      "evidenceStartTime": 318.0,
-      "evidenceEndTime": 325.0,
+      "evidenceQuote": "Um, well, at busy times it sometimes takes a month, but it's low season now, so you should expect to receive a response probably inside a week. You need to take down this reference number. I'll just give it to you. It's GBK8422. All right, then.",
+      "evidenceStartTime": 302.2,
+      "evidenceEndTime": 322.16,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"GBK8422\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"GBK8422\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 11,
@@ -255,9 +257,9 @@
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "You will hear the manager of the Linwood apartment complex introducing the complex to a group of new residents.",
-      "evidenceStartTime": 407.0,
-      "evidenceEndTime": 408.0,
+      "evidenceQuote": "Thank you for coming to the meeting. My name is Bob McDonald, and I'm the manager of the Linwood apartment complex.",
+      "evidenceStartTime": 451.66,
+      "evidenceEndTime": 457.76,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -265,16 +267,16 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "complex completed? A 1 year ago B 3 years ago C 5 years ago 12 What does the manager say he enjoys most about the job? A resolving problems between residents B dealing with financial matters C organizing building maintenance 13 Regarding restrictions in the complex, the manager says A only some types of flowers can be pl",
+      "promptContext": "What does the manager say he enjoys most about the job? A resolving problems between residents B dealing with financial matters C organizing building maintenance",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "but there was a small delay initially while plans and administration were completed. Work finally started three years later, and one year ago the complex was finished and received its first residents,",
-      "evidenceStartTime": 470.46,
-      "evidenceEndTime": 482.22,
+      "evidenceQuote": "The council first discussed the concept of this project five years ago, but there was a small delay initially while plans and administration were completed. Work finally started three years later, and one year ago the complex was finished and received its first residents, and I'm happy to say it's been a great place to live ever since.",
+      "evidenceStartTime": 466.32,
+      "evidenceEndTime": 483.98,
       "paraphrases": [
         {
           "questionTerm": "job",
@@ -290,53 +292,58 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": "ing with financial matters C organizing building maintenance 13 Regarding restrictions in the complex, the manager says A only some types of flowers can be planted B only the interiors of apartments can be painted C only certain colors can be used on the walls 14 What does the manager ask residents to do for the welcome p",
+      "promptContext": "Regarding restrictions in the complex, the manager says A only some types of flowers can be planted B only the interiors of apartments can be painted C only certain colors can be used on the walls",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "but there was a small delay initially while plans and administration were completed. Work finally started three years later, and one year ago the complex was finished and received its first residents,",
-      "evidenceStartTime": 470.46,
-      "evidenceEndTime": 482.22,
+      "evidenceQuote": "You're welcome to redecorate inside your apartment if you don't like the colour, but you can't change the outward appearance of the building in any way, and that also includes altering the plantings around the complex by putting in your own trees or flowers.",
+      "evidenceStartTime": 515.58,
+      "evidenceEndTime": 528.6,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
-        "thông tin ban đầu ('initially') đã được điều chỉnh"
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "an be painted C only certain colors can be used on the walls 14 What does the manager ask residents to do for the welcome party? A bring food B prepare name tags C decorate the hall Questions 15–20 Label the map below Choose the correct letter, A - K, next to questions 15 - 20. A B C D E F G H I J K 15 Shop 16 Barbecue ar",
+      "promptContext": "What does the manager ask residents to do for the welcome party? A bring food B prepare name tags C decorate the hall Questions 15–20 Label the map below Choose the correct letter, A - K, next to questions 15 - 20. A B C D E F G H I J K",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Now some of you were asking earlier about the welcome party.",
-      "evidenceStartTime": 529.7,
-      "evidenceEndTime": 532.66,
-      "paraphrases": [],
+      "evidenceQuote": "That will be held as planned next Friday evening, and we'll be doing all the catering so that there are no worries about food,",
+      "evidenceStartTime": 532.44,
+      "evidenceEndTime": 538.7,
+      "paraphrases": [
+        {
+          "questionTerm": "food",
+          "audioTerm": "catering"
+        }
+      ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'food' ↔ 'catering'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "ter, A - K, next to questions 15 - 20. A B C D E F G H I J K 15 Shop 16 Barbecue area 17 Childcare center 18 Laundry 19 Recreation room 20 Hall",
+      "promptContext": "K Shop",
       "answerRaw": "F",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
         "F"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "One popular attraction, especially in summer, is the barbecue area, so if you walk from the car park and through the arcade,",
-      "evidenceStartTime": 632.91,
-      "evidenceEndTime": 640.52,
+      "evidenceQuote": "When you first arrive, you'll probably want to know where the shop is,",
+      "evidenceStartTime": 619.56,
+      "evidenceEndTime": 622.26,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"F\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -344,16 +351,16 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "K, next to questions 15 - 20. A B C D E F G H I J K 15 Shop 16 Barbecue area 17 Childcare center 18 Laundry 19 Recreation room 20 Hall",
+      "promptContext": "Shop Barbecue area",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "One popular attraction, especially in summer, is the barbecue area, so if you walk from the car park and through the arcade,",
-      "evidenceStartTime": 632.91,
-      "evidenceEndTime": 640.52,
+      "evidenceQuote": "so if you go up from the car park into the arcade, you'll find the shop at the end on the right, opposite the internet cafe.",
+      "evidenceStartTime": 622.66,
+      "evidenceEndTime": 630.06,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -361,16 +368,16 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "ions 15 - 20. A B C D E F G H I J K 15 Shop 16 Barbecue area 17 Childcare center 18 Laundry 19 Recreation room 20 Hall",
+      "promptContext": "Barbecue area Childcare center",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
         "D"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "One popular attraction, especially in summer, is the barbecue area, so if you walk from the car park and through the arcade,",
-      "evidenceStartTime": 632.91,
-      "evidenceEndTime": 640.52,
+      "evidenceQuote": "One popular attraction, especially in summer, is the barbecue area,",
+      "evidenceStartTime": 631.52,
+      "evidenceEndTime": 635.66,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -378,16 +385,16 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "D E F G H I J K 15 Shop 16 Barbecue area 17 Childcare center 18 Laundry 19 Recreation room 20 Hall",
+      "promptContext": "Childcare center Laundry",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
         "E"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "One popular attraction, especially in summer, is the barbecue area, so if you walk from the car park and through the arcade,",
-      "evidenceStartTime": 632.91,
-      "evidenceEndTime": 640.52,
+      "evidenceQuote": "Now if you need to use the laundry, walk up from the car park and into the arcade, look on your left and you'll see the gym,",
+      "evidenceStartTime": 663.22,
+      "evidenceEndTime": 669.84,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -395,7 +402,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": "J K 15 Shop 16 Barbecue area 17 Childcare center 18 Laundry 19 Recreation room 20 Hall",
+      "promptContext": "Laundry Recreation room",
       "answerRaw": "H",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -403,8 +410,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "You all need to know where the recreation room is. Head north from the car park and take the first turning on the right.",
-      "evidenceStartTime": 675.0,
-      "evidenceEndTime": 681.17,
+      "evidenceStartTime": 673.92,
+      "evidenceEndTime": 680.48,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"H\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -412,16 +419,16 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "becue area 17 Childcare center 18 Laundry 19 Recreation room 20 Hall",
+      "promptContext": "Recreation room Hall",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "You all need to know where the recreation room is. Head north from the car park and take the first turning on the right.",
-      "evidenceStartTime": 675.0,
-      "evidenceEndTime": 681.17,
+      "evidenceQuote": "Finally, for the welcome party in the hall next week, from the car park, go straight on to the end of the arcade,",
+      "evidenceStartTime": 688.88,
+      "evidenceEndTime": 695.52,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -429,16 +436,16 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "e the correct answer. The history and development of bicycle 21 Izzy believes the ‘safety bicycle’ is significant because it was A specifically made for children to use. B the first bicycle to be similar to modern bicycles. C designed to travel at higher speeds than previous models. 22 What effect of bicycles on the 19th-",
+      "promptContext": "Izzy believes the ‘safety bicycle’ is significant because it was A specifically made for children to use. B the first bicycle to be similar to modern bicycles. C designed to travel at higher speeds than previous models.",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "So, our topic's the bicycle, its history and its effect on society in the Western world.",
-      "evidenceStartTime": 777.67,
-      "evidenceEndTime": 784.0,
+      "evidenceQuote": "I think the model they called the safety bicycle is more significant. Yes.",
+      "evidenceStartTime": 790.4,
+      "evidenceEndTime": 795.52,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -446,19 +453,21 @@
     {
       "number": 22,
       "part": 3,
-      "promptContext": "C designed to travel at higher speeds than previous models. 22 What effect of bicycles on the 19th-century working classes does Max want to highlight? A how people spent their free time B where people were employed C the way people found romantic partners 23 What will Max and Izzy stress about attitudes to bicycles in th",
+      "promptContext": "What effect of bicycles on the 19th-century working classes does Max want to highlight? A how people spent their free time B where people were employed C the way people found romantic partners 23 What will Max and Izzy stress about attitudes to bicycles in the 20th century? A The popularity of cars reduced the status of bicycles in the 1950s. B New designs led to an increase in sales of bicycles in the 1960s. C An interest in fitness promoted demand for bicycles in the 1980s.",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "So what should we stress about changing attitudes to bicycles in the 20th century?",
-      "evidenceStartTime": 859.68,
-      "evidenceEndTime": 865.22,
+      "evidenceQuote": "It was an important development, as it was the first model that actually looked like a bike you'd see today. Right. And the development of that bicycle at the end of the 19th century had an enormous impact on the working classes.",
+      "evidenceStartTime": 813.54,
+      "evidenceEndTime": 827.54,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
     },
     {
       "number": 23,
@@ -471,8 +480,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "So what should we stress about changing attitudes to bicycles in the 20th century?",
-      "evidenceStartTime": 859.68,
-      "evidenceEndTime": 865.22,
+      "evidenceStartTime": 858.8,
+      "evidenceEndTime": 863.98,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -480,7 +489,7 @@
     {
       "number": 24,
       "part": 3,
-      "promptContext": "terest in fitness promoted demand for bicycles in the 1980s. 24 What does Max say about a scheme to provide free bikes to school pupils? A He wants to see more evidence of its benefits. B He thinks it could cost the government a lot of money. C He questions whether all parents would support it. Questions 25–30 Which reaso",
+      "promptContext": "What does Max say about a scheme to provide free bikes to school pupils? A He wants to see more evidence of its benefits. B He thinks it could cost the government a lot of money. C He questions whether all parents would support it. Questions 25–30 Which reason did each of the following people give for using a bike? Reasons People David",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -488,8 +497,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "That led to people losing interest in bikes for a while.",
-      "evidenceStartTime": 878.0,
-      "evidenceEndTime": 881.73,
+      "evidenceStartTime": 878.14,
+      "evidenceEndTime": 881.3,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -497,7 +506,7 @@
     {
       "number": 25,
       "part": 3,
-      "promptContext": "following people give for using a bike? Reasons People David 25 ………………. Marlene 26 ……………. Annabelle 27 …………. Rashid 28 …………….. Saira 29 ………………. Giovanni 30 ………….. A Cycling is a convenient way to travel. B Bikes are environmentally friendly. C Riding a bike can be a social activity. D Bikes are a cheap form of transpo",
+      "promptContext": "David",
       "answerRaw": "C Riding a bike can be a social activity.",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -507,8 +516,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "I hadn't realised the impact that people's love of motorised transport had on the bike's reputation.",
-      "evidenceStartTime": 881.73,
-      "evidenceEndTime": 888.4,
+      "evidenceStartTime": 881.48,
+      "evidenceEndTime": 886.96,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -518,7 +527,7 @@
     {
       "number": 26,
       "part": 3,
-      "promptContext": "ve for using a bike? Reasons People David 25 ………………. Marlene 26 ……………. Annabelle 27 …………. Rashid 28 …………….. Saira 29 ………………. Giovanni 30 ………….. A Cycling is a convenient way to travel. B Bikes are environmentally friendly. C Riding a bike can be a social activity. D Bikes are a cheap form of transport. E Cycling is a",
+      "promptContext": ". Marlene",
       "answerRaw": "G Riding a bike is good exercise.",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -527,19 +536,17 @@
         "Riding a bike is good exercise."
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I hadn't realised the impact that people's love of motorised transport had on the bike's reputation.",
-      "evidenceStartTime": 881.73,
-      "evidenceEndTime": 888.4,
+      "evidenceQuote": "Then the fold-up bike and others came along in the 60s, which helped sales pick up.",
+      "evidenceStartTime": 890.56,
+      "evidenceEndTime": 895.52,
       "paraphrases": [],
-      "distractors": [
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
-      ],
-      "explanationVi": "Đáp án đúng là phương án G Riding a bike is good exercise.. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án G Riding a bike is good exercise.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "Reasons People David 25 ………………. Marlene 26 ……………. Annabelle 27 …………. Rashid 28 …………….. Saira 29 ………………. Giovanni 30 ………….. A Cycling is a convenient way to travel. B Bikes are environmentally friendly. C Riding a bike can be a social activity. D Bikes are a cheap form of transport. E Cycling is a way to spend time o",
+      "promptContext": ". Annabelle",
       "answerRaw": "D Bikes are a cheap form of transport.",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -548,19 +555,19 @@
         "Bikes are a cheap form of transport."
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I hadn't realised the impact that people's love of motorised transport had on the bike's reputation.",
-      "evidenceStartTime": 881.73,
-      "evidenceEndTime": 888.4,
+      "evidenceQuote": "but the bike had lost its position as a key mode of transport. Right.",
+      "evidenceStartTime": 904.4,
+      "evidenceEndTime": 908.86,
       "paraphrases": [],
       "distractors": [
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án D Bikes are a cheap form of transport.. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án D Bikes are a cheap form of transport.. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "David 25 ………………. Marlene 26 ……………. Annabelle 27 …………. Rashid 28 …………….. Saira 29 ………………. Giovanni 30 ………….. A Cycling is a convenient way to travel. B Bikes are environmentally friendly. C Riding a bike can be a social activity. D Bikes are a cheap form of transport. E Cycling is a way to spend time outdoors. F Ridi",
+      "promptContext": ". Rashid",
       "answerRaw": "F Riding a bike is good for mental health.",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -569,19 +576,17 @@
         "Riding a bike is good for mental health."
       ],
       "sharedGroup": null,
-      "evidenceQuote": "but the bike had lost its position as a key mode of transport.",
-      "evidenceStartTime": 905.11,
-      "evidenceEndTime": 909.0,
+      "evidenceQuote": "How about the scheme in an American school that provides bikes for all its pupils?",
+      "evidenceStartTime": 913.88,
+      "evidenceEndTime": 919.08,
       "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
-      ],
-      "explanationVi": "Đáp án đúng là phương án F Riding a bike is good for mental health.. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án F Riding a bike is good for mental health.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": "Marlene 26 ……………. Annabelle 27 …………. Rashid 28 …………….. Saira 29 ………………. Giovanni 30 ………….. A Cycling is a convenient way to travel. B Bikes are environmentally friendly. C Riding a bike can be a social activity. D Bikes are a cheap form of transport. E Cycling is a way to spend time outdoors. F Riding a bike is good",
+      "promptContext": ".. Saira",
       "answerRaw": "E Cycling is a way to spend time outdoors.",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -590,19 +595,17 @@
         "Cycling is a way to spend time outdoors."
       ],
       "sharedGroup": null,
-      "evidenceQuote": "She's got young children and doesn't have much free time, so cycling to work is a way for her to keep fit.",
-      "evidenceStartTime": 1024.39,
-      "evidenceEndTime": 1031.05,
+      "evidenceQuote": "He works from home and spends a lot of time indoors, so at weekends he goes out with a cycling club.",
+      "evidenceStartTime": 1002.88,
+      "evidenceEndTime": 1009.6,
       "paraphrases": [],
-      "distractors": [
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
-      ],
-      "explanationVi": "Đáp án đúng là phương án E Cycling is a way to spend time outdoors.. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E Cycling is a way to spend time outdoors.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "nabelle 27 …………. Rashid 28 …………….. Saira 29 ………………. Giovanni 30 ………….. A Cycling is a convenient way to travel. B Bikes are environmentally friendly. C Riding a bike can be a social activity. D Bikes are a cheap form of transport. E Cycling is a way to spend time outdoors. F Riding a bike is good for mental health.",
+      "promptContext": "………….. A Cycling is a convenient way to travel. B Bikes are environmentally friendly. C Riding a bike can be a social activity. D Bikes are a cheap form of transport. E Cycling is a way to spend time outdoors. F Riding a bike is good for mental health. G Riding a bike is good exercise. H Cycling can be done by all ages.",
       "answerRaw": "A Cycling is a convenient way to travel.",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -611,9 +614,9 @@
         "Cycling is a convenient way to travel."
       ],
       "sharedGroup": null,
-      "evidenceQuote": "She's got young children and doesn't have much free time, so cycling to work is a way for her to keep fit.",
-      "evidenceStartTime": 1024.39,
-      "evidenceEndTime": 1031.05,
+      "evidenceQuote": "She's got young children and doesn't have much free time, so cycling to work is a way for her to keep fit. That's what she liked about it. OK.",
+      "evidenceStartTime": 1023.7,
+      "evidenceEndTime": 1032.66,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -623,16 +626,16 @@
     {
       "number": 31,
       "part": 4,
-      "promptContext": "Young guanaco were used to make the coats because of their 31 ……… skin. • Men hunted the guanaco. • Women sewed the skins together into coats. • Scrapers made from 32 ……….. are today displayed in museums. • Colours from natural 33 …………. were used. The arrival of the Spanish • More guanaco were caught bec",
+      "promptContext": "• Young guanaco were used to make the coats because of their",
       "answerRaw": "soft",
       "canonicalAnswer": "soft",
       "acceptedAnswers": [
         "soft"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Young animals were preferred as their skin was soft, which made it easy to work with.",
-      "evidenceStartTime": 1253.88,
-      "evidenceEndTime": 1259.19,
+      "evidenceQuote": "were preferred as their skin was soft, which made it easy to work with.",
+      "evidenceStartTime": 1253.74,
+      "evidenceEndTime": 1258.14,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"soft\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -640,7 +643,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "sewed the skins together into coats. • Scrapers made from 32 ……….. are today displayed in museums. • Colours from natural 33 …………. were used. The arrival of the Spanish • More guanaco were caught because of the use of the 34 ………… for hunting. • Coats played a 35 ……… role rather than just being for personal us",
+      "promptContext": "skin. • Men hunted the guanaco. • Women sewed the skins together into coats. • Scrapers made from",
       "answerRaw": "stone",
       "canonicalAnswer": "stone",
       "acceptedAnswers": [
@@ -648,8 +651,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "They were constructed from specially sharpened stone, so have survived remarkably well.",
-      "evidenceStartTime": 1293.64,
-      "evidenceEndTime": 1299.09,
+      "evidenceStartTime": 1292.3,
+      "evidenceEndTime": 1296.98,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"stone\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -657,7 +660,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": ". are today displayed in museums. • Colours from natural 33 …………. were used. The arrival of the Spanish • More guanaco were caught because of the use of the 34 ………… for hunting. • Coats played a 35 ……… role rather than just being for personal use. • New materials such as 36 ……….. improved the scraping process",
+      "promptContext": ".. are today displayed in museums. • Colours from natural",
       "answerRaw": "minerals",
       "canonicalAnswer": "minerals",
       "acceptedAnswers": [
@@ -665,8 +668,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The colours themselves occurred naturally in minerals that were dug up from the ground and processed, usually by mixing with water.",
-      "evidenceStartTime": 1309.0,
-      "evidenceEndTime": 1317.14,
+      "evidenceStartTime": 1307.86,
+      "evidenceEndTime": 1315.4,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"minerals\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -674,7 +677,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "nish • More guanaco were caught because of the use of the 34 ………… for hunting. • Coats played a 35 ……… role rather than just being for personal use. • New materials such as 36 ……….. improved the scraping process. Conclusions • Coat designs date from pre-historic times – similar designs are found inside 37 …………",
+      "promptContext": ". were used. The arrival of the Spanish • More guanaco were caught because of the use of the",
       "answerRaw": "horse",
       "canonicalAnswer": "horse",
       "acceptedAnswers": [
@@ -682,8 +685,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "but in terms of coat making, there was one significant development in the hunting technique. Many more guanaco were hunted after the introduction of the horse to the region, which made the Patagon people more mobile.",
-      "evidenceStartTime": 1335.01,
-      "evidenceEndTime": 1347.51,
+      "evidenceStartTime": 1333.82,
+      "evidenceEndTime": 1345.98,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -693,24 +696,26 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "e of the use of the 34 ………… for hunting. • Coats played a 35 ……… role rather than just being for personal use. • New materials such as 36 ……….. improved the scraping process. Conclusions • Coat designs date from pre-historic times – similar designs are found inside 37 ……………. • Coat designs may have been a link",
+      "promptContext": "for hunting. • Coats played a",
       "answerRaw": "commercial",
       "canonicalAnswer": "commercial",
       "acceptedAnswers": [
         "commercial"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "now the coats were increasingly part of a commercial process, I mean something that could be bought and sold for money.",
-      "evidenceStartTime": 1360.07,
-      "evidenceEndTime": 1367.0,
+      "evidenceQuote": "so that while in the past guanaco had only been hunted to meet subsistence needs, now the coats were increasingly part of a commercial process,",
+      "evidenceStartTime": 1355.1,
+      "evidenceEndTime": 1363.84,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"commercial\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "giới hạn phạm vi bằng 'only'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"commercial\". Lưu ý bẫy gây nhiễu (distractor): giới hạn phạm vi bằng 'only'."
     },
     {
       "number": 36,
       "part": 4,
-      "promptContext": "than just being for personal use. • New materials such as 36 ……….. improved the scraping process. Conclusions • Coat designs date from pre-historic times – similar designs are found inside 37 ……………. • Coat designs may have been a link with people's 38 ………… • Large Patagon settlements were not built on the 39 …",
+      "promptContext": "role rather than just being for personal use. • New materials such as",
       "answerRaw": "glass",
       "canonicalAnswer": "glass",
       "acceptedAnswers": [
@@ -718,30 +723,25 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Most important for coat making, the old scrapers used for cleaning the skins were replaced with new ones made from glass,",
-      "evidenceStartTime": 1384.0,
-      "evidenceEndTime": 1392.46,
-      "paraphrases": [
-        {
-          "questionTerm": "historic",
-          "audioTerm": "old"
-        }
-      ],
+      "evidenceStartTime": 1382.2,
+      "evidenceEndTime": 1388.8,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"glass\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'historic' ↔ 'old'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"glass\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 37,
       "part": 4,
-      "promptContext": "e from pre-historic times – similar designs are found inside 37 ……………. • Coat designs may have been a link with people's 38 ………… • Large Patagon settlements were not built on the 39 …………. • Shepherds still make 40 ………….. using similar techniques.",
+      "promptContext": ".. improved the scraping process. Conclusions • Coat designs date from pre-historic times – similar designs are found inside",
       "answerRaw": "caves",
       "canonicalAnswer": "caves",
       "acceptedAnswers": [
         "caves"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "We are able to say this with some confidence because very similar designs have been found in examples of art painted on the rock walls of caves that have very ancient origins.",
-      "evidenceStartTime": 1413.0,
-      "evidenceEndTime": 1423.76,
+      "evidenceQuote": "because very similar designs have been found in examples of art painted on the rock walls of caves that have very ancient origins.",
+      "evidenceStartTime": 1414.58,
+      "evidenceEndTime": 1421.98,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"caves\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -749,7 +749,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "……………. • Coat designs may have been a link with people's 38 ………… • Large Patagon settlements were not built on the 39 …………. • Shepherds still make 40 ………….. using similar techniques.",
+      "promptContext": ". • Coat designs may have been a link with people's",
       "answerRaw": "ancestors",
       "canonicalAnswer": "ancestors",
       "acceptedAnswers": [
@@ -757,8 +757,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The answer isn't clear, but some archaeologists have been prepared to speculate. One possibility is that the designs may have represented a way of connecting with ancestors from previous times,",
-      "evidenceStartTime": 1428.13,
-      "evidenceEndTime": 1439.94,
+      "evidenceStartTime": 1427.92,
+      "evidenceEndTime": 1439.56,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -769,7 +769,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "38 ………… • Large Patagon settlements were not built on the 39 …………. • Shepherds still make 40 ………….. using similar techniques.",
+      "promptContext": "• Large Patagon settlements were not built on the",
       "answerRaw": "coast",
       "canonicalAnswer": "coast",
       "acceptedAnswers": [
@@ -777,8 +777,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "it seems unlikely that these were constructed around the coast, but rather in parts of the interior.",
-      "evidenceStartTime": 1456.53,
-      "evidenceEndTime": 1462.65,
+      "evidenceStartTime": 1456.24,
+      "evidenceEndTime": 1461.76,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -788,7 +788,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "nts were not built on the 39 …………. • Shepherds still make 40 ………….. using similar techniques.",
+      "promptContext": ". • Shepherds still make",
       "answerRaw": "blankets",
       "canonicalAnswer": "blankets",
       "acceptedAnswers": [
@@ -796,8 +796,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "but Patagon shepherds today do still employ some of the same techniques to make blankets in the winter months, though there is no painting or design work involved.",
-      "evidenceStartTime": 1469.02,
-      "evidenceEndTime": 1479.0,
+      "evidenceStartTime": 1468.9,
+      "evidenceEndTime": 1477.58,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -809,1953 +809,1710 @@
     {
       "id": "seg-001",
       "part": 1,
-      "startTime": 0.0,
-      "endTime": 0.95,
-      "text": "Part 1.",
+      "startTime": 39.36,
+      "endTime": 47.06,
+      "text": "Kiwi Air, good morning. You're speaking with Roger. How may I help you? Yes, hi. My name's Janet.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-002",
       "part": 1,
-      "startTime": 0.95,
-      "endTime": 12.87,
-      "text": "You will hear a telephone conversation between a woman and a staff member of an airline.",
+      "startTime": 47.44,
+      "endTime": 53.5,
+      "text": "I've just been trying to make a booking on the internet and I'm having a problem that I'd like to complain about.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-003",
       "part": 1,
-      "startTime": 12.87,
-      "endTime": 20.05,
-      "text": "First you have some time to look at questions 1 to 4.",
+      "startTime": 53.9,
+      "endTime": 64.32,
+      "text": "So let me just take down your full name. It's Janet Quigley. That's Q-U-I-G-L-E-Y. Thank you.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-004",
       "part": 1,
-      "startTime": 20.05,
-      "endTime": 26.69,
-      "text": "Now listen carefully and answer questions 1 to 4.",
+      "startTime": 64.66,
+      "endTime": 67.88,
+      "text": "And what's the problem exactly? Well, yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-005",
       "part": 1,
-      "startTime": 26.69,
-      "endTime": 33.6,
-      "text": "Kiwi Air, good morning. You're speaking with Roger.",
+      "startTime": 68.12,
+      "endTime": 74.76,
+      "text": "I'm trying to book myself and three children, so four tickets, to fly within New Zealand.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-006",
       "part": 1,
-      "startTime": 33.6,
-      "endTime": 39.7,
-      "text": "How may I help you? Yes, hi. My name's Janet.",
+      "startTime": 74.92,
+      "endTime": 77.72,
+      "text": "We're wanting to fly from Wellington to Christchurch.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-007",
       "part": 1,
-      "startTime": 39.7,
-      "endTime": 55.0,
-      "text": "I've just been trying to make a booking on the internet and I'm having a problem that I'd like to complain about.",
+      "startTime": 77.94,
+      "endTime": 80.82,
+      "text": "Not one way, I mean, but return.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-008",
       "part": 1,
-      "startTime": 55.0,
-      "endTime": 61.67,
-      "text": "So let me just take down your full name. It's Janet Quigley.",
+      "startTime": 81.06,
+      "endTime": 83.06,
+      "text": "So it's just a simple booking.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-009",
       "part": 1,
-      "startTime": 61.67,
-      "endTime": 64.0,
-      "text": "That's Q-U-I-G-L-E-Y.",
+      "startTime": 83.06,
+      "endTime": 85.68,
+      "text": "Yes, and you've put your dates in, have you?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-010",
       "part": 1,
-      "startTime": 65.0,
-      "endTime": 69.11,
-      "text": "Thank you. And what's the problem exactly? Well, yes.",
+      "startTime": 86.24,
+      "endTime": 92.68,
+      "text": "Yes, the dates are... um... what are we in now? It's September, isn't it?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-011",
       "part": 1,
-      "startTime": 69.11,
-      "endTime": 76.0,
-      "text": "I'm trying to book myself and three children, so four tickets, to fly within New Zealand.",
+      "startTime": 92.94,
+      "endTime": 95.14,
+      "text": "So I'm booking for October.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-012",
       "part": 1,
-      "startTime": 76.0,
-      "endTime": 81.93,
-      "text": "We're wanting to fly from Wellington to Christchurch. Not one way, I mean, but return.",
+      "startTime": 95.28,
+      "endTime": 100.26,
+      "text": "Oh, sorry, I mean November. The 10th till the 15th. Right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-013",
       "part": 1,
-      "startTime": 81.93,
-      "endTime": 84.0,
-      "text": "So it's just a simple booking.",
+      "startTime": 100.58,
+      "endTime": 103.5,
+      "text": "Let me just get that down on the form.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-014",
       "part": 1,
-      "startTime": 84.0,
-      "endTime": 91.51,
-      "text": "Yes, and you've put your dates in, have you? Yes, the dates are... um... what are we in now?",
+      "startTime": 103.8,
+      "endTime": 105.66,
+      "text": "And what time would that be?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-015",
       "part": 1,
-      "startTime": 91.51,
-      "endTime": 98.12,
-      "text": "It's September, isn't it? So I'm booking for October. Oh, sorry, I mean November.",
+      "startTime": 105.66,
+      "endTime": 113.28,
+      "text": "We'd be leaving at 11.45 in the morning, arriving into Christchurch at 12.30. Mm-hm.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-016",
       "part": 1,
-      "startTime": 98.12,
-      "endTime": 100.0,
-      "text": "The 10th till the 15th.",
+      "startTime": 113.28,
+      "endTime": 121.18,
+      "text": "I know that it's cheaper to not make the reservation in person, so to save paying the fee, I've been trying to do it through your home page.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-017",
       "part": 1,
-      "startTime": 101.0,
-      "endTime": 106.62,
-      "text": "Right. Let me just get that down on the form. And what time would that be?",
+      "startTime": 121.58,
+      "endTime": 124.1,
+      "text": "Yes, so what's the problem exactly?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-018",
       "part": 1,
-      "startTime": 106.62,
-      "endTime": 113.0,
-      "text": "We'd be leaving at 11.45 in the morning, arriving into Christchurch at 12.30. Mm-hm.",
+      "startTime": 124.3,
+      "endTime": 127.1,
+      "text": "Well, every time I put in the number of adults",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-019",
       "part": 1,
-      "startTime": 114.0,
-      "endTime": 123.1,
-      "text": "I know that it's cheaper to not make the reservation in person, so to save paying the fee, I've been trying to do it through your home page.",
+      "startTime": 127.1,
+      "endTime": 136.32,
+      "text": "and children travelling, the website automatically alters the rate for one of the children to what you'd pay for an adult. It's very annoying.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-020",
       "part": 1,
-      "startTime": 123.1,
-      "endTime": 125.38,
-      "text": "Yes, so what's the problem exactly?",
+      "startTime": 136.4,
+      "endTime": 138.68,
+      "text": "I'm getting so frustrated with it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-021",
       "part": 1,
-      "startTime": 125.38,
-      "endTime": 130.0,
-      "text": "Well, every time I put in the number of adults and children travelling,",
+      "startTime": 138.88,
+      "endTime": 144.22,
+      "text": "And each time I change it back, I've been getting error messages telling me to call you directly.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-022",
       "part": 1,
-      "startTime": 130.0,
-      "endTime": 136.31,
-      "text": "the website automatically alters the rate for one of the children to what you'd pay for an adult.",
+      "startTime": 144.48,
+      "endTime": 147.02,
+      "text": "I really can't understand it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-023",
       "part": 1,
-      "startTime": 136.31,
-      "endTime": 139.82,
-      "text": "It's very annoying. I'm getting so frustrated with it.",
+      "startTime": 192.38,
+      "endTime": 195.78,
+      "text": "All right, well, yes, there is a reason for why that's happening.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-024",
       "part": 1,
-      "startTime": 139.82,
-      "endTime": 146.13,
-      "text": "And each time I change it back, I've been getting error messages telling me to call you directly.",
+      "startTime": 195.92,
+      "endTime": 203.2,
+      "text": "It's Kiwi Air policy, I'm afraid, to allow a maximum of two children to travel on childfares with just the one adult accompanying them.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-025",
       "part": 1,
-      "startTime": 146.13,
-      "endTime": 148.0,
-      "text": "I really can't understand it.",
+      "startTime": 204.4,
+      "endTime": 211.94,
+      "text": "So because there's three of them and just me, do you mean I have to pay an adult fare for one of my children? Yes, that's right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-026",
       "part": 1,
-      "startTime": 151.0,
-      "endTime": 172.73,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions 5 to 10.",
+      "startTime": 212.42,
+      "endTime": 217.54,
+      "text": "But I've flown to Australia before on my own with the children, and we didn't have to pay extra.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-027",
       "part": 1,
-      "startTime": 172.73,
-      "endTime": 181.98,
-      "text": "Now listen and answer questions 5 to 10.",
+      "startTime": 217.76,
+      "endTime": 221.5,
+      "text": "It's a policy that we've just introduced for domestic air travel.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-028",
       "part": 1,
-      "startTime": 181.98,
-      "endTime": 197.0,
-      "text": "All right, well, yes, there is a reason for why that's happening.",
+      "startTime": 221.74,
+      "endTime": 224.98,
+      "text": "It may be extended later for international travel as well.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-029",
       "part": 1,
-      "startTime": 197.0,
-      "endTime": 204.92,
-      "text": "It's Kiwi Air policy, I'm afraid, to allow a maximum of two children to travel on childfares with just the one adult accompanying them.",
+      "startTime": 225.58,
+      "endTime": 229.1,
+      "text": "But an adult fare is for someone over the age of 12.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-030",
       "part": 1,
-      "startTime": 204.92,
-      "endTime": 211.31,
-      "text": "So because there's three of them and just me, do you mean I have to pay an adult fare for one of my children?",
+      "startTime": 229.3,
+      "endTime": 232.42,
+      "text": "My children are only 11, 8 and 5.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-031",
       "part": 1,
-      "startTime": 211.31,
-      "endTime": 212.37,
-      "text": "Yes, that's right.",
+      "startTime": 232.56,
+      "endTime": 235.34,
+      "text": "It's not fair to charge them for an adult rate.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-032",
       "part": 1,
-      "startTime": 212.37,
-      "endTime": 218.0,
-      "text": "But I've flown to Australia before on my own with the children, and we didn't have to pay extra.",
+      "startTime": 235.58,
+      "endTime": 241.62,
+      "text": "Besides, they actually eat less than an adult, so they wouldn't consume as much food on the plane.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-033",
       "part": 1,
-      "startTime": 219.0,
-      "endTime": 223.09,
-      "text": "It's a policy that we've just introduced for domestic air travel.",
+      "startTime": 241.76,
+      "endTime": 243.54,
+      "text": "I just don't think it's right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-034",
       "part": 1,
-      "startTime": 223.09,
-      "endTime": 226.74,
-      "text": "It may be extended later for international travel as well.",
+      "startTime": 243.78,
+      "endTime": 246.78,
+      "text": "Well, I'm sorry, but that's how we charge.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-035",
       "part": 1,
-      "startTime": 226.74,
-      "endTime": 230.0,
-      "text": "But an adult fare is for someone over the age of 12.",
+      "startTime": 247.22,
+      "endTime": 250.28,
+      "text": "We do look after children well on our flights, you know.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-036",
       "part": 1,
-      "startTime": 231.0,
-      "endTime": 236.04,
-      "text": "My children are only 11, 8 and 5. It's not fair to charge them for an adult rate.",
+      "startTime": 250.28,
+      "endTime": 255.12,
+      "text": "We give them little packs of games and coloured pencils so they have something to do, you know.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-037",
       "part": 1,
-      "startTime": 236.04,
-      "endTime": 242.14,
-      "text": "Besides, they actually eat less than an adult, so they wouldn't consume as much food on the plane.",
+      "startTime": 255.5,
+      "endTime": 262.06,
+      "text": "Well, still, the difference to pay between the fares is a lot of extra money that I hadn't budgeted for.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-038",
       "part": 1,
-      "startTime": 242.14,
-      "endTime": 244.0,
-      "text": "I just don't think it's right.",
+      "startTime": 262.2,
+      "endTime": 271.22,
+      "text": "It seems to me that your rules discriminate against a parent travelling on their own with the children, and also families with lots of children.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-039",
       "part": 1,
-      "startTime": 245.0,
-      "endTime": 247.39,
-      "text": "Well, I'm sorry, but that's how we charge.",
+      "startTime": 271.5,
+      "endTime": 274.9,
+      "text": "And what about school groups? That wouldn't be fair.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-040",
       "part": 1,
-      "startTime": 247.39,
-      "endTime": 250.58,
-      "text": "We do look after children well on our flights, you know.",
+      "startTime": 274.9,
+      "endTime": 277.56,
+      "text": "Well, madam, yes, I can see your point.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-041",
       "part": 1,
-      "startTime": 250.58,
-      "endTime": 256.0,
-      "text": "We give them little packs of games and coloured pencils so they have something to do, you know.",
+      "startTime": 277.72,
+      "endTime": 281.42,
+      "text": "You're welcome to put your complaint in writing if that's what you'd like to do.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-042",
       "part": 1,
-      "startTime": 257.0,
-      "endTime": 263.59,
-      "text": "Well, still, the difference to pay between the fares is a lot of extra money that I hadn't budgeted for.",
+      "startTime": 281.62,
+      "endTime": 283.44,
+      "text": "Well, I certainly would.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-043",
       "part": 1,
-      "startTime": 263.59,
-      "endTime": 272.71,
-      "text": "It seems to me that your rules discriminate against a parent travelling on their own with the children, and also families with lots of children.",
+      "startTime": 283.62,
+      "endTime": 287.22,
+      "text": "I'll be writing a letter to your customer services officer, is it?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-044",
       "part": 1,
-      "startTime": 272.71,
-      "endTime": 276.0,
-      "text": "And what about school groups? That wouldn't be fair.",
+      "startTime": 287.74,
+      "endTime": 289.62,
+      "text": "Just address it to the manager.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-045",
       "part": 1,
-      "startTime": 276.0,
-      "endTime": 278.18,
-      "text": "Well, madam, yes, I can see your point.",
+      "startTime": 289.82,
+      "endTime": 292.68,
+      "text": "Then it will reach the right person. That's fine.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-046",
       "part": 1,
-      "startTime": 278.18,
-      "endTime": 282.66,
-      "text": "You're welcome to put your complaint in writing if that's what you'd like to do.",
+      "startTime": 292.78,
+      "endTime": 294.54,
+      "text": "That's your right to do that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-047",
       "part": 1,
-      "startTime": 282.66,
-      "endTime": 284.0,
-      "text": "Well, I certainly would.",
+      "startTime": 294.74,
+      "endTime": 297.22,
+      "text": "And how soon do you think they'll get back to me?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-048",
       "part": 1,
-      "startTime": 285.0,
-      "endTime": 289.22,
-      "text": "I'll be writing a letter to your customer services officer, is it?",
+      "startTime": 297.4,
+      "endTime": 302.2,
+      "text": "I must say, I really am shocked at this. I'm not happy about it at all.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-049",
       "part": 1,
-      "startTime": 289.22,
-      "endTime": 294.4,
-      "text": "Just address it to the manager. Then it will reach the right person. That's fine.",
+      "startTime": 302.2,
+      "endTime": 312.38,
+      "text": "Um, well, at busy times it sometimes takes a month, but it's low season now, so you should expect to receive a response probably inside a week.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-050",
       "part": 1,
-      "startTime": 294.4,
-      "endTime": 299.45,
-      "text": "That's your right to do that. And how soon do you think they'll get back to me?",
+      "startTime": 312.82,
+      "endTime": 322.16,
+      "text": "You need to take down this reference number. I'll just give it to you. It's GBK8422. All right, then.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-051",
       "part": 1,
-      "startTime": 299.45,
-      "endTime": 304.0,
-      "text": "I must say, I really am shocked at this. I'm not happy about it at all.",
+      "startTime": 322.3,
+      "endTime": 324.62,
+      "text": "I'll put that in the letter.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-052",
       "part": 1,
-      "startTime": 304.0,
-      "endTime": 313.4,
-      "text": "Um, well, at busy times it sometimes takes a month, but it's low season now, so you should expect to receive a response probably inside a week.",
+      "startTime": 324.88,
+      "endTime": 328.98,
+      "text": "Well, thanks for your help. Thank you for calling Kiwi Air.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-053",
-      "part": 1,
-      "startTime": 313.4,
-      "endTime": 318.0,
-      "text": "You need to take down this reference number. I'll just give it to you.",
+      "part": 2,
+      "startTime": 450.12,
+      "endTime": 451.5,
+      "text": "Good afternoon, everyone.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-054",
-      "part": 1,
-      "startTime": 318.0,
-      "endTime": 325.0,
-      "text": "It's GBK8422. All right, then. I'll put that in the letter.",
+      "part": 2,
+      "startTime": 451.66,
+      "endTime": 453.32,
+      "text": "Thank you for coming to the meeting.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-055",
-      "part": 1,
-      "startTime": 326.0,
-      "endTime": 345.18,
-      "text": "Well, thanks for your help.",
+      "part": 2,
+      "startTime": 453.52,
+      "endTime": 457.76,
+      "text": "My name is Bob McDonald, and I'm the manager of the Linwood apartment complex.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-056",
-      "part": 1,
-      "startTime": 345.18,
-      "endTime": 367.21,
-      "text": "Thank you for calling Kiwi Air.",
+      "part": 2,
+      "startTime": 458.26,
+      "endTime": 460.04,
+      "text": "Firstly, I'd like to welcome you all.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-057",
-      "part": 1,
-      "startTime": 367.21,
-      "endTime": 407.0,
-      "text": "You now have one minute to check your answers to Part 1.",
+      "part": 2,
+      "startTime": 460.14,
+      "endTime": 461.98,
+      "text": "I'm sure you'll enjoy living here.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-058",
       "part": 2,
-      "startTime": 407.0,
-      "endTime": 408.0,
-      "text": "You will hear the manager of the Linwood apartment complex introducing the complex to a group of new residents.",
+      "startTime": 463.08,
+      "endTime": 466.18,
+      "text": "Let's start with a little bit of history about the Linwood apartments.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-059",
       "part": 2,
-      "startTime": 408.0,
-      "endTime": 426.67,
-      "text": "First, you have some time to look at questions 11 to 14.",
+      "startTime": 466.32,
+      "endTime": 474.72,
+      "text": "The council first discussed the concept of this project five years ago, but there was a small delay initially while plans and administration were completed.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-060",
       "part": 2,
-      "startTime": 426.67,
-      "endTime": 443.67,
-      "text": "Now listen carefully and answer questions 11 to 14.",
+      "startTime": 475.0,
+      "endTime": 483.98,
+      "text": "Work finally started three years later, and one year ago the complex was finished and received its first residents, and I'm happy to say it's been a great place to live ever since.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-061",
       "part": 2,
-      "startTime": 443.67,
-      "endTime": 452.0,
-      "text": "Good afternoon, everyone.",
+      "startTime": 485.12,
+      "endTime": 488.64,
+      "text": "So now just a little bit more about my role within the complex.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-062",
       "part": 2,
-      "startTime": 453.0,
-      "endTime": 454.91,
-      "text": "Thank you for coming to the meeting.",
+      "startTime": 488.82,
+      "endTime": 495.98,
+      "text": "I'm responsible for ensuring that rent is paid on time, but I can't say I get a lot of satisfaction from that aspect of the job.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-063",
       "part": 2,
-      "startTime": 454.91,
-      "endTime": 459.04,
-      "text": "My name is Bob McDonald, and I'm the manager of the Linwood apartment complex.",
+      "startTime": 496.66,
+      "endTime": 502.26,
+      "text": "Fortunately, because the building is quite new, there is generally little to do to keep everything in good working order.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-064",
       "part": 2,
-      "startTime": 459.04,
-      "endTime": 461.0,
-      "text": "Firstly, I'd like to welcome you all.",
+      "startTime": 502.44,
+      "endTime": 509.76,
+      "text": "What I love is working with the people who live here, especially helping neighbours deal with any little misunderstandings that might come up between them.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-065",
       "part": 2,
-      "startTime": 461.0,
-      "endTime": 462.84,
-      "text": "I'm sure you'll enjoy living here.",
+      "startTime": 511.16,
+      "endTime": 515.34,
+      "text": "We want you to feel at home here, but there are some restrictions on what you can do.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-066",
       "part": 2,
-      "startTime": 462.84,
-      "endTime": 466.62,
-      "text": "Let's start with a little bit of history about the Linwood apartments.",
+      "startTime": 515.58,
+      "endTime": 522.66,
+      "text": "You're welcome to redecorate inside your apartment if you don't like the colour, but you can't change the outward appearance of the building in any way,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-067",
       "part": 2,
-      "startTime": 466.62,
-      "endTime": 470.46,
-      "text": "The council first discussed the concept of this project five years ago,",
+      "startTime": 522.8,
+      "endTime": 528.6,
+      "text": "and that also includes altering the plantings around the complex by putting in your own trees or flowers.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-068",
       "part": 2,
-      "startTime": 470.46,
-      "endTime": 475.0,
-      "text": "but there was a small delay initially while plans and administration were completed.",
+      "startTime": 529.34,
+      "endTime": 532.44,
+      "text": "Now some of you were asking earlier about the welcome party.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-069",
       "part": 2,
-      "startTime": 476.0,
-      "endTime": 482.22,
-      "text": "Work finally started three years later, and one year ago the complex was finished and received its first residents,",
+      "startTime": 532.44,
+      "endTime": 538.7,
+      "text": "That will be held as planned next Friday evening, and we'll be doing all the catering so that there are no worries about food,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-070",
       "part": 2,
-      "startTime": 482.22,
-      "endTime": 485.68,
-      "text": "and I'm happy to say it's been a great place to live ever since.",
+      "startTime": 538.76,
+      "endTime": 544.34,
+      "text": "but it would be great if you could come along for a while on the day of the party to help put some party lights in the hall.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-071",
       "part": 2,
-      "startTime": 485.68,
-      "endTime": 489.09,
-      "text": "So now just a little bit more about my role within the complex.",
+      "startTime": 544.8,
+      "endTime": 550.68,
+      "text": "When you arrive, you'll find there are badges already prepared for everybody, so one will have your name on it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-072",
       "part": 2,
-      "startTime": 489.09,
-      "endTime": 496.0,
-      "text": "I'm responsible for ensuring that rent is paid on time, but I can't say I get a lot of satisfaction from that aspect of the job.",
+      "startTime": 597.2,
+      "endTime": 603.6,
+      "text": "Now if you'd all like to have a look at your map of the apartment complex, I'll just go over where you can find all the facilities.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-073",
       "part": 2,
-      "startTime": 498.0,
-      "endTime": 504.05,
-      "text": "Fortunately, because the building is quite new, there is generally little to do to keep everything in good working order.",
+      "startTime": 604.24,
+      "endTime": 609.98,
+      "text": "The complex is a pedestrian area, so you can park your car here in the car park at the bottom of the map.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-074",
       "part": 2,
-      "startTime": 504.05,
-      "endTime": 506.7,
-      "text": "What I love is working with the people who live here,",
+      "startTime": 611.32,
+      "endTime": 618.28,
+      "text": "There are two main apartment blocks, blue and red, with an open walkway up the middle called the arcade.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-075",
       "part": 2,
-      "startTime": 506.7,
-      "endTime": 511.75,
-      "text": "especially helping neighbours deal with any little misunderstandings that might come up between them.",
+      "startTime": 619.56,
+      "endTime": 622.26,
+      "text": "When you first arrive, you'll probably want to know where the shop is,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-076",
       "part": 2,
-      "startTime": 511.75,
-      "endTime": 516.0,
-      "text": "We want you to feel at home here, but there are some restrictions on what you can do.",
+      "startTime": 622.66,
+      "endTime": 630.06,
+      "text": "so if you go up from the car park into the arcade, you'll find the shop at the end on the right, opposite the internet cafe.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-077",
       "part": 2,
-      "startTime": 517.0,
-      "endTime": 524.51,
-      "text": "You're welcome to redecorate inside your apartment if you don't like the colour, but you can't change the outward appearance of the building in any way,",
+      "startTime": 631.52,
+      "endTime": 635.66,
+      "text": "One popular attraction, especially in summer, is the barbecue area,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-078",
       "part": 2,
-      "startTime": 524.51,
-      "endTime": 529.7,
-      "text": "and that also includes altering the plantings around the complex by putting in your own trees or flowers.",
+      "startTime": 636.0,
+      "endTime": 643.26,
+      "text": "so if you walk from the car park and through the arcade, then turn right and follow the path, you'll see it at the end.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-079",
       "part": 2,
-      "startTime": 529.7,
-      "endTime": 532.66,
-      "text": "Now some of you were asking earlier about the welcome party.",
+      "startTime": 643.76,
+      "endTime": 648.14,
+      "text": "For those of you with young children, we have an excellent childcare centre.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-080",
       "part": 2,
-      "startTime": 532.66,
-      "endTime": 538.88,
-      "text": "That will be held as planned next Friday evening, and we'll be doing all the catering so that there are no worries about food,",
+      "startTime": 648.96,
+      "endTime": 656.98,
+      "text": "From the car park, head north, but before you get to the arcade, turn left and follow the path around until you reach the pond.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-081",
       "part": 2,
-      "startTime": 538.88,
-      "endTime": 545.0,
-      "text": "but it would be great if you could come along for a while on the day of the party to help put some party lights in the hall.",
+      "startTime": 657.72,
+      "endTime": 661.62,
+      "text": "You'll find it opposite the pond, on the west side of the blue block.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-082",
       "part": 2,
-      "startTime": 546.0,
-      "endTime": 568.76,
-      "text": "When you arrive, you'll find there are badges already prepared for everybody, so one will have your name on it.",
+      "startTime": 663.22,
+      "endTime": 669.84,
+      "text": "Now if you need to use the laundry, walk up from the car park and into the arcade, look on your left and you'll see the gym,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-083",
       "part": 2,
-      "startTime": 568.76,
-      "endTime": 586.6,
-      "text": "Before you hear the rest of the talk, you have some time to look at questions 15 to 20.",
+      "startTime": 670.02,
+      "endTime": 673.08,
+      "text": "but keep going, and it's directly next door to that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-084",
       "part": 2,
-      "startTime": 586.6,
-      "endTime": 595.0,
-      "text": "Now listen and answer questions 15 to 20.",
+      "startTime": 673.92,
+      "endTime": 676.46,
+      "text": "You all need to know where the recreation room is.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-085",
       "part": 2,
-      "startTime": 598.0,
-      "endTime": 606.09,
-      "text": "Now if you'd all like to have a look at your map of the apartment complex, I'll just go over where you can find all the facilities.",
+      "startTime": 676.66,
+      "endTime": 680.48,
+      "text": "Head north from the car park and take the first turning on the right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-086",
       "part": 2,
-      "startTime": 606.09,
-      "endTime": 612.58,
-      "text": "The complex is a pedestrian area, so you can park your car here in the car park at the bottom of the map.",
+      "startTime": 680.54,
+      "endTime": 683.98,
+      "text": "Go straight on to the end and you'll find two buildings facing each other.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-087",
       "part": 2,
-      "startTime": 612.58,
-      "endTime": 619.0,
-      "text": "There are two main apartment blocks, blue and red, with an open walkway up the middle called the arcade.",
+      "startTime": 684.58,
+      "endTime": 688.14,
+      "text": "You want the one to the north, opposite the cafe.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-088",
       "part": 2,
-      "startTime": 621.0,
-      "endTime": 628.43,
-      "text": "When you first arrive, you'll probably want to know where the shop is, so if you go up from the car park into the arcade,",
+      "startTime": 688.88,
+      "endTime": 695.52,
+      "text": "Finally, for the welcome party in the hall next week, from the car park, go straight on to the end of the arcade,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-089",
       "part": 2,
-      "startTime": 628.43,
-      "endTime": 632.91,
-      "text": "you'll find the shop at the end on the right, opposite the internet cafe.",
+      "startTime": 695.72,
+      "endTime": 703.6,
+      "text": "but then don't go too far, take the path up to the left, and it's at the end of that path, just above the trees on your map.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-090",
       "part": 2,
-      "startTime": 632.91,
-      "endTime": 640.52,
-      "text": "One popular attraction, especially in summer, is the barbecue area, so if you walk from the car park and through the arcade,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-091",
-      "part": 2,
-      "startTime": 640.52,
-      "endTime": 644.33,
-      "text": "then turn right and follow the path, you'll see it at the end.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-092",
-      "part": 2,
-      "startTime": 644.33,
-      "endTime": 649.0,
-      "text": "For those of you with young children, we have an excellent childcare centre.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-093",
-      "part": 2,
-      "startTime": 650.0,
-      "endTime": 658.19,
-      "text": "From the car park, head north, but before you get to the arcade, turn left and follow the path around until you reach the pond.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-094",
-      "part": 2,
-      "startTime": 658.19,
-      "endTime": 662.64,
-      "text": "You'll find it opposite the pond, on the west side of the blue block.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-095",
-      "part": 2,
-      "startTime": 662.64,
-      "endTime": 667.93,
-      "text": "Now if you need to use the laundry, walk up from the car park and into the arcade,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-096",
-      "part": 2,
-      "startTime": 667.93,
-      "endTime": 674.0,
-      "text": "look on your left and you'll see the gym, but keep going, and it's directly next door to that.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-097",
-      "part": 2,
-      "startTime": 675.0,
-      "endTime": 677.59,
-      "text": "You all need to know where the recreation room is.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-098",
-      "part": 2,
-      "startTime": 677.59,
-      "endTime": 681.17,
-      "text": "Head north from the car park and take the first turning on the right.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-099",
-      "part": 2,
-      "startTime": 681.17,
-      "endTime": 685.0,
-      "text": "Go straight on to the end and you'll find two buildings facing each other.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-100",
-      "part": 2,
-      "startTime": 686.0,
-      "endTime": 689.14,
-      "text": "You want the one to the north, opposite the cafe.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-101",
-      "part": 2,
-      "startTime": 689.14,
-      "endTime": 696.37,
-      "text": "Finally, for the welcome party in the hall next week, from the car park, go straight on to the end of the arcade,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-102",
-      "part": 2,
-      "startTime": 696.37,
-      "endTime": 704.31,
-      "text": "but then don't go too far, take the path up to the left, and it's at the end of that path, just above the trees on your map.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-103",
-      "part": 2,
-      "startTime": 704.31,
-      "endTime": 707.0,
+      "startTime": 703.96,
+      "endTime": 706.36,
       "text": "Well, I look forward to welcoming you all.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
+      "id": "seg-091",
+      "part": 3,
+      "startTime": 772.78,
+      "endTime": 773.7,
+      "text": "Hi, Izzy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 3,
+      "startTime": 773.76,
+      "endTime": 776.5,
+      "text": "Can we talk about our presentation? Sure.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 3,
+      "startTime": 776.74,
+      "endTime": 783.3,
+      "text": "So, our topic's the bicycle, its history and its effect on society in the Western world.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 3,
+      "startTime": 783.48,
+      "endTime": 785.98,
+      "text": "We should start with its invention in the 1800s.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 3,
+      "startTime": 786.68,
+      "endTime": 790.06,
+      "text": "The first bike wasn't very successful, was it?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 3,
+      "startTime": 790.4,
+      "endTime": 795.52,
+      "text": "I think the model they called the safety bicycle is more significant. Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 3,
+      "startTime": 795.74,
+      "endTime": 800.64,
+      "text": "Was that name because it was safe for cyclists of all ages, including young kids?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 3,
+      "startTime": 800.8,
+      "endTime": 807.9,
+      "text": "I think it was more to do with the comparison to previous versions, which got their speed from one large wheel.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 3,
+      "startTime": 808.2,
+      "endTime": 812.94,
+      "text": "This bike had equally sized wheels and its speed came from gears.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 3,
+      "startTime": 813.54,
+      "endTime": 820.7,
+      "text": "It was an important development, as it was the first model that actually looked like a bike you'd see today. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 3,
+      "startTime": 820.96,
+      "endTime": 827.54,
+      "text": "And the development of that bicycle at the end of the 19th century had an enormous impact on the working classes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 3,
+      "startTime": 827.72,
+      "endTime": 832.1,
+      "text": "You mean how it gave them freedom to move around and look for jobs?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 3,
+      "startTime": 832.6,
+      "endTime": 839.06,
+      "text": "I suppose before the bike, they didn't have private transport, so were limited in where they could work. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
       "id": "seg-104",
-      "part": 2,
-      "startTime": 710.0,
-      "endTime": 729.02,
-      "text": "That is the end of Part 2.",
+      "part": 3,
+      "startTime": 839.4,
+      "endTime": 842.02,
+      "text": "Because it took such a long time to go anywhere.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-105",
-      "part": 2,
-      "startTime": 729.02,
-      "endTime": 770.0,
-      "text": "You now have 30 seconds to check your answers to Part 2.",
+      "part": 3,
+      "startTime": 842.26,
+      "endTime": 848.0,
+      "text": "But I'd really like to draw attention to how inhabitants of rural areas were able to travel outside their communities,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-106",
       "part": 3,
-      "startTime": 770.0,
-      "endTime": 772.32,
-      "text": "You will hear two Design and Technology students, called Max and Izzy, planning their presentation about the history and development of the bicycle.",
+      "startTime": 848.98,
+      "endTime": 852.88,
+      "text": "and that led them to marrying people they never could have met in the past.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-107",
       "part": 3,
-      "startTime": 772.32,
-      "endTime": 773.2,
-      "text": "First, you have some time to look at questions 21 to 24.",
+      "startTime": 853.1,
+      "endTime": 858.52,
+      "text": "That changed society, and I'd like to discuss it in our presentation. Oh, good idea.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-108",
       "part": 3,
-      "startTime": 773.2,
-      "endTime": 774.0,
-      "text": "Now listen carefully and answer questions 21 to 24.",
+      "startTime": 858.8,
+      "endTime": 863.98,
+      "text": "So what should we stress about changing attitudes to bicycles in the 20th century?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-109",
       "part": 3,
-      "startTime": 774.0,
-      "endTime": 777.67,
-      "text": "Hi, Izzy. Can we talk about our presentation? Sure.",
+      "startTime": 863.98,
+      "endTime": 869.26,
+      "text": "Well, the bicycle was an important means of transport through the early 1900s,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-110",
       "part": 3,
-      "startTime": 777.67,
-      "endTime": 784.0,
-      "text": "So, our topic's the bicycle, its history and its effect on society in the Western world.",
+      "startTime": 869.48,
+      "endTime": 877.76,
+      "text": "and that continued until the 1950s, when cars became available to the general population and much more popular.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-111",
       "part": 3,
-      "startTime": 785.0,
-      "endTime": 791.4,
-      "text": "We should start with its invention in the 1800s. The first bike wasn't very successful, was it?",
+      "startTime": 878.14,
+      "endTime": 881.3,
+      "text": "That led to people losing interest in bikes for a while.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-112",
       "part": 3,
-      "startTime": 791.4,
-      "endTime": 796.39,
-      "text": "I think the model they called the safety bicycle is more significant. Yes.",
+      "startTime": 881.48,
+      "endTime": 886.96,
+      "text": "I hadn't realised the impact that people's love of motorised transport had on the bike's reputation.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-113",
       "part": 3,
-      "startTime": 796.39,
-      "endTime": 801.85,
-      "text": "Was that name because it was safe for cyclists of all ages, including young kids?",
+      "startTime": 887.24,
+      "endTime": 889.2,
+      "text": "Yes, that's a key point we should make.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-114",
       "part": 3,
-      "startTime": 801.85,
-      "endTime": 809.33,
-      "text": "I think it was more to do with the comparison to previous versions, which got their speed from one large wheel.",
+      "startTime": 890.56,
+      "endTime": 895.52,
+      "text": "Then the fold-up bike and others came along in the 60s, which helped sales pick up.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-115",
       "part": 3,
-      "startTime": 809.33,
-      "endTime": 813.71,
-      "text": "This bike had equally sized wheels and its speed came from gears.",
+      "startTime": 896.44,
+      "endTime": 904.26,
+      "text": "Then things stayed fairly stable until the fitness craze of the 80s piqued interest in mountain biking and sales went up,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-116",
       "part": 3,
-      "startTime": 813.71,
-      "endTime": 821.0,
-      "text": "It was an important development, as it was the first model that actually looked like a bike you'd see today.",
+      "startTime": 904.4,
+      "endTime": 908.86,
+      "text": "but the bike had lost its position as a key mode of transport. Right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-117",
       "part": 3,
-      "startTime": 821.0,
-      "endTime": 821.39,
-      "text": "Right.",
+      "startTime": 909.52,
+      "endTime": 913.88,
+      "text": "I'd like to talk about some current projects around the world involving bikes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-118",
       "part": 3,
-      "startTime": 821.39,
-      "endTime": 828.79,
-      "text": "And the development of that bicycle at the end of the 19th century had an enormous impact on the working classes.",
+      "startTime": 913.88,
+      "endTime": 919.08,
+      "text": "How about the scheme in an American school that provides bikes for all its pupils?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-119",
       "part": 3,
-      "startTime": 828.79,
-      "endTime": 833.18,
-      "text": "You mean how it gave them freedom to move around and look for jobs?",
+      "startTime": 919.24,
+      "endTime": 922.36,
+      "text": "I expect the pupils are delighted, not to mention the parents.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-120",
       "part": 3,
-      "startTime": 833.18,
-      "endTime": 840.0,
-      "text": "I suppose before the bike, they didn't have private transport, so were limited in where they could work.",
+      "startTime": 922.58,
+      "endTime": 926.14,
+      "text": "I suppose so, although I wonder how much it costs.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-121",
       "part": 3,
-      "startTime": 840.0,
-      "endTime": 843.1,
-      "text": "Right. Because it took such a long time to go anywhere.",
+      "startTime": 926.58,
+      "endTime": 929.22,
+      "text": "Probably not as much as other initiatives.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-122",
       "part": 3,
-      "startTime": 843.1,
-      "endTime": 849.76,
-      "text": "But I'd really like to draw attention to how inhabitants of rural areas were able to travel outside their communities,",
+      "startTime": 929.34,
+      "endTime": 932.8,
+      "text": "I just wonder if the advantages really justify the scheme.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-123",
       "part": 3,
-      "startTime": 849.76,
-      "endTime": 854.0,
-      "text": "and that led them to marrying people they never could have met in the past.",
+      "startTime": 933.02,
+      "endTime": 936.3,
+      "text": "Well, it must enable pupils to get to school more easily.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-124",
       "part": 3,
-      "startTime": 854.0,
-      "endTime": 859.68,
-      "text": "That changed society, and I'd like to discuss it in our presentation. Oh, good idea.",
+      "startTime": 936.6,
+      "endTime": 938.98,
+      "text": "But does attendance actually improve?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-125",
       "part": 3,
-      "startTime": 859.68,
-      "endTime": 865.22,
-      "text": "So what should we stress about changing attitudes to bicycles in the 20th century?",
+      "startTime": 939.6,
+      "endTime": 944.34,
+      "text": "If there's any data to support that, we need to include it, but I haven't found enough.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-126",
       "part": 3,
-      "startTime": 865.22,
-      "endTime": 870.49,
-      "text": "Well, the bicycle was an important means of transport through the early 1900s,",
+      "startTime": 944.54,
+      "endTime": 946.7,
+      "text": "Let's look into that later.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-127",
       "part": 3,
-      "startTime": 870.49,
-      "endTime": 878.0,
-      "text": "and that continued until the 1950s, when cars became available to the general population and much more popular.",
+      "startTime": 992.9,
+      "endTime": 995.98,
+      "text": "Could we look at the results of the survey we did with cyclists?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-128",
       "part": 3,
-      "startTime": 878.0,
-      "endTime": 881.73,
-      "text": "That led to people losing interest in bikes for a while.",
+      "startTime": 996.74,
+      "endTime": 999.36,
+      "text": "We each spoke to different people. Yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-129",
       "part": 3,
-      "startTime": 881.73,
-      "endTime": 888.4,
-      "text": "I hadn't realised the impact that people's love of motorised transport had on the bike's reputation.",
+      "startTime": 999.82,
+      "endTime": 1002.66,
+      "text": "One of my first interviewees was David.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-130",
       "part": 3,
-      "startTime": 888.4,
-      "endTime": 891.0,
-      "text": "Yes, that's a key point we should make.",
+      "startTime": 1002.88,
+      "endTime": 1009.6,
+      "text": "He works from home and spends a lot of time indoors, so at weekends he goes out with a cycling club.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-131",
       "part": 3,
-      "startTime": 892.0,
-      "endTime": 897.52,
-      "text": "Then the fold-up bike and others came along in the 60s, which helped sales pick up. Hmm.",
+      "startTime": 1009.84,
+      "endTime": 1016.24,
+      "text": "He said it's a way to connect with people apart from the other benefits. OK. Who else?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-132",
       "part": 3,
-      "startTime": 897.52,
-      "endTime": 905.11,
-      "text": "Then things stayed fairly stable until the fitness craze of the 80s piqued interest in mountain biking and sales went up,",
+      "startTime": 1016.7,
+      "endTime": 1019.76,
+      "text": "I interviewed a woman called Marlene.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-133",
       "part": 3,
-      "startTime": 905.11,
-      "endTime": 909.0,
-      "text": "but the bike had lost its position as a key mode of transport.",
+      "startTime": 1019.8,
+      "endTime": 1023.7,
+      "text": "I asked her what her main reason for using a bike was.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-134",
       "part": 3,
-      "startTime": 909.0,
-      "endTime": 914.57,
-      "text": "Right. I'd like to talk about some current projects around the world involving bikes.",
+      "startTime": 1023.7,
+      "endTime": 1032.66,
+      "text": "She's got young children and doesn't have much free time, so cycling to work is a way for her to keep fit. That's what she liked about it. OK.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-135",
       "part": 3,
-      "startTime": 914.57,
-      "endTime": 919.94,
-      "text": "How about the scheme in an American school that provides bikes for all its pupils?",
+      "startTime": 1033.38,
+      "endTime": 1035.08,
+      "text": "How about Annabelle?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-136",
       "part": 3,
-      "startTime": 919.94,
-      "endTime": 924.0,
-      "text": "I expect the pupils are delighted, not to mention the parents.",
+      "startTime": 1035.28,
+      "endTime": 1040.8,
+      "text": "Was she the one who sold her car and uses a bike instead? Was that because of pollution?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-137",
       "part": 3,
-      "startTime": 924.0,
-      "endTime": 930.16,
-      "text": "I suppose so, although I wonder how much it costs. Probably not as much as other initiatives.",
+      "startTime": 1041.12,
+      "endTime": 1049.92,
+      "text": "She did sell her car, but her choice to travel by bike was made for financial reasons as she was paying so much for petrol. I see.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-138",
       "part": 3,
-      "startTime": 930.16,
-      "endTime": 934.0,
-      "text": "I just wonder if the advantages really justify the scheme.",
+      "startTime": 1050.82,
+      "endTime": 1052.06,
+      "text": "And Rashid?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-139",
       "part": 3,
-      "startTime": 934.0,
-      "endTime": 939.91,
-      "text": "Well, it must enable pupils to get to school more easily. But does attendance actually improve?",
+      "startTime": 1052.38,
+      "endTime": 1055.02,
+      "text": "He was probably the oldest person we spoke to.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-140",
       "part": 3,
-      "startTime": 939.91,
-      "endTime": 945.32,
-      "text": "If there's any data to support that, we need to include it, but I haven't found enough.",
+      "startTime": 1055.24,
+      "endTime": 1060.56,
+      "text": "He's in his seventies, yes, and he's been cycling around the city for years.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-141",
       "part": 3,
-      "startTime": 945.32,
-      "endTime": 947.0,
-      "text": "Let's look into that later.",
+      "startTime": 1060.78,
+      "endTime": 1069.8,
+      "text": "He said that there are several advantages, but he really loves the way it helps him think clearly and takes his mind off any worries he has. Great.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-142",
       "part": 3,
-      "startTime": 951.0,
-      "endTime": 970.64,
-      "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30.",
+      "startTime": 1070.36,
+      "endTime": 1071.34,
+      "text": "What about you?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-143",
       "part": 3,
-      "startTime": 970.64,
-      "endTime": 979.3,
-      "text": "Now listen and answer questions 25 to 30.",
+      "startTime": 1071.56,
+      "endTime": 1073.5,
+      "text": "Have you got notes about Saira?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-144",
       "part": 3,
-      "startTime": 979.3,
-      "endTime": 992.82,
-      "text": "Could we look at the results of the survey we did with cyclists?",
+      "startTime": 1074.16,
+      "endTime": 1076.54,
+      "text": "Yes, I spoke to her last week.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-145",
       "part": 3,
-      "startTime": 992.82,
-      "endTime": 1000.0,
-      "text": "We each spoke to different people.",
+      "startTime": 1077.16,
+      "endTime": 1086.18,
+      "text": "She lives in the countryside and she loves being on her bike in the open air and enjoying the beautiful environment and landscape around her. Right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-146",
       "part": 3,
-      "startTime": 1000.0,
-      "endTime": 1003.06,
-      "text": "Yes. One of my first interviewees was David.",
+      "startTime": 1086.44,
+      "endTime": 1089.26,
+      "text": "The last person I interviewed was Giovanni.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-147",
       "part": 3,
-      "startTime": 1003.06,
-      "endTime": 1010.0,
-      "text": "He works from home and spends a lot of time indoors, so at weekends he goes out with a cycling club.",
+      "startTime": 1089.46,
+      "endTime": 1095.94,
+      "text": "He's very practical and he said it's just easier for him to use a bike to get around town than to drive.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-148",
       "part": 3,
-      "startTime": 1011.0,
-      "endTime": 1017.29,
-      "text": "He said it's a way to connect with people apart from the other benefits. OK. Who else?",
+      "startTime": 1096.26,
+      "endTime": 1103.98,
+      "text": "He finds sitting in traffic and looking for parking spaces too time consuming, so he switched to using a bike instead. Great.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-149",
       "part": 3,
-      "startTime": 1017.29,
-      "endTime": 1020.0,
-      "text": "I interviewed a woman called Marlene.",
+      "startTime": 1104.32,
+      "endTime": 1105.92,
+      "text": "Shall we meet next week?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-150",
-      "part": 3,
-      "startTime": 1021.0,
-      "endTime": 1024.39,
-      "text": "I asked her what her main reason for using a bike was.",
+      "part": 4,
+      "startTime": 1228.98,
+      "endTime": 1229.38,
+      "text": "Afternoon, everyone.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-151",
-      "part": 3,
-      "startTime": 1024.39,
-      "endTime": 1031.05,
-      "text": "She's got young children and doesn't have much free time, so cycling to work is a way for her to keep fit.",
+      "part": 4,
+      "startTime": 1229.38,
+      "endTime": 1232.84,
+      "text": "Now, archaeologists don't know a great deal about the Patagon people.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-152",
-      "part": 3,
-      "startTime": 1031.05,
-      "endTime": 1033.0,
-      "text": "That's what she liked about it.",
+      "part": 4,
+      "startTime": 1233.12,
+      "endTime": 1241.98,
+      "text": "However, they did leave behind one important piece of evidence, a type of coat that was worn over the body for warmth that gives us valuable information about this lost culture.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-153",
-      "part": 3,
-      "startTime": 1033.0,
-      "endTime": 1038.88,
-      "text": "OK. How about Annabelle? Was she the one who sold her car and uses a bike instead?",
+      "part": 4,
+      "startTime": 1250.22,
+      "endTime": 1250.93,
+      "text": "Young animals",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-154",
-      "part": 3,
-      "startTime": 1038.88,
-      "endTime": 1041.03,
-      "text": "Was that because of pollution?",
+      "part": 4,
+      "startTime": 1253.74,
+      "endTime": 1258.14,
+      "text": "were preferred as their skin was soft, which made it easy to work with.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-155",
-      "part": 3,
-      "startTime": 1041.03,
-      "endTime": 1049.85,
-      "text": "She did sell her car, but her choice to travel by bike was made for financial reasons as she was paying so much for petrol.",
+      "part": 4,
+      "startTime": 1258.38,
+      "endTime": 1263.06,
+      "text": "For the Patagon men, hunting was a way of life, particularly hunting guanaco.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-156",
-      "part": 3,
-      "startTime": 1049.85,
-      "endTime": 1054.51,
-      "text": "I see. And Rashid? He was probably the oldest person we spoke to.",
+      "part": 4,
+      "startTime": 1263.7,
+      "endTime": 1271.98,
+      "text": "However, once the animals were killed, then different skills were needed, and it was the women who were mostly responsible for the manufacturing process.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-157",
-      "part": 3,
-      "startTime": 1054.51,
-      "endTime": 1059.96,
-      "text": "He's in his seventies, yes, and he's been cycling around the city for years.",
+      "part": 4,
+      "startTime": 1272.44,
+      "endTime": 1279.98,
+      "text": "In particular, it was their ability to sew together many small skins into a coat that made women integral to the process.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-158",
-      "part": 3,
-      "startTime": 1059.96,
-      "endTime": 1070.0,
-      "text": "He said that there are several advantages, but he really loves the way it helps him think clearly and takes his mind off any worries he has.",
+      "part": 4,
+      "startTime": 1280.72,
+      "endTime": 1286.44,
+      "text": "So, the first thing they did was get the skins ready, and for this they used a special scraper tool.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-159",
-      "part": 3,
-      "startTime": 1070.0,
-      "endTime": 1076.39,
-      "text": "Great. What about you? Have you got notes about Saira? Yes, I spoke to her last week.",
+      "part": 4,
+      "startTime": 1286.9,
+      "endTime": 1291.86,
+      "text": "Several examples of the scrapers may still be seen today in various museums in the region.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-160",
-      "part": 3,
-      "startTime": 1076.39,
-      "endTime": 1087.0,
-      "text": "She lives in the countryside and she loves being on her bike in the open air and enjoying the beautiful environment and landscape around her.",
+      "part": 4,
+      "startTime": 1292.3,
+      "endTime": 1296.98,
+      "text": "They were constructed from specially sharpened stone, so have survived remarkably well.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-161",
-      "part": 3,
-      "startTime": 1087.0,
-      "endTime": 1090.25,
-      "text": "Right. The last person I interviewed was Giovanni.",
+      "part": 4,
+      "startTime": 1298.08,
+      "endTime": 1307.44,
+      "text": "Once the skins were clean, they were usually decorated, usually done by painting on colours, mostly some combination of red, yellow and green.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-162",
-      "part": 3,
-      "startTime": 1090.25,
-      "endTime": 1097.0,
-      "text": "He's very practical and he said it's just easier for him to use a bike to get around town than to drive.",
+      "part": 4,
+      "startTime": 1307.86,
+      "endTime": 1315.4,
+      "text": "The colours themselves occurred naturally in minerals that were dug up from the ground and processed, usually by mixing with water.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-163",
-      "part": 3,
-      "startTime": 1098.0,
-      "endTime": 1126.61,
-      "text": "He finds sitting in traffic and looking for parking spaces too time consuming, so he switched to using a bike instead.",
+      "part": 4,
+      "startTime": 1315.98,
+      "endTime": 1322.88,
+      "text": "This basically was the way the Patagon people made coats for, well, over a thousand years and perhaps longer.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-164",
-      "part": 3,
-      "startTime": 1126.61,
-      "endTime": 1134.13,
-      "text": "Great. Shall we meet next week?",
+      "part": 4,
+      "startTime": 1323.44,
+      "endTime": 1327.66,
+      "text": "But the process changed dramatically after the Spanish arrived in the early 1500s.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-165",
-      "part": 3,
-      "startTime": 1134.13,
-      "endTime": 1140.43,
-      "text": "That is the end of Part 3.",
+      "part": 4,
+      "startTime": 1329.36,
+      "endTime": 1332.82,
+      "text": "The coming of the Spanish obviously had numerous impacts on the area,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-166",
-      "part": 3,
-      "startTime": 1140.43,
-      "endTime": 1154.0,
-      "text": "You now have 30 seconds to check your answers to Part 3.",
+      "part": 4,
+      "startTime": 1333.82,
+      "endTime": 1338.88,
+      "text": "but in terms of coat making, there was one significant development in the hunting technique.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-167",
       "part": 4,
-      "startTime": 1154.0,
-      "endTime": 1155.0,
-      "text": "You will hear part of a lecture about archaeological research in the Patagonia region of South America.",
+      "startTime": 1339.56,
+      "endTime": 1345.98,
+      "text": "Many more guanaco were hunted after the introduction of the horse to the region, which made the Patagon people more mobile.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-168",
       "part": 4,
-      "startTime": 1155.0,
-      "endTime": 1182.78,
-      "text": "First, you have some time to look at questions 31 to 40.",
+      "startTime": 1347.06,
+      "endTime": 1354.66,
+      "text": "Another important development was that the Spanish themselves liked, were great admirers of the coats and bought them for high prices,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-169",
       "part": 4,
-      "startTime": 1182.78,
-      "endTime": 1208.08,
-      "text": "Now listen carefully and answer questions 31 to 40.",
+      "startTime": 1355.1,
+      "endTime": 1363.84,
+      "text": "so that while in the past guanaco had only been hunted to meet subsistence needs, now the coats were increasingly part of a commercial process,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-170",
       "part": 4,
-      "startTime": 1208.08,
-      "endTime": 1218.0,
-      "text": "Afternoon, everyone.",
+      "startTime": 1364.1,
+      "endTime": 1366.18,
+      "text": "I mean something that could be bought and sold for money.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-171",
       "part": 4,
-      "startTime": 1219.0,
-      "endTime": 1221.31,
-      "text": "Welcome to today's archaeology lecture.",
+      "startTime": 1367.74,
+      "endTime": 1370.2,
+      "text": "And that meant many more guanaco were hunted as well.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-172",
       "part": 4,
-      "startTime": 1221.31,
-      "endTime": 1229.91,
-      "text": "This afternoon's topic will be the Patagon civilisation that flourished at the southern tip of the South American continent around 600 years ago.",
+      "startTime": 1371.78,
+      "endTime": 1376.4,
+      "text": "Finally, the manufacturing process itself was changed by the arrival of the Spanish.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-173",
       "part": 4,
-      "startTime": 1229.91,
-      "endTime": 1234.0,
-      "text": "Now, archaeologists don't know a great deal about the Patagon people.",
+      "startTime": 1376.64,
+      "endTime": 1381.96,
+      "text": "That's because they bought many new materials with them that weren't previously known in the region.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-174",
       "part": 4,
-      "startTime": 1234.0,
-      "endTime": 1237.69,
-      "text": "However, they did leave behind one important piece of evidence,",
+      "startTime": 1382.2,
+      "endTime": 1388.8,
+      "text": "Most important for coat making, the old scrapers used for cleaning the skins were replaced with new ones made from glass,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-175",
       "part": 4,
-      "startTime": 1237.69,
-      "endTime": 1244.31,
-      "text": "a type of coat that was worn over the body for warmth that gives us valuable information about this lost culture.",
+      "startTime": 1388.8,
+      "endTime": 1392.52,
+      "text": "and this was more effective and easier to keep sharp.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-176",
       "part": 4,
-      "startTime": 1244.31,
-      "endTime": 1249.0,
-      "text": "The coat was made from the fur of the guanaco. That's a wild animal like a goat.",
+      "startTime": 1397.28,
+      "endTime": 1400.36,
+      "text": "So what conclusions can we draw from Patagon coats?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-177",
       "part": 4,
-      "startTime": 1250.0,
-      "endTime": 1253.88,
-      "text": "And it took as many as 13 young guanaco to make a single coat.",
+      "startTime": 1400.66,
+      "endTime": 1407.5,
+      "text": "Well, the striking designs that were painted onto many of the more elaborate coats have always fascinated archaeologists.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-178",
       "part": 4,
-      "startTime": 1253.88,
-      "endTime": 1259.19,
-      "text": "Young animals were preferred as their skin was soft, which made it easy to work with.",
+      "startTime": 1408.12,
+      "endTime": 1412.34,
+      "text": "These patterns must have their origins far back in prehistoric times.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-179",
       "part": 4,
-      "startTime": 1259.19,
-      "endTime": 1264.0,
-      "text": "For the Patagon men, hunting was a way of life, particularly hunting guanaco.",
+      "startTime": 1412.52,
+      "endTime": 1414.58,
+      "text": "We are able to say this with some confidence",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-180",
       "part": 4,
-      "startTime": 1265.0,
-      "endTime": 1269.31,
-      "text": "However, once the animals were killed, then different skills were needed,",
+      "startTime": 1414.58,
+      "endTime": 1421.98,
+      "text": "because very similar designs have been found in examples of art painted on the rock walls of caves that have very ancient origins.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-181",
       "part": 4,
-      "startTime": 1269.31,
-      "endTime": 1273.97,
-      "text": "and it was the women who were mostly responsible for the manufacturing process.",
+      "startTime": 1422.88,
+      "endTime": 1427.78,
+      "text": "Did the designs have any significance, or were they merely decorations?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-182",
       "part": 4,
-      "startTime": 1273.97,
-      "endTime": 1281.11,
-      "text": "In particular, it was their ability to sew together many small skins into a coat that made women integral to the process.",
+      "startTime": 1427.92,
+      "endTime": 1432.8,
+      "text": "The answer isn't clear, but some archaeologists have been prepared to speculate.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-183",
       "part": 4,
-      "startTime": 1281.11,
-      "endTime": 1287.0,
-      "text": "So, the first thing they did was get the skins ready, and for this they used a special scraper tool.",
+      "startTime": 1433.12,
+      "endTime": 1439.56,
+      "text": "One possibility is that the designs may have represented a way of connecting with ancestors from previous times,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-184",
       "part": 4,
-      "startTime": 1288.0,
-      "endTime": 1293.64,
-      "text": "Several examples of the scrapers may still be seen today in various museums in the region.",
+      "startTime": 1439.56,
+      "endTime": 1443.6,
+      "text": "and this is certainly an idea that deserves further investigation.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-185",
       "part": 4,
-      "startTime": 1293.64,
-      "endTime": 1299.09,
-      "text": "They were constructed from specially sharpened stone, so have survived remarkably well.",
+      "startTime": 1444.38,
+      "endTime": 1448.98,
+      "text": "Another interesting speculation concerns the location of large Patagon settlements.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-186",
       "part": 4,
-      "startTime": 1299.09,
-      "endTime": 1308.0,
-      "text": "Once the skins were clean, they were usually decorated, usually done by painting on colours, mostly some combination of red, yellow and green.",
+      "startTime": 1449.66,
+      "endTime": 1455.8,
+      "text": "Because the natural habitat of the young Guanaco was the rich grasslands of inland areas,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-187",
       "part": 4,
-      "startTime": 1309.0,
-      "endTime": 1317.14,
-      "text": "The colours themselves occurred naturally in minerals that were dug up from the ground and processed, usually by mixing with water.",
+      "startTime": 1456.24,
+      "endTime": 1461.76,
+      "text": "it seems unlikely that these were constructed around the coast, but rather in parts of the interior.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-188",
       "part": 4,
-      "startTime": 1317.14,
-      "endTime": 1323.91,
-      "text": "This basically was the way the Patagon people made coats for, well, over a thousand years and perhaps longer.",
+      "startTime": 1463.06,
+      "endTime": 1468.68,
+      "text": "Finally, we should note that the traditional art of coat making has long since been lost in this region,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-189",
       "part": 4,
-      "startTime": 1323.91,
-      "endTime": 1329.0,
-      "text": "But the process changed dramatically after the Spanish arrived in the early 1500s.",
+      "startTime": 1468.9,
+      "endTime": 1477.58,
+      "text": "but Patagon shepherds today do still employ some of the same techniques to make blankets in the winter months, though there is no painting or design work involved.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-190",
       "part": 4,
-      "startTime": 1331.0,
-      "endTime": 1335.01,
-      "text": "The coming of the Spanish obviously had numerous impacts on the area,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-191",
-      "part": 4,
-      "startTime": 1335.01,
-      "endTime": 1340.36,
-      "text": "but in terms of coat making, there was one significant development in the hunting technique.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-192",
-      "part": 4,
-      "startTime": 1340.36,
-      "endTime": 1347.51,
-      "text": "Many more guanaco were hunted after the introduction of the horse to the region, which made the Patagon people more mobile.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-193",
-      "part": 4,
-      "startTime": 1347.51,
-      "endTime": 1360.07,
-      "text": "Another important development was that the Spanish themselves liked, were great admirers of the coats and bought them for high prices, so that while in the past guanaco had only been hunted to meet subsistence needs,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-194",
-      "part": 4,
-      "startTime": 1360.07,
-      "endTime": 1367.0,
-      "text": "now the coats were increasingly part of a commercial process, I mean something that could be bought and sold for money.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-195",
-      "part": 4,
-      "startTime": 1369.0,
-      "endTime": 1371.91,
-      "text": "And that meant many more guanaco were hunted as well.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-196",
-      "part": 4,
-      "startTime": 1371.91,
-      "endTime": 1376.52,
-      "text": "Finally, the manufacturing process itself was changed by the arrival of the Spanish.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-197",
-      "part": 4,
-      "startTime": 1376.52,
-      "endTime": 1382.0,
-      "text": "That's because they bought many new materials with them that weren't previously known in the region.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-198",
-      "part": 4,
-      "startTime": 1384.0,
-      "endTime": 1392.46,
-      "text": "Most important for coat making, the old scrapers used for cleaning the skins were replaced with new ones made from glass,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-199",
-      "part": 4,
-      "startTime": 1392.46,
-      "endTime": 1396.16,
-      "text": "and this was more effective and easier to keep sharp.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-200",
-      "part": 4,
-      "startTime": 1396.16,
-      "endTime": 1399.72,
-      "text": "So what conclusions can we draw from Patagon coats?",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-201",
-      "part": 4,
-      "startTime": 1399.72,
-      "endTime": 1408.18,
-      "text": "Well, the striking designs that were painted onto many of the more elaborate coats have always fascinated archaeologists.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-202",
-      "part": 4,
-      "startTime": 1408.18,
-      "endTime": 1413.0,
-      "text": "These patterns must have their origins far back in prehistoric times.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-203",
-      "part": 4,
-      "startTime": 1413.0,
-      "endTime": 1423.76,
-      "text": "We are able to say this with some confidence because very similar designs have been found in examples of art painted on the rock walls of caves that have very ancient origins.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-204",
-      "part": 4,
-      "startTime": 1423.76,
-      "endTime": 1428.13,
-      "text": "Did the designs have any significance, or were they merely decorations?",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-205",
-      "part": 4,
-      "startTime": 1428.13,
-      "endTime": 1433.05,
-      "text": "The answer isn't clear, but some archaeologists have been prepared to speculate.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-206",
-      "part": 4,
-      "startTime": 1433.05,
-      "endTime": 1439.94,
-      "text": "One possibility is that the designs may have represented a way of connecting with ancestors from previous times,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-207",
-      "part": 4,
-      "startTime": 1439.94,
-      "endTime": 1444.0,
-      "text": "and this is certainly an idea that deserves further investigation.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-208",
-      "part": 4,
-      "startTime": 1446.0,
-      "endTime": 1451.08,
-      "text": "Another interesting speculation concerns the location of large Patagon settlements.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-209",
-      "part": 4,
-      "startTime": 1451.08,
-      "endTime": 1456.53,
-      "text": "Because the natural habitat of the young Guanaco was the rich grasslands of inland areas,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-210",
-      "part": 4,
-      "startTime": 1456.53,
-      "endTime": 1462.65,
-      "text": "it seems unlikely that these were constructed around the coast, but rather in parts of the interior.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-211",
-      "part": 4,
-      "startTime": 1462.65,
-      "endTime": 1469.02,
-      "text": "Finally, we should note that the traditional art of coat making has long since been lost in this region,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-212",
-      "part": 4,
-      "startTime": 1469.02,
-      "endTime": 1479.0,
-      "text": "but Patagon shepherds today do still employ some of the same techniques to make blankets in the winter months, though there is no painting or design work involved.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-213",
-      "part": 4,
-      "startTime": 1480.0,
-      "endTime": 1506.59,
-      "text": "Well, that is the end of my lecture, but if you have any questions, please feel free...",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-214",
-      "part": 4,
-      "startTime": 1511.04,
-      "endTime": 1506.59,
-      "text": "That is the end of part four.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-215",
-      "part": 4,
-      "startTime": 1521.39,
-      "endTime": 1506.59,
-      "text": "You now have one minute to check your answers to part four.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-216",
-      "part": 4,
-      "startTime": 1542.44,
-      "endTime": 1506.59,
-      "text": "That is the end of the listening test.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-217",
-      "part": 4,
-      "startTime": 1556.0,
-      "endTime": 1506.59,
-      "text": "You now have ten minutes to transfer your answers to the listening answer sheet.",
+      "startTime": 1478.6,
+      "endTime": 1482.66,
+      "text": "Well, that is the end of my lecture, but if you have any questions, please feel free.",
       "timestampSource": "exact",
       "qTags": []
     }
@@ -2764,9 +2521,9 @@
     {
       "id": "long-001",
       "part": 1,
-      "startTime": 0.0,
-      "endTime": 20.05,
-      "text": "Part 1. You will hear a telephone conversation between a woman and a staff member of an airline. First you have some time to look at questions 1 to 4.",
+      "startTime": 39.36,
+      "endTime": 64.32,
+      "text": "Kiwi Air, good morning. You're speaking with Roger. How may I help you? Yes, hi. My name's Janet. I've just been trying to make a booking on the internet and I'm having a problem that I'd like to complain about. So let me just take down your full name. It's Janet Quigley. That's Q-U-I-G-L-E-Y. Thank you.",
       "segmentIds": [
         "seg-001",
         "seg-002",
@@ -2777,36 +2534,26 @@
     {
       "id": "long-002",
       "part": 1,
-      "startTime": 20.05,
-      "endTime": 39.7,
-      "text": "Now listen carefully and answer questions 1 to 4. Kiwi Air, good morning. You're speaking with Roger. How may I help you? Yes, hi. My name's Janet.",
+      "startTime": 64.66,
+      "endTime": 83.06,
+      "text": "And what's the problem exactly? Well, yes. I'm trying to book myself and three children, so four tickets, to fly within New Zealand. We're wanting to fly from Wellington to Christchurch. Not one way, I mean, but return. So it's just a simple booking.",
       "segmentIds": [
         "seg-004",
         "seg-005",
-        "seg-006"
+        "seg-006",
+        "seg-007",
+        "seg-008"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-003",
       "part": 1,
-      "startTime": 39.7,
-      "endTime": 64.0,
-      "text": "I've just been trying to make a booking on the internet and I'm having a problem that I'd like to complain about. So let me just take down your full name. It's Janet Quigley. That's Q-U-I-G-L-E-Y.",
+      "startTime": 83.06,
+      "endTime": 103.5,
+      "text": "Yes, and you've put your dates in, have you? Yes, the dates are... um... what are we in now? It's September, isn't it? So I'm booking for October. Oh, sorry, I mean November. The 10th till the 15th. Right. Let me just get that down on the form.",
       "segmentIds": [
-        "seg-007",
-        "seg-008",
-        "seg-009"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-004",
-      "part": 1,
-      "startTime": 65.0,
-      "endTime": 84.0,
-      "text": "Thank you. And what's the problem exactly? Well, yes. I'm trying to book myself and three children, so four tickets, to fly within New Zealand. We're wanting to fly from Wellington to Christchurch. Not one way, I mean, but return. So it's just a simple booking.",
-      "segmentIds": [
+        "seg-009",
         "seg-010",
         "seg-011",
         "seg-012",
@@ -2815,41 +2562,41 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-005",
+      "id": "long-004",
       "part": 1,
-      "startTime": 84.0,
-      "endTime": 106.62,
-      "text": "Yes, and you've put your dates in, have you? Yes, the dates are... um... what are we in now? It's September, isn't it? So I'm booking for October. Oh, sorry, I mean November. The 10th till the 15th. Right. Let me just get that down on the form. And what time would that be?",
+      "startTime": 103.8,
+      "endTime": 127.1,
+      "text": "And what time would that be? We'd be leaving at 11.45 in the morning, arriving into Christchurch at 12.30. Mm-hm. I know that it's cheaper to not make the reservation in person, so to save paying the fee, I've been trying to do it through your home page. Yes, so what's the problem exactly? Well, every time I put in the number of adults",
       "segmentIds": [
         "seg-014",
         "seg-015",
         "seg-016",
-        "seg-017"
+        "seg-017",
+        "seg-018"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 127.1,
+      "endTime": 147.02,
+      "text": "and children travelling, the website automatically alters the rate for one of the children to what you'd pay for an adult. It's very annoying. I'm getting so frustrated with it. And each time I change it back, I've been getting error messages telling me to call you directly. I really can't understand it.",
+      "segmentIds": [
+        "seg-019",
+        "seg-020",
+        "seg-021",
+        "seg-022"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-006",
       "part": 1,
-      "startTime": 106.62,
-      "endTime": 130.0,
-      "text": "We'd be leaving at 11.45 in the morning, arriving into Christchurch at 12.30. Mm-hm. I know that it's cheaper to not make the reservation in person, so to save paying the fee, I've been trying to do it through your home page. Yes, so what's the problem exactly? Well, every time I put in the number of adults and children travelling,",
+      "startTime": 192.38,
+      "endTime": 211.94,
+      "text": "All right, well, yes, there is a reason for why that's happening. It's Kiwi Air policy, I'm afraid, to allow a maximum of two children to travel on childfares with just the one adult accompanying them. So because there's three of them and just me, do you mean I have to pay an adult fare for one of my children? Yes, that's right.",
       "segmentIds": [
-        "seg-018",
-        "seg-019",
-        "seg-020",
-        "seg-021"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-007",
-      "part": 1,
-      "startTime": 130.0,
-      "endTime": 148.0,
-      "text": "the website automatically alters the rate for one of the children to what you'd pay for an adult. It's very annoying. I'm getting so frustrated with it. And each time I change it back, I've been getting error messages telling me to call you directly. I really can't understand it.",
-      "segmentIds": [
-        "seg-022",
         "seg-023",
         "seg-024",
         "seg-025"
@@ -2857,24 +2604,14 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-008",
+      "id": "long-007",
       "part": 1,
-      "startTime": 151.0,
-      "endTime": 181.98,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions 5 to 10. Now listen and answer questions 5 to 10.",
+      "startTime": 212.42,
+      "endTime": 232.42,
+      "text": "But I've flown to Australia before on my own with the children, and we didn't have to pay extra. It's a policy that we've just introduced for domestic air travel. It may be extended later for international travel as well. But an adult fare is for someone over the age of 12. My children are only 11, 8 and 5.",
       "segmentIds": [
         "seg-026",
-        "seg-027"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-009",
-      "part": 1,
-      "startTime": 181.98,
-      "endTime": 211.31,
-      "text": "All right, well, yes, there is a reason for why that's happening. It's Kiwi Air policy, I'm afraid, to allow a maximum of two children to travel on childfares with just the one adult accompanying them. So because there's three of them and just me, do you mean I have to pay an adult fare for one of my children?",
-      "segmentIds": [
+        "seg-027",
         "seg-028",
         "seg-029",
         "seg-030"
@@ -2882,11 +2619,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-010",
+      "id": "long-008",
       "part": 1,
-      "startTime": 211.31,
-      "endTime": 230.0,
-      "text": "Yes, that's right. But I've flown to Australia before on my own with the children, and we didn't have to pay extra. It's a policy that we've just introduced for domestic air travel. It may be extended later for international travel as well. But an adult fare is for someone over the age of 12.",
+      "startTime": 232.56,
+      "endTime": 250.28,
+      "text": "It's not fair to charge them for an adult rate. Besides, they actually eat less than an adult, so they wouldn't consume as much food on the plane. I just don't think it's right. Well, I'm sorry, but that's how we charge. We do look after children well on our flights, you know.",
       "segmentIds": [
         "seg-031",
         "seg-032",
@@ -2897,27 +2634,27 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-011",
+      "id": "long-009",
       "part": 1,
-      "startTime": 231.0,
-      "endTime": 250.58,
-      "text": "My children are only 11, 8 and 5. It's not fair to charge them for an adult rate. Besides, they actually eat less than an adult, so they wouldn't consume as much food on the plane. I just don't think it's right. Well, I'm sorry, but that's how we charge. We do look after children well on our flights, you know.",
+      "startTime": 250.28,
+      "endTime": 271.22,
+      "text": "We give them little packs of games and coloured pencils so they have something to do, you know. Well, still, the difference to pay between the fares is a lot of extra money that I hadn't budgeted for. It seems to me that your rules discriminate against a parent travelling on their own with the children, and also families with lots of children.",
       "segmentIds": [
         "seg-036",
         "seg-037",
-        "seg-038",
-        "seg-039",
-        "seg-040"
+        "seg-038"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-012",
+      "id": "long-010",
       "part": 1,
-      "startTime": 250.58,
-      "endTime": 272.71,
-      "text": "We give them little packs of games and coloured pencils so they have something to do, you know. Well, still, the difference to pay between the fares is a lot of extra money that I hadn't budgeted for. It seems to me that your rules discriminate against a parent travelling on their own with the children, and also families with lots of children.",
+      "startTime": 271.5,
+      "endTime": 287.22,
+      "text": "And what about school groups? That wouldn't be fair. Well, madam, yes, I can see your point. You're welcome to put your complaint in writing if that's what you'd like to do. Well, I certainly would. I'll be writing a letter to your customer services officer, is it?",
       "segmentIds": [
+        "seg-039",
+        "seg-040",
         "seg-041",
         "seg-042",
         "seg-043"
@@ -2925,11 +2662,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-013",
+      "id": "long-011",
       "part": 1,
-      "startTime": 272.71,
-      "endTime": 289.22,
-      "text": "And what about school groups? That wouldn't be fair. Well, madam, yes, I can see your point. You're welcome to put your complaint in writing if that's what you'd like to do. Well, I certainly would. I'll be writing a letter to your customer services officer, is it?",
+      "startTime": 287.74,
+      "endTime": 302.2,
+      "text": "Just address it to the manager. Then it will reach the right person. That's fine. That's your right to do that. And how soon do you think they'll get back to me? I must say, I really am shocked at this. I'm not happy about it at all.",
       "segmentIds": [
         "seg-044",
         "seg-045",
@@ -2940,60 +2677,40 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-014",
+      "id": "long-012",
       "part": 1,
-      "startTime": 289.22,
-      "endTime": 304.0,
-      "text": "Just address it to the manager. Then it will reach the right person. That's fine. That's your right to do that. And how soon do you think they'll get back to me? I must say, I really am shocked at this. I'm not happy about it at all.",
+      "startTime": 302.2,
+      "endTime": 328.98,
+      "text": "Um, well, at busy times it sometimes takes a month, but it's low season now, so you should expect to receive a response probably inside a week. You need to take down this reference number. I'll just give it to you. It's GBK8422. All right, then. I'll put that in the letter. Well, thanks for your help. Thank you for calling Kiwi Air.",
       "segmentIds": [
         "seg-049",
         "seg-050",
-        "seg-051"
+        "seg-051",
+        "seg-052"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-015",
-      "part": 1,
-      "startTime": 304.0,
-      "endTime": 325.0,
-      "text": "Um, well, at busy times it sometimes takes a month, but it's low season now, so you should expect to receive a response probably inside a week. You need to take down this reference number. I'll just give it to you. It's GBK8422. All right, then. I'll put that in the letter.",
+      "id": "long-013",
+      "part": 2,
+      "startTime": 450.12,
+      "endTime": 461.98,
+      "text": "Good afternoon, everyone. Thank you for coming to the meeting. My name is Bob McDonald, and I'm the manager of the Linwood apartment complex. Firstly, I'd like to welcome you all. I'm sure you'll enjoy living here.",
       "segmentIds": [
-        "seg-052",
         "seg-053",
-        "seg-054"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-016",
-      "part": 1,
-      "startTime": 326.0,
-      "endTime": 367.21,
-      "text": "Well, thanks for your help. Thank you for calling Kiwi Air.",
-      "segmentIds": [
+        "seg-054",
         "seg-055",
-        "seg-056"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-017",
-      "part": 1,
-      "startTime": 367.21,
-      "endTime": 407.0,
-      "text": "You now have one minute to check your answers to Part 1.",
-      "segmentIds": [
+        "seg-056",
         "seg-057"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-018",
+      "id": "long-014",
       "part": 2,
-      "startTime": 407.0,
-      "endTime": 443.67,
-      "text": "You will hear the manager of the Linwood apartment complex introducing the complex to a group of new residents. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14.",
+      "startTime": 463.08,
+      "endTime": 483.98,
+      "text": "Let's start with a little bit of history about the Linwood apartments. The council first discussed the concept of this project five years ago, but there was a small delay initially while plans and administration were completed. Work finally started three years later, and one year ago the complex was finished and received its first residents, and I'm happy to say it's been a great place to live ever since.",
       "segmentIds": [
         "seg-058",
         "seg-059",
@@ -3002,43 +2719,53 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-019",
+      "id": "long-015",
       "part": 2,
-      "startTime": 443.67,
-      "endTime": 462.84,
-      "text": "Good afternoon, everyone. Thank you for coming to the meeting. My name is Bob McDonald, and I'm the manager of the Linwood apartment complex. Firstly, I'd like to welcome you all. I'm sure you'll enjoy living here.",
+      "startTime": 485.12,
+      "endTime": 502.26,
+      "text": "So now just a little bit more about my role within the complex. I'm responsible for ensuring that rent is paid on time, but I can't say I get a lot of satisfaction from that aspect of the job. Fortunately, because the building is quite new, there is generally little to do to keep everything in good working order.",
       "segmentIds": [
         "seg-061",
         "seg-062",
-        "seg-063",
-        "seg-064",
-        "seg-065"
+        "seg-063"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-020",
+      "id": "long-016",
       "part": 2,
-      "startTime": 462.84,
-      "endTime": 485.68,
-      "text": "Let's start with a little bit of history about the Linwood apartments. The council first discussed the concept of this project five years ago, but there was a small delay initially while plans and administration were completed. Work finally started three years later, and one year ago the complex was finished and received its first residents, and I'm happy to say it's been a great place to live ever since.",
+      "startTime": 502.44,
+      "endTime": 522.66,
+      "text": "What I love is working with the people who live here, especially helping neighbours deal with any little misunderstandings that might come up between them. We want you to feel at home here, but there are some restrictions on what you can do. You're welcome to redecorate inside your apartment if you don't like the colour, but you can't change the outward appearance of the building in any way,",
       "segmentIds": [
-        "seg-066",
+        "seg-064",
+        "seg-065",
+        "seg-066"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 2,
+      "startTime": 522.8,
+      "endTime": 550.68,
+      "text": "and that also includes altering the plantings around the complex by putting in your own trees or flowers. Now some of you were asking earlier about the welcome party. That will be held as planned next Friday evening, and we'll be doing all the catering so that there are no worries about food, but it would be great if you could come along for a while on the day of the party to help put some party lights in the hall. When you arrive, you'll find there are badges already prepared for everybody, so one will have your name on it.",
+      "segmentIds": [
         "seg-067",
         "seg-068",
         "seg-069",
-        "seg-070"
+        "seg-070",
+        "seg-071"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-021",
+      "id": "long-018",
       "part": 2,
-      "startTime": 485.68,
-      "endTime": 506.7,
-      "text": "So now just a little bit more about my role within the complex. I'm responsible for ensuring that rent is paid on time, but I can't say I get a lot of satisfaction from that aspect of the job. Fortunately, because the building is quite new, there is generally little to do to keep everything in good working order. What I love is working with the people who live here,",
+      "startTime": 597.2,
+      "endTime": 618.28,
+      "text": "Now if you'd all like to have a look at your map of the apartment complex, I'll just go over where you can find all the facilities. The complex is a pedestrian area, so you can park your car here in the car park at the bottom of the map. There are two main apartment blocks, blue and red, with an open walkway up the middle called the arcade.",
       "segmentIds": [
-        "seg-071",
         "seg-072",
         "seg-073",
         "seg-074"
@@ -3046,11 +2773,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-022",
+      "id": "long-019",
       "part": 2,
-      "startTime": 506.7,
-      "endTime": 529.7,
-      "text": "especially helping neighbours deal with any little misunderstandings that might come up between them. We want you to feel at home here, but there are some restrictions on what you can do. You're welcome to redecorate inside your apartment if you don't like the colour, but you can't change the outward appearance of the building in any way, and that also includes altering the plantings around the complex by putting in your own trees or flowers.",
+      "startTime": 619.56,
+      "endTime": 643.26,
+      "text": "When you first arrive, you'll probably want to know where the shop is, so if you go up from the car park into the arcade, you'll find the shop at the end on the right, opposite the internet cafe. One popular attraction, especially in summer, is the barbecue area, so if you walk from the car park and through the arcade, then turn right and follow the path, you'll see it at the end.",
       "segmentIds": [
         "seg-075",
         "seg-076",
@@ -3060,11 +2787,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-023",
+      "id": "long-020",
       "part": 2,
-      "startTime": 529.7,
-      "endTime": 545.0,
-      "text": "Now some of you were asking earlier about the welcome party. That will be held as planned next Friday evening, and we'll be doing all the catering so that there are no worries about food, but it would be great if you could come along for a while on the day of the party to help put some party lights in the hall.",
+      "startTime": 643.76,
+      "endTime": 661.62,
+      "text": "For those of you with young children, we have an excellent childcare centre. From the car park, head north, but before you get to the arcade, turn left and follow the path around until you reach the pond. You'll find it opposite the pond, on the west side of the blue block.",
       "segmentIds": [
         "seg-079",
         "seg-080",
@@ -3073,24 +2800,14 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-024",
+      "id": "long-021",
       "part": 2,
-      "startTime": 546.0,
-      "endTime": 586.6,
-      "text": "When you arrive, you'll find there are badges already prepared for everybody, so one will have your name on it. Before you hear the rest of the talk, you have some time to look at questions 15 to 20.",
+      "startTime": 663.22,
+      "endTime": 683.98,
+      "text": "Now if you need to use the laundry, walk up from the car park and into the arcade, look on your left and you'll see the gym, but keep going, and it's directly next door to that. You all need to know where the recreation room is. Head north from the car park and take the first turning on the right. Go straight on to the end and you'll find two buildings facing each other.",
       "segmentIds": [
         "seg-082",
-        "seg-083"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-025",
-      "part": 2,
-      "startTime": 586.6,
-      "endTime": 612.58,
-      "text": "Now listen and answer questions 15 to 20. Now if you'd all like to have a look at your map of the apartment complex, I'll just go over where you can find all the facilities. The complex is a pedestrian area, so you can park your car here in the car park at the bottom of the map.",
-      "segmentIds": [
+        "seg-083",
         "seg-084",
         "seg-085",
         "seg-086"
@@ -3098,38 +2815,28 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-026",
+      "id": "long-022",
       "part": 2,
-      "startTime": 612.58,
-      "endTime": 632.91,
-      "text": "There are two main apartment blocks, blue and red, with an open walkway up the middle called the arcade. When you first arrive, you'll probably want to know where the shop is, so if you go up from the car park into the arcade, you'll find the shop at the end on the right, opposite the internet cafe.",
+      "startTime": 684.58,
+      "endTime": 706.36,
+      "text": "You want the one to the north, opposite the cafe. Finally, for the welcome party in the hall next week, from the car park, go straight on to the end of the arcade, but then don't go too far, take the path up to the left, and it's at the end of that path, just above the trees on your map. Well, I look forward to welcoming you all.",
       "segmentIds": [
         "seg-087",
         "seg-088",
-        "seg-089"
+        "seg-089",
+        "seg-090"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-027",
-      "part": 2,
-      "startTime": 632.91,
-      "endTime": 649.0,
-      "text": "One popular attraction, especially in summer, is the barbecue area, so if you walk from the car park and through the arcade, then turn right and follow the path, you'll see it at the end. For those of you with young children, we have an excellent childcare centre.",
+      "id": "long-023",
+      "part": 3,
+      "startTime": 772.78,
+      "endTime": 790.06,
+      "text": "Hi, Izzy. Can we talk about our presentation? Sure. So, our topic's the bicycle, its history and its effect on society in the Western world. We should start with its invention in the 1800s. The first bike wasn't very successful, was it?",
       "segmentIds": [
-        "seg-090",
         "seg-091",
-        "seg-092"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-028",
-      "part": 2,
-      "startTime": 650.0,
-      "endTime": 667.93,
-      "text": "From the car park, head north, but before you get to the arcade, turn left and follow the path around until you reach the pond. You'll find it opposite the pond, on the west side of the blue block. Now if you need to use the laundry, walk up from the car park and into the arcade,",
-      "segmentIds": [
+        "seg-092",
         "seg-093",
         "seg-094",
         "seg-095"
@@ -3137,77 +2844,67 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-029",
-      "part": 2,
-      "startTime": 667.93,
-      "endTime": 689.14,
-      "text": "look on your left and you'll see the gym, but keep going, and it's directly next door to that. You all need to know where the recreation room is. Head north from the car park and take the first turning on the right. Go straight on to the end and you'll find two buildings facing each other. You want the one to the north, opposite the cafe.",
+      "id": "long-024",
+      "part": 3,
+      "startTime": 790.4,
+      "endTime": 812.94,
+      "text": "I think the model they called the safety bicycle is more significant. Yes. Was that name because it was safe for cyclists of all ages, including young kids? I think it was more to do with the comparison to previous versions, which got their speed from one large wheel. This bike had equally sized wheels and its speed came from gears.",
       "segmentIds": [
         "seg-096",
         "seg-097",
         "seg-098",
-        "seg-099",
-        "seg-100"
+        "seg-099"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-030",
-      "part": 2,
-      "startTime": 689.14,
-      "endTime": 707.0,
-      "text": "Finally, for the welcome party in the hall next week, from the car park, go straight on to the end of the arcade, but then don't go too far, take the path up to the left, and it's at the end of that path, just above the trees on your map. Well, I look forward to welcoming you all.",
-      "segmentIds": [
-        "seg-101",
-        "seg-102",
-        "seg-103"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-031",
-      "part": 2,
-      "startTime": 710.0,
-      "endTime": 729.02,
-      "text": "That is the end of Part 2.",
-      "segmentIds": [
-        "seg-104"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-032",
-      "part": 2,
-      "startTime": 729.02,
-      "endTime": 770.0,
-      "text": "You now have 30 seconds to check your answers to Part 2.",
-      "segmentIds": [
-        "seg-105"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-033",
+      "id": "long-025",
       "part": 3,
-      "startTime": 770.0,
-      "endTime": 784.0,
-      "text": "You will hear two Design and Technology students, called Max and Izzy, planning their presentation about the history and development of the bicycle. First, you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24. Hi, Izzy. Can we talk about our presentation? Sure. So, our topic's the bicycle, its history and its effect on society in the Western world.",
+      "startTime": 813.54,
+      "endTime": 832.1,
+      "text": "It was an important development, as it was the first model that actually looked like a bike you'd see today. Right. And the development of that bicycle at the end of the 19th century had an enormous impact on the working classes. You mean how it gave them freedom to move around and look for jobs?",
       "segmentIds": [
-        "seg-106",
+        "seg-100",
+        "seg-101",
+        "seg-102"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 3,
+      "startTime": 832.6,
+      "endTime": 852.88,
+      "text": "I suppose before the bike, they didn't have private transport, so were limited in where they could work. Right. Because it took such a long time to go anywhere. But I'd really like to draw attention to how inhabitants of rural areas were able to travel outside their communities, and that led them to marrying people they never could have met in the past.",
+      "segmentIds": [
+        "seg-103",
+        "seg-104",
+        "seg-105",
+        "seg-106"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 3,
+      "startTime": 853.1,
+      "endTime": 869.26,
+      "text": "That changed society, and I'd like to discuss it in our presentation. Oh, good idea. So what should we stress about changing attitudes to bicycles in the 20th century? Well, the bicycle was an important means of transport through the early 1900s,",
+      "segmentIds": [
         "seg-107",
         "seg-108",
-        "seg-109",
-        "seg-110"
+        "seg-109"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-034",
+      "id": "long-028",
       "part": 3,
-      "startTime": 785.0,
-      "endTime": 801.85,
-      "text": "We should start with its invention in the 1800s. The first bike wasn't very successful, was it? I think the model they called the safety bicycle is more significant. Yes. Was that name because it was safe for cyclists of all ages, including young kids?",
+      "startTime": 869.48,
+      "endTime": 889.2,
+      "text": "and that continued until the 1950s, when cars became available to the general population and much more popular. That led to people losing interest in bikes for a while. I hadn't realised the impact that people's love of motorised transport had on the bike's reputation. Yes, that's a key point we should make.",
       "segmentIds": [
+        "seg-110",
         "seg-111",
         "seg-112",
         "seg-113"
@@ -3215,11 +2912,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-035",
+      "id": "long-029",
       "part": 3,
-      "startTime": 801.85,
-      "endTime": 821.39,
-      "text": "I think it was more to do with the comparison to previous versions, which got their speed from one large wheel. This bike had equally sized wheels and its speed came from gears. It was an important development, as it was the first model that actually looked like a bike you'd see today. Right.",
+      "startTime": 890.56,
+      "endTime": 913.88,
+      "text": "Then the fold-up bike and others came along in the 60s, which helped sales pick up. Then things stayed fairly stable until the fitness craze of the 80s piqued interest in mountain biking and sales went up, but the bike had lost its position as a key mode of transport. Right. I'd like to talk about some current projects around the world involving bikes.",
       "segmentIds": [
         "seg-114",
         "seg-115",
@@ -3229,96 +2926,86 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-036",
+      "id": "long-030",
       "part": 3,
-      "startTime": 821.39,
-      "endTime": 843.1,
-      "text": "And the development of that bicycle at the end of the 19th century had an enormous impact on the working classes. You mean how it gave them freedom to move around and look for jobs? I suppose before the bike, they didn't have private transport, so were limited in where they could work. Right. Because it took such a long time to go anywhere.",
+      "startTime": 913.88,
+      "endTime": 932.8,
+      "text": "How about the scheme in an American school that provides bikes for all its pupils? I expect the pupils are delighted, not to mention the parents. I suppose so, although I wonder how much it costs. Probably not as much as other initiatives. I just wonder if the advantages really justify the scheme.",
       "segmentIds": [
         "seg-118",
         "seg-119",
         "seg-120",
-        "seg-121"
+        "seg-121",
+        "seg-122"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-037",
+      "id": "long-031",
       "part": 3,
-      "startTime": 843.1,
-      "endTime": 865.22,
-      "text": "But I'd really like to draw attention to how inhabitants of rural areas were able to travel outside their communities, and that led them to marrying people they never could have met in the past. That changed society, and I'd like to discuss it in our presentation. Oh, good idea. So what should we stress about changing attitudes to bicycles in the 20th century?",
+      "startTime": 933.02,
+      "endTime": 946.7,
+      "text": "Well, it must enable pupils to get to school more easily. But does attendance actually improve? If there's any data to support that, we need to include it, but I haven't found enough. Let's look into that later.",
       "segmentIds": [
-        "seg-122",
         "seg-123",
         "seg-124",
-        "seg-125"
+        "seg-125",
+        "seg-126"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-038",
+      "id": "long-032",
       "part": 3,
-      "startTime": 865.22,
-      "endTime": 888.4,
-      "text": "Well, the bicycle was an important means of transport through the early 1900s, and that continued until the 1950s, when cars became available to the general population and much more popular. That led to people losing interest in bikes for a while. I hadn't realised the impact that people's love of motorised transport had on the bike's reputation.",
+      "startTime": 992.9,
+      "endTime": 1016.24,
+      "text": "Could we look at the results of the survey we did with cyclists? We each spoke to different people. Yes. One of my first interviewees was David. He works from home and spends a lot of time indoors, so at weekends he goes out with a cycling club. He said it's a way to connect with people apart from the other benefits. OK. Who else?",
       "segmentIds": [
-        "seg-126",
         "seg-127",
         "seg-128",
-        "seg-129"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-039",
-      "part": 3,
-      "startTime": 888.4,
-      "endTime": 909.0,
-      "text": "Yes, that's a key point we should make. Then the fold-up bike and others came along in the 60s, which helped sales pick up. Hmm. Then things stayed fairly stable until the fitness craze of the 80s piqued interest in mountain biking and sales went up, but the bike had lost its position as a key mode of transport.",
-      "segmentIds": [
+        "seg-129",
         "seg-130",
-        "seg-131",
+        "seg-131"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 3,
+      "startTime": 1016.7,
+      "endTime": 1035.08,
+      "text": "I interviewed a woman called Marlene. I asked her what her main reason for using a bike was. She's got young children and doesn't have much free time, so cycling to work is a way for her to keep fit. That's what she liked about it. OK. How about Annabelle?",
+      "segmentIds": [
         "seg-132",
-        "seg-133"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-040",
-      "part": 3,
-      "startTime": 909.0,
-      "endTime": 930.16,
-      "text": "Right. I'd like to talk about some current projects around the world involving bikes. How about the scheme in an American school that provides bikes for all its pupils? I expect the pupils are delighted, not to mention the parents. I suppose so, although I wonder how much it costs. Probably not as much as other initiatives.",
-      "segmentIds": [
+        "seg-133",
         "seg-134",
-        "seg-135",
+        "seg-135"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 3,
+      "startTime": 1035.28,
+      "endTime": 1055.02,
+      "text": "Was she the one who sold her car and uses a bike instead? Was that because of pollution? She did sell her car, but her choice to travel by bike was made for financial reasons as she was paying so much for petrol. I see. And Rashid? He was probably the oldest person we spoke to.",
+      "segmentIds": [
         "seg-136",
-        "seg-137"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-041",
-      "part": 3,
-      "startTime": 930.16,
-      "endTime": 947.0,
-      "text": "I just wonder if the advantages really justify the scheme. Well, it must enable pupils to get to school more easily. But does attendance actually improve? If there's any data to support that, we need to include it, but I haven't found enough. Let's look into that later.",
-      "segmentIds": [
+        "seg-137",
         "seg-138",
-        "seg-139",
-        "seg-140",
-        "seg-141"
+        "seg-139"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-042",
+      "id": "long-035",
       "part": 3,
-      "startTime": 951.0,
-      "endTime": 992.82,
-      "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30. Now listen and answer questions 25 to 30. Could we look at the results of the survey we did with cyclists?",
+      "startTime": 1055.24,
+      "endTime": 1076.54,
+      "text": "He's in his seventies, yes, and he's been cycling around the city for years. He said that there are several advantages, but he really loves the way it helps him think clearly and takes his mind off any worries he has. Great. What about you? Have you got notes about Saira? Yes, I spoke to her last week.",
       "segmentIds": [
+        "seg-140",
+        "seg-141",
         "seg-142",
         "seg-143",
         "seg-144"
@@ -3326,11 +3013,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-043",
+      "id": "long-036",
       "part": 3,
-      "startTime": 992.82,
-      "endTime": 1010.0,
-      "text": "We each spoke to different people. Yes. One of my first interviewees was David. He works from home and spends a lot of time indoors, so at weekends he goes out with a cycling club.",
+      "startTime": 1077.16,
+      "endTime": 1095.94,
+      "text": "She lives in the countryside and she loves being on her bike in the open air and enjoying the beautiful environment and landscape around her. Right. The last person I interviewed was Giovanni. He's very practical and he said it's just easier for him to use a bike to get around town than to drive.",
       "segmentIds": [
         "seg-145",
         "seg-146",
@@ -3339,14 +3026,24 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-044",
+      "id": "long-037",
       "part": 3,
-      "startTime": 1011.0,
-      "endTime": 1033.0,
-      "text": "He said it's a way to connect with people apart from the other benefits. OK. Who else? I interviewed a woman called Marlene. I asked her what her main reason for using a bike was. She's got young children and doesn't have much free time, so cycling to work is a way for her to keep fit. That's what she liked about it.",
+      "startTime": 1096.26,
+      "endTime": 1105.92,
+      "text": "He finds sitting in traffic and looking for parking spaces too time consuming, so he switched to using a bike instead. Great. Shall we meet next week?",
       "segmentIds": [
         "seg-148",
-        "seg-149",
+        "seg-149"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 4,
+      "startTime": 1228.98,
+      "endTime": 1241.98,
+      "text": "Afternoon, everyone. Now, archaeologists don't know a great deal about the Patagon people. However, they did leave behind one important piece of evidence, a type of coat that was worn over the body for warmth that gives us valuable information about this lost culture.",
+      "segmentIds": [
         "seg-150",
         "seg-151",
         "seg-152"
@@ -3354,13 +3051,23 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-045",
-      "part": 3,
-      "startTime": 1033.0,
-      "endTime": 1054.51,
-      "text": "OK. How about Annabelle? Was she the one who sold her car and uses a bike instead? Was that because of pollution? She did sell her car, but her choice to travel by bike was made for financial reasons as she was paying so much for petrol. I see. And Rashid? He was probably the oldest person we spoke to.",
+      "id": "long-039",
+      "part": 4,
+      "startTime": 1250.22,
+      "endTime": 1250.93,
+      "text": "Young animals",
       "segmentIds": [
-        "seg-153",
+        "seg-153"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 4,
+      "startTime": 1253.74,
+      "endTime": 1271.98,
+      "text": "were preferred as their skin was soft, which made it easy to work with. For the Patagon men, hunting was a way of life, particularly hunting guanaco. However, once the animals were killed, then different skills were needed, and it was the women who were mostly responsible for the manufacturing process.",
+      "segmentIds": [
         "seg-154",
         "seg-155",
         "seg-156"
@@ -3368,11 +3075,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-046",
-      "part": 3,
-      "startTime": 1054.51,
-      "endTime": 1076.39,
-      "text": "He's in his seventies, yes, and he's been cycling around the city for years. He said that there are several advantages, but he really loves the way it helps him think clearly and takes his mind off any worries he has. Great. What about you? Have you got notes about Saira? Yes, I spoke to her last week.",
+      "id": "long-041",
+      "part": 4,
+      "startTime": 1272.44,
+      "endTime": 1291.86,
+      "text": "In particular, it was their ability to sew together many small skins into a coat that made women integral to the process. So, the first thing they did was get the skins ready, and for this they used a special scraper tool. Several examples of the scrapers may still be seen today in various museums in the region.",
       "segmentIds": [
         "seg-157",
         "seg-158",
@@ -3381,11 +3088,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-047",
-      "part": 3,
-      "startTime": 1076.39,
-      "endTime": 1097.0,
-      "text": "She lives in the countryside and she loves being on her bike in the open air and enjoying the beautiful environment and landscape around her. Right. The last person I interviewed was Giovanni. He's very practical and he said it's just easier for him to use a bike to get around town than to drive.",
+      "id": "long-042",
+      "part": 4,
+      "startTime": 1292.3,
+      "endTime": 1315.4,
+      "text": "They were constructed from specially sharpened stone, so have survived remarkably well. Once the skins were clean, they were usually decorated, usually done by painting on colours, mostly some combination of red, yellow and green. The colours themselves occurred naturally in minerals that were dug up from the ground and processed, usually by mixing with water.",
       "segmentIds": [
         "seg-160",
         "seg-161",
@@ -3394,74 +3101,64 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-048",
-      "part": 3,
-      "startTime": 1098.0,
-      "endTime": 1134.13,
-      "text": "He finds sitting in traffic and looking for parking spaces too time consuming, so he switched to using a bike instead. Great. Shall we meet next week?",
+      "id": "long-043",
+      "part": 4,
+      "startTime": 1315.98,
+      "endTime": 1338.88,
+      "text": "This basically was the way the Patagon people made coats for, well, over a thousand years and perhaps longer. But the process changed dramatically after the Spanish arrived in the early 1500s. The coming of the Spanish obviously had numerous impacts on the area, but in terms of coat making, there was one significant development in the hunting technique.",
       "segmentIds": [
         "seg-163",
-        "seg-164"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-049",
-      "part": 3,
-      "startTime": 1134.13,
-      "endTime": 1154.0,
-      "text": "That is the end of Part 3. You now have 30 seconds to check your answers to Part 3.",
-      "segmentIds": [
+        "seg-164",
         "seg-165",
         "seg-166"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-050",
+      "id": "long-044",
       "part": 4,
-      "startTime": 1154.0,
-      "endTime": 1182.78,
-      "text": "You will hear part of a lecture about archaeological research in the Patagonia region of South America. First, you have some time to look at questions 31 to 40.",
+      "startTime": 1339.56,
+      "endTime": 1363.84,
+      "text": "Many more guanaco were hunted after the introduction of the horse to the region, which made the Patagon people more mobile. Another important development was that the Spanish themselves liked, were great admirers of the coats and bought them for high prices, so that while in the past guanaco had only been hunted to meet subsistence needs, now the coats were increasingly part of a commercial process,",
       "segmentIds": [
         "seg-167",
-        "seg-168"
+        "seg-168",
+        "seg-169"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-051",
+      "id": "long-045",
       "part": 4,
-      "startTime": 1182.78,
-      "endTime": 1221.31,
-      "text": "Now listen carefully and answer questions 31 to 40. Afternoon, everyone. Welcome to today's archaeology lecture.",
+      "startTime": 1364.1,
+      "endTime": 1381.96,
+      "text": "I mean something that could be bought and sold for money. And that meant many more guanaco were hunted as well. Finally, the manufacturing process itself was changed by the arrival of the Spanish. That's because they bought many new materials with them that weren't previously known in the region.",
       "segmentIds": [
-        "seg-169",
         "seg-170",
-        "seg-171"
+        "seg-171",
+        "seg-172",
+        "seg-173"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-052",
+      "id": "long-046",
       "part": 4,
-      "startTime": 1221.31,
-      "endTime": 1244.31,
-      "text": "This afternoon's topic will be the Patagon civilisation that flourished at the southern tip of the South American continent around 600 years ago. Now, archaeologists don't know a great deal about the Patagon people. However, they did leave behind one important piece of evidence, a type of coat that was worn over the body for warmth that gives us valuable information about this lost culture.",
+      "startTime": 1382.2,
+      "endTime": 1392.52,
+      "text": "Most important for coat making, the old scrapers used for cleaning the skins were replaced with new ones made from glass, and this was more effective and easier to keep sharp.",
       "segmentIds": [
-        "seg-172",
-        "seg-173",
         "seg-174",
         "seg-175"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-053",
+      "id": "long-047",
       "part": 4,
-      "startTime": 1244.31,
-      "endTime": 1264.0,
-      "text": "The coat was made from the fur of the guanaco. That's a wild animal like a goat. And it took as many as 13 young guanaco to make a single coat. Young animals were preferred as their skin was soft, which made it easy to work with. For the Patagon men, hunting was a way of life, particularly hunting guanaco.",
+      "startTime": 1397.28,
+      "endTime": 1414.58,
+      "text": "So what conclusions can we draw from Patagon coats? Well, the striking designs that were painted onto many of the more elaborate coats have always fascinated archaeologists. These patterns must have their origins far back in prehistoric times. We are able to say this with some confidence",
       "segmentIds": [
         "seg-176",
         "seg-177",
@@ -3471,26 +3168,26 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-054",
+      "id": "long-048",
       "part": 4,
-      "startTime": 1265.0,
-      "endTime": 1287.0,
-      "text": "However, once the animals were killed, then different skills were needed, and it was the women who were mostly responsible for the manufacturing process. In particular, it was their ability to sew together many small skins into a coat that made women integral to the process. So, the first thing they did was get the skins ready, and for this they used a special scraper tool.",
+      "startTime": 1414.58,
+      "endTime": 1432.8,
+      "text": "because very similar designs have been found in examples of art painted on the rock walls of caves that have very ancient origins. Did the designs have any significance, or were they merely decorations? The answer isn't clear, but some archaeologists have been prepared to speculate.",
       "segmentIds": [
         "seg-180",
         "seg-181",
-        "seg-182",
-        "seg-183"
+        "seg-182"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-055",
+      "id": "long-049",
       "part": 4,
-      "startTime": 1288.0,
-      "endTime": 1308.0,
-      "text": "Several examples of the scrapers may still be seen today in various museums in the region. They were constructed from specially sharpened stone, so have survived remarkably well. Once the skins were clean, they were usually decorated, usually done by painting on colours, mostly some combination of red, yellow and green.",
+      "startTime": 1433.12,
+      "endTime": 1455.8,
+      "text": "One possibility is that the designs may have represented a way of connecting with ancestors from previous times, and this is certainly an idea that deserves further investigation. Another interesting speculation concerns the location of large Patagon settlements. Because the natural habitat of the young Guanaco was the rich grasslands of inland areas,",
       "segmentIds": [
+        "seg-183",
         "seg-184",
         "seg-185",
         "seg-186"
@@ -3498,133 +3195,16 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-056",
+      "id": "long-050",
       "part": 4,
-      "startTime": 1309.0,
-      "endTime": 1329.0,
-      "text": "The colours themselves occurred naturally in minerals that were dug up from the ground and processed, usually by mixing with water. This basically was the way the Patagon people made coats for, well, over a thousand years and perhaps longer. But the process changed dramatically after the Spanish arrived in the early 1500s.",
+      "startTime": 1456.24,
+      "endTime": 1482.66,
+      "text": "it seems unlikely that these were constructed around the coast, but rather in parts of the interior. Finally, we should note that the traditional art of coat making has long since been lost in this region, but Patagon shepherds today do still employ some of the same techniques to make blankets in the winter months, though there is no painting or design work involved. Well, that is the end of my lecture, but if you have any questions, please feel free.",
       "segmentIds": [
         "seg-187",
         "seg-188",
-        "seg-189"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-057",
-      "part": 4,
-      "startTime": 1331.0,
-      "endTime": 1347.51,
-      "text": "The coming of the Spanish obviously had numerous impacts on the area, but in terms of coat making, there was one significant development in the hunting technique. Many more guanaco were hunted after the introduction of the horse to the region, which made the Patagon people more mobile.",
-      "segmentIds": [
-        "seg-190",
-        "seg-191",
-        "seg-192"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-058",
-      "part": 4,
-      "startTime": 1347.51,
-      "endTime": 1371.91,
-      "text": "Another important development was that the Spanish themselves liked, were great admirers of the coats and bought them for high prices, so that while in the past guanaco had only been hunted to meet subsistence needs, now the coats were increasingly part of a commercial process, I mean something that could be bought and sold for money. And that meant many more guanaco were hunted as well.",
-      "segmentIds": [
-        "seg-193",
-        "seg-194",
-        "seg-195"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-059",
-      "part": 4,
-      "startTime": 1371.91,
-      "endTime": 1392.46,
-      "text": "Finally, the manufacturing process itself was changed by the arrival of the Spanish. That's because they bought many new materials with them that weren't previously known in the region. Most important for coat making, the old scrapers used for cleaning the skins were replaced with new ones made from glass,",
-      "segmentIds": [
-        "seg-196",
-        "seg-197",
-        "seg-198"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-060",
-      "part": 4,
-      "startTime": 1392.46,
-      "endTime": 1413.0,
-      "text": "and this was more effective and easier to keep sharp. So what conclusions can we draw from Patagon coats? Well, the striking designs that were painted onto many of the more elaborate coats have always fascinated archaeologists. These patterns must have their origins far back in prehistoric times.",
-      "segmentIds": [
-        "seg-199",
-        "seg-200",
-        "seg-201",
-        "seg-202"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-061",
-      "part": 4,
-      "startTime": 1413.0,
-      "endTime": 1433.05,
-      "text": "We are able to say this with some confidence because very similar designs have been found in examples of art painted on the rock walls of caves that have very ancient origins. Did the designs have any significance, or were they merely decorations? The answer isn't clear, but some archaeologists have been prepared to speculate.",
-      "segmentIds": [
-        "seg-203",
-        "seg-204",
-        "seg-205"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-062",
-      "part": 4,
-      "startTime": 1433.05,
-      "endTime": 1456.53,
-      "text": "One possibility is that the designs may have represented a way of connecting with ancestors from previous times, and this is certainly an idea that deserves further investigation. Another interesting speculation concerns the location of large Patagon settlements. Because the natural habitat of the young Guanaco was the rich grasslands of inland areas,",
-      "segmentIds": [
-        "seg-206",
-        "seg-207",
-        "seg-208",
-        "seg-209"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-063",
-      "part": 4,
-      "startTime": 1456.53,
-      "endTime": 1479.0,
-      "text": "it seems unlikely that these were constructed around the coast, but rather in parts of the interior. Finally, we should note that the traditional art of coat making has long since been lost in this region, but Patagon shepherds today do still employ some of the same techniques to make blankets in the winter months, though there is no painting or design work involved.",
-      "segmentIds": [
-        "seg-210",
-        "seg-211",
-        "seg-212"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-064",
-      "part": 4,
-      "startTime": 1480.0,
-      "endTime": 1506.59,
-      "text": "Well, that is the end of my lecture, but if you have any questions, please feel free... That is the end of part four. You now have one minute to check your answers to part four.",
-      "segmentIds": [
-        "seg-213",
-        "seg-214",
-        "seg-215"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-065",
-      "part": 4,
-      "startTime": 1542.44,
-      "endTime": 1506.59,
-      "text": "That is the end of the listening test. You now have ten minutes to transfer your answers to the listening answer sheet.",
-      "segmentIds": [
-        "seg-216",
-        "seg-217"
+        "seg-189",
+        "seg-190"
       ],
       "timestampSource": "exact"
     }

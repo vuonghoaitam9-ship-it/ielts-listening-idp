@@ -48,6 +48,8 @@ describe('Vol 7-10 packaged data & policy integrity', () => {
       expect(fs.statSync(audioPath).size).toBeLessThan(50 * 1024 * 1024);
 
       const testJson = JSON.parse(fs.readFileSync(dataPath, 'utf8')) as TestData;
+      expect(item.hasExactTimestamps).toBe(true);
+      expect(testJson.hasExactTimestamps).toBe(true);
       expect(testJson.questions).toHaveLength(40);
       expect(testJson.parts).toHaveLength(4);
       for (let pi = 0; pi < 3; pi++) {
@@ -57,10 +59,37 @@ describe('Vol 7-10 packaged data & policy integrity', () => {
       }
       expect(testJson.transcriptSegments.length).toBeGreaterThan(10);
       expect(testJson.longSegments.length).toBeGreaterThan(3);
+
+      const durLimit = testJson.audioDurationSec + 0.5;
+      for (let si = 0; si < testJson.transcriptSegments.length; si++) {
+        const seg = testJson.transcriptSegments[si];
+        expect(seg.text.trim().length).toBeGreaterThanOrEqual(4);
+        expect(seg.startTime).toBeGreaterThanOrEqual(0);
+        expect(seg.startTime).toBeLessThan(seg.endTime);
+        expect(seg.endTime).toBeLessThanOrEqual(durLimit);
+        expect(seg.endTime - seg.startTime).toBeLessThanOrEqual(18);
+        if (si > 0) {
+          expect(seg.startTime).toBeGreaterThanOrEqual(
+            testJson.transcriptSegments[si - 1].startTime - 0.01
+          );
+        }
+      }
+
+      for (const ls of testJson.longSegments) {
+        expect(ls.startTime).toBeGreaterThanOrEqual(0);
+        expect(ls.startTime).toBeLessThan(ls.endTime);
+        expect(ls.endTime).toBeLessThanOrEqual(durLimit);
+        expect(ls.endTime - ls.startTime).toBeLessThanOrEqual(50);
+      }
+
       for (let q = 1; q <= 40; q++) {
         const qItem = testJson.questions[q - 1];
         expect(qItem.number).toBe(q);
         expect(qItem.acceptedAnswers.length).toBeGreaterThan(0);
+        expect(qItem.evidenceQuote.trim().length).toBeGreaterThan(0);
+        expect(qItem.evidenceStartTime).toBeGreaterThanOrEqual(0);
+        expect(qItem.evidenceStartTime).toBeLessThan(qItem.evidenceEndTime);
+        expect(qItem.evidenceEndTime).toBeLessThanOrEqual(durLimit);
       }
     }
   });

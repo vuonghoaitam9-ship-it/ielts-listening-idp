@@ -12,7 +12,7 @@
   "audioUrl": "./data/vol-9/test-4/audio.mp3",
   "audioDurationSec": 1597.0,
   "hasExactTimestamps": true,
-  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "timestampNote": "Mốc thời gian đã được căn chỉnh trực tiếp từ audio gốc ở mức từng từ (acoustic forced alignment).",
   "parts": [
     {
       "partNumber": 1,
@@ -21,8 +21,8 @@
         1,
         10
       ],
-      "startTime": 1.0,
-      "endTime": 470.0,
+      "startTime": 0.28,
+      "endTime": 398.94,
       "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
     },
     {
@@ -32,9 +32,9 @@
         11,
         20
       ],
-      "startTime": 470.0,
-      "endTime": 909.0,
-      "topicHint": "You will hear a talk on the radio about a local festival called the Denford Festival. First you have some time to look at questions 11 to 15."
+      "startTime": 458.38,
+      "endTime": 840.82,
+      "topicHint": "You will hear a talk on the radio about a local festival called the Denford Festival."
     },
     {
       "partNumber": 3,
@@ -43,9 +43,9 @@
         21,
         30
       ],
-      "startTime": 909.0,
-      "endTime": 1188.0,
-      "topicHint": "You will hear a mature student on a teacher training programme discussing a new course with his college lecturer. First, you have some time to look at questions 21 to 23 on page 6."
+      "startTime": 871.14,
+      "endTime": 1179.02,
+      "topicHint": "You will hear a mature student on a teacher training programme discussing a new course with his college lecturer."
     },
     {
       "partNumber": 4,
@@ -54,8 +54,8 @@
         31,
         40
       ],
-      "startTime": 1188.0,
-      "endTime": 1597.0,
+      "startTime": 1180.96,
+      "endTime": 1577.42,
       "topicHint": "You will hear a lecture about the effects of the digital world on young people."
     }
   ],
@@ -63,16 +63,16 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "nd Course Booking Booking for: a guitar workshop Start date: 1_____________ Course code: 2_____________ Previous course attended: Editing 3_____________ Name: Nick 4_____________ Address: 27 Hawthorn 5_____________ Bristol, BS4 2QG Contact number: 07707 438 297 Age: 26 Occupation: 6_____________ Dietary requests: no 7___",
+      "promptContext": "Start date:",
       "answerRaw": "July 18th",
       "canonicalAnswer": "July 18th",
       "acceptedAnswers": [
         "July 18th"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Well, I was thinking of the weekend of July the 16th, if there's room then. Let me just check.",
-      "evidenceStartTime": 116.83,
-      "evidenceEndTime": 125.0,
+      "evidenceQuote": "Well, I was thinking of the weekend of July the 16th, if there's room then.",
+      "evidenceStartTime": 116.02,
+      "evidenceEndTime": 121.2,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"July 18th\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -80,16 +80,16 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "r: a guitar workshop Start date: 1_____________ Course code: 2_____________ Previous course attended: Editing 3_____________ Name: Nick 4_____________ Address: 27 Hawthorn 5_____________ Bristol, BS4 2QG Contact number: 07707 438 297 Age: 26 Occupation: 6_____________ Dietary requests: no 7_____________ One-to-one lesson",
+      "promptContext": "Course code:",
       "answerRaw": "Q1632",
       "canonicalAnswer": "Q1632",
       "acceptedAnswers": [
         "Q1632"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "So the code for that is Q1632. OK. That's just for our reference.",
-      "evidenceStartTime": 141.0,
-      "evidenceEndTime": 148.0,
+      "evidenceQuote": "So the code for that is Q1632.",
+      "evidenceStartTime": 139.84,
+      "evidenceEndTime": 142.28,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"Q1632\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -97,16 +97,16 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "ourse code: 2_____________ Previous course attended: Editing 3_____________ Name: Nick 4_____________ Address: 27 Hawthorn 5_____________ Bristol, BS4 2QG Contact number: 07707 438 297 Age: 26 Occupation: 6_____________ Dietary requests: no 7_____________ One-to-one lesson selected: 8_____________ guitar First heard abou",
+      "promptContext": "Previous course attended: Editing",
       "answerRaw": "photographs",
       "canonicalAnswer": "photographs",
       "acceptedAnswers": [
         "photographs"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "It was on photographs. We learnt about editing them. I really enjoyed it.",
-      "evidenceStartTime": 159.0,
-      "evidenceEndTime": 164.0,
+      "evidenceQuote": "I did one last September. It was on photographs. We learnt about editing them. I really enjoyed it.",
+      "evidenceStartTime": 155.66,
+      "evidenceEndTime": 162.34,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"photographs\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -114,16 +114,16 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "VOL 9 TEST 4 Read the text and answer questions 1 – 10 Questions 1–10 Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. Weekend Course Booking Booking for: a guitar workshop Start date: 1_____________ Course code: 2_____________ Previous course atte",
+      "promptContext": "TEST",
       "answerRaw": "Poskitt",
       "canonicalAnswer": "Poskitt",
       "acceptedAnswers": [
         "Poskitt"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I can just have your name, please. It's Nick Poskitt. That's P-O-S-K-I-T-T.",
-      "evidenceStartTime": 171.0,
-      "evidenceEndTime": 180.0,
+      "evidenceQuote": "I can just have your name, please. It's Nick Poskitt.",
+      "evidenceStartTime": 169.58,
+      "evidenceEndTime": 173.66,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"Poskitt\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -131,16 +131,16 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "_____________ Name: Nick 4_____________ Address: 27 Hawthorn 5_____________ Bristol, BS4 2QG Contact number: 07707 438 297 Age: 26 Occupation: 6_____________ Dietary requests: no 7_____________ One-to-one lesson selected: 8_____________ guitar First heard about us from: a 9_____________ Additional request: would like 10_",
+      "promptContext": "Address: 27 Hawthorn",
       "answerRaw": "way",
       "canonicalAnswer": "way",
       "acceptedAnswers": [
         "way"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "So is your address still 27 Hawthorne Road? Oh, it's Hawthorne Way, actually.",
-      "evidenceStartTime": 185.74,
-      "evidenceEndTime": 193.5,
+      "evidenceQuote": "Oh, it's Hawthorne Way, actually. OK, I'll correct that now.",
+      "evidenceStartTime": 188.48,
+      "evidenceEndTime": 193.8,
       "paraphrases": [],
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')"
@@ -150,16 +150,16 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "l, BS4 2QG Contact number: 07707 438 297 Age: 26 Occupation: 6_____________ Dietary requests: no 7_____________ One-to-one lesson selected: 8_____________ guitar First heard about us from: a 9_____________ Additional request: would like 10_____________ if possible",
+      "promptContext": "Bristol, BS4 2QG Contact number: 07707 438 297 Age: 26 Occupation:",
       "answerRaw": "engineer",
       "canonicalAnswer": "engineer",
       "acceptedAnswers": [
         "engineer"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And can I ask your occupation? Engineer. I wish I could say musician, but maybe one day.",
-      "evidenceStartTime": 240.0,
-      "evidenceEndTime": 246.9,
+      "evidenceQuote": "And can I ask your occupation? Engineer. I wish I could say musician, but maybe one day. Let's hope so.",
+      "evidenceStartTime": 238.44,
+      "evidenceEndTime": 247.88,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -169,16 +169,16 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "297 Age: 26 Occupation: 6_____________ Dietary requests: no 7_____________ One-to-one lesson selected: 8_____________ guitar First heard about us from: a 9_____________ Additional request: would like 10_____________ if possible",
+      "promptContext": "Dietary requests: no",
       "answerRaw": "fish",
       "canonicalAnswer": "fish",
       "acceptedAnswers": [
         "fish"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Well, I don't like any sort of fish. I'm fine with everything else.",
-      "evidenceStartTime": 276.64,
-      "evidenceEndTime": 284.77,
+      "evidenceQuote": "Well, I don't like any sort of fish. I'm fine with everything else. That's fine.",
+      "evidenceStartTime": 290.24,
+      "evidenceEndTime": 296.08,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -188,16 +188,16 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "tary requests: no 7_____________ One-to-one lesson selected: 8_____________ guitar First heard about us from: a 9_____________ Additional request: would like 10_____________ if possible",
+      "promptContext": "One-to-one lesson selected:",
       "answerRaw": "blues",
       "canonicalAnswer": "blues",
       "acceptedAnswers": [
         "blues"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "So you can choose jazz guitar? Hmm, probably not. Or there's blues? Yes, maybe. Or rock?",
-      "evidenceStartTime": 315.0,
-      "evidenceEndTime": 323.27,
+      "evidenceQuote": "On the Saturday afternoon, you can choose to have an individual one-to-one lesson on one particular aspect of guitar playing.",
+      "evidenceStartTime": 304.24,
+      "evidenceEndTime": 313.3,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"blues\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -205,7 +205,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "VOL 9 TEST 4 Read the text and answer questions 1 – 10 Questions 1–10 Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. Weekend Course Booking Booking for: a guitar workshop Start date: 1_____________ Course code: 2_____________ Previous cour",
+      "promptContext": "VOL TEST",
       "answerRaw": "magazine",
       "canonicalAnswer": "magazine",
       "acceptedAnswers": [
@@ -213,8 +213,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Where did you actually find out about us? Well, this time I just looked on your website, but I originally found out about you from a magazine.",
-      "evidenceStartTime": 337.0,
-      "evidenceEndTime": 347.04,
+      "evidenceStartTime": 335.54,
+      "evidenceEndTime": 344.2,
       "paraphrases": [],
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')",
@@ -225,7 +225,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "out us from: a 9_____________ Additional request: would like 10_____________ if possible",
+      "promptContext": "Additional request: would like",
       "answerRaw": "parking",
       "canonicalAnswer": "parking",
       "acceptedAnswers": [
@@ -233,32 +233,27 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Well, last time I came I travelled by train and someone met me at the station, but this time I'll be driving. So will there be parking available? I'll see what I can do.",
-      "evidenceStartTime": 360.21,
-      "evidenceEndTime": 372.17,
-      "paraphrases": [
-        {
-          "questionTerm": "possible",
-          "audioTerm": "available"
-        }
-      ],
+      "evidenceStartTime": 358.58,
+      "evidenceEndTime": 371.18,
+      "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"parking\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'possible' ↔ 'available'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"parking\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 11,
       "part": 2,
-      "promptContext": "dults G vegetable market Areas of the festival Bridge Street 11_____________ King's Park 12_____________ Oakvale School 13_____________ Green Road 14_____________ Sun Lane 15_____________ Questions 16–20 Choose the correct answer. Denford Festival 16 What does Sam say about the festival tickets? A. They allow you to get i",
+      "promptContext": "Bridge Street",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "He's one of the organisers of this year's Denford Festival.",
-      "evidenceStartTime": 504.43,
-      "evidenceEndTime": 510.0,
+      "evidenceQuote": "Let's start with Bridge Street. Local schoolchildren took part in a competition to paint pictures of the local landscape, and you'll be able to see all their work displayed here.",
+      "evidenceStartTime": 529.38,
+      "evidenceEndTime": 541.56,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -266,16 +261,16 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "as of the festival Bridge Street 11_____________ King's Park 12_____________ Oakvale School 13_____________ Green Road 14_____________ Sun Lane 15_____________ Questions 16–20 Choose the correct answer. Denford Festival 16 What does Sam say about the festival tickets? A. They allow you to get into all the festival events.",
+      "promptContext": "King's Park",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
         "D"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Let's start with Bridge Street. Local schoolchildren took part in a competition to paint pictures of the local landscape, and you'll be able to see all their work displayed here.",
-      "evidenceStartTime": 530.85,
-      "evidenceEndTime": 543.34,
+      "evidenceQuote": "At Kings Park, we've built a climbing wall, and there'll also be an inflatable bouncy castle for kids to burn off excess energy.",
+      "evidenceStartTime": 548.6,
+      "evidenceEndTime": 557.6,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -283,7 +278,7 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": "t 11_____________ King's Park 12_____________ Oakvale School 13_____________ Green Road 14_____________ Sun Lane 15_____________ Questions 16–20 Choose the correct answer. Denford Festival 16 What does Sam say about the festival tickets? A. They allow you to get into all the festival events. B. They are more expensive to",
+      "promptContext": "Oakvale School",
       "answerRaw": "F",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -291,8 +286,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "There's a lot happening in Oakvale School. If you're over 18, there's an exciting contest to take part in here.",
-      "evidenceStartTime": 569.22,
-      "evidenceEndTime": 578.0,
+      "evidenceStartTime": 568.04,
+      "evidenceEndTime": 577.16,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"F\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -300,16 +295,16 @@
     {
       "number": 14,
       "part": 2,
-      "promptContext": "rk 12_____________ Oakvale School 13_____________ Green Road 14_____________ Sun Lane 15_____________ Questions 16–20 Choose the correct answer. Denford Festival 16 What does Sam say about the festival tickets? A. They allow you to get into all the festival events. B. They are more expensive to buy on the day. C. They hav",
+      "promptContext": "Green Road",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "On Green Road, we'll have some top local groups performing and singing throughout the day until 5,",
-      "evidenceStartTime": 589.75,
-      "evidenceEndTime": 597.92,
+      "evidenceQuote": "On Green Road, we'll have some top local groups performing",
+      "evidenceStartTime": 588.92,
+      "evidenceEndTime": 593.3,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -317,16 +312,16 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "e School 13_____________ Green Road 14_____________ Sun Lane 15_____________ Questions 16–20 Choose the correct answer. Denford Festival 16 What does Sam say about the festival tickets? A. They allow you to get into all the festival events. B. They are more expensive to buy on the day. C. They have nearly all been sold. 1",
+      "promptContext": "Sun Lane",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Tickets can be purchased from our website or at the festival on the day, although those will cost a bit more.",
-      "evidenceStartTime": 699.4,
-      "evidenceEndTime": 708.0,
+      "evidenceQuote": "We want you to leave the festival with more than good memories, and a full stomach, so we'd encourage everyone to go to Sun Lane,",
+      "evidenceStartTime": 609.72,
+      "evidenceEndTime": 619.52,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -334,7 +329,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "Questions 16–20 Choose the correct answer. Denford Festival 16 What does Sam say about the festival tickets? A. They allow you to get into all the festival events. B. They are more expensive to buy on the day. C. They have nearly all been sold. 17 On the last night of the festival, visitors will be able to A. take part i",
+      "promptContext": "What does Sam say about the festival tickets? A. They allow you to get into all the festival events. B. They are more expensive to buy on the day. C. They have nearly all been sold.",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -342,8 +337,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Tickets can be purchased from our website or at the festival on the day, although those will cost a bit more.",
-      "evidenceStartTime": 699.4,
-      "evidenceEndTime": 708.0,
+      "evidenceStartTime": 699.02,
+      "evidenceEndTime": 706.08,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -351,55 +346,53 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "ensive to buy on the day. C. They have nearly all been sold. 17 On the last night of the festival, visitors will be able to A. take part in a dance. B. go to a theatre performance. C. watch some fireworks. 18 What will be provided for international visitors? A. discounts on accommodation. B. tours of the local area. C. a",
+      "promptContext": "On the last night of the festival, visitors will be able to A. take part in a dance. B. go to a theatre performance. C. watch some fireworks.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And we've organised a help desk to advise people on finding accommodation if they need it.",
-      "evidenceStartTime": 754.4,
-      "evidenceEndTime": 760.53,
+      "evidenceQuote": "We usually have a big firework display, but it's proven too expensive this year. So instead, we're holding a dance for everyone who wants to come.",
+      "evidenceStartTime": 721.16,
+      "evidenceEndTime": 733.32,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "thay thế phương án ban đầu bằng lựa chọn khác ('instead')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": "ce. B. go to a theatre performance. C. watch some fireworks. 18 What will be provided for international visitors? A. discounts on accommodation. B. tours of the local area. C. a guide written in different languages. 19 What information is given about car park A? A. It is bigger than car park B. B. It is closer to town tha",
+      "promptContext": "What will be provided for international visitors? A. discounts on accommodation. B. tours of the local area. C. a guide written in different languages.",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Car Park B is in the middle of town, so it usually fills up very quickly.",
-      "evidenceStartTime": 777.65,
-      "evidenceEndTime": 784.0,
-      "paraphrases": [
-        {
-          "questionTerm": "local",
-          "audioTerm": "town"
-        }
-      ],
+      "evidenceQuote": "We're expecting a large number of international visitors, so you'll be hearing a lot of different languages around the festival this year.",
+      "evidenceStartTime": 743.36,
+      "evidenceEndTime": 751.5,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'local' ↔ 'town'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": "f the local area. C. a guide written in different languages. 19 What information is given about car park A? A. It is bigger than car park B. B. It is closer to town than car park B. C. It will close earlier than car park B. 20 What change have the organisers made to the programme this year? A. replacing the programme with",
+      "promptContext": "What information is given about car park A? A. It is bigger than car park B. B. It is closer to town than car park B. C. It will close earlier than car park B.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Last year, we sent out nearly 30,000 free programmes with the tickets, and we're aware of both the cost and the environmental impact of this.",
-      "evidenceStartTime": 804.0,
-      "evidenceEndTime": 815.3,
+      "evidenceQuote": "From Car Park A, there is a 15-minute walk along the river to the town centre.",
+      "evidenceStartTime": 784.14,
+      "evidenceEndTime": 790.62,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -407,7 +400,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "n than car park B. C. It will close earlier than car park B. 20 What change have the organisers made to the programme this year? A. replacing the programme with an app B. reducing the number of programmes printed C. introducing a charge for the programmes",
+      "promptContext": "What change have the organisers made to the programme this year? A. replacing the programme with an app B. reducing the number of programmes printed C. introducing a charge for the programmes",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -415,8 +408,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Last year, we sent out nearly 30,000 free programmes with the tickets, and we're aware of both the cost and the environmental impact of this.",
-      "evidenceStartTime": 804.0,
-      "evidenceEndTime": 815.3,
+      "evidenceStartTime": 803.24,
+      "evidenceEndTime": 814.36,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -432,8 +425,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The title is Professional Learning. Right. I think one of the other teachers in my school mentioned it. Okay.",
-      "evidenceStartTime": 954.74,
-      "evidenceEndTime": 961.55,
+      "evidenceStartTime": 952.86,
+      "evidenceEndTime": 961.22,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"professional learning\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -448,9 +441,9 @@
         "team"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And then there's something that's crucial to action research, and that's the skill of researching in a team.",
-      "evidenceStartTime": 973.92,
-      "evidenceEndTime": 979.0,
+      "evidenceQuote": "And then there's something that's crucial to action research, and that's the skill of researching in a team. Yes.",
+      "evidenceStartTime": 972.82,
+      "evidenceEndTime": 979.06,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"team\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -458,7 +451,7 @@
     {
       "number": 23,
       "part": 3,
-      "promptContext": "chniques ● researching as part of a 22_____________ ● 23_____________ (in a collaborative culture) Questions 24–30 Complete the tables below. Write NO MORE THAN TWO WORDS for each answer. Course Components Observational techniques Additional information Using observation checklists To record aspects of lesson, e.g.",
+      "promptContext": "●",
       "answerRaw": "presenting results",
       "canonicalAnswer": "presenting results",
       "acceptedAnswers": [
@@ -466,8 +459,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Well, the last major objective is similar to that, but not quite the same. It's on presenting results as part of the wider collaborative culture.",
-      "evidenceStartTime": 988.44,
-      "evidenceEndTime": 1000.83,
+      "evidenceStartTime": 987.5,
+      "evidenceEndTime": 996.42,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -478,16 +471,16 @@
     {
       "number": 24,
       "part": 3,
-      "promptContext": "ing observation checklists To record aspects of lesson, e.g. 24_____________ of pupils Writing a 25_____________ Used to improve skill of reflection 26_____________ Try out on fellow students (in classroom 27_____________) Non-observational techniques Additional information Analysing 28___________ __ Use statistics based",
+      "promptContext": "(in a collaborative culture) Questions 24–30 Complete the tables below. Write NO MORE THAN TWO WORDS for each answer. Course Components Observational techniques Additional information Using observation checklists To record aspects of lesson, e.g.",
       "answerRaw": "behaviour",
       "canonicalAnswer": "behaviour",
       "acceptedAnswers": [
         "behaviour"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "such as pupil behaviour, so you can immediately apply what you've learnt to a real situation in the classroom.",
-      "evidenceStartTime": 1059.55,
-      "evidenceEndTime": 1065.43,
+      "evidenceQuote": "And we ask you to try some out in a school so you can look at an element of a lesson, such as pupil behaviour,",
+      "evidenceStartTime": 1053.44,
+      "evidenceEndTime": 1059.34,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"behaviour\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -495,16 +488,16 @@
     {
       "number": 25,
       "part": 3,
-      "promptContext": "aspects of lesson, e.g. 24_____________ of pupils Writing a 25_____________ Used to improve skill of reflection 26_____________ Try out on fellow students (in classroom 27_____________) Non-observational techniques Additional information Analysing 28___________ __ Use statistics based on own students Using questionnaires",
+      "promptContext": "of pupils Writing a",
       "answerRaw": "diary",
       "canonicalAnswer": "diary",
       "acceptedAnswers": [
         "diary"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Right. Somebody told me we have to keep a diary. Yes, that's right. We ask you to keep one as a research tool.",
-      "evidenceStartTime": 1065.43,
-      "evidenceEndTime": 1072.19,
+      "evidenceQuote": "Somebody told me we have to keep a diary. Yes, that's right.",
+      "evidenceStartTime": 1065.22,
+      "evidenceEndTime": 1068.56,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"diary\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -512,7 +505,7 @@
     {
       "number": 26,
       "part": 3,
-      "promptContext": "riting a 25_____________ Used to improve skill of reflection 26_____________ Try out on fellow students (in classroom 27_____________) Non-observational techniques Additional information Analysing 28___________ __ Use statistics based on own students Using questionnaires Use the 29_____________ to find respondents Using 3",
+      "promptContext": "Used to improve skill of reflection",
       "answerRaw": "video recording",
       "canonicalAnswer": "video recording",
       "acceptedAnswers": [
@@ -520,8 +513,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "And then we've just added another observational technique to the course, which is video recording.",
-      "evidenceStartTime": 1079.66,
-      "evidenceEndTime": 1085.48,
+      "evidenceStartTime": 1078.8,
+      "evidenceEndTime": 1084.0,
       "paraphrases": [
         {
           "questionTerm": "skill",
@@ -534,7 +527,7 @@
     {
       "number": 27,
       "part": 3,
-      "promptContext": "ion 26_____________ Try out on fellow students (in classroom 27_____________) Non-observational techniques Additional information Analysing 28___________ __ Use statistics based on own students Using questionnaires Use the 29_____________ to find respondents Using 30_____________ Own choice of respondents",
+      "promptContext": "Try out on fellow students (in classroom",
       "answerRaw": "simulation",
       "canonicalAnswer": "simulation",
       "acceptedAnswers": [
@@ -542,8 +535,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "So we decided to get you to try this technique out with your fellow students in classroom simulation, which I think you'll agree.",
-      "evidenceStartTime": 1094.33,
-      "evidenceEndTime": 1102.0,
+      "evidenceStartTime": 1093.68,
+      "evidenceEndTime": 1101.26,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"simulation\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -551,16 +544,16 @@
     {
       "number": 28,
       "part": 3,
-      "promptContext": "on-observational techniques Additional information Analysing 28___________ __ Use statistics based on own students Using questionnaires Use the 29_____________ to find respondents Using 30_____________ Own choice of respondents",
+      "promptContext": ") Non-observational techniques Additional information Analysing",
       "answerRaw": "test results",
       "canonicalAnswer": "test results",
       "acceptedAnswers": [
         "test results"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And rather controversially, we start with ways of scrutinising test results.",
-      "evidenceStartTime": 1109.43,
-      "evidenceEndTime": 1114.0,
+      "evidenceQuote": "And rather controversially, we start with ways of scrutinising test results. Oh, right. Yeah, I'm familiar with that.",
+      "evidenceStartTime": 1108.7,
+      "evidenceEndTime": 1116.48,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"test results\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -568,36 +561,35 @@
     {
       "number": 29,
       "part": 3,
-      "promptContext": "tatistics based on own students Using questionnaires Use the 29_____________ to find respondents Using 30_____________ Own choice of respondents",
+      "promptContext": "Use statistics based on own students Using questionnaires Use the",
       "answerRaw": "internet",
       "canonicalAnswer": "internet",
       "acceptedAnswers": [
         "internet"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I used one local teacher's resource group, but I've never felt that I've used them as effectively as I should have done so. Well, that is a common comment from our participants, and we thought we'd open things up a bit this year with a different approach and use the Internet in order to identify respondents.",
-      "evidenceStartTime": 1136.68,
-      "evidenceEndTime": 1154.0,
+      "evidenceQuote": "and we thought we'd open things up a bit this year with a different approach and use the Internet in order to identify respondents.",
+      "evidenceStartTime": 1146.12,
+      "evidenceEndTime": 1153.28,
       "paraphrases": [],
       "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"internet\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"internet\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "tionnaires Use the 29_____________ to find respondents Using 30_____________ Own choice of respondents",
+      "promptContext": "to find respondents Using",
       "answerRaw": "interviews",
       "canonicalAnswer": "interviews",
       "acceptedAnswers": [
         "interviews"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Look forward to that. And will there be anything on interviews?",
-      "evidenceStartTime": 1161.55,
-      "evidenceEndTime": 1166.71,
+      "evidenceQuote": "And will there be anything on interviews? That's really the last major section, and we ask you to choose your own respondents for that as part of a final project. Great.",
+      "evidenceStartTime": 1160.22,
+      "evidenceEndTime": 1170.5,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"interviews\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -605,16 +597,16 @@
     {
       "number": 31,
       "part": 4,
-      "promptContext": "questions 31 – 40 Questions 31–33 Choose the correct answer. 31 What impact does Marc Prensky believe that digital technology has had on young people? A. It has altered their thinking patterns. B. It has harmed their physical development. C. It has limited their brain capacity. 32 Digital immigrants tend to access compute",
+      "promptContext": "What impact does Marc Prensky believe that digital technology has had on young people? A. It has altered their thinking patterns. B. It has harmed their physical development. C. It has limited their brain capacity.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "This lecture is based on the opinions of Mark Prensky and what he believes are the main effects that high exposure to digital technology has had on young people today.",
-      "evidenceStartTime": 1279.08,
-      "evidenceEndTime": 1292.08,
+      "evidenceQuote": "and what he believes are the main effects that high exposure to digital technology has had on young people today.",
+      "evidenceStartTime": 1283.66,
+      "evidenceEndTime": 1292.06,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -622,50 +614,43 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "hysical development. C. It has limited their brain capacity. 32 Digital immigrants tend to access computers A. using their native language. B. less efficiently than young people. C. for less important information. 33 What example is given of having a 'digital accent'? A. having less effective typing skills B. doing things",
+      "promptContext": "Digital immigrants tend to access computers A. using their native language. B. less efficiently than young people. C. for less important information.",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "They prefer doing things as they've always done, rather than typing something into a computer.",
-      "evidenceStartTime": 1405.17,
-      "evidenceEndTime": 1413.62,
+      "evidenceQuote": "Prensky believes that because today's young people have been born into a digital world",
+      "evidenceStartTime": 1292.62,
+      "evidenceEndTime": 1298.66,
       "paraphrases": [],
-      "distractors": [
-        "loại trừ phương án đối chiếu ('rather than')"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 33,
       "part": 4,
-      "promptContext": "iently than young people. C. for less important information. 33 What example is given of having a 'digital accent'? A. having less effective typing skills B. doing things the old-fashioned way C. being unable to understand instructions Questions 34–40 Which theorist makes each of the following points? Choose the correct l",
+      "promptContext": "What example is given of having a 'digital accent'? A. having less effective typing skills B. doing things the old-fashioned way C. being unable to understand instructions Questions 34–40 Which theorist makes each of the following points? Choose the correct letter, A, B or C, next to questions 34-40. Theorists A Allen B James C Vander Points made",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "They prefer doing things as they've always done, rather than typing something into a computer.",
-      "evidenceStartTime": 1405.17,
-      "evidenceEndTime": 1413.62,
-      "paraphrases": [
-        {
-          "questionTerm": "choose",
-          "audioTerm": "prefer"
-        }
-      ],
+      "evidenceQuote": "Another example of the digital accent is scanning a manual for a computer programme, but the programme itself will teach you how to use it.",
+      "evidenceStartTime": 1385.2,
+      "evidenceEndTime": 1394.82,
+      "paraphrases": [],
       "distractors": [
-        "loại trừ phương án đối chiếu ('rather than')"
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'choose' ↔ 'prefer'. Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 34,
       "part": 4,
-      "promptContext": "stions 34-40. Theorists A Allen B James C Vander Points made 34 Current teaching methods don't work. 35 Many students don't understand computers. 36 Computer technology doesn't interest all students. 37 Students can still learn the traditional way. 38 Students still need to learn research skills. 39 We should use computer",
+      "promptContext": "Points made Current teaching methods don't work.",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -673,8 +658,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Other educators and theorists, such as Thompson Allen, Samuel James, and Peter Vander, also give their opinions.",
-      "evidenceStartTime": 1422.0,
-      "evidenceEndTime": 1430.71,
+      "evidenceStartTime": 1420.72,
+      "evidenceEndTime": 1429.8,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -682,35 +667,33 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "C Vander Points made 34 Current teaching methods don't work. 35 Many students don't understand computers. 36 Computer technology doesn't interest all students. 37 Students can still learn the traditional way. 38 Students still need to learn research skills. 39 We should use computer games to teach. 40 Computers can't repl",
+      "promptContext": "Current teaching methods don't work. Many students don't understand computers.",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "However, even so, James believes that our younger students can communicate with their digital immigrant teachers and still learn with the teaching methods that were quite effective in the past.",
-      "evidenceStartTime": 1494.3,
-      "evidenceEndTime": 1508.25,
+      "evidenceQuote": "Vander argues that a typical classroom is much more different from what Prensky believes, with students from various backgrounds.",
+      "evidenceStartTime": 1453.18,
+      "evidenceEndTime": 1462.26,
       "paraphrases": [],
-      "distractors": [
-        "đảo chiều thông tin bằng 'however'"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 36,
       "part": 4,
-      "promptContext": "ods don't work. 35 Many students don't understand computers. 36 Computer technology doesn't interest all students. 37 Students can still learn the traditional way. 38 Students still need to learn research skills. 39 We should use computer games to teach. 40 Computers can't replace educators.",
+      "promptContext": "Many students don't understand computers. Computer technology doesn't interest all students.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "He thinks that although most young students today are good at playing computer games or surfing the internet, they use computers in important ways.",
-      "evidenceStartTime": 1518.0,
-      "evidenceEndTime": 1528.76,
+      "evidenceQuote": "Then, Allen adds his opinion that even though most students in modern times can access computers at home or school easily,",
+      "evidenceStartTime": 1469.44,
+      "evidenceEndTime": 1478.64,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -718,50 +701,57 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "uters. 36 Computer technology doesn't interest all students. 37 Students can still learn the traditional way. 38 Students still need to learn research skills. 39 We should use computer games to teach. 40 Computers can't replace educators.",
+      "promptContext": "Computer technology doesn't interest all students. Students can still learn the traditional way.",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "He thinks that although most young students today are good at playing computer games or surfing the internet, they use computers in important ways.",
-      "evidenceStartTime": 1518.0,
-      "evidenceEndTime": 1528.76,
+      "evidenceQuote": "However, even so, James believes that our younger students can communicate with their digital immigrant teachers",
+      "evidenceStartTime": 1493.48,
+      "evidenceEndTime": 1500.98,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
     },
     {
       "number": 38,
       "part": 4,
-      "promptContext": "l students. 37 Students can still learn the traditional way. 38 Students still need to learn research skills. 39 We should use computer games to teach. 40 Computers can't replace educators.",
+      "promptContext": "Students can still learn the traditional way. Students still need to learn research skills.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "He thinks that although most young students today are good at playing computer games or surfing the internet, they use computers in important ways.",
-      "evidenceStartTime": 1518.0,
-      "evidenceEndTime": 1528.76,
-      "paraphrases": [],
+      "evidenceQuote": "Allen believes that both digital natives and digital immigrants have to process a large amount of information in today's digital world.",
+      "evidenceStartTime": 1507.08,
+      "evidenceEndTime": 1516.68,
+      "paraphrases": [
+        {
+          "questionTerm": "need",
+          "audioTerm": "have to"
+        }
+      ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'need' ↔ 'have to'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 39,
       "part": 4,
-      "promptContext": "tional way. 38 Students still need to learn research skills. 39 We should use computer games to teach. 40 Computers can't replace educators.",
+      "promptContext": "Students still need to learn research skills. We should use computer games to teach.",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "He thinks that although most young students today are good at playing computer games or surfing the internet, they use computers in important ways.",
-      "evidenceStartTime": 1518.0,
-      "evidenceEndTime": 1528.76,
+      "evidenceQuote": "Unlike Allen's research, James believes that computer games can play an important role in the classroom.",
+      "evidenceStartTime": 1539.56,
+      "evidenceEndTime": 1546.92,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -769,1972 +759,1794 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "n research skills. 39 We should use computer games to teach. 40 Computers can't replace educators.",
+      "promptContext": "We should use computer games to teach. Computers can't replace educators.",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "He thinks that although most young students today are good at playing computer games or surfing the internet, they use computers in important ways.",
-      "evidenceStartTime": 1518.0,
-      "evidenceEndTime": 1528.76,
+      "evidenceQuote": "However, Vander has different opinions. He argues that teachers are always the leading part of the classroom and no computer programme comes close to doing what a human teacher does every day.",
+      "evidenceStartTime": 1556.0,
+      "evidenceEndTime": 1569.88,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
     }
   ],
   "transcriptSegments": [
     {
       "id": "seg-001",
       "part": 1,
-      "startTime": 1.0,
-      "endTime": 3.38,
-      "text": "IELTS Listening, Version 50032.",
+      "startTime": 96.52,
+      "endTime": 99.86,
+      "text": "Hello, Stanley House Courses. Oh, hello.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-002",
       "part": 1,
-      "startTime": 3.38,
-      "endTime": 11.3,
-      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+      "startTime": 100.1,
+      "endTime": 105.04,
+      "text": "I'm ringing to book a place on one of your weekend courses. Very good.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-003",
       "part": 1,
-      "startTime": 11.3,
-      "endTime": 20.0,
-      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "startTime": 105.36,
+      "endTime": 109.22,
+      "text": "Which course are you interested in? Well, a guitar one.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-004",
       "part": 1,
-      "startTime": 21.0,
-      "endTime": 27.66,
-      "text": "All the recordings will be played once only. The test is in four parts.",
+      "startTime": 109.42,
+      "endTime": 112.8,
+      "text": "I think it was a workshop, actually. That's right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-005",
       "part": 1,
-      "startTime": 27.66,
-      "endTime": 33.0,
-      "text": "Write all your answers in the listening question booklet.",
+      "startTime": 113.32,
+      "endTime": 115.38,
+      "text": "And when did you want to come?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-006",
       "part": 1,
-      "startTime": 33.0,
-      "endTime": 43.63,
-      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet.",
+      "startTime": 116.02,
+      "endTime": 121.2,
+      "text": "Well, I was thinking of the weekend of July the 16th, if there's room then.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-007",
       "part": 1,
-      "startTime": 43.63,
-      "endTime": 51.0,
-      "text": "Now turn to part one on page two of your question booklet. Part one.",
+      "startTime": 121.48,
+      "endTime": 123.9,
+      "text": "Let me just check.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-008",
       "part": 1,
-      "startTime": 52.0,
-      "endTime": 67.72,
-      "text": "You will hear a man phoning to book a place on a weekend course.",
+      "startTime": 124.54,
+      "endTime": 129.84,
+      "text": "Oh, the 16th is a Wednesday. Did you mean the 18th? Oh, sorry.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-009",
       "part": 1,
-      "startTime": 67.72,
-      "endTime": 81.97,
-      "text": "First, you have some time to look at questions one to six.",
+      "startTime": 130.14,
+      "endTime": 135.66,
+      "text": "Yes, I was looking at the wrong month. No problem. Yes, you're in luck.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-010",
       "part": 1,
-      "startTime": 81.97,
-      "endTime": 94.0,
-      "text": "Listen carefully and answer questions one to six.",
+      "startTime": 135.7,
+      "endTime": 139.54,
+      "text": "There are three places left there, so I'll put you down for one.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-011",
       "part": 1,
-      "startTime": 98.0,
-      "endTime": 100.83,
-      "text": "Hello, Stanley House Courses. Oh, hello.",
+      "startTime": 139.84,
+      "endTime": 142.28,
+      "text": "So the code for that is Q1632.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-012",
       "part": 1,
-      "startTime": 100.83,
-      "endTime": 105.0,
-      "text": "I'm ringing to book a place on one of your weekend courses.",
+      "startTime": 145.46,
+      "endTime": 147.28,
+      "text": "That's just for our reference.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-013",
       "part": 1,
-      "startTime": 106.0,
-      "endTime": 110.53,
-      "text": "Very good. Which course are you interested in? Well, a guitar one.",
+      "startTime": 147.78,
+      "endTime": 149.68,
+      "text": "So now for a few details.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-014",
       "part": 1,
-      "startTime": 110.53,
-      "endTime": 113.0,
-      "text": "I think it was a workshop, actually.",
+      "startTime": 149.78,
+      "endTime": 153.42,
+      "text": "Can I just check if you've done any of our weekend courses before?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-015",
       "part": 1,
-      "startTime": 113.0,
-      "endTime": 116.83,
-      "text": "That's right. And when did you want to come?",
+      "startTime": 153.86,
+      "endTime": 155.56,
+      "text": "Yes, in fact, I have.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-016",
       "part": 1,
-      "startTime": 116.83,
-      "endTime": 125.0,
-      "text": "Well, I was thinking of the weekend of July the 16th, if there's room then. Let me just check.",
+      "startTime": 155.66,
+      "endTime": 159.26,
+      "text": "I did one last September. It was on photographs.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-017",
       "part": 1,
-      "startTime": 126.0,
-      "endTime": 130.96,
-      "text": "Oh, the 16th is a Wednesday. Did you mean the 18th? Oh, sorry.",
+      "startTime": 159.36,
+      "endTime": 162.34,
+      "text": "We learnt about editing them. I really enjoyed it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-018",
       "part": 1,
-      "startTime": 130.96,
-      "endTime": 134.0,
-      "text": "Yes, I was looking at the wrong month.",
+      "startTime": 162.64,
+      "endTime": 164.88,
+      "text": "Yes, that's always a popular course.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-019",
       "part": 1,
-      "startTime": 134.0,
-      "endTime": 136.33,
-      "text": "No problem. Yes, you're in luck.",
+      "startTime": 164.98,
+      "endTime": 169.36,
+      "text": "So your details will be on the computer already. Let me see.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-020",
       "part": 1,
-      "startTime": 136.33,
-      "endTime": 141.0,
-      "text": "There are three places left there, so I'll put you down for one.",
+      "startTime": 169.58,
+      "endTime": 173.66,
+      "text": "I can just have your name, please. It's Nick Poskitt.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-021",
       "part": 1,
-      "startTime": 141.0,
-      "endTime": 148.0,
-      "text": "So the code for that is Q1632. OK. That's just for our reference.",
+      "startTime": 178.64,
+      "endTime": 183.68,
+      "text": "Oh, that's an unusual name, isn't it? Right, here we are.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-022",
       "part": 1,
-      "startTime": 149.0,
-      "endTime": 155.62,
-      "text": "So now for a few details. Can I just check if you've done any of our weekend courses before?",
+      "startTime": 184.12,
+      "endTime": 188.18,
+      "text": "So is your address still 27 Hawthorne Road?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-023",
       "part": 1,
-      "startTime": 155.62,
-      "endTime": 159.0,
-      "text": "Yes, in fact, I have. I did one last September.",
+      "startTime": 188.48,
+      "endTime": 191.04,
+      "text": "Oh, it's Hawthorne Way, actually.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-024",
       "part": 1,
-      "startTime": 159.0,
-      "endTime": 164.0,
-      "text": "It was on photographs. We learnt about editing them. I really enjoyed it.",
+      "startTime": 191.4,
+      "endTime": 193.8,
+      "text": "OK, I'll correct that now.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-025",
       "part": 1,
-      "startTime": 164.0,
-      "endTime": 169.31,
-      "text": "Yes, that's always a popular course. So your details will be on the computer already.",
+      "startTime": 194.16,
+      "endTime": 196.47,
+      "text": "And it's Bristol BS42QG?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-026",
       "part": 1,
-      "startTime": 169.31,
-      "endTime": 170.0,
-      "text": "Let me see.",
+      "startTime": 199.22,
+      "endTime": 201.08,
+      "text": "That's right. Lovely.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-027",
       "part": 1,
-      "startTime": 171.0,
-      "endTime": 177.45,
-      "text": "I can just have your name, please. It's Nick Poskitt.",
+      "startTime": 201.76,
+      "endTime": 205.58,
+      "text": "And the next thing I need from you is a contact phone number.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-028",
       "part": 1,
-      "startTime": 177.45,
-      "endTime": 180.0,
-      "text": "That's P-O-S-K-I-T-T.",
+      "startTime": 206.1,
+      "endTime": 208.9,
+      "text": "OK, that's 07707 438 297.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-029",
       "part": 1,
-      "startTime": 180.0,
-      "endTime": 185.74,
-      "text": "Oh, that's an unusual name, isn't it? Right, here we are.",
+      "startTime": 215.88,
+      "endTime": 216.3,
+      "text": "Thanks.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-030",
       "part": 1,
-      "startTime": 185.74,
-      "endTime": 193.5,
-      "text": "So is your address still 27 Hawthorne Road? Oh, it's Hawthorne Way, actually.",
+      "startTime": 216.8,
+      "endTime": 220.56,
+      "text": "That's just in case we need to get hold of you in an emergency.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-031",
       "part": 1,
-      "startTime": 193.5,
-      "endTime": 200.85,
-      "text": "OK, I'll correct that now. And it's Bristol BS42QG? That's right. Lovely.",
+      "startTime": 221.04,
+      "endTime": 226.66,
+      "text": "Now, if you've stayed with us before, you'll know that our guests all stay in shared accommodation.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-032",
       "part": 1,
-      "startTime": 200.85,
-      "endTime": 207.0,
-      "text": "And the next thing I need from you is a contact phone number.",
+      "startTime": 226.66,
+      "endTime": 232.88,
+      "text": "And we've had quite a lot of requests lately for people to be put in with someone of a similar age.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-033",
       "part": 1,
-      "startTime": 207.0,
-      "endTime": 211.81,
-      "text": "OK, that's 07707 438 297. Thanks.",
+      "startTime": 233.14,
+      "endTime": 237.7,
+      "text": "So can I ask how old you are? Sure, I'm 26.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-034",
       "part": 1,
-      "startTime": 211.81,
-      "endTime": 221.0,
-      "text": "That's just in case we need to get hold of you in an emergency.",
+      "startTime": 238.44,
+      "endTime": 242.48,
+      "text": "And can I ask your occupation? Engineer.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-035",
       "part": 1,
-      "startTime": 222.0,
-      "endTime": 228.57,
-      "text": "Now, if you've stayed with us before, you'll know that our guests all stay in shared accommodation.",
+      "startTime": 242.48,
+      "endTime": 247.88,
+      "text": "I wish I could say musician, but maybe one day. Let's hope so.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-036",
       "part": 1,
-      "startTime": 228.57,
-      "endTime": 235.14,
-      "text": "And we've had quite a lot of requests lately for people to be put in with someone of a similar age.",
+      "startTime": 283.56,
+      "endTime": 286.12,
+      "text": "OK, so now about meals.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-037",
       "part": 1,
-      "startTime": 235.14,
-      "endTime": 238.0,
-      "text": "So can I ask how old you are? Sure, I'm 26.",
+      "startTime": 286.26,
+      "endTime": 289.3,
+      "text": "Do you have any special dietary requirements?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-038",
       "part": 1,
-      "startTime": 240.0,
-      "endTime": 246.9,
-      "text": "And can I ask your occupation? Engineer. I wish I could say musician, but maybe one day.",
+      "startTime": 290.24,
+      "endTime": 293.0,
+      "text": "Well, I don't like any sort of fish.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-039",
       "part": 1,
-      "startTime": 246.9,
-      "endTime": 248.0,
-      "text": "Let's hope so.",
+      "startTime": 293.14,
+      "endTime": 296.08,
+      "text": "I'm fine with everything else. That's fine.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-040",
       "part": 1,
-      "startTime": 252.0,
-      "endTime": 263.41,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions 7 to 10.",
+      "startTime": 296.18,
+      "endTime": 297.92,
+      "text": "I'll make a note of that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-041",
       "part": 1,
-      "startTime": 263.41,
-      "endTime": 271.18,
-      "text": "Now listen and answer questions 7 to 10. OK, so now about meals.",
+      "startTime": 298.72,
+      "endTime": 304.0,
+      "text": "OK, and if I could ask you just one more question about the course, Nick? Sure.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-042",
       "part": 1,
-      "startTime": 271.18,
-      "endTime": 276.64,
-      "text": "Do you have any special dietary requirements?",
+      "startTime": 304.24,
+      "endTime": 313.3,
+      "text": "On the Saturday afternoon, you can choose to have an individual one-to-one lesson on one particular aspect of guitar playing.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-043",
       "part": 1,
-      "startTime": 276.64,
-      "endTime": 284.77,
-      "text": "Well, I don't like any sort of fish. I'm fine with everything else.",
+      "startTime": 313.66,
+      "endTime": 323.2,
+      "text": "So you can choose jazz guitar? Hmm, probably not. Yes, maybe. Or rock?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-044",
       "part": 1,
-      "startTime": 284.77,
-      "endTime": 289.38,
-      "text": "That's fine. I'll make a note of that.",
+      "startTime": 323.42,
+      "endTime": 328.92,
+      "text": "That sounds good, but no, I think I'll go for the second one. OK, fine.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-045",
       "part": 1,
-      "startTime": 289.38,
-      "endTime": 298.24,
-      "text": "OK, and if I could ask you just one more question about the course, Nick?",
+      "startTime": 329.04,
+      "endTime": 331.58,
+      "text": "I didn't know we had individual classes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-046",
       "part": 1,
-      "startTime": 298.24,
-      "endTime": 298.85,
-      "text": "Sure.",
+      "startTime": 331.72,
+      "endTime": 335.3,
+      "text": "It didn't mention that in the information I read about the course.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-047",
       "part": 1,
-      "startTime": 298.85,
-      "endTime": 314.0,
-      "text": "On the Saturday afternoon, you can choose to have an individual one-to-one lesson on one particular aspect of guitar playing.",
+      "startTime": 335.54,
+      "endTime": 338.12,
+      "text": "Where did you actually find out about us?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-048",
       "part": 1,
-      "startTime": 315.0,
-      "endTime": 323.27,
-      "text": "So you can choose jazz guitar? Hmm, probably not. Or there's blues? Yes, maybe. Or rock?",
+      "startTime": 338.36,
+      "endTime": 344.2,
+      "text": "Well, this time I just looked on your website, but I originally found out about you from a magazine.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-049",
       "part": 1,
-      "startTime": 323.27,
-      "endTime": 329.0,
-      "text": "That sounds good, but no, I think I'll go for the second one.",
+      "startTime": 344.84,
+      "endTime": 351.36,
+      "text": "Right, yes, we'll have to update the website, but our prices are up to date. So it's still £370?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-050",
       "part": 1,
-      "startTime": 329.0,
-      "endTime": 332.02,
-      "text": "OK, fine. I didn't know we had individual classes.",
+      "startTime": 352.42,
+      "endTime": 353.12,
+      "text": "That's right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-051",
       "part": 1,
-      "startTime": 332.02,
-      "endTime": 336.0,
-      "text": "It didn't mention that in the information I read about the course.",
+      "startTime": 353.72,
+      "endTime": 358.3,
+      "text": "Before I take your card details, is there anything else I can help you with?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-052",
       "part": 1,
-      "startTime": 337.0,
-      "endTime": 339.92,
-      "text": "Where did you actually find out about us?",
+      "startTime": 358.58,
+      "endTime": 366.92,
+      "text": "Well, last time I came I travelled by train and someone met me at the station, but this time I'll be driving.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-053",
       "part": 1,
-      "startTime": 339.92,
-      "endTime": 347.04,
-      "text": "Well, this time I just looked on your website, but I originally found out about you from a magazine.",
+      "startTime": 366.92,
+      "endTime": 371.18,
+      "text": "So will there be parking available? I'll see what I can do.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-054",
       "part": 1,
-      "startTime": 347.04,
-      "endTime": 352.45,
-      "text": "Right, yes, we'll have to update the website, but our prices are up to date.",
+      "startTime": 371.2,
+      "endTime": 373.72,
+      "text": "I can't promise it, but I'll do my best.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-055",
       "part": 1,
-      "startTime": 352.45,
-      "endTime": 354.8,
-      "text": "So it's still £370? That's right.",
+      "startTime": 374.04,
+      "endTime": 378.04,
+      "text": "It's a good thing you mentioned it, actually, as places are limited. Great.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-056",
       "part": 1,
-      "startTime": 354.8,
-      "endTime": 360.21,
-      "text": "Before I take your card details, is there anything else I can help you with?",
+      "startTime": 378.74,
+      "endTime": 385.62,
+      "text": "Right, so if there's nothing else, I'll just take your credit card number. OK, it's 78956.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-057",
-      "part": 1,
-      "startTime": 360.21,
-      "endTime": 367.97,
-      "text": "Well, last time I came I travelled by train and someone met me at the station, but this time I'll be driving.",
+      "part": 2,
+      "startTime": 501.28,
+      "endTime": 504.6,
+      "text": "I'd like to welcome Sam Goodwin to the programme.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-058",
-      "part": 1,
-      "startTime": 367.97,
-      "endTime": 372.17,
-      "text": "So will there be parking available? I'll see what I can do.",
+      "part": 2,
+      "startTime": 504.74,
+      "endTime": 508.94,
+      "text": "He's one of the organisers of this year's Denford Festival.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-059",
-      "part": 1,
-      "startTime": 372.17,
-      "endTime": 375.0,
-      "text": "I can't promise it, but I'll do my best.",
+      "part": 2,
+      "startTime": 509.42,
+      "endTime": 513.26,
+      "text": "So, Sam, what can you tell us about what's happening this year?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-060",
-      "part": 1,
-      "startTime": 375.0,
-      "endTime": 379.53,
-      "text": "It's a good thing you mentioned it, actually, as places are limited. Great.",
+      "part": 2,
+      "startTime": 513.7,
+      "endTime": 522.7,
+      "text": "Well, as usual, the festival will take place during the first weekend in August, and there will be things going on all over the town.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-061",
-      "part": 1,
-      "startTime": 379.53,
-      "endTime": 384.0,
-      "text": "Right, so if there's nothing else, I'll just take your credit card number.",
+      "part": 2,
+      "startTime": 523.06,
+      "endTime": 529.12,
+      "text": "There are a number of separate areas, each with their own special attraction and atmosphere.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-062",
-      "part": 1,
-      "startTime": 384.0,
-      "endTime": 397.3,
-      "text": "OK, it's 78956.",
+      "part": 2,
+      "startTime": 529.38,
+      "endTime": 531.64,
+      "text": "Let's start with Bridge Street.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-063",
-      "part": 1,
-      "startTime": 397.3,
-      "endTime": 420.35,
-      "text": "That is the end of Part 1.",
+      "part": 2,
+      "startTime": 532.0,
+      "endTime": 541.56,
+      "text": "Local schoolchildren took part in a competition to paint pictures of the local landscape, and you'll be able to see all their work displayed here.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-064",
-      "part": 1,
-      "startTime": 420.35,
-      "endTime": 470.0,
-      "text": "You now have one minute to check your answers to Part 1.",
+      "part": 2,
+      "startTime": 542.0,
+      "endTime": 548.6,
+      "text": "The winning entries have also been made into postcards that you can buy at one of the stalls.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-065",
       "part": 2,
-      "startTime": 470.0,
-      "endTime": 485.18,
-      "text": "You will hear a talk on the radio about a local festival called the Denford Festival.",
+      "startTime": 548.6,
+      "endTime": 557.6,
+      "text": "At Kings Park, we've built a climbing wall, and there'll also be an inflatable bouncy castle for kids to burn off excess energy.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-066",
       "part": 2,
-      "startTime": 485.18,
-      "endTime": 495.0,
-      "text": "First you have some time to look at questions 11 to 15.",
+      "startTime": 558.14,
+      "endTime": 567.06,
+      "text": "Both are going to be supervised by volunteer teachers at all times, so parents can go off and enjoy other parts of the festival.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-067",
       "part": 2,
-      "startTime": 495.0,
-      "endTime": 499.81,
-      "text": "Now listen carefully and answer questions 11 to 15.",
+      "startTime": 568.04,
+      "endTime": 571.28,
+      "text": "There's a lot happening in Oakvale School.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-068",
       "part": 2,
-      "startTime": 499.81,
-      "endTime": 504.43,
-      "text": "I'd like to welcome Sam Goodwin to the programme.",
+      "startTime": 571.82,
+      "endTime": 577.16,
+      "text": "If you're over 18, there's an exciting contest to take part in here.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-069",
       "part": 2,
-      "startTime": 504.43,
-      "endTime": 510.0,
-      "text": "He's one of the organisers of this year's Denford Festival.",
+      "startTime": 577.4,
+      "endTime": 587.18,
+      "text": "You'll have an hour to prepare your favourite food or dish, and the prizes will be presented by our special guest, the singer Maria Thompson.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-070",
       "part": 2,
-      "startTime": 511.0,
-      "endTime": 515.34,
-      "text": "So, Sam, what can you tell us about what's happening this year?",
+      "startTime": 588.92,
+      "endTime": 593.3,
+      "text": "On Green Road, we'll have some top local groups performing",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-071",
       "part": 2,
-      "startTime": 515.34,
-      "endTime": 524.51,
-      "text": "Well, as usual, the festival will take place during the first weekend in August, and there will be things going on all over the town.",
+      "startTime": 593.3,
+      "endTime": 604.92,
+      "text": "and singing throughout the day until 5, including the Denford Choir, who've just come back from a really successful tour of Australia and New Zealand.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-072",
       "part": 2,
-      "startTime": 524.51,
-      "endTime": 530.85,
-      "text": "There are a number of separate areas, each with their own special attraction and atmosphere.",
+      "startTime": 605.22,
+      "endTime": 609.36,
+      "text": "And finally, I'll mention Sun Lane.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-073",
       "part": 2,
-      "startTime": 530.85,
-      "endTime": 533.0,
-      "text": "Let's start with Bridge Street.",
+      "startTime": 609.72,
+      "endTime": 619.52,
+      "text": "We want you to leave the festival with more than good memories, and a full stomach, so we'd encourage everyone to go to Sun Lane,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-074",
       "part": 2,
-      "startTime": 533.0,
-      "endTime": 543.34,
-      "text": "Local schoolchildren took part in a competition to paint pictures of the local landscape, and you'll be able to see all their work displayed here.",
+      "startTime": 619.52,
+      "endTime": 628.28,
+      "text": "where we'll have a number of experts giving tips and advice on how to successfully grow your own fruit and vegetables.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-075",
       "part": 2,
-      "startTime": 543.34,
-      "endTime": 549.93,
-      "text": "The winning entries have also been made into postcards that you can buy at one of the stalls.",
+      "startTime": 628.56,
+      "endTime": 633.1,
+      "text": "You never know, maybe next year we'll be showing your produce.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-076",
       "part": 2,
-      "startTime": 549.93,
-      "endTime": 559.0,
-      "text": "At Kings Park, we've built a climbing wall, and there'll also be an inflatable bouncy castle for kids to burn off excess energy.",
+      "startTime": 682.18,
+      "endTime": 682.58,
+      "text": "Thank",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-077",
       "part": 2,
-      "startTime": 559.0,
-      "endTime": 569.22,
-      "text": "Both are going to be supervised by volunteer teachers at all times, so parents can go off and enjoy other parts of the festival.",
+      "startTime": 684.7,
+      "endTime": 685.48,
+      "text": "you, Sam.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-078",
       "part": 2,
-      "startTime": 569.22,
-      "endTime": 572.57,
-      "text": "There's a lot happening in Oakvale School.",
+      "startTime": 685.6,
+      "endTime": 688.18,
+      "text": "That all sounds really interesting.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-079",
       "part": 2,
-      "startTime": 572.57,
-      "endTime": 578.0,
-      "text": "If you're over 18, there's an exciting contest to take part in here.",
+      "startTime": 688.18,
+      "endTime": 691.72,
+      "text": "And you've got some practical information for us.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-080",
       "part": 2,
-      "startTime": 578.0,
-      "endTime": 589.75,
-      "text": "You'll have an hour to prepare your favourite food or dish, and the prizes will be presented by our special guest, the singer Maria Thompson.",
+      "startTime": 692.12,
+      "endTime": 698.7,
+      "text": "Yes, this year's festival will be bigger than ever, judging by ticket sales so far.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-081",
       "part": 2,
-      "startTime": 589.75,
-      "endTime": 597.92,
-      "text": "On Green Road, we'll have some top local groups performing and singing throughout the day until 5,",
+      "startTime": 699.02,
+      "endTime": 706.08,
+      "text": "Tickets can be purchased from our website or at the festival on the day, although those will cost a bit more.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-082",
       "part": 2,
-      "startTime": 597.92,
-      "endTime": 607.09,
-      "text": "including the Denford Choir, who've just come back from a really successful tour of Australia and New Zealand.",
+      "startTime": 707.86,
+      "endTime": 715.07,
+      "text": "The tickets give you free entry to most areas, although you do need to pay extra to get into some of the special events.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-083",
       "part": 2,
-      "startTime": 607.09,
-      "endTime": 610.0,
-      "text": "And finally, I'll mention Sun Lane.",
+      "startTime": 716.88,
+      "endTime": 721.02,
+      "text": "We're doing something different this year on the final evening of the festival.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-084",
       "part": 2,
-      "startTime": 611.0,
-      "endTime": 621.75,
-      "text": "We want you to leave the festival with more than good memories, and a full stomach, so we'd encourage everyone to go to Sun Lane,",
+      "startTime": 721.16,
+      "endTime": 727.84,
+      "text": "We usually have a big firework display, but it's proven too expensive this year.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-085",
       "part": 2,
-      "startTime": 621.75,
-      "endTime": 631.58,
-      "text": "where we'll have a number of experts giving tips and advice on how to successfully grow your own fruit and vegetables.",
+      "startTime": 727.84,
+      "endTime": 733.32,
+      "text": "So instead, we're holding a dance for everyone who wants to come.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-086",
       "part": 2,
-      "startTime": 631.58,
-      "endTime": 636.75,
-      "text": "You never know, maybe next year we'll be showing your produce.",
+      "startTime": 733.74,
+      "endTime": 740.52,
+      "text": "That's going to be in the local theatre, where we'll clear away all the chairs to give us plenty of room.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-087",
       "part": 2,
-      "startTime": 636.75,
-      "endTime": 644.0,
-      "text": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20.",
+      "startTime": 740.76,
+      "endTime": 742.94,
+      "text": "It should be great fun.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-088",
       "part": 2,
-      "startTime": 679.0,
-      "endTime": 685.2,
-      "text": "Now listen and answer questions 16 to 20. Thank you, Sam.",
+      "startTime": 743.36,
+      "endTime": 751.5,
+      "text": "We're expecting a large number of international visitors, so you'll be hearing a lot of different languages around the festival this year.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-089",
       "part": 2,
-      "startTime": 685.2,
-      "endTime": 689.0,
-      "text": "That all sounds really interesting.",
+      "startTime": 752.5,
+      "endTime": 759.2,
+      "text": "And we've organised a help desk to advise people on finding accommodation if they need it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-090",
       "part": 2,
-      "startTime": 689.0,
-      "endTime": 692.86,
-      "text": "And you've got some practical information for us.",
+      "startTime": 759.42,
+      "endTime": 766.24,
+      "text": "We'll also be offering day trips to points of interest in the region at very reasonable prices.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-091",
       "part": 2,
-      "startTime": 692.86,
-      "endTime": 699.4,
-      "text": "Yes, this year's festival will be bigger than ever, judging by ticket sales so far.",
+      "startTime": 766.84,
+      "endTime": 771.32,
+      "text": "If you do decide to drive, there are two festival car parks.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-092",
       "part": 2,
-      "startTime": 699.4,
-      "endTime": 708.0,
-      "text": "Tickets can be purchased from our website or at the festival on the day, although those will cost a bit more.",
+      "startTime": 771.72,
+      "endTime": 776.46,
+      "text": "Car Park A to the north and Car Park B in the east.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-093",
       "part": 2,
-      "startTime": 709.0,
-      "endTime": 717.17,
-      "text": "The tickets give you free entry to most areas, although you do need to pay extra to get into some of the special events.",
+      "startTime": 776.9,
+      "endTime": 783.66,
+      "text": "Car Park B is in the middle of town, so it usually fills up very quickly.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-094",
       "part": 2,
-      "startTime": 717.17,
-      "endTime": 722.55,
-      "text": "We're doing something different this year on the final evening of the festival.",
+      "startTime": 784.14,
+      "endTime": 790.62,
+      "text": "From Car Park A, there is a 15-minute walk along the river to the town centre.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-095",
       "part": 2,
-      "startTime": 722.55,
-      "endTime": 728.0,
-      "text": "We usually have a big firework display, but it's proven too expensive this year.",
+      "startTime": 790.8,
+      "endTime": 799.32,
+      "text": "It takes a little longer to get to the festival, but it's twice the size of B, and it's a nice flat walk.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-096",
       "part": 2,
-      "startTime": 728.0,
-      "endTime": 733.05,
-      "text": "So instead, we're holding a dance for everyone who wants to come.",
+      "startTime": 799.82,
+      "endTime": 802.94,
+      "text": "There's one more change I'd like to tell you about.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-097",
       "part": 2,
-      "startTime": 733.05,
-      "endTime": 741.21,
-      "text": "That's going to be in the local theatre, where we'll clear away all the chairs to give us plenty of room.",
+      "startTime": 803.24,
+      "endTime": 814.36,
+      "text": "Last year, we sent out nearly 30,000 free programmes with the tickets, and we're aware of both the cost and the environmental impact of this.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-098",
       "part": 2,
-      "startTime": 741.21,
-      "endTime": 743.0,
-      "text": "It should be great fun.",
+      "startTime": 814.94,
+      "endTime": 819.46,
+      "text": "We looked into having an app instead, but that was too expensive.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-099",
       "part": 2,
-      "startTime": 745.0,
-      "endTime": 754.4,
-      "text": "We're expecting a large number of international visitors, so you'll be hearing a lot of different languages around the festival this year.",
+      "startTime": 819.74,
+      "endTime": 826.56,
+      "text": "So, in the end, we decided to put the programme on our website and save that way.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-100",
       "part": 2,
-      "startTime": 754.4,
-      "endTime": 760.53,
-      "text": "And we've organised a help desk to advise people on finding accommodation if they need it.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-101",
-      "part": 2,
-      "startTime": 760.53,
-      "endTime": 767.0,
-      "text": "We'll also be offering day trips to points of interest in the region at very reasonable prices.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-102",
-      "part": 2,
-      "startTime": 768.0,
-      "endTime": 773.22,
-      "text": "If you do decide to drive, there are two festival car parks.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-103",
-      "part": 2,
-      "startTime": 773.22,
-      "endTime": 777.65,
-      "text": "Car Park A to the north and Car Park B in the east.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-104",
-      "part": 2,
-      "startTime": 777.65,
-      "endTime": 784.0,
-      "text": "Car Park B is in the middle of town, so it usually fills up very quickly.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-105",
-      "part": 2,
-      "startTime": 786.0,
-      "endTime": 792.0,
-      "text": "From Car Park A, there is a 15-minute walk along the river to the town centre.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-106",
-      "part": 2,
-      "startTime": 792.0,
-      "endTime": 800.08,
-      "text": "It takes a little longer to get to the festival, but it's twice the size of B, and it's a nice flat walk.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-107",
-      "part": 2,
-      "startTime": 800.08,
-      "endTime": 804.0,
-      "text": "There's one more change I'd like to tell you about.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-108",
-      "part": 2,
-      "startTime": 804.0,
-      "endTime": 815.3,
-      "text": "Last year, we sent out nearly 30,000 free programmes with the tickets, and we're aware of both the cost and the environmental impact of this.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-109",
-      "part": 2,
-      "startTime": 815.3,
-      "endTime": 820.51,
-      "text": "We looked into having an app instead, but that was too expensive.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-110",
-      "part": 2,
-      "startTime": 820.51,
-      "endTime": 827.0,
-      "text": "So, in the end, we decided to put the programme on our website and save that way.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-111",
-      "part": 2,
-      "startTime": 828.0,
-      "endTime": 865.87,
+      "startTime": 826.82,
+      "endTime": 831.74,
       "text": "You'll still be able to pick up a hard copy at the festival if you want.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
+      "id": "seg-101",
+      "part": 3,
+      "startTime": 908.54,
+      "endTime": 911.94,
+      "text": "Dr. Williams. Come in. Thanks. How can I help you?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 3,
+      "startTime": 912.32,
+      "endTime": 918.24,
+      "text": "Well, I'm interested in doing the course on action research. Sure. What would you like to know?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 3,
+      "startTime": 918.64,
+      "endTime": 926.12,
+      "text": "Well, first of all, I understand it's about ways of researching your own practise in your professional role so as to improve it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 3,
+      "startTime": 926.52,
+      "endTime": 932.38,
+      "text": "That's right, and I'm afraid I must emphasise at the outset that it's only open to working teachers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 3,
+      "startTime": 932.82,
+      "endTime": 939.02,
+      "text": "Well, I've been one for eight years, so... That's plenty, and... And can I ask, will you be teaching out?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 3,
+      "startTime": 939.56,
+      "endTime": 946.92,
+      "text": "Yes, I've done so for many years, but the course leader will be one of our new lecturers, Alan Cumner. Oh.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 3,
+      "startTime": 947.14,
+      "endTime": 952.52,
+      "text": "He's just written a very interesting book on action research, which you should get hold of.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 3,
+      "startTime": 952.86,
+      "endTime": 957.1,
+      "text": "The title is Professional Learning. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 3,
+      "startTime": 957.32,
+      "endTime": 961.22,
+      "text": "I think one of the other teachers in my school mentioned it. Okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 3,
+      "startTime": 961.44,
+      "endTime": 963.78,
+      "text": "Can I ask you what will be covered on the course?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 3,
+      "startTime": 964.34,
+      "endTime": 970.08,
+      "text": "Well, the obvious aim is to develop skills in using a variety of research techniques. Yes, of course.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
       "id": "seg-112",
-      "part": 2,
-      "startTime": 865.87,
-      "endTime": 879.55,
-      "text": "That is the end of Part 2.",
+      "part": 3,
+      "startTime": 970.2,
+      "endTime": 972.6,
+      "text": "I'll ask you about those in more detail later.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-113",
-      "part": 2,
-      "startTime": 879.55,
-      "endTime": 909.0,
-      "text": "You now have 30 seconds to check your answers to Part 2.",
+      "part": 3,
+      "startTime": 972.82,
+      "endTime": 979.06,
+      "text": "And then there's something that's crucial to action research, and that's the skill of researching in a team. Yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-114",
       "part": 3,
-      "startTime": 909.0,
-      "endTime": 909.49,
-      "text": "You will hear a mature student on a teacher training programme discussing a new course with his college lecturer.",
+      "startTime": 979.34,
+      "endTime": 981.5,
+      "text": "I can say that it is very important.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-115",
       "part": 3,
-      "startTime": 909.49,
-      "endTime": 909.78,
-      "text": "First, you have some time to look at questions 21 to 23 on page 6.",
+      "startTime": 981.7,
+      "endTime": 984.1,
+      "text": "And what about after you've done the research?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-116",
       "part": 3,
-      "startTime": 909.78,
-      "endTime": 910.0,
-      "text": "Now listen carefully and answer questions 21 to 23.",
+      "startTime": 984.2,
+      "endTime": 986.78,
+      "text": "Do you do something on dissemination of findings?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-117",
       "part": 3,
-      "startTime": 910.0,
-      "endTime": 912.0,
-      "text": "Dr. Williams. Come in. Thanks.",
+      "startTime": 987.5,
+      "endTime": 991.74,
+      "text": "Well, the last major objective is similar to that, but not quite the same.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-118",
       "part": 3,
-      "startTime": 912.0,
-      "endTime": 917.33,
-      "text": "How can I help you? Well, I'm interested in doing the course on action research. Sure.",
+      "startTime": 992.2,
+      "endTime": 996.42,
+      "text": "It's on presenting results as part of the wider collaborative culture.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-119",
       "part": 3,
-      "startTime": 917.33,
-      "endTime": 919.07,
-      "text": "What would you like to know?",
+      "startTime": 1026.66,
+      "endTime": 1027.3,
+      "text": "Great.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-120",
       "part": 3,
-      "startTime": 919.07,
-      "endTime": 927.0,
-      "text": "Well, first of all, I understand it's about ways of researching your own practise in your professional role so as to improve it.",
+      "startTime": 1027.6,
+      "endTime": 1029.24,
+      "text": "Well, that's very helpful.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-121",
       "part": 3,
-      "startTime": 928.0,
-      "endTime": 934.47,
-      "text": "That's right, and I'm afraid I must emphasise at the outset that it's only open to working teachers.",
+      "startTime": 1029.44,
+      "endTime": 1031.78,
+      "text": "I can ask you about the different components.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-122",
       "part": 3,
-      "startTime": 934.47,
-      "endTime": 938.61,
-      "text": "Well, I've been one for eight years, so... That's plenty, and...",
+      "startTime": 1032.02,
+      "endTime": 1042.14,
+      "text": "Well, the course is organised around the data-gathering techniques, and we divide them into two main types, observational and non-observational techniques.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-123",
       "part": 3,
-      "startTime": 938.61,
-      "endTime": 941.2,
-      "text": "And can I ask, will you be teaching out?",
+      "startTime": 1042.26,
+      "endTime": 1048.38,
+      "text": "And between each session, we ask you to try out the technique for yourself in a variety of settings.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-124",
       "part": 3,
-      "startTime": 941.2,
-      "endTime": 947.8,
-      "text": "Yes, I've done so for many years, but the course leader will be one of our new lecturers, Alan Cumner.",
+      "startTime": 1048.48,
+      "endTime": 1053.14,
+      "text": "The initial sessions are on using observation checklists. Oh, yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-125",
       "part": 3,
-      "startTime": 947.8,
-      "endTime": 948.0,
-      "text": "Oh.",
+      "startTime": 1053.44,
+      "endTime": 1059.34,
+      "text": "And we ask you to try some out in a school so you can look at an element of a lesson, such as pupil behaviour,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-126",
       "part": 3,
-      "startTime": 949.0,
-      "endTime": 954.74,
-      "text": "He's just written a very interesting book on action research, which you should get hold of.",
+      "startTime": 1059.44,
+      "endTime": 1064.96,
+      "text": "so you can immediately apply what you've learnt to a real situation in the classroom. Right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-127",
       "part": 3,
-      "startTime": 954.74,
-      "endTime": 957.39,
-      "text": "The title is Professional Learning. Right.",
+      "startTime": 1065.22,
+      "endTime": 1068.56,
+      "text": "Somebody told me we have to keep a diary. Yes, that's right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-128",
       "part": 3,
-      "startTime": 957.39,
-      "endTime": 961.55,
-      "text": "I think one of the other teachers in my school mentioned it. Okay.",
+      "startTime": 1068.72,
+      "endTime": 1071.1,
+      "text": "We ask you to keep one as a research tool.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-129",
       "part": 3,
-      "startTime": 961.55,
-      "endTime": 964.64,
-      "text": "Can I ask you what will be covered on the course?",
+      "startTime": 1071.28,
+      "endTime": 1073.06,
+      "text": "And what's the point of that exactly?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-130",
       "part": 3,
-      "startTime": 964.64,
-      "endTime": 970.0,
-      "text": "Well, the obvious aim is to develop skills in using a variety of research techniques.",
+      "startTime": 1073.26,
+      "endTime": 1076.3,
+      "text": "Well, it really enhances your capacity for reflection.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-131",
       "part": 3,
-      "startTime": 971.0,
-      "endTime": 973.92,
-      "text": "Yes, of course. I'll ask you about those in more detail later.",
+      "startTime": 1076.94,
+      "endTime": 1078.56,
+      "text": "Oh, that sounds interesting.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-132",
       "part": 3,
-      "startTime": 973.92,
-      "endTime": 979.0,
-      "text": "And then there's something that's crucial to action research, and that's the skill of researching in a team.",
+      "startTime": 1078.8,
+      "endTime": 1084.0,
+      "text": "And then we've just added another observational technique to the course, which is video recording.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-133",
       "part": 3,
-      "startTime": 980.0,
-      "endTime": 985.42,
-      "text": "Yes. I can say that it is very important. And what about after you've done the research?",
+      "startTime": 1084.26,
+      "endTime": 1086.16,
+      "text": "I have tried that already with colleagues.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-134",
       "part": 3,
-      "startTime": 985.42,
-      "endTime": 988.44,
-      "text": "Do you do something on dissemination of findings?",
+      "startTime": 1086.38,
+      "endTime": 1088.54,
+      "text": "I have to say, with only limited success.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-135",
       "part": 3,
-      "startTime": 988.44,
-      "endTime": 993.0,
-      "text": "Well, the last major objective is similar to that, but not quite the same.",
+      "startTime": 1088.94,
+      "endTime": 1093.54,
+      "text": "Yes, that's been our experience too, especially at the beginning.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-136",
       "part": 3,
-      "startTime": 993.0,
-      "endTime": 1000.83,
-      "text": "It's on presenting results as part of the wider collaborative culture.",
+      "startTime": 1093.68,
+      "endTime": 1101.26,
+      "text": "So we decided to get you to try this technique out with your fellow students in classroom simulation, which I think you'll agree.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-137",
       "part": 3,
-      "startTime": 1000.83,
-      "endTime": 1012.35,
-      "text": "Before you hear the rest of the discussion, you have some time to look at questions 24 to 30 on page 7.",
+      "startTime": 1101.7,
+      "endTime": 1103.48,
+      "text": "That has fewer problems, yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-138",
       "part": 3,
-      "startTime": 1012.35,
-      "endTime": 1020.74,
-      "text": "Now listen and answer questions 24 to 30. Great. Well, that's very helpful.",
+      "startTime": 1103.8,
+      "endTime": 1108.5,
+      "text": "And then we have sessions examining what we call non-observational techniques.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-139",
       "part": 3,
-      "startTime": 1020.74,
-      "endTime": 1025.77,
-      "text": "I can ask you about the different components.",
+      "startTime": 1108.7,
+      "endTime": 1116.48,
+      "text": "And rather controversially, we start with ways of scrutinising test results. Oh, right. Yeah, I'm familiar with that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-140",
       "part": 3,
-      "startTime": 1025.77,
-      "endTime": 1033.26,
-      "text": "Well, the course is organised around the data-gathering techniques,",
+      "startTime": 1116.86,
+      "endTime": 1120.04,
+      "text": "Yes, but we think these can yield some very valuable insights.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-141",
       "part": 3,
-      "startTime": 1033.26,
-      "endTime": 1043.0,
-      "text": "and we divide them into two main types, observational and non-observational techniques.",
+      "startTime": 1120.18,
+      "endTime": 1126.02,
+      "text": "We ask you to bring along statistics relating to your own students for this. Oh, that should be easy.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-142",
       "part": 3,
-      "startTime": 1044.0,
-      "endTime": 1050.02,
-      "text": "And between each session, we ask you to try out the technique for yourself in a variety of settings.",
+      "startTime": 1126.14,
+      "endTime": 1130.1,
+      "text": "I have to say I quite enjoy that kind of analysis. Yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-143",
       "part": 3,
-      "startTime": 1050.02,
-      "endTime": 1054.0,
-      "text": "The initial sessions are on using observation checklists. Oh, yes.",
+      "startTime": 1130.7,
+      "endTime": 1133.68,
+      "text": "And then we look at using questionnaires. Oh, yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-144",
       "part": 3,
-      "startTime": 1055.0,
-      "endTime": 1059.55,
-      "text": "And we ask you to try some out in a school so you can look at an element of a lesson,",
+      "startTime": 1133.92,
+      "endTime": 1136.42,
+      "text": "I've done one or two projects involving those.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-145",
       "part": 3,
-      "startTime": 1059.55,
-      "endTime": 1065.43,
-      "text": "such as pupil behaviour, so you can immediately apply what you've learnt to a real situation in the classroom.",
+      "startTime": 1136.6,
+      "endTime": 1142.8,
+      "text": "I used one local teacher's resource group, but I've never felt that I've used them as effectively as I should have done so.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-146",
       "part": 3,
-      "startTime": 1065.43,
-      "endTime": 1068.0,
-      "text": "Right. Somebody told me we have to keep a diary.",
+      "startTime": 1143.08,
+      "endTime": 1145.86,
+      "text": "Well, that is a common comment from our participants,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-147",
       "part": 3,
-      "startTime": 1069.0,
-      "endTime": 1072.19,
-      "text": "Yes, that's right. We ask you to keep one as a research tool.",
+      "startTime": 1146.12,
+      "endTime": 1153.28,
+      "text": "and we thought we'd open things up a bit this year with a different approach and use the Internet in order to identify respondents.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-148",
       "part": 3,
-      "startTime": 1072.19,
-      "endTime": 1077.0,
-      "text": "And what's the point of that exactly? Well, it really enhances your capacity for reflection.",
+      "startTime": 1153.96,
+      "endTime": 1159.94,
+      "text": "Obviously, we'd explain more about how that will work closer to the time. Great. Look forward to that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-149",
       "part": 3,
-      "startTime": 1078.0,
-      "endTime": 1079.66,
-      "text": "Oh, that sounds interesting.",
+      "startTime": 1160.22,
+      "endTime": 1162.16,
+      "text": "And will there be anything on interviews?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-150",
       "part": 3,
-      "startTime": 1079.66,
-      "endTime": 1085.48,
-      "text": "And then we've just added another observational technique to the course, which is video recording.",
+      "startTime": 1162.32,
+      "endTime": 1170.5,
+      "text": "That's really the last major section, and we ask you to choose your own respondents for that as part of a final project. Great.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-151",
       "part": 3,
-      "startTime": 1085.48,
-      "endTime": 1090.47,
-      "text": "I have tried that already with colleagues. I have to say, with only limited success.",
+      "startTime": 1170.72,
+      "endTime": 1174.24,
+      "text": "Well, that's been really helpful, Dr Williams. Thank you.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-152",
-      "part": 3,
-      "startTime": 1090.47,
-      "endTime": 1094.33,
-      "text": "Yes, that's been our experience too, especially at the beginning.",
+      "part": 4,
+      "startTime": 1250.44,
+      "endTime": 1255.24,
+      "text": "In today's lecture, I'm going to talk about digital technology,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-153",
-      "part": 3,
-      "startTime": 1094.33,
-      "endTime": 1102.0,
-      "text": "So we decided to get you to try this technique out with your fellow students in classroom simulation, which I think you'll agree.",
+      "part": 4,
+      "startTime": 1255.62,
+      "endTime": 1264.64,
+      "text": "especially the changes occurring due to the rapid spread of digital technology in the last decade of the 21st century.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-154",
-      "part": 3,
-      "startTime": 1103.0,
-      "endTime": 1104.74,
-      "text": "That has fewer problems, yes.",
+      "part": 4,
+      "startTime": 1264.88,
+      "endTime": 1268.06,
+      "text": "First, what is digital technology?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-155",
-      "part": 3,
-      "startTime": 1104.74,
-      "endTime": 1109.43,
-      "text": "And then we have sessions examining what we call non-observational techniques.",
+      "part": 4,
+      "startTime": 1268.14,
+      "endTime": 1279.38,
+      "text": "Well, digital technology includes any computer-related devices, like mobile phones, the Internet, email, instant messaging, and so on.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-156",
-      "part": 3,
-      "startTime": 1109.43,
-      "endTime": 1114.0,
-      "text": "And rather controversially, we start with ways of scrutinising test results.",
+      "part": 4,
+      "startTime": 1279.62,
+      "endTime": 1283.66,
+      "text": "This lecture is based on the opinions of Mark Prensky",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-157",
-      "part": 3,
-      "startTime": 1115.0,
-      "endTime": 1117.35,
-      "text": "Oh, right. Yeah, I'm familiar with that.",
+      "part": 4,
+      "startTime": 1283.66,
+      "endTime": 1292.06,
+      "text": "and what he believes are the main effects that high exposure to digital technology has had on young people today.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-158",
-      "part": 3,
-      "startTime": 1117.35,
-      "endTime": 1121.0,
-      "text": "Yes, but we think these can yield some very valuable insights.",
+      "part": 4,
+      "startTime": 1292.62,
+      "endTime": 1298.66,
+      "text": "Prensky believes that because today's young people have been born into a digital world",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-159",
-      "part": 3,
-      "startTime": 1122.0,
-      "endTime": 1126.03,
-      "text": "We ask you to bring along statistics relating to your own students for this.",
+      "part": 4,
+      "startTime": 1298.66,
+      "endTime": 1305.32,
+      "text": "and spent a long time simply playing with technology, they have changed in fundamental ways.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-160",
-      "part": 3,
-      "startTime": 1126.03,
-      "endTime": 1130.0,
-      "text": "Oh, that should be easy. I have to say I quite enjoy that kind of analysis.",
+      "part": 4,
+      "startTime": 1305.68,
+      "endTime": 1314.32,
+      "text": "He thinks they are evolving differently and, as a result, processing information differently from the last generations.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-161",
-      "part": 3,
-      "startTime": 1131.0,
-      "endTime": 1134.09,
-      "text": "Yes. And then we look at using questionnaires. Oh, yes.",
+      "part": 4,
+      "startTime": 1314.54,
+      "endTime": 1321.24,
+      "text": "These young people's brains may have physically changed, although no clear evidence exists.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-162",
-      "part": 3,
-      "startTime": 1134.09,
-      "endTime": 1136.68,
-      "text": "I've done one or two projects involving those.",
+      "part": 4,
+      "startTime": 1321.36,
+      "endTime": 1328.46,
+      "text": "Prensky believes that we humans can be divided into digital natives and digital immigrants.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-163",
-      "part": 3,
-      "startTime": 1136.68,
-      "endTime": 1143.6,
-      "text": "I used one local teacher's resource group, but I've never felt that I've used them as effectively as I should have done so.",
+      "part": 4,
+      "startTime": 1328.68,
+      "endTime": 1337.04,
+      "text": "Of course, today's young people belong to the group of digital natives because they were born into this new digital age",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-164",
-      "part": 3,
-      "startTime": 1143.6,
-      "endTime": 1154.0,
-      "text": "Well, that is a common comment from our participants, and we thought we'd open things up a bit this year with a different approach and use the Internet in order to identify respondents.",
+      "part": 4,
+      "startTime": 1337.04,
+      "endTime": 1343.22,
+      "text": "and grew up just as native speakers of the digital language of computer technology.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-165",
-      "part": 3,
-      "startTime": 1155.0,
-      "endTime": 1161.55,
-      "text": "Obviously, we'd explain more about how that will work closer to the time. Great.",
+      "part": 4,
+      "startTime": 1343.44,
+      "endTime": 1350.04,
+      "text": "However, digital immigrants are the people born in the generations before the digital age.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-166",
-      "part": 3,
-      "startTime": 1161.55,
-      "endTime": 1166.71,
-      "text": "Look forward to that. And will there be anything on interviews?",
+      "part": 4,
+      "startTime": 1350.22,
+      "endTime": 1355.26,
+      "text": "When people learn a second language, they often retain their foreign accent.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-167",
-      "part": 3,
-      "startTime": 1166.71,
-      "endTime": 1176.54,
-      "text": "That's really the last major section, and we ask you to choose your own respondents for that as part of a final project.",
+      "part": 4,
+      "startTime": 1355.4,
+      "endTime": 1358.08,
+      "text": "It is the same with digital immigrants.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-168",
-      "part": 3,
-      "startTime": 1176.54,
-      "endTime": 1183.99,
-      "text": "Great. Well, that's been really helpful, Dr Williams. Thank you. That is the end of Part 3.",
+      "part": 4,
+      "startTime": 1358.28,
+      "endTime": 1364.12,
+      "text": "They aren't quite as effective at speaking the digital language as the natives are.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-169",
-      "part": 3,
-      "startTime": 1183.99,
-      "endTime": 1188.0,
-      "text": "You now have half a minute to check your answers.",
+      "part": 4,
+      "startTime": 1364.58,
+      "endTime": 1367.38,
+      "text": "Prensky illustrates this in detail.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-170",
       "part": 4,
-      "startTime": 1188.0,
-      "endTime": 1189.0,
-      "text": "You will hear a lecture about the effects of the digital world on young people.",
+      "startTime": 1367.54,
+      "endTime": 1372.86,
+      "text": "For example, instead of using the internet as a primary source of information,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-171",
       "part": 4,
-      "startTime": 1189.0,
-      "endTime": 1203.78,
-      "text": "First, you have some time to look at questions 31 to 40.",
+      "startTime": 1373.2,
+      "endTime": 1380.9,
+      "text": "digital immigrants prefer finding phone numbers with a phone book or looking up information in an encyclopaedia.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-172",
       "part": 4,
-      "startTime": 1203.78,
-      "endTime": 1217.24,
-      "text": "Now listen carefully and answer questions 31 to 40.",
+      "startTime": 1381.04,
+      "endTime": 1384.76,
+      "text": "Prensky refers to this as the digital accent.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-173",
       "part": 4,
-      "startTime": 1217.24,
-      "endTime": 1233.87,
-      "text": "In today's lecture, I'm going to talk about digital technology,",
+      "startTime": 1385.2,
+      "endTime": 1394.82,
+      "text": "Another example of the digital accent is scanning a manual for a computer programme, but the programme itself will teach you how to use it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-174",
       "part": 4,
-      "startTime": 1233.87,
-      "endTime": 1265.0,
-      "text": "especially the changes occurring due to the rapid spread of digital technology in the last decade of the 21st century.",
+      "startTime": 1395.18,
+      "endTime": 1402.5,
+      "text": "People with a digital accent always rely on their original, non-digital means of sourcing information.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-175",
       "part": 4,
-      "startTime": 1266.0,
-      "endTime": 1268.65,
-      "text": "First, what is digital technology?",
+      "startTime": 1402.68,
+      "endTime": 1409.22,
+      "text": "They prefer doing things as they've always done, rather than typing something into a computer.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-176",
       "part": 4,
-      "startTime": 1268.65,
-      "endTime": 1279.08,
-      "text": "Well, digital technology includes any computer-related devices, like mobile phones, the Internet, email, instant messaging, and so on.",
+      "startTime": 1413.86,
+      "endTime": 1420.42,
+      "text": "Due to this, Prensky predicts it will bring many changes, especially in education.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-177",
       "part": 4,
-      "startTime": 1279.08,
-      "endTime": 1292.08,
-      "text": "This lecture is based on the opinions of Mark Prensky and what he believes are the main effects that high exposure to digital technology has had on young people today.",
+      "startTime": 1420.72,
+      "endTime": 1429.8,
+      "text": "Other educators and theorists, such as Thompson Allen, Samuel James, and Peter Vander, also give their opinions.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-178",
       "part": 4,
-      "startTime": 1292.08,
-      "endTime": 1306.0,
-      "text": "Prensky believes that because today's young people have been born into a digital world and spent a long time simply playing with technology, they have changed in fundamental ways.",
+      "startTime": 1430.2,
+      "endTime": 1434.64,
+      "text": "Samuel James is a famous educator from the University of Sydney.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-179",
       "part": 4,
-      "startTime": 1307.0,
-      "endTime": 1315.7,
-      "text": "He thinks they are evolving differently and, as a result, processing information differently from the last generations.",
+      "startTime": 1434.9,
+      "endTime": 1441.64,
+      "text": "He agrees with Prensky's idea that today's educators are no longer thriving in how they teach.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-180",
       "part": 4,
-      "startTime": 1315.7,
-      "endTime": 1322.35,
-      "text": "These young people's brains may have physically changed, although no clear evidence exists.",
+      "startTime": 1442.08,
+      "endTime": 1448.62,
+      "text": "However, some more traditional theorists, like Peter Vander and Thompson Allen, don't agree.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-181",
       "part": 4,
-      "startTime": 1322.35,
-      "endTime": 1329.0,
-      "text": "Prensky believes that we humans can be divided into digital natives and digital immigrants.",
+      "startTime": 1448.76,
+      "endTime": 1451.69,
+      "text": "They criticise many of Prensky's assertions.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-182",
       "part": 4,
-      "startTime": 1330.0,
-      "endTime": 1344.3,
-      "text": "Of course, today's young people belong to the group of digital natives because they were born into this new digital age and grew up just as native speakers of the digital language of computer technology.",
+      "startTime": 1453.18,
+      "endTime": 1462.26,
+      "text": "Vander argues that a typical classroom is much more different from what Prensky believes, with students from various backgrounds.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-183",
       "part": 4,
-      "startTime": 1344.3,
-      "endTime": 1350.64,
-      "text": "However, digital immigrants are the people born in the generations before the digital age.",
+      "startTime": 1462.44,
+      "endTime": 1468.28,
+      "text": "He believes that many of these students are not necessarily proficient with technology.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-184",
       "part": 4,
-      "startTime": 1350.64,
-      "endTime": 1356.0,
-      "text": "When people learn a second language, they often retain their foreign accent.",
+      "startTime": 1469.44,
+      "endTime": 1478.64,
+      "text": "Then, Allen adds his opinion that even though most students in modern times can access computers at home or school easily,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-185",
       "part": 4,
-      "startTime": 1357.0,
-      "endTime": 1359.73,
-      "text": "It is the same with digital immigrants.",
+      "startTime": 1478.94,
+      "endTime": 1482.6,
+      "text": "some don't find the digital medium appealing.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-186",
       "part": 4,
-      "startTime": 1359.73,
-      "endTime": 1365.55,
-      "text": "They aren't quite as effective at speaking the digital language as the natives are.",
+      "startTime": 1483.54,
+      "endTime": 1485.68,
+      "text": "However, James disagrees.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-187",
       "part": 4,
-      "startTime": 1365.55,
-      "endTime": 1368.0,
-      "text": "Prensky illustrates this in detail.",
+      "startTime": 1485.92,
+      "endTime": 1492.74,
+      "text": "He argues that all today's students share the same basic interesting knowledge of digital technology.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-188",
       "part": 4,
-      "startTime": 1368.0,
-      "endTime": 1373.84,
-      "text": "For example, instead of using the internet as a primary source of information,",
+      "startTime": 1493.48,
+      "endTime": 1500.98,
+      "text": "However, even so, James believes that our younger students can communicate with their digital immigrant teachers",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-189",
       "part": 4,
-      "startTime": 1373.84,
-      "endTime": 1382.23,
-      "text": "digital immigrants prefer finding phone numbers with a phone book or looking up information in an encyclopaedia.",
+      "startTime": 1500.98,
+      "endTime": 1505.38,
+      "text": "and still learn with the teaching methods that were quite effective in the past.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-190",
       "part": 4,
-      "startTime": 1382.23,
-      "endTime": 1385.6,
-      "text": "Prensky refers to this as the digital accent.",
+      "startTime": 1507.08,
+      "endTime": 1516.68,
+      "text": "Allen believes that both digital natives and digital immigrants have to process a large amount of information in today's digital world.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-191",
       "part": 4,
-      "startTime": 1385.6,
-      "endTime": 1396.0,
-      "text": "Another example of the digital accent is scanning a manual for a computer programme, but the programme itself will teach you how to use it.",
+      "startTime": 1516.94,
+      "endTime": 1527.24,
+      "text": "He thinks that although most young students today are good at playing computer games or surfing the internet, they use computers in important ways.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-192",
       "part": 4,
-      "startTime": 1396.0,
-      "endTime": 1405.17,
-      "text": "People with a digital accent always rely on their original, non-digital means of sourcing information.",
+      "startTime": 1527.5,
+      "endTime": 1537.9,
+      "text": "They are not used to using computers at advanced levels, for example, to carry out complex information searches, which are essential for university study today.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-193",
       "part": 4,
-      "startTime": 1405.17,
-      "endTime": 1413.62,
-      "text": "They prefer doing things as they've always done, rather than typing something into a computer.",
+      "startTime": 1539.56,
+      "endTime": 1546.92,
+      "text": "Unlike Allen's research, James believes that computer games can play an important role in the classroom.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-194",
       "part": 4,
-      "startTime": 1413.62,
-      "endTime": 1421.0,
-      "text": "Due to this, Prensky predicts it will bring many changes, especially in education.",
+      "startTime": 1547.04,
+      "endTime": 1555.22,
+      "text": "For example, teachers can combine interesting computer games with the lessons to attract students' attention.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-195",
       "part": 4,
-      "startTime": 1422.0,
-      "endTime": 1430.71,
-      "text": "Other educators and theorists, such as Thompson Allen, Samuel James, and Peter Vander, also give their opinions.",
+      "startTime": 1556.0,
+      "endTime": 1559.06,
+      "text": "However, Vander has different opinions.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-196",
       "part": 4,
-      "startTime": 1430.71,
-      "endTime": 1435.69,
-      "text": "Samuel James is a famous educator from the University of Sydney.",
+      "startTime": 1559.2,
+      "endTime": 1569.88,
+      "text": "He argues that teachers are always the leading part of the classroom and no computer programme comes close to doing what a human teacher does every day.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-197",
       "part": 4,
-      "startTime": 1435.69,
-      "endTime": 1443.0,
-      "text": "He agrees with Prensky's idea that today's educators are no longer thriving in how they teach.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-198",
-      "part": 4,
-      "startTime": 1443.0,
-      "endTime": 1449.94,
-      "text": "However, some more traditional theorists, like Peter Vander and Thompson Allen, don't agree.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-199",
-      "part": 4,
-      "startTime": 1449.94,
-      "endTime": 1453.26,
-      "text": "They criticise many of Prensky's assertions.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-200",
-      "part": 4,
-      "startTime": 1453.26,
-      "endTime": 1463.0,
-      "text": "Vander argues that a typical classroom is much more different from what Prensky believes, with students from various backgrounds.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-201",
-      "part": 4,
-      "startTime": 1464.0,
-      "endTime": 1471.15,
-      "text": "He believes that many of these students are not necessarily proficient with technology.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-202",
-      "part": 4,
-      "startTime": 1471.15,
-      "endTime": 1481.17,
-      "text": "Then, Allen adds his opinion that even though most students in modern times can access computers at home or school easily,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-203",
-      "part": 4,
-      "startTime": 1481.17,
-      "endTime": 1487.0,
-      "text": "some don't find the digital medium appealing. However, James disagrees.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-204",
-      "part": 4,
-      "startTime": 1487.0,
-      "endTime": 1494.3,
-      "text": "He argues that all today's students share the same basic interesting knowledge of digital technology.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-205",
-      "part": 4,
-      "startTime": 1494.3,
-      "endTime": 1508.25,
-      "text": "However, even so, James believes that our younger students can communicate with their digital immigrant teachers and still learn with the teaching methods that were quite effective in the past.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-206",
-      "part": 4,
-      "startTime": 1508.25,
-      "endTime": 1518.0,
-      "text": "Allen believes that both digital natives and digital immigrants have to process a large amount of information in today's digital world.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-207",
-      "part": 4,
-      "startTime": 1518.0,
-      "endTime": 1528.76,
-      "text": "He thinks that although most young students today are good at playing computer games or surfing the internet, they use computers in important ways.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-208",
-      "part": 4,
-      "startTime": 1528.76,
-      "endTime": 1533.81,
-      "text": "They are not used to using computers at advanced levels, for example,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-209",
-      "part": 4,
-      "startTime": 1533.81,
-      "endTime": 1540.4,
-      "text": "to carry out complex information searches, which are essential for university study today.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-210",
-      "part": 4,
-      "startTime": 1540.4,
-      "endTime": 1548.0,
-      "text": "Unlike Allen's research, James believes that computer games can play an important role in the classroom.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-211",
-      "part": 4,
-      "startTime": 1549.0,
-      "endTime": 1556.99,
-      "text": "For example, teachers can combine interesting computer games with the lessons to attract students' attention.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-212",
-      "part": 4,
-      "startTime": 1556.99,
-      "endTime": 1559.85,
-      "text": "However, Vander has different opinions.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-213",
-      "part": 4,
-      "startTime": 1559.85,
-      "endTime": 1571.0,
-      "text": "He argues that teachers are always the leading part of the classroom and no computer programme comes close to doing what a human teacher does every day.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-214",
-      "part": 4,
-      "startTime": 1572.0,
-      "endTime": 1581.2,
+      "startTime": 1570.14,
+      "endTime": 1577.42,
       "text": "As a result, we should think of better ways to assist teachers rather than focussing on developing games.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-215",
-      "part": 4,
-      "startTime": 1581.2,
-      "endTime": 1589.0,
-      "text": "That is the end of part four. You now have one minute to check your answers to part four.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-216",
-      "part": 4,
-      "startTime": 1648.0,
-      "endTime": 1597.0,
-      "text": "That is the end of the listening test.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-217",
-      "part": 4,
-      "startTime": 1651.45,
-      "endTime": 1597.0,
-      "text": "In the IELTS test, you will now have ten minutes to transfer your answers to the answer sheet.",
       "timestampSource": "exact",
       "qTags": []
     }
@@ -2743,62 +2555,42 @@
     {
       "id": "long-001",
       "part": 1,
-      "startTime": 1.0,
-      "endTime": 20.0,
-      "text": "IELTS Listening, Version 50032. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "startTime": 96.52,
+      "endTime": 115.38,
+      "text": "Hello, Stanley House Courses. Oh, hello. I'm ringing to book a place on one of your weekend courses. Very good. Which course are you interested in? Well, a guitar one. I think it was a workshop, actually. That's right. And when did you want to come?",
       "segmentIds": [
         "seg-001",
         "seg-002",
-        "seg-003"
+        "seg-003",
+        "seg-004",
+        "seg-005"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-002",
       "part": 1,
-      "startTime": 21.0,
-      "endTime": 43.63,
-      "text": "All the recordings will be played once only. The test is in four parts. Write all your answers in the listening question booklet. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet.",
+      "startTime": 116.02,
+      "endTime": 142.28,
+      "text": "Well, I was thinking of the weekend of July the 16th, if there's room then. Let me just check. Oh, the 16th is a Wednesday. Did you mean the 18th? Oh, sorry. Yes, I was looking at the wrong month. No problem. Yes, you're in luck. There are three places left there, so I'll put you down for one. So the code for that is Q1632.",
       "segmentIds": [
-        "seg-004",
-        "seg-005",
-        "seg-006"
+        "seg-006",
+        "seg-007",
+        "seg-008",
+        "seg-009",
+        "seg-010",
+        "seg-011"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-003",
       "part": 1,
-      "startTime": 43.63,
-      "endTime": 81.97,
-      "text": "Now turn to part one on page two of your question booklet. Part one. You will hear a man phoning to book a place on a weekend course. First, you have some time to look at questions one to six.",
+      "startTime": 145.46,
+      "endTime": 159.26,
+      "text": "That's just for our reference. So now for a few details. Can I just check if you've done any of our weekend courses before? Yes, in fact, I have. I did one last September. It was on photographs.",
       "segmentIds": [
-        "seg-007",
-        "seg-008",
-        "seg-009"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-004",
-      "part": 1,
-      "startTime": 81.97,
-      "endTime": 105.0,
-      "text": "Listen carefully and answer questions one to six. Hello, Stanley House Courses. Oh, hello. I'm ringing to book a place on one of your weekend courses.",
-      "segmentIds": [
-        "seg-010",
-        "seg-011",
-        "seg-012"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-005",
-      "part": 1,
-      "startTime": 106.0,
-      "endTime": 125.0,
-      "text": "Very good. Which course are you interested in? Well, a guitar one. I think it was a workshop, actually. That's right. And when did you want to come? Well, I was thinking of the weekend of July the 16th, if there's room then. Let me just check.",
-      "segmentIds": [
+        "seg-012",
         "seg-013",
         "seg-014",
         "seg-015",
@@ -2807,56 +2599,56 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-006",
+      "id": "long-004",
       "part": 1,
-      "startTime": 126.0,
-      "endTime": 148.0,
-      "text": "Oh, the 16th is a Wednesday. Did you mean the 18th? Oh, sorry. Yes, I was looking at the wrong month. No problem. Yes, you're in luck. There are three places left there, so I'll put you down for one. So the code for that is Q1632. OK. That's just for our reference.",
+      "startTime": 159.36,
+      "endTime": 173.66,
+      "text": "We learnt about editing them. I really enjoyed it. Yes, that's always a popular course. So your details will be on the computer already. Let me see. I can just have your name, please. It's Nick Poskitt.",
       "segmentIds": [
         "seg-017",
         "seg-018",
         "seg-019",
-        "seg-020",
-        "seg-021"
+        "seg-020"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 178.64,
+      "endTime": 196.47,
+      "text": "Oh, that's an unusual name, isn't it? Right, here we are. So is your address still 27 Hawthorne Road? Oh, it's Hawthorne Way, actually. OK, I'll correct that now. And it's Bristol BS42QG?",
+      "segmentIds": [
+        "seg-021",
+        "seg-022",
+        "seg-023",
+        "seg-024",
+        "seg-025"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 199.22,
+      "endTime": 208.9,
+      "text": "That's right. Lovely. And the next thing I need from you is a contact phone number. OK, that's 07707 438 297.",
+      "segmentIds": [
+        "seg-026",
+        "seg-027",
+        "seg-028"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-007",
       "part": 1,
-      "startTime": 149.0,
-      "endTime": 170.0,
-      "text": "So now for a few details. Can I just check if you've done any of our weekend courses before? Yes, in fact, I have. I did one last September. It was on photographs. We learnt about editing them. I really enjoyed it. Yes, that's always a popular course. So your details will be on the computer already. Let me see.",
+      "startTime": 215.88,
+      "endTime": 237.7,
+      "text": "Thanks. That's just in case we need to get hold of you in an emergency. Now, if you've stayed with us before, you'll know that our guests all stay in shared accommodation. And we've had quite a lot of requests lately for people to be put in with someone of a similar age. So can I ask how old you are? Sure, I'm 26.",
       "segmentIds": [
-        "seg-022",
-        "seg-023",
-        "seg-024",
-        "seg-025",
-        "seg-026"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-008",
-      "part": 1,
-      "startTime": 171.0,
-      "endTime": 193.5,
-      "text": "I can just have your name, please. It's Nick Poskitt. That's P-O-S-K-I-T-T. Oh, that's an unusual name, isn't it? Right, here we are. So is your address still 27 Hawthorne Road? Oh, it's Hawthorne Way, actually.",
-      "segmentIds": [
-        "seg-027",
-        "seg-028",
         "seg-029",
-        "seg-030"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-009",
-      "part": 1,
-      "startTime": 193.5,
-      "endTime": 211.81,
-      "text": "OK, I'll correct that now. And it's Bristol BS42QG? That's right. Lovely. And the next thing I need from you is a contact phone number. OK, that's 07707 438 297. Thanks.",
-      "segmentIds": [
+        "seg-030",
         "seg-031",
         "seg-032",
         "seg-033"
@@ -2864,260 +2656,230 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-010",
+      "id": "long-008",
       "part": 1,
-      "startTime": 211.81,
-      "endTime": 235.14,
-      "text": "That's just in case we need to get hold of you in an emergency. Now, if you've stayed with us before, you'll know that our guests all stay in shared accommodation. And we've had quite a lot of requests lately for people to be put in with someone of a similar age.",
+      "startTime": 238.44,
+      "endTime": 247.88,
+      "text": "And can I ask your occupation? Engineer. I wish I could say musician, but maybe one day. Let's hope so.",
       "segmentIds": [
         "seg-034",
-        "seg-035",
-        "seg-036"
+        "seg-035"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 283.56,
+      "endTime": 297.92,
+      "text": "OK, so now about meals. Do you have any special dietary requirements? Well, I don't like any sort of fish. I'm fine with everything else. That's fine. I'll make a note of that.",
+      "segmentIds": [
+        "seg-036",
+        "seg-037",
+        "seg-038",
+        "seg-039",
+        "seg-040"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 298.72,
+      "endTime": 323.2,
+      "text": "OK, and if I could ask you just one more question about the course, Nick? Sure. On the Saturday afternoon, you can choose to have an individual one-to-one lesson on one particular aspect of guitar playing. So you can choose jazz guitar? Hmm, probably not. Yes, maybe. Or rock?",
+      "segmentIds": [
+        "seg-041",
+        "seg-042",
+        "seg-043"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-011",
       "part": 1,
-      "startTime": 235.14,
-      "endTime": 248.0,
-      "text": "So can I ask how old you are? Sure, I'm 26. And can I ask your occupation? Engineer. I wish I could say musician, but maybe one day. Let's hope so.",
+      "startTime": 323.42,
+      "endTime": 344.2,
+      "text": "That sounds good, but no, I think I'll go for the second one. OK, fine. I didn't know we had individual classes. It didn't mention that in the information I read about the course. Where did you actually find out about us? Well, this time I just looked on your website, but I originally found out about you from a magazine.",
       "segmentIds": [
-        "seg-037",
-        "seg-038",
-        "seg-039"
+        "seg-044",
+        "seg-045",
+        "seg-046",
+        "seg-047",
+        "seg-048"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-012",
       "part": 1,
-      "startTime": 252.0,
-      "endTime": 276.64,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions 7 to 10. Now listen and answer questions 7 to 10. OK, so now about meals. Do you have any special dietary requirements?",
+      "startTime": 344.84,
+      "endTime": 366.92,
+      "text": "Right, yes, we'll have to update the website, but our prices are up to date. So it's still £370? That's right. Before I take your card details, is there anything else I can help you with? Well, last time I came I travelled by train and someone met me at the station, but this time I'll be driving.",
       "segmentIds": [
-        "seg-040",
-        "seg-041",
-        "seg-042"
+        "seg-049",
+        "seg-050",
+        "seg-051",
+        "seg-052"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-013",
       "part": 1,
-      "startTime": 276.64,
-      "endTime": 298.85,
-      "text": "Well, I don't like any sort of fish. I'm fine with everything else. That's fine. I'll make a note of that. OK, and if I could ask you just one more question about the course, Nick? Sure.",
+      "startTime": 366.92,
+      "endTime": 385.62,
+      "text": "So will there be parking available? I'll see what I can do. I can't promise it, but I'll do my best. It's a good thing you mentioned it, actually, as places are limited. Great. Right, so if there's nothing else, I'll just take your credit card number. OK, it's 78956.",
       "segmentIds": [
-        "seg-043",
-        "seg-044",
-        "seg-045",
-        "seg-046"
+        "seg-053",
+        "seg-054",
+        "seg-055",
+        "seg-056"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-014",
-      "part": 1,
-      "startTime": 298.85,
-      "endTime": 329.0,
-      "text": "On the Saturday afternoon, you can choose to have an individual one-to-one lesson on one particular aspect of guitar playing. So you can choose jazz guitar? Hmm, probably not. Or there's blues? Yes, maybe. Or rock? That sounds good, but no, I think I'll go for the second one.",
+      "part": 2,
+      "startTime": 501.28,
+      "endTime": 522.7,
+      "text": "I'd like to welcome Sam Goodwin to the programme. He's one of the organisers of this year's Denford Festival. So, Sam, what can you tell us about what's happening this year? Well, as usual, the festival will take place during the first weekend in August, and there will be things going on all over the town.",
       "segmentIds": [
-        "seg-047",
-        "seg-048",
-        "seg-049"
+        "seg-057",
+        "seg-058",
+        "seg-059",
+        "seg-060"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-015",
-      "part": 1,
-      "startTime": 329.0,
-      "endTime": 352.45,
-      "text": "OK, fine. I didn't know we had individual classes. It didn't mention that in the information I read about the course. Where did you actually find out about us? Well, this time I just looked on your website, but I originally found out about you from a magazine. Right, yes, we'll have to update the website, but our prices are up to date.",
+      "part": 2,
+      "startTime": 523.06,
+      "endTime": 541.56,
+      "text": "There are a number of separate areas, each with their own special attraction and atmosphere. Let's start with Bridge Street. Local schoolchildren took part in a competition to paint pictures of the local landscape, and you'll be able to see all their work displayed here.",
       "segmentIds": [
-        "seg-050",
-        "seg-051",
-        "seg-052",
-        "seg-053",
-        "seg-054"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-016",
-      "part": 1,
-      "startTime": 352.45,
-      "endTime": 375.0,
-      "text": "So it's still £370? That's right. Before I take your card details, is there anything else I can help you with? Well, last time I came I travelled by train and someone met me at the station, but this time I'll be driving. So will there be parking available? I'll see what I can do. I can't promise it, but I'll do my best.",
-      "segmentIds": [
-        "seg-055",
-        "seg-056",
-        "seg-057",
-        "seg-058",
-        "seg-059"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-017",
-      "part": 1,
-      "startTime": 375.0,
-      "endTime": 397.3,
-      "text": "It's a good thing you mentioned it, actually, as places are limited. Great. Right, so if there's nothing else, I'll just take your credit card number. OK, it's 78956.",
-      "segmentIds": [
-        "seg-060",
         "seg-061",
-        "seg-062"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-018",
-      "part": 1,
-      "startTime": 397.3,
-      "endTime": 420.35,
-      "text": "That is the end of Part 1.",
-      "segmentIds": [
+        "seg-062",
         "seg-063"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-019",
-      "part": 1,
-      "startTime": 420.35,
-      "endTime": 470.0,
-      "text": "You now have one minute to check your answers to Part 1.",
+      "id": "long-016",
+      "part": 2,
+      "startTime": 542.0,
+      "endTime": 567.06,
+      "text": "The winning entries have also been made into postcards that you can buy at one of the stalls. At Kings Park, we've built a climbing wall, and there'll also be an inflatable bouncy castle for kids to burn off excess energy. Both are going to be supervised by volunteer teachers at all times, so parents can go off and enjoy other parts of the festival.",
       "segmentIds": [
-        "seg-064"
+        "seg-064",
+        "seg-065",
+        "seg-066"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 2,
+      "startTime": 568.04,
+      "endTime": 587.18,
+      "text": "There's a lot happening in Oakvale School. If you're over 18, there's an exciting contest to take part in here. You'll have an hour to prepare your favourite food or dish, and the prizes will be presented by our special guest, the singer Maria Thompson.",
+      "segmentIds": [
+        "seg-067",
+        "seg-068",
+        "seg-069"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 2,
+      "startTime": 588.92,
+      "endTime": 609.36,
+      "text": "On Green Road, we'll have some top local groups performing and singing throughout the day until 5, including the Denford Choir, who've just come back from a really successful tour of Australia and New Zealand. And finally, I'll mention Sun Lane.",
+      "segmentIds": [
+        "seg-070",
+        "seg-071",
+        "seg-072"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 2,
+      "startTime": 609.72,
+      "endTime": 633.1,
+      "text": "We want you to leave the festival with more than good memories, and a full stomach, so we'd encourage everyone to go to Sun Lane, where we'll have a number of experts giving tips and advice on how to successfully grow your own fruit and vegetables. You never know, maybe next year we'll be showing your produce.",
+      "segmentIds": [
+        "seg-073",
+        "seg-074",
+        "seg-075"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-020",
       "part": 2,
-      "startTime": 470.0,
-      "endTime": 499.81,
-      "text": "You will hear a talk on the radio about a local festival called the Denford Festival. First you have some time to look at questions 11 to 15. Now listen carefully and answer questions 11 to 15.",
+      "startTime": 682.18,
+      "endTime": 698.7,
+      "text": "Thank you, Sam. That all sounds really interesting. And you've got some practical information for us. Yes, this year's festival will be bigger than ever, judging by ticket sales so far.",
       "segmentIds": [
-        "seg-065",
-        "seg-066",
-        "seg-067"
+        "seg-076",
+        "seg-077",
+        "seg-078",
+        "seg-079",
+        "seg-080"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-021",
       "part": 2,
-      "startTime": 499.81,
-      "endTime": 515.34,
-      "text": "I'd like to welcome Sam Goodwin to the programme. He's one of the organisers of this year's Denford Festival. So, Sam, what can you tell us about what's happening this year?",
+      "startTime": 699.02,
+      "endTime": 721.02,
+      "text": "Tickets can be purchased from our website or at the festival on the day, although those will cost a bit more. The tickets give you free entry to most areas, although you do need to pay extra to get into some of the special events. We're doing something different this year on the final evening of the festival.",
       "segmentIds": [
-        "seg-068",
-        "seg-069",
-        "seg-070"
+        "seg-081",
+        "seg-082",
+        "seg-083"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-022",
       "part": 2,
-      "startTime": 515.34,
-      "endTime": 533.0,
-      "text": "Well, as usual, the festival will take place during the first weekend in August, and there will be things going on all over the town. There are a number of separate areas, each with their own special attraction and atmosphere. Let's start with Bridge Street.",
+      "startTime": 721.16,
+      "endTime": 742.94,
+      "text": "We usually have a big firework display, but it's proven too expensive this year. So instead, we're holding a dance for everyone who wants to come. That's going to be in the local theatre, where we'll clear away all the chairs to give us plenty of room. It should be great fun.",
       "segmentIds": [
-        "seg-071",
-        "seg-072",
-        "seg-073"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-023",
-      "part": 2,
-      "startTime": 533.0,
-      "endTime": 559.0,
-      "text": "Local schoolchildren took part in a competition to paint pictures of the local landscape, and you'll be able to see all their work displayed here. The winning entries have also been made into postcards that you can buy at one of the stalls. At Kings Park, we've built a climbing wall, and there'll also be an inflatable bouncy castle for kids to burn off excess energy.",
-      "segmentIds": [
-        "seg-074",
-        "seg-075",
-        "seg-076"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-024",
-      "part": 2,
-      "startTime": 559.0,
-      "endTime": 578.0,
-      "text": "Both are going to be supervised by volunteer teachers at all times, so parents can go off and enjoy other parts of the festival. There's a lot happening in Oakvale School. If you're over 18, there's an exciting contest to take part in here.",
-      "segmentIds": [
-        "seg-077",
-        "seg-078",
-        "seg-079"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-025",
-      "part": 2,
-      "startTime": 578.0,
-      "endTime": 607.09,
-      "text": "You'll have an hour to prepare your favourite food or dish, and the prizes will be presented by our special guest, the singer Maria Thompson. On Green Road, we'll have some top local groups performing and singing throughout the day until 5, including the Denford Choir, who've just come back from a really successful tour of Australia and New Zealand.",
-      "segmentIds": [
-        "seg-080",
-        "seg-081",
-        "seg-082"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-026",
-      "part": 2,
-      "startTime": 607.09,
-      "endTime": 631.58,
-      "text": "And finally, I'll mention Sun Lane. We want you to leave the festival with more than good memories, and a full stomach, so we'd encourage everyone to go to Sun Lane, where we'll have a number of experts giving tips and advice on how to successfully grow your own fruit and vegetables.",
-      "segmentIds": [
-        "seg-083",
         "seg-084",
-        "seg-085"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-027",
-      "part": 2,
-      "startTime": 631.58,
-      "endTime": 644.0,
-      "text": "You never know, maybe next year we'll be showing your produce. Before you hear the rest of the talk, you have some time to look at questions 16 to 20.",
-      "segmentIds": [
+        "seg-085",
         "seg-086",
         "seg-087"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-028",
+      "id": "long-023",
       "part": 2,
-      "startTime": 679.0,
-      "endTime": 699.4,
-      "text": "Now listen and answer questions 16 to 20. Thank you, Sam. That all sounds really interesting. And you've got some practical information for us. Yes, this year's festival will be bigger than ever, judging by ticket sales so far.",
+      "startTime": 743.36,
+      "endTime": 766.24,
+      "text": "We're expecting a large number of international visitors, so you'll be hearing a lot of different languages around the festival this year. And we've organised a help desk to advise people on finding accommodation if they need it. We'll also be offering day trips to points of interest in the region at very reasonable prices.",
       "segmentIds": [
         "seg-088",
         "seg-089",
-        "seg-090",
-        "seg-091"
+        "seg-090"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-029",
+      "id": "long-024",
       "part": 2,
-      "startTime": 699.4,
-      "endTime": 722.55,
-      "text": "Tickets can be purchased from our website or at the festival on the day, although those will cost a bit more. The tickets give you free entry to most areas, although you do need to pay extra to get into some of the special events. We're doing something different this year on the final evening of the festival.",
+      "startTime": 766.84,
+      "endTime": 790.62,
+      "text": "If you do decide to drive, there are two festival car parks. Car Park A to the north and Car Park B in the east. Car Park B is in the middle of town, so it usually fills up very quickly. From Car Park A, there is a 15-minute walk along the river to the town centre.",
       "segmentIds": [
+        "seg-091",
         "seg-092",
         "seg-093",
         "seg-094"
@@ -3125,39 +2887,39 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-030",
+      "id": "long-025",
       "part": 2,
-      "startTime": 722.55,
-      "endTime": 743.0,
-      "text": "We usually have a big firework display, but it's proven too expensive this year. So instead, we're holding a dance for everyone who wants to come. That's going to be in the local theatre, where we'll clear away all the chairs to give us plenty of room. It should be great fun.",
+      "startTime": 790.8,
+      "endTime": 814.36,
+      "text": "It takes a little longer to get to the festival, but it's twice the size of B, and it's a nice flat walk. There's one more change I'd like to tell you about. Last year, we sent out nearly 30,000 free programmes with the tickets, and we're aware of both the cost and the environmental impact of this.",
       "segmentIds": [
         "seg-095",
         "seg-096",
-        "seg-097",
-        "seg-098"
+        "seg-097"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-031",
+      "id": "long-026",
       "part": 2,
-      "startTime": 745.0,
-      "endTime": 767.0,
-      "text": "We're expecting a large number of international visitors, so you'll be hearing a lot of different languages around the festival this year. And we've organised a help desk to advise people on finding accommodation if they need it. We'll also be offering day trips to points of interest in the region at very reasonable prices.",
+      "startTime": 814.94,
+      "endTime": 831.74,
+      "text": "We looked into having an app instead, but that was too expensive. So, in the end, we decided to put the programme on our website and save that way. You'll still be able to pick up a hard copy at the festival if you want.",
       "segmentIds": [
+        "seg-098",
         "seg-099",
-        "seg-100",
-        "seg-101"
+        "seg-100"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-032",
-      "part": 2,
-      "startTime": 768.0,
-      "endTime": 784.0,
-      "text": "If you do decide to drive, there are two festival car parks. Car Park A to the north and Car Park B in the east. Car Park B is in the middle of town, so it usually fills up very quickly.",
+      "id": "long-027",
+      "part": 3,
+      "startTime": 908.54,
+      "endTime": 932.38,
+      "text": "Dr. Williams. Come in. Thanks. How can I help you? Well, I'm interested in doing the course on action research. Sure. What would you like to know? Well, first of all, I understand it's about ways of researching your own practise in your professional role so as to improve it. That's right, and I'm afraid I must emphasise at the outset that it's only open to working teachers.",
       "segmentIds": [
+        "seg-101",
         "seg-102",
         "seg-103",
         "seg-104"
@@ -3165,11 +2927,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-033",
-      "part": 2,
-      "startTime": 786.0,
-      "endTime": 804.0,
-      "text": "From Car Park A, there is a 15-minute walk along the river to the town centre. It takes a little longer to get to the festival, but it's twice the size of B, and it's a nice flat walk. There's one more change I'd like to tell you about.",
+      "id": "long-028",
+      "part": 3,
+      "startTime": 932.82,
+      "endTime": 952.52,
+      "text": "Well, I've been one for eight years, so... That's plenty, and... And can I ask, will you be teaching out? Yes, I've done so for many years, but the course leader will be one of our new lecturers, Alan Cumner. Oh. He's just written a very interesting book on action research, which you should get hold of.",
       "segmentIds": [
         "seg-105",
         "seg-106",
@@ -3178,58 +2940,28 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-034",
-      "part": 2,
-      "startTime": 804.0,
-      "endTime": 827.0,
-      "text": "Last year, we sent out nearly 30,000 free programmes with the tickets, and we're aware of both the cost and the environmental impact of this. We looked into having an app instead, but that was too expensive. So, in the end, we decided to put the programme on our website and save that way.",
+      "id": "long-029",
+      "part": 3,
+      "startTime": 952.86,
+      "endTime": 972.6,
+      "text": "The title is Professional Learning. Right. I think one of the other teachers in my school mentioned it. Okay. Can I ask you what will be covered on the course? Well, the obvious aim is to develop skills in using a variety of research techniques. Yes, of course. I'll ask you about those in more detail later.",
       "segmentIds": [
         "seg-108",
         "seg-109",
-        "seg-110"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-035",
-      "part": 2,
-      "startTime": 828.0,
-      "endTime": 865.87,
-      "text": "You'll still be able to pick up a hard copy at the festival if you want.",
-      "segmentIds": [
-        "seg-111"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-036",
-      "part": 2,
-      "startTime": 865.87,
-      "endTime": 879.55,
-      "text": "That is the end of Part 2.",
-      "segmentIds": [
+        "seg-110",
+        "seg-111",
         "seg-112"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-037",
-      "part": 2,
-      "startTime": 879.55,
-      "endTime": 909.0,
-      "text": "You now have 30 seconds to check your answers to Part 2.",
-      "segmentIds": [
-        "seg-113"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-038",
+      "id": "long-030",
       "part": 3,
-      "startTime": 909.0,
-      "endTime": 917.33,
-      "text": "You will hear a mature student on a teacher training programme discussing a new course with his college lecturer. First, you have some time to look at questions 21 to 23 on page 6. Now listen carefully and answer questions 21 to 23. Dr. Williams. Come in. Thanks. How can I help you? Well, I'm interested in doing the course on action research. Sure.",
+      "startTime": 972.82,
+      "endTime": 996.42,
+      "text": "And then there's something that's crucial to action research, and that's the skill of researching in a team. Yes. I can say that it is very important. And what about after you've done the research? Do you do something on dissemination of findings? Well, the last major objective is similar to that, but not quite the same. It's on presenting results as part of the wider collaborative culture.",
       "segmentIds": [
+        "seg-113",
         "seg-114",
         "seg-115",
         "seg-116",
@@ -3239,11 +2971,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-039",
+      "id": "long-031",
       "part": 3,
-      "startTime": 917.33,
-      "endTime": 941.2,
-      "text": "What would you like to know? Well, first of all, I understand it's about ways of researching your own practise in your professional role so as to improve it. That's right, and I'm afraid I must emphasise at the outset that it's only open to working teachers. Well, I've been one for eight years, so... That's plenty, and... And can I ask, will you be teaching out?",
+      "startTime": 1026.66,
+      "endTime": 1048.38,
+      "text": "Great. Well, that's very helpful. I can ask you about the different components. Well, the course is organised around the data-gathering techniques, and we divide them into two main types, observational and non-observational techniques. And between each session, we ask you to try out the technique for yourself in a variety of settings.",
       "segmentIds": [
         "seg-119",
         "seg-120",
@@ -3254,11 +2986,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-040",
+      "id": "long-032",
       "part": 3,
-      "startTime": 941.2,
-      "endTime": 961.55,
-      "text": "Yes, I've done so for many years, but the course leader will be one of our new lecturers, Alan Cumner. Oh. He's just written a very interesting book on action research, which you should get hold of. The title is Professional Learning. Right. I think one of the other teachers in my school mentioned it. Okay.",
+      "startTime": 1048.48,
+      "endTime": 1071.1,
+      "text": "The initial sessions are on using observation checklists. Oh, yes. And we ask you to try some out in a school so you can look at an element of a lesson, such as pupil behaviour, so you can immediately apply what you've learnt to a real situation in the classroom. Right. Somebody told me we have to keep a diary. Yes, that's right. We ask you to keep one as a research tool.",
       "segmentIds": [
         "seg-124",
         "seg-125",
@@ -3269,11 +3001,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-041",
+      "id": "long-033",
       "part": 3,
-      "startTime": 961.55,
-      "endTime": 985.42,
-      "text": "Can I ask you what will be covered on the course? Well, the obvious aim is to develop skills in using a variety of research techniques. Yes, of course. I'll ask you about those in more detail later. And then there's something that's crucial to action research, and that's the skill of researching in a team. Yes. I can say that it is very important. And what about after you've done the research?",
+      "startTime": 1071.28,
+      "endTime": 1086.16,
+      "text": "And what's the point of that exactly? Well, it really enhances your capacity for reflection. Oh, that sounds interesting. And then we've just added another observational technique to the course, which is video recording. I have tried that already with colleagues.",
       "segmentIds": [
         "seg-129",
         "seg-130",
@@ -3284,38 +3016,28 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-042",
+      "id": "long-034",
       "part": 3,
-      "startTime": 985.42,
-      "endTime": 1000.83,
-      "text": "Do you do something on dissemination of findings? Well, the last major objective is similar to that, but not quite the same. It's on presenting results as part of the wider collaborative culture.",
+      "startTime": 1086.38,
+      "endTime": 1108.5,
+      "text": "I have to say, with only limited success. Yes, that's been our experience too, especially at the beginning. So we decided to get you to try this technique out with your fellow students in classroom simulation, which I think you'll agree. That has fewer problems, yes. And then we have sessions examining what we call non-observational techniques.",
       "segmentIds": [
         "seg-134",
         "seg-135",
-        "seg-136"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-043",
-      "part": 3,
-      "startTime": 1000.83,
-      "endTime": 1025.77,
-      "text": "Before you hear the rest of the discussion, you have some time to look at questions 24 to 30 on page 7. Now listen and answer questions 24 to 30. Great. Well, that's very helpful. I can ask you about the different components.",
-      "segmentIds": [
+        "seg-136",
         "seg-137",
-        "seg-138",
-        "seg-139"
+        "seg-138"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-044",
+      "id": "long-035",
       "part": 3,
-      "startTime": 1025.77,
-      "endTime": 1050.02,
-      "text": "Well, the course is organised around the data-gathering techniques, and we divide them into two main types, observational and non-observational techniques. And between each session, we ask you to try out the technique for yourself in a variety of settings.",
+      "startTime": 1108.7,
+      "endTime": 1130.1,
+      "text": "And rather controversially, we start with ways of scrutinising test results. Oh, right. Yeah, I'm familiar with that. Yes, but we think these can yield some very valuable insights. We ask you to bring along statistics relating to your own students for this. Oh, that should be easy. I have to say I quite enjoy that kind of analysis. Yes.",
       "segmentIds": [
+        "seg-139",
         "seg-140",
         "seg-141",
         "seg-142"
@@ -3323,11 +3045,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-045",
+      "id": "long-036",
       "part": 3,
-      "startTime": 1050.02,
-      "endTime": 1072.19,
-      "text": "The initial sessions are on using observation checklists. Oh, yes. And we ask you to try some out in a school so you can look at an element of a lesson, such as pupil behaviour, so you can immediately apply what you've learnt to a real situation in the classroom. Right. Somebody told me we have to keep a diary. Yes, that's right. We ask you to keep one as a research tool.",
+      "startTime": 1130.7,
+      "endTime": 1153.28,
+      "text": "And then we look at using questionnaires. Oh, yes. I've done one or two projects involving those. I used one local teacher's resource group, but I've never felt that I've used them as effectively as I should have done so. Well, that is a common comment from our participants, and we thought we'd open things up a bit this year with a different approach and use the Internet in order to identify respondents.",
       "segmentIds": [
         "seg-143",
         "seg-144",
@@ -3338,29 +3060,39 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-046",
+      "id": "long-037",
       "part": 3,
-      "startTime": 1072.19,
-      "endTime": 1094.33,
-      "text": "And what's the point of that exactly? Well, it really enhances your capacity for reflection. Oh, that sounds interesting. And then we've just added another observational technique to the course, which is video recording. I have tried that already with colleagues. I have to say, with only limited success. Yes, that's been our experience too, especially at the beginning.",
+      "startTime": 1153.96,
+      "endTime": 1174.24,
+      "text": "Obviously, we'd explain more about how that will work closer to the time. Great. Look forward to that. And will there be anything on interviews? That's really the last major section, and we ask you to choose your own respondents for that as part of a final project. Great. Well, that's been really helpful, Dr Williams. Thank you.",
       "segmentIds": [
         "seg-148",
         "seg-149",
         "seg-150",
-        "seg-151",
-        "seg-152"
+        "seg-151"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-047",
-      "part": 3,
-      "startTime": 1094.33,
-      "endTime": 1117.35,
-      "text": "So we decided to get you to try this technique out with your fellow students in classroom simulation, which I think you'll agree. That has fewer problems, yes. And then we have sessions examining what we call non-observational techniques. And rather controversially, we start with ways of scrutinising test results. Oh, right. Yeah, I'm familiar with that.",
+      "id": "long-038",
+      "part": 4,
+      "startTime": 1250.44,
+      "endTime": 1268.06,
+      "text": "In today's lecture, I'm going to talk about digital technology, especially the changes occurring due to the rapid spread of digital technology in the last decade of the 21st century. First, what is digital technology?",
       "segmentIds": [
+        "seg-152",
         "seg-153",
-        "seg-154",
+        "seg-154"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 4,
+      "startTime": 1268.14,
+      "endTime": 1292.06,
+      "text": "Well, digital technology includes any computer-related devices, like mobile phones, the Internet, email, instant messaging, and so on. This lecture is based on the opinions of Mark Prensky and what he believes are the main effects that high exposure to digital technology has had on young people today.",
+      "segmentIds": [
         "seg-155",
         "seg-156",
         "seg-157"
@@ -3368,99 +3100,79 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-048",
-      "part": 3,
-      "startTime": 1117.35,
-      "endTime": 1136.68,
-      "text": "Yes, but we think these can yield some very valuable insights. We ask you to bring along statistics relating to your own students for this. Oh, that should be easy. I have to say I quite enjoy that kind of analysis. Yes. And then we look at using questionnaires. Oh, yes. I've done one or two projects involving those.",
+      "id": "long-040",
+      "part": 4,
+      "startTime": 1292.62,
+      "endTime": 1314.32,
+      "text": "Prensky believes that because today's young people have been born into a digital world and spent a long time simply playing with technology, they have changed in fundamental ways. He thinks they are evolving differently and, as a result, processing information differently from the last generations.",
       "segmentIds": [
         "seg-158",
         "seg-159",
-        "seg-160",
+        "seg-160"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 4,
+      "startTime": 1314.54,
+      "endTime": 1337.04,
+      "text": "These young people's brains may have physically changed, although no clear evidence exists. Prensky believes that we humans can be divided into digital natives and digital immigrants. Of course, today's young people belong to the group of digital natives because they were born into this new digital age",
+      "segmentIds": [
         "seg-161",
-        "seg-162"
+        "seg-162",
+        "seg-163"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-049",
-      "part": 3,
-      "startTime": 1136.68,
-      "endTime": 1161.55,
-      "text": "I used one local teacher's resource group, but I've never felt that I've used them as effectively as I should have done so. Well, that is a common comment from our participants, and we thought we'd open things up a bit this year with a different approach and use the Internet in order to identify respondents. Obviously, we'd explain more about how that will work closer to the time. Great.",
+      "id": "long-042",
+      "part": 4,
+      "startTime": 1337.04,
+      "endTime": 1358.08,
+      "text": "and grew up just as native speakers of the digital language of computer technology. However, digital immigrants are the people born in the generations before the digital age. When people learn a second language, they often retain their foreign accent. It is the same with digital immigrants.",
       "segmentIds": [
-        "seg-163",
         "seg-164",
-        "seg-165"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-050",
-      "part": 3,
-      "startTime": 1161.55,
-      "endTime": 1183.99,
-      "text": "Look forward to that. And will there be anything on interviews? That's really the last major section, and we ask you to choose your own respondents for that as part of a final project. Great. Well, that's been really helpful, Dr Williams. Thank you. That is the end of Part 3.",
-      "segmentIds": [
+        "seg-165",
         "seg-166",
-        "seg-167",
-        "seg-168"
+        "seg-167"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-051",
-      "part": 3,
-      "startTime": 1183.99,
-      "endTime": 1188.0,
-      "text": "You now have half a minute to check your answers.",
-      "segmentIds": [
-        "seg-169"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-052",
+      "id": "long-043",
       "part": 4,
-      "startTime": 1188.0,
-      "endTime": 1217.24,
-      "text": "You will hear a lecture about the effects of the digital world on young people. First, you have some time to look at questions 31 to 40. Now listen carefully and answer questions 31 to 40.",
+      "startTime": 1358.28,
+      "endTime": 1380.9,
+      "text": "They aren't quite as effective at speaking the digital language as the natives are. Prensky illustrates this in detail. For example, instead of using the internet as a primary source of information, digital immigrants prefer finding phone numbers with a phone book or looking up information in an encyclopaedia.",
       "segmentIds": [
+        "seg-168",
+        "seg-169",
         "seg-170",
-        "seg-171",
-        "seg-172"
+        "seg-171"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-053",
+      "id": "long-044",
       "part": 4,
-      "startTime": 1217.24,
-      "endTime": 1233.87,
-      "text": "In today's lecture, I'm going to talk about digital technology,",
+      "startTime": 1381.04,
+      "endTime": 1409.22,
+      "text": "Prensky refers to this as the digital accent. Another example of the digital accent is scanning a manual for a computer programme, but the programme itself will teach you how to use it. People with a digital accent always rely on their original, non-digital means of sourcing information. They prefer doing things as they've always done, rather than typing something into a computer.",
       "segmentIds": [
-        "seg-173"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-054",
-      "part": 4,
-      "startTime": 1233.87,
-      "endTime": 1268.65,
-      "text": "especially the changes occurring due to the rapid spread of digital technology in the last decade of the 21st century. First, what is digital technology?",
-      "segmentIds": [
+        "seg-172",
+        "seg-173",
         "seg-174",
         "seg-175"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-055",
+      "id": "long-045",
       "part": 4,
-      "startTime": 1268.65,
-      "endTime": 1306.0,
-      "text": "Well, digital technology includes any computer-related devices, like mobile phones, the Internet, email, instant messaging, and so on. This lecture is based on the opinions of Mark Prensky and what he believes are the main effects that high exposure to digital technology has had on young people today. Prensky believes that because today's young people have been born into a digital world and spent a long time simply playing with technology, they have changed in fundamental ways.",
+      "startTime": 1413.86,
+      "endTime": 1434.64,
+      "text": "Due to this, Prensky predicts it will bring many changes, especially in education. Other educators and theorists, such as Thompson Allen, Samuel James, and Peter Vander, also give their opinions. Samuel James is a famous educator from the University of Sydney.",
       "segmentIds": [
         "seg-176",
         "seg-177",
@@ -3469,11 +3181,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-056",
+      "id": "long-046",
       "part": 4,
-      "startTime": 1307.0,
-      "endTime": 1329.0,
-      "text": "He thinks they are evolving differently and, as a result, processing information differently from the last generations. These young people's brains may have physically changed, although no clear evidence exists. Prensky believes that we humans can be divided into digital natives and digital immigrants.",
+      "startTime": 1434.9,
+      "endTime": 1451.69,
+      "text": "He agrees with Prensky's idea that today's educators are no longer thriving in how they teach. However, some more traditional theorists, like Peter Vander and Thompson Allen, don't agree. They criticise many of Prensky's assertions.",
       "segmentIds": [
         "seg-179",
         "seg-180",
@@ -3482,11 +3194,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-057",
+      "id": "long-047",
       "part": 4,
-      "startTime": 1330.0,
-      "endTime": 1356.0,
-      "text": "Of course, today's young people belong to the group of digital natives because they were born into this new digital age and grew up just as native speakers of the digital language of computer technology. However, digital immigrants are the people born in the generations before the digital age. When people learn a second language, they often retain their foreign accent.",
+      "startTime": 1453.18,
+      "endTime": 1478.64,
+      "text": "Vander argues that a typical classroom is much more different from what Prensky believes, with students from various backgrounds. He believes that many of these students are not necessarily proficient with technology. Then, Allen adds his opinion that even though most students in modern times can access computers at home or school easily,",
       "segmentIds": [
         "seg-182",
         "seg-183",
@@ -3495,11 +3207,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-058",
+      "id": "long-048",
       "part": 4,
-      "startTime": 1357.0,
-      "endTime": 1373.84,
-      "text": "It is the same with digital immigrants. They aren't quite as effective at speaking the digital language as the natives are. Prensky illustrates this in detail. For example, instead of using the internet as a primary source of information,",
+      "startTime": 1478.94,
+      "endTime": 1500.98,
+      "text": "some don't find the digital medium appealing. However, James disagrees. He argues that all today's students share the same basic interesting knowledge of digital technology. However, even so, James believes that our younger students can communicate with their digital immigrant teachers",
       "segmentIds": [
         "seg-185",
         "seg-186",
@@ -3509,11 +3221,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-059",
+      "id": "long-049",
       "part": 4,
-      "startTime": 1373.84,
-      "endTime": 1396.0,
-      "text": "digital immigrants prefer finding phone numbers with a phone book or looking up information in an encyclopaedia. Prensky refers to this as the digital accent. Another example of the digital accent is scanning a manual for a computer programme, but the programme itself will teach you how to use it.",
+      "startTime": 1500.98,
+      "endTime": 1527.24,
+      "text": "and still learn with the teaching methods that were quite effective in the past. Allen believes that both digital natives and digital immigrants have to process a large amount of information in today's digital world. He thinks that although most young students today are good at playing computer games or surfing the internet, they use computers in important ways.",
       "segmentIds": [
         "seg-189",
         "seg-190",
@@ -3522,11 +3234,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-060",
+      "id": "long-050",
       "part": 4,
-      "startTime": 1396.0,
-      "endTime": 1421.0,
-      "text": "People with a digital accent always rely on their original, non-digital means of sourcing information. They prefer doing things as they've always done, rather than typing something into a computer. Due to this, Prensky predicts it will bring many changes, especially in education.",
+      "startTime": 1527.5,
+      "endTime": 1555.22,
+      "text": "They are not used to using computers at advanced levels, for example, to carry out complex information searches, which are essential for university study today. Unlike Allen's research, James believes that computer games can play an important role in the classroom. For example, teachers can combine interesting computer games with the lessons to attract students' attention.",
       "segmentIds": [
         "seg-192",
         "seg-193",
@@ -3535,105 +3247,15 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-061",
+      "id": "long-051",
       "part": 4,
-      "startTime": 1422.0,
-      "endTime": 1443.0,
-      "text": "Other educators and theorists, such as Thompson Allen, Samuel James, and Peter Vander, also give their opinions. Samuel James is a famous educator from the University of Sydney. He agrees with Prensky's idea that today's educators are no longer thriving in how they teach.",
+      "startTime": 1556.0,
+      "endTime": 1577.42,
+      "text": "However, Vander has different opinions. He argues that teachers are always the leading part of the classroom and no computer programme comes close to doing what a human teacher does every day. As a result, we should think of better ways to assist teachers rather than focussing on developing games.",
       "segmentIds": [
         "seg-195",
         "seg-196",
         "seg-197"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-062",
-      "part": 4,
-      "startTime": 1443.0,
-      "endTime": 1463.0,
-      "text": "However, some more traditional theorists, like Peter Vander and Thompson Allen, don't agree. They criticise many of Prensky's assertions. Vander argues that a typical classroom is much more different from what Prensky believes, with students from various backgrounds.",
-      "segmentIds": [
-        "seg-198",
-        "seg-199",
-        "seg-200"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-063",
-      "part": 4,
-      "startTime": 1464.0,
-      "endTime": 1487.0,
-      "text": "He believes that many of these students are not necessarily proficient with technology. Then, Allen adds his opinion that even though most students in modern times can access computers at home or school easily, some don't find the digital medium appealing. However, James disagrees.",
-      "segmentIds": [
-        "seg-201",
-        "seg-202",
-        "seg-203"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-064",
-      "part": 4,
-      "startTime": 1487.0,
-      "endTime": 1518.0,
-      "text": "He argues that all today's students share the same basic interesting knowledge of digital technology. However, even so, James believes that our younger students can communicate with their digital immigrant teachers and still learn with the teaching methods that were quite effective in the past. Allen believes that both digital natives and digital immigrants have to process a large amount of information in today's digital world.",
-      "segmentIds": [
-        "seg-204",
-        "seg-205",
-        "seg-206"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-065",
-      "part": 4,
-      "startTime": 1518.0,
-      "endTime": 1540.4,
-      "text": "He thinks that although most young students today are good at playing computer games or surfing the internet, they use computers in important ways. They are not used to using computers at advanced levels, for example, to carry out complex information searches, which are essential for university study today.",
-      "segmentIds": [
-        "seg-207",
-        "seg-208",
-        "seg-209"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-066",
-      "part": 4,
-      "startTime": 1540.4,
-      "endTime": 1559.85,
-      "text": "Unlike Allen's research, James believes that computer games can play an important role in the classroom. For example, teachers can combine interesting computer games with the lessons to attract students' attention. However, Vander has different opinions.",
-      "segmentIds": [
-        "seg-210",
-        "seg-211",
-        "seg-212"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-067",
-      "part": 4,
-      "startTime": 1559.85,
-      "endTime": 1589.0,
-      "text": "He argues that teachers are always the leading part of the classroom and no computer programme comes close to doing what a human teacher does every day. As a result, we should think of better ways to assist teachers rather than focussing on developing games. That is the end of part four. You now have one minute to check your answers to part four.",
-      "segmentIds": [
-        "seg-213",
-        "seg-214",
-        "seg-215"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-068",
-      "part": 4,
-      "startTime": 1648.0,
-      "endTime": 1597.0,
-      "text": "That is the end of the listening test. In the IELTS test, you will now have ten minutes to transfer your answers to the answer sheet.",
-      "segmentIds": [
-        "seg-216",
-        "seg-217"
       ],
       "timestampSource": "exact"
     }

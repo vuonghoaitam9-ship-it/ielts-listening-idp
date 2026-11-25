@@ -6,7 +6,7 @@
     "readyTests": 28,
     "missingTests": 4,
     "totalRawAudioMB": 945.67,
-    "totalPackagedDataMB": 352.1,
+    "totalPackagedDataMB": 351.6,
     "largestFilePath": "./data/vol-8/test-5/audio.mp3",
     "largestFileMB": 14.73,
     "volumes": [
@@ -15,21 +15,21 @@
         "label": "Vol 7",
         "ready": 11,
         "total": 11,
-        "notes": "Đủ PDF gốc, Audio gốc, Transcript có timestamp, Answer Key (T1–T11)."
+        "notes": "Đủ PDF gốc, Audio gốc, Key & Transcript đã căn mốc âm học từng từ (T1–T11)."
       },
       {
         "vol": 8,
         "label": "Vol 8",
         "ready": 8,
         "total": 8,
-        "notes": "Đủ 8 đề gốc (DOCX chuyển PDF giữ nguyên hình), Audio gốc, Transcript & Key (chưa có mốc giờ chi tiết)."
+        "notes": "Đủ 8 đề gốc (DOCX->PDF), Audio gốc, Key & Transcript đã căn mốc âm học từng từ (T1–T8)."
       },
       {
         "vol": 9,
         "label": "Vol 9",
         "ready": 9,
         "total": 9,
-        "notes": "Đủ 9 đề gốc (DOCX chuyển PDF giữ nguyên hình), Audio gốc, Transcript có timestamp & Key."
+        "notes": "Đủ 9 đề gốc (DOCX->PDF), Audio gốc, Key & Transcript đã căn mốc âm học từng từ (T1–T9)."
       },
       {
         "vol": 10,
@@ -65,9 +65,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 210,
-      "longSegmentCount": 65,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 206,
+      "longSegmentCount": 48,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-7-test-2",
@@ -93,9 +93,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 228,
-      "longSegmentCount": 67,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 196,
+      "longSegmentCount": 47,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-7-test-3",
@@ -121,9 +121,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 221,
-      "longSegmentCount": 70,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 200,
+      "longSegmentCount": 56,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-7-test-4",
@@ -149,9 +149,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 207,
-      "longSegmentCount": 67,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 200,
+      "longSegmentCount": 53,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-7-test-5",
@@ -177,9 +177,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 206,
-      "longSegmentCount": 64,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 179,
+      "longSegmentCount": 48,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-7-test-6",
@@ -205,9 +205,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 211,
-      "longSegmentCount": 64,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 190,
+      "longSegmentCount": 50,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-7-test-7",
@@ -233,9 +233,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 210,
-      "longSegmentCount": 65,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 186,
+      "longSegmentCount": 49,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-7-test-8",
@@ -261,9 +261,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 231,
-      "longSegmentCount": 73,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 214,
+      "longSegmentCount": 58,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-7-test-9",
@@ -289,9 +289,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 192,
-      "longSegmentCount": 56,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 170,
+      "longSegmentCount": 44,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-7-test-10",
@@ -317,9 +317,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 215,
-      "longSegmentCount": 64,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 190,
+      "longSegmentCount": 51,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-7-test-11",
@@ -345,9 +345,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 208,
-      "longSegmentCount": 56,
-      "sourceNotes": "Trang 7-9 của PDF gốc là Answer Key; chế độ thi mặc định hiển thị trang 1-6."
+      "shortSegmentCount": 189,
+      "longSegmentCount": 48,
+      "sourceNotes": "Trang 7-9 của PDF gốc là Answer Key; chế độ thi mặc định hiển thị trang 1-6. Mốc giờ đã căn âm học từng từ."
     },
     {
       "id": "vol-8-test-1",
@@ -371,11 +371,11 @@
       "hasAudio": true,
       "hasTranscript": true,
       "hasKey": true,
-      "hasExactTimestamps": false,
+      "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 184,
-      "longSegmentCount": 61,
-      "sourceNotes": "Đề DOCX đã được giữ nguyên định dạng sang PDF; transcript chưa có mốc giờ chi tiết."
+      "shortSegmentCount": 164,
+      "longSegmentCount": 44,
+      "sourceNotes": "Đề DOCX chuyển PDF giữ nguyên hình; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-8-test-2",
@@ -399,11 +399,11 @@
       "hasAudio": true,
       "hasTranscript": true,
       "hasKey": true,
-      "hasExactTimestamps": false,
+      "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 207,
-      "longSegmentCount": 68,
-      "sourceNotes": "Đề DOCX đã được giữ nguyên định dạng sang PDF; transcript chưa có mốc giờ chi tiết."
+      "shortSegmentCount": 192,
+      "longSegmentCount": 51,
+      "sourceNotes": "Đề DOCX chuyển PDF giữ nguyên hình; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-8-test-3",
@@ -427,11 +427,11 @@
       "hasAudio": true,
       "hasTranscript": true,
       "hasKey": true,
-      "hasExactTimestamps": false,
+      "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 211,
-      "longSegmentCount": 69,
-      "sourceNotes": "Đề DOCX đã được giữ nguyên định dạng sang PDF; transcript chưa có mốc giờ chi tiết."
+      "shortSegmentCount": 198,
+      "longSegmentCount": 50,
+      "sourceNotes": "Đề DOCX chuyển PDF giữ nguyên hình; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-8-test-4",
@@ -455,11 +455,11 @@
       "hasAudio": true,
       "hasTranscript": true,
       "hasKey": true,
-      "hasExactTimestamps": false,
+      "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 199,
-      "longSegmentCount": 65,
-      "sourceNotes": "Đề DOCX đã được giữ nguyên định dạng sang PDF; transcript chưa có mốc giờ chi tiết."
+      "shortSegmentCount": 185,
+      "longSegmentCount": 48,
+      "sourceNotes": "Đề DOCX chuyển PDF giữ nguyên hình; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-8-test-5",
@@ -483,11 +483,11 @@
       "hasAudio": true,
       "hasTranscript": true,
       "hasKey": true,
-      "hasExactTimestamps": false,
+      "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 249,
-      "longSegmentCount": 83,
-      "sourceNotes": "Đề DOCX đã được giữ nguyên định dạng sang PDF; transcript chưa có mốc giờ chi tiết."
+      "shortSegmentCount": 240,
+      "longSegmentCount": 61,
+      "sourceNotes": "Đề DOCX chuyển PDF giữ nguyên hình; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-8-test-6",
@@ -511,11 +511,11 @@
       "hasAudio": true,
       "hasTranscript": true,
       "hasKey": true,
-      "hasExactTimestamps": false,
+      "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 212,
-      "longSegmentCount": 70,
-      "sourceNotes": "Đề DOCX đã được giữ nguyên định dạng sang PDF; transcript chưa có mốc giờ chi tiết."
+      "shortSegmentCount": 192,
+      "longSegmentCount": 52,
+      "sourceNotes": "Đề DOCX chuyển PDF giữ nguyên hình; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-8-test-7",
@@ -539,11 +539,11 @@
       "hasAudio": true,
       "hasTranscript": true,
       "hasKey": true,
-      "hasExactTimestamps": false,
+      "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 191,
-      "longSegmentCount": 64,
-      "sourceNotes": "Đề DOCX đã được giữ nguyên định dạng sang PDF; transcript chưa có mốc giờ chi tiết."
+      "shortSegmentCount": 178,
+      "longSegmentCount": 47,
+      "sourceNotes": "Đề DOCX chuyển PDF giữ nguyên hình; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-8-test-8",
@@ -567,11 +567,11 @@
       "hasAudio": true,
       "hasTranscript": true,
       "hasKey": true,
-      "hasExactTimestamps": false,
+      "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 221,
-      "longSegmentCount": 71,
-      "sourceNotes": "Đề DOCX đã được giữ nguyên định dạng sang PDF; transcript chưa có mốc giờ chi tiết."
+      "shortSegmentCount": 205,
+      "longSegmentCount": 53,
+      "sourceNotes": "Đề DOCX chuyển PDF giữ nguyên hình; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-9-test-1",
@@ -597,9 +597,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 227,
-      "longSegmentCount": 67,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 192,
+      "longSegmentCount": 52,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-9-test-2",
@@ -625,9 +625,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 241,
-      "longSegmentCount": 70,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 226,
+      "longSegmentCount": 59,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-9-test-3",
@@ -653,9 +653,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 239,
-      "longSegmentCount": 72,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 207,
+      "longSegmentCount": 56,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-9-test-4",
@@ -681,9 +681,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 217,
-      "longSegmentCount": 68,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 197,
+      "longSegmentCount": 51,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-9-test-5",
@@ -709,9 +709,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 211,
-      "longSegmentCount": 61,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 194,
+      "longSegmentCount": 51,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-9-test-6",
@@ -737,9 +737,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 217,
-      "longSegmentCount": 65,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 190,
+      "longSegmentCount": 50,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-9-test-7",
@@ -765,9 +765,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 209,
-      "longSegmentCount": 62,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 195,
+      "longSegmentCount": 54,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-9-test-8",
@@ -793,9 +793,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 209,
-      "longSegmentCount": 59,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 208,
+      "longSegmentCount": 53,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-9-test-9",
@@ -821,9 +821,9 @@
       "hasKey": true,
       "hasExactTimestamps": true,
       "questionCount": 40,
-      "shortSegmentCount": 233,
-      "longSegmentCount": 72,
-      "sourceNotes": "Đủ 4 thành phần chuẩn từ tài liệu gốc."
+      "shortSegmentCount": 210,
+      "longSegmentCount": 56,
+      "sourceNotes": "Đủ 4 thành phần chuẩn; mốc giờ đã căn chỉnh âm học trực tiếp từ audio gốc."
     },
     {
       "id": "vol-10-test-1",

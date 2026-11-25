@@ -8,3 +8,7 @@ Thumbs.db
 *.tsbuildinfo
 .env
 .env.*
+.whisper-tools/
+.whisper-cache/
+__pycache__/
+*.pyc

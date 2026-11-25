@@ -12,7 +12,7 @@
   "audioUrl": "./data/vol-9/test-1/audio.mp3",
   "audioDurationSec": 1612.41,
   "hasExactTimestamps": true,
-  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "timestampNote": "Mốc thời gian đã được căn chỉnh trực tiếp từ audio gốc ở mức từng từ (acoustic forced alignment).",
   "parts": [
     {
       "partNumber": 1,
@@ -21,8 +21,8 @@
         1,
         10
       ],
-      "startTime": 0.0,
-      "endTime": 380.0,
+      "startTime": 3.86,
+      "endTime": 340.5,
       "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
     },
     {
@@ -32,8 +32,8 @@
         11,
         20
       ],
-      "startTime": 380.0,
-      "endTime": 787.0,
+      "startTime": 371.0,
+      "endTime": 736.84,
       "topicHint": "You will hear a teacher giving a talk about a junior school to a group of parents."
     },
     {
@@ -43,8 +43,8 @@
         21,
         30
       ],
-      "startTime": 787.0,
-      "endTime": 1183.0,
+      "startTime": 775.96,
+      "endTime": 1138.78,
       "topicHint": "You will hear two students called Jen and Rob discussing a project they are about to start working on."
     },
     {
@@ -54,8 +54,8 @@
         31,
         40
       ],
-      "startTime": 1183.0,
-      "endTime": 1612.41,
+      "startTime": 1169.34,
+      "endTime": 1607.75,
       "topicHint": "You will hear a biology lecture on how living things deal with changes in their environment by entering a state called dormancy."
     }
   ],
@@ -63,16 +63,16 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "to find out about a... room…………… Jim's weekly rent will be $ 1 ………. Jim can park his car in the 2 ………… The telephone is in the 3 ………………. Jim will bring a 4 ……………. for his bedroom. Peter would like Jim to bring a 5 ……………….. Peter and Jim will probably watch TV on 6 ……………… Jim works in a 7 …………………… twice a week. Peter will",
+      "promptContext": "Jim's weekly rent will be $",
       "answerRaw": "80",
       "canonicalAnswer": "80",
       "acceptedAnswers": [
         "80"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Yours is $80 because it's a bit smaller. That's not too bad. The last place I was in was $100 a week and it was much smaller.",
-      "evidenceStartTime": 153.67,
-      "evidenceEndTime": 161.98,
+      "evidenceQuote": "Yours is $80 because it's a bit smaller. That's not too bad.",
+      "evidenceStartTime": 157.26,
+      "evidenceEndTime": 161.46,
       "paraphrases": [],
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
@@ -82,7 +82,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "m's weekly rent will be $ 1 ………. Jim can park his car in the 2 ………… The telephone is in the 3 ………………. Jim will bring a 4 ……………. for his bedroom. Peter would like Jim to bring a 5 ……………….. Peter and Jim will probably watch TV on 6 ……………… Jim works in a 7 …………………… twice a week. Peter will share the cost of 8 ………….. with Ji",
+      "promptContext": ". Jim can park his car in the",
       "answerRaw": "garage",
       "canonicalAnswer": "garage",
       "acceptedAnswers": [
@@ -90,8 +90,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Well, you're lucky because this house has a garage. At the moment there are some empty boxes in there, but there's still plenty of room for your car.",
-      "evidenceStartTime": 177.86,
-      "evidenceEndTime": 187.83,
+      "evidenceStartTime": 181.6,
+      "evidenceEndTime": 189.32,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -101,16 +101,16 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": ". Jim can park his car in the 2 ………… The telephone is in the 3 ………………. Jim will bring a 4 ……………. for his bedroom. Peter would like Jim to bring a 5 ……………….. Peter and Jim will probably watch TV on 6 ……………… Jim works in a 7 …………………… twice a week. Peter will share the cost of 8 ………….. with Jim. Peter wants Jim to move in b",
+      "promptContext": "The telephone is in the",
       "answerRaw": "kitchen",
       "canonicalAnswer": "kitchen",
       "acceptedAnswers": [
         "kitchen"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Yeah, it's in the kitchen. It was in the living room, but it was hard to hear over the television.",
-      "evidenceStartTime": 203.34,
-      "evidenceEndTime": 209.17,
+      "evidenceQuote": "I've got a mobile which my friends usually call me on, but a phone in the house is useful. Yeah, it's in the kitchen.",
+      "evidenceStartTime": 201.98,
+      "evidenceEndTime": 208.16,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -120,7 +120,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "he 2 ………… The telephone is in the 3 ………………. Jim will bring a 4 ……………. for his bedroom. Peter would like Jim to bring a 5 ……………….. Peter and Jim will probably watch TV on 6 ……………… Jim works in a 7 …………………… twice a week. Peter will share the cost of 8 ………….. with Jim. Peter wants Jim to move in by 9 ………………… Jim agrees to m",
+      "promptContext": ". Jim will bring a",
       "answerRaw": "heater",
       "canonicalAnswer": "heater",
       "acceptedAnswers": [
@@ -128,8 +128,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "But it does get quite cold at night in that room and it doesn't have a heater. No problem.",
-      "evidenceStartTime": 223.0,
-      "evidenceEndTime": 227.44,
+      "evidenceStartTime": 226.06,
+      "evidenceEndTime": 231.22,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -140,16 +140,16 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "a 4 ……………. for his bedroom. Peter would like Jim to bring a 5 ……………….. Peter and Jim will probably watch TV on 6 ……………… Jim works in a 7 …………………… twice a week. Peter will share the cost of 8 ………….. with Jim. Peter wants Jim to move in by 9 ………………… Jim agrees to move in after his 10 …………………",
+      "promptContext": ". for his bedroom. Peter would like Jim to bring a",
       "answerRaw": "toaster",
       "canonicalAnswer": "toaster",
       "acceptedAnswers": [
         "toaster"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Well, we've just got a microwave and my mother bought me a rice cooker, but it would be great if you had a toaster.",
-      "evidenceStartTime": 236.43,
-      "evidenceEndTime": 242.93,
+      "evidenceQuote": "Well, we've just got a microwave and my mother bought me a rice cooker, but it would be great if you had a toaster. Mine's just broken.",
+      "evidenceStartTime": 239.88,
+      "evidenceEndTime": 247.62,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -159,16 +159,16 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "o bring a 5 ……………….. Peter and Jim will probably watch TV on 6 ……………… Jim works in a 7 …………………… twice a week. Peter will share the cost of 8 ………….. with Jim. Peter wants Jim to move in by 9 ………………… Jim agrees to move in after his 10 …………………",
+      "promptContext": ".. Peter and Jim will probably watch TV on",
       "answerRaw": "Friday evening",
       "canonicalAnswer": "Friday evening",
       "acceptedAnswers": [
         "Friday evening"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I'm a keen sports fan and I usually watch the game on TV on Friday evening.",
-      "evidenceStartTime": 270.93,
-      "evidenceEndTime": 281.56,
+      "evidenceQuote": "I'm a keen sports fan and I usually watch the game on TV on Friday evening. Would that be OK? Me too, so that's good.",
+      "evidenceStartTime": 287.38,
+      "evidenceEndTime": 294.36,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"Friday evening\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -176,16 +176,16 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "er and Jim will probably watch TV on 6 ……………… Jim works in a 7 …………………… twice a week. Peter will share the cost of 8 ………….. with Jim. Peter wants Jim to move in by 9 ………………… Jim agrees to move in after his 10 …………………",
+      "promptContext": "Jim works in a",
       "answerRaw": "supermarket",
       "canonicalAnswer": "supermarket",
       "acceptedAnswers": [
         "supermarket"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And I work at the supermarket on Tuesday and Thursday nights.",
-      "evidenceStartTime": 287.37,
-      "evidenceEndTime": 296.0,
+      "evidenceQuote": "And I work at the supermarket on Tuesday and Thursday nights. Great. You can do the shopping then.",
+      "evidenceStartTime": 294.5,
+      "evidenceEndTime": 301.56,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"supermarket\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -193,16 +193,16 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "s in a 7 …………………… twice a week. Peter will share the cost of 8 ………….. with Jim. Peter wants Jim to move in by 9 ………………… Jim agrees to move in after his 10 …………………",
+      "promptContext": "twice a week. Peter will share the cost of",
       "answerRaw": "petrol",
       "canonicalAnswer": "petrol",
       "acceptedAnswers": [
         "petrol"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Mine are in the afternoons too. You could give me a lift. We can share the petrol.",
-      "evidenceStartTime": 302.58,
-      "evidenceEndTime": 307.0,
+      "evidenceQuote": "We can share the petrol. Good idea. When do you think I could move in?",
+      "evidenceStartTime": 309.56,
+      "evidenceEndTime": 314.14,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"petrol\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -210,7 +210,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "the cost of 8 ………….. with Jim. Peter wants Jim to move in by 9 ………………… Jim agrees to move in after his 10 …………………",
+      "promptContext": ".. with Jim. Peter wants Jim to move in by",
       "answerRaw": "1st of June,1st June,1 June,June 1st ,June 1",
       "canonicalAnswer": "1st of June",
       "acceptedAnswers": [
@@ -221,9 +221,9 @@
         "June 1"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Well, if you're interested and the rent is OK, I need someone by the 1st of June when the new rent period starts.",
-      "evidenceStartTime": 310.83,
-      "evidenceEndTime": 317.94,
+      "evidenceQuote": "Well, if you're interested and the rent is OK, I need someone by the 1st of June when the new rent period starts. Yes, that should be fine.",
+      "evidenceStartTime": 314.48,
+      "evidenceEndTime": 323.32,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"1st of June\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -231,16 +231,16 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "Jim to move in by 9 ………………… Jim agrees to move in after his 10 …………………",
+      "promptContext": "Jim agrees to move in after his",
       "answerRaw": "exam",
       "canonicalAnswer": "exam",
       "acceptedAnswers": [
         "exam"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I've got an exam next week, so I'll move in after that if that's OK.",
-      "evidenceStartTime": 322.72,
-      "evidenceEndTime": 327.0,
+      "evidenceQuote": "I've got an exam next week, so I'll move in after that if that's OK. Yeah, that sounds fine.",
+      "evidenceStartTime": 326.62,
+      "evidenceEndTime": 331.88,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"exam\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -248,7 +248,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "h answer. Spring Down Junior School The school day starts at 11 ………………. with registration, and finishes at 4 p.m. The school canteen offers a 12 …………….. for lunch. The morning and afternoon breaks each last for 13 …………….. . On Thursday afternoons all children must take part in 14 …………………… . Every term the children do a",
+      "promptContext": "The school day starts at",
       "answerRaw": "8:55,8.55,8:55 a.m.,8.55 a.m.",
       "canonicalAnswer": "8:55",
       "acceptedAnswers": [
@@ -258,19 +258,19 @@
         "8.55 a.m."
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Children are expected to arrive at school between 8.45 and 8.50 and the bell is rung for everybody to go to their classrooms at 8.55 so that we can take the register.",
-      "evidenceStartTime": 455.53,
-      "evidenceEndTime": 469.0,
+      "evidenceQuote": "and the bell is rung for everybody to go to their classrooms at 8.55 so that we can take the register.",
+      "evidenceStartTime": 464.86,
+      "evidenceEndTime": 473.0,
       "paraphrases": [],
       "distractors": [
-        "Có số gây nhiễu (8.45, 8.50) xuất hiện sát đáp án chuẩn '8:55'."
+        "Có số gây nhiễu (8.55) xuất hiện sát đáp án chuẩn '8:55'."
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"8:55\". Lưu ý bẫy gây nhiễu (distractor): Có số gây nhiễu (8.45, 8.50) xuất hiện sát đáp án chuẩn '8:55'.."
+      "explanationVi": "Đáp án chuẩn cần điền là \"8:55\". Lưu ý bẫy gây nhiễu (distractor): Có số gây nhiễu (8.55) xuất hiện sát đáp án chuẩn '8:55'.."
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "stration, and finishes at 4 p.m. The school canteen offers a 12 …………….. for lunch. The morning and afternoon breaks each last for 13 …………….. . On Thursday afternoons all children must take part in 14 …………………… . Every term the children do a special 15 ……………………… . The children are given tests each 16 ………………………… . The chil",
+      "promptContext": ". with registration, and finishes at 4 p.m. The school canteen offers a",
       "answerRaw": "hot meal",
       "canonicalAnswer": "hot meal",
       "acceptedAnswers": [
@@ -278,30 +278,25 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Lunch is served in the canteen and children can bring their own packed lunch or a hot meal is available.",
-      "evidenceStartTime": 490.0,
-      "evidenceEndTime": 498.45,
-      "paraphrases": [
-        {
-          "questionTerm": "take",
-          "audioTerm": "bring"
-        }
-      ],
+      "evidenceStartTime": 493.42,
+      "evidenceEndTime": 501.68,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"hot meal\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'take' ↔ 'bring'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"hot meal\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": ". for lunch. The morning and afternoon breaks each last for 13 …………….. . On Thursday afternoons all children must take part in 14 …………………… . Every term the children do a special 15 ……………………… . The children are given tests each 16 ………………………… . The children can go to 17 ……………………. after school to learn new skills such as m",
+      "promptContext": ".. for lunch. The morning and afternoon breaks each last for",
       "answerRaw": "15 minutes",
       "canonicalAnswer": "15 minutes",
       "acceptedAnswers": [
         "15 minutes"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "there are two breaks of 15 minutes when the children also generally go outside, unless it's wet.",
-      "evidenceStartTime": 508.2,
-      "evidenceEndTime": 516.0,
+      "evidenceQuote": "In the middle of the morning and the middle of the afternoon, there are two breaks of 15 minutes when the children also generally go outside, unless it's wet.",
+      "evidenceStartTime": 507.6,
+      "evidenceEndTime": 519.52,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"15 minutes\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -317,8 +312,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "For example, on Thursday afternoons, rather than continuing with lessons, we expect the whole school to do sports.",
-      "evidenceStartTime": 524.99,
-      "evidenceEndTime": 533.59,
+      "evidenceStartTime": 528.3,
+      "evidenceEndTime": 536.74,
       "paraphrases": [],
       "distractors": [
         "loại trừ phương án đối chiếu ('rather than')"
@@ -328,7 +323,7 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "e part in 14 …………………… . Every term the children do a special 15 ……………………… . The children are given tests each 16 ………………………… . The children can go to 17 ……………………. after school to learn new skills such as music. Questions 18–20 Label the plan below. Choose THREE correct answers, A-G, next to questions 18-20. 18 …………. 19 ……",
+      "promptContext": ". Every term the children do a special",
       "answerRaw": "poster",
       "canonicalAnswer": "poster",
       "acceptedAnswers": [
@@ -336,8 +331,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "So, for each of the three terms, they are expected to produce a poster.",
-      "evidenceStartTime": 546.84,
-      "evidenceEndTime": 551.77,
+      "evidenceStartTime": 550.74,
+      "evidenceEndTime": 556.24,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"poster\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -345,33 +340,35 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "o a special 15 ……………………… . The children are given tests each 16 ………………………… . The children can go to 17 ……………………. after school to learn new skills such as music. Questions 18–20 Label the plan below. Choose THREE correct answers, A-G, next to questions 18-20. 18 …………. 19 …………. 20 ………… A music room B assembly hall C com",
+      "promptContext": ". The children are given tests each",
       "answerRaw": "month",
       "canonicalAnswer": "month",
       "acceptedAnswers": [
         "month"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "We also make sure we keep a close eye on how each child is doing in their schoolwork and every month,",
-      "evidenceStartTime": 560.0,
-      "evidenceEndTime": 567.66,
+      "evidenceQuote": "and every month, rather than the teacher giving the children a report, as I know some schools do,",
+      "evidenceStartTime": 569.6,
+      "evidenceEndTime": 576.06,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"month\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "loại trừ phương án đối chiếu ('rather than')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"month\". Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
     },
     {
       "number": 17,
       "part": 2,
-      "promptContext": "are given tests each 16 ………………………… . The children can go to 17 ……………………. after school to learn new skills such as music. Questions 18–20 Label the plan below. Choose THREE correct answers, A-G, next to questions 18-20. 18 …………. 19 …………. 20 ………… A music room B assembly hall C computer room D cloakroom E Head's office",
+      "promptContext": ". The children can go to",
       "answerRaw": "clubs",
       "canonicalAnswer": "clubs",
       "acceptedAnswers": [
         "clubs"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "many of them have set up clubs that the children go to for an extra hour to learn a new skill, such as music.",
-      "evidenceStartTime": 590.73,
-      "evidenceEndTime": 599.0,
+      "evidenceQuote": "clubs that the children go to for an extra hour to learn a new skill, such as music.",
+      "evidenceStartTime": 596.04,
+      "evidenceEndTime": 603.16,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"clubs\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -389,8 +386,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "We're here at the main entrance and on the right, where you would normally expect to find reception, you'll see the Head's office.",
-      "evidenceStartTime": 634.05,
-      "evidenceEndTime": 656.0,
+      "evidenceStartTime": 649.9,
+      "evidenceEndTime": 660.14,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án E Head's office. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -398,7 +395,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": "HREE correct answers, A-G, next to questions 18-20. 18 …………. 19 …………. 20 ………… A music room B assembly hall C computer room D cloakroom E Head's office G gym H reception",
+      "promptContext": ".",
       "answerRaw": "A music room",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -408,8 +405,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "On the left of the classrooms, we have converted one of the old cloakrooms to create a music room and children can go in there at lunchtime if they want to.",
-      "evidenceStartTime": 686.0,
-      "evidenceEndTime": 698.95,
+      "evidenceStartTime": 689.64,
+      "evidenceEndTime": 700.62,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án A music room. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -417,7 +414,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "ect answers, A-G, next to questions 18-20. 18 …………. 19 …………. 20 ………… A music room B assembly hall C computer room D cloakroom E Head's office G gym H reception",
+      "promptContext": "………… A music room B assembly hall C computer room D cloakroom E Head's office G gym H reception",
       "answerRaw": "G gym",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -426,9 +423,9 @@
         "gym"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "has now been turned into a gym for the children and we have weekly lessons here.",
-      "evidenceStartTime": 719.37,
-      "evidenceEndTime": 726.0,
+      "evidenceQuote": "now been turned into a gym for the children and we have weekly lessons here.",
+      "evidenceStartTime": 724.04,
+      "evidenceEndTime": 729.94,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án G gym. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -436,86 +433,84 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "stions 21–24 Choose the correct answer. Forensic Linguistics 21 What do the students agree about defining forensic linguistics? A The dictionary definition was not very useful. B They could provide an example of the kind of work involved. C They should read about the subject to see how it is described. 22 Jen thinks it wi",
+      "promptContext": "What do the students agree about defining forensic linguistics? A The dictionary definition was not very useful. B They could provide an example of the kind of work involved. C They should read about the subject to see how it is described.",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Now turn to Section 3 on page 5. Section 3 You will hear two students called Jen and Rob discussing a project they are about to start working on.",
-      "evidenceStartTime": 787.0,
-      "evidenceEndTime": 788.0,
+      "evidenceQuote": "I thought we could say something like Forensic Linguistics involves the analysis of language and forensic refers to using scientific techniques to solve crimes.",
+      "evidenceStartTime": 847.2,
+      "evidenceEndTime": 857.66,
+      "paraphrases": [],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "Jen thinks it will be difficult to analyse the voice recording because A it is not of good quality. B the accent is difficult to understand. C she doesn't know if the speaker is male or female.",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Then we can add something about what Forensic Linguists actually do to back it up. You know, like analysing documents to find out who wrote them. Good point. Let's do that.",
+      "evidenceStartTime": 873.1,
+      "evidenceEndTime": 884.12,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "Why does Jen think that the 'suspect' might vary their voice patterns? A because they're being recorded. B because they've been told to. C because they feel uncomfortable about their accent.",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We've been given a voice recording of a possible suspect.",
+      "evidenceStartTime": 891.1,
+      "evidenceEndTime": 893.92,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
-      "number": 22,
-      "part": 3,
-      "promptContext": "ey should read about the subject to see how it is described. 22 Jen thinks it will be difficult to analyse the voice recording because A it is not of good quality. B the accent is difficult to understand. C she doesn't know if the speaker is male or female. 23 Why does Jen think that the 'suspect' might vary their voice p",
-      "answerRaw": "A",
-      "canonicalAnswer": "A",
-      "acceptedAnswers": [
-        "A"
-      ],
-      "sharedGroup": null,
-      "evidenceQuote": "So we've got to listen to the recording and analyse their voice. Should be OK?",
-      "evidenceStartTime": 893.0,
-      "evidenceEndTime": 897.63,
-      "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
-    },
-    {
-      "number": 23,
-      "part": 3,
-      "promptContext": "rstand. C she doesn't know if the speaker is male or female. 23 Why does Jen think that the 'suspect' might vary their voice patterns? A because they're being recorded. B because they've been told to. C because they feel uncomfortable about their accent. 24 What does Rob think about Jen's approach to study? A She worries",
-      "answerRaw": "B",
-      "canonicalAnswer": "B",
-      "acceptedAnswers": [
-        "B"
-      ],
-      "sharedGroup": null,
-      "evidenceQuote": "Yes. It's not an exact science but it's usually pretty accurate. You can often tell, even when they've got a cold, it's the same person but they might do something like speaking with another accent because the tutor suggests they do that just to test us.",
-      "evidenceStartTime": 941.61,
-      "evidenceEndTime": 956.67,
-      "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
-        "câu phủ định ('not') loại trừ phương án bẫy"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
-    },
-    {
       "number": 24,
       "part": 3,
-      "promptContext": "ld to. C because they feel uncomfortable about their accent. 24 What does Rob think about Jen's approach to study? A She worries too much about her ability. B She often ignores the most important issues. C She has trouble getting started. Questions 25–26 Choose TWO correct answers. 25-26 Which TWO books do Jen and Rob dec",
+      "promptContext": "What does Rob think about Jen's approach to study? A She worries too much about her ability. B She often ignores the most important issues. C She has trouble getting started. Questions 25–26 Choose TWO correct answers.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Yes. It's not an exact science but it's usually pretty accurate. You can often tell, even when they've got a cold, it's the same person but they might do something like speaking with another accent because the tutor suggests they do that just to test us.",
-      "evidenceStartTime": 941.61,
-      "evidenceEndTime": 956.67,
+      "evidenceQuote": "My problem is creating things to worry about before I've even started.",
+      "evidenceStartTime": 974.7,
+      "evidenceEndTime": 978.72,
       "paraphrases": [
         {
-          "questionTerm": "correct",
-          "audioTerm": "accurate"
+          "questionTerm": "trouble",
+          "audioTerm": "problem"
         }
       ],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
-        "câu phủ định ('not') loại trừ phương án bẫy"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'correct' ↔ 'accurate'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'trouble' ↔ 'problem'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "getting started. Questions 25–26 Choose TWO correct answers. 25-26 Which TWO books do Jen and Rob decide to get from the library? A Voice Identification B Modern Forensic Techniques C Language and Crime D Forensics Today E Research Methods in Forensic Linguistics Questions 27–28 Choose TWO correct answers. 27-28 Which TWO pr",
+      "promptContext": "Which TWO books do Jen and Rob decide to get from the library? A Voice Identification B Modern Forensic Techniques C Language and Crime D Forensics Today E Research Methods in Forensic Linguistics Questions 27–28 Choose TWO correct answers.",
       "answerRaw": "B, E",
       "canonicalAnswer": "B, E",
       "acceptedAnswers": [
@@ -533,19 +528,19 @@
           "E"
         ]
       },
-      "evidenceQuote": "I've already looked at forensics today and it didn't say much about voice identification so we needn't bother with that one.",
-      "evidenceStartTime": 1030.16,
-      "evidenceEndTime": 1036.97,
+      "evidenceQuote": "But we should get out modern forensic techniques. We need all the help we can get on that subject. OK. That's that sorted out.",
+      "evidenceStartTime": 1062.1,
+      "evidenceEndTime": 1069.72,
       "paraphrases": [],
       "distractors": [
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Which TWO books do Jen and Rob decide to get from the library? A Voice Identification B Modern Forensic Techniques C Language and Crime D Forensics Today E Research Methods in Forensic Linguistics Questions 27–28 Choose TWO correct answers.",
       "answerRaw": "B, E",
       "canonicalAnswer": "B, E",
       "acceptedAnswers": [
@@ -563,19 +558,19 @@
           "E"
         ]
       },
-      "evidenceQuote": "I've already looked at forensics today and it didn't say much about voice identification so we needn't bother with that one.",
-      "evidenceStartTime": 1030.16,
-      "evidenceEndTime": 1036.97,
+      "evidenceQuote": "But we should get out modern forensic techniques. We need all the help we can get on that subject. OK. That's that sorted out.",
+      "evidenceStartTime": 1062.1,
+      "evidenceEndTime": 1069.72,
       "paraphrases": [],
       "distractors": [
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "nsic Linguistics Questions 27–28 Choose TWO correct answers. 27-28 Which TWO practical considerations are both Jen and Rob concerned about? A how much time they have for writing up the project B being able to do enough research C only speaking to the 'suspect' once D using recording equipment E how easy it will be to contact",
+      "promptContext": "Which TWO practical considerations are both Jen and Rob concerned about? A how much time they have for writing up the project B being able to do enough research C only speaking to the 'suspect' once D using recording equipment E how easy it will be to contact the 'suspect' Questions 29–30 Choose TWO correct answers.",
       "answerRaw": "A, D",
       "canonicalAnswer": "A, D",
       "acceptedAnswers": [
@@ -593,22 +588,17 @@
           "D"
         ]
       },
-      "evidenceQuote": "Research methods in forensic linguistics. I guess we ought to borrow that.",
-      "evidenceStartTime": 1046.0,
-      "evidenceEndTime": 1050.93,
-      "paraphrases": [
-        {
-          "questionTerm": "project",
-          "audioTerm": "research"
-        }
-      ],
+      "evidenceQuote": "Now, Rob, let's decide how we're going to split the writing between us.",
+      "evidenceStartTime": 1103.82,
+      "evidenceEndTime": 1107.94,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'project' ↔ 'research'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Which TWO practical considerations are both Jen and Rob concerned about? A how much time they have for writing up the project B being able to do enough research C only speaking to the 'suspect' once D using recording equipment E how easy it will be to contact the 'suspect' Questions 29–30 Choose TWO correct answers.",
       "answerRaw": "A, D",
       "canonicalAnswer": "A, D",
       "acceptedAnswers": [
@@ -626,9 +616,9 @@
           "D"
         ]
       },
-      "evidenceQuote": "Me neither. We'd better work out what we're doing. At least we get more than one opportunity to speak to the person playing the suspect.",
-      "evidenceStartTime": 1075.0,
-      "evidenceEndTime": 1082.0,
+      "evidenceQuote": "Now, Rob, let's decide how we're going to split the writing between us.",
+      "evidenceStartTime": 1103.82,
+      "evidenceEndTime": 1107.94,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -636,7 +626,7 @@
     {
       "number": 29,
       "part": 3,
-      "promptContext": "ct the 'suspect' Questions 29–30 Choose TWO correct answers. 29-30 Which TWO sections of the project will Rob write alone? A Methodology B Literature review C Introduction D Analysis E Discussion and conclusions",
+      "promptContext": "Which TWO sections of the project will Rob write alone? A Methodology B Literature review C Introduction D Analysis E Discussion and conclusions",
       "answerRaw": "C, E",
       "canonicalAnswer": "C, E",
       "acceptedAnswers": [
@@ -654,9 +644,9 @@
           "E"
         ]
       },
-      "evidenceQuote": "I don't mind writing the methodology section if you feel comfortable doing the discussion and conclusions.",
-      "evidenceStartTime": 1114.13,
-      "evidenceEndTime": 1120.0,
+      "evidenceQuote": "I don't mind writing the methodology section if you feel comfortable doing the discussion and conclusions. OK.",
+      "evidenceStartTime": 1118.52,
+      "evidenceEndTime": 1124.84,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -666,7 +656,7 @@
     {
       "number": 30,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Which TWO sections of the project will Rob write alone? A Methodology B Literature review C Introduction D Analysis E Discussion and conclusions",
       "answerRaw": "C, E",
       "canonicalAnswer": "C, E",
       "acceptedAnswers": [
@@ -684,9 +674,9 @@
           "E"
         ]
       },
-      "evidenceQuote": "I don't mind writing the methodology section if you feel comfortable doing the discussion and conclusions.",
-      "evidenceStartTime": 1114.13,
-      "evidenceEndTime": 1120.0,
+      "evidenceQuote": "I don't mind writing the methodology section if you feel comfortable doing the discussion and conclusions. OK.",
+      "evidenceStartTime": 1118.52,
+      "evidenceEndTime": 1124.84,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -696,16 +686,16 @@
     {
       "number": 31,
       "part": 4,
-      "promptContext": "ter a state of dormancy, or inactivity, to: • save available 31 …………….. • reduce demands on their environment Value of dormancy Organisms which become dormant: • can live in conditions which are environmentally 32 …………… • can live in a wider range of places • have less 33 ………….. from other animals Causes of dormancy • cha",
+      "promptContext": "• save available",
       "answerRaw": "resources",
       "canonicalAnswer": "resources",
       "acceptedAnswers": [
         "resources"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Dormancy is a state of inactivity that organisms or living things enter when they need to conserve the resources available to them and reduce their demands on their environment.",
-      "evidenceStartTime": 1264.34,
-      "evidenceEndTime": 1278.04,
+      "evidenceQuote": "when they need to conserve the resources available to them and reduce their demands on their environment.",
+      "evidenceStartTime": 1274.56,
+      "evidenceEndTime": 1282.02,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"resources\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -713,7 +703,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "dormant: • can live in conditions which are environmentally 32 …………… • can live in a wider range of places • have less 33 ………….. from other animals Causes of dormancy • changes in temperature and 34 …………….. • availability of food, water, oxygen Dormancy in insects • There may be a 35 …………….. in their metabolism (diapa",
+      "promptContext": ".. • reduce demands on their environment Value of dormancy Organisms which become dormant: • can live in conditions which are environmentally",
       "answerRaw": "stressful",
       "canonicalAnswer": "stressful",
       "acceptedAnswers": [
@@ -721,8 +711,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "To start with, animals that have the ability to become dormant can survive conditions which are stressful in environmental terms.",
-      "evidenceStartTime": 1288.46,
-      "evidenceEndTime": 1298.09,
+      "evidenceStartTime": 1292.24,
+      "evidenceEndTime": 1301.52,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"stressful\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -730,7 +720,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "y 32 …………… • can live in a wider range of places • have less 33 ………….. from other animals Causes of dormancy • changes in temperature and 34 …………….. • availability of food, water, oxygen Dormancy in insects • There may be a 35 …………….. in their metabolism (diapause) • Diapause occurs during extreme conditions, or as par",
+      "promptContext": "• can live in a wider range of places • have less",
       "answerRaw": "competition",
       "canonicalAnswer": "competition",
       "acceptedAnswers": [
@@ -738,8 +728,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "And because of this, because they can live in places where other animals can't survive, when they are actually active and looking for food, the amount of competition they have to deal with from other creatures is greatly reduced.",
-      "evidenceStartTime": 1325.0,
-      "evidenceEndTime": 1342.03,
+      "evidenceStartTime": 1328.68,
+      "evidenceEndTime": 1344.1,
       "paraphrases": [],
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')",
@@ -750,7 +740,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "ther animals Causes of dormancy • changes in temperature and 34 …………….. • availability of food, water, oxygen Dormancy in insects • There may be a 35 …………….. in their metabolism (diapause) • Diapause occurs during extreme conditions, or as part of the life cycle The African lungfish • It buries itself in the 36 …………….",
+      "promptContext": ".. from other animals Causes of dormancy • changes in temperature and",
       "answerRaw": "light",
       "canonicalAnswer": "light",
       "acceptedAnswers": [
@@ -758,8 +748,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "There are a number of variables, but the ones that are the most significant are changes in temperature and the amount of light organisms get.",
-      "evidenceStartTime": 1345.47,
-      "evidenceEndTime": 1356.0,
+      "evidenceStartTime": 1348.98,
+      "evidenceEndTime": 1359.3,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -769,7 +759,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "of food, water, oxygen Dormancy in insects • There may be a 35 …………….. in their metabolism (diapause) • Diapause occurs during extreme conditions, or as part of the life cycle The African lungfish • It buries itself in the 36 ……………. and creates a slimy cocoon • Two dangers: 37 …………… and desiccation Snails • Some clo",
+      "promptContext": ".. • availability of food, water, oxygen Dormancy in insects • There may be a",
       "answerRaw": "reduction",
       "canonicalAnswer": "reduction",
       "acceptedAnswers": [
@@ -777,8 +767,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Insects can experience a reduction in their metabolism, which is a form of dormancy called diapause.",
-      "evidenceStartTime": 1375.0,
-      "evidenceEndTime": 1383.06,
+      "evidenceStartTime": 1378.34,
+      "evidenceEndTime": 1385.94,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"reduction\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -786,7 +776,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "he life cycle The African lungfish • It buries itself in the 36 ……………. and creates a slimy cocoon • Two dangers: 37 …………… and desiccation Snails • Some close their shells with a membrane during dormancy • Light-coloured shells reflect sunlight and limit 38 ……………. Hibernation • Only warm-blooded animals hibernate The Ar",
+      "promptContext": ".. in their metabolism (diapause) • Diapause occurs during extreme conditions, or as part of the life cycle The African lungfish • It buries itself in the",
       "answerRaw": "mud",
       "canonicalAnswer": "mud",
       "acceptedAnswers": [
@@ -794,8 +784,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "When the water supply is low, the African lungfish burrows deep into the mud.",
-      "evidenceStartTime": 1426.0,
-      "evidenceEndTime": 1432.53,
+      "evidenceStartTime": 1429.18,
+      "evidenceEndTime": 1435.42,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"mud\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -803,7 +793,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "in the 36 ……………. and creates a slimy cocoon • Two dangers: 37 …………… and desiccation Snails • Some close their shells with a membrane during dormancy • Light-coloured shells reflect sunlight and limit 38 ……………. Hibernation • Only warm-blooded animals hibernate The Arctic ground squirrel • It hibernates in an insulated,",
+      "promptContext": ". and creates a slimy cocoon • Two dangers:",
       "answerRaw": "starvation",
       "canonicalAnswer": "starvation",
       "acceptedAnswers": [
@@ -811,8 +801,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "One is the possibility of starvation, and to overcome this, it relies on fat it has stored up in its body.",
-      "evidenceStartTime": 1442.0,
-      "evidenceEndTime": 1450.45,
+      "evidenceStartTime": 1444.96,
+      "evidenceEndTime": 1453.94,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"starvation\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -820,16 +810,16 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "dormancy • Light-coloured shells reflect sunlight and limit 38 ……………. Hibernation • Only warm-blooded animals hibernate The Arctic ground squirrel • It hibernates in an insulated, underground 39 ……………… • It loses 40% of its weight during hibernation • When it wakes up, the first part of the body to heat up is the 40 ………",
+      "promptContext": "and desiccation Snails • Some close their shells with a membrane during dormancy • Light-coloured shells reflect sunlight and limit",
       "answerRaw": "evaporation",
       "canonicalAnswer": "evaporation",
       "acceptedAnswers": [
         "evaporation"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Snails that remain outside during their dormancy can usually be recognised by a rather brightly coloured shell reflecting the sunlight and so minimising evaporation.",
-      "evidenceStartTime": 1477.0,
-      "evidenceEndTime": 1490.9,
+      "evidenceQuote": "coloured shell reflecting the sunlight and so minimising evaporation.",
+      "evidenceStartTime": 1486.78,
+      "evidenceEndTime": 1492.84,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"evaporation\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -837,7 +827,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "round squirrel • It hibernates in an insulated, underground 39 ……………… • It loses 40% of its weight during hibernation • When it wakes up, the first part of the body to heat up is the 40 ……………..",
+      "promptContext": ". Hibernation • Only warm-blooded animals hibernate The Arctic ground squirrel • It hibernates in an insulated, underground",
       "answerRaw": "nest",
       "canonicalAnswer": "nest",
       "acceptedAnswers": [
@@ -845,8 +835,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "This squirrel digs underground and builds a nest that is insulated.",
-      "evidenceStartTime": 1537.0,
-      "evidenceEndTime": 1542.88,
+      "evidenceStartTime": 1541.06,
+      "evidenceEndTime": 1546.6,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"nest\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -854,7 +844,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "en it wakes up, the first part of the body to heat up is the 40 ……………..",
+      "promptContext": "• It loses 40% of its weight during hibernation • When it wakes up, the first part of the body to heat up is the",
       "answerRaw": "heart",
       "canonicalAnswer": "heart",
       "acceptedAnswers": [
@@ -862,8 +852,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The area around the heart warms more quickly than the rest of the animal.",
-      "evidenceStartTime": 1582.01,
-      "evidenceEndTime": 1587.11,
+      "evidenceStartTime": 1585.16,
+      "evidenceEndTime": 1590.7,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"heart\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -873,2043 +863,1728 @@
     {
       "id": "seg-001",
       "part": 1,
-      "startTime": 0.0,
-      "endTime": 7.53,
-      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+      "startTime": 96.84,
+      "endTime": 104.48,
+      "text": "Hi, I'm Jim. I'm here about the room. Hi, I'm Peter. We talked on the phone, didn't we? Come on in. Great.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-002",
       "part": 1,
-      "startTime": 7.53,
-      "endTime": 15.79,
-      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "startTime": 104.66,
+      "endTime": 107.8,
+      "text": "I just need to find out a few things before I make up my mind.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-003",
       "part": 1,
-      "startTime": 15.79,
-      "endTime": 19.0,
-      "text": "All the recordings will be played once only.",
+      "startTime": 111.56,
+      "endTime": 117.11,
+      "text": "Jim is here to find out about a room, so room has been written in the space.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-004",
       "part": 1,
-      "startTime": 20.0,
-      "endTime": 26.58,
-      "text": "The test is in four sections. Write all your answers in the Listening Question Booklet.",
+      "startTime": 118.96,
+      "endTime": 120.58,
+      "text": "Now we shall begin.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-005",
       "part": 1,
-      "startTime": 26.58,
-      "endTime": 34.0,
-      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet.",
+      "startTime": 120.78,
+      "endTime": 127.36,
+      "text": "You should answer the questions as you listen because you will not hear the recording a second time.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-006",
       "part": 1,
-      "startTime": 37.0,
-      "endTime": 44.81,
-      "text": "Now turn to section one on page two of your question booklet. Section one.",
+      "startTime": 135.16,
+      "endTime": 142.72,
+      "text": "Hi, I'm Jim. I'm here about the room. Hi, I'm Peter. We talked on the phone, didn't we? Come on in. Great.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-007",
       "part": 1,
-      "startTime": 44.81,
-      "endTime": 54.0,
-      "text": "You will hear two students called Peter and Jim talking about sharing a house together.",
+      "startTime": 143.0,
+      "endTime": 147.06,
+      "text": "I just need to find out a few things before I make up my mind. Okay.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-008",
       "part": 1,
-      "startTime": 55.0,
-      "endTime": 66.61,
-      "text": "First, you have some time to look at questions one to five on page two.",
+      "startTime": 147.3,
+      "endTime": 150.36,
+      "text": "Well, first of all, I wasn't quite clear about the rent.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-009",
       "part": 1,
-      "startTime": 66.61,
-      "endTime": 77.24,
-      "text": "You will see that there is an example that has been done for you.",
+      "startTime": 150.76,
+      "endTime": 152.74,
+      "text": "It depends on the room you have.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-010",
       "part": 1,
-      "startTime": 77.24,
-      "endTime": 90.0,
-      "text": "On this occasion only, the conversation relating to this will be played first.",
+      "startTime": 153.04,
+      "endTime": 157.26,
+      "text": "I have the large bedroom, so I pay $110 a week.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-011",
       "part": 1,
-      "startTime": 94.0,
-      "endTime": 99.18,
-      "text": "Hi, I'm Jim. I'm here about the room. Hi, I'm Peter. We talked on the phone, didn't we?",
+      "startTime": 157.26,
+      "endTime": 161.46,
+      "text": "Yours is $80 because it's a bit smaller. That's not too bad.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-012",
       "part": 1,
-      "startTime": 99.18,
-      "endTime": 104.0,
-      "text": "Come on in. Great. I just need to find out a few things before I make up my mind.",
+      "startTime": 161.6,
+      "endTime": 165.22,
+      "text": "The last place I was in was $100 a week and it was much smaller.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-013",
       "part": 1,
-      "startTime": 108.0,
-      "endTime": 114.24,
-      "text": "Jim is here to find out about a room, so room has been written in the space.",
+      "startTime": 165.4,
+      "endTime": 167.38,
+      "text": "And it seems like a good location.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-014",
       "part": 1,
-      "startTime": 114.24,
-      "endTime": 115.8,
-      "text": "Now we shall begin.",
+      "startTime": 167.62,
+      "endTime": 170.1,
+      "text": "Yeah, and the shops are pretty close.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-015",
       "part": 1,
-      "startTime": 115.8,
-      "endTime": 124.0,
-      "text": "You should answer the questions as you listen because you will not hear the recording a second time.",
+      "startTime": 170.2,
+      "endTime": 173.68,
+      "text": "The only thing is it's not very good for public transport.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-016",
       "part": 1,
-      "startTime": 124.0,
-      "endTime": 131.24,
-      "text": "Listen carefully and answer questions one to five. Hi, I'm Jim.",
+      "startTime": 174.0,
+      "endTime": 178.3,
+      "text": "The nearest bus stop is quite a walk. That's not a problem. I've got a car.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-017",
       "part": 1,
-      "startTime": 131.24,
-      "endTime": 134.0,
-      "text": "I'm here about the room.",
+      "startTime": 178.88,
+      "endTime": 181.12,
+      "text": "By the way, is there anywhere I can park?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-018",
       "part": 1,
-      "startTime": 135.0,
-      "endTime": 139.25,
-      "text": "Hi, I'm Peter. We talked on the phone, didn't we? Come on in. Great.",
+      "startTime": 181.6,
+      "endTime": 184.54,
+      "text": "Well, you're lucky because this house has a garage.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-019",
       "part": 1,
-      "startTime": 139.25,
-      "endTime": 143.5,
-      "text": "I just need to find out a few things before I make up my mind. Okay.",
+      "startTime": 184.74,
+      "endTime": 189.32,
+      "text": "At the moment there are some empty boxes in there, but there's still plenty of room for your car.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-020",
       "part": 1,
-      "startTime": 143.5,
-      "endTime": 147.0,
-      "text": "Well, first of all, I wasn't quite clear about the rent.",
+      "startTime": 189.68,
+      "endTime": 196.06,
+      "text": "You can't park in the street, it's zoned no parking, and the back lane is too narrow. Fine.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-021",
       "part": 1,
-      "startTime": 147.0,
-      "endTime": 153.67,
-      "text": "It depends on the room you have. I have the large bedroom, so I pay $110 a week.",
+      "startTime": 196.72,
+      "endTime": 198.74,
+      "text": "Now, what about phone calls?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-022",
       "part": 1,
-      "startTime": 153.67,
-      "endTime": 157.0,
-      "text": "Yours is $80 because it's a bit smaller.",
+      "startTime": 198.74,
+      "endTime": 201.76,
+      "text": "I didn't see a phone in the hall when I came in.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-023",
       "part": 1,
-      "startTime": 157.0,
-      "endTime": 161.98,
-      "text": "That's not too bad. The last place I was in was $100 a week and it was much smaller.",
+      "startTime": 201.98,
+      "endTime": 208.16,
+      "text": "I've got a mobile which my friends usually call me on, but a phone in the house is useful. Yeah, it's in the kitchen.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-024",
       "part": 1,
-      "startTime": 161.98,
-      "endTime": 164.0,
-      "text": "And it seems like a good location.",
+      "startTime": 208.28,
+      "endTime": 211.68,
+      "text": "It was in the living room, but it was hard to hear over the television.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-025",
       "part": 1,
-      "startTime": 164.0,
-      "endTime": 166.52,
-      "text": "Yeah, and the shops are pretty close.",
+      "startTime": 211.94,
+      "endTime": 215.48,
+      "text": "Oh, and we pay for our own calls. That's fair enough.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-026",
       "part": 1,
-      "startTime": 166.52,
-      "endTime": 170.47,
-      "text": "The only thing is it's not very good for public transport.",
+      "startTime": 215.72,
+      "endTime": 217.38,
+      "text": "And what about my room?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-027",
       "part": 1,
-      "startTime": 170.47,
-      "endTime": 173.0,
-      "text": "The nearest bus stop is quite a walk.",
+      "startTime": 217.92,
+      "endTime": 221.78,
+      "text": "Yes, we'll go up and look in a minute. It's at the front of the house.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-028",
       "part": 1,
-      "startTime": 173.0,
-      "endTime": 177.86,
-      "text": "That's not a problem. I've got a car. By the way, is there anywhere I can park?",
+      "startTime": 221.88,
+      "endTime": 226.06,
+      "text": "It's a nice room and there's a cupboard and desk in there already.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-029",
       "part": 1,
-      "startTime": 177.86,
-      "endTime": 181.0,
-      "text": "Well, you're lucky because this house has a garage.",
+      "startTime": 226.06,
+      "endTime": 231.22,
+      "text": "But it does get quite cold at night in that room and it doesn't have a heater. No problem.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-030",
       "part": 1,
-      "startTime": 182.0,
-      "endTime": 187.83,
-      "text": "At the moment there are some empty boxes in there, but there's still plenty of room for your car.",
+      "startTime": 231.4,
+      "endTime": 233.76,
+      "text": "My friend has just given me one, so I'll bring that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-031",
       "part": 1,
-      "startTime": 187.83,
-      "endTime": 193.3,
-      "text": "You can't park in the street, it's zoned no parking, and the back lane is too narrow. Fine.",
+      "startTime": 234.0,
+      "endTime": 237.0,
+      "text": "He's gone travelling and has left me with a big box of things to mind.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-032",
       "part": 1,
-      "startTime": 193.3,
-      "endTime": 197.93,
-      "text": "Now, what about phone calls? I didn't see a phone in the hall when I came in.",
+      "startTime": 238.32,
+      "endTime": 239.5,
+      "text": "Anything else I can bring?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-033",
       "part": 1,
-      "startTime": 197.93,
-      "endTime": 203.34,
-      "text": "I've got a mobile which my friends usually call me on, but a phone in the house is useful.",
+      "startTime": 239.88,
+      "endTime": 247.62,
+      "text": "Well, we've just got a microwave and my mother bought me a rice cooker, but it would be great if you had a toaster. Mine's just broken.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-034",
       "part": 1,
-      "startTime": 203.34,
-      "endTime": 204.9,
-      "text": "Yeah, it's in the kitchen.",
+      "startTime": 247.76,
+      "endTime": 249.26,
+      "text": "I'll have a look in the box.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-035",
       "part": 1,
-      "startTime": 204.9,
-      "endTime": 209.17,
-      "text": "It was in the living room, but it was hard to hear over the television.",
+      "startTime": 286.48,
+      "endTime": 287.16,
+      "text": "One thing.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-036",
       "part": 1,
-      "startTime": 209.17,
-      "endTime": 213.8,
-      "text": "Oh, and we pay for our own calls. That's fair enough. And what about my room?",
+      "startTime": 287.38,
+      "endTime": 294.36,
+      "text": "I'm a keen sports fan and I usually watch the game on TV on Friday evening. Would that be OK? Me too, so that's good.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-037",
       "part": 1,
-      "startTime": 213.8,
-      "endTime": 218.01,
-      "text": "Yes, we'll go up and look in a minute. It's at the front of the house.",
+      "startTime": 294.5,
+      "endTime": 301.56,
+      "text": "And I work at the supermarket on Tuesday and Thursday nights. Great. You can do the shopping then.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-038",
       "part": 1,
-      "startTime": 218.01,
-      "endTime": 222.0,
-      "text": "It's a nice room and there's a cupboard and desk in there already.",
+      "startTime": 302.0,
+      "endTime": 309.46,
+      "text": "Do you have most of your lectures in the morning or afternoon? In the afternoons. Why? Mine are in the afternoons too. You could give me a lift.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-039",
       "part": 1,
-      "startTime": 223.0,
-      "endTime": 227.44,
-      "text": "But it does get quite cold at night in that room and it doesn't have a heater. No problem.",
+      "startTime": 309.56,
+      "endTime": 314.14,
+      "text": "We can share the petrol. Good idea. When do you think I could move in?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-040",
       "part": 1,
-      "startTime": 227.44,
-      "endTime": 230.0,
-      "text": "My friend has just given me one, so I'll bring that.",
+      "startTime": 314.48,
+      "endTime": 323.32,
+      "text": "Well, if you're interested and the rent is OK, I need someone by the 1st of June when the new rent period starts. Yes, that should be fine.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-041",
       "part": 1,
-      "startTime": 231.0,
-      "endTime": 234.96,
-      "text": "He's gone travelling and has left me with a big box of things to mind.",
+      "startTime": 323.48,
+      "endTime": 326.34,
+      "text": "The house seems big enough. The rent's reasonable.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-042",
       "part": 1,
-      "startTime": 234.96,
-      "endTime": 236.43,
-      "text": "Anything else I can bring?",
+      "startTime": 326.62,
+      "endTime": 331.88,
+      "text": "I've got an exam next week, so I'll move in after that if that's OK. Yeah, that sounds fine.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-043",
-      "part": 1,
-      "startTime": 236.43,
-      "endTime": 242.93,
-      "text": "Well, we've just got a microwave and my mother bought me a rice cooker, but it would be great if you had a toaster.",
+      "part": 2,
+      "startTime": 424.62,
+      "endTime": 427.6,
+      "text": "Can everybody hear me? Good.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-044",
-      "part": 1,
-      "startTime": 242.93,
-      "endTime": 244.0,
-      "text": "Mine's just broken.",
+      "part": 2,
+      "startTime": 427.82,
+      "endTime": 433.54,
+      "text": "Well, I'd like to welcome all the new parents to Springdown Junior School.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-045",
-      "part": 1,
-      "startTime": 245.0,
-      "endTime": 248.97,
-      "text": "I'll have a look in the box.",
+      "part": 2,
+      "startTime": 433.82,
+      "endTime": 438.48,
+      "text": "My name is Anne Rawson and I'm the assistant head teacher.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-046",
-      "part": 1,
-      "startTime": 248.97,
-      "endTime": 263.7,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions 6 to 10 on page 2.",
+      "part": 2,
+      "startTime": 439.24,
+      "endTime": 449.28,
+      "text": "What I'd like to do is tell you about the school day and show you round the school and perhaps you can ask me any questions you may have at the end.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-047",
-      "part": 1,
-      "startTime": 263.7,
-      "endTime": 270.93,
-      "text": "Now listen and answer questions 6 to 10. One thing.",
+      "part": 2,
+      "startTime": 450.36,
+      "endTime": 450.92,
+      "text": "Right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-048",
-      "part": 1,
-      "startTime": 270.93,
-      "endTime": 281.56,
-      "text": "I'm a keen sports fan and I usually watch the game on TV on Friday evening.",
+      "part": 2,
+      "startTime": 451.16,
+      "endTime": 458.14,
+      "text": "First of all, let me start by telling you a little bit about what happens here and what's on offer.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-049",
-      "part": 1,
-      "startTime": 281.56,
-      "endTime": 287.37,
-      "text": "Would that be OK? Me too, so that's good.",
+      "part": 2,
+      "startTime": 458.96,
+      "endTime": 464.86,
+      "text": "Children are expected to arrive at school between 8.45 and 8.50",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-050",
-      "part": 1,
-      "startTime": 287.37,
-      "endTime": 296.0,
-      "text": "And I work at the supermarket on Tuesday and Thursday nights.",
+      "part": 2,
+      "startTime": 464.86,
+      "endTime": 473.0,
+      "text": "and the bell is rung for everybody to go to their classrooms at 8.55 so that we can take the register.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-051",
-      "part": 1,
-      "startTime": 296.0,
-      "endTime": 297.94,
-      "text": "Great. You can do the shopping then.",
+      "part": 2,
+      "startTime": 473.12,
+      "endTime": 482.22,
+      "text": "We then have assembly at 9.00 when the whole school meets in the hall for the head to talk to the children.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-052",
-      "part": 1,
-      "startTime": 297.94,
-      "endTime": 302.58,
-      "text": "Do you have most of your lectures in the morning or afternoon? In the afternoons. Why?",
+      "part": 2,
+      "startTime": 482.36,
+      "endTime": 488.66,
+      "text": "He may discuss what's happened in the news or something that is important for the school.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-053",
-      "part": 1,
-      "startTime": 302.58,
-      "endTime": 307.0,
-      "text": "Mine are in the afternoons too. You could give me a lift. We can share the petrol.",
+      "part": 2,
+      "startTime": 489.22,
+      "endTime": 493.42,
+      "text": "Lessons run until 4.00pm with an hour for lunch.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-054",
-      "part": 1,
-      "startTime": 308.0,
-      "endTime": 310.83,
-      "text": "Good idea. When do you think I could move in?",
+      "part": 2,
+      "startTime": 493.42,
+      "endTime": 501.68,
+      "text": "Lunch is served in the canteen and children can bring their own packed lunch or a hot meal is available.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-055",
-      "part": 1,
-      "startTime": 310.83,
-      "endTime": 317.94,
-      "text": "Well, if you're interested and the rent is OK, I need someone by the 1st of June when the new rent period starts.",
+      "part": 2,
+      "startTime": 501.98,
+      "endTime": 506.62,
+      "text": "They also have time to play outside and get some fresh air.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-056",
-      "part": 1,
-      "startTime": 317.94,
-      "endTime": 322.72,
-      "text": "Yes, that should be fine. The house seems big enough. The rent's reasonable.",
+      "part": 2,
+      "startTime": 507.6,
+      "endTime": 519.52,
+      "text": "In the middle of the morning and the middle of the afternoon, there are two breaks of 15 minutes when the children also generally go outside, unless it's wet.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-057",
-      "part": 1,
-      "startTime": 322.72,
-      "endTime": 327.0,
-      "text": "I've got an exam next week, so I'll move in after that if that's OK.",
+      "part": 2,
+      "startTime": 520.66,
+      "endTime": 528.04,
+      "text": "Now, we encourage the children to do as much as they can and we offer them several ways of achieving this.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-058",
-      "part": 1,
-      "startTime": 327.0,
-      "endTime": 339.07,
-      "text": "Yeah, that sounds fine.",
+      "part": 2,
+      "startTime": 528.3,
+      "endTime": 536.74,
+      "text": "For example, on Thursday afternoons, rather than continuing with lessons, we expect the whole school to do sports.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-059",
-      "part": 1,
-      "startTime": 339.07,
-      "endTime": 354.29,
-      "text": "That is the end of section 1.",
+      "part": 2,
+      "startTime": 537.28,
+      "endTime": 543.62,
+      "text": "We vary these between summer and winter and everything is supervised by the teachers.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-060",
-      "part": 1,
-      "startTime": 354.29,
-      "endTime": 380.0,
-      "text": "You now have half a minute to check your answers.",
+      "part": 2,
+      "startTime": 544.58,
+      "endTime": 550.46,
+      "text": "Also, we like the children to work on something artistic over a long period of time.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-061",
       "part": 2,
-      "startTime": 380.0,
-      "endTime": 381.0,
-      "text": "Now turn to section 2 on page 3. Section 2 You will hear a teacher giving a talk about a junior school to a group of parents.",
+      "startTime": 550.74,
+      "endTime": 556.24,
+      "text": "So, for each of the three terms, they are expected to produce a poster.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-062",
       "part": 2,
-      "startTime": 381.0,
-      "endTime": 400.01,
-      "text": "First you have some time to look at questions 11 to 17 on page 3.",
+      "startTime": 556.66,
+      "endTime": 563.42,
+      "text": "This will normally be on something particular that they have studied that term, such as the environment.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-063",
       "part": 2,
-      "startTime": 400.01,
-      "endTime": 414.93,
-      "text": "Now listen carefully and answer questions 11 to 17.",
+      "startTime": 563.88,
+      "endTime": 569.05,
+      "text": "We also make sure we keep a close eye on how each child is doing in their schoolwork",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-064",
       "part": 2,
-      "startTime": 414.93,
-      "endTime": 422.54,
-      "text": "OK. Can everybody hear me?",
+      "startTime": 569.6,
+      "endTime": 576.06,
+      "text": "and every month, rather than the teacher giving the children a report, as I know some schools do,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-065",
       "part": 2,
-      "startTime": 422.54,
-      "endTime": 424.0,
-      "text": "Good.",
+      "startTime": 576.48,
+      "endTime": 582.52,
+      "text": "they have to do tests and we record their performance over the year.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-066",
       "part": 2,
-      "startTime": 425.0,
-      "endTime": 430.29,
-      "text": "Well, I'd like to welcome all the new parents to Springdown Junior School.",
+      "startTime": 582.94,
+      "endTime": 588.9,
+      "text": "We are very proud of our school and of the very good results we achieve.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-067",
       "part": 2,
-      "startTime": 430.29,
-      "endTime": 434.43,
-      "text": "My name is Anne Rawson and I'm the assistant head teacher.",
+      "startTime": 589.18,
+      "endTime": 596.04,
+      "text": "Our teachers are all very committed to the school and at the end of the school day, many of them have set up",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-068",
       "part": 2,
-      "startTime": 434.43,
-      "endTime": 445.0,
-      "text": "What I'd like to do is tell you about the school day and show you round the school and perhaps you can ask me any questions you may have at the end.",
+      "startTime": 596.04,
+      "endTime": 603.16,
+      "text": "clubs that the children go to for an extra hour to learn a new skill, such as music.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-069",
       "part": 2,
-      "startTime": 447.0,
-      "endTime": 447.49,
-      "text": "Right.",
+      "startTime": 645.94,
+      "endTime": 649.32,
+      "text": "OK, I'll quickly show you where everything is.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-070",
       "part": 2,
-      "startTime": 447.49,
-      "endTime": 455.53,
-      "text": "First of all, let me start by telling you a little bit about what happens here and what's on offer.",
+      "startTime": 649.9,
+      "endTime": 660.14,
+      "text": "We're here at the main entrance and on the right, where you would normally expect to find reception, you'll see the Head's office.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-071",
       "part": 2,
-      "startTime": 455.53,
-      "endTime": 469.0,
-      "text": "Children are expected to arrive at school between 8.45 and 8.50 and the bell is rung for everybody to go to their classrooms at 8.55 so that we can take the register.",
+      "startTime": 660.26,
+      "endTime": 665.78,
+      "text": "He likes to see visitors personally and his door is always open.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-072",
       "part": 2,
-      "startTime": 470.0,
-      "endTime": 478.77,
-      "text": "We then have assembly at 9.00 when the whole school meets in the hall for the head to talk to the children.",
+      "startTime": 666.46,
+      "endTime": 673.14,
+      "text": "Opposite this are two of the classrooms, but most of the classrooms are down the long corridor.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-073",
       "part": 2,
-      "startTime": 478.77,
-      "endTime": 486.07,
-      "text": "He may discuss what's happened in the news or something that is important for the school.",
+      "startTime": 673.96,
+      "endTime": 678.93,
+      "text": "The library, then, is situated between those two classrooms",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-074",
       "part": 2,
-      "startTime": 486.07,
-      "endTime": 490.0,
-      "text": "Lessons run until 4.00pm with an hour for lunch.",
+      "startTime": 679.56,
+      "endTime": 688.3,
+      "text": "and we are hoping that we will be able to create a computer room within that so that the children can have somewhere quiet to work on their own.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-075",
       "part": 2,
-      "startTime": 490.0,
-      "endTime": 498.45,
-      "text": "Lunch is served in the canteen and children can bring their own packed lunch or a hot meal is available.",
+      "startTime": 689.64,
+      "endTime": 700.62,
+      "text": "On the left of the classrooms, we have converted one of the old cloakrooms to create a music room and children can go in there at lunchtime if they want to.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-076",
       "part": 2,
-      "startTime": 498.45,
-      "endTime": 503.24,
-      "text": "They also have time to play outside and get some fresh air.",
+      "startTime": 701.84,
+      "endTime": 705.56,
+      "text": "Now, if you come with me through the main hall here...",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-077",
       "part": 2,
-      "startTime": 503.24,
-      "endTime": 508.2,
-      "text": "In the middle of the morning and the middle of the afternoon,",
+      "startTime": 707.42,
+      "endTime": 717.6,
+      "text": "OK, now, as you can probably see, this main hall is a new addition this year and we are very pleased with it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-078",
       "part": 2,
-      "startTime": 508.2,
-      "endTime": 516.0,
-      "text": "there are two breaks of 15 minutes when the children also generally go outside, unless it's wet.",
+      "startTime": 718.02,
+      "endTime": 724.04,
+      "text": "We used to be squashed into the old assembly hall next door, which, as you can see, has",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-079",
       "part": 2,
-      "startTime": 517.0,
-      "endTime": 524.99,
-      "text": "Now, we encourage the children to do as much as they can and we offer them several ways of achieving this.",
+      "startTime": 724.04,
+      "endTime": 729.94,
+      "text": "now been turned into a gym for the children and we have weekly lessons here.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-080",
       "part": 2,
-      "startTime": 524.99,
-      "endTime": 533.59,
-      "text": "For example, on Thursday afternoons, rather than continuing with lessons, we expect the whole school to do sports.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-081",
-      "part": 2,
-      "startTime": 533.59,
-      "endTime": 540.0,
-      "text": "We vary these between summer and winter and everything is supervised by the teachers.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-082",
-      "part": 2,
-      "startTime": 541.0,
-      "endTime": 546.84,
-      "text": "Also, we like the children to work on something artistic over a long period of time.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-083",
-      "part": 2,
-      "startTime": 546.84,
-      "endTime": 551.77,
-      "text": "So, for each of the three terms, they are expected to produce a poster.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-084",
-      "part": 2,
-      "startTime": 551.77,
-      "endTime": 559.0,
-      "text": "This will normally be on something particular that they have studied that term, such as the environment.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-085",
-      "part": 2,
-      "startTime": 560.0,
-      "endTime": 567.66,
-      "text": "We also make sure we keep a close eye on how each child is doing in their schoolwork and every month,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-086",
-      "part": 2,
-      "startTime": 567.66,
-      "endTime": 578.97,
-      "text": "rather than the teacher giving the children a report, as I know some schools do, they have to do tests and we record their performance over the year.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-087",
-      "part": 2,
-      "startTime": 578.97,
-      "endTime": 584.43,
-      "text": "We are very proud of our school and of the very good results we achieve.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-088",
-      "part": 2,
-      "startTime": 584.43,
-      "endTime": 590.73,
-      "text": "Our teachers are all very committed to the school and at the end of the school day,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-089",
-      "part": 2,
-      "startTime": 590.73,
-      "endTime": 599.0,
-      "text": "many of them have set up clubs that the children go to for an extra hour to learn a new skill, such as music.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-090",
-      "part": 2,
-      "startTime": 603.0,
-      "endTime": 619.37,
-      "text": "Before you hear the rest of the talk, you have some time to look at questions 18 to 20 on page 4.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-091",
-      "part": 2,
-      "startTime": 619.37,
-      "endTime": 626.29,
-      "text": "Now listen and answer questions 18 to 20.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-092",
-      "part": 2,
-      "startTime": 626.29,
-      "endTime": 634.05,
-      "text": "OK, I'll quickly show you where everything is.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-093",
-      "part": 2,
-      "startTime": 634.05,
-      "endTime": 656.0,
-      "text": "We're here at the main entrance and on the right, where you would normally expect to find reception, you'll see the Head's office.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-094",
-      "part": 2,
-      "startTime": 657.0,
-      "endTime": 661.94,
-      "text": "He likes to see visitors personally and his door is always open.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-095",
-      "part": 2,
-      "startTime": 661.94,
-      "endTime": 669.27,
-      "text": "Opposite this are two of the classrooms, but most of the classrooms are down the long corridor.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-096",
-      "part": 2,
-      "startTime": 669.27,
-      "endTime": 685.0,
-      "text": "The library, then, is situated between those two classrooms and we are hoping that we will be able to create a computer room within that so that the children can have somewhere quiet to work on their own.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-097",
-      "part": 2,
-      "startTime": 686.0,
-      "endTime": 698.95,
-      "text": "On the left of the classrooms, we have converted one of the old cloakrooms to create a music room and children can go in there at lunchtime if they want to.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-098",
-      "part": 2,
-      "startTime": 698.95,
-      "endTime": 703.43,
-      "text": "Now, if you come with me through the main hall here...",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-099",
-      "part": 2,
-      "startTime": 703.43,
-      "endTime": 712.48,
-      "text": "OK, now, as you can probably see, this main hall is a new addition this year and we are very pleased with it.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-100",
-      "part": 2,
-      "startTime": 712.48,
-      "endTime": 719.37,
-      "text": "We used to be squashed into the old assembly hall next door, which, as you can see,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-101",
-      "part": 2,
-      "startTime": 719.37,
-      "endTime": 726.0,
-      "text": "has now been turned into a gym for the children and we have weekly lessons here.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-102",
-      "part": 2,
-      "startTime": 726.0,
-      "endTime": 760.12,
+      "startTime": 730.72,
+      "endTime": 736.84,
       "text": "Do feel free to go and look round the classrooms and I'll be waiting here to answer your questions.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
+      "id": "seg-081",
+      "part": 3,
+      "startTime": 836.08,
+      "endTime": 838.0,
+      "text": "Hi Jen. Hi Rob.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 3,
+      "startTime": 838.18,
+      "endTime": 843.12,
+      "text": "We need to look at this project we're doing together in Forensic Linguistics. Sure.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 3,
+      "startTime": 843.34,
+      "endTime": 846.66,
+      "text": "The first thing we have to do is define Forensic Linguistics.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 3,
+      "startTime": 847.2,
+      "endTime": 857.66,
+      "text": "I thought we could say something like Forensic Linguistics involves the analysis of language and forensic refers to using scientific techniques to solve crimes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 3,
+      "startTime": 857.86,
+      "endTime": 865.66,
+      "text": "So Forensic Linguistics involves analysing people's use of language to find out whether they've committed a crime.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 3,
+      "startTime": 865.88,
+      "endTime": 868.98,
+      "text": "What do you think of that as a definition? Sounds OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 3,
+      "startTime": 869.22,
+      "endTime": 872.58,
+      "text": "I looked it up in my dictionary and I got something similar.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 3,
+      "startTime": 873.1,
+      "endTime": 877.86,
+      "text": "Then we can add something about what Forensic Linguists actually do to back it up.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 3,
+      "startTime": 878.06,
+      "endTime": 884.12,
+      "text": "You know, like analysing documents to find out who wrote them. Good point. Let's do that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 3,
+      "startTime": 884.48,
+      "endTime": 886.6,
+      "text": "What about the actual project?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 3,
+      "startTime": 886.76,
+      "endTime": 890.92,
+      "text": "I'm glad we chose voice identification as the topic. Yeah.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 3,
+      "startTime": 891.1,
+      "endTime": 893.92,
+      "text": "We've been given a voice recording of a possible suspect.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 3,
+      "startTime": 894.08,
+      "endTime": 896.08,
+      "text": "Not a real suspect of course.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 3,
+      "startTime": 896.34,
+      "endTime": 900.94,
+      "text": "So we've got to listen to the recording and analyse their voice. Should be OK?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 3,
+      "startTime": 901.38,
+      "endTime": 907.16,
+      "text": "Well, I've already listened to the recording and I can't even tell if it's a man or a woman.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 3,
+      "startTime": 907.16,
+      "endTime": 909.1,
+      "text": "But I guess that doesn't matter.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 3,
+      "startTime": 909.26,
+      "endTime": 913.9,
+      "text": "The accent's a local one, though I'm not sure how that will affect anything.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 3,
+      "startTime": 914.26,
+      "endTime": 918.6,
+      "text": "Where we're really going to get in trouble is that the recording is very unclear.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 3,
+      "startTime": 918.7,
+      "endTime": 920.66,
+      "text": "I'm sure they've done that to test us.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 3,
+      "startTime": 920.92,
+      "endTime": 923.06,
+      "text": "Well, they weren't going to make it easy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 3,
+      "startTime": 923.42,
+      "endTime": 928.34,
+      "text": "We have to analyse the voice sample with that spectrograph instrument, don't we?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 3,
+      "startTime": 928.34,
+      "endTime": 935.62,
+      "text": "Learning what to do with it is the only thing that really concerns me about this project. It'll be fine. I guess so.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
       "id": "seg-103",
-      "part": 2,
-      "startTime": 760.12,
-      "endTime": 770.11,
-      "text": "That is the end of Section 2.",
+      "part": 3,
+      "startTime": 936.04,
+      "endTime": 944.82,
+      "text": "We have to interview the suspect and make our own recording face-to-face and decide if it's the same person as on the original recording, right? Yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-104",
-      "part": 2,
-      "startTime": 770.11,
-      "endTime": 787.0,
-      "text": "You now have half a minute to check your answers.",
+      "part": 3,
+      "startTime": 945.08,
+      "endTime": 949.08,
+      "text": "It's not an exact science but it's usually pretty accurate.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-105",
       "part": 3,
-      "startTime": 787.0,
-      "endTime": 788.0,
-      "text": "Now turn to Section 3 on page 5. Section 3 You will hear two students called Jen and Rob discussing a project they are about to start working on.",
+      "startTime": 949.44,
+      "endTime": 953.0,
+      "text": "You can often tell, even when they've got a cold, it's the same person",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-106",
       "part": 3,
-      "startTime": 788.0,
-      "endTime": 801.05,
-      "text": "First you have some time to look at questions 21 to 24 on page 5.",
+      "startTime": 953.12,
+      "endTime": 960.46,
+      "text": "but they might do something like speaking with another accent because the tutor suggests they do that just to test us. So let's get on with it then.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-107",
       "part": 3,
-      "startTime": 801.05,
-      "endTime": 811.29,
-      "text": "Now listen carefully and answer questions 21 to 24.",
+      "startTime": 960.74,
+      "endTime": 966.04,
+      "text": "Oh, and don't start your usual self-doubt about whether you can do the work or not.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-108",
       "part": 3,
-      "startTime": 811.29,
-      "endTime": 814.3,
-      "text": "Hi Jen. Hi Rob.",
+      "startTime": 966.04,
+      "endTime": 968.38,
+      "text": "We usually do OK in the end.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-109",
       "part": 3,
-      "startTime": 814.3,
-      "endTime": 829.76,
-      "text": "We need to look at this project we're doing together in Forensic Linguistics.",
+      "startTime": 968.6,
+      "endTime": 974.38,
+      "text": "I reckon that as long as we focus on the main points of the assignment we can think about the finer details later.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-110",
       "part": 3,
-      "startTime": 829.76,
-      "endTime": 830.76,
-      "text": "Sure.",
+      "startTime": 974.7,
+      "endTime": 978.72,
+      "text": "My problem is creating things to worry about before I've even started.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-111",
       "part": 3,
-      "startTime": 830.76,
-      "endTime": 843.0,
-      "text": "The first thing we have to do is define Forensic Linguistics.",
+      "startTime": 1027.28,
+      "endTime": 1029.9,
+      "text": "We'll have to do some background reading first.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-112",
       "part": 3,
-      "startTime": 844.0,
-      "endTime": 854.55,
-      "text": "I thought we could say something like Forensic Linguistics involves the analysis of language and forensic refers to using scientific techniques to solve crimes.",
+      "startTime": 1030.08,
+      "endTime": 1033.86,
+      "text": "I'll go to the library later and get what we need. OK.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-113",
       "part": 3,
-      "startTime": 854.55,
-      "endTime": 862.06,
-      "text": "So Forensic Linguistics involves analysing people's use of language to find out whether they've committed a crime.",
+      "startTime": 1034.1,
+      "endTime": 1041.08,
+      "text": "I've already looked at forensics today and it didn't say much about voice identification so we needn't bother with that one.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-114",
       "part": 3,
-      "startTime": 862.06,
-      "endTime": 865.55,
-      "text": "What do you think of that as a definition? Sounds OK.",
+      "startTime": 1041.62,
+      "endTime": 1044.48,
+      "text": "Language and crime looks a bit more promising, doesn't it?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-115",
       "part": 3,
-      "startTime": 865.55,
-      "endTime": 869.5,
-      "text": "I looked it up in my dictionary and I got something similar.",
+      "startTime": 1044.64,
+      "endTime": 1048.72,
+      "text": "I've got that out of the library already so we don't need to worry about borrowing that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-116",
       "part": 3,
-      "startTime": 869.5,
-      "endTime": 874.9,
-      "text": "Then we can add something about what Forensic Linguists actually do to back it up.",
+      "startTime": 1049.34,
+      "endTime": 1052.18,
+      "text": "Research methods in forensic linguistics.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-117",
       "part": 3,
-      "startTime": 874.9,
-      "endTime": 879.0,
-      "text": "You know, like analysing documents to find out who wrote them.",
+      "startTime": 1052.38,
+      "endTime": 1054.38,
+      "text": "I guess we ought to borrow that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-118",
       "part": 3,
-      "startTime": 879.0,
-      "endTime": 883.18,
-      "text": "Good point. Let's do that. What about the actual project?",
+      "startTime": 1054.66,
+      "endTime": 1057.74,
+      "text": "And voice identification will be a useful one.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-119",
       "part": 3,
-      "startTime": 883.18,
-      "endTime": 887.0,
-      "text": "I'm glad we chose voice identification as the topic.",
+      "startTime": 1057.88,
+      "endTime": 1060.06,
+      "text": "I'll borrow that from our classmate George.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-120",
       "part": 3,
-      "startTime": 887.0,
-      "endTime": 893.0,
-      "text": "Yeah. We've been given a voice recording of a possible suspect. Not a real suspect of course.",
+      "startTime": 1060.18,
+      "endTime": 1062.0,
+      "text": "He won't need it for his project.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-121",
       "part": 3,
-      "startTime": 893.0,
-      "endTime": 897.63,
-      "text": "So we've got to listen to the recording and analyse their voice. Should be OK?",
+      "startTime": 1062.1,
+      "endTime": 1065.08,
+      "text": "But we should get out modern forensic techniques.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-122",
       "part": 3,
-      "startTime": 897.63,
-      "endTime": 903.1,
-      "text": "Well, I've already listened to the recording and I can't even tell if it's a man or a woman.",
+      "startTime": 1065.28,
+      "endTime": 1069.72,
+      "text": "We need all the help we can get on that subject. OK. That's that sorted out.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-123",
       "part": 3,
-      "startTime": 903.1,
-      "endTime": 905.0,
-      "text": "But I guess that doesn't matter.",
+      "startTime": 1069.94,
+      "endTime": 1071.78,
+      "text": "Now on to the practical stuff.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-124",
       "part": 3,
-      "startTime": 906.0,
-      "endTime": 910.29,
-      "text": "The accent's a local one, though I'm not sure how that will affect anything.",
+      "startTime": 1072.44,
+      "endTime": 1075.54,
+      "text": "I'm not sure about how we're going to record the voices.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-125",
       "part": 3,
-      "startTime": 910.29,
-      "endTime": 914.86,
-      "text": "Where we're really going to get in trouble is that the recording is very unclear.",
+      "startTime": 1075.62,
+      "endTime": 1078.96,
+      "text": "I'm not too good on the technical side of things. Me neither.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-126",
       "part": 3,
-      "startTime": 914.86,
-      "endTime": 917.0,
-      "text": "I'm sure they've done that to test us.",
+      "startTime": 1079.08,
+      "endTime": 1081.02,
+      "text": "We'd better work out what we're doing.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-127",
       "part": 3,
-      "startTime": 918.0,
-      "endTime": 920.2,
-      "text": "Well, they weren't going to make it easy.",
+      "startTime": 1081.26,
+      "endTime": 1085.66,
+      "text": "At least we get more than one opportunity to speak to the person playing the suspect.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-128",
       "part": 3,
-      "startTime": 920.2,
-      "endTime": 924.49,
-      "text": "We have to analyse the voice sample with that spectrograph instrument, don't we?",
+      "startTime": 1085.84,
+      "endTime": 1089.44,
+      "text": "I just hope whoever it is won't make the task too tricky.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-129",
       "part": 3,
-      "startTime": 924.49,
-      "endTime": 929.26,
-      "text": "Learning what to do with it is the only thing that really concerns me about this project.",
+      "startTime": 1089.58,
+      "endTime": 1091.68,
+      "text": "I'm sure they won't be too hard on us.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-130",
       "part": 3,
-      "startTime": 929.26,
-      "endTime": 930.0,
-      "text": "It'll be fine.",
+      "startTime": 1091.98,
+      "endTime": 1096.36,
+      "text": "And as long as we do our research properly it shouldn't be too hard to do the rest of it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-131",
       "part": 3,
-      "startTime": 931.0,
-      "endTime": 931.75,
-      "text": "I guess so.",
+      "startTime": 1096.7,
+      "endTime": 1099.98,
+      "text": "I'm more worried about fitting in the writing up. I know.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-132",
       "part": 3,
-      "startTime": 931.75,
-      "endTime": 941.61,
-      "text": "We have to interview the suspect and make our own recording face-to-face and decide if it's the same person as on the original recording, right?",
+      "startTime": 1100.16,
+      "endTime": 1103.52,
+      "text": "We've got loads of other assignments to finish as well.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-133",
       "part": 3,
-      "startTime": 941.61,
-      "endTime": 946.0,
-      "text": "Yes. It's not an exact science but it's usually pretty accurate.",
+      "startTime": 1103.82,
+      "endTime": 1107.94,
+      "text": "Now, Rob, let's decide how we're going to split the writing between us.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-134",
       "part": 3,
-      "startTime": 946.0,
-      "endTime": 956.67,
-      "text": "You can often tell, even when they've got a cold, it's the same person but they might do something like speaking with another accent because the tutor suggests they do that just to test us.",
+      "startTime": 1108.12,
+      "endTime": 1112.45,
+      "text": "Are you any good at introductions? They always seem to let me down. OK.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-135",
       "part": 3,
-      "startTime": 956.67,
-      "endTime": 958.31,
-      "text": "So let's get on with it then.",
+      "startTime": 1112.45,
+      "endTime": 1114.02,
+      "text": "Leave that to me.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-136",
       "part": 3,
-      "startTime": 958.31,
-      "endTime": 963.0,
-      "text": "Oh, and don't start your usual self-doubt about whether you can do the work or not.",
+      "startTime": 1114.14,
+      "endTime": 1116.3,
+      "text": "Are you OK to do the literature review then?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-137",
       "part": 3,
-      "startTime": 963.0,
-      "endTime": 964.58,
-      "text": "We usually do OK in the end.",
+      "startTime": 1116.7,
+      "endTime": 1118.42,
+      "text": "Maybe we should split that part.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-138",
       "part": 3,
-      "startTime": 964.58,
-      "endTime": 971.03,
-      "text": "I reckon that as long as we focus on the main points of the assignment we can think about the finer details later.",
+      "startTime": 1118.52,
+      "endTime": 1124.84,
+      "text": "I don't mind writing the methodology section if you feel comfortable doing the discussion and conclusions. OK.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-139",
       "part": 3,
-      "startTime": 971.03,
-      "endTime": 975.0,
-      "text": "My problem is creating things to worry about before I've even started.",
+      "startTime": 1125.12,
+      "endTime": 1129.3,
+      "text": "And we can do the analysis between us as well. Great. Let's get started.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-140",
-      "part": 3,
-      "startTime": 978.0,
-      "endTime": 999.67,
-      "text": "Before you hear the rest of the discussion you have some time to look at questions 25 to 30 on page 6.",
+      "part": 4,
+      "startTime": 1250.3,
+      "endTime": 1257.12,
+      "text": "We've been talking about some ways in which plants and animals deal with changes in their environment.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-141",
-      "part": 3,
-      "startTime": 999.67,
-      "endTime": 1008.38,
-      "text": "Now listen and answer questions 25 to 30.",
+      "part": 4,
+      "startTime": 1257.12,
+      "endTime": 1261.46,
+      "text": "And today we'll continue that discussion by looking at dormancy.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-142",
-      "part": 3,
-      "startTime": 1008.38,
-      "endTime": 1018.37,
-      "text": "We'll have to do some background reading first.",
+      "part": 4,
+      "startTime": 1262.08,
+      "endTime": 1268.16,
+      "text": "First, we'll cover what dormancy is and why organisms become dormant.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-143",
-      "part": 3,
-      "startTime": 1018.37,
-      "endTime": 1029.0,
-      "text": "I'll go to the library later and get what we need.",
+      "part": 4,
+      "startTime": 1268.56,
+      "endTime": 1274.56,
+      "text": "Dormancy is a state of inactivity that organisms or living things enter",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-144",
-      "part": 3,
-      "startTime": 1030.0,
-      "endTime": 1030.16,
-      "text": "OK.",
+      "part": 4,
+      "startTime": 1274.56,
+      "endTime": 1282.02,
+      "text": "when they need to conserve the resources available to them and reduce their demands on their environment.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-145",
-      "part": 3,
-      "startTime": 1030.16,
-      "endTime": 1036.97,
-      "text": "I've already looked at forensics today and it didn't say much about voice identification so we needn't bother with that one.",
+      "part": 4,
+      "startTime": 1282.34,
+      "endTime": 1288.78,
+      "text": "Most major groups of plants and animals have some representatives that can become dormant.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-146",
-      "part": 3,
-      "startTime": 1036.97,
-      "endTime": 1040.16,
-      "text": "Language and crime looks a bit more promising, doesn't it?",
+      "part": 4,
+      "startTime": 1289.18,
+      "endTime": 1291.94,
+      "text": "So what is the value of dormancy?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-147",
-      "part": 3,
-      "startTime": 1040.16,
-      "endTime": 1045.0,
-      "text": "I've got that out of the library already so we don't need to worry about borrowing that.",
+      "part": 4,
+      "startTime": 1292.24,
+      "endTime": 1301.52,
+      "text": "To start with, animals that have the ability to become dormant can survive conditions which are stressful in environmental terms.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-148",
-      "part": 3,
-      "startTime": 1046.0,
-      "endTime": 1050.93,
-      "text": "Research methods in forensic linguistics. I guess we ought to borrow that.",
+      "part": 4,
+      "startTime": 1301.68,
+      "endTime": 1312.08,
+      "text": "For instance, when lakes, ponds, or rivers dry up, aquatic organisms that have the ability to enter dormancy can survive the drought,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-149",
-      "part": 3,
-      "startTime": 1050.93,
-      "endTime": 1054.0,
-      "text": "And voice identification will be a useful one.",
+      "part": 4,
+      "startTime": 1312.08,
+      "endTime": 1315.78,
+      "text": "while others that cannot do this will die.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-150",
-      "part": 3,
-      "startTime": 1054.0,
-      "endTime": 1058.28,
-      "text": "I'll borrow that from our classmate George. He won't need it for his project.",
+      "part": 4,
+      "startTime": 1316.28,
+      "endTime": 1322.34,
+      "text": "Another advantage is that creatures that can become dormant in very inhospitable conditions, such",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-151",
-      "part": 3,
-      "startTime": 1058.28,
-      "endTime": 1061.0,
-      "text": "But we should get out modern forensic techniques.",
+      "part": 4,
+      "startTime": 1322.34,
+      "endTime": 1328.68,
+      "text": "as extreme cold, can live in a larger range of places than other organisms.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-152",
-      "part": 3,
-      "startTime": 1062.0,
-      "endTime": 1066.0,
-      "text": "We need all the help we can get on that subject. OK. That's that sorted out.",
+      "part": 4,
+      "startTime": 1328.68,
+      "endTime": 1336.2,
+      "text": "And because of this, because they can live in places where other animals can't survive, when they are actually active",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-153",
-      "part": 3,
-      "startTime": 1067.0,
-      "endTime": 1072.12,
-      "text": "Now on to the practical stuff. I'm not sure about how we're going to record the voices.",
+      "part": 4,
+      "startTime": 1336.2,
+      "endTime": 1344.1,
+      "text": "and looking for food, the amount of competition they have to deal with from other creatures is greatly reduced.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-154",
-      "part": 3,
-      "startTime": 1072.12,
-      "endTime": 1075.0,
-      "text": "I'm not too good on the technical side of things.",
+      "part": 4,
+      "startTime": 1344.92,
+      "endTime": 1348.6,
+      "text": "Let's move on to look at what causes dormancy.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-155",
-      "part": 3,
-      "startTime": 1075.0,
-      "endTime": 1077.59,
-      "text": "Me neither. We'd better work out what we're doing.",
+      "part": 4,
+      "startTime": 1348.98,
+      "endTime": 1359.3,
+      "text": "There are a number of variables, but the ones that are the most significant are changes in temperature and the amount of light organisms get.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-156",
-      "part": 3,
-      "startTime": 1077.59,
-      "endTime": 1082.0,
-      "text": "At least we get more than one opportunity to speak to the person playing the suspect.",
+      "part": 4,
+      "startTime": 1359.94,
+      "endTime": 1365.92,
+      "text": "Availability of food, water, and oxygen is also very important.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-157",
-      "part": 3,
-      "startTime": 1082.0,
-      "endTime": 1085.41,
-      "text": "I just hope whoever it is won't make the task too tricky.",
+      "part": 4,
+      "startTime": 1370.4,
+      "endTime": 1373.98,
+      "text": "Now we'll explore some specific examples.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-158",
-      "part": 3,
-      "startTime": 1085.41,
-      "endTime": 1087.68,
-      "text": "I'm sure they won't be too hard on us.",
+      "part": 4,
+      "startTime": 1374.16,
+      "endTime": 1377.52,
+      "text": "Let us first look at dormancy in insects.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-159",
-      "part": 3,
-      "startTime": 1087.68,
-      "endTime": 1093.0,
-      "text": "And as long as we do our research properly it shouldn't be too hard to do the rest of it.",
+      "part": 4,
+      "startTime": 1378.34,
+      "endTime": 1385.94,
+      "text": "Insects can experience a reduction in their metabolism, which is a form of dormancy called diapause.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-160",
-      "part": 3,
-      "startTime": 1093.0,
-      "endTime": 1096.56,
-      "text": "I'm more worried about fitting in the writing up. I know.",
+      "part": 4,
+      "startTime": 1386.5,
+      "endTime": 1392.65,
+      "text": "In insects, diapause is either a reaction to difficult environmental conditions",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-161",
-      "part": 3,
-      "startTime": 1096.56,
-      "endTime": 1100.0,
-      "text": "We've got loads of other assignments to finish as well.",
+      "part": 4,
+      "startTime": 1393.2,
+      "endTime": 1399.8,
+      "text": "or a necessary part of the life cycle, such as with butterflies or certain moths.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-162",
-      "part": 3,
-      "startTime": 1101.0,
-      "endTime": 1104.93,
-      "text": "Now, Rob, let's decide how we're going to split the writing between us.",
+      "part": 4,
+      "startTime": 1400.24,
+      "endTime": 1409.34,
+      "text": "In terms of environment, it's interesting to note that through dormancy insects can survive when it's very cold.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-163",
-      "part": 3,
-      "startTime": 1104.93,
-      "endTime": 1109.86,
-      "text": "Are you any good at introductions? They always seem to let me down. OK. Leave that to me.",
+      "part": 4,
+      "startTime": 1410.34,
+      "endTime": 1413.0,
+      "text": "Another creature we'll look at is fish.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-164",
-      "part": 3,
-      "startTime": 1109.86,
-      "endTime": 1114.13,
-      "text": "Are you OK to do the literature review then? Maybe we should split that part.",
+      "part": 4,
+      "startTime": 1413.0,
+      "endTime": 1424.68,
+      "text": "Fish share the same main environmental causes for dormancy as other creatures, but as one might imagine, they are particularly sensitive to drought.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-165",
-      "part": 3,
-      "startTime": 1114.13,
-      "endTime": 1120.0,
-      "text": "I don't mind writing the methodology section if you feel comfortable doing the discussion and conclusions.",
+      "part": 4,
+      "startTime": 1425.14,
+      "endTime": 1428.74,
+      "text": "Let's take the African lungfish as an example.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-166",
-      "part": 3,
-      "startTime": 1121.0,
-      "endTime": 1122.23,
-      "text": "OK.",
+      "part": 4,
+      "startTime": 1429.18,
+      "endTime": 1435.42,
+      "text": "When the water supply is low, the African lungfish burrows deep into the mud.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-167",
-      "part": 3,
-      "startTime": 1122.23,
-      "endTime": 1141.12,
-      "text": "And we can do the analysis between us as well.",
+      "part": 4,
+      "startTime": 1435.48,
+      "endTime": 1441.36,
+      "text": "It surrounds itself with a cocoon of slime and remains inactive.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-168",
-      "part": 3,
-      "startTime": 1141.12,
-      "endTime": 1143.58,
-      "text": "Great.",
+      "part": 4,
+      "startTime": 1441.72,
+      "endTime": 1444.64,
+      "text": "While dormant, it faces two dangers.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-169",
-      "part": 3,
-      "startTime": 1143.58,
-      "endTime": 1150.97,
-      "text": "Let's get started.",
+      "part": 4,
+      "startTime": 1444.96,
+      "endTime": 1453.94,
+      "text": "One is the possibility of starvation, and to overcome this, it relies on fat it has stored up in its body.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-170",
-      "part": 3,
-      "startTime": 1150.97,
-      "endTime": 1162.88,
-      "text": "That is the end of Section 3.",
+      "part": 4,
+      "startTime": 1454.1,
+      "endTime": 1461.29,
+      "text": "The other is desiccation or drying up, which is addressed through a reduction in the production of urine.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-171",
-      "part": 3,
-      "startTime": 1162.88,
-      "endTime": 1183.0,
-      "text": "You now have half a minute to check your answers.",
+      "part": 4,
+      "startTime": 1462.86,
+      "endTime": 1466.1,
+      "text": "Snails are also known to become dormant.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-172",
       "part": 4,
-      "startTime": 1183.0,
-      "endTime": 1184.0,
-      "text": "Now turn to Section 4 on page 7. Section 4 You will hear a biology lecture on how living things deal with changes in their environment by entering a state called dormancy.",
+      "startTime": 1466.1,
+      "endTime": 1473.6,
+      "text": "Some snails seal off their shell with a membrane of dried mucus after settling at their place of dormancy.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-173",
       "part": 4,
-      "startTime": 1184.0,
-      "endTime": 1201.26,
-      "text": "First, you have some time to look at questions 31 to 40 on page 7.",
+      "startTime": 1474.06,
+      "endTime": 1476.92,
+      "text": "Other snails do not have this possibility.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-174",
       "part": 4,
-      "startTime": 1201.26,
-      "endTime": 1214.6,
-      "text": "Now listen carefully and answer questions 31 to 40.",
+      "startTime": 1477.12,
+      "endTime": 1479.96,
+      "text": "They trust the protection of their shell.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-175",
       "part": 4,
-      "startTime": 1214.6,
-      "endTime": 1241.27,
-      "text": "We've been talking about some ways in which plants and animals deal with changes in their environment.",
+      "startTime": 1480.28,
+      "endTime": 1486.78,
+      "text": "Snails that remain outside during their dormancy can usually be recognised by a rather brightly",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-176",
       "part": 4,
-      "startTime": 1241.27,
-      "endTime": 1258.0,
-      "text": "And today we'll continue that discussion by looking at dormancy.",
+      "startTime": 1486.78,
+      "endTime": 1492.84,
+      "text": "coloured shell reflecting the sunlight and so minimising evaporation.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-177",
       "part": 4,
-      "startTime": 1259.0,
-      "endTime": 1264.34,
-      "text": "First, we'll cover what dormancy is and why organisms become dormant.",
+      "startTime": 1493.28,
+      "endTime": 1500.76,
+      "text": "That is why in open habitats, banded snails usually have a yellow shell.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-178",
       "part": 4,
-      "startTime": 1264.34,
-      "endTime": 1278.04,
-      "text": "Dormancy is a state of inactivity that organisms or living things enter when they need to conserve the resources available to them and reduce their demands on their environment.",
+      "startTime": 1501.6,
+      "endTime": 1510.68,
+      "text": "Probably the most well-known type of dormancy is hibernation, which occurs in warm-blooded creatures during the winter.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-179",
       "part": 4,
-      "startTime": 1278.04,
-      "endTime": 1285.0,
-      "text": "Most major groups of plants and animals have some representatives that can become dormant.",
+      "startTime": 1511.06,
+      "endTime": 1515.98,
+      "text": "We know that warm-blooded animals maintain a regular body temperature.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-180",
       "part": 4,
-      "startTime": 1286.0,
-      "endTime": 1288.46,
-      "text": "So what is the value of dormancy?",
+      "startTime": 1516.12,
+      "endTime": 1521.16,
+      "text": "So what's really interesting about hibernators, true hibernators that is,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-181",
       "part": 4,
-      "startTime": 1288.46,
-      "endTime": 1298.09,
-      "text": "To start with, animals that have the ability to become dormant can survive conditions which are stressful in environmental terms.",
+      "startTime": 1521.68,
+      "endTime": 1528.44,
+      "text": "is they can actually adapt to extreme conditions by turning off their internal thermostat,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-182",
       "part": 4,
-      "startTime": 1298.09,
-      "endTime": 1308.02,
-      "text": "For instance, when lakes, ponds, or rivers dry up, aquatic organisms that have the ability to enter dormancy can survive the drought,",
+      "startTime": 1528.44,
+      "endTime": 1533.82,
+      "text": "so to speak, and hibernating until conditions improve.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-183",
       "part": 4,
-      "startTime": 1308.02,
-      "endTime": 1311.16,
-      "text": "while others that cannot do this will die.",
+      "startTime": 1534.74,
+      "endTime": 1540.34,
+      "text": "Let's examine the behaviour of a true hibernator, the Arctic ground squirrel.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-184",
       "part": 4,
-      "startTime": 1311.16,
-      "endTime": 1318.03,
-      "text": "Another advantage is that creatures that can become dormant in very inhospitable conditions,",
+      "startTime": 1541.06,
+      "endTime": 1546.6,
+      "text": "This squirrel digs underground and builds a nest that is insulated.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-185",
       "part": 4,
-      "startTime": 1318.03,
-      "endTime": 1324.0,
-      "text": "such as extreme cold, can live in a larger range of places than other organisms.",
+      "startTime": 1546.6,
+      "endTime": 1554.38,
+      "text": "Once in its nest, it curls up into a ball and tucks in its arms, legs, and tail.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-186",
       "part": 4,
-      "startTime": 1325.0,
-      "endTime": 1335.38,
-      "text": "And because of this, because they can live in places where other animals can't survive, when they are actually active and looking for food,",
+      "startTime": 1554.84,
+      "endTime": 1558.94,
+      "text": "Its body temperature mirrors the cold of its surroundings.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-187",
       "part": 4,
-      "startTime": 1335.38,
-      "endTime": 1342.03,
-      "text": "the amount of competition they have to deal with from other creatures is greatly reduced.",
+      "startTime": 1559.38,
+      "endTime": 1566.04,
+      "text": "At this point, the squirrel barely breathes and doesn't react to stimulus in a normal way.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-188",
       "part": 4,
-      "startTime": 1342.03,
-      "endTime": 1345.47,
-      "text": "Let's move on to look at what causes dormancy.",
+      "startTime": 1566.36,
+      "endTime": 1572.7,
+      "text": "During this period of hibernation, the squirrel loses nearly 40% of its weight.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-189",
       "part": 4,
-      "startTime": 1345.47,
-      "endTime": 1356.0,
-      "text": "There are a number of variables, but the ones that are the most significant are changes in temperature and the amount of light organisms get.",
+      "startTime": 1573.4,
+      "endTime": 1578.8,
+      "text": "The process of awakening for the Arctic ground squirrel takes about three hours.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-190",
       "part": 4,
-      "startTime": 1357.0,
-      "endTime": 1364.39,
-      "text": "Availability of food, water, and oxygen is also very important.",
+      "startTime": 1579.22,
+      "endTime": 1585.08,
+      "text": "When this happens, there is a rapid rise in the heartbeat and circulation is affected.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-191",
       "part": 4,
-      "startTime": 1364.39,
-      "endTime": 1369.2,
-      "text": "Now we'll explore some specific examples.",
+      "startTime": 1585.16,
+      "endTime": 1590.7,
+      "text": "The area around the heart warms more quickly than the rest of the animal.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-192",
       "part": 4,
-      "startTime": 1369.2,
-      "endTime": 1374.0,
-      "text": "Let us first look at dormancy in insects.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-193",
-      "part": 4,
-      "startTime": 1375.0,
-      "endTime": 1383.06,
-      "text": "Insects can experience a reduction in their metabolism, which is a form of dormancy called diapause.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-194",
-      "part": 4,
-      "startTime": 1383.06,
-      "endTime": 1392.58,
-      "text": "In insects, diapause is either a reaction to difficult environmental conditions or a necessary part of the life cycle,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-195",
-      "part": 4,
-      "startTime": 1392.58,
-      "endTime": 1395.97,
-      "text": "such as with butterflies or certain moths.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-196",
-      "part": 4,
-      "startTime": 1395.97,
-      "endTime": 1405.0,
-      "text": "In terms of environment, it's interesting to note that through dormancy insects can survive when it's very cold.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-197",
-      "part": 4,
-      "startTime": 1407.0,
-      "endTime": 1410.01,
-      "text": "Another creature we'll look at is fish.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-198",
-      "part": 4,
-      "startTime": 1410.01,
-      "endTime": 1421.44,
-      "text": "Fish share the same main environmental causes for dormancy as other creatures, but as one might imagine, they are particularly sensitive to drought.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-199",
-      "part": 4,
-      "startTime": 1421.44,
-      "endTime": 1425.0,
-      "text": "Let's take the African lungfish as an example.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-200",
-      "part": 4,
-      "startTime": 1426.0,
-      "endTime": 1432.53,
-      "text": "When the water supply is low, the African lungfish burrows deep into the mud.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-201",
-      "part": 4,
-      "startTime": 1432.53,
-      "endTime": 1437.95,
-      "text": "It surrounds itself with a cocoon of slime and remains inactive.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-202",
-      "part": 4,
-      "startTime": 1437.95,
-      "endTime": 1441.0,
-      "text": "While dormant, it faces two dangers.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-203",
-      "part": 4,
-      "startTime": 1442.0,
-      "endTime": 1450.45,
-      "text": "One is the possibility of starvation, and to overcome this, it relies on fat it has stored up in its body.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-204",
-      "part": 4,
-      "startTime": 1450.45,
-      "endTime": 1458.82,
-      "text": "The other is desiccation or drying up, which is addressed through a reduction in the production of urine.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-205",
-      "part": 4,
-      "startTime": 1458.82,
-      "endTime": 1462.0,
-      "text": "Snails are also known to become dormant.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-206",
-      "part": 4,
-      "startTime": 1463.0,
-      "endTime": 1470.25,
-      "text": "Some snails seal off their shell with a membrane of dried mucus after settling at their place of dormancy.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-207",
-      "part": 4,
-      "startTime": 1470.25,
-      "endTime": 1476.0,
-      "text": "Other snails do not have this possibility. They trust the protection of their shell.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-208",
-      "part": 4,
-      "startTime": 1477.0,
-      "endTime": 1490.9,
-      "text": "Snails that remain outside during their dormancy can usually be recognised by a rather brightly coloured shell reflecting the sunlight and so minimising evaporation.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-209",
-      "part": 4,
-      "startTime": 1490.9,
-      "endTime": 1496.97,
-      "text": "That is why in open habitats, banded snails usually have a yellow shell.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-210",
-      "part": 4,
-      "startTime": 1496.97,
-      "endTime": 1507.0,
-      "text": "Probably the most well-known type of dormancy is hibernation, which occurs in warm-blooded creatures during the winter.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-211",
-      "part": 4,
-      "startTime": 1507.0,
-      "endTime": 1512.75,
-      "text": "We know that warm-blooded animals maintain a regular body temperature.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-212",
-      "part": 4,
-      "startTime": 1512.75,
-      "endTime": 1518.75,
-      "text": "So what's really interesting about hibernators, true hibernators that is,",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-213",
-      "part": 4,
-      "startTime": 1518.75,
-      "endTime": 1530.67,
-      "text": "is they can actually adapt to extreme conditions by turning off their internal thermostat, so to speak, and hibernating until conditions improve.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-214",
-      "part": 4,
-      "startTime": 1530.67,
-      "endTime": 1537.0,
-      "text": "Let's examine the behaviour of a true hibernator, the Arctic ground squirrel.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-215",
-      "part": 4,
-      "startTime": 1537.0,
-      "endTime": 1542.88,
-      "text": "This squirrel digs underground and builds a nest that is insulated.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-216",
-      "part": 4,
-      "startTime": 1542.88,
-      "endTime": 1549.9,
-      "text": "Once in its nest, it curls up into a ball and tucks in its arms, legs, and tail.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-217",
-      "part": 4,
-      "startTime": 1549.9,
-      "endTime": 1555.0,
-      "text": "Its body temperature mirrors the cold of its surroundings.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-218",
-      "part": 4,
-      "startTime": 1556.0,
-      "endTime": 1562.87,
-      "text": "At this point, the squirrel barely breathes and doesn't react to stimulus in a normal way.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-219",
-      "part": 4,
-      "startTime": 1562.87,
-      "endTime": 1568.9,
-      "text": "During this period of hibernation, the squirrel loses nearly 40% of its weight.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-220",
-      "part": 4,
-      "startTime": 1568.9,
-      "endTime": 1575.0,
-      "text": "The process of awakening for the Arctic ground squirrel takes about three hours.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-221",
-      "part": 4,
-      "startTime": 1576.0,
-      "endTime": 1582.01,
-      "text": "When this happens, there is a rapid rise in the heartbeat and circulation is affected.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-222",
-      "part": 4,
-      "startTime": 1582.01,
-      "endTime": 1587.11,
-      "text": "The area around the heart warms more quickly than the rest of the animal.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-223",
-      "part": 4,
-      "startTime": 1587.11,
-      "endTime": 1596.0,
+      "startTime": 1590.7,
+      "endTime": 1599.94,
       "text": "And despite the strain of hibernation, within 24 hours of coming out of it, the squirrel's body processes are basically normal.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-224",
-      "part": 4,
-      "startTime": 1596.0,
-      "endTime": 1603.14,
-      "text": "That is the end of Section 4.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-225",
-      "part": 4,
-      "startTime": 1603.14,
-      "endTime": 1612.41,
-      "text": "You now have half a minute to check your answers.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-226",
-      "part": 4,
-      "startTime": 1615.2,
-      "endTime": 1612.41,
-      "text": "That is the end of the listening test.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-227",
-      "part": 4,
-      "startTime": 1624.55,
-      "endTime": 1612.41,
-      "text": "You now have 10 minutes to transfer your answers to the listening answer sheet.",
       "timestampSource": "exact",
       "qTags": []
     }
@@ -2918,152 +2593,152 @@
     {
       "id": "long-001",
       "part": 1,
-      "startTime": 0.0,
-      "endTime": 19.0,
-      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only.",
+      "startTime": 96.84,
+      "endTime": 107.8,
+      "text": "Hi, I'm Jim. I'm here about the room. Hi, I'm Peter. We talked on the phone, didn't we? Come on in. Great. I just need to find out a few things before I make up my mind.",
       "segmentIds": [
         "seg-001",
-        "seg-002",
-        "seg-003"
+        "seg-002"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-002",
       "part": 1,
-      "startTime": 20.0,
-      "endTime": 44.81,
-      "text": "The test is in four sections. Write all your answers in the Listening Question Booklet. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to section one on page two of your question booklet. Section one.",
+      "startTime": 111.56,
+      "endTime": 127.36,
+      "text": "Jim is here to find out about a room, so room has been written in the space. Now we shall begin. You should answer the questions as you listen because you will not hear the recording a second time.",
       "segmentIds": [
+        "seg-003",
         "seg-004",
-        "seg-005",
-        "seg-006"
+        "seg-005"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-003",
       "part": 1,
-      "startTime": 44.81,
-      "endTime": 77.24,
-      "text": "You will hear two students called Peter and Jim talking about sharing a house together. First, you have some time to look at questions one to five on page two. You will see that there is an example that has been done for you.",
+      "startTime": 135.16,
+      "endTime": 157.26,
+      "text": "Hi, I'm Jim. I'm here about the room. Hi, I'm Peter. We talked on the phone, didn't we? Come on in. Great. I just need to find out a few things before I make up my mind. Okay. Well, first of all, I wasn't quite clear about the rent. It depends on the room you have. I have the large bedroom, so I pay $110 a week.",
       "segmentIds": [
+        "seg-006",
         "seg-007",
         "seg-008",
-        "seg-009"
+        "seg-009",
+        "seg-010"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-004",
       "part": 1,
-      "startTime": 77.24,
-      "endTime": 104.0,
-      "text": "On this occasion only, the conversation relating to this will be played first. Hi, I'm Jim. I'm here about the room. Hi, I'm Peter. We talked on the phone, didn't we? Come on in. Great. I just need to find out a few things before I make up my mind.",
+      "startTime": 157.26,
+      "endTime": 173.68,
+      "text": "Yours is $80 because it's a bit smaller. That's not too bad. The last place I was in was $100 a week and it was much smaller. And it seems like a good location. Yeah, and the shops are pretty close. The only thing is it's not very good for public transport.",
       "segmentIds": [
-        "seg-010",
         "seg-011",
-        "seg-012"
+        "seg-012",
+        "seg-013",
+        "seg-014",
+        "seg-015"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-005",
       "part": 1,
-      "startTime": 108.0,
-      "endTime": 131.24,
-      "text": "Jim is here to find out about a room, so room has been written in the space. Now we shall begin. You should answer the questions as you listen because you will not hear the recording a second time. Listen carefully and answer questions one to five. Hi, I'm Jim.",
+      "startTime": 174.0,
+      "endTime": 196.06,
+      "text": "The nearest bus stop is quite a walk. That's not a problem. I've got a car. By the way, is there anywhere I can park? Well, you're lucky because this house has a garage. At the moment there are some empty boxes in there, but there's still plenty of room for your car. You can't park in the street, it's zoned no parking, and the back lane is too narrow. Fine.",
       "segmentIds": [
-        "seg-013",
-        "seg-014",
-        "seg-015",
-        "seg-016"
+        "seg-016",
+        "seg-017",
+        "seg-018",
+        "seg-019",
+        "seg-020"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-006",
       "part": 1,
-      "startTime": 131.24,
-      "endTime": 153.67,
-      "text": "I'm here about the room. Hi, I'm Peter. We talked on the phone, didn't we? Come on in. Great. I just need to find out a few things before I make up my mind. Okay. Well, first of all, I wasn't quite clear about the rent. It depends on the room you have. I have the large bedroom, so I pay $110 a week.",
+      "startTime": 196.72,
+      "endTime": 215.48,
+      "text": "Now, what about phone calls? I didn't see a phone in the hall when I came in. I've got a mobile which my friends usually call me on, but a phone in the house is useful. Yeah, it's in the kitchen. It was in the living room, but it was hard to hear over the television. Oh, and we pay for our own calls. That's fair enough.",
       "segmentIds": [
-        "seg-017",
-        "seg-018",
-        "seg-019",
-        "seg-020",
-        "seg-021"
+        "seg-021",
+        "seg-022",
+        "seg-023",
+        "seg-024",
+        "seg-025"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-007",
       "part": 1,
-      "startTime": 153.67,
-      "endTime": 170.47,
-      "text": "Yours is $80 because it's a bit smaller. That's not too bad. The last place I was in was $100 a week and it was much smaller. And it seems like a good location. Yeah, and the shops are pretty close. The only thing is it's not very good for public transport.",
+      "startTime": 215.72,
+      "endTime": 233.76,
+      "text": "And what about my room? Yes, we'll go up and look in a minute. It's at the front of the house. It's a nice room and there's a cupboard and desk in there already. But it does get quite cold at night in that room and it doesn't have a heater. No problem. My friend has just given me one, so I'll bring that.",
       "segmentIds": [
-        "seg-022",
-        "seg-023",
-        "seg-024",
-        "seg-025",
-        "seg-026"
+        "seg-026",
+        "seg-027",
+        "seg-028",
+        "seg-029",
+        "seg-030"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-008",
       "part": 1,
-      "startTime": 170.47,
-      "endTime": 193.3,
-      "text": "The nearest bus stop is quite a walk. That's not a problem. I've got a car. By the way, is there anywhere I can park? Well, you're lucky because this house has a garage. At the moment there are some empty boxes in there, but there's still plenty of room for your car. You can't park in the street, it's zoned no parking, and the back lane is too narrow. Fine.",
+      "startTime": 234.0,
+      "endTime": 249.26,
+      "text": "He's gone travelling and has left me with a big box of things to mind. Anything else I can bring? Well, we've just got a microwave and my mother bought me a rice cooker, but it would be great if you had a toaster. Mine's just broken. I'll have a look in the box.",
       "segmentIds": [
-        "seg-027",
-        "seg-028",
-        "seg-029",
-        "seg-030",
-        "seg-031"
+        "seg-031",
+        "seg-032",
+        "seg-033",
+        "seg-034"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-009",
       "part": 1,
-      "startTime": 193.3,
-      "endTime": 213.8,
-      "text": "Now, what about phone calls? I didn't see a phone in the hall when I came in. I've got a mobile which my friends usually call me on, but a phone in the house is useful. Yeah, it's in the kitchen. It was in the living room, but it was hard to hear over the television. Oh, and we pay for our own calls. That's fair enough. And what about my room?",
+      "startTime": 286.48,
+      "endTime": 309.46,
+      "text": "One thing. I'm a keen sports fan and I usually watch the game on TV on Friday evening. Would that be OK? Me too, so that's good. And I work at the supermarket on Tuesday and Thursday nights. Great. You can do the shopping then. Do you have most of your lectures in the morning or afternoon? In the afternoons. Why? Mine are in the afternoons too. You could give me a lift.",
       "segmentIds": [
-        "seg-032",
-        "seg-033",
-        "seg-034",
         "seg-035",
-        "seg-036"
+        "seg-036",
+        "seg-037",
+        "seg-038"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-010",
       "part": 1,
-      "startTime": 213.8,
-      "endTime": 234.96,
-      "text": "Yes, we'll go up and look in a minute. It's at the front of the house. It's a nice room and there's a cupboard and desk in there already. But it does get quite cold at night in that room and it doesn't have a heater. No problem. My friend has just given me one, so I'll bring that. He's gone travelling and has left me with a big box of things to mind.",
+      "startTime": 309.56,
+      "endTime": 331.88,
+      "text": "We can share the petrol. Good idea. When do you think I could move in? Well, if you're interested and the rent is OK, I need someone by the 1st of June when the new rent period starts. Yes, that should be fine. The house seems big enough. The rent's reasonable. I've got an exam next week, so I'll move in after that if that's OK. Yeah, that sounds fine.",
       "segmentIds": [
-        "seg-037",
-        "seg-038",
         "seg-039",
         "seg-040",
-        "seg-041"
+        "seg-041",
+        "seg-042"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-011",
-      "part": 1,
-      "startTime": 234.96,
-      "endTime": 248.97,
-      "text": "Anything else I can bring? Well, we've just got a microwave and my mother bought me a rice cooker, but it would be great if you had a toaster. Mine's just broken. I'll have a look in the box.",
+      "part": 2,
+      "startTime": 424.62,
+      "endTime": 438.48,
+      "text": "Can everybody hear me? Good. Well, I'd like to welcome all the new parents to Springdown Junior School. My name is Anne Rawson and I'm the assistant head teacher.",
       "segmentIds": [
-        "seg-042",
         "seg-043",
         "seg-044",
         "seg-045"
@@ -3072,10 +2747,10 @@
     },
     {
       "id": "long-012",
-      "part": 1,
-      "startTime": 248.97,
-      "endTime": 281.56,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions 6 to 10 on page 2. Now listen and answer questions 6 to 10. One thing. I'm a keen sports fan and I usually watch the game on TV on Friday evening.",
+      "part": 2,
+      "startTime": 439.24,
+      "endTime": 458.14,
+      "text": "What I'd like to do is tell you about the school day and show you round the school and perhaps you can ask me any questions you may have at the end. Right. First of all, let me start by telling you a little bit about what happens here and what's on offer.",
       "segmentIds": [
         "seg-046",
         "seg-047",
@@ -3085,52 +2760,52 @@
     },
     {
       "id": "long-013",
-      "part": 1,
-      "startTime": 281.56,
-      "endTime": 302.58,
-      "text": "Would that be OK? Me too, so that's good. And I work at the supermarket on Tuesday and Thursday nights. Great. You can do the shopping then. Do you have most of your lectures in the morning or afternoon? In the afternoons. Why?",
+      "part": 2,
+      "startTime": 458.96,
+      "endTime": 482.22,
+      "text": "Children are expected to arrive at school between 8.45 and 8.50 and the bell is rung for everybody to go to their classrooms at 8.55 so that we can take the register. We then have assembly at 9.00 when the whole school meets in the hall for the head to talk to the children.",
       "segmentIds": [
         "seg-049",
         "seg-050",
-        "seg-051",
-        "seg-052"
+        "seg-051"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-014",
-      "part": 1,
-      "startTime": 302.58,
-      "endTime": 322.72,
-      "text": "Mine are in the afternoons too. You could give me a lift. We can share the petrol. Good idea. When do you think I could move in? Well, if you're interested and the rent is OK, I need someone by the 1st of June when the new rent period starts. Yes, that should be fine. The house seems big enough. The rent's reasonable.",
+      "part": 2,
+      "startTime": 482.36,
+      "endTime": 501.68,
+      "text": "He may discuss what's happened in the news or something that is important for the school. Lessons run until 4.00pm with an hour for lunch. Lunch is served in the canteen and children can bring their own packed lunch or a hot meal is available.",
       "segmentIds": [
+        "seg-052",
         "seg-053",
-        "seg-054",
-        "seg-055",
-        "seg-056"
+        "seg-054"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-015",
-      "part": 1,
-      "startTime": 322.72,
-      "endTime": 354.29,
-      "text": "I've got an exam next week, so I'll move in after that if that's OK. Yeah, that sounds fine. That is the end of section 1.",
+      "part": 2,
+      "startTime": 501.98,
+      "endTime": 528.04,
+      "text": "They also have time to play outside and get some fresh air. In the middle of the morning and the middle of the afternoon, there are two breaks of 15 minutes when the children also generally go outside, unless it's wet. Now, we encourage the children to do as much as they can and we offer them several ways of achieving this.",
       "segmentIds": [
-        "seg-057",
-        "seg-058",
-        "seg-059"
+        "seg-055",
+        "seg-056",
+        "seg-057"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-016",
-      "part": 1,
-      "startTime": 354.29,
-      "endTime": 380.0,
-      "text": "You now have half a minute to check your answers.",
+      "part": 2,
+      "startTime": 528.3,
+      "endTime": 550.46,
+      "text": "For example, on Thursday afternoons, rather than continuing with lessons, we expect the whole school to do sports. We vary these between summer and winter and everything is supervised by the teachers. Also, we like the children to work on something artistic over a long period of time.",
       "segmentIds": [
+        "seg-058",
+        "seg-059",
         "seg-060"
       ],
       "timestampSource": "exact"
@@ -3138,9 +2813,9 @@
     {
       "id": "long-017",
       "part": 2,
-      "startTime": 380.0,
-      "endTime": 414.93,
-      "text": "Now turn to section 2 on page 3. Section 2 You will hear a teacher giving a talk about a junior school to a group of parents. First you have some time to look at questions 11 to 17 on page 3. Now listen carefully and answer questions 11 to 17.",
+      "startTime": 550.74,
+      "endTime": 569.05,
+      "text": "So, for each of the three terms, they are expected to produce a poster. This will normally be on something particular that they have studied that term, such as the environment. We also make sure we keep a close eye on how each child is doing in their schoolwork",
       "segmentIds": [
         "seg-061",
         "seg-062",
@@ -3151,51 +2826,61 @@
     {
       "id": "long-018",
       "part": 2,
-      "startTime": 414.93,
-      "endTime": 434.43,
-      "text": "OK. Can everybody hear me? Good. Well, I'd like to welcome all the new parents to Springdown Junior School. My name is Anne Rawson and I'm the assistant head teacher.",
+      "startTime": 569.6,
+      "endTime": 588.9,
+      "text": "and every month, rather than the teacher giving the children a report, as I know some schools do, they have to do tests and we record their performance over the year. We are very proud of our school and of the very good results we achieve.",
       "segmentIds": [
         "seg-064",
         "seg-065",
-        "seg-066",
-        "seg-067"
+        "seg-066"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-019",
       "part": 2,
-      "startTime": 434.43,
-      "endTime": 455.53,
-      "text": "What I'd like to do is tell you about the school day and show you round the school and perhaps you can ask me any questions you may have at the end. Right. First of all, let me start by telling you a little bit about what happens here and what's on offer.",
+      "startTime": 589.18,
+      "endTime": 603.16,
+      "text": "Our teachers are all very committed to the school and at the end of the school day, many of them have set up clubs that the children go to for an extra hour to learn a new skill, such as music.",
       "segmentIds": [
-        "seg-068",
-        "seg-069",
-        "seg-070"
+        "seg-067",
+        "seg-068"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-020",
       "part": 2,
-      "startTime": 455.53,
-      "endTime": 486.07,
-      "text": "Children are expected to arrive at school between 8.45 and 8.50 and the bell is rung for everybody to go to their classrooms at 8.55 so that we can take the register. We then have assembly at 9.00 when the whole school meets in the hall for the head to talk to the children. He may discuss what's happened in the news or something that is important for the school.",
+      "startTime": 645.94,
+      "endTime": 665.78,
+      "text": "OK, I'll quickly show you where everything is. We're here at the main entrance and on the right, where you would normally expect to find reception, you'll see the Head's office. He likes to see visitors personally and his door is always open.",
       "segmentIds": [
-        "seg-071",
-        "seg-072",
-        "seg-073"
+        "seg-069",
+        "seg-070",
+        "seg-071"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-021",
       "part": 2,
-      "startTime": 486.07,
-      "endTime": 508.2,
-      "text": "Lessons run until 4.00pm with an hour for lunch. Lunch is served in the canteen and children can bring their own packed lunch or a hot meal is available. They also have time to play outside and get some fresh air. In the middle of the morning and the middle of the afternoon,",
+      "startTime": 666.46,
+      "endTime": 688.3,
+      "text": "Opposite this are two of the classrooms, but most of the classrooms are down the long corridor. The library, then, is situated between those two classrooms and we are hoping that we will be able to create a computer room within that so that the children can have somewhere quiet to work on their own.",
       "segmentIds": [
-        "seg-074",
+        "seg-072",
+        "seg-073",
+        "seg-074"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 689.64,
+      "endTime": 717.6,
+      "text": "On the left of the classrooms, we have converted one of the old cloakrooms to create a music room and children can go in there at lunchtime if they want to. Now, if you come with me through the main hall here... OK, now, as you can probably see, this main hall is a new addition this year and we are very pleased with it.",
+      "segmentIds": [
         "seg-075",
         "seg-076",
         "seg-077"
@@ -3203,11 +2888,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-022",
+      "id": "long-023",
       "part": 2,
-      "startTime": 508.2,
-      "endTime": 533.59,
-      "text": "there are two breaks of 15 minutes when the children also generally go outside, unless it's wet. Now, we encourage the children to do as much as they can and we offer them several ways of achieving this. For example, on Thursday afternoons, rather than continuing with lessons, we expect the whole school to do sports.",
+      "startTime": 718.02,
+      "endTime": 736.84,
+      "text": "We used to be squashed into the old assembly hall next door, which, as you can see, has now been turned into a gym for the children and we have weekly lessons here. Do feel free to go and look round the classrooms and I'll be waiting here to answer your questions.",
       "segmentIds": [
         "seg-078",
         "seg-079",
@@ -3216,77 +2901,57 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-023",
-      "part": 2,
-      "startTime": 533.59,
-      "endTime": 551.77,
-      "text": "We vary these between summer and winter and everything is supervised by the teachers. Also, we like the children to work on something artistic over a long period of time. So, for each of the three terms, they are expected to produce a poster.",
+      "id": "long-024",
+      "part": 3,
+      "startTime": 836.08,
+      "endTime": 857.66,
+      "text": "Hi Jen. Hi Rob. We need to look at this project we're doing together in Forensic Linguistics. Sure. The first thing we have to do is define Forensic Linguistics. I thought we could say something like Forensic Linguistics involves the analysis of language and forensic refers to using scientific techniques to solve crimes.",
       "segmentIds": [
         "seg-081",
         "seg-082",
-        "seg-083"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-024",
-      "part": 2,
-      "startTime": 551.77,
-      "endTime": 578.97,
-      "text": "This will normally be on something particular that they have studied that term, such as the environment. We also make sure we keep a close eye on how each child is doing in their schoolwork and every month, rather than the teacher giving the children a report, as I know some schools do, they have to do tests and we record their performance over the year.",
-      "segmentIds": [
-        "seg-084",
-        "seg-085",
-        "seg-086"
+        "seg-083",
+        "seg-084"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-025",
-      "part": 2,
-      "startTime": 578.97,
-      "endTime": 599.0,
-      "text": "We are very proud of our school and of the very good results we achieve. Our teachers are all very committed to the school and at the end of the school day, many of them have set up clubs that the children go to for an extra hour to learn a new skill, such as music.",
+      "part": 3,
+      "startTime": 857.86,
+      "endTime": 877.86,
+      "text": "So Forensic Linguistics involves analysing people's use of language to find out whether they've committed a crime. What do you think of that as a definition? Sounds OK. I looked it up in my dictionary and I got something similar. Then we can add something about what Forensic Linguists actually do to back it up.",
       "segmentIds": [
+        "seg-085",
+        "seg-086",
         "seg-087",
-        "seg-088",
-        "seg-089"
+        "seg-088"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-026",
-      "part": 2,
-      "startTime": 603.0,
-      "endTime": 634.05,
-      "text": "Before you hear the rest of the talk, you have some time to look at questions 18 to 20 on page 4. Now listen and answer questions 18 to 20. OK, I'll quickly show you where everything is.",
+      "part": 3,
+      "startTime": 878.06,
+      "endTime": 896.08,
+      "text": "You know, like analysing documents to find out who wrote them. Good point. Let's do that. What about the actual project? I'm glad we chose voice identification as the topic. Yeah. We've been given a voice recording of a possible suspect. Not a real suspect of course.",
       "segmentIds": [
+        "seg-089",
         "seg-090",
         "seg-091",
-        "seg-092"
+        "seg-092",
+        "seg-093"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-027",
-      "part": 2,
-      "startTime": 634.05,
-      "endTime": 669.27,
-      "text": "We're here at the main entrance and on the right, where you would normally expect to find reception, you'll see the Head's office. He likes to see visitors personally and his door is always open. Opposite this are two of the classrooms, but most of the classrooms are down the long corridor.",
+      "part": 3,
+      "startTime": 896.34,
+      "endTime": 918.6,
+      "text": "So we've got to listen to the recording and analyse their voice. Should be OK? Well, I've already listened to the recording and I can't even tell if it's a man or a woman. But I guess that doesn't matter. The accent's a local one, though I'm not sure how that will affect anything. Where we're really going to get in trouble is that the recording is very unclear.",
       "segmentIds": [
-        "seg-093",
         "seg-094",
-        "seg-095"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-028",
-      "part": 2,
-      "startTime": 669.27,
-      "endTime": 703.43,
-      "text": "The library, then, is situated between those two classrooms and we are hoping that we will be able to create a computer room within that so that the children can have somewhere quiet to work on their own. On the left of the classrooms, we have converted one of the old cloakrooms to create a music room and children can go in there at lunchtime if they want to. Now, if you come with me through the main hall here...",
-      "segmentIds": [
+        "seg-095",
         "seg-096",
         "seg-097",
         "seg-098"
@@ -3294,61 +2959,41 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-029",
-      "part": 2,
-      "startTime": 703.43,
-      "endTime": 726.0,
-      "text": "OK, now, as you can probably see, this main hall is a new addition this year and we are very pleased with it. We used to be squashed into the old assembly hall next door, which, as you can see, has now been turned into a gym for the children and we have weekly lessons here.",
+      "id": "long-028",
+      "part": 3,
+      "startTime": 918.7,
+      "endTime": 935.62,
+      "text": "I'm sure they've done that to test us. Well, they weren't going to make it easy. We have to analyse the voice sample with that spectrograph instrument, don't we? Learning what to do with it is the only thing that really concerns me about this project. It'll be fine. I guess so.",
       "segmentIds": [
         "seg-099",
         "seg-100",
-        "seg-101"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-030",
-      "part": 2,
-      "startTime": 726.0,
-      "endTime": 760.12,
-      "text": "Do feel free to go and look round the classrooms and I'll be waiting here to answer your questions.",
-      "segmentIds": [
+        "seg-101",
         "seg-102"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-031",
-      "part": 2,
-      "startTime": 760.12,
-      "endTime": 787.0,
-      "text": "That is the end of Section 2. You now have half a minute to check your answers.",
+      "id": "long-029",
+      "part": 3,
+      "startTime": 936.04,
+      "endTime": 953.0,
+      "text": "We have to interview the suspect and make our own recording face-to-face and decide if it's the same person as on the original recording, right? Yes. It's not an exact science but it's usually pretty accurate. You can often tell, even when they've got a cold, it's the same person",
       "segmentIds": [
         "seg-103",
-        "seg-104"
+        "seg-104",
+        "seg-105"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-032",
+      "id": "long-030",
       "part": 3,
-      "startTime": 787.0,
-      "endTime": 811.29,
-      "text": "Now turn to Section 3 on page 5. Section 3 You will hear two students called Jen and Rob discussing a project they are about to start working on. First you have some time to look at questions 21 to 24 on page 5. Now listen carefully and answer questions 21 to 24.",
+      "startTime": 953.12,
+      "endTime": 978.72,
+      "text": "but they might do something like speaking with another accent because the tutor suggests they do that just to test us. So let's get on with it then. Oh, and don't start your usual self-doubt about whether you can do the work or not. We usually do OK in the end. I reckon that as long as we focus on the main points of the assignment we can think about the finer details later. My problem is creating things to worry about before I've even started.",
       "segmentIds": [
-        "seg-105",
         "seg-106",
-        "seg-107"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-033",
-      "part": 3,
-      "startTime": 811.29,
-      "endTime": 830.76,
-      "text": "Hi Jen. Hi Rob. We need to look at this project we're doing together in Forensic Linguistics. Sure.",
-      "segmentIds": [
+        "seg-107",
         "seg-108",
         "seg-109",
         "seg-110"
@@ -3356,172 +3001,182 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-034",
+      "id": "long-031",
       "part": 3,
-      "startTime": 830.76,
-      "endTime": 862.06,
-      "text": "The first thing we have to do is define Forensic Linguistics. I thought we could say something like Forensic Linguistics involves the analysis of language and forensic refers to using scientific techniques to solve crimes. So Forensic Linguistics involves analysing people's use of language to find out whether they've committed a crime.",
+      "startTime": 1027.28,
+      "endTime": 1048.72,
+      "text": "We'll have to do some background reading first. I'll go to the library later and get what we need. OK. I've already looked at forensics today and it didn't say much about voice identification so we needn't bother with that one. Language and crime looks a bit more promising, doesn't it? I've got that out of the library already so we don't need to worry about borrowing that.",
       "segmentIds": [
         "seg-111",
         "seg-112",
-        "seg-113"
+        "seg-113",
+        "seg-114",
+        "seg-115"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 3,
+      "startTime": 1049.34,
+      "endTime": 1062.0,
+      "text": "Research methods in forensic linguistics. I guess we ought to borrow that. And voice identification will be a useful one. I'll borrow that from our classmate George. He won't need it for his project.",
+      "segmentIds": [
+        "seg-116",
+        "seg-117",
+        "seg-118",
+        "seg-119",
+        "seg-120"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 3,
+      "startTime": 1062.1,
+      "endTime": 1078.96,
+      "text": "But we should get out modern forensic techniques. We need all the help we can get on that subject. OK. That's that sorted out. Now on to the practical stuff. I'm not sure about how we're going to record the voices. I'm not too good on the technical side of things. Me neither.",
+      "segmentIds": [
+        "seg-121",
+        "seg-122",
+        "seg-123",
+        "seg-124",
+        "seg-125"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 3,
+      "startTime": 1079.08,
+      "endTime": 1096.36,
+      "text": "We'd better work out what we're doing. At least we get more than one opportunity to speak to the person playing the suspect. I just hope whoever it is won't make the task too tricky. I'm sure they won't be too hard on us. And as long as we do our research properly it shouldn't be too hard to do the rest of it.",
+      "segmentIds": [
+        "seg-126",
+        "seg-127",
+        "seg-128",
+        "seg-129",
+        "seg-130"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-035",
       "part": 3,
-      "startTime": 862.06,
-      "endTime": 883.18,
-      "text": "What do you think of that as a definition? Sounds OK. I looked it up in my dictionary and I got something similar. Then we can add something about what Forensic Linguists actually do to back it up. You know, like analysing documents to find out who wrote them. Good point. Let's do that. What about the actual project?",
+      "startTime": 1096.7,
+      "endTime": 1114.02,
+      "text": "I'm more worried about fitting in the writing up. I know. We've got loads of other assignments to finish as well. Now, Rob, let's decide how we're going to split the writing between us. Are you any good at introductions? They always seem to let me down. OK. Leave that to me.",
       "segmentIds": [
-        "seg-114",
-        "seg-115",
-        "seg-116",
-        "seg-117",
-        "seg-118"
+        "seg-131",
+        "seg-132",
+        "seg-133",
+        "seg-134",
+        "seg-135"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-036",
       "part": 3,
-      "startTime": 883.18,
-      "endTime": 905.0,
-      "text": "I'm glad we chose voice identification as the topic. Yeah. We've been given a voice recording of a possible suspect. Not a real suspect of course. So we've got to listen to the recording and analyse their voice. Should be OK? Well, I've already listened to the recording and I can't even tell if it's a man or a woman. But I guess that doesn't matter.",
+      "startTime": 1114.14,
+      "endTime": 1129.3,
+      "text": "Are you OK to do the literature review then? Maybe we should split that part. I don't mind writing the methodology section if you feel comfortable doing the discussion and conclusions. OK. And we can do the analysis between us as well. Great. Let's get started.",
       "segmentIds": [
-        "seg-119",
-        "seg-120",
-        "seg-121",
-        "seg-122",
-        "seg-123"
+        "seg-136",
+        "seg-137",
+        "seg-138",
+        "seg-139"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-037",
-      "part": 3,
-      "startTime": 906.0,
-      "endTime": 924.49,
-      "text": "The accent's a local one, though I'm not sure how that will affect anything. Where we're really going to get in trouble is that the recording is very unclear. I'm sure they've done that to test us. Well, they weren't going to make it easy. We have to analyse the voice sample with that spectrograph instrument, don't we?",
+      "part": 4,
+      "startTime": 1250.3,
+      "endTime": 1268.16,
+      "text": "We've been talking about some ways in which plants and animals deal with changes in their environment. And today we'll continue that discussion by looking at dormancy. First, we'll cover what dormancy is and why organisms become dormant.",
       "segmentIds": [
-        "seg-124",
-        "seg-125",
-        "seg-126",
-        "seg-127",
-        "seg-128"
+        "seg-140",
+        "seg-141",
+        "seg-142"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-038",
-      "part": 3,
-      "startTime": 924.49,
-      "endTime": 946.0,
-      "text": "Learning what to do with it is the only thing that really concerns me about this project. It'll be fine. I guess so. We have to interview the suspect and make our own recording face-to-face and decide if it's the same person as on the original recording, right? Yes. It's not an exact science but it's usually pretty accurate.",
+      "part": 4,
+      "startTime": 1268.56,
+      "endTime": 1291.94,
+      "text": "Dormancy is a state of inactivity that organisms or living things enter when they need to conserve the resources available to them and reduce their demands on their environment. Most major groups of plants and animals have some representatives that can become dormant. So what is the value of dormancy?",
       "segmentIds": [
-        "seg-129",
-        "seg-130",
-        "seg-131",
-        "seg-132",
-        "seg-133"
+        "seg-143",
+        "seg-144",
+        "seg-145",
+        "seg-146"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-039",
-      "part": 3,
-      "startTime": 946.0,
-      "endTime": 964.58,
-      "text": "You can often tell, even when they've got a cold, it's the same person but they might do something like speaking with another accent because the tutor suggests they do that just to test us. So let's get on with it then. Oh, and don't start your usual self-doubt about whether you can do the work or not. We usually do OK in the end.",
+      "part": 4,
+      "startTime": 1292.24,
+      "endTime": 1315.78,
+      "text": "To start with, animals that have the ability to become dormant can survive conditions which are stressful in environmental terms. For instance, when lakes, ponds, or rivers dry up, aquatic organisms that have the ability to enter dormancy can survive the drought, while others that cannot do this will die.",
       "segmentIds": [
-        "seg-134",
-        "seg-135",
-        "seg-136",
-        "seg-137"
+        "seg-147",
+        "seg-148",
+        "seg-149"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-040",
-      "part": 3,
-      "startTime": 964.58,
-      "endTime": 999.67,
-      "text": "I reckon that as long as we focus on the main points of the assignment we can think about the finer details later. My problem is creating things to worry about before I've even started. Before you hear the rest of the discussion you have some time to look at questions 25 to 30 on page 6.",
+      "part": 4,
+      "startTime": 1316.28,
+      "endTime": 1336.2,
+      "text": "Another advantage is that creatures that can become dormant in very inhospitable conditions, such as extreme cold, can live in a larger range of places than other organisms. And because of this, because they can live in places where other animals can't survive, when they are actually active",
       "segmentIds": [
-        "seg-138",
-        "seg-139",
-        "seg-140"
+        "seg-150",
+        "seg-151",
+        "seg-152"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-041",
-      "part": 3,
-      "startTime": 999.67,
-      "endTime": 1029.0,
-      "text": "Now listen and answer questions 25 to 30. We'll have to do some background reading first. I'll go to the library later and get what we need.",
+      "part": 4,
+      "startTime": 1336.2,
+      "endTime": 1365.92,
+      "text": "and looking for food, the amount of competition they have to deal with from other creatures is greatly reduced. Let's move on to look at what causes dormancy. There are a number of variables, but the ones that are the most significant are changes in temperature and the amount of light organisms get. Availability of food, water, and oxygen is also very important.",
       "segmentIds": [
-        "seg-141",
-        "seg-142",
-        "seg-143"
+        "seg-153",
+        "seg-154",
+        "seg-155",
+        "seg-156"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-042",
-      "part": 3,
-      "startTime": 1030.0,
-      "endTime": 1050.93,
-      "text": "OK. I've already looked at forensics today and it didn't say much about voice identification so we needn't bother with that one. Language and crime looks a bit more promising, doesn't it? I've got that out of the library already so we don't need to worry about borrowing that. Research methods in forensic linguistics. I guess we ought to borrow that.",
+      "part": 4,
+      "startTime": 1370.4,
+      "endTime": 1392.65,
+      "text": "Now we'll explore some specific examples. Let us first look at dormancy in insects. Insects can experience a reduction in their metabolism, which is a form of dormancy called diapause. In insects, diapause is either a reaction to difficult environmental conditions",
       "segmentIds": [
-        "seg-144",
-        "seg-145",
-        "seg-146",
-        "seg-147",
-        "seg-148"
+        "seg-157",
+        "seg-158",
+        "seg-159",
+        "seg-160"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-043",
-      "part": 3,
-      "startTime": 1050.93,
-      "endTime": 1072.12,
-      "text": "And voice identification will be a useful one. I'll borrow that from our classmate George. He won't need it for his project. But we should get out modern forensic techniques. We need all the help we can get on that subject. OK. That's that sorted out. Now on to the practical stuff. I'm not sure about how we're going to record the voices.",
+      "part": 4,
+      "startTime": 1393.2,
+      "endTime": 1413.0,
+      "text": "or a necessary part of the life cycle, such as with butterflies or certain moths. In terms of environment, it's interesting to note that through dormancy insects can survive when it's very cold. Another creature we'll look at is fish.",
       "segmentIds": [
-        "seg-149",
-        "seg-150",
-        "seg-151",
-        "seg-152",
-        "seg-153"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-044",
-      "part": 3,
-      "startTime": 1072.12,
-      "endTime": 1087.68,
-      "text": "I'm not too good on the technical side of things. Me neither. We'd better work out what we're doing. At least we get more than one opportunity to speak to the person playing the suspect. I just hope whoever it is won't make the task too tricky. I'm sure they won't be too hard on us.",
-      "segmentIds": [
-        "seg-154",
-        "seg-155",
-        "seg-156",
-        "seg-157",
-        "seg-158"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-045",
-      "part": 3,
-      "startTime": 1087.68,
-      "endTime": 1109.86,
-      "text": "And as long as we do our research properly it shouldn't be too hard to do the rest of it. I'm more worried about fitting in the writing up. I know. We've got loads of other assignments to finish as well. Now, Rob, let's decide how we're going to split the writing between us. Are you any good at introductions? They always seem to let me down. OK. Leave that to me.",
-      "segmentIds": [
-        "seg-159",
-        "seg-160",
         "seg-161",
         "seg-162",
         "seg-163"
@@ -3529,11 +3184,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-046",
-      "part": 3,
-      "startTime": 1109.86,
-      "endTime": 1122.23,
-      "text": "Are you OK to do the literature review then? Maybe we should split that part. I don't mind writing the methodology section if you feel comfortable doing the discussion and conclusions. OK.",
+      "id": "long-044",
+      "part": 4,
+      "startTime": 1413.0,
+      "endTime": 1435.42,
+      "text": "Fish share the same main environmental causes for dormancy as other creatures, but as one might imagine, they are particularly sensitive to drought. Let's take the African lungfish as an example. When the water supply is low, the African lungfish burrows deep into the mud.",
       "segmentIds": [
         "seg-164",
         "seg-165",
@@ -3542,11 +3197,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-047",
-      "part": 3,
-      "startTime": 1122.23,
-      "endTime": 1150.97,
-      "text": "And we can do the analysis between us as well. Great. Let's get started.",
+      "id": "long-045",
+      "part": 4,
+      "startTime": 1435.48,
+      "endTime": 1453.94,
+      "text": "It surrounds itself with a cocoon of slime and remains inactive. While dormant, it faces two dangers. One is the possibility of starvation, and to overcome this, it relies on fat it has stored up in its body.",
       "segmentIds": [
         "seg-167",
         "seg-168",
@@ -3555,260 +3210,95 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-048",
-      "part": 3,
-      "startTime": 1150.97,
-      "endTime": 1183.0,
-      "text": "That is the end of Section 3. You now have half a minute to check your answers.",
+      "id": "long-046",
+      "part": 4,
+      "startTime": 1454.1,
+      "endTime": 1476.92,
+      "text": "The other is desiccation or drying up, which is addressed through a reduction in the production of urine. Snails are also known to become dormant. Some snails seal off their shell with a membrane of dried mucus after settling at their place of dormancy. Other snails do not have this possibility.",
       "segmentIds": [
         "seg-170",
-        "seg-171"
+        "seg-171",
+        "seg-172",
+        "seg-173"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 4,
+      "startTime": 1477.12,
+      "endTime": 1500.76,
+      "text": "They trust the protection of their shell. Snails that remain outside during their dormancy can usually be recognised by a rather brightly coloured shell reflecting the sunlight and so minimising evaporation. That is why in open habitats, banded snails usually have a yellow shell.",
+      "segmentIds": [
+        "seg-174",
+        "seg-175",
+        "seg-176",
+        "seg-177"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 4,
+      "startTime": 1501.6,
+      "endTime": 1521.16,
+      "text": "Probably the most well-known type of dormancy is hibernation, which occurs in warm-blooded creatures during the winter. We know that warm-blooded animals maintain a regular body temperature. So what's really interesting about hibernators, true hibernators that is,",
+      "segmentIds": [
+        "seg-178",
+        "seg-179",
+        "seg-180"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-049",
       "part": 4,
-      "startTime": 1183.0,
-      "endTime": 1214.6,
-      "text": "Now turn to Section 4 on page 7. Section 4 You will hear a biology lecture on how living things deal with changes in their environment by entering a state called dormancy. First, you have some time to look at questions 31 to 40 on page 7. Now listen carefully and answer questions 31 to 40.",
+      "startTime": 1521.68,
+      "endTime": 1540.34,
+      "text": "is they can actually adapt to extreme conditions by turning off their internal thermostat, so to speak, and hibernating until conditions improve. Let's examine the behaviour of a true hibernator, the Arctic ground squirrel.",
       "segmentIds": [
-        "seg-172",
-        "seg-173",
-        "seg-174"
+        "seg-181",
+        "seg-182",
+        "seg-183"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-050",
       "part": 4,
-      "startTime": 1214.6,
-      "endTime": 1241.27,
-      "text": "We've been talking about some ways in which plants and animals deal with changes in their environment.",
+      "startTime": 1541.06,
+      "endTime": 1558.94,
+      "text": "This squirrel digs underground and builds a nest that is insulated. Once in its nest, it curls up into a ball and tucks in its arms, legs, and tail. Its body temperature mirrors the cold of its surroundings.",
       "segmentIds": [
-        "seg-175"
+        "seg-184",
+        "seg-185",
+        "seg-186"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-051",
       "part": 4,
-      "startTime": 1241.27,
-      "endTime": 1278.04,
-      "text": "And today we'll continue that discussion by looking at dormancy. First, we'll cover what dormancy is and why organisms become dormant. Dormancy is a state of inactivity that organisms or living things enter when they need to conserve the resources available to them and reduce their demands on their environment.",
+      "startTime": 1559.38,
+      "endTime": 1578.8,
+      "text": "At this point, the squirrel barely breathes and doesn't react to stimulus in a normal way. During this period of hibernation, the squirrel loses nearly 40% of its weight. The process of awakening for the Arctic ground squirrel takes about three hours.",
       "segmentIds": [
-        "seg-176",
-        "seg-177",
-        "seg-178"
+        "seg-187",
+        "seg-188",
+        "seg-189"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-052",
       "part": 4,
-      "startTime": 1278.04,
-      "endTime": 1298.09,
-      "text": "Most major groups of plants and animals have some representatives that can become dormant. So what is the value of dormancy? To start with, animals that have the ability to become dormant can survive conditions which are stressful in environmental terms.",
-      "segmentIds": [
-        "seg-179",
-        "seg-180",
-        "seg-181"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-053",
-      "part": 4,
-      "startTime": 1298.09,
-      "endTime": 1318.03,
-      "text": "For instance, when lakes, ponds, or rivers dry up, aquatic organisms that have the ability to enter dormancy can survive the drought, while others that cannot do this will die. Another advantage is that creatures that can become dormant in very inhospitable conditions,",
-      "segmentIds": [
-        "seg-182",
-        "seg-183",
-        "seg-184"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-054",
-      "part": 4,
-      "startTime": 1318.03,
-      "endTime": 1342.03,
-      "text": "such as extreme cold, can live in a larger range of places than other organisms. And because of this, because they can live in places where other animals can't survive, when they are actually active and looking for food, the amount of competition they have to deal with from other creatures is greatly reduced.",
-      "segmentIds": [
-        "seg-185",
-        "seg-186",
-        "seg-187"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-055",
-      "part": 4,
-      "startTime": 1342.03,
-      "endTime": 1364.39,
-      "text": "Let's move on to look at what causes dormancy. There are a number of variables, but the ones that are the most significant are changes in temperature and the amount of light organisms get. Availability of food, water, and oxygen is also very important.",
-      "segmentIds": [
-        "seg-188",
-        "seg-189",
-        "seg-190"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-056",
-      "part": 4,
-      "startTime": 1364.39,
-      "endTime": 1383.06,
-      "text": "Now we'll explore some specific examples. Let us first look at dormancy in insects. Insects can experience a reduction in their metabolism, which is a form of dormancy called diapause.",
-      "segmentIds": [
-        "seg-191",
-        "seg-192",
-        "seg-193"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-057",
-      "part": 4,
-      "startTime": 1383.06,
-      "endTime": 1405.0,
-      "text": "In insects, diapause is either a reaction to difficult environmental conditions or a necessary part of the life cycle, such as with butterflies or certain moths. In terms of environment, it's interesting to note that through dormancy insects can survive when it's very cold.",
-      "segmentIds": [
-        "seg-194",
-        "seg-195",
-        "seg-196"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-058",
-      "part": 4,
-      "startTime": 1407.0,
-      "endTime": 1425.0,
-      "text": "Another creature we'll look at is fish. Fish share the same main environmental causes for dormancy as other creatures, but as one might imagine, they are particularly sensitive to drought. Let's take the African lungfish as an example.",
-      "segmentIds": [
-        "seg-197",
-        "seg-198",
-        "seg-199"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-059",
-      "part": 4,
-      "startTime": 1426.0,
-      "endTime": 1441.0,
-      "text": "When the water supply is low, the African lungfish burrows deep into the mud. It surrounds itself with a cocoon of slime and remains inactive. While dormant, it faces two dangers.",
-      "segmentIds": [
-        "seg-200",
-        "seg-201",
-        "seg-202"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-060",
-      "part": 4,
-      "startTime": 1442.0,
-      "endTime": 1462.0,
-      "text": "One is the possibility of starvation, and to overcome this, it relies on fat it has stored up in its body. The other is desiccation or drying up, which is addressed through a reduction in the production of urine. Snails are also known to become dormant.",
-      "segmentIds": [
-        "seg-203",
-        "seg-204",
-        "seg-205"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-061",
-      "part": 4,
-      "startTime": 1463.0,
-      "endTime": 1490.9,
-      "text": "Some snails seal off their shell with a membrane of dried mucus after settling at their place of dormancy. Other snails do not have this possibility. They trust the protection of their shell. Snails that remain outside during their dormancy can usually be recognised by a rather brightly coloured shell reflecting the sunlight and so minimising evaporation.",
-      "segmentIds": [
-        "seg-206",
-        "seg-207",
-        "seg-208"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-062",
-      "part": 4,
-      "startTime": 1490.9,
-      "endTime": 1512.75,
-      "text": "That is why in open habitats, banded snails usually have a yellow shell. Probably the most well-known type of dormancy is hibernation, which occurs in warm-blooded creatures during the winter. We know that warm-blooded animals maintain a regular body temperature.",
-      "segmentIds": [
-        "seg-209",
-        "seg-210",
-        "seg-211"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-063",
-      "part": 4,
-      "startTime": 1512.75,
-      "endTime": 1537.0,
-      "text": "So what's really interesting about hibernators, true hibernators that is, is they can actually adapt to extreme conditions by turning off their internal thermostat, so to speak, and hibernating until conditions improve. Let's examine the behaviour of a true hibernator, the Arctic ground squirrel.",
-      "segmentIds": [
-        "seg-212",
-        "seg-213",
-        "seg-214"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-064",
-      "part": 4,
-      "startTime": 1537.0,
-      "endTime": 1555.0,
-      "text": "This squirrel digs underground and builds a nest that is insulated. Once in its nest, it curls up into a ball and tucks in its arms, legs, and tail. Its body temperature mirrors the cold of its surroundings.",
-      "segmentIds": [
-        "seg-215",
-        "seg-216",
-        "seg-217"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-065",
-      "part": 4,
-      "startTime": 1556.0,
-      "endTime": 1575.0,
-      "text": "At this point, the squirrel barely breathes and doesn't react to stimulus in a normal way. During this period of hibernation, the squirrel loses nearly 40% of its weight. The process of awakening for the Arctic ground squirrel takes about three hours.",
-      "segmentIds": [
-        "seg-218",
-        "seg-219",
-        "seg-220"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-066",
-      "part": 4,
-      "startTime": 1576.0,
-      "endTime": 1596.0,
+      "startTime": 1579.22,
+      "endTime": 1599.94,
       "text": "When this happens, there is a rapid rise in the heartbeat and circulation is affected. The area around the heart warms more quickly than the rest of the animal. And despite the strain of hibernation, within 24 hours of coming out of it, the squirrel's body processes are basically normal.",
       "segmentIds": [
-        "seg-221",
-        "seg-222",
-        "seg-223"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-067",
-      "part": 4,
-      "startTime": 1596.0,
-      "endTime": 1612.41,
-      "text": "That is the end of Section 4. You now have half a minute to check your answers. That is the end of the listening test. You now have 10 minutes to transfer your answers to the listening answer sheet.",
-      "segmentIds": [
-        "seg-224",
-        "seg-225",
-        "seg-226",
-        "seg-227"
+        "seg-190",
+        "seg-191",
+        "seg-192"
       ],
       "timestampSource": "exact"
     }

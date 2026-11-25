@@ -11,8 +11,8 @@
   ],
   "audioUrl": "./data/vol-8/test-2/audio.mp3",
   "audioDurationSec": 1589.73,
-  "hasExactTimestamps": false,
-  "timestampNote": "Tài liệu gốc Vol 8 không đính kèm mốc giờ từng câu; hệ thống ước lượng tỷ lệ theo độ dài audio gốc. Bạn có thể tinh chỉnh bằng trình biên tập Timestamp / SRT.",
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian đã được căn chỉnh trực tiếp từ audio gốc ở mức từng từ (acoustic forced alignment).",
   "parts": [
     {
       "partNumber": 1,
@@ -22,7 +22,7 @@
         10
       ],
       "startTime": 0.0,
-      "endTime": 344.18,
+      "endTime": 348.7,
       "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
     },
     {
@@ -32,8 +32,8 @@
         11,
         20
       ],
-      "startTime": 344.18,
-      "endTime": 752.65,
+      "startTime": 409.2,
+      "endTime": 784.22,
       "topicHint": "You will hear part of a radio programme in which a successful businessman is advising listeners on how to become a self-made millionaire."
     },
     {
@@ -43,9 +43,9 @@
         21,
         30
       ],
-      "startTime": 752.65,
-      "endTime": 1204.33,
-      "topicHint": "You will hear two students of performance arts called Charlie and Gina preparing to give feedback at the end of the second year of their three-year course. First, you have some tim"
+      "startTime": 815.04,
+      "endTime": 1230.14,
+      "topicHint": "You will hear two students of performance arts called Charlie and Gina preparing to give feedback at the end of the second year of their three-year course."
     },
     {
       "partNumber": 4,
@@ -54,16 +54,16 @@
         31,
         40
       ],
-      "startTime": 1204.33,
-      "endTime": 1587.73,
-      "topicHint": "You will hear part of a presentation to biology students on new research into sea lions. First you have some time to look at questions 31 to 40."
+      "startTime": 1259.82,
+      "endTime": 1574.16,
+      "topicHint": "You will hear part of a presentation to biology students on new research into sea lions."
     }
   ],
   "questions": [
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Name: Peter Smith Home address: 130 South Main Street, Lake 1____________ Contact number: 2____________ (cell phone) Present occupation: • has temporary job as a part-time 3____________ • is studying PE • wants to be a high school 4____________ coach Qualifications Already holds: water safety certificate Certificate exp",
+      "promptContext": "130 South Main Street, Lake",
       "answerRaw": "Elsinore",
       "canonicalAnswer": "Elsinore",
       "acceptedAnswers": [
@@ -71,8 +71,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "It's 130 South Main Street, Lake Elsinore. Okay, I'm new around here.",
-      "evidenceStartTime": 98.32,
-      "evidenceEndTime": 104.97,
+      "evidenceStartTime": 108.38,
+      "evidenceEndTime": 116.82,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"Elsinore\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -80,21 +80,19 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "s: 130 South Main Street, Lake 1____________ Contact number: 2____________ (cell phone) Present occupation: • has temporary job as a part-time 3____________ • is studying PE • wants to be a high school 4____________ coach Qualifications Already holds: water safety certificate Certificate expires in: 5____________ Relevan",
+      "promptContext": "Contact number:",
       "answerRaw": "077896245",
       "canonicalAnswer": "077896245",
       "acceptedAnswers": [
         "077896245"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "It's 130 South Main Street, Lake Elsinore. Okay, I'm new around here.",
-      "evidenceStartTime": 98.32,
-      "evidenceEndTime": 104.97,
+      "evidenceQuote": "Okay, I'm new around here. Can you spell that for me? Yes, it's E-L-S-I-N-O-R-E.",
+      "evidenceStartTime": 113.78,
+      "evidenceEndTime": 125.1,
       "paraphrases": [],
-      "distractors": [
-        "Có số gây nhiễu (130) xuất hiện sát đáp án chuẩn '077896245'."
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"077896245\". Lưu ý bẫy gây nhiễu (distractor): Có số gây nhiễu (130) xuất hiện sát đáp án chuẩn '077896245'.."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"077896245\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 3,
@@ -107,8 +105,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "I'm in my second year here at Fernley, and this vacation I've got a job as a part-time waiter.",
-      "evidenceStartTime": 131.57,
-      "evidenceEndTime": 140.63,
+      "evidenceStartTime": 156.74,
+      "evidenceEndTime": 163.02,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"waiter\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -116,7 +114,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "e 3____________ • is studying PE • wants to be a high school 4____________ coach Qualifications Already holds: water safety certificate Certificate expires in: 5____________ Relevant work experience Lifeguard at: the 6____________ in Fearnley Additional relevant skills: 7____________ Other Information: is happy to • work",
+      "promptContext": "• is studying PE • wants to be a high school",
       "answerRaw": "baseball",
       "canonicalAnswer": "baseball",
       "acceptedAnswers": [
@@ -124,8 +122,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Then I hope to go on and coach baseball in high school, something like that.",
-      "evidenceStartTime": 152.78,
-      "evidenceEndTime": 160.11,
+      "evidenceStartTime": 171.1,
+      "evidenceEndTime": 175.52,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"baseball\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -133,16 +131,16 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "eady holds: water safety certificate Certificate expires in: 5____________ Relevant work experience Lifeguard at: the 6____________ in Fearnley Additional relevant skills: 7____________ Other Information: is happy to • work on 8____________ mornings • start at 9____________ o’clock How did the applicant find out about th",
+      "promptContext": "coach Qualifications Already holds: water safety certificate Certificate expires in:",
       "answerRaw": "October",
       "canonicalAnswer": "October",
       "acceptedAnswers": [
         "October"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I took it last November, so it'll run out in October. Okay, good.",
-      "evidenceStartTime": 200.3,
-      "evidenceEndTime": 206.56,
+      "evidenceQuote": "Do you have the water safety certificate? We absolutely insist on that. Yes, I do.",
+      "evidenceStartTime": 232.1,
+      "evidenceEndTime": 237.82,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"October\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -150,16 +148,16 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "in: 5____________ Relevant work experience Lifeguard at: the 6____________ in Fearnley Additional relevant skills: 7____________ Other Information: is happy to • work on 8____________ mornings • start at 9____________ o’clock How did the applicant find out about this Job? on the 10____________",
+      "promptContext": "Relevant work experience Lifeguard at: the",
       "answerRaw": "beach",
       "canonicalAnswer": "beach",
       "acceptedAnswers": [
         "beach"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Oh, it was at the beach here in Fernley. I can get the number of the person you need to contact. Good.",
-      "evidenceStartTime": 226.13,
-      "evidenceEndTime": 235.87,
+      "evidenceQuote": "Now, what about work experience as a lifeguard? Well, I've had about four months' experience.",
+      "evidenceStartTime": 247.34,
+      "evidenceEndTime": 253.9,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"beach\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -167,16 +165,16 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "t: the 6____________ in Fearnley Additional relevant skills: 7____________ Other Information: is happy to • work on 8____________ mornings • start at 9____________ o’clock How did the applicant find out about this Job? on the 10____________",
+      "promptContext": "in Fearnley Additional relevant skills:",
       "answerRaw": "diving",
       "canonicalAnswer": "diving",
       "acceptedAnswers": [
         "diving"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And do you have any other additional skills I can put down? You can put down diving.",
-      "evidenceStartTime": 235.87,
-      "evidenceEndTime": 243.97,
+      "evidenceQuote": "You can put down diving. I've done that for a long time now.",
+      "evidenceStartTime": 271.76,
+      "evidenceEndTime": 275.52,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"diving\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -184,7 +182,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "ills: 7____________ Other Information: is happy to • work on 8____________ mornings • start at 9____________ o’clock How did the applicant find out about this Job? on the 10____________",
+      "promptContext": ": is happy to • work on",
       "answerRaw": "Saturday",
       "canonicalAnswer": "Saturday",
       "acceptedAnswers": [
@@ -192,8 +190,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "You can choose either Saturday mornings or any time Monday to Friday.",
-      "evidenceStartTime": 259.49,
-      "evidenceEndTime": 266.14,
+      "evidenceStartTime": 285.9,
+      "evidenceEndTime": 290.72,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"Saturday\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -201,7 +199,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "ion: is happy to • work on 8____________ mornings • start at 9____________ o’clock How did the applicant find out about this Job? on the 10____________",
+      "promptContext": "mornings • start at",
       "answerRaw": "six, 6",
       "canonicalAnswer": "six",
       "acceptedAnswers": [
@@ -210,8 +208,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "We open at six. Could you start that early? No, that's fine.",
-      "evidenceStartTime": 278.67,
-      "evidenceEndTime": 284.45,
+      "evidenceStartTime": 300.12,
+      "evidenceEndTime": 304.82,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"six\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -219,16 +217,16 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "’clock How did the applicant find out about this Job? on the 10____________",
+      "promptContext": "o’clock How did the applicant find out about this Job? on the",
       "answerRaw": "radio",
       "canonicalAnswer": "radio",
       "acceptedAnswers": [
         "radio"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "We always ask this. Was it from the newspaper or the radio?",
-      "evidenceStartTime": 314.13,
-      "evidenceEndTime": 319.82,
+      "evidenceQuote": "Was it from the newspaper or the radio? I heard the advertisement this morning when I was driving into college.",
+      "evidenceStartTime": 325.78,
+      "evidenceEndTime": 331.8,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"radio\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -236,7 +234,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "ions 11–16 Choose the correct answer. Becoming a millionaire 11 Arthur feels that when starting a business, mistakes should be A. seen as an opportunity to learn. B. predicted and minimised. C. avoided at all costs 12 Recent American studies found that confidence will A. sometimes reduce people's chances of success. B. be",
+      "promptContext": "Arthur feels that when starting a business, mistakes should be A. seen as an opportunity to learn. B. predicted and minimised. C. avoided at all costs",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -244,8 +242,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Well, one thing I've heard people say is that when you're starting up a business, you can't afford to make mistakes.",
-      "evidenceStartTime": 397.97,
-      "evidenceEndTime": 409.11,
+      "evidenceStartTime": 499.26,
+      "evidenceEndTime": 506.36,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -255,45 +253,44 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "o learn. B. predicted and minimised. C. avoided at all costs 12 Recent American studies found that confidence will A. sometimes reduce people's chances of success. B. be increased by reading self-help books. C. ensure good results on business courses. 13 The American studies recommended that new entrepreneurs A. listen to",
+      "promptContext": "Recent American studies found that confidence will A. sometimes reduce people's chances of success. B. be increased by reading self-help books. C. ensure good results on business courses.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And don't listen to all the people around you who say, oh, this will never work.",
-      "evidenceStartTime": 490.65,
-      "evidenceEndTime": 498.33,
+      "evidenceQuote": "But according to recent American business school studies, believing in yourself isn't enough by itself to guarantee success.",
+      "evidenceStartTime": 526.14,
+      "evidenceEndTime": 534.52,
       "paraphrases": [],
       "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "self-help books. C. ensure good results on business courses. 13 The American studies recommended that new entrepreneurs A. listen to their colleagues' advice. B. get professional help when things go wrong. C. remain concentrated on their aims. 14 What does Arthur say about his own experience of marketing? A. He relied on",
+      "promptContext": "The American studies recommended that new entrepreneurs A. listen to their colleagues' advice. B. get professional help when things go wrong. C. remain concentrated on their aims.",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And don't listen to all the people around you who say, oh, this will never work.",
-      "evidenceStartTime": 490.65,
-      "evidenceEndTime": 498.33,
+      "evidenceQuote": "The advice given in these American studies was that being a successful entrepreneur comes down to having the right attitude.",
+      "evidenceStartTime": 548.66,
+      "evidenceEndTime": 557.54,
       "paraphrases": [],
-      "distractors": [
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "when things go wrong. C. remain concentrated on their aims. 14 What does Arthur say about his own experience of marketing? A. He relied on what he already knew. B. He hired an expert to take care of it. C. He realised its importance too late. 15 What does Arthur think Is an important quality shared by good leaders? A. Th",
+      "promptContext": "What does Arthur say about his own experience of marketing? A. He relied on what he already knew. B. He hired an expert to take care of it. C. He realised its importance too late.",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -301,8 +298,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "But I soon realised that although I knew everything there was to know about plumbing, I didn't have much idea about how to sell my ideas. So, I got someone who knew more about this to take care of the marketing side of things for me.",
-      "evidenceStartTime": 514.46,
-      "evidenceEndTime": 536.73,
+      "evidenceStartTime": 583.64,
+      "evidenceEndTime": 598.66,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -313,27 +310,26 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "to take care of it. C. He realised its importance too late. 15 What does Arthur think Is an important quality shared by good leaders? A. They are ambitious for their company. B. They can deal with difficult people. C. They earn the respect of their workforce. 16 What does Arthur say about taking risks? A. He advises bein",
+      "promptContext": "What does Arthur think Is an important quality shared by good leaders? A. They are ambitious for their company. B. They can deal with difficult people. C. They earn the respect of their workforce.",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "But I soon realised that although I knew everything there was to know about plumbing, I didn't have much idea about how to sell my ideas. So, I got someone who knew more about this to take care of the marketing side of things for me.",
-      "evidenceStartTime": 514.46,
-      "evidenceEndTime": 536.73,
+      "evidenceQuote": "You have to be able to control people, but listen to them at the same time.",
+      "evidenceStartTime": 607.44,
+      "evidenceEndTime": 612.62,
       "paraphrases": [],
       "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
       "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "fficult people. C. They earn the respect of their workforce. 16 What does Arthur say about taking risks? A. He advises being cautions. B. He favours a long-term view. C. He believes it is financially advantageous. Questions 17–18 Choose TWO correct answers. 17-18 Which TWO things does Arthur say people should focus on whe",
+      "promptContext": "What does Arthur say about taking risks? A. He advises being cautions. B. He favours a long-term view. C. He believes it is financially advantageous. Questions 17–18 Choose TWO correct answers.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -341,8 +337,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "I personally feel it's actually better to tread carefully when it comes to taking short-term risks.",
-      "evidenceStartTime": 572.93,
-      "evidenceEndTime": 582.44,
+      "evidenceStartTime": 626.28,
+      "evidenceEndTime": 633.1,
       "paraphrases": [],
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')"
@@ -352,7 +348,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "ly advantageous. Questions 17–18 Choose TWO correct answers. 17-18 Which TWO things does Arthur say people should focus on when developing their business idea? A. making sure the idea is original B. offering a better deal than competitors C. being committed to it D. paying attention to detail E. fixing realistic prices Quest",
+      "promptContext": "Which TWO things does Arthur say people should focus on when developing their business idea? A. making sure the idea is original B. offering a better deal than competitors C. being committed to it D. paying attention to detail E. fixing realistic prices Questions 19–20 Choose TWO correct answers.",
       "answerRaw": "B, C",
       "canonicalAnswer": "B, C",
       "acceptedAnswers": [
@@ -371,8 +367,8 @@
         ]
       },
       "evidenceQuote": "Can you cater for people's needs better than existing companies?",
-      "evidenceStartTime": 627.38,
-      "evidenceEndTime": 633.53,
+      "evidenceStartTime": 693.84,
+      "evidenceEndTime": 698.34,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -380,7 +376,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "",
+      "promptContext": "Which TWO things does Arthur say people should focus on when developing their business idea? A. making sure the idea is original B. offering a better deal than competitors C. being committed to it D. paying attention to detail E. fixing realistic prices Questions 19–20 Choose TWO correct answers.",
       "answerRaw": "B, C",
       "canonicalAnswer": "B, C",
       "acceptedAnswers": [
@@ -398,20 +394,17 @@
           "C"
         ]
       },
-      "evidenceQuote": "You don't need to worry about whether it's original or not because there isn't always enough of a demand for completely new ideas.",
-      "evidenceStartTime": 633.53,
-      "evidenceEndTime": 646.01,
+      "evidenceQuote": "Can you cater for people's needs better than existing companies?",
+      "evidenceStartTime": 693.84,
+      "evidenceEndTime": 698.34,
       "paraphrases": [],
-      "distractors": [
-        "câu phủ định ('not') loại trừ phương án bẫy",
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
-      ],
-      "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+      "distractors": [],
+      "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": "realistic prices Questions 19–20 Choose TWO correct answers. 19-20 Which TWO things does Arthur say helped him get his business started? A family support B getting a loan from a bank C good business advice D a favourable economic climate E an effective approach to business Questions 21–26 Choose the correct answer. Feedback",
+      "promptContext": "Which TWO things does Arthur say helped him get his business started? A family support B getting a loan from a bank C good business advice D a favourable economic climate E an effective approach to business Questions 21–26 Choose the correct answer. Feedback on second year of Performance Arts Course 21 Gina chose to study performance arts at this university because the course A. has a very good reputation. B. has links with various theatres. C. has an international flavour. 22 Which of the options they chose have Gina and Charlie both found useful? A. Movement Analysis B. Dance and Drama C. The Body in Dance 23 What did Charlie do during his work experience? A. He worked in a costume department. B. He performed with a ballet company. C. He helped out at a dance school for children. 24 What does Gina say she learnt from her work experience? A. how to organise her time better B. how to work better in a team C. how to cope when under pressure 25 What does Charlie say about his dissertation topic? A. He wanted it to be different from those of other students. B. He had already done an assignment in this area. C. He was inspired to choose it by a performance he saw. 26 Which aspect of writing a dissertation is Gina worried about? A. finding enough to say B. doing the background reading C. presenting it in an appropriate way Questions 27–30 What do the students say about each of the following types of careers in performance arts? Choose FOUR correct answers, A-F, next to questions 27-30. Comments A The pay can be low. B There is a lot of competition. C An additional qualification is required D Good communication skills are required E People with experience feel very positive about it. F It is a relatively unpopular choice. Types of careers Performance 27___________ Education 28___________ Theatre management 29___________ Marketing 30___________",
       "answerRaw": "A, E",
       "canonicalAnswer": "A, E",
       "acceptedAnswers": [
@@ -429,17 +422,22 @@
           "E"
         ]
       },
-      "evidenceQuote": "If I'd listened to the business advice I was given back then, I'd never have got started.",
-      "evidenceStartTime": 697.87,
-      "evidenceEndTime": 706.42,
-      "paraphrases": [],
+      "evidenceQuote": "and that my wife had a good job and was able to pay the household bills while I was getting the company on its feet.",
+      "evidenceStartTime": 757.58,
+      "evidenceEndTime": 764.24,
+      "paraphrases": [
+        {
+          "questionTerm": "work",
+          "audioTerm": "job"
+        }
+      ],
       "distractors": [],
-      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, E). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 20,
       "part": 2,
-      "promptContext": "",
+      "promptContext": "Which TWO things does Arthur say helped him get his business started? A family support B getting a loan from a bank C good business advice D a favourable economic climate E an effective approach to business Questions 21–26 Choose the correct answer. Feedback on second year of Performance Arts Course 21 Gina chose to study performance arts at this university because the course A. has a very good reputation. B. has links with various theatres. C. has an international flavour. 22 Which of the options they chose have Gina and Charlie both found useful? A. Movement Analysis B. Dance and Drama C. The Body in Dance 23 What did Charlie do during his work experience? A. He worked in a costume department. B. He performed with a ballet company. C. He helped out at a dance school for children. 24 What does Gina say she learnt from her work experience? A. how to organise her time better B. how to work better in a team C. how to cope when under pressure 25 What does Charlie say about his dissertation topic? A. He wanted it to be different from those of other students. B. He had already done an assignment in this area. C. He was inspired to choose it by a performance he saw. 26 Which aspect of writing a dissertation is Gina worried about? A. finding enough to say B. doing the background reading C. presenting it in an appropriate way Questions 27–30 What do the students say about each of the following types of careers in performance arts? Choose FOUR correct answers, A-F, next to questions 27-30. Comments A The pay can be low. B There is a lot of competition. C An additional qualification is required D Good communication skills are required E People with experience feel very positive about it. F It is a relatively unpopular choice. Types of careers Performance 27___________ Education 28___________ Theatre management 29___________ Marketing 30___________",
       "answerRaw": "A, E",
       "canonicalAnswer": "A, E",
       "acceptedAnswers": [
@@ -457,14 +455,17 @@
           "E"
         ]
       },
-      "evidenceQuote": "The first couple of years were very tough, but I knew I would make it eventually.",
-      "evidenceStartTime": 731.77,
-      "evidenceEndTime": 739.55,
-      "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      "evidenceQuote": "and that my wife had a good job and was able to pay the household bills while I was getting the company on its feet.",
+      "evidenceStartTime": 757.58,
+      "evidenceEndTime": 764.24,
+      "paraphrases": [
+        {
+          "questionTerm": "work",
+          "audioTerm": "job"
+        }
       ],
-      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, E). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 21,
@@ -476,9 +477,9 @@
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Now listen carefully and answer questions 21 to 26. So, Gina, we've got to give our tutor some feedback on how we feel about the course now we've come to the end of our second year.",
-      "evidenceStartTime": 772.95,
-      "evidenceEndTime": 790.26,
+      "evidenceQuote": "So did you choose this university to do performance arts because it's got such a good reputation? That's what hooked me in.",
+      "evidenceStartTime": 896.42,
+      "evidenceEndTime": 903.32,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -493,14 +494,15 @@
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Well, there are other good places which I also considered, but when I looked into things further, I was impressed by the connections this course has with a whole range of theatres of different types.",
-      "evidenceStartTime": 810.16,
-      "evidenceEndTime": 829.2,
+      "evidenceQuote": "I'm sorry I didn't go for that one too, but I did dance and drama, which was brilliant too.",
+      "evidenceStartTime": 937.28,
+      "evidenceEndTime": 943.74,
       "paraphrases": [],
       "distractors": [
+        "người nói xin lỗi và sửa lại thông tin trước đó ('sorry')",
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói xin lỗi và sửa lại thông tin trước đó ('sorry')."
     },
     {
       "number": 23,
@@ -512,12 +514,15 @@
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Absolutely. It's provided a great foundation for all our other work since then.",
-      "evidenceStartTime": 871.79,
-      "evidenceEndTime": 879.39,
+      "evidenceQuote": "I didn't get the chance to go on stage, but I helped out with sewing clothes for current productions and even with designing some for future shows.",
+      "evidenceStartTime": 967.84,
+      "evidenceEndTime": 976.42,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 24,
@@ -529,9 +534,9 @@
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Hmm. I've been offered more work at the place where I was working in Canada. Great.",
-      "evidenceStartTime": 920.16,
-      "evidenceEndTime": 928.14,
+      "evidenceQuote": "I think I've got much better at controlling my stress levels.",
+      "evidenceStartTime": 996.12,
+      "evidenceEndTime": 999.84,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -546,14 +551,12 @@
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Also, I had to organise my time well, but I've always been reasonably good at that. That's good. So we've got quite a few things ready to say to our tutor.",
-      "evidenceStartTime": 958.24,
-      "evidenceEndTime": 973.05,
+      "evidenceQuote": "I also think it could be helpful to discuss our future plans.",
+      "evidenceStartTime": 1032.52,
+      "evidenceEndTime": 1037.18,
       "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 26,
@@ -565,14 +568,12 @@
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "But then I saw a spectacular production at the Royal Opera House, and that settled me on stage design.",
-      "evidenceStartTime": 1006.62,
-      "evidenceEndTime": 1016.43,
+      "evidenceQuote": "That could be useful. I'm planning to do something on current trends in contemporary dance for my dissertation.",
+      "evidenceStartTime": 1068.22,
+      "evidenceEndTime": 1075.74,
       "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 27,
@@ -587,8 +588,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "And I feel confident about how to write a longer piece of work.",
-      "evidenceStartTime": 1052.39,
-      "evidenceEndTime": 1058.45,
+      "evidenceStartTime": 1088.76,
+      "evidenceEndTime": 1093.16,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án E People with experience feel very positive about it.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -605,9 +606,9 @@
         "An additional qualification is required"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I'm still undecided. I've thought about performance, of course.",
-      "evidenceStartTime": 1089.42,
-      "evidenceEndTime": 1095.48,
+      "evidenceQuote": "I've thought about performance, of course. Yes, I think lots of graduates from here take that route.",
+      "evidenceStartTime": 1147.28,
+      "evidenceEndTime": 1153.88,
       "paraphrases": [],
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
@@ -627,8 +628,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "But I think it would be interesting, rewarding work. I was wondering about theatre management as a possible option.",
-      "evidenceStartTime": 1135.48,
-      "evidenceEndTime": 1146.44,
+      "evidenceStartTime": 1176.92,
+      "evidenceEndTime": 1184.74,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -648,8 +649,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "I've read something saying it can be an interesting career, though I don't think many graduates go for this.",
-      "evidenceStartTime": 1173.46,
-      "evidenceEndTime": 1183.85,
+      "evidenceStartTime": 1204.14,
+      "evidenceEndTime": 1211.44,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -659,16 +660,16 @@
     {
       "number": 31,
       "part": 4,
-      "promptContext": "unting. • Sea lions are now affected by nets used to control 31__________ Animal tracking systems • Considerations when choosing a tracking method include 32__________ and ease of use. • Plastic tags: the animal must be easy to 33__________ • GPS tracking will not work in the 34__________ • In isolated regions, some anima",
+      "promptContext": "• Sea lions are now affected by nets used to control",
       "answerRaw": "sharks",
       "canonicalAnswer": "sharks",
       "acceptedAnswers": [
         "sharks"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "That's no longer allowed. But today there is a new danger. Sea lions often forage for food in the same areas along the coastlines where there are nets used to catch sharks.",
-      "evidenceStartTime": 1268.37,
-      "evidenceEndTime": 1284.79,
+      "evidenceQuote": "But today there is a new danger. Sea lions often forage for food in the same areas along the coastlines where there are nets used to catch sharks.",
+      "evidenceStartTime": 1362.78,
+      "evidenceEndTime": 1372.32,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -679,7 +680,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "ems • Considerations when choosing a tracking method include 32__________ and ease of use. • Plastic tags: the animal must be easy to 33__________ • GPS tracking will not work in the 34__________ • In isolated regions, some animals are tracked by 35__________ (e.g. the polar bear) • Some animals are identified by markings",
+      "promptContext": "Animal tracking systems • Considerations when choosing a tracking method include",
       "answerRaw": "cost",
       "canonicalAnswer": "cost",
       "acceptedAnswers": [
@@ -687,8 +688,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "One of the most important of these is the cost, but you also have to consider how easy your chosen method is to use.",
-      "evidenceStartTime": 1315.61,
-      "evidenceEndTime": 1326.75,
+      "evidenceStartTime": 1392.12,
+      "evidenceEndTime": 1399.12,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -698,7 +699,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "and ease of use. • Plastic tags: the animal must be easy to 33__________ • GPS tracking will not work in the 34__________ • In isolated regions, some animals are tracked by 35__________ (e.g. the polar bear) • Some animals are identified by markings (e.g. the dolphin is identified by its scars). Challenges of tracking se",
+      "promptContext": "and ease of use. • Plastic tags: the animal must be easy to",
       "answerRaw": "catch",
       "canonicalAnswer": "catch",
       "acceptedAnswers": [
@@ -706,8 +707,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "They're relatively straightforward to attach, but they're really only suitable to use with animals that you can catch quite easily.",
-      "evidenceStartTime": 1332.13,
-      "evidenceEndTime": 1344.71,
+      "evidenceStartTime": 1403.54,
+      "evidenceEndTime": 1410.52,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -718,7 +719,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "be easy to 33__________ • GPS tracking will not work in the 34__________ • In isolated regions, some animals are tracked by 35__________ (e.g. the polar bear) • Some animals are identified by markings (e.g. the dolphin is identified by its scars). Challenges of tracking sea lions • Perth study: the sea lions lost their t",
+      "promptContext": "• GPS tracking will not work in the",
       "answerRaw": "ocean",
       "canonicalAnswer": "ocean",
       "acceptedAnswers": [
@@ -726,8 +727,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "One drawback for marine animals, though, is that they don't transmit a signal in the ocean.",
-      "evidenceStartTime": 1358.44,
-      "evidenceEndTime": 1367.18,
+      "evidenceStartTime": 1419.8,
+      "evidenceEndTime": 1424.94,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -737,7 +738,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "_________ • In isolated regions, some animals are tracked by 35__________ (e.g. the polar bear) • Some animals are identified by markings (e.g. the dolphin is identified by its scars). Challenges of tracking sea lions • Perth study: the sea lions lost their tags. (They rubbed against 36__________ to remove them.) • Califo",
+      "promptContext": "• In isolated regions, some animals are tracked by",
       "answerRaw": "helicopter",
       "canonicalAnswer": "helicopter",
       "acceptedAnswers": [
@@ -745,8 +746,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "There are certain large animals in remote areas that have to be tracked using a helicopter.",
-      "evidenceStartTime": 1370.92,
-      "evidenceEndTime": 1379.66,
+      "evidenceStartTime": 1428.44,
+      "evidenceEndTime": 1433.66,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"helicopter\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -754,16 +755,16 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "h study: the sea lions lost their tags. (They rubbed against 36__________ to remove them.) • Californian researchers used 37__________ to identify sea lions. (This was unreliable due to regular loss of fur.) Our study Aims: i) to find out if sea lions' whiskers can be used to identify them ii) to create a 38__________ to",
+      "promptContext": "(e.g. the polar bear) • Some animals are identified by markings (e.g. the dolphin is identified by its scars). Challenges of tracking sea lions • Perth study: the sea lions lost their tags. (They rubbed against",
       "answerRaw": "rocks",
       "canonicalAnswer": "rocks",
       "acceptedAnswers": [
         "rocks"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "they found that the sea lions had removed their tracking devices by deliberately rubbing up against rocks.",
-      "evidenceStartTime": 1422.58,
-      "evidenceEndTime": 1432.76,
+      "evidenceQuote": "found that the sea lions had removed their tracking devices by deliberately rubbing up against rocks.",
+      "evidenceStartTime": 1463.64,
+      "evidenceEndTime": 1468.92,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"rocks\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -771,7 +772,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "36__________ to remove them.) • Californian researchers used 37__________ to identify sea lions. (This was unreliable due to regular loss of fur.) Our study Aims: i) to find out if sea lions' whiskers can be used to identify them ii) to create a 38__________ to use as a guide Methods: i) contacting 39__________ in Austral",
+      "promptContext": "to remove them.) • Californian researchers used",
       "answerRaw": "paint",
       "canonicalAnswer": "paint",
       "acceptedAnswers": [
@@ -779,8 +780,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "They applied paint to the animals. They thought this would be a better, less invasive means of identification.",
-      "evidenceStartTime": 1445.53,
-      "evidenceEndTime": 1455.99,
+      "evidenceStartTime": 1478.48,
+      "evidenceEndTime": 1485.56,
       "paraphrases": [],
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
@@ -790,7 +791,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "lions' whiskers can be used to identify them ii) to create a 38__________ to use as a guide Methods: i) contacting 39__________ in Australia for photographs ii) asking the 40__________ to get involved",
+      "promptContext": "to identify sea lions. (This was unreliable due to regular loss of fur.) Our study Aims: i) to find out if sea lions' whiskers can be used to identify them ii) to create a",
       "answerRaw": "diagram",
       "canonicalAnswer": "diagram",
       "acceptedAnswers": [
@@ -798,8 +799,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Our second aim is to come up with a diagram of sea lion whisker patterns, so this can be used as a guide for us and other studies.",
-      "evidenceStartTime": 1511.2,
-      "evidenceEndTime": 1523.68,
+      "evidenceStartTime": 1527.9,
+      "evidenceEndTime": 1536.12,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"diagram\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -807,7 +808,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "eate a 38__________ to use as a guide Methods: i) contacting 39__________ in Australia for photographs ii) asking the 40__________ to get involved",
+      "promptContext": "to use as a guide Methods: i) contacting",
       "answerRaw": "zoos",
       "canonicalAnswer": "zoos",
       "acceptedAnswers": [
@@ -815,8 +816,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "So firstly, we've been in touch with zoos around Australia to gather photographs from them of the faces of any sea lions they have.",
-      "evidenceStartTime": 1535.21,
-      "evidenceEndTime": 1547.79,
+      "evidenceStartTime": 1543.9,
+      "evidenceEndTime": 1551.7,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"zoos\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -824,7 +825,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "ing 39__________ in Australia for photographs ii) asking the 40__________ to get involved",
+      "promptContext": "in Australia for photographs ii) asking the",
       "answerRaw": "public",
       "canonicalAnswer": "public",
       "acceptedAnswers": [
@@ -832,8 +833,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "This won't be enough to achieve our purpose though, so we're also broadening our search by inviting the public to take part in our research.",
-      "evidenceStartTime": 1547.79,
-      "evidenceEndTime": 1561.23,
+      "evidenceStartTime": 1552.08,
+      "evidenceEndTime": 1559.82,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -845,1864 +846,1729 @@
     {
       "id": "seg-001",
       "part": 1,
-      "startTime": 0.0,
-      "endTime": 9.93,
-      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear.",
-      "timestampSource": "estimated",
+      "startTime": 81.26,
+      "endTime": 84.54,
+      "text": "Hello, Fernley Sports Centre. How can I help you?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-002",
       "part": 1,
-      "startTime": 9.93,
-      "endTime": 20.82,
-      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
-      "timestampSource": "estimated",
+      "startTime": 84.96,
+      "endTime": 89.96,
+      "text": "Yes, I'd like to apply for one of the lifeguard jobs you advertised this week.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-003",
       "part": 1,
-      "startTime": 20.82,
-      "endTime": 27.66,
-      "text": "All the recordings will be played once only. The test is in four parts.",
-      "timestampSource": "estimated",
+      "startTime": 90.46,
+      "endTime": 93.12,
+      "text": "Right, we can do that now over the phone.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-004",
       "part": 1,
-      "startTime": 27.66,
-      "endTime": 33.15,
-      "text": "Write all your answers in the listening question booklet.",
-      "timestampSource": "estimated",
+      "startTime": 93.22,
+      "endTime": 95.82,
+      "text": "I'll just need some information from you.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-005",
       "part": 1,
-      "startTime": 33.15,
-      "endTime": 42.6,
-      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet.",
-      "timestampSource": "estimated",
+      "startTime": 96.1,
+      "endTime": 98.0,
+      "text": "Let me get a form.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-006",
       "part": 1,
-      "startTime": 42.6,
-      "endTime": 48.19,
-      "text": "Now turn to part one on page two of your question booklet.",
-      "timestampSource": "estimated",
+      "startTime": 98.8,
+      "endTime": 102.22,
+      "text": "Okay, so let's start with your name.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-007",
       "part": 1,
-      "startTime": 48.19,
-      "endTime": 56.48,
-      "text": "Part One You will hear a man called Peter phoning a sports centre manager about a job.",
-      "timestampSource": "estimated",
+      "startTime": 102.68,
+      "endTime": 108.04,
+      "text": "Peter Smith Okay, can you let me have your home address?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-008",
       "part": 1,
-      "startTime": 56.48,
-      "endTime": 62.17,
-      "text": "First, you have some time to look at questions one to four.",
-      "timestampSource": "estimated",
+      "startTime": 108.38,
+      "endTime": 113.78,
+      "text": "It's 130 South Main Street, Lake Elsinore.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-009",
       "part": 1,
-      "startTime": 62.17,
-      "endTime": 70.27,
-      "text": "Now listen carefully and answer questions one to four. Hello, Fernley Sports Centre.",
-      "timestampSource": "estimated",
+      "startTime": 113.78,
+      "endTime": 116.82,
+      "text": "Okay, I'm new around here.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-010",
       "part": 1,
-      "startTime": 70.27,
-      "endTime": 72.1,
-      "text": "How can I help you?",
-      "timestampSource": "estimated",
+      "startTime": 117.08,
+      "endTime": 125.1,
+      "text": "Can you spell that for me? Yes, it's E-L-S-I-N-O-R-E.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-011",
       "part": 1,
-      "startTime": 72.1,
-      "endTime": 79.62,
-      "text": "Yes, I'd like to apply for one of the lifeguard jobs you advertised this week.",
-      "timestampSource": "estimated",
+      "startTime": 127.0,
+      "endTime": 129.14,
+      "text": "Okay, got that.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-012",
       "part": 1,
-      "startTime": 79.62,
-      "endTime": 87.62,
-      "text": "Right, we can do that now over the phone. I'll just need some information from you.",
-      "timestampSource": "estimated",
+      "startTime": 129.56,
+      "endTime": 131.18,
+      "text": "And your phone number?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-013",
       "part": 1,
-      "startTime": 87.62,
-      "endTime": 92.92,
-      "text": "Let me get a form. Okay, so let's start with your name.",
-      "timestampSource": "estimated",
+      "startTime": 131.48,
+      "endTime": 141.18,
+      "text": "My home number's 9-5-1-6-7-4-3-1-2-4, but it's best to ring me on my cell phone.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-014",
       "part": 1,
-      "startTime": 92.92,
-      "endTime": 98.32,
-      "text": "Peter Smith Okay, can you let me have your home address?",
-      "timestampSource": "estimated",
+      "startTime": 141.28,
+      "endTime": 148.4,
+      "text": "That's 0-7-7-8-9-6-2-4-5.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-015",
       "part": 1,
-      "startTime": 98.32,
-      "endTime": 104.97,
-      "text": "It's 130 South Main Street, Lake Elsinore. Okay, I'm new around here.",
-      "timestampSource": "estimated",
+      "startTime": 148.4,
+      "endTime": 152.52,
+      "text": "Okay, now what do you do?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-016",
       "part": 1,
-      "startTime": 104.97,
-      "endTime": 111.62,
-      "text": "Can you spell that for me? Yes, it's E-L-S-I-N-O-R-E. Okay, got that.",
-      "timestampSource": "estimated",
+      "startTime": 152.6,
+      "endTime": 156.36,
+      "text": "Are you still in college or are you working full time?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-017",
       "part": 1,
-      "startTime": 111.62,
-      "endTime": 113.74,
-      "text": "And your phone number?",
-      "timestampSource": "estimated",
+      "startTime": 156.74,
+      "endTime": 163.02,
+      "text": "I'm in my second year here at Fernley, and this vacation I've got a job as a part-time waiter.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-018",
       "part": 1,
-      "startTime": 113.74,
-      "endTime": 121.45,
-      "text": "My home number's 9-5-1-6-7-4-3-1-2-4, but it's best to ring me on my cell phone.",
-      "timestampSource": "estimated",
+      "startTime": 163.32,
+      "endTime": 170.68,
+      "text": "Okay, I guess if you're at Fernley College you'll be studying physical education? They all seem to do that there. That's right.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-019",
       "part": 1,
-      "startTime": 121.45,
-      "endTime": 126.37,
-      "text": "That's 0-7-7-8-9-6-2-4-5. Okay, now what do you do?",
-      "timestampSource": "estimated",
+      "startTime": 171.1,
+      "endTime": 175.52,
+      "text": "Then I hope to go on and coach baseball in high school, something like that.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-020",
       "part": 1,
-      "startTime": 126.37,
-      "endTime": 131.57,
-      "text": "Are you still in college or are you working full time?",
-      "timestampSource": "estimated",
+      "startTime": 175.84,
+      "endTime": 179.2,
+      "text": "I guess it all depends on how I do in my final exams.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-021",
       "part": 1,
-      "startTime": 131.57,
-      "endTime": 140.63,
-      "text": "I'm in my second year here at Fernley, and this vacation I've got a job as a part-time waiter.",
-      "timestampSource": "estimated",
+      "startTime": 179.6,
+      "endTime": 181.58,
+      "text": "Okay, sounds good to me.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-022",
       "part": 1,
-      "startTime": 140.63,
-      "endTime": 148.44,
-      "text": "Okay, I guess if you're at Fernley College you'll be studying physical education?",
-      "timestampSource": "estimated",
+      "startTime": 227.98,
+      "endTime": 231.92,
+      "text": "Now, the next part of the form deals with qualifications.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-023",
       "part": 1,
-      "startTime": 148.44,
-      "endTime": 152.78,
-      "text": "They all seem to do that there. That's right.",
-      "timestampSource": "estimated",
+      "startTime": 232.1,
+      "endTime": 234.44,
+      "text": "Do you have the water safety certificate?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-024",
       "part": 1,
-      "startTime": 152.78,
-      "endTime": 160.11,
-      "text": "Then I hope to go on and coach baseball in high school, something like that.",
-      "timestampSource": "estimated",
+      "startTime": 234.7,
+      "endTime": 237.82,
+      "text": "We absolutely insist on that. Yes, I do.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-025",
       "part": 1,
-      "startTime": 160.11,
-      "endTime": 167.63,
-      "text": "I guess it all depends on how I do in my final exams. Okay, sounds good to me.",
-      "timestampSource": "estimated",
+      "startTime": 238.22,
+      "endTime": 242.12,
+      "text": "So how long will it last before you have to do a refresher course?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-026",
       "part": 1,
-      "startTime": 167.63,
-      "endTime": 176.69,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions 5 to 10.",
-      "timestampSource": "estimated",
+      "startTime": 242.26,
+      "endTime": 247.06,
+      "text": "I took it last November, so it'll run out in October. Okay, good.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-027",
       "part": 1,
-      "startTime": 176.69,
-      "endTime": 180.55,
-      "text": "Now listen and answer questions 5 to 10.",
-      "timestampSource": "estimated",
+      "startTime": 247.34,
+      "endTime": 250.46,
+      "text": "Now, what about work experience as a lifeguard?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-028",
       "part": 1,
-      "startTime": 180.55,
-      "endTime": 186.04,
-      "text": "Now, the next part of the form deals with qualifications.",
-      "timestampSource": "estimated",
+      "startTime": 250.8,
+      "endTime": 253.9,
+      "text": "Well, I've had about four months' experience.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-029",
       "part": 1,
-      "startTime": 186.04,
-      "endTime": 193.94,
-      "text": "Do you have the water safety certificate? We absolutely insist on that. Yes, I do.",
-      "timestampSource": "estimated",
+      "startTime": 254.24,
+      "endTime": 256.2,
+      "text": "Which swimming pool was that at?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-030",
       "part": 1,
-      "startTime": 193.94,
-      "endTime": 200.3,
-      "text": "So how long will it last before you have to do a refresher course?",
-      "timestampSource": "estimated",
+      "startTime": 256.24,
+      "endTime": 260.48,
+      "text": "I need to have details of your employer, obviously, so we can get a reference.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-031",
       "part": 1,
-      "startTime": 200.3,
-      "endTime": 206.56,
-      "text": "I took it last November, so it'll run out in October. Okay, good.",
-      "timestampSource": "estimated",
+      "startTime": 260.68,
+      "endTime": 263.16,
+      "text": "Oh, it was at the beach here in Fernley.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-032",
       "part": 1,
-      "startTime": 206.56,
-      "endTime": 211.09,
-      "text": "Now, what about work experience as a lifeguard?",
-      "timestampSource": "estimated",
+      "startTime": 263.38,
+      "endTime": 267.64,
+      "text": "I can get the number of the person you need to contact. Good.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-033",
       "part": 1,
-      "startTime": 211.09,
-      "endTime": 218.61,
-      "text": "Well, I've had about four months' experience. Which swimming pool was that at?",
-      "timestampSource": "estimated",
+      "startTime": 267.76,
+      "endTime": 271.24,
+      "text": "And do you have any other additional skills I can put down?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-034",
       "part": 1,
-      "startTime": 218.61,
-      "endTime": 226.13,
-      "text": "I need to have details of your employer, obviously, so we can get a reference.",
-      "timestampSource": "estimated",
+      "startTime": 271.76,
+      "endTime": 273.38,
+      "text": "You can put down diving.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-035",
       "part": 1,
-      "startTime": 226.13,
-      "endTime": 229.99,
-      "text": "Oh, it was at the beach here in Fernley.",
-      "timestampSource": "estimated",
+      "startTime": 273.54,
+      "endTime": 275.52,
+      "text": "I've done that for a long time now.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-036",
       "part": 1,
-      "startTime": 229.99,
-      "endTime": 235.87,
-      "text": "I can get the number of the person you need to contact. Good.",
-      "timestampSource": "estimated",
+      "startTime": 275.68,
+      "endTime": 282.3,
+      "text": "I'm also keen on rock climbing, but that's not really relevant here. No. Okay.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-037",
       "part": 1,
-      "startTime": 235.87,
-      "endTime": 243.97,
-      "text": "And do you have any other additional skills I can put down? You can put down diving.",
-      "timestampSource": "estimated",
+      "startTime": 282.54,
+      "endTime": 285.7,
+      "text": "And I need to ask when you would prefer to work.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-038",
       "part": 1,
-      "startTime": 243.97,
-      "endTime": 247.34,
-      "text": "I've done that for a long time now.",
-      "timestampSource": "estimated",
+      "startTime": 285.9,
+      "endTime": 290.72,
+      "text": "You can choose either Saturday mornings or any time Monday to Friday.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-039",
       "part": 1,
-      "startTime": 247.34,
-      "endTime": 254.86,
-      "text": "I'm also keen on rock climbing, but that's not really relevant here. No. Okay.",
-      "timestampSource": "estimated",
+      "startTime": 291.02,
+      "endTime": 293.58,
+      "text": "We've got enough people on Sundays at the moment.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-040",
       "part": 1,
-      "startTime": 254.86,
-      "endTime": 259.49,
-      "text": "And I need to ask when you would prefer to work.",
-      "timestampSource": "estimated",
+      "startTime": 294.32,
+      "endTime": 299.88,
+      "text": "Well, not Monday to Friday, because I'm at the restaurant weekday evenings. Okay.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-041",
       "part": 1,
-      "startTime": 259.49,
-      "endTime": 266.14,
-      "text": "You can choose either Saturday mornings or any time Monday to Friday.",
-      "timestampSource": "estimated",
+      "startTime": 300.12,
+      "endTime": 304.82,
+      "text": "We open at six. Could you start that early? No, that's fine.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-042",
       "part": 1,
-      "startTime": 266.14,
-      "endTime": 270.86,
-      "text": "We've got enough people on Sundays at the moment.",
-      "timestampSource": "estimated",
+      "startTime": 305.0,
+      "endTime": 308.06,
+      "text": "I prefer that to working late. Okay.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-043",
       "part": 1,
-      "startTime": 270.86,
-      "endTime": 278.67,
-      "text": "Well, not Monday to Friday, because I'm at the restaurant weekday evenings. Okay.",
-      "timestampSource": "estimated",
+      "startTime": 308.36,
+      "endTime": 316.78,
+      "text": "Now I need to speak to the committee who run the sports centre here, but you should hear back from us pretty soon, and then they'll probably arrange an interview.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-044",
       "part": 1,
-      "startTime": 278.67,
-      "endTime": 284.45,
-      "text": "We open at six. Could you start that early? No, that's fine.",
-      "timestampSource": "estimated",
+      "startTime": 317.18,
+      "endTime": 318.88,
+      "text": "Thanks very much. Great.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-045",
       "part": 1,
-      "startTime": 284.45,
-      "endTime": 287.92,
-      "text": "I prefer that to working late. Okay.",
-      "timestampSource": "estimated",
+      "startTime": 319.16,
+      "endTime": 325.72,
+      "text": "Now, before you go, I'd just like to ask you how you found out about our advertisement. We always ask this.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-046",
       "part": 1,
-      "startTime": 287.92,
-      "endTime": 294.47,
-      "text": "Now I need to speak to the committee who run the sports centre here,",
-      "timestampSource": "estimated",
+      "startTime": 325.78,
+      "endTime": 328.16,
+      "text": "Was it from the newspaper or the radio?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-047",
       "part": 1,
-      "startTime": 294.47,
-      "endTime": 303.43,
-      "text": "but you should hear back from us pretty soon, and then they'll probably arrange an interview.",
-      "timestampSource": "estimated",
+      "startTime": 328.38,
+      "endTime": 331.8,
+      "text": "I heard the advertisement this morning when I was driving into college.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-048",
       "part": 1,
-      "startTime": 303.43,
-      "endTime": 305.74,
-      "text": "Thanks very much. Great.",
-      "timestampSource": "estimated",
+      "startTime": 331.84,
+      "endTime": 333.78,
+      "text": "I don't usually read the local paper.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-049",
       "part": 1,
-      "startTime": 305.74,
-      "endTime": 314.13,
-      "text": "Now, before you go, I'd just like to ask you how you found out about our advertisement.",
-      "timestampSource": "estimated",
+      "startTime": 334.74,
+      "endTime": 338.76,
+      "text": "Thanks. Well, that's all. Hope to see you soon.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-050",
-      "part": 1,
-      "startTime": 314.13,
-      "endTime": 319.82,
-      "text": "We always ask this. Was it from the newspaper or the radio?",
-      "timestampSource": "estimated",
+      "part": 2,
+      "startTime": 480.78,
+      "endTime": 486.0,
+      "text": "So, we asked Arthur Knowles, who made his millions in the plumbing business, to give",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-051",
-      "part": 1,
-      "startTime": 319.82,
-      "endTime": 326.66,
-      "text": "I heard the advertisement this morning when I was driving into college.",
-      "timestampSource": "estimated",
+      "part": 2,
+      "startTime": 486.0,
+      "endTime": 491.6,
+      "text": "the budding entrepreneurs among you a few tips on how to make your first million.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-052",
-      "part": 1,
-      "startTime": 326.66,
-      "endTime": 333.79,
-      "text": "I don't usually read the local paper. All right. Thanks. Well, that's all.",
-      "timestampSource": "estimated",
+      "part": 2,
+      "startTime": 492.0,
+      "endTime": 494.96,
+      "text": "Arthur, welcome to the programme. Thanks, Sue.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-053",
-      "part": 1,
-      "startTime": 333.79,
-      "endTime": 338.61,
-      "text": "Hope to see you soon. That is the end of part one.",
-      "timestampSource": "estimated",
+      "part": 2,
+      "startTime": 495.42,
+      "endTime": 498.98,
+      "text": "So, Arthur, what advice do you have for our listeners?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-054",
-      "part": 1,
-      "startTime": 338.61,
-      "endTime": 344.18,
-      "text": "You now have one minute to check your answers to part one.",
-      "timestampSource": "estimated",
+      "part": 2,
+      "startTime": 499.26,
+      "endTime": 506.36,
+      "text": "Well, one thing I've heard people say is that when you're starting up a business, you can't afford to make mistakes.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-055",
       "part": 2,
-      "startTime": 344.18,
-      "endTime": 357.33,
-      "text": "You will hear part of a radio programme in which a successful businessman is advising listeners on how to become a self-made millionaire.",
-      "timestampSource": "estimated",
+      "startTime": 506.56,
+      "endTime": 512.9,
+      "text": "Well, I believe in the old saying, a person who never made a mistake never made anything.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-056",
       "part": 2,
-      "startTime": 357.33,
-      "endTime": 362.71,
-      "text": "First, you have some time to look at questions 11 to 16.",
-      "timestampSource": "estimated",
+      "startTime": 513.12,
+      "endTime": 519.06,
+      "text": "You can't really predict when you'll make mistakes and you have to look at them as a positive experience",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-057",
       "part": 2,
-      "startTime": 362.71,
-      "endTime": 367.61,
-      "text": "Now listen carefully and answer questions 11 to 16.",
-      "timestampSource": "estimated",
+      "startTime": 519.06,
+      "endTime": 522.68,
+      "text": "and one that means you won't make the same mistake again.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-058",
       "part": 2,
-      "startTime": 367.61,
-      "endTime": 372.51,
-      "text": "Everybody dreams of becoming a millionaire one day.",
-      "timestampSource": "estimated",
+      "startTime": 523.02,
+      "endTime": 526.14,
+      "text": "You need to be able to cope with the world of business.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-059",
       "part": 2,
-      "startTime": 372.51,
-      "endTime": 379.81,
-      "text": "So, we asked Arthur Knowles, who made his millions in the plumbing business,",
-      "timestampSource": "estimated",
+      "startTime": 526.14,
+      "endTime": 534.52,
+      "text": "But according to recent American business school studies, believing in yourself isn't enough by itself to guarantee success.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-060",
       "part": 2,
-      "startTime": 379.81,
-      "endTime": 388.36,
-      "text": "to give the budding entrepreneurs among you a few tips on how to make your first million.",
-      "timestampSource": "estimated",
+      "startTime": 534.8,
+      "endTime": 540.54,
+      "text": "Confidence can be a good thing, but a person can have too much confidence.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-061",
       "part": 2,
-      "startTime": 388.36,
-      "endTime": 392.78,
-      "text": "Arthur, welcome to the programme. Thanks, Sue.",
-      "timestampSource": "estimated",
+      "startTime": 540.54,
+      "endTime": 548.36,
+      "text": "And people who try to learn to be confident by buying those how-to-succeed books are just wasting their time.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-062",
       "part": 2,
-      "startTime": 392.78,
-      "endTime": 397.97,
-      "text": "So, Arthur, what advice do you have for our listeners?",
-      "timestampSource": "estimated",
+      "startTime": 548.66,
+      "endTime": 557.54,
+      "text": "The advice given in these American studies was that being a successful entrepreneur comes down to having the right attitude.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-063",
       "part": 2,
-      "startTime": 397.97,
-      "endTime": 409.11,
-      "text": "Well, one thing I've heard people say is that when you're starting up a business, you can't afford to make mistakes.",
-      "timestampSource": "estimated",
+      "startTime": 557.72,
+      "endTime": 562.0,
+      "text": "It's no good getting depressed every time something goes wrong.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-064",
       "part": 2,
-      "startTime": 409.11,
-      "endTime": 417.66,
-      "text": "Well, I believe in the old saying, a person who never made a mistake never made anything.",
-      "timestampSource": "estimated",
+      "startTime": 562.44,
+      "endTime": 565.9,
+      "text": "Always keep your goals in mind and never give up.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-065",
       "part": 2,
-      "startTime": 417.66,
-      "endTime": 433.22,
-      "text": "You can't really predict when you'll make mistakes and you have to look at them as a positive experience and one that means you won't make the same mistake again.",
-      "timestampSource": "estimated",
+      "startTime": 565.9,
+      "endTime": 571.98,
+      "text": "And don't listen to all the people around you who say, oh, this will never work.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-066",
       "part": 2,
-      "startTime": 433.22,
-      "endTime": 438.5,
-      "text": "You need to be able to cope with the world of business.",
-      "timestampSource": "estimated",
+      "startTime": 572.84,
+      "endTime": 579.76,
+      "text": "One thing I've learned in business is that you don't have to be an expert in everything. Marketing, for example.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-067",
       "part": 2,
-      "startTime": 438.5,
-      "endTime": 450.41,
-      "text": "But according to recent American business school studies, believing in yourself isn't enough by itself to guarantee success.",
-      "timestampSource": "estimated",
+      "startTime": 580.04,
+      "endTime": 583.64,
+      "text": "When I started my business, I tried to do it all myself.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-068",
       "part": 2,
-      "startTime": 450.41,
-      "endTime": 457.52,
-      "text": "Confidence can be a good thing, but a person can have too much confidence.",
-      "timestampSource": "estimated",
+      "startTime": 583.64,
+      "endTime": 591.84,
+      "text": "But I soon realised that although I knew everything there was to know about plumbing, I didn't have much idea about how to sell my ideas.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-069",
       "part": 2,
-      "startTime": 457.52,
-      "endTime": 467.99,
-      "text": "And people who try to learn to be confident by buying those how-to-succeed books are just wasting their time.",
-      "timestampSource": "estimated",
+      "startTime": 592.22,
+      "endTime": 598.66,
+      "text": "So, I got someone who knew more about this to take care of the marketing side of things for me.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-070",
       "part": 2,
-      "startTime": 467.99,
-      "endTime": 479.9,
-      "text": "The advice given in these American studies was that being a successful entrepreneur comes down to having the right attitude.",
-      "timestampSource": "estimated",
+      "startTime": 598.66,
+      "endTime": 607.44,
+      "text": "And as for leadership, well, you've got to be someone your workers look up to because you've been seen to make the right decisions.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-071",
       "part": 2,
-      "startTime": 479.9,
-      "endTime": 485.95,
-      "text": "It's no good getting depressed every time something goes wrong.",
-      "timestampSource": "estimated",
+      "startTime": 607.44,
+      "endTime": 612.62,
+      "text": "You have to be able to control people, but listen to them at the same time.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-072",
       "part": 2,
-      "startTime": 485.95,
-      "endTime": 490.65,
-      "text": "Always keep your goals in mind and never give up.",
-      "timestampSource": "estimated",
+      "startTime": 612.9,
+      "endTime": 620.74,
+      "text": "Some people are driven to make their companies successful, but that too often leads to a ruthless approach.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-073",
       "part": 2,
-      "startTime": 490.65,
-      "endTime": 498.33,
-      "text": "And don't listen to all the people around you who say, oh, this will never work.",
-      "timestampSource": "estimated",
+      "startTime": 621.34,
+      "endTime": 626.02,
+      "text": "Then there's the question of taking risks, even calculated ones.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-074",
       "part": 2,
-      "startTime": 498.33,
-      "endTime": 506.78,
-      "text": "One thing I've learned in business is that you don't have to be an expert in everything.",
-      "timestampSource": "estimated",
+      "startTime": 626.28,
+      "endTime": 633.1,
+      "text": "I personally feel it's actually better to tread carefully when it comes to taking short-term risks.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-075",
       "part": 2,
-      "startTime": 506.78,
-      "endTime": 514.46,
-      "text": "Marketing, for example. When I started my business, I tried to do it all myself.",
-      "timestampSource": "estimated",
+      "startTime": 633.36,
+      "endTime": 641.22,
+      "text": "You need a degree of vision, certainly, but it's easy to get carried away by your desire to increase profits.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-076",
       "part": 2,
-      "startTime": 514.46,
-      "endTime": 527.61,
-      "text": "But I soon realised that although I knew everything there was to know about plumbing, I didn't have much idea about how to sell my ideas.",
-      "timestampSource": "estimated",
+      "startTime": 641.22,
+      "endTime": 646.12,
+      "text": "And if things go wrong, you can end up losing more than you gain.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-077",
       "part": 2,
-      "startTime": 527.61,
-      "endTime": 536.73,
-      "text": "So, I got someone who knew more about this to take care of the marketing side of things for me.",
-      "timestampSource": "estimated",
+      "startTime": 682.2,
+      "endTime": 687.4,
+      "text": "So, if you have a great idea for a business, what should you do next?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-078",
       "part": 2,
-      "startTime": 536.73,
-      "endTime": 549.31,
-      "text": "And as for leadership, well, you've got to be someone your workers look up to because you've been seen to make the right decisions.",
-      "timestampSource": "estimated",
+      "startTime": 687.66,
+      "endTime": 693.58,
+      "text": "Well, the first thing to ask yourself is whether there's a need for your product or service.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-079",
       "part": 2,
-      "startTime": 549.31,
-      "endTime": 556.51,
-      "text": "You have to be able to control people, but listen to them at the same time.",
-      "timestampSource": "estimated",
+      "startTime": 693.84,
+      "endTime": 698.34,
+      "text": "Can you cater for people's needs better than existing companies?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-080",
       "part": 2,
-      "startTime": 556.51,
-      "endTime": 566.78,
-      "text": "Some people are driven to make their companies successful, but that too often leads to a ruthless approach.",
-      "timestampSource": "estimated",
+      "startTime": 698.6,
+      "endTime": 706.2,
+      "text": "You don't need to worry about whether it's original or not because there isn't always enough of a demand for completely new ideas.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-081",
       "part": 2,
-      "startTime": 566.78,
-      "endTime": 572.93,
-      "text": "Then there's the question of taking risks, even calculated ones.",
-      "timestampSource": "estimated",
+      "startTime": 706.2,
+      "endTime": 713.54,
+      "text": "And the second thing to ask yourself is not what colour should the packet be or how much should it cost,",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-082",
       "part": 2,
-      "startTime": 572.93,
-      "endTime": 582.44,
-      "text": "I personally feel it's actually better to tread carefully when it comes to taking short-term risks.",
-      "timestampSource": "estimated",
+      "startTime": 713.54,
+      "endTime": 719.6,
+      "text": "but do I care enough about this idea to dedicate the next 10 years of my life to it?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-083",
       "part": 2,
-      "startTime": 582.44,
-      "endTime": 592.91,
-      "text": "You need a degree of vision, certainly, but it's easy to get carried away by your desire to increase profits.",
-      "timestampSource": "estimated",
+      "startTime": 719.6,
+      "endTime": 722.58,
+      "text": "Because realistically, that's how long it will take.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-084",
       "part": 2,
-      "startTime": 592.91,
-      "endTime": 599.15,
-      "text": "And if things go wrong, you can end up losing more than you gain.",
-      "timestampSource": "estimated",
+      "startTime": 722.98,
+      "endTime": 725.86,
+      "text": "Tell us how you got started, Arthur.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-085",
       "part": 2,
-      "startTime": 599.15,
-      "endTime": 607.98,
-      "text": "Before you hear the rest of the programme, you have some time to look at questions 17 to 20.",
-      "timestampSource": "estimated",
+      "startTime": 725.86,
+      "endTime": 728.38,
+      "text": "How do you explain your early success?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-086",
       "part": 2,
-      "startTime": 607.98,
-      "endTime": 611.92,
-      "text": "Now listen and answer questions 17 to 20.",
-      "timestampSource": "estimated",
+      "startTime": 728.6,
+      "endTime": 735.02,
+      "text": "Well, I started my business just as the economy was going into a recession, which wasn't the best time",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-087",
       "part": 2,
-      "startTime": 611.92,
-      "endTime": 618.55,
-      "text": "So, if you have a great idea for a business, what should you do next?",
-      "timestampSource": "estimated",
+      "startTime": 735.02,
+      "endTime": 742.58,
+      "text": "and I was lucky to survive, especially as the banks weren't being particularly supportive to small businesses at that time.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-088",
       "part": 2,
-      "startTime": 618.55,
-      "endTime": 627.38,
-      "text": "Well, the first thing to ask yourself is whether there's a need for your product or service.",
-      "timestampSource": "estimated",
+      "startTime": 742.78,
+      "endTime": 747.9,
+      "text": "If I'd listened to the business advice I was given back then, I'd never have got started.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-089",
       "part": 2,
-      "startTime": 627.38,
-      "endTime": 633.53,
-      "text": "Can you cater for people's needs better than existing companies?",
-      "timestampSource": "estimated",
+      "startTime": 748.1,
+      "endTime": 757.58,
+      "text": "My strengths were that I knew I could provide a better service than my competitors, who really hadn't spotted the opportunities that were out there,",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-090",
       "part": 2,
-      "startTime": 633.53,
-      "endTime": 646.01,
-      "text": "You don't need to worry about whether it's original or not because there isn't always enough of a demand for completely new ideas.",
-      "timestampSource": "estimated",
+      "startTime": 757.58,
+      "endTime": 764.24,
+      "text": "and that my wife had a good job and was able to pay the household bills while I was getting the company on its feet.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-091",
       "part": 2,
-      "startTime": 646.01,
-      "endTime": 656.0,
-      "text": "And the second thing to ask yourself is not what colour should the packet be or how much should it cost,",
-      "timestampSource": "estimated",
+      "startTime": 764.5,
+      "endTime": 769.86,
+      "text": "The first couple of years were very tough, but I knew I would make it eventually.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-092",
       "part": 2,
-      "startTime": 656.0,
-      "endTime": 664.07,
-      "text": "but do I care enough about this idea to dedicate the next 10 years of my life to it?",
-      "timestampSource": "estimated",
+      "startTime": 770.3,
+      "endTime": 774.04,
+      "text": "OK, now we're going to take some calls from listeners.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-093",
-      "part": 2,
-      "startTime": 664.07,
-      "endTime": 672.62,
-      "text": "Because realistically, that's how long it will take. Tell us how you got started, Arthur.",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 883.28,
+      "endTime": 890.66,
+      "text": "So, Gina, we've got to give our tutor some feedback on how we feel about the course now we've come to the end of our second year.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-094",
-      "part": 2,
-      "startTime": 672.62,
-      "endTime": 676.27,
-      "text": "How do you explain your early success?",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 890.88,
+      "endTime": 895.86,
+      "text": "Is it OK with you if we have a chat together before we go and see him? Sure, Charlie.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-095",
-      "part": 2,
-      "startTime": 676.27,
-      "endTime": 688.75,
-      "text": "Well, I started my business just as the economy was going into a recession, which wasn't the best time and I was lucky to survive,",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 896.42,
+      "endTime": 903.32,
+      "text": "So did you choose this university to do performance arts because it's got such a good reputation? That's what hooked me in.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-096",
-      "part": 2,
-      "startTime": 688.75,
-      "endTime": 697.87,
-      "text": "especially as the banks weren't being particularly supportive to small businesses at that time.",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 903.82,
+      "endTime": 908.56,
+      "text": "Well, there are other good places which I also considered, but",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-097",
-      "part": 2,
-      "startTime": 697.87,
-      "endTime": 706.42,
-      "text": "If I'd listened to the business advice I was given back then, I'd never have got started.",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 908.56,
+      "endTime": 917.08,
+      "text": "when I looked into things further, I was impressed by the connections this course has with a whole range of theatres of different types.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-098",
-      "part": 2,
-      "startTime": 706.42,
-      "endTime": 720.63,
-      "text": "My strengths were that I knew I could provide a better service than my competitors, who really hadn't spotted the opportunities that were out there,",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 917.46,
+      "endTime": 925.6,
+      "text": "So, even though I was tempted to go and study abroad, I decided to come here in the end. And you don't regret it?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-099",
-      "part": 2,
-      "startTime": 720.63,
-      "endTime": 731.77,
-      "text": "and that my wife had a good job and was able to pay the household bills while I was getting the company on its feet.",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 925.94,
+      "endTime": 931.16,
+      "text": "No, it's been brilliant, especially the options this year.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-100",
-      "part": 2,
-      "startTime": 731.77,
-      "endTime": 739.55,
-      "text": "The first couple of years were very tough, but I knew I would make it eventually.",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 931.36,
+      "endTime": 936.94,
+      "text": "The body and dance option I did for this term has been particularly stimulating.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-101",
-      "part": 2,
-      "startTime": 739.55,
-      "endTime": 747.33,
-      "text": "OK, now we're going to take some calls from listeners. That is the end of Part 2.",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 937.28,
+      "endTime": 943.74,
+      "text": "I'm sorry I didn't go for that one too, but I did dance and drama, which was brilliant too.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-102",
-      "part": 2,
-      "startTime": 747.33,
-      "endTime": 752.65,
-      "text": "You now have 30 seconds to check your answers to Part 2.",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 943.94,
+      "endTime": 950.57,
+      "text": "I think the most valuable option I've done was the movement analysis course we did in the first year. Absolutely.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-103",
       "part": 3,
-      "startTime": 752.65,
-      "endTime": 767.56,
-      "text": "You will hear two students of performance arts called Charlie and Gina preparing to give feedback at the end of the second year of their three-year course.",
-      "timestampSource": "estimated",
+      "startTime": 951.44,
+      "endTime": 956.34,
+      "text": "It's provided a great foundation for all our other work since then.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-104",
       "part": 3,
-      "startTime": 767.56,
-      "endTime": 772.95,
-      "text": "First, you have some time to look at questions 21 to 26.",
-      "timestampSource": "estimated",
+      "startTime": 956.64,
+      "endTime": 960.76,
+      "text": "So let's talk about our work experience last summer.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-105",
       "part": 3,
-      "startTime": 772.95,
-      "endTime": 777.85,
-      "text": "Now listen carefully and answer questions 21 to 26.",
-      "timestampSource": "estimated",
+      "startTime": 961.16,
+      "endTime": 964.94,
+      "text": "You went to Finland, didn't you? That's right.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-106",
       "part": 3,
-      "startTime": 777.85,
-      "endTime": 790.26,
-      "text": "So, Gina, we've got to give our tutor some feedback on how we feel about the course now we've come to the end of our second year.",
-      "timestampSource": "estimated",
+      "startTime": 964.94,
+      "endTime": 967.66,
+      "text": "I was at their National Ballet Theatre.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-107",
       "part": 3,
-      "startTime": 790.26,
-      "endTime": 798.43,
-      "text": "Is it OK with you if we have a chat together before we go and see him? Sure, Charlie.",
-      "timestampSource": "estimated",
+      "startTime": 967.84,
+      "endTime": 976.42,
+      "text": "I didn't get the chance to go on stage, but I helped out with sewing clothes for current productions and even with designing some for future shows.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-108",
       "part": 3,
-      "startTime": 798.43,
-      "endTime": 807.76,
-      "text": "So did you choose this university to do performance arts because it's got such a good reputation?",
-      "timestampSource": "estimated",
+      "startTime": 976.54,
+      "endTime": 977.86,
+      "text": "It was brilliant.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-109",
       "part": 3,
-      "startTime": 807.76,
-      "endTime": 810.16,
-      "text": "That's what hooked me in.",
-      "timestampSource": "estimated",
+      "startTime": 978.1,
+      "endTime": 984.88,
+      "text": "I got to know a lot of students studying at the local dance school, and I may get the chance to go back there next summer.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-110",
       "part": 3,
-      "startTime": 810.16,
-      "endTime": 819.49,
-      "text": "Well, there are other good places which I also considered, but when I looked into things further,",
-      "timestampSource": "estimated",
+      "startTime": 985.28,
+      "endTime": 991.84,
+      "text": "I've been offered more work at the place where I was working in Canada. Great.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-111",
       "part": 3,
-      "startTime": 819.49,
-      "endTime": 829.2,
-      "text": "I was impressed by the connections this course has with a whole range of theatres of different types.",
-      "timestampSource": "estimated",
+      "startTime": 992.3,
+      "endTime": 995.86,
+      "text": "So what do you think you gained most from the experience?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-112",
       "part": 3,
-      "startTime": 829.2,
-      "endTime": 837.66,
-      "text": "So, even though I was tempted to go and study abroad, I decided to come here in the end.",
-      "timestampSource": "estimated",
+      "startTime": 996.12,
+      "endTime": 999.84,
+      "text": "I think I've got much better at controlling my stress levels.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-113",
       "part": 3,
-      "startTime": 837.66,
-      "endTime": 845.64,
-      "text": "And you don't regret it? No, it's been brilliant, especially the options this year.",
-      "timestampSource": "estimated",
+      "startTime": 1000.12,
+      "endTime": 1009.16,
+      "text": "For me, it was probably the fact that I learned a lot about collaborating with others rather than working independently.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-114",
       "part": 3,
-      "startTime": 845.64,
-      "endTime": 853.33,
-      "text": "The body and dance option I did for this term has been particularly stimulating.",
-      "timestampSource": "estimated",
+      "startTime": 1009.44,
+      "endTime": 1014.74,
+      "text": "I was lucky to be able to do that in a situation that wasn't too stressful.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-115",
       "part": 3,
-      "startTime": 853.33,
-      "endTime": 862.08,
-      "text": "I'm sorry I didn't go for that one too, but I did dance and drama, which was brilliant too.",
-      "timestampSource": "estimated",
+      "startTime": 1015.5,
+      "endTime": 1023.3,
+      "text": "Also, I had to organise my time well, but I've always been reasonably good at that. That's good.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-116",
       "part": 3,
-      "startTime": 862.08,
-      "endTime": 871.79,
-      "text": "I think the most valuable option I've done was the movement analysis course we did in the first year.",
-      "timestampSource": "estimated",
+      "startTime": 1023.68,
+      "endTime": 1027.48,
+      "text": "So we've got quite a few things ready to say to our tutor.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-117",
       "part": 3,
-      "startTime": 871.79,
-      "endTime": 879.39,
-      "text": "Absolutely. It's provided a great foundation for all our other work since then.",
-      "timestampSource": "estimated",
+      "startTime": 1027.48,
+      "endTime": 1032.2,
+      "text": "It'd be a good chance to ask him any questions we have too, of course.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-118",
       "part": 3,
-      "startTime": 879.39,
-      "endTime": 887.56,
-      "text": "So let's talk about our work experience last summer. You went to Finland, didn't you?",
-      "timestampSource": "estimated",
+      "startTime": 1032.52,
+      "endTime": 1037.18,
+      "text": "I also think it could be helpful to discuss our future plans.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-119",
       "part": 3,
-      "startTime": 887.56,
-      "endTime": 892.66,
-      "text": "That's right. I was at their National Ballet Theatre.",
-      "timestampSource": "estimated",
+      "startTime": 1037.48,
+      "endTime": 1043.24,
+      "text": "For example, what we're planning to do our dissertations on. Sure.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-120",
       "part": 3,
-      "startTime": 892.66,
-      "endTime": 906.8,
-      "text": "I didn't get the chance to go on stage, but I helped out with sewing clothes for current productions and even with designing some for future shows.",
-      "timestampSource": "estimated",
+      "startTime": 1043.72,
+      "endTime": 1049.5,
+      "text": "I was unsure about whether to focus on globalisation in dance or on stage design.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-121",
       "part": 3,
-      "startTime": 906.8,
-      "endTime": 908.43,
-      "text": "It was brilliant.",
-      "timestampSource": "estimated",
+      "startTime": 1049.76,
+      "endTime": 1054.52,
+      "text": "I did an essay on globalisation in my first year and really enjoyed it.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-122",
       "part": 3,
-      "startTime": 908.43,
-      "endTime": 920.16,
-      "text": "I got to know a lot of students studying at the local dance school, and I may get the chance to go back there next summer.",
-      "timestampSource": "estimated",
+      "startTime": 1054.64,
+      "endTime": 1061.54,
+      "text": "But then I saw a spectacular production at the Royal Opera House, and that settled me on stage design.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-123",
       "part": 3,
-      "startTime": 920.16,
-      "endTime": 928.14,
-      "text": "Hmm. I've been offered more work at the place where I was working in Canada. Great.",
-      "timestampSource": "estimated",
+      "startTime": 1061.74,
+      "endTime": 1068.22,
+      "text": "I know another student who's planning to work on that too, so we can discuss things together a bit. OK.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-124",
       "part": 3,
-      "startTime": 928.14,
-      "endTime": 933.62,
-      "text": "So what do you think you gained most from the experience?",
-      "timestampSource": "estimated",
+      "startTime": 1068.22,
+      "endTime": 1070.04,
+      "text": "That could be useful.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-125",
       "part": 3,
-      "startTime": 933.62,
-      "endTime": 939.49,
-      "text": "I think I've got much better at controlling my stress levels.",
-      "timestampSource": "estimated",
+      "startTime": 1070.22,
+      "endTime": 1075.74,
+      "text": "I'm planning to do something on current trends in contemporary dance for my dissertation.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-126",
       "part": 3,
-      "startTime": 939.49,
-      "endTime": 951.03,
-      "text": "For me, it was probably the fact that I learned a lot about collaborating with others rather than working independently.",
-      "timestampSource": "estimated",
+      "startTime": 1075.98,
+      "endTime": 1077.88,
+      "text": "That sounds pretty challenging.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-127",
       "part": 3,
-      "startTime": 951.03,
-      "endTime": 958.24,
-      "text": "I was lucky to be able to do that in a situation that wasn't too stressful.",
-      "timestampSource": "estimated",
+      "startTime": 1078.06,
+      "endTime": 1080.0,
+      "text": "It's a big topic.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-128",
       "part": 3,
-      "startTime": 958.24,
-      "endTime": 966.22,
-      "text": "Also, I had to organise my time well, but I've always been reasonably good at that.",
-      "timestampSource": "estimated",
+      "startTime": 1080.2,
+      "endTime": 1083.88,
+      "text": "It might not be easy to organise in a coherent way.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-129",
       "part": 3,
-      "startTime": 966.22,
-      "endTime": 973.05,
-      "text": "That's good. So we've got quite a few things ready to say to our tutor.",
-      "timestampSource": "estimated",
+      "startTime": 1084.3,
+      "endTime": 1088.76,
+      "text": "I've thought about it quite a lot, and I think that'll be OK.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-130",
       "part": 3,
-      "startTime": 973.05,
-      "endTime": 979.78,
-      "text": "It'd be a good chance to ask him any questions we have too, of course.",
-      "timestampSource": "estimated",
+      "startTime": 1088.76,
+      "endTime": 1093.16,
+      "text": "And I feel confident about how to write a longer piece of work.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-131",
       "part": 3,
-      "startTime": 979.78,
-      "endTime": 985.65,
-      "text": "I also think it could be helpful to discuss our future plans.",
-      "timestampSource": "estimated",
+      "startTime": 1093.58,
+      "endTime": 1099.54,
+      "text": "I'm in a bit of a panic, though, about how I'll get through all the literature.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-132",
       "part": 3,
-      "startTime": 985.65,
-      "endTime": 992.0,
-      "text": "For example, what we're planning to do our dissertations on. Sure.",
-      "timestampSource": "estimated",
+      "startTime": 1099.78,
+      "endTime": 1101.58,
+      "text": "There seems to be so much.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-133",
       "part": 3,
-      "startTime": 992.0,
-      "endTime": 999.79,
-      "text": "I was unsure about whether to focus on globalisation in dance or on stage design.",
-      "timestampSource": "estimated",
+      "startTime": 1102.04,
+      "endTime": 1105.18,
+      "text": "Hopefully it won't all be relevant. Quite.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-134",
       "part": 3,
-      "startTime": 999.79,
-      "endTime": 1006.62,
-      "text": "I did an essay on globalisation in my first year and really enjoyed it.",
-      "timestampSource": "estimated",
+      "startTime": 1142.0,
+      "endTime": 1147.16,
+      "text": "So, have you made any career plans yet? I'm still undecided.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-135",
       "part": 3,
-      "startTime": 1006.62,
-      "endTime": 1016.43,
-      "text": "But then I saw a spectacular production at the Royal Opera House, and that settled me on stage design.",
-      "timestampSource": "estimated",
+      "startTime": 1147.28,
+      "endTime": 1149.82,
+      "text": "I've thought about performance, of course.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-136",
       "part": 3,
-      "startTime": 1016.43,
-      "endTime": 1025.95,
-      "text": "I know another student who's planning to work on that too, so we can discuss things together a bit.",
-      "timestampSource": "estimated",
+      "startTime": 1150.12,
+      "endTime": 1153.88,
+      "text": "Yes, I think lots of graduates from here take that route.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-137",
       "part": 3,
-      "startTime": 1025.95,
-      "endTime": 1028.35,
-      "text": "OK. That could be useful.",
-      "timestampSource": "estimated",
+      "startTime": 1153.88,
+      "endTime": 1160.26,
+      "text": "But it's a hard life, involving lots of tough, repetitive practise, as well as actually appearing on stage.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-138",
       "part": 3,
-      "startTime": 1028.35,
-      "endTime": 1036.91,
-      "text": "I'm planning to do something on current trends in contemporary dance for my dissertation.",
-      "timestampSource": "estimated",
+      "startTime": 1160.56,
+      "endTime": 1168.78,
+      "text": "Yes, but the performance I've met know that's essential for the job and say they wouldn't change what they do for the world.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-139",
       "part": 3,
-      "startTime": 1036.91,
-      "endTime": 1041.62,
-      "text": "That sounds pretty challenging. It's a big topic.",
-      "timestampSource": "estimated",
+      "startTime": 1168.88,
+      "endTime": 1176.92,
+      "text": "I know lots of graduates go into education, teaching at various levels, but that means doing some kind of post-grad certificate.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-140",
       "part": 3,
-      "startTime": 1041.62,
-      "endTime": 1046.52,
-      "text": "It might not be easy to organise in a coherent way.",
-      "timestampSource": "estimated",
+      "startTime": 1176.92,
+      "endTime": 1180.18,
+      "text": "But I think it would be interesting, rewarding work.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-141",
       "part": 3,
-      "startTime": 1046.52,
-      "endTime": 1052.39,
-      "text": "I've thought about it quite a lot, and I think that'll be OK.",
-      "timestampSource": "estimated",
+      "startTime": 1180.54,
+      "endTime": 1184.74,
+      "text": "I was wondering about theatre management as a possible option.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-142",
       "part": 3,
-      "startTime": 1052.39,
-      "endTime": 1058.45,
-      "text": "And I feel confident about how to write a longer piece of work.",
-      "timestampSource": "estimated",
+      "startTime": 1184.98,
+      "endTime": 1187.92,
+      "text": "That's what our tutor did before he got into teaching, isn't it?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-143",
       "part": 3,
-      "startTime": 1058.45,
-      "endTime": 1066.05,
-      "text": "I'm in a bit of a panic, though, about how I'll get through all the literature.",
-      "timestampSource": "estimated",
+      "startTime": 1188.3,
+      "endTime": 1192.06,
+      "text": "Yes, but he said he quickly realised it wasn't for him.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-144",
       "part": 3,
-      "startTime": 1066.05,
-      "endTime": 1072.69,
-      "text": "There seems to be so much. Hopefully it won't all be relevant. Quite.",
-      "timestampSource": "estimated",
+      "startTime": 1192.26,
+      "endTime": 1194.6,
+      "text": "He wasn't earning enough to live on.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-145",
       "part": 3,
-      "startTime": 1072.69,
-      "endTime": 1081.63,
-      "text": "Before you hear the rest of the discussion, you have some time to look at questions 27 to 30.",
-      "timestampSource": "estimated",
+      "startTime": 1194.9,
+      "endTime": 1200.18,
+      "text": "I can imagine his communication skills are better than his business skills as well.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-146",
       "part": 3,
-      "startTime": 1081.63,
-      "endTime": 1089.42,
-      "text": "Now listen and answer questions 27 to 30. So, have you made any career plans yet?",
-      "timestampSource": "estimated",
+      "startTime": 1200.68,
+      "endTime": 1204.14,
+      "text": "Marketing's a possibility, of course. Sure.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-147",
       "part": 3,
-      "startTime": 1089.42,
-      "endTime": 1095.48,
-      "text": "I'm still undecided. I've thought about performance, of course.",
-      "timestampSource": "estimated",
+      "startTime": 1204.14,
+      "endTime": 1211.44,
+      "text": "I've read something saying it can be an interesting career, though I don't think many graduates go for this.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-148",
       "part": 3,
-      "startTime": 1095.48,
-      "endTime": 1100.96,
-      "text": "Yes, I think lots of graduates from here take that route.",
-      "timestampSource": "estimated",
+      "startTime": 1211.44,
+      "endTime": 1218.72,
+      "text": "But that might mean there's not so much competition, as in many other fields of dance. Right.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-149",
       "part": 3,
-      "startTime": 1100.96,
-      "endTime": 1111.25,
-      "text": "But it's a hard life, involving lots of tough, repetitive practise, as well as actually appearing on stage.",
-      "timestampSource": "estimated",
+      "startTime": 1218.72,
+      "endTime": 1220.88,
+      "text": "So, now shall we make a list?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-150",
-      "part": 3,
-      "startTime": 1111.25,
-      "endTime": 1123.17,
-      "text": "Yes, but the performance I've met know that's essential for the job and say they wouldn't change what they do for the world.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1328.1,
+      "endTime": 1330.96,
+      "text": "Hello everybody.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-151",
-      "part": 3,
-      "startTime": 1123.17,
-      "endTime": 1135.48,
-      "text": "I know lots of graduates go into education, teaching at various levels, but that means doing some kind of post-grad certificate.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1331.18,
+      "endTime": 1335.96,
+      "text": "I'm here today to tell you about a new research study that my team here at the university",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-152",
-      "part": 3,
-      "startTime": 1135.48,
-      "endTime": 1140.48,
-      "text": "But I think it would be interesting, rewarding work.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1335.96,
+      "endTime": 1340.62,
+      "text": "is doing on the sea lions that live along the coast of Western Australia.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-153",
-      "part": 3,
-      "startTime": 1140.48,
-      "endTime": 1146.44,
-      "text": "I was wondering about theatre management as a possible option.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1341.08,
+      "endTime": 1344.12,
+      "text": "You may be wondering why we've been studying this animal.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-154",
-      "part": 3,
-      "startTime": 1146.44,
-      "endTime": 1152.59,
-      "text": "That's what our tutor did before he got into teaching, isn't it?",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1344.28,
+      "endTime": 1353.24,
+      "text": "Well, Australian sea lions have been identified as an endangered species, so there's a real need to count them and find out just how many there are.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-155",
-      "part": 3,
-      "startTime": 1152.59,
-      "endTime": 1157.88,
-      "text": "Yes, but he said he quickly realised it wasn't for him.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1353.94,
+      "endTime": 1360.44,
+      "text": "Up until 1892, the population of these animals was severely depleted because of hunting.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-156",
-      "part": 3,
-      "startTime": 1157.88,
-      "endTime": 1161.34,
-      "text": "He wasn't earning enough to live on.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1360.74,
+      "endTime": 1362.78,
+      "text": "That's no longer allowed.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-157",
-      "part": 3,
-      "startTime": 1161.34,
-      "endTime": 1169.32,
-      "text": "I can imagine his communication skills are better than his business skills as well.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1362.78,
+      "endTime": 1365.36,
+      "text": "But today there is a new danger.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-158",
-      "part": 3,
-      "startTime": 1169.32,
-      "endTime": 1173.46,
-      "text": "Marketing's a possibility, of course. Sure.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1365.66,
+      "endTime": 1372.32,
+      "text": "Sea lions often forage for food in the same areas along the coastlines where there are nets used to catch sharks.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-159",
-      "part": 3,
-      "startTime": 1173.46,
-      "endTime": 1183.85,
-      "text": "I've read something saying it can be an interesting career, though I don't think many graduates go for this.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1372.82,
+      "endTime": 1377.22,
+      "text": "Unfortunately, they tend to get caught up in the nets by accident and drown.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-160",
-      "part": 3,
-      "startTime": 1183.85,
-      "endTime": 1192.12,
-      "text": "But that might mean there's not so much competition, as in many other fields of dance.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1377.58,
+      "endTime": 1384.12,
+      "text": "Now, we wanted to monitor the population of sea lions in this area, but we weren't sure of the best way to do it.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-161",
-      "part": 3,
-      "startTime": 1192.12,
-      "endTime": 1198.56,
-      "text": "Right. So, now shall we make a list? That is the end of part three.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1384.5,
+      "endTime": 1391.6,
+      "text": "There are several different animal tracking methods, which vary in their effectiveness, and there are different factors to consider.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-162",
-      "part": 3,
-      "startTime": 1198.56,
-      "endTime": 1204.33,
-      "text": "You now have 30 seconds to check your answers to part three.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1392.12,
+      "endTime": 1399.12,
+      "text": "One of the most important of these is the cost, but you also have to consider how easy your chosen method is to use.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-163",
       "part": 4,
-      "startTime": 1204.33,
-      "endTime": 1212.78,
-      "text": "You will hear part of a presentation to biology students on new research into sea lions.",
-      "timestampSource": "estimated",
+      "startTime": 1399.52,
+      "endTime": 1403.06,
+      "text": "You may choose a traditional method, like a plastic tag.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-164",
       "part": 4,
-      "startTime": 1212.78,
-      "endTime": 1218.06,
-      "text": "First you have some time to look at questions 31 to 40.",
-      "timestampSource": "estimated",
+      "startTime": 1403.54,
+      "endTime": 1410.52,
+      "text": "They're relatively straightforward to attach, but they're really only suitable to use with animals that you can catch quite easily.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-165",
       "part": 4,
-      "startTime": 1218.06,
-      "endTime": 1224.59,
-      "text": "Now listen carefully and answer questions 31 to 40. Hello everybody.",
-      "timestampSource": "estimated",
+      "startTime": 1410.72,
+      "endTime": 1419.32,
+      "text": "You might also go with a more modern method like GPS tracking, which uses satellite technology to transmit data on the animal around the clock.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-166",
       "part": 4,
-      "startTime": 1224.59,
-      "endTime": 1240.24,
-      "text": "I'm here today to tell you about a new research study that my team here at the university is doing on the sea lions that live along the coast of Western Australia.",
-      "timestampSource": "estimated",
+      "startTime": 1419.8,
+      "endTime": 1424.94,
+      "text": "One drawback for marine animals, though, is that they don't transmit a signal in the ocean.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-167",
       "part": 4,
-      "startTime": 1240.24,
-      "endTime": 1245.71,
-      "text": "You may be wondering why we've been studying this animal.",
-      "timestampSource": "estimated",
+      "startTime": 1425.2,
+      "endTime": 1428.06,
+      "text": "You only get data when they're on land.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-168",
       "part": 4,
-      "startTime": 1245.71,
-      "endTime": 1259.92,
-      "text": "Well, Australian sea lions have been identified as an endangered species, so there's a real need to count them and find out just how many there are.",
-      "timestampSource": "estimated",
+      "startTime": 1428.44,
+      "endTime": 1433.66,
+      "text": "There are certain large animals in remote areas that have to be tracked using a helicopter.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-169",
       "part": 4,
-      "startTime": 1259.92,
-      "endTime": 1268.37,
-      "text": "Up until 1892, the population of these animals was severely depleted because of hunting.",
-      "timestampSource": "estimated",
+      "startTime": 1433.78,
+      "endTime": 1436.3,
+      "text": "The polar bear is a good example.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-170",
       "part": 4,
-      "startTime": 1268.37,
-      "endTime": 1273.94,
-      "text": "That's no longer allowed. But today there is a new danger.",
-      "timestampSource": "estimated",
+      "startTime": 1436.6,
+      "endTime": 1440.92,
+      "text": "Now, an important part of tracking is being able to clearly identify the animal.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-171",
       "part": 4,
-      "startTime": 1273.94,
-      "endTime": 1284.79,
-      "text": "Sea lions often forage for food in the same areas along the coastlines where there are nets used to catch sharks.",
-      "timestampSource": "estimated",
+      "startTime": 1441.36,
+      "endTime": 1445.92,
+      "text": "Some, like zebras, are identified by markings such as their stripes.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-172",
       "part": 4,
-      "startTime": 1284.79,
-      "endTime": 1292.09,
-      "text": "Unfortunately, they tend to get caught up in the nets by accident and drown.",
-      "timestampSource": "estimated",
+      "startTime": 1445.92,
+      "endTime": 1451.34,
+      "text": "While the dolphin usually has distinguishing scars on its body that can help tell them apart.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-173",
       "part": 4,
-      "startTime": 1292.09,
-      "endTime": 1302.94,
-      "text": "Now, we wanted to monitor the population of sea lions in this area, but we weren't sure of the best way to do it.",
-      "timestampSource": "estimated",
+      "startTime": 1451.78,
+      "endTime": 1457.78,
+      "text": "Sea lions don't have any markings like this, which is just one of the challenges of tracking them.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-174",
       "part": 4,
-      "startTime": 1302.94,
-      "endTime": 1315.61,
-      "text": "There are several different animal tracking methods, which vary in their effectiveness, and there are different factors to consider.",
-      "timestampSource": "estimated",
+      "startTime": 1458.3,
+      "endTime": 1463.64,
+      "text": "When researchers in Perth tried to use electronic tags in a sea lion study, they",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-175",
       "part": 4,
-      "startTime": 1315.61,
-      "endTime": 1326.75,
-      "text": "One of the most important of these is the cost, but you also have to consider how easy your chosen method is to use.",
-      "timestampSource": "estimated",
+      "startTime": 1463.64,
+      "endTime": 1468.92,
+      "text": "found that the sea lions had removed their tracking devices by deliberately rubbing up against rocks.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-176",
       "part": 4,
-      "startTime": 1326.75,
-      "endTime": 1332.13,
-      "text": "You may choose a traditional method, like a plastic tag.",
-      "timestampSource": "estimated",
+      "startTime": 1469.1,
+      "endTime": 1472.38,
+      "text": "This was something the researchers hadn't anticipated.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-177",
       "part": 4,
-      "startTime": 1332.13,
-      "endTime": 1344.71,
-      "text": "They're relatively straightforward to attach, but they're really only suitable to use with animals that you can catch quite easily.",
-      "timestampSource": "estimated",
+      "startTime": 1473.02,
+      "endTime": 1478.16,
+      "text": "Researchers in California studying American sea lions tried a different method.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-178",
       "part": 4,
-      "startTime": 1344.71,
-      "endTime": 1358.44,
-      "text": "You might also go with a more modern method like GPS tracking, which uses satellite technology to transmit data on the animal around the clock.",
-      "timestampSource": "estimated",
+      "startTime": 1478.48,
+      "endTime": 1480.98,
+      "text": "They applied paint to the animals.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-179",
       "part": 4,
-      "startTime": 1358.44,
-      "endTime": 1367.18,
-      "text": "One drawback for marine animals, though, is that they don't transmit a signal in the ocean.",
-      "timestampSource": "estimated",
+      "startTime": 1481.32,
+      "endTime": 1485.56,
+      "text": "They thought this would be a better, less invasive means of identification.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-180",
       "part": 4,
-      "startTime": 1367.18,
-      "endTime": 1370.92,
-      "text": "You only get data when they're on land.",
-      "timestampSource": "estimated",
+      "startTime": 1486.52,
+      "endTime": 1493.44,
+      "text": "Unfortunately, this didn't work so well either, because sea lions moult every year and shed their fur along with the identifying mark.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-181",
       "part": 4,
-      "startTime": 1370.92,
-      "endTime": 1379.66,
-      "text": "There are certain large animals in remote areas that have to be tracked using a helicopter.",
-      "timestampSource": "estimated",
+      "startTime": 1498.74,
+      "endTime": 1501.06,
+      "text": "So let's look at our current study.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-182",
       "part": 4,
-      "startTime": 1379.66,
-      "endTime": 1382.83,
-      "text": "The polar bear is a good example.",
-      "timestampSource": "estimated",
+      "startTime": 1501.2,
+      "endTime": 1504.0,
+      "text": "We have several aims that we'd like to achieve.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-183",
       "part": 4,
-      "startTime": 1382.83,
-      "endTime": 1390.51,
-      "text": "Now, an important part of tracking is being able to clearly identify the animal.",
-      "timestampSource": "estimated",
+      "startTime": 1504.1,
+      "endTime": 1510.34,
+      "text": "The first of these is to try to establish whether sea lions can be identified from the whiskers on their face.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-184",
       "part": 4,
-      "startTime": 1390.51,
-      "endTime": 1397.04,
-      "text": "Some, like zebras, are identified by markings such as their stripes.",
-      "timestampSource": "estimated",
+      "startTime": 1510.68,
+      "endTime": 1514.2,
+      "text": "These are much coarser than a cat's whiskers, so easier to see.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-185",
       "part": 4,
-      "startTime": 1397.04,
-      "endTime": 1405.97,
-      "text": "While the dolphin usually has distinguishing scars on its body that can help tell them apart.",
-      "timestampSource": "estimated",
+      "startTime": 1514.78,
+      "endTime": 1521.6,
+      "text": "Our theory is that the pattern of these whiskers may be as individual as a fingerprint on a human.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-186",
       "part": 4,
-      "startTime": 1405.97,
-      "endTime": 1415.38,
-      "text": "Sea lions don't have any markings like this, which is just one of the challenges of tracking them.",
-      "timestampSource": "estimated",
+      "startTime": 1521.88,
+      "endTime": 1527.66,
+      "text": "If this is in fact true, then we think this could be an effective way to identify them.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-187",
       "part": 4,
-      "startTime": 1415.38,
-      "endTime": 1422.58,
-      "text": "When researchers in Perth tried to use electronic tags in a sea lion study,",
-      "timestampSource": "estimated",
+      "startTime": 1527.9,
+      "endTime": 1536.12,
+      "text": "Our second aim is to come up with a diagram of sea lion whisker patterns, so this can be used as a guide for us and other studies.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-188",
       "part": 4,
-      "startTime": 1422.58,
-      "endTime": 1432.76,
-      "text": "they found that the sea lions had removed their tracking devices by deliberately rubbing up against rocks.",
-      "timestampSource": "estimated",
+      "startTime": 1536.4,
+      "endTime": 1539.78,
+      "text": "We're using a few different methods to help us do all this.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-189",
       "part": 4,
-      "startTime": 1432.76,
-      "endTime": 1437.94,
-      "text": "This was something the researchers hadn't anticipated.",
-      "timestampSource": "estimated",
+      "startTime": 1540.12,
+      "endTime": 1543.64,
+      "text": "We know that we need to build up a wide range of visual data.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-190",
       "part": 4,
-      "startTime": 1437.94,
-      "endTime": 1445.53,
-      "text": "Researchers in California studying American sea lions tried a different method.",
-      "timestampSource": "estimated",
+      "startTime": 1543.9,
+      "endTime": 1551.7,
+      "text": "So firstly, we've been in touch with zoos around Australia to gather photographs from them of the faces of any sea lions they have.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-191",
       "part": 4,
-      "startTime": 1445.53,
-      "endTime": 1448.79,
-      "text": "They applied paint to the animals.",
-      "timestampSource": "estimated",
+      "startTime": 1552.08,
+      "endTime": 1559.82,
+      "text": "This won't be enough to achieve our purpose though, so we're also broadening our search by inviting the public to take part in our research.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-192",
       "part": 4,
-      "startTime": 1448.79,
-      "endTime": 1455.99,
-      "text": "They thought this would be a better, less invasive means of identification.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-193",
-      "part": 4,
-      "startTime": 1455.99,
-      "endTime": 1468.86,
-      "text": "Unfortunately, this didn't work so well either, because sea lions moult every year and shed their fur along with the identifying mark.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-194",
-      "part": 4,
-      "startTime": 1468.86,
-      "endTime": 1476.83,
-      "text": "So let's look at our current study. We have several aims that we'd like to achieve.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-195",
-      "part": 4,
-      "startTime": 1476.83,
-      "endTime": 1487.39,
-      "text": "The first of these is to try to establish whether sea lions can be identified from the whiskers on their face.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-196",
-      "part": 4,
-      "startTime": 1487.39,
-      "endTime": 1493.44,
-      "text": "These are much coarser than a cat's whiskers, so easier to see.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-197",
-      "part": 4,
-      "startTime": 1493.44,
-      "endTime": 1502.85,
-      "text": "Our theory is that the pattern of these whiskers may be as individual as a fingerprint on a human.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-198",
-      "part": 4,
-      "startTime": 1502.85,
-      "endTime": 1511.2,
-      "text": "If this is in fact true, then we think this could be an effective way to identify them.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-199",
-      "part": 4,
-      "startTime": 1511.2,
-      "endTime": 1523.68,
-      "text": "Our second aim is to come up with a diagram of sea lion whisker patterns, so this can be used as a guide for us and other studies.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-200",
-      "part": 4,
-      "startTime": 1523.68,
-      "endTime": 1529.35,
-      "text": "We're using a few different methods to help us do all this.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-201",
-      "part": 4,
-      "startTime": 1529.35,
-      "endTime": 1535.21,
-      "text": "We know that we need to build up a wide range of visual data.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-202",
-      "part": 4,
-      "startTime": 1535.21,
-      "endTime": 1547.79,
-      "text": "So firstly, we've been in touch with zoos around Australia to gather photographs from them of the faces of any sea lions they have.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-203",
-      "part": 4,
-      "startTime": 1547.79,
-      "endTime": 1561.23,
-      "text": "This won't be enough to achieve our purpose though, so we're also broadening our search by inviting the public to take part in our research.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-204",
-      "part": 4,
-      "startTime": 1561.23,
-      "endTime": 1567.95,
+      "startTime": 1559.98,
+      "endTime": 1563.9,
       "text": "We're hoping this will result in hundreds of useful images we can use.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-205",
-      "part": 4,
-      "startTime": 1567.95,
-      "endTime": 1576.5,
-      "text": "That is the end of part four. You now have one minute to check your answers to part four.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-206",
-      "part": 4,
-      "startTime": 1576.5,
-      "endTime": 1580.15,
-      "text": "That is the end of the listening test.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-207",
-      "part": 4,
-      "startTime": 1580.15,
-      "endTime": 1587.73,
-      "text": "You now have 10 minutes to transfer your answers to the listening answer sheet.",
-      "timestampSource": "estimated",
+      "timestampSource": "exact",
       "qTags": []
     }
   ],
@@ -2710,889 +2576,704 @@
     {
       "id": "long-001",
       "part": 1,
-      "startTime": 0.0,
-      "endTime": 27.66,
-      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts.",
+      "startTime": 81.26,
+      "endTime": 98.0,
+      "text": "Hello, Fernley Sports Centre. How can I help you? Yes, I'd like to apply for one of the lifeguard jobs you advertised this week. Right, we can do that now over the phone. I'll just need some information from you. Let me get a form.",
       "segmentIds": [
         "seg-001",
         "seg-002",
-        "seg-003"
+        "seg-003",
+        "seg-004",
+        "seg-005"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-002",
       "part": 1,
-      "startTime": 27.66,
-      "endTime": 48.19,
-      "text": "Write all your answers in the listening question booklet. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to part one on page two of your question booklet.",
+      "startTime": 98.8,
+      "endTime": 116.82,
+      "text": "Okay, so let's start with your name. Peter Smith Okay, can you let me have your home address? It's 130 South Main Street, Lake Elsinore. Okay, I'm new around here.",
       "segmentIds": [
-        "seg-004",
-        "seg-005",
-        "seg-006"
+        "seg-006",
+        "seg-007",
+        "seg-008",
+        "seg-009"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-003",
       "part": 1,
-      "startTime": 48.19,
-      "endTime": 72.1,
-      "text": "Part One You will hear a man called Peter phoning a sports centre manager about a job. First, you have some time to look at questions one to four. Now listen carefully and answer questions one to four. Hello, Fernley Sports Centre. How can I help you?",
+      "startTime": 117.08,
+      "endTime": 131.18,
+      "text": "Can you spell that for me? Yes, it's E-L-S-I-N-O-R-E. Okay, got that. And your phone number?",
       "segmentIds": [
-        "seg-007",
-        "seg-008",
-        "seg-009",
-        "seg-010"
+        "seg-010",
+        "seg-011",
+        "seg-012"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-004",
       "part": 1,
-      "startTime": 72.1,
-      "endTime": 92.92,
-      "text": "Yes, I'd like to apply for one of the lifeguard jobs you advertised this week. Right, we can do that now over the phone. I'll just need some information from you. Let me get a form. Okay, so let's start with your name.",
+      "startTime": 131.48,
+      "endTime": 152.52,
+      "text": "My home number's 9-5-1-6-7-4-3-1-2-4, but it's best to ring me on my cell phone. That's 0-7-7-8-9-6-2-4-5. Okay, now what do you do?",
       "segmentIds": [
-        "seg-011",
-        "seg-012",
-        "seg-013"
+        "seg-013",
+        "seg-014",
+        "seg-015"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-005",
       "part": 1,
-      "startTime": 92.92,
-      "endTime": 113.74,
-      "text": "Peter Smith Okay, can you let me have your home address? It's 130 South Main Street, Lake Elsinore. Okay, I'm new around here. Can you spell that for me? Yes, it's E-L-S-I-N-O-R-E. Okay, got that. And your phone number?",
+      "startTime": 152.6,
+      "endTime": 175.52,
+      "text": "Are you still in college or are you working full time? I'm in my second year here at Fernley, and this vacation I've got a job as a part-time waiter. Okay, I guess if you're at Fernley College you'll be studying physical education? They all seem to do that there. That's right. Then I hope to go on and coach baseball in high school, something like that.",
       "segmentIds": [
-        "seg-014",
-        "seg-015",
         "seg-016",
-        "seg-017"
+        "seg-017",
+        "seg-018",
+        "seg-019"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-006",
       "part": 1,
-      "startTime": 113.74,
-      "endTime": 131.57,
-      "text": "My home number's 9-5-1-6-7-4-3-1-2-4, but it's best to ring me on my cell phone. That's 0-7-7-8-9-6-2-4-5. Okay, now what do you do? Are you still in college or are you working full time?",
+      "startTime": 175.84,
+      "endTime": 181.58,
+      "text": "I guess it all depends on how I do in my final exams. Okay, sounds good to me.",
       "segmentIds": [
-        "seg-018",
-        "seg-019",
-        "seg-020"
+        "seg-020",
+        "seg-021"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-007",
       "part": 1,
-      "startTime": 131.57,
-      "endTime": 152.78,
-      "text": "I'm in my second year here at Fernley, and this vacation I've got a job as a part-time waiter. Okay, I guess if you're at Fernley College you'll be studying physical education? They all seem to do that there. That's right.",
+      "startTime": 227.98,
+      "endTime": 247.06,
+      "text": "Now, the next part of the form deals with qualifications. Do you have the water safety certificate? We absolutely insist on that. Yes, I do. So how long will it last before you have to do a refresher course? I took it last November, so it'll run out in October. Okay, good.",
       "segmentIds": [
-        "seg-021",
         "seg-022",
-        "seg-023"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-008",
-      "part": 1,
-      "startTime": 152.78,
-      "endTime": 176.69,
-      "text": "Then I hope to go on and coach baseball in high school, something like that. I guess it all depends on how I do in my final exams. Okay, sounds good to me. Before you hear the rest of the conversation, you have some time to look at questions 5 to 10.",
-      "segmentIds": [
+        "seg-023",
         "seg-024",
         "seg-025",
         "seg-026"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-009",
+      "id": "long-008",
       "part": 1,
-      "startTime": 176.69,
-      "endTime": 200.3,
-      "text": "Now listen and answer questions 5 to 10. Now, the next part of the form deals with qualifications. Do you have the water safety certificate? We absolutely insist on that. Yes, I do. So how long will it last before you have to do a refresher course?",
+      "startTime": 247.34,
+      "endTime": 263.16,
+      "text": "Now, what about work experience as a lifeguard? Well, I've had about four months' experience. Which swimming pool was that at? I need to have details of your employer, obviously, so we can get a reference. Oh, it was at the beach here in Fernley.",
       "segmentIds": [
         "seg-027",
         "seg-028",
         "seg-029",
-        "seg-030"
+        "seg-030",
+        "seg-031"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-010",
+      "id": "long-009",
       "part": 1,
-      "startTime": 200.3,
-      "endTime": 218.61,
-      "text": "I took it last November, so it'll run out in October. Okay, good. Now, what about work experience as a lifeguard? Well, I've had about four months' experience. Which swimming pool was that at?",
+      "startTime": 263.38,
+      "endTime": 282.3,
+      "text": "I can get the number of the person you need to contact. Good. And do you have any other additional skills I can put down? You can put down diving. I've done that for a long time now. I'm also keen on rock climbing, but that's not really relevant here. No. Okay.",
       "segmentIds": [
-        "seg-031",
         "seg-032",
-        "seg-033"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-011",
-      "part": 1,
-      "startTime": 218.61,
-      "endTime": 235.87,
-      "text": "I need to have details of your employer, obviously, so we can get a reference. Oh, it was at the beach here in Fernley. I can get the number of the person you need to contact. Good.",
-      "segmentIds": [
+        "seg-033",
         "seg-034",
         "seg-035",
         "seg-036"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-012",
+      "id": "long-010",
       "part": 1,
-      "startTime": 235.87,
-      "endTime": 259.49,
-      "text": "And do you have any other additional skills I can put down? You can put down diving. I've done that for a long time now. I'm also keen on rock climbing, but that's not really relevant here. No. Okay. And I need to ask when you would prefer to work.",
+      "startTime": 282.54,
+      "endTime": 304.82,
+      "text": "And I need to ask when you would prefer to work. You can choose either Saturday mornings or any time Monday to Friday. We've got enough people on Sundays at the moment. Well, not Monday to Friday, because I'm at the restaurant weekday evenings. Okay. We open at six. Could you start that early? No, that's fine.",
       "segmentIds": [
         "seg-037",
         "seg-038",
         "seg-039",
-        "seg-040"
+        "seg-040",
+        "seg-041"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-013",
+      "id": "long-011",
       "part": 1,
-      "startTime": 259.49,
-      "endTime": 278.67,
-      "text": "You can choose either Saturday mornings or any time Monday to Friday. We've got enough people on Sundays at the moment. Well, not Monday to Friday, because I'm at the restaurant weekday evenings. Okay.",
+      "startTime": 305.0,
+      "endTime": 328.16,
+      "text": "I prefer that to working late. Okay. Now I need to speak to the committee who run the sports centre here, but you should hear back from us pretty soon, and then they'll probably arrange an interview. Thanks very much. Great. Now, before you go, I'd just like to ask you how you found out about our advertisement. We always ask this. Was it from the newspaper or the radio?",
       "segmentIds": [
-        "seg-041",
         "seg-042",
-        "seg-043"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-014",
-      "part": 1,
-      "startTime": 278.67,
-      "endTime": 294.47,
-      "text": "We open at six. Could you start that early? No, that's fine. I prefer that to working late. Okay. Now I need to speak to the committee who run the sports centre here,",
-      "segmentIds": [
+        "seg-043",
         "seg-044",
         "seg-045",
         "seg-046"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-015",
+      "id": "long-012",
       "part": 1,
-      "startTime": 294.47,
-      "endTime": 314.13,
-      "text": "but you should hear back from us pretty soon, and then they'll probably arrange an interview. Thanks very much. Great. Now, before you go, I'd just like to ask you how you found out about our advertisement.",
+      "startTime": 328.38,
+      "endTime": 338.76,
+      "text": "I heard the advertisement this morning when I was driving into college. I don't usually read the local paper. Thanks. Well, that's all. Hope to see you soon.",
       "segmentIds": [
         "seg-047",
         "seg-048",
         "seg-049"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-016",
-      "part": 1,
-      "startTime": 314.13,
-      "endTime": 333.79,
-      "text": "We always ask this. Was it from the newspaper or the radio? I heard the advertisement this morning when I was driving into college. I don't usually read the local paper. All right. Thanks. Well, that's all.",
+      "id": "long-013",
+      "part": 2,
+      "startTime": 480.78,
+      "endTime": 498.98,
+      "text": "So, we asked Arthur Knowles, who made his millions in the plumbing business, to give the budding entrepreneurs among you a few tips on how to make your first million. Arthur, welcome to the programme. Thanks, Sue. So, Arthur, what advice do you have for our listeners?",
       "segmentIds": [
         "seg-050",
         "seg-051",
-        "seg-052"
+        "seg-052",
+        "seg-053"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-017",
-      "part": 1,
-      "startTime": 333.79,
-      "endTime": 344.18,
-      "text": "Hope to see you soon. That is the end of part one. You now have one minute to check your answers to part one.",
-      "segmentIds": [
-        "seg-053",
-        "seg-054"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-018",
+      "id": "long-014",
       "part": 2,
-      "startTime": 344.18,
-      "endTime": 367.61,
-      "text": "You will hear part of a radio programme in which a successful businessman is advising listeners on how to become a self-made millionaire. First, you have some time to look at questions 11 to 16. Now listen carefully and answer questions 11 to 16.",
+      "startTime": 499.26,
+      "endTime": 522.68,
+      "text": "Well, one thing I've heard people say is that when you're starting up a business, you can't afford to make mistakes. Well, I believe in the old saying, a person who never made a mistake never made anything. You can't really predict when you'll make mistakes and you have to look at them as a positive experience and one that means you won't make the same mistake again.",
       "segmentIds": [
+        "seg-054",
         "seg-055",
         "seg-056",
         "seg-057"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-019",
+      "id": "long-015",
       "part": 2,
-      "startTime": 367.61,
-      "endTime": 388.36,
-      "text": "Everybody dreams of becoming a millionaire one day. So, we asked Arthur Knowles, who made his millions in the plumbing business, to give the budding entrepreneurs among you a few tips on how to make your first million.",
+      "startTime": 523.02,
+      "endTime": 540.54,
+      "text": "You need to be able to cope with the world of business. But according to recent American business school studies, believing in yourself isn't enough by itself to guarantee success. Confidence can be a good thing, but a person can have too much confidence.",
       "segmentIds": [
         "seg-058",
         "seg-059",
         "seg-060"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-020",
+      "id": "long-016",
       "part": 2,
-      "startTime": 388.36,
-      "endTime": 409.11,
-      "text": "Arthur, welcome to the programme. Thanks, Sue. So, Arthur, what advice do you have for our listeners? Well, one thing I've heard people say is that when you're starting up a business, you can't afford to make mistakes.",
+      "startTime": 540.54,
+      "endTime": 562.0,
+      "text": "And people who try to learn to be confident by buying those how-to-succeed books are just wasting their time. The advice given in these American studies was that being a successful entrepreneur comes down to having the right attitude. It's no good getting depressed every time something goes wrong.",
       "segmentIds": [
         "seg-061",
         "seg-062",
         "seg-063"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 2,
+      "startTime": 562.44,
+      "endTime": 583.64,
+      "text": "Always keep your goals in mind and never give up. And don't listen to all the people around you who say, oh, this will never work. One thing I've learned in business is that you don't have to be an expert in everything. Marketing, for example. When I started my business, I tried to do it all myself.",
+      "segmentIds": [
+        "seg-064",
+        "seg-065",
+        "seg-066",
+        "seg-067"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 2,
+      "startTime": 583.64,
+      "endTime": 607.44,
+      "text": "But I soon realised that although I knew everything there was to know about plumbing, I didn't have much idea about how to sell my ideas. So, I got someone who knew more about this to take care of the marketing side of things for me. And as for leadership, well, you've got to be someone your workers look up to because you've been seen to make the right decisions.",
+      "segmentIds": [
+        "seg-068",
+        "seg-069",
+        "seg-070"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 2,
+      "startTime": 607.44,
+      "endTime": 626.02,
+      "text": "You have to be able to control people, but listen to them at the same time. Some people are driven to make their companies successful, but that too often leads to a ruthless approach. Then there's the question of taking risks, even calculated ones.",
+      "segmentIds": [
+        "seg-071",
+        "seg-072",
+        "seg-073"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 626.28,
+      "endTime": 646.12,
+      "text": "I personally feel it's actually better to tread carefully when it comes to taking short-term risks. You need a degree of vision, certainly, but it's easy to get carried away by your desire to increase profits. And if things go wrong, you can end up losing more than you gain.",
+      "segmentIds": [
+        "seg-074",
+        "seg-075",
+        "seg-076"
+      ],
+      "timestampSource": "exact"
     },
     {
       "id": "long-021",
       "part": 2,
-      "startTime": 409.11,
-      "endTime": 438.5,
-      "text": "Well, I believe in the old saying, a person who never made a mistake never made anything. You can't really predict when you'll make mistakes and you have to look at them as a positive experience and one that means you won't make the same mistake again. You need to be able to cope with the world of business.",
+      "startTime": 682.2,
+      "endTime": 698.34,
+      "text": "So, if you have a great idea for a business, what should you do next? Well, the first thing to ask yourself is whether there's a need for your product or service. Can you cater for people's needs better than existing companies?",
       "segmentIds": [
-        "seg-064",
-        "seg-065",
-        "seg-066"
+        "seg-077",
+        "seg-078",
+        "seg-079"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-022",
       "part": 2,
-      "startTime": 438.5,
-      "endTime": 467.99,
-      "text": "But according to recent American business school studies, believing in yourself isn't enough by itself to guarantee success. Confidence can be a good thing, but a person can have too much confidence. And people who try to learn to be confident by buying those how-to-succeed books are just wasting their time.",
+      "startTime": 698.6,
+      "endTime": 722.58,
+      "text": "You don't need to worry about whether it's original or not because there isn't always enough of a demand for completely new ideas. And the second thing to ask yourself is not what colour should the packet be or how much should it cost, but do I care enough about this idea to dedicate the next 10 years of my life to it? Because realistically, that's how long it will take.",
       "segmentIds": [
-        "seg-067",
-        "seg-068",
-        "seg-069"
+        "seg-080",
+        "seg-081",
+        "seg-082",
+        "seg-083"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-023",
       "part": 2,
-      "startTime": 467.99,
-      "endTime": 490.65,
-      "text": "The advice given in these American studies was that being a successful entrepreneur comes down to having the right attitude. It's no good getting depressed every time something goes wrong. Always keep your goals in mind and never give up.",
+      "startTime": 722.98,
+      "endTime": 742.58,
+      "text": "Tell us how you got started, Arthur. How do you explain your early success? Well, I started my business just as the economy was going into a recession, which wasn't the best time and I was lucky to survive, especially as the banks weren't being particularly supportive to small businesses at that time.",
       "segmentIds": [
-        "seg-070",
-        "seg-071",
-        "seg-072"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-024",
-      "part": 2,
-      "startTime": 490.65,
-      "endTime": 514.46,
-      "text": "And don't listen to all the people around you who say, oh, this will never work. One thing I've learned in business is that you don't have to be an expert in everything. Marketing, for example. When I started my business, I tried to do it all myself.",
-      "segmentIds": [
-        "seg-073",
-        "seg-074",
-        "seg-075"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-025",
-      "part": 2,
-      "startTime": 514.46,
-      "endTime": 549.31,
-      "text": "But I soon realised that although I knew everything there was to know about plumbing, I didn't have much idea about how to sell my ideas. So, I got someone who knew more about this to take care of the marketing side of things for me. And as for leadership, well, you've got to be someone your workers look up to because you've been seen to make the right decisions.",
-      "segmentIds": [
-        "seg-076",
-        "seg-077",
-        "seg-078"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-026",
-      "part": 2,
-      "startTime": 549.31,
-      "endTime": 572.93,
-      "text": "You have to be able to control people, but listen to them at the same time. Some people are driven to make their companies successful, but that too often leads to a ruthless approach. Then there's the question of taking risks, even calculated ones.",
-      "segmentIds": [
-        "seg-079",
-        "seg-080",
-        "seg-081"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-027",
-      "part": 2,
-      "startTime": 572.93,
-      "endTime": 599.15,
-      "text": "I personally feel it's actually better to tread carefully when it comes to taking short-term risks. You need a degree of vision, certainly, but it's easy to get carried away by your desire to increase profits. And if things go wrong, you can end up losing more than you gain.",
-      "segmentIds": [
-        "seg-082",
-        "seg-083",
-        "seg-084"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-028",
-      "part": 2,
-      "startTime": 599.15,
-      "endTime": 618.55,
-      "text": "Before you hear the rest of the programme, you have some time to look at questions 17 to 20. Now listen and answer questions 17 to 20. So, if you have a great idea for a business, what should you do next?",
-      "segmentIds": [
+        "seg-084",
         "seg-085",
         "seg-086",
         "seg-087"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-029",
+      "id": "long-024",
       "part": 2,
-      "startTime": 618.55,
-      "endTime": 646.01,
-      "text": "Well, the first thing to ask yourself is whether there's a need for your product or service. Can you cater for people's needs better than existing companies? You don't need to worry about whether it's original or not because there isn't always enough of a demand for completely new ideas.",
+      "startTime": 742.78,
+      "endTime": 764.24,
+      "text": "If I'd listened to the business advice I was given back then, I'd never have got started. My strengths were that I knew I could provide a better service than my competitors, who really hadn't spotted the opportunities that were out there, and that my wife had a good job and was able to pay the household bills while I was getting the company on its feet.",
       "segmentIds": [
         "seg-088",
         "seg-089",
         "seg-090"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 764.5,
+      "endTime": 774.04,
+      "text": "The first couple of years were very tough, but I knew I would make it eventually. OK, now we're going to take some calls from listeners.",
+      "segmentIds": [
+        "seg-091",
+        "seg-092"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 3,
+      "startTime": 883.28,
+      "endTime": 903.32,
+      "text": "So, Gina, we've got to give our tutor some feedback on how we feel about the course now we've come to the end of our second year. Is it OK with you if we have a chat together before we go and see him? Sure, Charlie. So did you choose this university to do performance arts because it's got such a good reputation? That's what hooked me in.",
+      "segmentIds": [
+        "seg-093",
+        "seg-094",
+        "seg-095"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 3,
+      "startTime": 903.82,
+      "endTime": 925.6,
+      "text": "Well, there are other good places which I also considered, but when I looked into things further, I was impressed by the connections this course has with a whole range of theatres of different types. So, even though I was tempted to go and study abroad, I decided to come here in the end. And you don't regret it?",
+      "segmentIds": [
+        "seg-096",
+        "seg-097",
+        "seg-098"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 3,
+      "startTime": 925.94,
+      "endTime": 943.74,
+      "text": "No, it's been brilliant, especially the options this year. The body and dance option I did for this term has been particularly stimulating. I'm sorry I didn't go for that one too, but I did dance and drama, which was brilliant too.",
+      "segmentIds": [
+        "seg-099",
+        "seg-100",
+        "seg-101"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 3,
+      "startTime": 943.94,
+      "endTime": 967.66,
+      "text": "I think the most valuable option I've done was the movement analysis course we did in the first year. Absolutely. It's provided a great foundation for all our other work since then. So let's talk about our work experience last summer. You went to Finland, didn't you? That's right. I was at their National Ballet Theatre.",
+      "segmentIds": [
+        "seg-102",
+        "seg-103",
+        "seg-104",
+        "seg-105",
+        "seg-106"
+      ],
+      "timestampSource": "exact"
     },
     {
       "id": "long-030",
-      "part": 2,
-      "startTime": 646.01,
-      "endTime": 672.62,
-      "text": "And the second thing to ask yourself is not what colour should the packet be or how much should it cost, but do I care enough about this idea to dedicate the next 10 years of my life to it? Because realistically, that's how long it will take. Tell us how you got started, Arthur.",
+      "part": 3,
+      "startTime": 967.84,
+      "endTime": 984.88,
+      "text": "I didn't get the chance to go on stage, but I helped out with sewing clothes for current productions and even with designing some for future shows. It was brilliant. I got to know a lot of students studying at the local dance school, and I may get the chance to go back there next summer.",
       "segmentIds": [
-        "seg-091",
-        "seg-092",
-        "seg-093"
+        "seg-107",
+        "seg-108",
+        "seg-109"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-031",
-      "part": 2,
-      "startTime": 672.62,
-      "endTime": 697.87,
-      "text": "How do you explain your early success? Well, I started my business just as the economy was going into a recession, which wasn't the best time and I was lucky to survive, especially as the banks weren't being particularly supportive to small businesses at that time.",
+      "part": 3,
+      "startTime": 985.28,
+      "endTime": 1009.16,
+      "text": "I've been offered more work at the place where I was working in Canada. Great. So what do you think you gained most from the experience? I think I've got much better at controlling my stress levels. For me, it was probably the fact that I learned a lot about collaborating with others rather than working independently.",
       "segmentIds": [
-        "seg-094",
-        "seg-095",
-        "seg-096"
+        "seg-110",
+        "seg-111",
+        "seg-112",
+        "seg-113"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-032",
-      "part": 2,
-      "startTime": 697.87,
-      "endTime": 731.77,
-      "text": "If I'd listened to the business advice I was given back then, I'd never have got started. My strengths were that I knew I could provide a better service than my competitors, who really hadn't spotted the opportunities that were out there, and that my wife had a good job and was able to pay the household bills while I was getting the company on its feet.",
-      "segmentIds": [
-        "seg-097",
-        "seg-098",
-        "seg-099"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-033",
-      "part": 2,
-      "startTime": 731.77,
-      "endTime": 752.65,
-      "text": "The first couple of years were very tough, but I knew I would make it eventually. OK, now we're going to take some calls from listeners. That is the end of Part 2. You now have 30 seconds to check your answers to Part 2.",
-      "segmentIds": [
-        "seg-100",
-        "seg-101",
-        "seg-102"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-034",
       "part": 3,
-      "startTime": 752.65,
-      "endTime": 777.85,
-      "text": "You will hear two students of performance arts called Charlie and Gina preparing to give feedback at the end of the second year of their three-year course. First, you have some time to look at questions 21 to 26. Now listen carefully and answer questions 21 to 26.",
+      "startTime": 1009.44,
+      "endTime": 1032.2,
+      "text": "I was lucky to be able to do that in a situation that wasn't too stressful. Also, I had to organise my time well, but I've always been reasonably good at that. That's good. So we've got quite a few things ready to say to our tutor. It'd be a good chance to ask him any questions we have too, of course.",
       "segmentIds": [
-        "seg-103",
-        "seg-104",
-        "seg-105"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-035",
-      "part": 3,
-      "startTime": 777.85,
-      "endTime": 807.76,
-      "text": "So, Gina, we've got to give our tutor some feedback on how we feel about the course now we've come to the end of our second year. Is it OK with you if we have a chat together before we go and see him? Sure, Charlie. So did you choose this university to do performance arts because it's got such a good reputation?",
-      "segmentIds": [
-        "seg-106",
-        "seg-107",
-        "seg-108"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-036",
-      "part": 3,
-      "startTime": 807.76,
-      "endTime": 829.2,
-      "text": "That's what hooked me in. Well, there are other good places which I also considered, but when I looked into things further, I was impressed by the connections this course has with a whole range of theatres of different types.",
-      "segmentIds": [
-        "seg-109",
-        "seg-110",
-        "seg-111"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-037",
-      "part": 3,
-      "startTime": 829.2,
-      "endTime": 853.33,
-      "text": "So, even though I was tempted to go and study abroad, I decided to come here in the end. And you don't regret it? No, it's been brilliant, especially the options this year. The body and dance option I did for this term has been particularly stimulating.",
-      "segmentIds": [
-        "seg-112",
-        "seg-113",
-        "seg-114"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-038",
-      "part": 3,
-      "startTime": 853.33,
-      "endTime": 879.39,
-      "text": "I'm sorry I didn't go for that one too, but I did dance and drama, which was brilliant too. I think the most valuable option I've done was the movement analysis course we did in the first year. Absolutely. It's provided a great foundation for all our other work since then.",
-      "segmentIds": [
+        "seg-114",
         "seg-115",
         "seg-116",
         "seg-117"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-039",
+      "id": "long-033",
       "part": 3,
-      "startTime": 879.39,
-      "endTime": 906.8,
-      "text": "So let's talk about our work experience last summer. You went to Finland, didn't you? That's right. I was at their National Ballet Theatre. I didn't get the chance to go on stage, but I helped out with sewing clothes for current productions and even with designing some for future shows.",
+      "startTime": 1032.52,
+      "endTime": 1054.52,
+      "text": "I also think it could be helpful to discuss our future plans. For example, what we're planning to do our dissertations on. Sure. I was unsure about whether to focus on globalisation in dance or on stage design. I did an essay on globalisation in my first year and really enjoyed it.",
       "segmentIds": [
         "seg-118",
         "seg-119",
-        "seg-120"
+        "seg-120",
+        "seg-121"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-040",
+      "id": "long-034",
       "part": 3,
-      "startTime": 906.8,
-      "endTime": 928.14,
-      "text": "It was brilliant. I got to know a lot of students studying at the local dance school, and I may get the chance to go back there next summer. Hmm. I've been offered more work at the place where I was working in Canada. Great.",
+      "startTime": 1054.64,
+      "endTime": 1077.88,
+      "text": "But then I saw a spectacular production at the Royal Opera House, and that settled me on stage design. I know another student who's planning to work on that too, so we can discuss things together a bit. OK. That could be useful. I'm planning to do something on current trends in contemporary dance for my dissertation. That sounds pretty challenging.",
       "segmentIds": [
-        "seg-121",
         "seg-122",
-        "seg-123"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-041",
-      "part": 3,
-      "startTime": 928.14,
-      "endTime": 951.03,
-      "text": "So what do you think you gained most from the experience? I think I've got much better at controlling my stress levels. For me, it was probably the fact that I learned a lot about collaborating with others rather than working independently.",
-      "segmentIds": [
+        "seg-123",
         "seg-124",
         "seg-125",
         "seg-126"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-042",
+      "id": "long-035",
       "part": 3,
-      "startTime": 951.03,
-      "endTime": 973.05,
-      "text": "I was lucky to be able to do that in a situation that wasn't too stressful. Also, I had to organise my time well, but I've always been reasonably good at that. That's good. So we've got quite a few things ready to say to our tutor.",
+      "startTime": 1078.06,
+      "endTime": 1099.54,
+      "text": "It's a big topic. It might not be easy to organise in a coherent way. I've thought about it quite a lot, and I think that'll be OK. And I feel confident about how to write a longer piece of work. I'm in a bit of a panic, though, about how I'll get through all the literature.",
       "segmentIds": [
         "seg-127",
         "seg-128",
-        "seg-129"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-043",
-      "part": 3,
-      "startTime": 973.05,
-      "endTime": 992.0,
-      "text": "It'd be a good chance to ask him any questions we have too, of course. I also think it could be helpful to discuss our future plans. For example, what we're planning to do our dissertations on. Sure.",
-      "segmentIds": [
+        "seg-129",
         "seg-130",
-        "seg-131",
-        "seg-132"
+        "seg-131"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-044",
+      "id": "long-036",
       "part": 3,
-      "startTime": 992.0,
-      "endTime": 1016.43,
-      "text": "I was unsure about whether to focus on globalisation in dance or on stage design. I did an essay on globalisation in my first year and really enjoyed it. But then I saw a spectacular production at the Royal Opera House, and that settled me on stage design.",
+      "startTime": 1099.78,
+      "endTime": 1105.18,
+      "text": "There seems to be so much. Hopefully it won't all be relevant. Quite.",
       "segmentIds": [
-        "seg-133",
+        "seg-132",
+        "seg-133"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 1142.0,
+      "endTime": 1160.26,
+      "text": "So, have you made any career plans yet? I'm still undecided. I've thought about performance, of course. Yes, I think lots of graduates from here take that route. But it's a hard life, involving lots of tough, repetitive practise, as well as actually appearing on stage.",
+      "segmentIds": [
         "seg-134",
-        "seg-135"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-045",
-      "part": 3,
-      "startTime": 1016.43,
-      "endTime": 1036.91,
-      "text": "I know another student who's planning to work on that too, so we can discuss things together a bit. OK. That could be useful. I'm planning to do something on current trends in contemporary dance for my dissertation.",
-      "segmentIds": [
+        "seg-135",
         "seg-136",
-        "seg-137",
-        "seg-138"
+        "seg-137"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-046",
+      "id": "long-038",
       "part": 3,
-      "startTime": 1036.91,
-      "endTime": 1058.45,
-      "text": "That sounds pretty challenging. It's a big topic. It might not be easy to organise in a coherent way. I've thought about it quite a lot, and I think that'll be OK. And I feel confident about how to write a longer piece of work.",
+      "startTime": 1160.56,
+      "endTime": 1180.18,
+      "text": "Yes, but the performance I've met know that's essential for the job and say they wouldn't change what they do for the world. I know lots of graduates go into education, teaching at various levels, but that means doing some kind of post-grad certificate. But I think it would be interesting, rewarding work.",
       "segmentIds": [
+        "seg-138",
         "seg-139",
-        "seg-140",
-        "seg-141",
-        "seg-142"
+        "seg-140"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-047",
+      "id": "long-039",
       "part": 3,
-      "startTime": 1058.45,
-      "endTime": 1081.63,
-      "text": "I'm in a bit of a panic, though, about how I'll get through all the literature. There seems to be so much. Hopefully it won't all be relevant. Quite. Before you hear the rest of the discussion, you have some time to look at questions 27 to 30.",
+      "startTime": 1180.54,
+      "endTime": 1200.18,
+      "text": "I was wondering about theatre management as a possible option. That's what our tutor did before he got into teaching, isn't it? Yes, but he said he quickly realised it wasn't for him. He wasn't earning enough to live on. I can imagine his communication skills are better than his business skills as well.",
       "segmentIds": [
+        "seg-141",
+        "seg-142",
         "seg-143",
         "seg-144",
         "seg-145"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-048",
+      "id": "long-040",
       "part": 3,
-      "startTime": 1081.63,
-      "endTime": 1100.96,
-      "text": "Now listen and answer questions 27 to 30. So, have you made any career plans yet? I'm still undecided. I've thought about performance, of course. Yes, I think lots of graduates from here take that route.",
+      "startTime": 1200.68,
+      "endTime": 1220.88,
+      "text": "Marketing's a possibility, of course. Sure. I've read something saying it can be an interesting career, though I don't think many graduates go for this. But that might mean there's not so much competition, as in many other fields of dance. Right. So, now shall we make a list?",
       "segmentIds": [
         "seg-146",
         "seg-147",
-        "seg-148"
+        "seg-148",
+        "seg-149"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-049",
-      "part": 3,
-      "startTime": 1100.96,
-      "endTime": 1135.48,
-      "text": "But it's a hard life, involving lots of tough, repetitive practise, as well as actually appearing on stage. Yes, but the performance I've met know that's essential for the job and say they wouldn't change what they do for the world. I know lots of graduates go into education, teaching at various levels, but that means doing some kind of post-grad certificate.",
+      "id": "long-041",
+      "part": 4,
+      "startTime": 1328.1,
+      "endTime": 1344.12,
+      "text": "Hello everybody. I'm here today to tell you about a new research study that my team here at the university is doing on the sea lions that live along the coast of Western Australia. You may be wondering why we've been studying this animal.",
       "segmentIds": [
-        "seg-149",
         "seg-150",
-        "seg-151"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-050",
-      "part": 3,
-      "startTime": 1135.48,
-      "endTime": 1157.88,
-      "text": "But I think it would be interesting, rewarding work. I was wondering about theatre management as a possible option. That's what our tutor did before he got into teaching, isn't it? Yes, but he said he quickly realised it wasn't for him.",
-      "segmentIds": [
+        "seg-151",
         "seg-152",
-        "seg-153",
+        "seg-153"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 4,
+      "startTime": 1344.28,
+      "endTime": 1365.36,
+      "text": "Well, Australian sea lions have been identified as an endangered species, so there's a real need to count them and find out just how many there are. Up until 1892, the population of these animals was severely depleted because of hunting. That's no longer allowed. But today there is a new danger.",
+      "segmentIds": [
         "seg-154",
-        "seg-155"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-051",
-      "part": 3,
-      "startTime": 1157.88,
-      "endTime": 1173.46,
-      "text": "He wasn't earning enough to live on. I can imagine his communication skills are better than his business skills as well. Marketing's a possibility, of course. Sure.",
-      "segmentIds": [
+        "seg-155",
         "seg-156",
-        "seg-157",
-        "seg-158"
+        "seg-157"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-052",
-      "part": 3,
-      "startTime": 1173.46,
-      "endTime": 1198.56,
-      "text": "I've read something saying it can be an interesting career, though I don't think many graduates go for this. But that might mean there's not so much competition, as in many other fields of dance. Right. So, now shall we make a list? That is the end of part three.",
+      "id": "long-043",
+      "part": 4,
+      "startTime": 1365.66,
+      "endTime": 1384.12,
+      "text": "Sea lions often forage for food in the same areas along the coastlines where there are nets used to catch sharks. Unfortunately, they tend to get caught up in the nets by accident and drown. Now, we wanted to monitor the population of sea lions in this area, but we weren't sure of the best way to do it.",
       "segmentIds": [
+        "seg-158",
         "seg-159",
-        "seg-160",
-        "seg-161"
+        "seg-160"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-053",
-      "part": 3,
-      "startTime": 1198.56,
-      "endTime": 1204.33,
-      "text": "You now have 30 seconds to check your answers to part three.",
-      "segmentIds": [
-        "seg-162"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-054",
+      "id": "long-044",
       "part": 4,
-      "startTime": 1204.33,
-      "endTime": 1224.59,
-      "text": "You will hear part of a presentation to biology students on new research into sea lions. First you have some time to look at questions 31 to 40. Now listen carefully and answer questions 31 to 40. Hello everybody.",
+      "startTime": 1384.5,
+      "endTime": 1403.06,
+      "text": "There are several different animal tracking methods, which vary in their effectiveness, and there are different factors to consider. One of the most important of these is the cost, but you also have to consider how easy your chosen method is to use. You may choose a traditional method, like a plastic tag.",
       "segmentIds": [
-        "seg-163",
+        "seg-161",
+        "seg-162",
+        "seg-163"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 4,
+      "startTime": 1403.54,
+      "endTime": 1424.94,
+      "text": "They're relatively straightforward to attach, but they're really only suitable to use with animals that you can catch quite easily. You might also go with a more modern method like GPS tracking, which uses satellite technology to transmit data on the animal around the clock. One drawback for marine animals, though, is that they don't transmit a signal in the ocean.",
+      "segmentIds": [
         "seg-164",
-        "seg-165"
+        "seg-165",
+        "seg-166"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-055",
+      "id": "long-046",
       "part": 4,
-      "startTime": 1224.59,
-      "endTime": 1259.92,
-      "text": "I'm here today to tell you about a new research study that my team here at the university is doing on the sea lions that live along the coast of Western Australia. You may be wondering why we've been studying this animal. Well, Australian sea lions have been identified as an endangered species, so there's a real need to count them and find out just how many there are.",
+      "startTime": 1425.2,
+      "endTime": 1445.92,
+      "text": "You only get data when they're on land. There are certain large animals in remote areas that have to be tracked using a helicopter. The polar bear is a good example. Now, an important part of tracking is being able to clearly identify the animal. Some, like zebras, are identified by markings such as their stripes.",
       "segmentIds": [
-        "seg-166",
         "seg-167",
-        "seg-168"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-056",
-      "part": 4,
-      "startTime": 1259.92,
-      "endTime": 1284.79,
-      "text": "Up until 1892, the population of these animals was severely depleted because of hunting. That's no longer allowed. But today there is a new danger. Sea lions often forage for food in the same areas along the coastlines where there are nets used to catch sharks.",
-      "segmentIds": [
+        "seg-168",
         "seg-169",
         "seg-170",
         "seg-171"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-057",
+      "id": "long-047",
       "part": 4,
-      "startTime": 1284.79,
-      "endTime": 1315.61,
-      "text": "Unfortunately, they tend to get caught up in the nets by accident and drown. Now, we wanted to monitor the population of sea lions in this area, but we weren't sure of the best way to do it. There are several different animal tracking methods, which vary in their effectiveness, and there are different factors to consider.",
+      "startTime": 1445.92,
+      "endTime": 1468.92,
+      "text": "While the dolphin usually has distinguishing scars on its body that can help tell them apart. Sea lions don't have any markings like this, which is just one of the challenges of tracking them. When researchers in Perth tried to use electronic tags in a sea lion study, they found that the sea lions had removed their tracking devices by deliberately rubbing up against rocks.",
       "segmentIds": [
         "seg-172",
         "seg-173",
-        "seg-174"
+        "seg-174",
+        "seg-175"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-058",
+      "id": "long-048",
       "part": 4,
-      "startTime": 1315.61,
-      "endTime": 1344.71,
-      "text": "One of the most important of these is the cost, but you also have to consider how easy your chosen method is to use. You may choose a traditional method, like a plastic tag. They're relatively straightforward to attach, but they're really only suitable to use with animals that you can catch quite easily.",
+      "startTime": 1469.1,
+      "endTime": 1493.44,
+      "text": "This was something the researchers hadn't anticipated. Researchers in California studying American sea lions tried a different method. They applied paint to the animals. They thought this would be a better, less invasive means of identification. Unfortunately, this didn't work so well either, because sea lions moult every year and shed their fur along with the identifying mark.",
       "segmentIds": [
-        "seg-175",
         "seg-176",
-        "seg-177"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-059",
-      "part": 4,
-      "startTime": 1344.71,
-      "endTime": 1370.92,
-      "text": "You might also go with a more modern method like GPS tracking, which uses satellite technology to transmit data on the animal around the clock. One drawback for marine animals, though, is that they don't transmit a signal in the ocean. You only get data when they're on land.",
-      "segmentIds": [
+        "seg-177",
         "seg-178",
         "seg-179",
         "seg-180"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-060",
+      "id": "long-049",
       "part": 4,
-      "startTime": 1370.92,
-      "endTime": 1390.51,
-      "text": "There are certain large animals in remote areas that have to be tracked using a helicopter. The polar bear is a good example. Now, an important part of tracking is being able to clearly identify the animal.",
+      "startTime": 1498.74,
+      "endTime": 1521.6,
+      "text": "So let's look at our current study. We have several aims that we'd like to achieve. The first of these is to try to establish whether sea lions can be identified from the whiskers on their face. These are much coarser than a cat's whiskers, so easier to see. Our theory is that the pattern of these whiskers may be as individual as a fingerprint on a human.",
       "segmentIds": [
         "seg-181",
         "seg-182",
-        "seg-183"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-061",
-      "part": 4,
-      "startTime": 1390.51,
-      "endTime": 1415.38,
-      "text": "Some, like zebras, are identified by markings such as their stripes. While the dolphin usually has distinguishing scars on its body that can help tell them apart. Sea lions don't have any markings like this, which is just one of the challenges of tracking them.",
-      "segmentIds": [
+        "seg-183",
         "seg-184",
-        "seg-185",
-        "seg-186"
+        "seg-185"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-062",
+      "id": "long-050",
       "part": 4,
-      "startTime": 1415.38,
-      "endTime": 1437.94,
-      "text": "When researchers in Perth tried to use electronic tags in a sea lion study, they found that the sea lions had removed their tracking devices by deliberately rubbing up against rocks. This was something the researchers hadn't anticipated.",
+      "startTime": 1521.88,
+      "endTime": 1543.64,
+      "text": "If this is in fact true, then we think this could be an effective way to identify them. Our second aim is to come up with a diagram of sea lion whisker patterns, so this can be used as a guide for us and other studies. We're using a few different methods to help us do all this. We know that we need to build up a wide range of visual data.",
       "segmentIds": [
+        "seg-186",
         "seg-187",
         "seg-188",
         "seg-189"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-063",
+      "id": "long-051",
       "part": 4,
-      "startTime": 1437.94,
-      "endTime": 1455.99,
-      "text": "Researchers in California studying American sea lions tried a different method. They applied paint to the animals. They thought this would be a better, less invasive means of identification.",
+      "startTime": 1543.9,
+      "endTime": 1563.9,
+      "text": "So firstly, we've been in touch with zoos around Australia to gather photographs from them of the faces of any sea lions they have. This won't be enough to achieve our purpose though, so we're also broadening our search by inviting the public to take part in our research. We're hoping this will result in hundreds of useful images we can use.",
       "segmentIds": [
         "seg-190",
         "seg-191",
         "seg-192"
       ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-064",
-      "part": 4,
-      "startTime": 1455.99,
-      "endTime": 1487.39,
-      "text": "Unfortunately, this didn't work so well either, because sea lions moult every year and shed their fur along with the identifying mark. So let's look at our current study. We have several aims that we'd like to achieve. The first of these is to try to establish whether sea lions can be identified from the whiskers on their face.",
-      "segmentIds": [
-        "seg-193",
-        "seg-194",
-        "seg-195"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-065",
-      "part": 4,
-      "startTime": 1487.39,
-      "endTime": 1511.2,
-      "text": "These are much coarser than a cat's whiskers, so easier to see. Our theory is that the pattern of these whiskers may be as individual as a fingerprint on a human. If this is in fact true, then we think this could be an effective way to identify them.",
-      "segmentIds": [
-        "seg-196",
-        "seg-197",
-        "seg-198"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-066",
-      "part": 4,
-      "startTime": 1511.2,
-      "endTime": 1535.21,
-      "text": "Our second aim is to come up with a diagram of sea lion whisker patterns, so this can be used as a guide for us and other studies. We're using a few different methods to help us do all this. We know that we need to build up a wide range of visual data.",
-      "segmentIds": [
-        "seg-199",
-        "seg-200",
-        "seg-201"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-067",
-      "part": 4,
-      "startTime": 1535.21,
-      "endTime": 1567.95,
-      "text": "So firstly, we've been in touch with zoos around Australia to gather photographs from them of the faces of any sea lions they have. This won't be enough to achieve our purpose though, so we're also broadening our search by inviting the public to take part in our research. We're hoping this will result in hundreds of useful images we can use.",
-      "segmentIds": [
-        "seg-202",
-        "seg-203",
-        "seg-204"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-068",
-      "part": 4,
-      "startTime": 1567.95,
-      "endTime": 1587.73,
-      "text": "That is the end of part four. You now have one minute to check your answers to part four. That is the end of the listening test. You now have 10 minutes to transfer your answers to the listening answer sheet.",
-      "segmentIds": [
-        "seg-205",
-        "seg-206",
-        "seg-207"
-      ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     }
   ]
 }

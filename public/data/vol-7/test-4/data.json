@@ -12,7 +12,7 @@
   "audioUrl": "./data/vol-7/test-4/audio.mp3",
   "audioDurationSec": 1712.38,
   "hasExactTimestamps": true,
-  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "timestampNote": "Mốc thời gian đã được căn chỉnh trực tiếp từ audio gốc ở mức từng từ (acoustic forced alignment).",
   "parts": [
     {
       "partNumber": 1,
@@ -21,8 +21,8 @@
         1,
         10
       ],
-      "startTime": 1.0,
-      "endTime": 556.0,
+      "startTime": 0.0,
+      "endTime": 452.92,
       "topicHint": "You will hear a number of different recordings and you will have to answer questions on what you hear."
     },
     {
@@ -32,8 +32,8 @@
         11,
         20
       ],
-      "startTime": 556.0,
-      "endTime": 981.0,
+      "startTime": 545.26,
+      "endTime": 884.0,
       "topicHint": "Section 2 (Questions 11-20)"
     },
     {
@@ -43,8 +43,8 @@
         21,
         30
       ],
-      "startTime": 981.0,
-      "endTime": 1430.0,
+      "startTime": 914.16,
+      "endTime": 1325.32,
       "topicHint": "You will hear two health science students called Elliot and Beth discussing research on climate change and allergies."
     },
     {
@@ -54,8 +54,8 @@
         31,
         40
       ],
-      "startTime": 1430.0,
-      "endTime": 1711.0,
+      "startTime": 1356.0,
+      "endTime": 1699.54,
       "topicHint": "You will hear a student who is studying food science giving a presentation on a spice called saffron."
     }
   ],
@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "ssica Brown Tel: 5823 2210 Under warranty: yes Model type: a 1……….. mount Model number: S 654 391 X Colour: 2………….. Date of purchase: 3……….. Problems: ∙ the 4………….. in the fridge sounded ∙ freezer temperature is 5 …………….degrees ∙ main fridge not working. Nearest service centre: Ken’s Appliances (near the 6………) Comments:",
+      "promptContext": "Model type: a",
       "answerRaw": "top",
       "canonicalAnswer": "top",
       "acceptedAnswers": [
@@ -71,8 +71,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Is it a top mount, a bottom mount or a side-by-side? The freezer is on top.",
-      "evidenceStartTime": 209.0,
-      "evidenceEndTime": 214.66,
+      "evidenceStartTime": 206.36,
+      "evidenceEndTime": 212.28,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"top\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -80,16 +80,16 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "Model type: a 1……….. mount Model number: S 654 391 X Colour: 2………….. Date of purchase: 3……….. Problems: ∙ the 4………….. in the fridge sounded ∙ freezer temperature is 5 …………….degrees ∙ main fridge not working. Nearest service centre: Ken’s Appliances (near the 6………) Comments: ∙ customer needs the fridge to store food for h",
+      "promptContext": ".. mount Model number: S 654 391 X Colour:",
       "answerRaw": "silver",
       "canonicalAnswer": "silver",
       "acceptedAnswers": [
         "silver"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "It's S654391X. OK. So it's silver in colour. That's right. I thought it was so much nicer than the usual white ones.",
-      "evidenceStartTime": 222.0,
-      "evidenceEndTime": 235.37,
+      "evidenceQuote": "OK. So it's silver in colour. That's right. I thought it was so much nicer than the usual white ones.",
+      "evidenceStartTime": 225.48,
+      "evidenceEndTime": 232.32,
       "paraphrases": [],
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
@@ -99,7 +99,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "Model number: S 654 391 X Colour: 2………….. Date of purchase: 3……….. Problems: ∙ the 4………….. in the fridge sounded ∙ freezer temperature is 5 …………….degrees ∙ main fridge not working. Nearest service centre: Ken’s Appliances (near the 6………) Comments: ∙ customer needs the fridge to store food for her 7…………… shop ∙ value of",
+      "promptContext": ".. Date of purchase:",
       "answerRaw": "12th January",
       "canonicalAnswer": "12th January",
       "acceptedAnswers": [
@@ -107,8 +107,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "It says here you bought it on January the 12th. Now, what exactly is wrong with the fridge?",
-      "evidenceStartTime": 261.9,
-      "evidenceEndTime": 269.26,
+      "evidenceStartTime": 259.36,
+      "evidenceEndTime": 266.02,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"12th January\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -116,16 +116,16 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "1 X Colour: 2………….. Date of purchase: 3……….. Problems: ∙ the 4………….. in the fridge sounded ∙ freezer temperature is 5 …………….degrees ∙ main fridge not working. Nearest service centre: Ken’s Appliances (near the 6………) Comments: ∙ customer needs the fridge to store food for her 7…………… shop ∙ value of food in fridge……………: $",
+      "promptContext": ".. Problems: ∙ the",
       "answerRaw": "alarm",
       "canonicalAnswer": "alarm",
       "acceptedAnswers": [
         "alarm"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Well, my fridge is fitted with an alarm and it started to go off. It made an awful noise.",
-      "evidenceStartTime": 269.26,
-      "evidenceEndTime": 276.01,
+      "evidenceQuote": "Well, my fridge is fitted with an alarm and it started to go off.",
+      "evidenceStartTime": 266.4,
+      "evidenceEndTime": 271.58,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"alarm\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -133,26 +133,26 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "∙ the 4………….. in the fridge sounded ∙ freezer temperature is 5 …………….degrees ∙ main fridge not working. Nearest service centre: Ken’s Appliances (near the 6………) Comments: ∙ customer needs the fridge to store food for her 7…………… shop ∙ value of food in fridge……………: $ 8 To do: ∙ get the 9…………. to call her today ∙ replace d",
+      "promptContext": ".. in the fridge sounded ∙ freezer temperature is",
       "answerRaw": "10",
       "canonicalAnswer": "10",
       "acceptedAnswers": [
         "10"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Now listen and answer questions 6 to 10. I've made a note of that on the form and I'll pass it on to the service agent.",
-      "evidenceStartTime": 315.18,
-      "evidenceEndTime": 335.81,
+      "evidenceQuote": "It's 10 degrees and it should be minus 18, so everything is melting.",
+      "evidenceStartTime": 280.02,
+      "evidenceEndTime": 285.52,
       "paraphrases": [],
       "distractors": [
-        "Có số gây nhiễu (6) xuất hiện sát đáp án chuẩn '10'."
+        "Có số gây nhiễu (18) xuất hiện sát đáp án chuẩn '10'."
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"10\". Lưu ý bẫy gây nhiễu (distractor): Có số gây nhiễu (6) xuất hiện sát đáp án chuẩn '10'.."
+      "explanationVi": "Đáp án chuẩn cần điền là \"10\". Lưu ý bẫy gây nhiễu (distractor): Có số gây nhiễu (18) xuất hiện sát đáp án chuẩn '10'.."
     },
     {
       "number": 6,
       "part": 1,
-      "promptContext": "working. Nearest service centre: Ken’s Appliances (near the 6………) Comments: ∙ customer needs the fridge to store food for her 7…………… shop ∙ value of food in fridge……………: $ 8 To do: ∙ get the 9…………. to call her today ∙ replace damaged 10…………….",
+      "promptContext": ".degrees ∙ main fridge not working. Nearest service centre: Ken’s Appliances (near the",
       "answerRaw": "station",
       "canonicalAnswer": "station",
       "acceptedAnswers": [
@@ -160,8 +160,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "That's Ken's Appliances and they've got two centres in your area, one near the station and another one in the shopping centre.",
-      "evidenceStartTime": 348.73,
-      "evidenceEndTime": 357.89,
+      "evidenceStartTime": 347.08,
+      "evidenceEndTime": 355.62,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"station\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -169,7 +169,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "Comments: ∙ customer needs the fridge to store food for her 7…………… shop ∙ value of food in fridge……………: $ 8 To do: ∙ get the 9…………. to call her today ∙ replace damaged 10…………….",
+      "promptContext": ") Comments: ∙ customer needs the fridge to store food for her",
       "answerRaw": "sandwich",
       "canonicalAnswer": "sandwich",
       "acceptedAnswers": [
@@ -177,8 +177,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "I run a sandwich shop and that's where I keep my stock. Mmm, I see.",
-      "evidenceStartTime": 388.0,
-      "evidenceEndTime": 392.31,
+      "evidenceStartTime": 385.1,
+      "evidenceEndTime": 390.12,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"sandwich\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -186,7 +186,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "e food for her 7…………… shop ∙ value of food in fridge……………: $ 8 To do: ∙ get the 9…………. to call her today ∙ replace damaged 10…………….",
+      "promptContext": ": $",
       "answerRaw": "180",
       "canonicalAnswer": "180",
       "acceptedAnswers": [
@@ -194,8 +194,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Well, I've just filled it with $180 worth of meat and salad, so that would be something, I suppose.",
-      "evidenceStartTime": 403.0,
-      "evidenceEndTime": 410.18,
+      "evidenceStartTime": 400.34,
+      "evidenceEndTime": 407.21,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"180\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -203,16 +203,16 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "…… shop ∙ value of food in fridge……………: $ 8 To do: ∙ get the 9…………. to call her today ∙ replace damaged 10…………….",
+      "promptContext": "To do: ∙ get the",
       "answerRaw": "manager",
       "canonicalAnswer": "manager",
       "acceptedAnswers": [
         "manager"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I can ask my manager to ring you back by close of business today. Would that be acceptable?",
-      "evidenceStartTime": 425.8,
-      "evidenceEndTime": 431.98,
+      "evidenceQuote": "I can ask my manager to ring you back by close of business today. Would that be acceptable? Yes, thank you.",
+      "evidenceStartTime": 424.26,
+      "evidenceEndTime": 430.9,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"manager\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -220,35 +220,35 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "To do: ∙ get the 9…………. to call her today ∙ replace damaged 10…………….",
+      "promptContext": ". to call her today ∙ replace damaged",
       "answerRaw": "door",
       "canonicalAnswer": "door",
       "acceptedAnswers": [
         "door"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Actually, there is one more thing. The door has a dent in it on the left-hand side.",
-      "evidenceStartTime": 439.57,
-      "evidenceEndTime": 445.0,
+      "evidenceQuote": "The door has a dent in it on the left-hand side. It wasn't there in the shop, so it must have happened when it was delivered.",
+      "evidenceStartTime": 439.54,
+      "evidenceEndTime": 446.86,
       "paraphrases": [],
       "distractors": [
-        "người nói tự đính chính thông tin vừa nêu ('actually')"
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"door\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"door\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
     },
     {
       "number": 11,
       "part": 2,
-      "promptContext": "r questions 11–20 Questions 11–14 Choose the correct answer. 11 People who act as hosts for Connections A.are given a litte money. B.do not receive payment. C.can apply for expenses. 12 Connections is for people from other countries who A.have difficulty making friends. B.are looking for temporary work. C.can offer langua",
+      "promptContext": "People who act as hosts for Connections A.are given a litte money. B.do not receive payment. C.can apply for expenses.",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "As the name Connections suggests, we're hoping that the scheme will introduce people who live in this country who will act as hosts to people who've recently arrived here to study or to work for a limited period of time, who will be their guests.",
-      "evidenceStartTime": 577.11,
-      "evidenceEndTime": 592.0,
+      "evidenceQuote": "As the name Connections suggests, we're hoping that the scheme will introduce people who live in this country who will act as",
+      "evidenceStartTime": 574.32,
+      "evidenceEndTime": 582.02,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -256,16 +256,16 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "e money. B.do not receive payment. C.can apply for expenses. 12 Connections is for people from other countries who A.have difficulty making friends. B.are looking for temporary work. C.can offer language support. 13 According to the speaker, what can a guest expect to do during their stay? A.cook food for their host famil",
+      "promptContext": "Connections is for people from other countries who A.have difficulty making friends. B.are looking for temporary work. C.can offer language support.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "As the name Connections suggests, we're hoping that the scheme will introduce people who live in this country who will act as hosts to people who've recently arrived here to study or to work for a limited period of time, who will be their guests.",
-      "evidenceStartTime": 577.11,
-      "evidenceEndTime": 592.0,
+      "evidenceQuote": "hosts to people who've recently arrived here to study or to work for a limited period of time, who will be their guests.",
+      "evidenceStartTime": 582.02,
+      "evidenceEndTime": 589.5,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -273,16 +273,16 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": "re looking for temporary work. C.can offer language support. 13 According to the speaker, what can a guest expect to do during their stay? A.cook food for their host family B.explain their own family traditions. C.discuss matters of personal interest. 14 According to the speaker, a long-term benefit of the Connections sch",
+      "promptContext": "According to the speaker, what can a guest expect to do during their stay? A.cook food for their host family B.explain their own family traditions. C.discuss matters of personal interest.",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "you can rely on Connections for a personal introduction and the timing of the invitation will be to suit you.",
-      "evidenceStartTime": 634.69,
-      "evidenceEndTime": 642.71,
+      "evidenceQuote": "Now, if you've got a spare room in your house or flat, you might like to be a host and have someone stay for a weekend.",
+      "evidenceStartTime": 590.02,
+      "evidenceEndTime": 598.74,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -290,29 +290,31 @@
     {
       "number": 14,
       "part": 2,
-      "promptContext": "n family traditions. C.discuss matters of personal interest. 14 According to the speaker, a long-term benefit of the Connections scheme could be A.an increased understanding between cultures. B.a programme of weekly visits. C.more involvement from people of different communities. Questions 15–20 Complete the fow – chart b",
+      "promptContext": "According to the speaker, a long-term benefit of the Connections scheme could be A.an increased understanding between cultures. B.a programme of weekly visits. C.more involvement from people of different communities. Questions 15–20 Complete the fow – chart below. hoose SIX correct answers, A – H, next to questions 15 – 20. A. Acknowledgement B. Decision C. Identity D. An interview E. Legal status F. Records G. Rejection H. Vetting To apply to Connections as a guest The applicant makes an initial phone call to the",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "If you're listening to this programme and you would like to take advantage of what Connections can offer a guest,",
-      "evidenceStartTime": 656.0,
-      "evidenceEndTime": 663.93,
+      "evidenceQuote": "It's early days, but if a weekend stay goes well, relationships might develop over time and turn into lasting and genuine friendships. This would undoubtedly be of advantage to the whole community as we all become more aware of the ways in which people in different countries live their lives.",
+      "evidenceStartTime": 683.26,
+      "evidenceEndTime": 703.26,
       "paraphrases": [
         {
           "questionTerm": "benefit",
           "audioTerm": "advantage"
         }
       ],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'benefit' ↔ 'advantage'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'benefit' ↔ 'advantage'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "as a guest The applicant makes an initial phone call to the 15…….. department. ↓ The applicant sends in a reference to confirm his/her 16……….. . ↓ Following approval, an application form is emailed to the applicant. ↓ The applicant returns the completed form with two photographs (one for 17………and one for the family). ↓",
+      "promptContext": "The applicant makes an initial phone call to the",
       "answerRaw": "H vetting",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -322,8 +324,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "To begin with, we ask you to make a phone call to our vetting people.",
-      "evidenceStartTime": 788.81,
-      "evidenceEndTime": 793.3,
+      "evidenceStartTime": 786.8,
+      "evidenceEndTime": 791.56,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án H vetting. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -331,7 +333,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "ent. ↓ The applicant sends in a reference to confirm his/her 16……….. . ↓ Following approval, an application form is emailed to the applicant. ↓ The applicant returns the completed form with two photographs (one for 17………and one for the family). ↓ The applicant receives 18………….. within seven days. ↓ The applicant has 19",
+      "promptContext": ".. department. ↓ The applicant sends in a reference to confirm his/her",
       "answerRaw": "C identity",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -341,8 +343,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "This will be used for an identity check. Once that's been sent to the authorities and approved, we'll email you an application form which you can download.",
-      "evidenceStartTime": 814.15,
-      "evidenceEndTime": 826.02,
+      "evidenceStartTime": 811.46,
+      "evidenceEndTime": 822.98,
       "paraphrases": [
         {
           "questionTerm": "confirm",
@@ -355,7 +357,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "nt returns the completed form with two photographs (one for 17………and one for the family). ↓ The applicant receives 18………….. within seven days. ↓ The applicant has 19……………. with a staff member. ↓ The applicant receives a final 20…………. in writing.",
+      "promptContext": ".. . ↓ Following approval, an application form is emailed to the applicant. ↓ The applicant returns the completed form with two photographs (one for",
       "answerRaw": "F records",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -365,8 +367,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "One photo will be held in our records and the other will be sent to your host family prior to your first weekend visit.",
-      "evidenceStartTime": 832.63,
-      "evidenceEndTime": 841.0,
+      "evidenceStartTime": 830.54,
+      "evidenceEndTime": 839.42,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án F records. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -374,7 +376,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "for 17………and one for the family). ↓ The applicant receives 18………….. within seven days. ↓ The applicant has 19……………. with a staff member. ↓ The applicant receives a final 20…………. in writing.",
+      "promptContext": "and one for the family). ↓ The applicant receives",
       "answerRaw": "A acknowledgement",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -383,22 +385,17 @@
         "acknowledgement"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "and if we think there's a suitable match on our files, someone from our interview team will contact you for a face-to-face meeting with a member of staff.",
-      "evidenceStartTime": 848.69,
-      "evidenceEndTime": 858.14,
-      "paraphrases": [
-        {
-          "questionTerm": "staff",
-          "audioTerm": "team"
-        }
-      ],
+      "evidenceQuote": "Our centre manager will get back to you within a week of receiving your form to let you know that we have it,",
+      "evidenceStartTime": 839.56,
+      "evidenceEndTime": 846.16,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án A acknowledgement. Diễn đạt tương đương (paraphrase) giữa đề và audio: 'staff' ↔ 'team'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án A acknowledgement. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": "t receives 18………….. within seven days. ↓ The applicant has 19……………. with a staff member. ↓ The applicant receives a final 20…………. in writing.",
+      "promptContext": ".. within seven days. ↓ The applicant has",
       "answerRaw": "D an interview",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -408,21 +405,16 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "and if we think there's a suitable match on our files, someone from our interview team will contact you for a face-to-face meeting with a member of staff.",
-      "evidenceStartTime": 848.69,
-      "evidenceEndTime": 858.14,
-      "paraphrases": [
-        {
-          "questionTerm": "staff",
-          "audioTerm": "team"
-        }
-      ],
+      "evidenceStartTime": 846.16,
+      "evidenceEndTime": 854.8,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D an interview. Diễn đạt tương đương (paraphrase) giữa đề và audio: 'staff' ↔ 'team'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án D an interview. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 20,
       "part": 2,
-      "promptContext": "……………. with a staff member. ↓ The applicant receives a final 20…………. in writing.",
+      "promptContext": ". with a staff member. ↓ The applicant receives a final",
       "answerRaw": "B decision",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -432,8 +424,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "However, decisions are not made at the meeting, but you can expect to hear the result from us in a couple of days.",
-      "evidenceStartTime": 865.01,
-      "evidenceEndTime": 872.0,
+      "evidenceStartTime": 862.72,
+      "evidenceEndTime": 870.2,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -444,33 +436,36 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "1–25 Choose the correct answer. Climate change and allergies 21 Why is Beth unconvinced that allergies are linked to vitamin D deficiency? A.because people’s diets have improved since the 1950s B.because most people get enough vitamin D C.because the evidence only applies in Britain 22 Eliot explains that rising CO2 level",
+      "promptContext": "Why is Beth unconvinced that allergies are linked to vitamin D deficiency? A.because people’s diets have improved since the 1950s B.because most people get enough vitamin D C.because the evidence only applies in Britain",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I've had a look at most of the stuff on the relationship between climate change and allergies and at the role played by pollen from flowering plants and trees.",
-      "evidenceStartTime": 989.97,
-      "evidenceEndTime": 1000.5,
+      "evidenceQuote": "because we no longer take cod liver oil as a vitamin supplement like many people used to do in the 1950s in Britain",
+      "evidenceStartTime": 1024.98,
+      "evidenceEndTime": 1032.15,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "thông tin cũ trong quá khứ ('used to'), không phải hiện tại",
+        "tình trạng không còn đúng nữa ('no longer')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): thông tin cũ trong quá khứ ('used to'), không phải hiện tại."
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "ugh vitamin D C.because the evidence only applies in Britain 22 Eliot explains that rising CO2 levels A.will mean distribution of pollen over a wider area. B.are having less impact on pollen than milder winters. C.are responsible for higher quantities of pollen. 23 What does Beth say about seasonal changes? A.There is no",
+      "promptContext": "Eliot explains that rising CO2 levels A.will mean distribution of pollen over a wider area. B.are having less impact on pollen than milder winters. C.are responsible for higher quantities of pollen.",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "But CO2 levels are seriously affecting pollen counts too. As much as milder winters.",
-      "evidenceStartTime": 1063.0,
-      "evidenceEndTime": 1069.43,
+      "evidenceQuote": "But CO2 levels are seriously affecting pollen counts too.",
+      "evidenceStartTime": 1061.54,
+      "evidenceEndTime": 1065.56,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -480,68 +475,65 @@
     {
       "number": 23,
       "part": 3,
-      "promptContext": "winters. C.are responsible for higher quantities of pollen. 23 What does Beth say about seasonal changes? A.There is no clear short-term trend for the arrival of spring. B.In general, spring is likely to continue arriving early. C.Springs are becoming milder and longer. 24 What point is made about the plant ragweed? A.it",
+      "promptContext": "What does Beth say about seasonal changes? A.There is no clear short-term trend for the arrival of spring. B.In general, spring is likely to continue arriving early. C.Springs are becoming milder and longer.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "But CO2 levels are seriously affecting pollen counts too. As much as milder winters.",
-      "evidenceStartTime": 1063.0,
-      "evidenceEndTime": 1069.43,
-      "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      "evidenceQuote": "Whereas this year spring came earlier and lasted longer. Right.",
+      "evidenceStartTime": 1109.82,
+      "evidenceEndTime": 1114.88,
+      "paraphrases": [
+        {
+          "questionTerm": "early",
+          "audioTerm": "earlier"
+        }
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'early' ↔ 'earlier'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "ue arriving early. C.Springs are becoming milder and longer. 24 What point is made about the plant ragweed? A.it is spreading to more countries. B.it is the most widespread cause of allergies globally. C.it causes the most severe type of allergy. 25 Why is tree pollen a more serious problem in cities? A.Trees produce more",
+      "promptContext": "What point is made about the plant ragweed? A.it is spreading to more countries. B.it is the most widespread cause of allergies globally. C.it causes the most severe type of allergy.",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "CO2 helps stimulate plant growth and several recent studies have shown that when plants are exposed to more CO2, they produce more pollen.",
-      "evidenceStartTime": 1070.27,
-      "evidenceEndTime": 1080.83,
-      "paraphrases": [
-        {
-          "questionTerm": "tree",
-          "audioTerm": "plant"
-        }
-      ],
+      "evidenceQuote": "As an example of a plant species moving into new areas as a result of climate change. Yes.",
+      "evidenceStartTime": 1118.18,
+      "evidenceEndTime": 1125.5,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'tree' ↔ 'plant'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "rgies globally. C.it causes the most severe type of allergy. 25 Why is tree pollen a more serious problem in cities? A.Trees produce more pollen there. B.There is less to absorb the tree pollen. C.There is not enough control over tree-planting. Questions 26–30 What comment is made about the seasonal changes in pollen in e",
+      "promptContext": "Why is tree pollen a more serious problem in cities? A.Trees produce more pollen there. B.There is less to absorb the tree pollen. C.There is not enough control over tree-planting. Questions 26–30 What comment is made about the seasonal changes in pollen in each of the following European countries? Choose FIVE correct answers, A – G, next to question 26 – 30. Seasonal changes in pollen. European countries",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "But we're starting to see it grow in Europe for the first time, which is really worrying because it's so allergenic. The problem with tree pollen is also worse in cities because there are so many hard surfaces around and the pollen doesn't get absorbed so much, just stays in the air.",
-      "evidenceStartTime": 1133.91,
-      "evidenceEndTime": 1161.96,
+      "evidenceQuote": "But we're starting to see it grow in Europe for the first time, which is really worrying because it's so allergenic. The problem with tree pollen is also worse in cities because there are",
+      "evidenceStartTime": 1132.52,
+      "evidenceEndTime": 1144.62,
       "paraphrases": [],
       "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "tion 26 – 30. Seasonal changes in pollen. European countries 26.Australia ……….. 27.France ………….. 28.The Netherlands …………. 29.Switzerland ……….. 30.UK ……….. A greatest change recorded for oak pollen B changes identified for two pollen types only C a longer season for grass pollen D earlier start dates for all pollen types E",
+      "promptContext": "European countries .Australia ..",
       "answerRaw": "G info birch",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -550,20 +542,19 @@
         "info birch"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The pollen season starts earlier for both oak and birch, but it doesn't start any earlier for grass.",
-      "evidenceStartTime": 1255.31,
-      "evidenceEndTime": 1263.16,
+      "evidenceQuote": "Wasn't the pollen shown to be three times higher in one city? I think so.",
+      "evidenceStartTime": 1152.14,
+      "evidenceEndTime": 1156.84,
       "paraphrases": [],
       "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án G info birch. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án G info birch. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "nal changes in pollen. European countries 26.Australia ……….. 27.France ………….. 28.The Netherlands …………. 29.Switzerland ……….. 30.UK ……….. A greatest change recorded for oak pollen B changes identified for two pollen types only C a longer season for grass pollen D earlier start dates for all pollen types E significant change",
+      "promptContext": ".. .France ..",
       "answerRaw": "B two types",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -572,20 +563,17 @@
         "two types"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "The pollen season starts earlier for both oak and birch, but it doesn't start any earlier for grass.",
-      "evidenceStartTime": 1255.31,
-      "evidenceEndTime": 1263.16,
+      "evidenceQuote": "So because of this, many cities have started to ban the planting of certain types of trees.",
+      "evidenceStartTime": 1157.38,
+      "evidenceEndTime": 1163.7,
       "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
-      ],
-      "explanationVi": "Đáp án đúng là phương án B two types. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án B two types. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "llen. European countries 26.Australia ……….. 27.France ………….. 28.The Netherlands …………. 29.Switzerland ……….. 30.UK ……….. A greatest change recorded for oak pollen B changes identified for two pollen types only C a longer season for grass pollen D earlier start dates for all pollen types E significant change in start date of",
+      "promptContext": ".. .The Netherlands .",
       "answerRaw": "A oak pollen",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -594,9 +582,9 @@
         "oak pollen"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Grass and birch pollen are only starting a few days earlier, but oak pollen is starting much earlier.",
-      "evidenceStartTime": 1271.68,
-      "evidenceEndTime": 1279.76,
+      "evidenceQuote": "Grass and birch pollen are only starting a few days earlier, but oak pollen is starting much earlier. Eighteen days, in fact.",
+      "evidenceStartTime": 1270.86,
+      "evidenceEndTime": 1280.7,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -607,7 +595,7 @@
     {
       "number": 29,
       "part": 3,
-      "promptContext": "26.Australia ……….. 27.France ………….. 28.The Netherlands …………. 29.Switzerland ……….. 30.UK ……….. A greatest change recorded for oak pollen B changes identified for two pollen types only C a longer season for grass pollen D earlier start dates for all pollen types E significant change in start date of birch pollen F little di",
+      "promptContext": ". .Switzerland ..",
       "answerRaw": "D earlier start",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -616,20 +604,17 @@
         "earlier start"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Grass and birch pollen are only starting a few days earlier, but oak pollen is starting much earlier.",
-      "evidenceStartTime": 1271.68,
-      "evidenceEndTime": 1279.76,
+      "evidenceQuote": "The pollen season starts here earlier than in the past for oak, birch and grass.",
+      "evidenceStartTime": 1289.04,
+      "evidenceEndTime": 1294.36,
       "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
-        "giới hạn phạm vi bằng 'only'"
-      ],
-      "explanationVi": "Đáp án đúng là phương án D earlier start. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án D earlier start. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": ".France ………….. 28.The Netherlands …………. 29.Switzerland ……….. 30.UK ……….. A greatest change recorded for oak pollen B changes identified for two pollen types only C a longer season for grass pollen D earlier start dates for all pollen types E significant change in start date of birch pollen F little difference in start dat",
+      "promptContext": ".UK ……….. A greatest change recorded for oak pollen B changes identified for two pollen types only C a longer season for grass pollen D earlier start dates for all pollen types E significant change in start date of birch pollen F little difference in start dates G information only available for birch pollen",
       "answerRaw": "C grass pollen",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -639,8 +624,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Here the problem is that wet summers have extended the grass pollen season from five weeks to eight weeks, which is bad news for allergy sufferers.",
-      "evidenceStartTime": 1304.24,
-      "evidenceEndTime": 1316.0,
+      "evidenceStartTime": 1303.48,
+      "evidenceEndTime": 1313.32,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án C grass pollen. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -648,7 +633,7 @@
     {
       "number": 31,
       "part": 4,
-      "promptContext": "Harvested in October Number of stigmas needed for 50 grams: 31…………. Method of preservation: 32……………. Taste and aroma: like honey Forms in which sold: as whole stigmas and as a 33…………… Uses of saffron today To colour and flavour food in many countries especially for making 34 ………dishes In medicine • as a drug in treatment",
+      "promptContext": "Number of stigmas needed for 50 grams:",
       "answerRaw": "14,000 / 14000",
       "canonicalAnswer": "14,000",
       "acceptedAnswers": [
@@ -657,8 +642,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "and amazingly, to produce just 50 grams, it takes about 14,000 individual stigmas.",
-      "evidenceStartTime": 1480.16,
-      "evidenceEndTime": 1486.64,
+      "evidenceStartTime": 1478.22,
+      "evidenceEndTime": 1486.52,
       "paraphrases": [],
       "distractors": [
         "Có số gây nhiễu (50) xuất hiện sát đáp án chuẩn '14,000'."
@@ -668,16 +653,16 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "stigmas needed for 50 grams: 31…………. Method of preservation: 32……………. Taste and aroma: like honey Forms in which sold: as whole stigmas and as a 33…………… Uses of saffron today To colour and flavour food in many countries especially for making 34 ………dishes In medicine • as a drug in treatment of problems affecting the 35………",
+      "promptContext": ". Method of preservation:",
       "answerRaw": "drying",
       "canonicalAnswer": "drying",
       "acceptedAnswers": [
         "drying"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "the stigmas are subject to a process of drying, by which some 98% of their moisture content is removed.",
-      "evidenceStartTime": 1497.7,
-      "evidenceEndTime": 1505.84,
+      "evidenceQuote": "After this painstaking harvesting, and to preserve the intensive taste, smell, and color of the product, the stigmas are subject to a process of drying,",
+      "evidenceStartTime": 1490.4,
+      "evidenceEndTime": 1499.98,
       "paraphrases": [
         {
           "questionTerm": "method",
@@ -690,7 +675,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "a: like honey Forms in which sold: as whole stigmas and as a 33…………… Uses of saffron today To colour and flavour food in many countries especially for making 34 ………dishes In medicine • as a drug in treatment of problems affecting the 35………… • experiments with rats as protection from exposure to some types of 36………… Histor",
+      "promptContext": ". Taste and aroma: like honey Forms in which sold: as whole stigmas and as a",
       "answerRaw": "powder",
       "canonicalAnswer": "powder",
       "acceptedAnswers": [
@@ -698,8 +683,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "If you want to buy some of this fabled spice, you will find that saffron is either sold as whole stigmas or ground up as a powder.",
-      "evidenceStartTime": 1527.85,
-      "evidenceEndTime": 1537.0,
+      "evidenceStartTime": 1526.24,
+      "evidenceEndTime": 1535.18,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"powder\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -707,16 +692,16 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "our and flavour food in many countries especially for making 34 ………dishes In medicine • as a drug in treatment of problems affecting the 35………… • experiments with rats as protection from exposure to some types of 36………… History of saffron use Ancient Crete as a dye for 37………… Roman Empire • in oil used for the production",
+      "promptContext": "Uses of saffron today To colour and flavour food in many countries especially for making",
       "answerRaw": "rice",
       "canonicalAnswer": "rice",
       "acceptedAnswers": [
         "rice"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "though cooks would agree that it is most commonly added to recipes for the cooking of rice, because somehow it seems to complement such dishes perfectly.",
-      "evidenceStartTime": 1550.65,
-      "evidenceEndTime": 1561.5,
+      "evidenceQuote": "and flavor to an enormous range of recipes, though cooks would agree that it is most commonly added to recipes for the cooking of rice,",
+      "evidenceStartTime": 1544.96,
+      "evidenceEndTime": 1553.98,
       "paraphrases": [],
       "distractors": [
         "giới hạn phạm vi bằng 'only'"
@@ -726,7 +711,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "medicine • as a drug in treatment of problems affecting the 35………… • experiments with rats as protection from exposure to some types of 36………… History of saffron use Ancient Crete as a dye for 37………… Roman Empire • in oil used for the production of 38………. • as a 39……….. in public baths Persia (Iran) as a dye used in the",
+      "promptContext": "dishes In medicine • as a drug in treatment of problems affecting the",
       "answerRaw": "eye",
       "canonicalAnswer": "eye",
       "acceptedAnswers": [
@@ -734,8 +719,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "medical research indicates that saffron may have important applications as a drug in the clinical treatment of a number of eye disorders.",
-      "evidenceStartTime": 1571.29,
-      "evidenceEndTime": 1581.0,
+      "evidenceStartTime": 1570.1,
+      "evidenceEndTime": 1578.88,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"eye\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -743,16 +728,16 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "ments with rats as protection from exposure to some types of 36………… History of saffron use Ancient Crete as a dye for 37………… Roman Empire • in oil used for the production of 38………. • as a 39……….. in public baths Persia (Iran) as a dye used in the making of 40.........",
+      "promptContext": "• experiments with rats as protection from exposure to some types of",
       "answerRaw": "lights",
       "canonicalAnswer": "lights",
       "acceptedAnswers": [
         "lights"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "And although scientists are still unsure of exactly why, recent experiments with laboratory rats have shown saffron to be effective in protecting the animals from damage caused when they are exposed to potentially harmful lights.",
-      "evidenceStartTime": 1589.82,
-      "evidenceEndTime": 1605.95,
+      "evidenceQuote": "when they are exposed to potentially harmful lights. Now, I'd like to give a few examples of how saffron has been used since ancient times.",
+      "evidenceStartTime": 1599.34,
+      "evidenceEndTime": 1609.72,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"lights\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -760,7 +745,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "of 36………… History of saffron use Ancient Crete as a dye for 37………… Roman Empire • in oil used for the production of 38………. • as a 39……….. in public baths Persia (Iran) as a dye used in the making of 40.........",
+      "promptContext": "History of saffron use Ancient Crete as a dye for",
       "answerRaw": "clothes",
       "canonicalAnswer": "clothes",
       "acceptedAnswers": [
@@ -768,8 +753,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "where paintings and other artifacts have been found indicating that women wore beautiful saffron-colored clothes.",
-      "evidenceStartTime": 1623.13,
-      "evidenceEndTime": 1631.42,
+      "evidenceStartTime": 1620.36,
+      "evidenceEndTime": 1628.26,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"clothes\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -777,7 +762,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "for 37………… Roman Empire • in oil used for the production of 38………. • as a 39……….. in public baths Persia (Iran) as a dye used in the making of 40.........",
+      "promptContext": "Roman Empire • in oil used for the production of",
       "answerRaw": "cosmetics",
       "canonicalAnswer": "cosmetics",
       "acceptedAnswers": [
@@ -785,8 +770,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "During the Roman Empire, saffron oil was produced, which, because of both its color and aroma, was used to create cosmetics.",
-      "evidenceStartTime": 1635.9,
-      "evidenceEndTime": 1645.0,
+      "evidenceStartTime": 1633.86,
+      "evidenceEndTime": 1642.76,
       "paraphrases": [],
       "distractors": [
         "thông tin cũ trong quá khứ ('used to'), không phải hiện tại"
@@ -796,7 +781,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "man Empire • in oil used for the production of 38………. • as a 39……….. in public baths Persia (Iran) as a dye used in the making of 40.........",
+      "promptContext": ". • as a",
       "answerRaw": "perfume",
       "canonicalAnswer": "perfume",
       "acceptedAnswers": [
@@ -804,8 +789,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "There, saffron was used as a perfume to keep the places smelling fresh and aromatic.",
-      "evidenceStartTime": 1653.97,
-      "evidenceEndTime": 1660.0,
+      "evidenceStartTime": 1651.98,
+      "evidenceEndTime": 1657.88,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"perfume\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -813,7 +798,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "in public baths Persia (Iran) as a dye used in the making of 40.........",
+      "promptContext": ".. in public baths Persia (Iran) as a dye used in the making of",
       "answerRaw": "carpets",
       "canonicalAnswer": "carpets",
       "acceptedAnswers": [
@@ -821,8 +806,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "One of the most well-known examples was in Persia, which is modern-day Iran, where saffron was a vital part of the process of manufacturing carpets.",
-      "evidenceStartTime": 1678.76,
-      "evidenceEndTime": 1690.0,
+      "evidenceStartTime": 1676.3,
+      "evidenceEndTime": 1687.1,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"carpets\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -832,1863 +817,1800 @@
     {
       "id": "seg-001",
       "part": 1,
-      "startTime": 1.0,
-      "endTime": 3.66,
-      "text": "IELTS Listening, version 56233.",
+      "startTime": 104.4,
+      "endTime": 109.68,
+      "text": "Hello, Superior Home Appliances, this is Ian here. Oh, hello, yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-002",
       "part": 1,
-      "startTime": 3.66,
-      "endTime": 12.4,
-      "text": "You will hear a number of different recordings and you will have to answer questions on what you hear.",
+      "startTime": 109.96,
+      "endTime": 113.36,
+      "text": "I have a new fridge and I'm ringing to report a fault with it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-003",
       "part": 1,
-      "startTime": 12.4,
-      "endTime": 22.0,
-      "text": "There will be time for you to read the instructions and questions and you will have a chance to check your work.",
+      "startTime": 113.56,
+      "endTime": 116.64,
+      "text": "I need you to send someone out to have a look at it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-004",
       "part": 1,
-      "startTime": 23.0,
-      "endTime": 28.65,
-      "text": "All the recordings will be played once only. The test is in four sections.",
+      "startTime": 119.28,
+      "endTime": 124.98,
+      "text": "The type of appliance is a fridge, so fridge has been written in the space.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-005",
       "part": 1,
-      "startTime": 28.65,
-      "endTime": 33.0,
-      "text": "Write all your answers in the listening question booklet.",
+      "startTime": 125.9,
+      "endTime": 127.76,
+      "text": "Now we shall begin.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-006",
       "part": 1,
-      "startTime": 35.0,
-      "endTime": 45.78,
-      "text": "At the end of the test you will be given ten minutes to transfer your answers to an answer sheet.",
+      "startTime": 128.02,
+      "endTime": 135.34,
+      "text": "You should answer the questions as you listen because you will not hear the recording a second time.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-007",
       "part": 1,
-      "startTime": 45.78,
-      "endTime": 54.0,
-      "text": "Now turn to section one on page two of your question booklet. Section one.",
+      "startTime": 143.48,
+      "endTime": 148.8,
+      "text": "Hello, Superior Home Appliances, this is Ian here. Oh, hello, yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-008",
       "part": 1,
-      "startTime": 56.0,
-      "endTime": 72.39,
-      "text": "You will hear a telephone conversation between a customer and a service representative.",
+      "startTime": 149.04,
+      "endTime": 152.46,
+      "text": "I have a new fridge and I'm ringing to report a fault with it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-009",
       "part": 1,
-      "startTime": 72.39,
-      "endTime": 85.76,
-      "text": "First, you have some time to look at questions one to five on page two.",
+      "startTime": 152.64,
+      "endTime": 156.42,
+      "text": "I need you to send someone out to have a look at it. OK.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-010",
       "part": 1,
-      "startTime": 85.76,
-      "endTime": 98.0,
-      "text": "You will see that there is an example that has been done for you.",
+      "startTime": 156.42,
+      "endTime": 163.46,
+      "text": "I'll fill in a customer complaint form and arrange for one of our repair agents to come out to you. OK then.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-011",
       "part": 1,
-      "startTime": 98.0,
-      "endTime": 105.58,
-      "text": "On this occasion only, the conversation relating to this will be played first.",
+      "startTime": 163.96,
+      "endTime": 172.32,
+      "text": "Now, can I just get some contact details from you for the form? Your name is? Jessica. Jessica Brown. OK.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-012",
       "part": 1,
-      "startTime": 105.58,
-      "endTime": 112.0,
-      "text": "Hello, Superior Home Appliances, this is Ian here. Oh, hello, yes.",
+      "startTime": 173.14,
+      "endTime": 176.36,
+      "text": "And if I can just get a contact telephone number?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-013",
       "part": 1,
-      "startTime": 112.0,
-      "endTime": 116.92,
-      "text": "I have a new fridge and I'm ringing to report a fault with it.",
+      "startTime": 176.94,
+      "endTime": 184.42,
+      "text": "Our home phone number is 5823 2210. Got it.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-014",
       "part": 1,
-      "startTime": 116.92,
-      "endTime": 121.05,
-      "text": "I need you to send someone out to have a look at it.",
+      "startTime": 184.74,
+      "endTime": 187.98,
+      "text": "Now, can I get some more details about the fridge?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-015",
       "part": 1,
-      "startTime": 121.05,
-      "endTime": 127.0,
-      "text": "The type of appliance is a fridge, so fridge has been written in the space.",
+      "startTime": 188.5,
+      "endTime": 192.74,
+      "text": "Well, it's been playing up since yesterday afternoon. I see.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-016",
       "part": 1,
-      "startTime": 128.0,
-      "endTime": 129.69,
-      "text": "Now we shall begin.",
+      "startTime": 193.14,
+      "endTime": 195.18,
+      "text": "And is it still under warranty?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-017",
       "part": 1,
-      "startTime": 129.69,
-      "endTime": 138.57,
-      "text": "You should answer the questions as you listen because you will not hear the recording a second time.",
+      "startTime": 195.68,
+      "endTime": 197.54,
+      "text": "Well, I should think so.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-018",
       "part": 1,
-      "startTime": 138.57,
-      "endTime": 143.0,
-      "text": "Listen carefully and answer questions one to five.",
+      "startTime": 197.72,
+      "endTime": 201.1,
+      "text": "It's only a couple of weeks old. That's fine then.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-019",
       "part": 1,
-      "startTime": 146.0,
-      "endTime": 150.64,
-      "text": "Hello, Superior Home Appliances, this is Ian here. Oh, hello, yes.",
+      "startTime": 201.46,
+      "endTime": 206.08,
+      "text": "Now, I just need to get some more information about the make and model.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-020",
       "part": 1,
-      "startTime": 150.64,
-      "endTime": 155.0,
-      "text": "I have a new fridge and I'm ringing to report a fault with it.",
+      "startTime": 206.36,
+      "endTime": 210.28,
+      "text": "Is it a top mount, a bottom mount or a side-by-side?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-021",
       "part": 1,
-      "startTime": 155.0,
-      "endTime": 158.61,
-      "text": "I need you to send someone out to have a look at it. OK.",
+      "startTime": 210.44,
+      "endTime": 212.28,
+      "text": "The freezer is on top.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-022",
       "part": 1,
-      "startTime": 158.61,
-      "endTime": 165.0,
-      "text": "I'll fill in a customer complaint form and arrange for one of our repair agents to come out to you.",
+      "startTime": 212.66,
+      "endTime": 216.16,
+      "text": "And have you got the model number there? Yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-023",
       "part": 1,
-      "startTime": 165.0,
-      "endTime": 172.84,
-      "text": "OK then. Now, can I just get some contact details from you for the form? Your name is? Jessica.",
+      "startTime": 216.16,
+      "endTime": 220.1,
+      "text": "It's here on the instructions booklet. It's S654391X.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-024",
       "part": 1,
-      "startTime": 172.84,
-      "endTime": 174.0,
-      "text": "Jessica Brown.",
+      "startTime": 225.48,
+      "endTime": 228.58,
+      "text": "OK. So it's silver in colour. That's right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-025",
       "part": 1,
-      "startTime": 174.0,
-      "endTime": 181.18,
-      "text": "OK. And if I can just get a contact telephone number?",
+      "startTime": 229.1,
+      "endTime": 232.32,
+      "text": "I thought it was so much nicer than the usual white ones.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-026",
       "part": 1,
-      "startTime": 181.18,
-      "endTime": 187.0,
-      "text": "Our home phone number is 5823 2210. Got it.",
+      "startTime": 233.16,
+      "endTime": 236.76,
+      "text": "Now, if I could just get a few details from you.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-027",
       "part": 1,
-      "startTime": 187.0,
-      "endTime": 190.65,
-      "text": "Now, can I get some more details about the fridge?",
+      "startTime": 236.76,
+      "endTime": 239.24,
+      "text": "First, when did you buy the fridge?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-028",
       "part": 1,
-      "startTime": 190.65,
-      "endTime": 197.36,
-      "text": "Well, it's been playing up since yesterday afternoon. I see. And is it still under warranty?",
+      "startTime": 239.78,
+      "endTime": 246.48,
+      "text": "Well, as I said, it was only a few weeks ago, but I don't have the receipt in front of me at the moment.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-029",
       "part": 1,
-      "startTime": 197.36,
-      "endTime": 202.83,
-      "text": "Well, I should think so. It's only a couple of weeks old. That's fine then.",
+      "startTime": 246.66,
+      "endTime": 251.66,
+      "text": "I do know that it was delivered on the 6th of February. OK.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-030",
       "part": 1,
-      "startTime": 202.83,
-      "endTime": 208.0,
-      "text": "Now, I just need to get some more information about the make and model.",
+      "startTime": 251.66,
+      "endTime": 255.46,
+      "text": "Well, I can use that date to search on the computer.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-031",
       "part": 1,
-      "startTime": 209.0,
-      "endTime": 214.66,
-      "text": "Is it a top mount, a bottom mount or a side-by-side? The freezer is on top.",
+      "startTime": 257.14,
+      "endTime": 259.1,
+      "text": "Here it is.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-032",
       "part": 1,
-      "startTime": 214.66,
-      "endTime": 221.0,
-      "text": "And have you got the model number there? Yes. It's here on the instructions booklet.",
+      "startTime": 259.36,
+      "endTime": 263.16,
+      "text": "It says here you bought it on January the 12th.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-033",
       "part": 1,
-      "startTime": 222.0,
-      "endTime": 230.0,
-      "text": "It's S654391X. OK. So it's silver in colour.",
+      "startTime": 263.36,
+      "endTime": 266.02,
+      "text": "Now, what exactly is wrong with the fridge?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-034",
       "part": 1,
-      "startTime": 230.0,
-      "endTime": 235.37,
-      "text": "That's right. I thought it was so much nicer than the usual white ones.",
+      "startTime": 266.4,
+      "endTime": 271.58,
+      "text": "Well, my fridge is fitted with an alarm and it started to go off.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-035",
       "part": 1,
-      "startTime": 235.37,
-      "endTime": 239.0,
-      "text": "Now, if I could just get a few details from you.",
+      "startTime": 271.92,
+      "endTime": 275.14,
+      "text": "It made an awful noise. So what was wrong?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-036",
       "part": 1,
-      "startTime": 239.0,
-      "endTime": 242.06,
-      "text": "First, when did you buy the fridge?",
+      "startTime": 275.78,
+      "endTime": 280.0,
+      "text": "Well, when I went to check the freezer, it felt pretty warm.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-037",
       "part": 1,
-      "startTime": 242.06,
-      "endTime": 251.15,
-      "text": "Well, as I said, it was only a few weeks ago, but I don't have the receipt in front of me at the moment.",
+      "startTime": 280.02,
+      "endTime": 285.52,
+      "text": "It's 10 degrees and it should be minus 18, so everything is melting.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-038",
       "part": 1,
-      "startTime": 251.15,
-      "endTime": 256.31,
-      "text": "I do know that it was delivered on the 6th of February. OK.",
+      "startTime": 285.52,
+      "endTime": 291.08,
+      "text": "And then the main part of the fridge doesn't seem to be working either. Mmm, I see.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-039",
       "part": 1,
-      "startTime": 256.31,
-      "endTime": 261.9,
-      "text": "Well, I can use that date to search on the computer. Here it is.",
+      "startTime": 335.12,
+      "endTime": 339.82,
+      "text": "I've made a note of that on the form and I'll pass it on to the service agent.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-040",
       "part": 1,
-      "startTime": 261.9,
-      "endTime": 266.0,
-      "text": "It says here you bought it on January the 12th.",
+      "startTime": 340.04,
+      "endTime": 341.74,
+      "text": "When can they come and fix it?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-041",
       "part": 1,
-      "startTime": 266.0,
-      "endTime": 269.26,
-      "text": "Now, what exactly is wrong with the fridge?",
+      "startTime": 341.9,
+      "endTime": 346.84,
+      "text": "Let's find the closest one to you. Let's see.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-042",
       "part": 1,
-      "startTime": 269.26,
-      "endTime": 276.01,
-      "text": "Well, my fridge is fitted with an alarm and it started to go off. It made an awful noise.",
+      "startTime": 347.08,
+      "endTime": 355.62,
+      "text": "That's Ken's Appliances and they've got two centres in your area, one near the station and another one in the shopping centre.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-043",
       "part": 1,
-      "startTime": 276.01,
-      "endTime": 282.0,
-      "text": "So what was wrong? Well, when I went to check the freezer, it felt pretty warm.",
+      "startTime": 356.04,
+      "endTime": 361.6,
+      "text": "Well, we're miles away from the shopping centre, so the station one would be closer.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-044",
       "part": 1,
-      "startTime": 283.0,
-      "endTime": 287.5,
-      "text": "It's 10 degrees and it should be minus 18, so everything is melting.",
+      "startTime": 361.8,
+      "endTime": 368.46,
+      "text": "I'll ring them in a minute, but I should warn you it could take a day or two for them to get to you. What?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-045",
       "part": 1,
-      "startTime": 287.5,
-      "endTime": 293.0,
-      "text": "And then the main part of the fridge doesn't seem to be working either. Mmm, I see.",
+      "startTime": 369.18,
+      "endTime": 371.62,
+      "text": "What am I going to do without a fridge?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-046",
       "part": 1,
-      "startTime": 297.0,
-      "endTime": 315.18,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions 6 to 10 on page 2.",
+      "startTime": 372.1,
+      "endTime": 375.98,
+      "text": "Look, there's a fridge full of food there and it's all going off.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-047",
       "part": 1,
-      "startTime": 315.18,
-      "endTime": 322.17,
-      "text": "Now listen and answer questions 6 to 10.",
+      "startTime": 376.16,
+      "endTime": 378.62,
+      "text": "I'll have to throw it all out, you know.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-048",
       "part": 1,
-      "startTime": 322.17,
-      "endTime": 335.81,
-      "text": "I've made a note of that on the form and I'll pass it on to the service agent.",
+      "startTime": 379.0,
+      "endTime": 382.86,
+      "text": "Yes, I do sympathise. It's not just that.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-049",
       "part": 1,
-      "startTime": 335.81,
-      "endTime": 341.05,
-      "text": "When can they come and fix it?",
+      "startTime": 383.14,
+      "endTime": 384.98,
+      "text": "This is going to affect my business.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-050",
       "part": 1,
-      "startTime": 341.05,
-      "endTime": 347.0,
-      "text": "Let's find the closest one to you.",
+      "startTime": 385.1,
+      "endTime": 390.12,
+      "text": "I run a sandwich shop and that's where I keep my stock. Mmm, I see.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-051",
       "part": 1,
-      "startTime": 348.0,
-      "endTime": 348.73,
-      "text": "Let's see.",
+      "startTime": 390.46,
+      "endTime": 399.28,
+      "text": "Look, Jessica, if you tell me how much the stock is worth, we can send you a cheque for that amount, though there is a maximum of $250.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-052",
       "part": 1,
-      "startTime": 348.73,
-      "endTime": 357.89,
-      "text": "That's Ken's Appliances and they've got two centres in your area, one near the station and another one in the shopping centre.",
+      "startTime": 400.34,
+      "endTime": 407.21,
+      "text": "Well, I've just filled it with $180 worth of meat and salad, so that would be something, I suppose.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-053",
       "part": 1,
-      "startTime": 357.89,
-      "endTime": 364.0,
-      "text": "Well, we're miles away from the shopping centre, so the station one would be closer.",
+      "startTime": 407.98,
+      "endTime": 413.56,
+      "text": "But how long is my business expected to survive without a fridge? It's just not good enough.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-054",
       "part": 1,
-      "startTime": 364.0,
-      "endTime": 370.8,
-      "text": "I'll ring them in a minute, but I should warn you it could take a day or two for them to get to you.",
+      "startTime": 414.08,
+      "endTime": 419.46,
+      "text": "Yes, I understand your concerns, but that's all I can really offer you.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-055",
       "part": 1,
-      "startTime": 370.8,
-      "endTime": 373.86,
-      "text": "What? What am I going to do without a fridge?",
+      "startTime": 420.0,
+      "endTime": 423.62,
+      "text": "Well, I'd like to speak to someone higher up about this.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-056",
       "part": 1,
-      "startTime": 373.86,
-      "endTime": 378.28,
-      "text": "Look, there's a fridge full of food there and it's all going off.",
+      "startTime": 424.26,
+      "endTime": 430.9,
+      "text": "I can ask my manager to ring you back by close of business today. Would that be acceptable? Yes, thank you.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-057",
       "part": 1,
-      "startTime": 378.28,
-      "endTime": 381.0,
-      "text": "I'll have to throw it all out, you know.",
+      "startTime": 431.12,
+      "endTime": 433.96,
+      "text": "I do apologise for all the inconvenience.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-058",
       "part": 1,
-      "startTime": 382.0,
-      "endTime": 387.0,
-      "text": "Yes, I do sympathise. It's not just that. This is going to affect my business.",
+      "startTime": 434.44,
+      "endTime": 436.66,
+      "text": "Is there anything else I can help you with?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-059",
       "part": 1,
-      "startTime": 388.0,
-      "endTime": 392.31,
-      "text": "I run a sandwich shop and that's where I keep my stock. Mmm, I see.",
+      "startTime": 437.42,
+      "endTime": 439.32,
+      "text": "Actually, there is one more thing.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-060",
       "part": 1,
-      "startTime": 392.31,
-      "endTime": 401.0,
-      "text": "Look, Jessica, if you tell me how much the stock is worth, we can send you a cheque for that amount, though there is a maximum of $250.",
+      "startTime": 439.54,
+      "endTime": 443.04,
+      "text": "The door has a dent in it on the left-hand side.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-061",
       "part": 1,
-      "startTime": 403.0,
-      "endTime": 410.18,
-      "text": "Well, I've just filled it with $180 worth of meat and salad, so that would be something, I suppose.",
+      "startTime": 443.3,
+      "endTime": 446.86,
+      "text": "It wasn't there in the shop, so it must have happened when it was delivered.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-062",
       "part": 1,
-      "startTime": 410.18,
-      "endTime": 416.85,
-      "text": "But how long is my business expected to survive without a fridge? It's just not good enough.",
+      "startTime": 447.04,
+      "endTime": 448.86,
+      "text": "I'd like that replaced too.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-063",
       "part": 1,
-      "startTime": 416.85,
-      "endTime": 422.0,
-      "text": "Yes, I understand your concerns, but that's all I can really offer you.",
+      "startTime": 449.06,
+      "endTime": 450.82,
+      "text": "I'll make a note of that too.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-064",
       "part": 1,
-      "startTime": 422.0,
-      "endTime": 425.8,
-      "text": "Well, I'd like to speak to someone higher up about this.",
+      "startTime": 451.06,
+      "endTime": 452.92,
+      "text": "You'll be hearing from us very soon.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-065",
-      "part": 1,
-      "startTime": 425.8,
-      "endTime": 431.98,
-      "text": "I can ask my manager to ring you back by close of business today. Would that be acceptable?",
+      "part": 2,
+      "startTime": 553.0,
+      "endTime": 553.66,
+      "text": "Hello.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-066",
-      "part": 1,
-      "startTime": 431.98,
-      "endTime": 433.0,
-      "text": "Yes, thank you.",
+      "part": 2,
+      "startTime": 554.28,
+      "endTime": 562.2,
+      "text": "Listeners to this programme will know that we're very keen to foster links within communities, and we think we've hit on a winning idea.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-067",
-      "part": 1,
-      "startTime": 434.0,
-      "endTime": 439.57,
-      "text": "I do apologise for all the inconvenience. Is there anything else I can help you with?",
+      "part": 2,
+      "startTime": 562.64,
+      "endTime": 564.3,
+      "text": "I'm going to tell you about a scheme",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-068",
-      "part": 1,
-      "startTime": 439.57,
-      "endTime": 445.0,
-      "text": "Actually, there is one more thing. The door has a dent in it on the left-hand side.",
+      "part": 2,
+      "startTime": 564.3,
+      "endTime": 574.08,
+      "text": "which has been set up as part of our Communities in Action programme for those who'd like to be put in touch with people from different countries and cultures.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-069",
-      "part": 1,
-      "startTime": 446.0,
-      "endTime": 450.0,
-      "text": "It wasn't there in the shop, so it must have happened when it was delivered.",
+      "part": 2,
+      "startTime": 574.32,
+      "endTime": 582.02,
+      "text": "As the name Connections suggests, we're hoping that the scheme will introduce people who live in this country who will act as",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-070",
-      "part": 1,
-      "startTime": 450.0,
-      "endTime": 453.0,
-      "text": "I'd like that replaced too. I'll make a note of that too.",
+      "part": 2,
+      "startTime": 582.02,
+      "endTime": 589.5,
+      "text": "hosts to people who've recently arrived here to study or to work for a limited period of time, who will be their guests.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-071",
-      "part": 1,
-      "startTime": 453.0,
-      "endTime": 556.0,
-      "text": "You'll be hearing from us very soon.",
+      "part": 2,
+      "startTime": 590.02,
+      "endTime": 598.74,
+      "text": "Now, if you've got a spare room in your house or flat, you might like to be a host and have someone stay for a weekend.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-072",
       "part": 2,
-      "startTime": 556.0,
-      "endTime": 557.0,
-      "text": "Now listen carefully and answer questions 11 to 14. Hello.",
+      "startTime": 598.92,
+      "endTime": 604.31,
+      "text": "I should point out that no money is involved as all our hosts are unpaid,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-073",
       "part": 2,
-      "startTime": 557.0,
-      "endTime": 565.24,
-      "text": "Listeners to this programme will know that we're very keen to foster links within communities, and we think we've hit on a winning idea.",
+      "startTime": 605.18,
+      "endTime": 610.18,
+      "text": "but you should not have too much extra expense other than one more person joining you at mealtimes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-074",
       "part": 2,
-      "startTime": 565.24,
-      "endTime": 577.11,
-      "text": "I'm going to tell you about a scheme which has been set up as part of our Communities in Action programme for those who'd like to be put in touch with people from different countries and cultures.",
+      "startTime": 611.94,
+      "endTime": 617.74,
+      "text": "In the course of their studies or work in this country, some people rarely get the opportunity to socialise.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-075",
       "part": 2,
-      "startTime": 577.11,
-      "endTime": 592.0,
-      "text": "As the name Connections suggests, we're hoping that the scheme will introduce people who live in this country who will act as hosts to people who've recently arrived here to study or to work for a limited period of time, who will be their guests.",
+      "startTime": 618.68,
+      "endTime": 627.42,
+      "text": "There may be language problems or feelings of shyness, which mean that whatever their age, people can become quite lonely or isolated.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-076",
       "part": 2,
-      "startTime": 593.0,
-      "endTime": 601.35,
-      "text": "Now, if you've got a spare room in your house or flat, you might like to be a host and have someone stay for a weekend.",
+      "startTime": 628.82,
+      "endTime": 636.62,
+      "text": "If you're prepared to invite someone into your home, you can rely on Connections for a personal introduction",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-077",
       "part": 2,
-      "startTime": 601.35,
-      "endTime": 606.47,
-      "text": "I should point out that no money is involved as all our hosts are unpaid,",
+      "startTime": 636.62,
+      "endTime": 640.38,
+      "text": "and the timing of the invitation will be to suit you.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-078",
       "part": 2,
-      "startTime": 606.47,
-      "endTime": 613.42,
-      "text": "but you should not have too much extra expense other than one more person joining you at mealtimes.",
+      "startTime": 640.38,
+      "endTime": 646.48,
+      "text": "As I said, the stay is always over a weekend for two or three nights",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-079",
       "part": 2,
-      "startTime": 613.42,
-      "endTime": 621.0,
-      "text": "In the course of their studies or work in this country, some people rarely get the opportunity to socialise.",
+      "startTime": 646.48,
+      "endTime": 652.52,
+      "text": "and, as the host, the arrangements you make for your visitor will depend on your other commitments.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-080",
       "part": 2,
-      "startTime": 621.0,
-      "endTime": 630.86,
-      "text": "There may be language problems or feelings of shyness, which mean that whatever their age, people can become quite lonely or isolated.",
+      "startTime": 652.96,
+      "endTime": 657.68,
+      "text": "If you're listening to this programme and you would like to take advantage of what Connections can",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-081",
       "part": 2,
-      "startTime": 630.86,
-      "endTime": 634.69,
-      "text": "If you're prepared to invite someone into your home,",
+      "startTime": 657.68,
+      "endTime": 662.48,
+      "text": "offer a guest, then what I'm going on to say will apply to you.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-082",
       "part": 2,
-      "startTime": 634.69,
-      "endTime": 642.71,
-      "text": "you can rely on Connections for a personal introduction and the timing of the invitation will be to suit you.",
+      "startTime": 663.06,
+      "endTime": 667.58,
+      "text": "So, what will you, the guest, get out of a visit?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-083",
       "part": 2,
-      "startTime": 642.71,
-      "endTime": 648.08,
-      "text": "As I said, the stay is always over a weekend for two or three nights and,",
+      "startTime": 668.22,
+      "endTime": 674.36,
+      "text": "You'll gain an insight into the customs and way of life of the country you're staying in",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-084",
       "part": 2,
-      "startTime": 648.08,
-      "endTime": 655.0,
-      "text": "as the host, the arrangements you make for your visitor will depend on your other commitments.",
+      "startTime": 674.36,
+      "endTime": 682.84,
+      "text": "and you'll enjoy home-cooked meals and be able to ask questions about things which interest you or perhaps even puzzle you.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-085",
       "part": 2,
-      "startTime": 656.0,
-      "endTime": 663.93,
-      "text": "If you're listening to this programme and you would like to take advantage of what Connections can offer a guest,",
+      "startTime": 683.26,
+      "endTime": 693.14,
+      "text": "It's early days, but if a weekend stay goes well, relationships might develop over time and turn into lasting and genuine friendships.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-086",
       "part": 2,
-      "startTime": 663.93,
-      "endTime": 667.3,
-      "text": "then what I'm going on to say will apply to you.",
+      "startTime": 693.58,
+      "endTime": 703.26,
+      "text": "This would undoubtedly be of advantage to the whole community as we all become more aware of the ways in which people in different countries live their lives.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-087",
       "part": 2,
-      "startTime": 667.3,
-      "endTime": 670.74,
-      "text": "So, what will you, the guest, get out of a visit?",
+      "startTime": 703.36,
+      "endTime": 711.96,
+      "text": "There's also the possibility that when you return to your own country, you might one day want to invite your hosts to stay with you.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-088",
       "part": 2,
-      "startTime": 670.74,
-      "endTime": 685.61,
-      "text": "You'll gain an insight into the customs and way of life of the country you're staying in and you'll enjoy home-cooked meals and be able to ask questions about things which interest you or perhaps even puzzle you.",
+      "startTime": 760.24,
+      "endTime": 766.52,
+      "text": "Right, I hope I've given you enough information on the scheme and what we're setting out to do.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-089",
       "part": 2,
-      "startTime": 685.61,
-      "endTime": 695.0,
-      "text": "It's early days, but if a weekend stay goes well, relationships might develop over time and turn into lasting and genuine friendships.",
+      "startTime": 766.68,
+      "endTime": 772.72,
+      "text": "I'll now deal with the process for applying, if you'd like to be involved from the point of view of a guest.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-090",
       "part": 2,
-      "startTime": 696.0,
-      "endTime": 718.99,
-      "text": "This would undoubtedly be of advantage to the whole community as we all become more aware of the ways in which people in different countries live their lives.",
+      "startTime": 772.86,
+      "endTime": 777.76,
+      "text": "So have a pencil and some paper ready to jot down what you need to do.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-091",
       "part": 2,
-      "startTime": 718.99,
-      "endTime": 738.2,
-      "text": "There's also the possibility that when you return to your own country, you might one day want to invite your hosts to stay with you.",
+      "startTime": 778.32,
+      "endTime": 786.5,
+      "text": "Connections is broken up into various small sections which will deal with your application through the different stages.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-092",
       "part": 2,
-      "startTime": 738.2,
-      "endTime": 753.04,
-      "text": "Before you hear the rest of the programme, you have some time to look at questions 15 to 20 on page 4.",
+      "startTime": 786.8,
+      "endTime": 791.56,
+      "text": "To begin with, we ask you to make a phone call to our vetting people.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-093",
       "part": 2,
-      "startTime": 753.04,
-      "endTime": 759.0,
-      "text": "Now listen and answer questions 15 to 20.",
+      "startTime": 791.88,
+      "endTime": 797.68,
+      "text": "We need to know some basic information about you, like how long you're intending to be in this country.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-094",
       "part": 2,
-      "startTime": 763.0,
-      "endTime": 768.92,
-      "text": "Right, I hope I've given you enough information on the scheme and what we're setting out to do.",
+      "startTime": 797.68,
+      "endTime": 801.1,
+      "text": "The minimum time limit is three months.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-095",
       "part": 2,
-      "startTime": 768.92,
-      "endTime": 775.65,
-      "text": "I'll now deal with the process for applying, if you'd like to be involved from the point of view of a guest.",
+      "startTime": 801.34,
+      "endTime": 811.18,
+      "text": "Whether you're working or studying, we require a reference, which must be from the person in authority who you're working with or studying under.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-096",
       "part": 2,
-      "startTime": 775.65,
-      "endTime": 780.0,
-      "text": "So have a pencil and some paper ready to jot down what you need to do.",
+      "startTime": 811.46,
+      "endTime": 814.7,
+      "text": "This will be used for an identity check.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-097",
       "part": 2,
-      "startTime": 781.0,
-      "endTime": 788.81,
-      "text": "Connections is broken up into various small sections which will deal with your application through the different stages.",
+      "startTime": 815.28,
+      "endTime": 822.98,
+      "text": "Once that's been sent to the authorities and approved, we'll email you an application form which you can download.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-098",
       "part": 2,
-      "startTime": 788.81,
-      "endTime": 793.3,
-      "text": "To begin with, we ask you to make a phone call to our vetting people.",
+      "startTime": 823.58,
+      "endTime": 829.74,
+      "text": "You should complete this and return it with two recent passport-sized photographs of yourself.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-099",
       "part": 2,
-      "startTime": 793.3,
-      "endTime": 800.0,
-      "text": "We need to know some basic information about you, like how long you're intending to be in this country.",
+      "startTime": 830.54,
+      "endTime": 839.42,
+      "text": "One photo will be held in our records and the other will be sent to your host family prior to your first weekend visit.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-100",
       "part": 2,
-      "startTime": 801.0,
-      "endTime": 803.79,
-      "text": "The minimum time limit is three months.",
+      "startTime": 839.56,
+      "endTime": 846.16,
+      "text": "Our centre manager will get back to you within a week of receiving your form to let you know that we have it,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-101",
       "part": 2,
-      "startTime": 803.79,
-      "endTime": 814.15,
-      "text": "Whether you're working or studying, we require a reference, which must be from the person in authority who you're working with or studying under.",
+      "startTime": 846.16,
+      "endTime": 854.8,
+      "text": "and if we think there's a suitable match on our files, someone from our interview team will contact you for a face-to-face meeting with a member of staff.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-102",
       "part": 2,
-      "startTime": 814.15,
-      "endTime": 817.0,
-      "text": "This will be used for an identity check.",
+      "startTime": 855.18,
+      "endTime": 862.52,
+      "text": "At that point, you should have some idea of weekend dates when you're free, which we can put to the host family.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-103",
       "part": 2,
-      "startTime": 818.0,
-      "endTime": 826.02,
-      "text": "Once that's been sent to the authorities and approved, we'll email you an application form which you can download.",
+      "startTime": 862.72,
+      "endTime": 870.2,
+      "text": "However, decisions are not made at the meeting, but you can expect to hear the result from us in a couple of days.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-104",
       "part": 2,
-      "startTime": 826.02,
-      "endTime": 832.63,
-      "text": "You should complete this and return it with two recent passport-sized photographs of yourself.",
+      "startTime": 870.48,
+      "endTime": 874.18,
+      "text": "Now, the process for those of you interested in welcoming.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-105",
-      "part": 2,
-      "startTime": 832.63,
-      "endTime": 841.0,
-      "text": "One photo will be held in our records and the other will be sent to your host family prior to your first weekend visit.",
+      "part": 3,
+      "startTime": 982.48,
+      "endTime": 986.5,
+      "text": "Have you had a chance to look at the information for our project yet, Beth?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-106",
-      "part": 2,
-      "startTime": 842.0,
-      "endTime": 848.69,
-      "text": "Our centre manager will get back to you within a week of receiving your form to let you know that we have it,",
+      "part": 3,
+      "startTime": 986.76,
+      "endTime": 996.74,
+      "text": "I've had a look at most of the stuff on the relationship between climate change and allergies and at the role played by pollen from flowering plants and trees.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-107",
-      "part": 2,
-      "startTime": 848.69,
-      "endTime": 858.14,
-      "text": "and if we think there's a suitable match on our files, someone from our interview team will contact you for a face-to-face meeting with a member of staff.",
+      "part": 3,
+      "startTime": 997.04,
+      "endTime": 998.5,
+      "text": "Yeah, me too.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-108",
-      "part": 2,
-      "startTime": 858.14,
-      "endTime": 865.01,
-      "text": "At that point, you should have some idea of weekend dates when you're free, which we can put to the host family.",
+      "part": 3,
+      "startTime": 998.7,
+      "endTime": 1003.58,
+      "text": "The main message is that seasonal allergies seem to be getting worse.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-109",
-      "part": 2,
-      "startTime": 865.01,
-      "endTime": 872.0,
-      "text": "However, decisions are not made at the meeting, but you can expect to hear the result from us in a couple of days.",
+      "part": 3,
+      "startTime": 1003.88,
+      "endTime": 1011.48,
+      "text": "In just the last 20 years, the amount of pollen that's produced by the flowers on birch trees has tripled",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-110",
-      "part": 2,
-      "startTime": 873.0,
-      "endTime": 919.96,
-      "text": "Now, the process for those of you interested in welcoming...",
+      "part": 3,
+      "startTime": 1011.48,
+      "endTime": 1018.7,
+      "text": "and one in four people suffers from either hay fever or asthma, which is triggered by pollen.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-111",
-      "part": 2,
-      "startTime": 919.96,
-      "endTime": 942.66,
-      "text": "That is the end of Section 2.",
+      "part": 3,
+      "startTime": 1018.8,
+      "endTime": 1024.98,
+      "text": "I read something about allergy sufferers being more likely to have a vitamin D deficiency",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-112",
-      "part": 2,
-      "startTime": 942.66,
-      "endTime": 981.0,
-      "text": "You now have half a minute to check your answers.",
+      "part": 3,
+      "startTime": 1024.98,
+      "endTime": 1032.15,
+      "text": "because we no longer take cod liver oil as a vitamin supplement like many people used to do in the 1950s in Britain",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-113",
       "part": 3,
-      "startTime": 981.0,
-      "endTime": 981.62,
-      "text": "Now turn to Section 3 on page 5. Section 3.",
+      "startTime": 1032.96,
+      "endTime": 1038.32,
+      "text": "and since then allergies have quadrupled in most European countries.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-114",
       "part": 3,
-      "startTime": 981.62,
-      "endTime": 983.31,
-      "text": "You will hear two health science students called Elliot and Beth discussing research on climate change and allergies.",
+      "startTime": 1038.32,
+      "endTime": 1044.96,
+      "text": "But it was only in Britain that cod liver oil was so popular so that argument doesn't really make sense.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-115",
       "part": 3,
-      "startTime": 983.31,
-      "endTime": 984.26,
-      "text": "First, you have some time to look at questions 21 to 25 on page 5.",
+      "startTime": 1045.3,
+      "endTime": 1047.88,
+      "text": "No, it doesn't seem that relevant.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-116",
       "part": 3,
-      "startTime": 984.26,
-      "endTime": 985.0,
-      "text": "Now listen carefully and answer questions 21 to 25.",
+      "startTime": 1048.18,
+      "endTime": 1055.54,
+      "text": "What seems to be happening now is that an increasing number of people are getting their first attack in their 40s and 50s.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-117",
       "part": 3,
-      "startTime": 985.0,
-      "endTime": 989.97,
-      "text": "Have you had a chance to look at the information for our project yet, Beth?",
+      "startTime": 1056.2,
+      "endTime": 1061.54,
+      "text": "That must be because of the link with climate change causing rising temperatures.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-118",
       "part": 3,
-      "startTime": 989.97,
-      "endTime": 1000.5,
-      "text": "I've had a look at most of the stuff on the relationship between climate change and allergies and at the role played by pollen from flowering plants and trees.",
+      "startTime": 1061.54,
+      "endTime": 1065.56,
+      "text": "But CO2 levels are seriously affecting pollen counts too.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-119",
       "part": 3,
-      "startTime": 1000.5,
-      "endTime": 1006.0,
-      "text": "Yeah, me too. The main message is that seasonal allergies seem to be getting worse.",
+      "startTime": 1065.9,
+      "endTime": 1069.26,
+      "text": "As much as milder winters. Definitely.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-120",
       "part": 3,
-      "startTime": 1006.0,
-      "endTime": 1020.49,
-      "text": "In just the last 20 years, the amount of pollen that's produced by the flowers on birch trees has tripled and one in four people suffers from either hay fever or asthma, which is triggered by pollen.",
+      "startTime": 1069.26,
+      "endTime": 1079.34,
+      "text": "CO2 helps stimulate plant growth and several recent studies have shown that when plants are exposed to more CO2, they produce more pollen.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-121",
       "part": 3,
-      "startTime": 1020.49,
-      "endTime": 1040.43,
-      "text": "I read something about allergy sufferers being more likely to have a vitamin D deficiency because we no longer take cod liver oil as a vitamin supplement like many people used to do in the 1950s in Britain and since then allergies have quadrupled in most European countries.",
+      "startTime": 1079.86,
+      "endTime": 1080.82,
+      "text": "Really?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-122",
       "part": 3,
-      "startTime": 1040.43,
-      "endTime": 1048.0,
-      "text": "But it was only in Britain that cod liver oil was so popular so that argument doesn't really make sense.",
+      "startTime": 1080.82,
+      "endTime": 1085.96,
+      "text": "So people might experience more severe allergic symptoms in future? That's right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-123",
       "part": 3,
-      "startTime": 1048.0,
-      "endTime": 1050.15,
-      "text": "No, it doesn't seem that relevant.",
+      "startTime": 1086.38,
+      "endTime": 1090.16,
+      "text": "And another factor is that the pollen season is changing.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-124",
       "part": 3,
-      "startTime": 1050.15,
-      "endTime": 1057.87,
-      "text": "What seems to be happening now is that an increasing number of people are getting their first attack in their 40s and 50s.",
+      "startTime": 1090.16,
+      "endTime": 1096.7,
+      "text": "Yes, scientists are predicting spring will come five weeks earlier by 2130.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-125",
       "part": 3,
-      "startTime": 1057.87,
-      "endTime": 1063.0,
-      "text": "That must be because of the link with climate change causing rising temperatures.",
+      "startTime": 1097.18,
+      "endTime": 1099.12,
+      "text": "That's in the long term.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-126",
       "part": 3,
-      "startTime": 1063.0,
-      "endTime": 1069.43,
-      "text": "But CO2 levels are seriously affecting pollen counts too. As much as milder winters.",
+      "startTime": 1099.12,
+      "endTime": 1102.72,
+      "text": "But that doesn't mean that spring will come earlier every year.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-127",
       "part": 3,
-      "startTime": 1069.43,
-      "endTime": 1070.27,
-      "text": "Definitely.",
+      "startTime": 1102.98,
+      "endTime": 1104.64,
+      "text": "Look at last winter.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-128",
       "part": 3,
-      "startTime": 1070.27,
-      "endTime": 1080.83,
-      "text": "CO2 helps stimulate plant growth and several recent studies have shown that when plants are exposed to more CO2, they produce more pollen.",
+      "startTime": 1104.64,
+      "endTime": 1109.5,
+      "text": "That was really cold until March and the pollen season was delayed.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-129",
       "part": 3,
-      "startTime": 1080.83,
-      "endTime": 1087.64,
-      "text": "Really? So people might experience more severe allergic symptoms in future? That's right.",
+      "startTime": 1109.82,
+      "endTime": 1114.88,
+      "text": "Whereas this year spring came earlier and lasted longer. Right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-130",
       "part": 3,
-      "startTime": 1087.64,
-      "endTime": 1092.0,
-      "text": "And another factor is that the pollen season is changing.",
+      "startTime": 1114.88,
+      "endTime": 1117.94,
+      "text": "And another thing we should mention is ragweed.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-131",
       "part": 3,
-      "startTime": 1092.0,
-      "endTime": 1097.98,
-      "text": "Yes, scientists are predicting spring will come five weeks earlier by 2130.",
+      "startTime": 1118.18,
+      "endTime": 1125.5,
+      "text": "As an example of a plant species moving into new areas as a result of climate change. Yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-132",
       "part": 3,
-      "startTime": 1097.98,
-      "endTime": 1105.0,
-      "text": "That's in the long term. But that doesn't mean that spring will come earlier every year.",
+      "startTime": 1125.5,
+      "endTime": 1132.38,
+      "text": "In the US it's already the major allergen affecting millions of people in August and September.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-133",
       "part": 3,
-      "startTime": 1106.0,
-      "endTime": 1112.11,
-      "text": "Look at last winter. That was really cold until March and the pollen season was delayed.",
+      "startTime": 1132.52,
+      "endTime": 1139.7,
+      "text": "But we're starting to see it grow in Europe for the first time, which is really worrying because it's so allergenic.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-134",
       "part": 3,
-      "startTime": 1112.11,
-      "endTime": 1116.0,
-      "text": "Whereas this year spring came earlier and lasted longer.",
+      "startTime": 1140.06,
+      "endTime": 1144.62,
+      "text": "The problem with tree pollen is also worse in cities because there are",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-135",
       "part": 3,
-      "startTime": 1117.0,
-      "endTime": 1120.88,
-      "text": "Right. And another thing we should mention is ragweed.",
+      "startTime": 1144.62,
+      "endTime": 1152.14,
+      "text": "so many hard surfaces around and the pollen doesn't get absorbed so much, just stays in the air. Yeah.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-136",
       "part": 3,
-      "startTime": 1120.88,
-      "endTime": 1127.0,
-      "text": "As an example of a plant species moving into new areas as a result of climate change.",
+      "startTime": 1152.14,
+      "endTime": 1156.84,
+      "text": "Wasn't the pollen shown to be three times higher in one city? I think so.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-137",
       "part": 3,
-      "startTime": 1127.0,
-      "endTime": 1127.28,
-      "text": "Yes.",
+      "startTime": 1157.38,
+      "endTime": 1163.7,
+      "text": "So because of this, many cities have started to ban the planting of certain types of trees.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-138",
       "part": 3,
-      "startTime": 1127.28,
-      "endTime": 1133.91,
-      "text": "In the US it's already the major allergen affecting millions of people in August and September.",
+      "startTime": 1206.72,
+      "endTime": 1212.68,
+      "text": "So shall we look at the different data tables for seasonal changes for pollen in Europe?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-139",
       "part": 3,
-      "startTime": 1133.91,
-      "endTime": 1142.0,
-      "text": "But we're starting to see it grow in Europe for the first time, which is really worrying because it's so allergenic.",
+      "startTime": 1213.0,
+      "endTime": 1218.66,
+      "text": "OK, but I think we should just focus on the trees and plants which we have the most data for.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-140",
       "part": 3,
-      "startTime": 1142.0,
-      "endTime": 1161.96,
-      "text": "The problem with tree pollen is also worse in cities because there are so many hard surfaces around and the pollen doesn't get absorbed so much, just stays in the air.",
+      "startTime": 1218.78,
+      "endTime": 1223.84,
+      "text": "So that's oak trees and birch trees and grass.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-141",
       "part": 3,
-      "startTime": 1161.96,
-      "endTime": 1169.97,
-      "text": "Yeah. Wasn't the pollen shown to be three times higher in one city?",
+      "startTime": 1224.26,
+      "endTime": 1226.88,
+      "text": "Yes, that makes it more manageable.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-142",
       "part": 3,
-      "startTime": 1169.97,
-      "endTime": 1171.28,
-      "text": "I think so.",
+      "startTime": 1227.2,
+      "endTime": 1232.58,
+      "text": "Shall we go through the data for each country in detail and pick out anything interesting?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-143",
       "part": 3,
-      "startTime": 1171.28,
-      "endTime": 1182.16,
-      "text": "So because of this, many cities have started to ban the planting of certain types of trees.",
+      "startTime": 1234.0,
+      "endTime": 1236.78,
+      "text": "So starting with Austria.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-144",
       "part": 3,
-      "startTime": 1182.16,
-      "endTime": 1194.47,
-      "text": "Before you hear the rest of the discussion, you have some time to look at questions 26 to 30 on page 6.",
+      "startTime": 1238.16,
+      "endTime": 1241.54,
+      "text": "Well, here we've only got data for birch pollen.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-145",
       "part": 3,
-      "startTime": 1194.47,
-      "endTime": 1199.37,
-      "text": "Now listen and answer questions 26 to 30.",
+      "startTime": 1241.7,
+      "endTime": 1244.34,
+      "text": "I wonder why there's no data for oak or grass?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-146",
       "part": 3,
-      "startTime": 1199.37,
-      "endTime": 1209.89,
-      "text": "So shall we look at the different data tables for seasonal changes for pollen in Europe?",
+      "startTime": 1244.76,
+      "endTime": 1249.96,
+      "text": "It would be interesting to compare with neighbouring countries. True.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-147",
       "part": 3,
-      "startTime": 1209.89,
-      "endTime": 1221.0,
-      "text": "OK, but I think we should just focus on the trees and plants which we have the most data for.",
+      "startTime": 1250.24,
+      "endTime": 1253.28,
+      "text": "The picture in France is unusual. Yes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-148",
       "part": 3,
-      "startTime": 1222.0,
-      "endTime": 1228.6,
-      "text": "So that's oak trees and birch trees and grass. Yes, that makes it more manageable.",
+      "startTime": 1253.28,
+      "endTime": 1260.56,
+      "text": "The pollen season starts earlier for both oak and birch, but it doesn't start any earlier for grass.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-149",
       "part": 3,
-      "startTime": 1228.6,
-      "endTime": 1235.84,
-      "text": "Shall we go through the data for each country in detail and pick out anything interesting?",
+      "startTime": 1260.68,
+      "endTime": 1262.44,
+      "text": "I wonder why that is?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-150",
       "part": 3,
-      "startTime": 1235.84,
-      "endTime": 1242.68,
-      "text": "All right. So starting with Austria. Well, here we've only got data for birch pollen.",
+      "startTime": 1262.82,
+      "endTime": 1267.26,
+      "text": "In the Netherlands, we've got complete data for all three plants.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-151",
       "part": 3,
-      "startTime": 1242.68,
-      "endTime": 1246.78,
-      "text": "I wonder why there's no data for oak or grass? Hmm.",
+      "startTime": 1267.76,
+      "endTime": 1269.66,
+      "text": "So what does it show?",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-152",
       "part": 3,
-      "startTime": 1246.78,
-      "endTime": 1252.33,
-      "text": "It would be interesting to compare with neighbouring countries. True.",
+      "startTime": 1270.86,
+      "endTime": 1280.7,
+      "text": "Grass and birch pollen are only starting a few days earlier, but oak pollen is starting much earlier. Eighteen days, in fact.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-153",
       "part": 3,
-      "startTime": 1252.33,
-      "endTime": 1255.0,
-      "text": "The picture in France is unusual.",
+      "startTime": 1280.94,
+      "endTime": 1282.52,
+      "text": "Hmm, that's unusual.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-154",
       "part": 3,
-      "startTime": 1255.0,
-      "endTime": 1255.31,
-      "text": "Yes.",
+      "startTime": 1282.68,
+      "endTime": 1285.4,
+      "text": "There's not such a big difference in other countries.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-155",
       "part": 3,
-      "startTime": 1255.31,
-      "endTime": 1263.16,
-      "text": "The pollen season starts earlier for both oak and birch, but it doesn't start any earlier for grass.",
+      "startTime": 1285.6,
+      "endTime": 1288.94,
+      "text": "No. Switzerland's an interesting case.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-156",
       "part": 3,
-      "startTime": 1263.16,
-      "endTime": 1270.0,
-      "text": "I wonder why that is? In the Netherlands, we've got complete data for all three plants.",
+      "startTime": 1289.04,
+      "endTime": 1294.36,
+      "text": "The pollen season starts here earlier than in the past for oak, birch and grass.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-157",
       "part": 3,
-      "startTime": 1270.0,
-      "endTime": 1271.68,
-      "text": "So what does it show?",
+      "startTime": 1294.66,
+      "endTime": 1299.9,
+      "text": "Yeah, from 21 days to 14 days earlier. Yeah.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-158",
       "part": 3,
-      "startTime": 1271.68,
-      "endTime": 1279.76,
-      "text": "Grass and birch pollen are only starting a few days earlier, but oak pollen is starting much earlier.",
+      "startTime": 1299.9,
+      "endTime": 1303.48,
+      "text": "The UK shows a different picture again. Yeah.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-159",
       "part": 3,
-      "startTime": 1279.76,
-      "endTime": 1283.28,
-      "text": "Eighteen days, in fact. Hmm, that's unusual.",
+      "startTime": 1303.48,
+      "endTime": 1313.32,
+      "text": "Here the problem is that wet summers have extended the grass pollen season from five weeks to eight weeks, which is bad news for allergy sufferers.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-160",
       "part": 3,
-      "startTime": 1283.28,
-      "endTime": 1290.64,
-      "text": "There's not such a big difference in other countries. No. Switzerland's an interesting case.",
+      "startTime": 1313.72,
+      "endTime": 1314.5,
+      "text": "Right.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-161",
       "part": 3,
-      "startTime": 1290.64,
-      "endTime": 1297.04,
-      "text": "The pollen season starts here earlier than in the past for oak, birch and grass.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-162",
-      "part": 3,
-      "startTime": 1297.04,
-      "endTime": 1304.24,
-      "text": "Yeah, from 21 days to 14 days earlier. Yeah. The UK shows a different picture again. Yeah.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-163",
-      "part": 3,
-      "startTime": 1304.24,
-      "endTime": 1316.0,
-      "text": "Here the problem is that wet summers have extended the grass pollen season from five weeks to eight weeks, which is bad news for allergy sufferers.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-164",
-      "part": 3,
-      "startTime": 1316.0,
-      "endTime": 1321.43,
-      "text": "Right.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-165",
-      "part": 3,
-      "startTime": 1321.43,
-      "endTime": 1359.43,
+      "startTime": 1314.5,
+      "endTime": 1319.88,
       "text": "Well, I think we should have another look.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
+      "id": "seg-162",
+      "part": 4,
+      "startTime": 1430.48,
+      "endTime": 1437.22,
+      "text": "For my investigation into the history and uses of plant products, I have focused on the cultivation",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 4,
+      "startTime": 1437.22,
+      "endTime": 1444.3,
+      "text": "and production of saffron, an expensive bright yellow spice made from crocus flowers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 4,
+      "startTime": 1445.2,
+      "endTime": 1451.46,
+      "text": "Unlike most other species of crocus, the saffron crocus doesn't flower in February or March,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 4,
+      "startTime": 1451.74,
+      "endTime": 1458.84,
+      "text": "but in October, when it produces fragrant lilac-colored flowers, which are harvested at that time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
       "id": "seg-166",
-      "part": 3,
-      "startTime": 1359.43,
-      "endTime": 1385.67,
-      "text": "That is the end of section 3.",
+      "part": 4,
+      "startTime": 1459.52,
+      "endTime": 1463.0,
+      "text": "During the harvest, the flower petals are discarded",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-167",
-      "part": 3,
-      "startTime": 1385.67,
-      "endTime": 1430.0,
-      "text": "You now have half a minute to check your answers.",
+      "part": 4,
+      "startTime": 1463.1,
+      "endTime": 1470.98,
+      "text": "and only the stigmas, the three dark orange or red-colored reproductive parts of the flower, are commercially used.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-168",
       "part": 4,
-      "startTime": 1430.0,
-      "endTime": 1430.4,
-      "text": "Now turn to section 4 on page 7.",
+      "startTime": 1471.34,
+      "endTime": 1477.92,
+      "text": "One person must pick for almost 400 hours to produce just one kilo of saffron,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-169",
       "part": 4,
-      "startTime": 1430.4,
-      "endTime": 1431.66,
-      "text": "You will hear a student who is studying food science giving a presentation on a spice called saffron.",
+      "startTime": 1478.22,
+      "endTime": 1486.52,
+      "text": "and amazingly, to produce just 50 grams, it takes about 14,000 individual stigmas.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-170",
       "part": 4,
-      "startTime": 1431.66,
-      "endTime": 1432.36,
-      "text": "First, you have some time to look at questions 31 to 40.",
+      "startTime": 1487.04,
+      "endTime": 1489.82,
+      "text": "No wonder the spice is so expensive!",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-171",
       "part": 4,
-      "startTime": 1432.36,
-      "endTime": 1433.0,
-      "text": "Now listen carefully and answer questions 31 to 40.",
+      "startTime": 1490.4,
+      "endTime": 1499.98,
+      "text": "After this painstaking harvesting, and to preserve the intensive taste, smell, and color of the product, the stigmas are subject to a process of drying,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-172",
       "part": 4,
-      "startTime": 1433.0,
-      "endTime": 1437.81,
-      "text": "For my investigation into the history and uses of plant products,",
+      "startTime": 1500.54,
+      "endTime": 1505.32,
+      "text": "by which some 98% of their moisture content is removed.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-173",
       "part": 4,
-      "startTime": 1437.81,
-      "endTime": 1446.62,
-      "text": "I have focused on the cultivation and production of saffron, an expensive bright yellow spice made from crocus flowers.",
+      "startTime": 1505.42,
+      "endTime": 1510.64,
+      "text": "This makes it possible to keep saffron on the shelf to be used for many years.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-174",
       "part": 4,
-      "startTime": 1446.62,
-      "endTime": 1453.43,
-      "text": "Unlike most other species of crocus, the saffron crocus doesn't flower in February or March,",
+      "startTime": 1510.78,
+      "endTime": 1519.0,
+      "text": "The highly prized spice is famous for the flavor and aroma it imparts, which are often compared to that of honey.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-175",
       "part": 4,
-      "startTime": 1453.43,
-      "endTime": 1460.69,
-      "text": "but in October, when it produces fragrant lilac-colored flowers, which are harvested at that time.",
+      "startTime": 1519.26,
+      "endTime": 1525.74,
+      "text": "Saffron is also prized for its rich golden color, which makes food look so tempting and indulgent.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-176",
       "part": 4,
-      "startTime": 1460.69,
-      "endTime": 1466.1,
-      "text": "During the harvest, the flower petals are discarded and only the stigmas,",
+      "startTime": 1526.24,
+      "endTime": 1535.18,
+      "text": "If you want to buy some of this fabled spice, you will find that saffron is either sold as whole stigmas or ground up as a powder.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-177",
       "part": 4,
-      "startTime": 1466.1,
-      "endTime": 1473.0,
-      "text": "the three dark orange or red-colored reproductive parts of the flower, are commercially used.",
+      "startTime": 1539.98,
+      "endTime": 1544.96,
+      "text": "Today, saffron is used in both Eastern and Western cuisines, to add both color",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-178",
       "part": 4,
-      "startTime": 1474.0,
-      "endTime": 1480.16,
-      "text": "One person must pick for almost 400 hours to produce just one kilo of saffron,",
+      "startTime": 1544.96,
+      "endTime": 1553.98,
+      "text": "and flavor to an enormous range of recipes, though cooks would agree that it is most commonly added to recipes for the cooking of rice,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-179",
       "part": 4,
-      "startTime": 1480.16,
-      "endTime": 1486.64,
-      "text": "and amazingly, to produce just 50 grams, it takes about 14,000 individual stigmas.",
+      "startTime": 1554.52,
+      "endTime": 1558.98,
+      "text": "because somehow it seems to complement such dishes perfectly.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-180",
       "part": 4,
-      "startTime": 1486.64,
-      "endTime": 1489.48,
-      "text": "No wonder the spice is so expensive!",
+      "startTime": 1559.06,
+      "endTime": 1565.26,
+      "text": "It is found to varying degrees in Italian, Spanish, Indian, and Iranian food.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-181",
       "part": 4,
-      "startTime": 1489.48,
-      "endTime": 1497.7,
-      "text": "After this painstaking harvesting, and to preserve the intensive taste, smell, and color of the product,",
+      "startTime": 1565.7,
+      "endTime": 1569.76,
+      "text": "Although food preparation is its most common present-day use,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-182",
       "part": 4,
-      "startTime": 1497.7,
-      "endTime": 1505.84,
-      "text": "the stigmas are subject to a process of drying, by which some 98% of their moisture content is removed.",
+      "startTime": 1570.1,
+      "endTime": 1578.88,
+      "text": "medical research indicates that saffron may have important applications as a drug in the clinical treatment of a number of eye disorders.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-183",
       "part": 4,
-      "startTime": 1505.84,
-      "endTime": 1512.0,
-      "text": "This makes it possible to keep saffron on the shelf to be used for many years.",
+      "startTime": 1579.3,
+      "endTime": 1586.46,
+      "text": "Patients given saffron in their regular diet seem to show remarkable signs of recovery from serious conditions.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-184",
       "part": 4,
-      "startTime": 1513.0,
-      "endTime": 1520.95,
-      "text": "The highly prized spice is famous for the flavor and aroma it imparts, which are often compared to that of honey.",
+      "startTime": 1586.72,
+      "endTime": 1591.02,
+      "text": "And although scientists are still unsure of exactly why,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-185",
       "part": 4,
-      "startTime": 1520.95,
-      "endTime": 1527.85,
-      "text": "Saffron is also prized for its rich golden color, which makes food look so tempting and indulgent.",
+      "startTime": 1591.56,
+      "endTime": 1599.34,
+      "text": "recent experiments with laboratory rats have shown saffron to be effective in protecting the animals from damage caused",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-186",
       "part": 4,
-      "startTime": 1527.85,
-      "endTime": 1537.0,
-      "text": "If you want to buy some of this fabled spice, you will find that saffron is either sold as whole stigmas or ground up as a powder.",
+      "startTime": 1599.34,
+      "endTime": 1603.18,
+      "text": "when they are exposed to potentially harmful lights.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-187",
       "part": 4,
-      "startTime": 1542.0,
-      "endTime": 1550.65,
-      "text": "Today, saffron is used in both Eastern and Western cuisines, to add both color and flavor to an enormous range of recipes,",
+      "startTime": 1603.8,
+      "endTime": 1609.72,
+      "text": "Now, I'd like to give a few examples of how saffron has been used since ancient times.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-188",
       "part": 4,
-      "startTime": 1550.65,
-      "endTime": 1561.5,
-      "text": "though cooks would agree that it is most commonly added to recipes for the cooking of rice, because somehow it seems to complement such dishes perfectly.",
+      "startTime": 1610.76,
+      "endTime": 1620.02,
+      "text": "Some of the earliest evidence of saffron cultivation comes from archaeological excavations dating back 4,000 years on the island of Crete,",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-189",
       "part": 4,
-      "startTime": 1561.5,
-      "endTime": 1566.96,
-      "text": "It is found to varying degrees in Italian, Spanish, Indian, and Iranian food.",
+      "startTime": 1620.36,
+      "endTime": 1628.26,
+      "text": "where paintings and other artifacts have been found indicating that women wore beautiful saffron-colored clothes.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-190",
       "part": 4,
-      "startTime": 1566.96,
-      "endTime": 1571.29,
-      "text": "Although food preparation is its most common present-day use,",
+      "startTime": 1628.76,
+      "endTime": 1633.38,
+      "text": "This is the earliest evidence of saffron being used as a dye.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-191",
       "part": 4,
-      "startTime": 1571.29,
-      "endTime": 1581.0,
-      "text": "medical research indicates that saffron may have important applications as a drug in the clinical treatment of a number of eye disorders.",
+      "startTime": 1633.86,
+      "endTime": 1642.76,
+      "text": "During the Roman Empire, saffron oil was produced, which, because of both its color and aroma, was used to create cosmetics.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-192",
       "part": 4,
-      "startTime": 1582.0,
-      "endTime": 1589.82,
-      "text": "Patients given saffron in their regular diet seem to show remarkable signs of recovery from serious conditions.",
+      "startTime": 1643.1,
+      "endTime": 1647.1,
+      "text": "But only the wealthiest citizens could afford these.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-193",
       "part": 4,
-      "startTime": 1589.82,
-      "endTime": 1605.95,
-      "text": "And although scientists are still unsure of exactly why, recent experiments with laboratory rats have shown saffron to be effective in protecting the animals from damage caused when they are exposed to potentially harmful lights.",
+      "startTime": 1647.56,
+      "endTime": 1651.58,
+      "text": "Another use of saffron was to be found in the public baths.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-194",
       "part": 4,
-      "startTime": 1605.95,
-      "endTime": 1612.0,
-      "text": "Now, I'd like to give a few examples of how saffron has been used since ancient times.",
+      "startTime": 1651.98,
+      "endTime": 1657.88,
+      "text": "There, saffron was used as a perfume to keep the places smelling fresh and aromatic.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-195",
       "part": 4,
-      "startTime": 1613.0,
-      "endTime": 1623.13,
-      "text": "Some of the earliest evidence of saffron cultivation comes from archaeological excavations dating back 4,000 years on the island of Crete,",
+      "startTime": 1658.3,
+      "endTime": 1665.98,
+      "text": "It is even said that the streets of Rome were strewn with saffron threads to greet Emperor Nero as an extravagant",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-196",
       "part": 4,
-      "startTime": 1623.13,
-      "endTime": 1631.42,
-      "text": "where paintings and other artifacts have been found indicating that women wore beautiful saffron-colored clothes.",
+      "startTime": 1665.98,
+      "endTime": 1670.58,
+      "text": "and sweet-smelling gesture when he made a triumphal entrance into the city.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-197",
       "part": 4,
-      "startTime": 1631.42,
-      "endTime": 1635.9,
-      "text": "This is the earliest evidence of saffron being used as a dye.",
+      "startTime": 1672.74,
+      "endTime": 1676.04,
+      "text": "Other parts of the ancient world used saffron extensively.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-198",
       "part": 4,
-      "startTime": 1635.9,
-      "endTime": 1645.0,
-      "text": "During the Roman Empire, saffron oil was produced, which, because of both its color and aroma, was used to create cosmetics.",
+      "startTime": 1676.3,
+      "endTime": 1687.1,
+      "text": "One of the most well-known examples was in Persia, which is modern-day Iran, where saffron was a vital part of the process of manufacturing carpets.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-199",
       "part": 4,
-      "startTime": 1646.0,
-      "endTime": 1649.73,
-      "text": "But only the wealthiest citizens could afford these.",
+      "startTime": 1687.72,
+      "endTime": 1694.18,
+      "text": "Being used as a traditional dye, along with other natural products like berries and minerals.",
       "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-200",
       "part": 4,
-      "startTime": 1649.73,
-      "endTime": 1653.97,
-      "text": "Another use of saffron was to be found in the public baths.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-201",
-      "part": 4,
-      "startTime": 1653.97,
-      "endTime": 1660.0,
-      "text": "There, saffron was used as a perfume to keep the places smelling fresh and aromatic.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-202",
-      "part": 4,
-      "startTime": 1660.0,
-      "endTime": 1674.35,
-      "text": "It is even said that the streets of Rome were strewn with saffron threads to greet Emperor Nero as an extravagant and sweet-smelling gesture when he made a triumphal entrance into the city.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-203",
-      "part": 4,
-      "startTime": 1674.35,
-      "endTime": 1678.76,
-      "text": "Other parts of the ancient world used saffron extensively.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-204",
-      "part": 4,
-      "startTime": 1678.76,
-      "endTime": 1690.0,
-      "text": "One of the most well-known examples was in Persia, which is modern-day Iran, where saffron was a vital part of the process of manufacturing carpets.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-205",
-      "part": 4,
-      "startTime": 1690.0,
-      "endTime": 1698.14,
-      "text": "Being used as a traditional dye, along with other natural products like berries and minerals.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-206",
-      "part": 4,
-      "startTime": 1698.14,
-      "endTime": 1706.19,
-      "text": "To end my presentation, I'd like to read out a recipe written by… That is the end of Part 4.",
-      "timestampSource": "exact",
-      "qTags": []
-    },
-    {
-      "id": "seg-207",
-      "part": 4,
-      "startTime": 1706.19,
-      "endTime": 1711.0,
-      "text": "You now have one minute to check your answers to Part 4",
+      "startTime": 1695.44,
+      "endTime": 1699.54,
+      "text": "To end my presentation, I'd like to read out a recipe written by.",
       "timestampSource": "exact",
       "qTags": []
     }
@@ -2697,9 +2619,9 @@
     {
       "id": "long-001",
       "part": 1,
-      "startTime": 1.0,
-      "endTime": 22.0,
-      "text": "IELTS Listening, version 56233. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work.",
+      "startTime": 104.4,
+      "endTime": 116.64,
+      "text": "Hello, Superior Home Appliances, this is Ian here. Oh, hello, yes. I have a new fridge and I'm ringing to report a fault with it. I need you to send someone out to have a look at it.",
       "segmentIds": [
         "seg-001",
         "seg-002",
@@ -2710,9 +2632,9 @@
     {
       "id": "long-002",
       "part": 1,
-      "startTime": 23.0,
-      "endTime": 45.78,
-      "text": "All the recordings will be played once only. The test is in four sections. Write all your answers in the listening question booklet. At the end of the test you will be given ten minutes to transfer your answers to an answer sheet.",
+      "startTime": 119.28,
+      "endTime": 135.34,
+      "text": "The type of appliance is a fridge, so fridge has been written in the space. Now we shall begin. You should answer the questions as you listen because you will not hear the recording a second time.",
       "segmentIds": [
         "seg-004",
         "seg-005",
@@ -2723,78 +2645,68 @@
     {
       "id": "long-003",
       "part": 1,
-      "startTime": 45.78,
-      "endTime": 85.76,
-      "text": "Now turn to section one on page two of your question booklet. Section one. You will hear a telephone conversation between a customer and a service representative. First, you have some time to look at questions one to five on page two.",
+      "startTime": 143.48,
+      "endTime": 163.46,
+      "text": "Hello, Superior Home Appliances, this is Ian here. Oh, hello, yes. I have a new fridge and I'm ringing to report a fault with it. I need you to send someone out to have a look at it. OK. I'll fill in a customer complaint form and arrange for one of our repair agents to come out to you. OK then.",
       "segmentIds": [
         "seg-007",
         "seg-008",
-        "seg-009"
+        "seg-009",
+        "seg-010"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-004",
       "part": 1,
-      "startTime": 85.76,
-      "endTime": 112.0,
-      "text": "You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first. Hello, Superior Home Appliances, this is Ian here. Oh, hello, yes.",
+      "startTime": 163.96,
+      "endTime": 184.42,
+      "text": "Now, can I just get some contact details from you for the form? Your name is? Jessica. Jessica Brown. OK. And if I can just get a contact telephone number? Our home phone number is 5823 2210. Got it.",
       "segmentIds": [
-        "seg-010",
         "seg-011",
-        "seg-012"
+        "seg-012",
+        "seg-013"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-005",
       "part": 1,
-      "startTime": 112.0,
-      "endTime": 129.69,
-      "text": "I have a new fridge and I'm ringing to report a fault with it. I need you to send someone out to have a look at it. The type of appliance is a fridge, so fridge has been written in the space. Now we shall begin.",
+      "startTime": 184.74,
+      "endTime": 201.1,
+      "text": "Now, can I get some more details about the fridge? Well, it's been playing up since yesterday afternoon. I see. And is it still under warranty? Well, I should think so. It's only a couple of weeks old. That's fine then.",
       "segmentIds": [
-        "seg-013",
         "seg-014",
         "seg-015",
-        "seg-016"
+        "seg-016",
+        "seg-017",
+        "seg-018"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-006",
       "part": 1,
-      "startTime": 129.69,
-      "endTime": 150.64,
-      "text": "You should answer the questions as you listen because you will not hear the recording a second time. Listen carefully and answer questions one to five. Hello, Superior Home Appliances, this is Ian here. Oh, hello, yes.",
+      "startTime": 201.46,
+      "endTime": 220.1,
+      "text": "Now, I just need to get some more information about the make and model. Is it a top mount, a bottom mount or a side-by-side? The freezer is on top. And have you got the model number there? Yes. It's here on the instructions booklet. It's S654391X.",
       "segmentIds": [
-        "seg-017",
-        "seg-018",
-        "seg-019"
+        "seg-019",
+        "seg-020",
+        "seg-021",
+        "seg-022",
+        "seg-023"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-007",
       "part": 1,
-      "startTime": 150.64,
-      "endTime": 174.0,
-      "text": "I have a new fridge and I'm ringing to report a fault with it. I need you to send someone out to have a look at it. OK. I'll fill in a customer complaint form and arrange for one of our repair agents to come out to you. OK then. Now, can I just get some contact details from you for the form? Your name is? Jessica. Jessica Brown.",
+      "startTime": 225.48,
+      "endTime": 246.48,
+      "text": "OK. So it's silver in colour. That's right. I thought it was so much nicer than the usual white ones. Now, if I could just get a few details from you. First, when did you buy the fridge? Well, as I said, it was only a few weeks ago, but I don't have the receipt in front of me at the moment.",
       "segmentIds": [
-        "seg-020",
-        "seg-021",
-        "seg-022",
-        "seg-023",
-        "seg-024"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-008",
-      "part": 1,
-      "startTime": 174.0,
-      "endTime": 197.36,
-      "text": "OK. And if I can just get a contact telephone number? Our home phone number is 5823 2210. Got it. Now, can I get some more details about the fridge? Well, it's been playing up since yesterday afternoon. I see. And is it still under warranty?",
-      "segmentIds": [
+        "seg-024",
         "seg-025",
         "seg-026",
         "seg-027",
@@ -2803,68 +2715,58 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-009",
+      "id": "long-008",
       "part": 1,
-      "startTime": 197.36,
-      "endTime": 221.0,
-      "text": "Well, I should think so. It's only a couple of weeks old. That's fine then. Now, I just need to get some more information about the make and model. Is it a top mount, a bottom mount or a side-by-side? The freezer is on top. And have you got the model number there? Yes. It's here on the instructions booklet.",
+      "startTime": 246.66,
+      "endTime": 266.02,
+      "text": "I do know that it was delivered on the 6th of February. OK. Well, I can use that date to search on the computer. Here it is. It says here you bought it on January the 12th. Now, what exactly is wrong with the fridge?",
       "segmentIds": [
         "seg-029",
         "seg-030",
         "seg-031",
-        "seg-032"
+        "seg-032",
+        "seg-033"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 266.4,
+      "endTime": 291.08,
+      "text": "Well, my fridge is fitted with an alarm and it started to go off. It made an awful noise. So what was wrong? Well, when I went to check the freezer, it felt pretty warm. It's 10 degrees and it should be minus 18, so everything is melting. And then the main part of the fridge doesn't seem to be working either. Mmm, I see.",
+      "segmentIds": [
+        "seg-034",
+        "seg-035",
+        "seg-036",
+        "seg-037",
+        "seg-038"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-010",
       "part": 1,
-      "startTime": 222.0,
-      "endTime": 242.06,
-      "text": "It's S654391X. OK. So it's silver in colour. That's right. I thought it was so much nicer than the usual white ones. Now, if I could just get a few details from you. First, when did you buy the fridge?",
+      "startTime": 335.12,
+      "endTime": 355.62,
+      "text": "I've made a note of that on the form and I'll pass it on to the service agent. When can they come and fix it? Let's find the closest one to you. Let's see. That's Ken's Appliances and they've got two centres in your area, one near the station and another one in the shopping centre.",
       "segmentIds": [
-        "seg-033",
-        "seg-034",
-        "seg-035",
-        "seg-036"
+        "seg-039",
+        "seg-040",
+        "seg-041",
+        "seg-042"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-011",
       "part": 1,
-      "startTime": 242.06,
-      "endTime": 266.0,
-      "text": "Well, as I said, it was only a few weeks ago, but I don't have the receipt in front of me at the moment. I do know that it was delivered on the 6th of February. OK. Well, I can use that date to search on the computer. Here it is. It says here you bought it on January the 12th.",
+      "startTime": 356.04,
+      "endTime": 378.62,
+      "text": "Well, we're miles away from the shopping centre, so the station one would be closer. I'll ring them in a minute, but I should warn you it could take a day or two for them to get to you. What? What am I going to do without a fridge? Look, there's a fridge full of food there and it's all going off. I'll have to throw it all out, you know.",
       "segmentIds": [
-        "seg-037",
-        "seg-038",
-        "seg-039",
-        "seg-040"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-012",
-      "part": 1,
-      "startTime": 266.0,
-      "endTime": 287.5,
-      "text": "Now, what exactly is wrong with the fridge? Well, my fridge is fitted with an alarm and it started to go off. It made an awful noise. So what was wrong? Well, when I went to check the freezer, it felt pretty warm. It's 10 degrees and it should be minus 18, so everything is melting.",
-      "segmentIds": [
-        "seg-041",
-        "seg-042",
         "seg-043",
-        "seg-044"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-013",
-      "part": 1,
-      "startTime": 287.5,
-      "endTime": 322.17,
-      "text": "And then the main part of the fridge doesn't seem to be working either. Mmm, I see. Before you hear the rest of the conversation, you have some time to look at questions 6 to 10 on page 2. Now listen and answer questions 6 to 10.",
-      "segmentIds": [
+        "seg-044",
         "seg-045",
         "seg-046",
         "seg-047"
@@ -2872,105 +2774,95 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-014",
+      "id": "long-012",
       "part": 1,
-      "startTime": 322.17,
-      "endTime": 347.0,
-      "text": "I've made a note of that on the form and I'll pass it on to the service agent. When can they come and fix it? Let's find the closest one to you.",
+      "startTime": 379.0,
+      "endTime": 399.28,
+      "text": "Yes, I do sympathise. It's not just that. This is going to affect my business. I run a sandwich shop and that's where I keep my stock. Mmm, I see. Look, Jessica, if you tell me how much the stock is worth, we can send you a cheque for that amount, though there is a maximum of $250.",
       "segmentIds": [
         "seg-048",
         "seg-049",
-        "seg-050"
+        "seg-050",
+        "seg-051"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 400.34,
+      "endTime": 423.62,
+      "text": "Well, I've just filled it with $180 worth of meat and salad, so that would be something, I suppose. But how long is my business expected to survive without a fridge? It's just not good enough. Yes, I understand your concerns, but that's all I can really offer you. Well, I'd like to speak to someone higher up about this.",
+      "segmentIds": [
+        "seg-052",
+        "seg-053",
+        "seg-054",
+        "seg-055"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 424.26,
+      "endTime": 443.04,
+      "text": "I can ask my manager to ring you back by close of business today. Would that be acceptable? Yes, thank you. I do apologise for all the inconvenience. Is there anything else I can help you with? Actually, there is one more thing. The door has a dent in it on the left-hand side.",
+      "segmentIds": [
+        "seg-056",
+        "seg-057",
+        "seg-058",
+        "seg-059",
+        "seg-060"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-015",
       "part": 1,
-      "startTime": 348.0,
-      "endTime": 370.8,
-      "text": "Let's see. That's Ken's Appliances and they've got two centres in your area, one near the station and another one in the shopping centre. Well, we're miles away from the shopping centre, so the station one would be closer. I'll ring them in a minute, but I should warn you it could take a day or two for them to get to you.",
+      "startTime": 443.3,
+      "endTime": 452.92,
+      "text": "It wasn't there in the shop, so it must have happened when it was delivered. I'd like that replaced too. I'll make a note of that too. You'll be hearing from us very soon.",
       "segmentIds": [
-        "seg-051",
-        "seg-052",
-        "seg-053",
-        "seg-054"
+        "seg-061",
+        "seg-062",
+        "seg-063",
+        "seg-064"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-016",
-      "part": 1,
-      "startTime": 370.8,
-      "endTime": 392.31,
-      "text": "What? What am I going to do without a fridge? Look, there's a fridge full of food there and it's all going off. I'll have to throw it all out, you know. Yes, I do sympathise. It's not just that. This is going to affect my business. I run a sandwich shop and that's where I keep my stock. Mmm, I see.",
+      "part": 2,
+      "startTime": 553.0,
+      "endTime": 574.08,
+      "text": "Hello. Listeners to this programme will know that we're very keen to foster links within communities, and we think we've hit on a winning idea. I'm going to tell you about a scheme which has been set up as part of our Communities in Action programme for those who'd like to be put in touch with people from different countries and cultures.",
       "segmentIds": [
-        "seg-055",
-        "seg-056",
-        "seg-057",
-        "seg-058",
-        "seg-059"
+        "seg-065",
+        "seg-066",
+        "seg-067",
+        "seg-068"
       ],
       "timestampSource": "exact"
     },
     {
       "id": "long-017",
-      "part": 1,
-      "startTime": 392.31,
-      "endTime": 416.85,
-      "text": "Look, Jessica, if you tell me how much the stock is worth, we can send you a cheque for that amount, though there is a maximum of $250. Well, I've just filled it with $180 worth of meat and salad, so that would be something, I suppose. But how long is my business expected to survive without a fridge? It's just not good enough.",
+      "part": 2,
+      "startTime": 574.32,
+      "endTime": 598.74,
+      "text": "As the name Connections suggests, we're hoping that the scheme will introduce people who live in this country who will act as hosts to people who've recently arrived here to study or to work for a limited period of time, who will be their guests. Now, if you've got a spare room in your house or flat, you might like to be a host and have someone stay for a weekend.",
       "segmentIds": [
-        "seg-060",
-        "seg-061",
-        "seg-062"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-018",
-      "part": 1,
-      "startTime": 416.85,
-      "endTime": 439.57,
-      "text": "Yes, I understand your concerns, but that's all I can really offer you. Well, I'd like to speak to someone higher up about this. I can ask my manager to ring you back by close of business today. Would that be acceptable? Yes, thank you. I do apologise for all the inconvenience. Is there anything else I can help you with?",
-      "segmentIds": [
-        "seg-063",
-        "seg-064",
-        "seg-065",
-        "seg-066",
-        "seg-067"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-019",
-      "part": 1,
-      "startTime": 439.57,
-      "endTime": 453.0,
-      "text": "Actually, there is one more thing. The door has a dent in it on the left-hand side. It wasn't there in the shop, so it must have happened when it was delivered. I'd like that replaced too. I'll make a note of that too.",
-      "segmentIds": [
-        "seg-068",
         "seg-069",
-        "seg-070"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-020",
-      "part": 1,
-      "startTime": 453.0,
-      "endTime": 556.0,
-      "text": "You'll be hearing from us very soon.",
-      "segmentIds": [
+        "seg-070",
         "seg-071"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-021",
+      "id": "long-018",
       "part": 2,
-      "startTime": 556.0,
-      "endTime": 577.11,
-      "text": "Now listen carefully and answer questions 11 to 14. Hello. Listeners to this programme will know that we're very keen to foster links within communities, and we think we've hit on a winning idea. I'm going to tell you about a scheme which has been set up as part of our Communities in Action programme for those who'd like to be put in touch with people from different countries and cultures.",
+      "startTime": 598.92,
+      "endTime": 617.74,
+      "text": "I should point out that no money is involved as all our hosts are unpaid, but you should not have too much extra expense other than one more person joining you at mealtimes. In the course of their studies or work in this country, some people rarely get the opportunity to socialise.",
       "segmentIds": [
         "seg-072",
         "seg-073",
@@ -2979,11 +2871,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-022",
+      "id": "long-019",
       "part": 2,
-      "startTime": 577.11,
-      "endTime": 606.47,
-      "text": "As the name Connections suggests, we're hoping that the scheme will introduce people who live in this country who will act as hosts to people who've recently arrived here to study or to work for a limited period of time, who will be their guests. Now, if you've got a spare room in your house or flat, you might like to be a host and have someone stay for a weekend. I should point out that no money is involved as all our hosts are unpaid,",
+      "startTime": 618.68,
+      "endTime": 640.38,
+      "text": "There may be language problems or feelings of shyness, which mean that whatever their age, people can become quite lonely or isolated. If you're prepared to invite someone into your home, you can rely on Connections for a personal introduction and the timing of the invitation will be to suit you.",
       "segmentIds": [
         "seg-075",
         "seg-076",
@@ -2992,39 +2884,39 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-023",
+      "id": "long-020",
       "part": 2,
-      "startTime": 606.47,
-      "endTime": 630.86,
-      "text": "but you should not have too much extra expense other than one more person joining you at mealtimes. In the course of their studies or work in this country, some people rarely get the opportunity to socialise. There may be language problems or feelings of shyness, which mean that whatever their age, people can become quite lonely or isolated.",
+      "startTime": 640.38,
+      "endTime": 662.48,
+      "text": "As I said, the stay is always over a weekend for two or three nights and, as the host, the arrangements you make for your visitor will depend on your other commitments. If you're listening to this programme and you would like to take advantage of what Connections can offer a guest, then what I'm going on to say will apply to you.",
       "segmentIds": [
         "seg-078",
         "seg-079",
-        "seg-080"
+        "seg-080",
+        "seg-081"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-024",
+      "id": "long-021",
       "part": 2,
-      "startTime": 630.86,
-      "endTime": 648.08,
-      "text": "If you're prepared to invite someone into your home, you can rely on Connections for a personal introduction and the timing of the invitation will be to suit you. As I said, the stay is always over a weekend for two or three nights and,",
+      "startTime": 663.06,
+      "endTime": 682.84,
+      "text": "So, what will you, the guest, get out of a visit? You'll gain an insight into the customs and way of life of the country you're staying in and you'll enjoy home-cooked meals and be able to ask questions about things which interest you or perhaps even puzzle you.",
       "segmentIds": [
-        "seg-081",
         "seg-082",
-        "seg-083"
+        "seg-083",
+        "seg-084"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-025",
+      "id": "long-022",
       "part": 2,
-      "startTime": 648.08,
-      "endTime": 670.74,
-      "text": "as the host, the arrangements you make for your visitor will depend on your other commitments. If you're listening to this programme and you would like to take advantage of what Connections can offer a guest, then what I'm going on to say will apply to you. So, what will you, the guest, get out of a visit?",
+      "startTime": 683.26,
+      "endTime": 711.96,
+      "text": "It's early days, but if a weekend stay goes well, relationships might develop over time and turn into lasting and genuine friendships. This would undoubtedly be of advantage to the whole community as we all become more aware of the ways in which people in different countries live their lives. There's also the possibility that when you return to your own country, you might one day want to invite your hosts to stay with you.",
       "segmentIds": [
-        "seg-084",
         "seg-085",
         "seg-086",
         "seg-087"
@@ -3032,62 +2924,52 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-026",
+      "id": "long-023",
       "part": 2,
-      "startTime": 670.74,
-      "endTime": 695.0,
-      "text": "You'll gain an insight into the customs and way of life of the country you're staying in and you'll enjoy home-cooked meals and be able to ask questions about things which interest you or perhaps even puzzle you. It's early days, but if a weekend stay goes well, relationships might develop over time and turn into lasting and genuine friendships.",
+      "startTime": 760.24,
+      "endTime": 777.76,
+      "text": "Right, I hope I've given you enough information on the scheme and what we're setting out to do. I'll now deal with the process for applying, if you'd like to be involved from the point of view of a guest. So have a pencil and some paper ready to jot down what you need to do.",
       "segmentIds": [
         "seg-088",
-        "seg-089"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-027",
-      "part": 2,
-      "startTime": 696.0,
-      "endTime": 718.99,
-      "text": "This would undoubtedly be of advantage to the whole community as we all become more aware of the ways in which people in different countries live their lives.",
-      "segmentIds": [
+        "seg-089",
         "seg-090"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-028",
+      "id": "long-024",
       "part": 2,
-      "startTime": 718.99,
-      "endTime": 759.0,
-      "text": "There's also the possibility that when you return to your own country, you might one day want to invite your hosts to stay with you. Before you hear the rest of the programme, you have some time to look at questions 15 to 20 on page 4. Now listen and answer questions 15 to 20.",
+      "startTime": 778.32,
+      "endTime": 801.1,
+      "text": "Connections is broken up into various small sections which will deal with your application through the different stages. To begin with, we ask you to make a phone call to our vetting people. We need to know some basic information about you, like how long you're intending to be in this country. The minimum time limit is three months.",
       "segmentIds": [
         "seg-091",
         "seg-092",
-        "seg-093"
+        "seg-093",
+        "seg-094"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-029",
+      "id": "long-025",
       "part": 2,
-      "startTime": 763.0,
-      "endTime": 780.0,
-      "text": "Right, I hope I've given you enough information on the scheme and what we're setting out to do. I'll now deal with the process for applying, if you'd like to be involved from the point of view of a guest. So have a pencil and some paper ready to jot down what you need to do.",
+      "startTime": 801.34,
+      "endTime": 822.98,
+      "text": "Whether you're working or studying, we require a reference, which must be from the person in authority who you're working with or studying under. This will be used for an identity check. Once that's been sent to the authorities and approved, we'll email you an application form which you can download.",
       "segmentIds": [
-        "seg-094",
         "seg-095",
-        "seg-096"
+        "seg-096",
+        "seg-097"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-030",
+      "id": "long-026",
       "part": 2,
-      "startTime": 781.0,
-      "endTime": 803.79,
-      "text": "Connections is broken up into various small sections which will deal with your application through the different stages. To begin with, we ask you to make a phone call to our vetting people. We need to know some basic information about you, like how long you're intending to be in this country. The minimum time limit is three months.",
+      "startTime": 823.58,
+      "endTime": 846.16,
+      "text": "You should complete this and return it with two recent passport-sized photographs of yourself. One photo will be held in our records and the other will be sent to your host family prior to your first weekend visit. Our centre manager will get back to you within a week of receiving your form to let you know that we have it,",
       "segmentIds": [
-        "seg-097",
         "seg-098",
         "seg-099",
         "seg-100"
@@ -3095,112 +2977,82 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-031",
+      "id": "long-027",
       "part": 2,
-      "startTime": 803.79,
-      "endTime": 826.02,
-      "text": "Whether you're working or studying, we require a reference, which must be from the person in authority who you're working with or studying under. This will be used for an identity check. Once that's been sent to the authorities and approved, we'll email you an application form which you can download.",
+      "startTime": 846.16,
+      "endTime": 874.18,
+      "text": "and if we think there's a suitable match on our files, someone from our interview team will contact you for a face-to-face meeting with a member of staff. At that point, you should have some idea of weekend dates when you're free, which we can put to the host family. However, decisions are not made at the meeting, but you can expect to hear the result from us in a couple of days. Now, the process for those of you interested in welcoming.",
       "segmentIds": [
         "seg-101",
         "seg-102",
-        "seg-103"
+        "seg-103",
+        "seg-104"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-032",
-      "part": 2,
-      "startTime": 826.02,
-      "endTime": 848.69,
-      "text": "You should complete this and return it with two recent passport-sized photographs of yourself. One photo will be held in our records and the other will be sent to your host family prior to your first weekend visit. Our centre manager will get back to you within a week of receiving your form to let you know that we have it,",
+      "id": "long-028",
+      "part": 3,
+      "startTime": 982.48,
+      "endTime": 1003.58,
+      "text": "Have you had a chance to look at the information for our project yet, Beth? I've had a look at most of the stuff on the relationship between climate change and allergies and at the role played by pollen from flowering plants and trees. Yeah, me too. The main message is that seasonal allergies seem to be getting worse.",
       "segmentIds": [
-        "seg-104",
         "seg-105",
-        "seg-106"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-033",
-      "part": 2,
-      "startTime": 848.69,
-      "endTime": 872.0,
-      "text": "and if we think there's a suitable match on our files, someone from our interview team will contact you for a face-to-face meeting with a member of staff. At that point, you should have some idea of weekend dates when you're free, which we can put to the host family. However, decisions are not made at the meeting, but you can expect to hear the result from us in a couple of days.",
-      "segmentIds": [
+        "seg-106",
         "seg-107",
-        "seg-108",
-        "seg-109"
+        "seg-108"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-034",
-      "part": 2,
-      "startTime": 873.0,
-      "endTime": 919.96,
-      "text": "Now, the process for those of you interested in welcoming...",
+      "id": "long-029",
+      "part": 3,
+      "startTime": 1003.88,
+      "endTime": 1024.98,
+      "text": "In just the last 20 years, the amount of pollen that's produced by the flowers on birch trees has tripled and one in four people suffers from either hay fever or asthma, which is triggered by pollen. I read something about allergy sufferers being more likely to have a vitamin D deficiency",
       "segmentIds": [
-        "seg-110"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-035",
-      "part": 2,
-      "startTime": 919.96,
-      "endTime": 942.66,
-      "text": "That is the end of Section 2.",
-      "segmentIds": [
+        "seg-109",
+        "seg-110",
         "seg-111"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-036",
-      "part": 2,
-      "startTime": 942.66,
-      "endTime": 981.0,
-      "text": "You now have half a minute to check your answers.",
-      "segmentIds": [
-        "seg-112"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-037",
+      "id": "long-030",
       "part": 3,
-      "startTime": 981.0,
-      "endTime": 989.97,
-      "text": "Now turn to Section 3 on page 5. Section 3. You will hear two health science students called Elliot and Beth discussing research on climate change and allergies. First, you have some time to look at questions 21 to 25 on page 5. Now listen carefully and answer questions 21 to 25. Have you had a chance to look at the information for our project yet, Beth?",
+      "startTime": 1024.98,
+      "endTime": 1047.88,
+      "text": "because we no longer take cod liver oil as a vitamin supplement like many people used to do in the 1950s in Britain and since then allergies have quadrupled in most European countries. But it was only in Britain that cod liver oil was so popular so that argument doesn't really make sense. No, it doesn't seem that relevant.",
       "segmentIds": [
+        "seg-112",
         "seg-113",
         "seg-114",
-        "seg-115",
+        "seg-115"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 3,
+      "startTime": 1048.18,
+      "endTime": 1069.26,
+      "text": "What seems to be happening now is that an increasing number of people are getting their first attack in their 40s and 50s. That must be because of the link with climate change causing rising temperatures. But CO2 levels are seriously affecting pollen counts too. As much as milder winters. Definitely.",
+      "segmentIds": [
         "seg-116",
-        "seg-117"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-038",
-      "part": 3,
-      "startTime": 989.97,
-      "endTime": 1020.49,
-      "text": "I've had a look at most of the stuff on the relationship between climate change and allergies and at the role played by pollen from flowering plants and trees. Yeah, me too. The main message is that seasonal allergies seem to be getting worse. In just the last 20 years, the amount of pollen that's produced by the flowers on birch trees has tripled and one in four people suffers from either hay fever or asthma, which is triggered by pollen.",
-      "segmentIds": [
+        "seg-117",
         "seg-118",
-        "seg-119",
-        "seg-120"
+        "seg-119"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-039",
+      "id": "long-032",
       "part": 3,
-      "startTime": 1020.49,
-      "endTime": 1050.15,
-      "text": "I read something about allergy sufferers being more likely to have a vitamin D deficiency because we no longer take cod liver oil as a vitamin supplement like many people used to do in the 1950s in Britain and since then allergies have quadrupled in most European countries. But it was only in Britain that cod liver oil was so popular so that argument doesn't really make sense. No, it doesn't seem that relevant.",
+      "startTime": 1069.26,
+      "endTime": 1090.16,
+      "text": "CO2 helps stimulate plant growth and several recent studies have shown that when plants are exposed to more CO2, they produce more pollen. Really? So people might experience more severe allergic symptoms in future? That's right. And another factor is that the pollen season is changing.",
       "segmentIds": [
+        "seg-120",
         "seg-121",
         "seg-122",
         "seg-123"
@@ -3208,67 +3060,67 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-040",
+      "id": "long-033",
       "part": 3,
-      "startTime": 1050.15,
-      "endTime": 1070.27,
-      "text": "What seems to be happening now is that an increasing number of people are getting their first attack in their 40s and 50s. That must be because of the link with climate change causing rising temperatures. But CO2 levels are seriously affecting pollen counts too. As much as milder winters. Definitely.",
+      "startTime": 1090.16,
+      "endTime": 1109.5,
+      "text": "Yes, scientists are predicting spring will come five weeks earlier by 2130. That's in the long term. But that doesn't mean that spring will come earlier every year. Look at last winter. That was really cold until March and the pollen season was delayed.",
       "segmentIds": [
         "seg-124",
         "seg-125",
         "seg-126",
-        "seg-127"
+        "seg-127",
+        "seg-128"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-041",
+      "id": "long-034",
       "part": 3,
-      "startTime": 1070.27,
-      "endTime": 1092.0,
-      "text": "CO2 helps stimulate plant growth and several recent studies have shown that when plants are exposed to more CO2, they produce more pollen. Really? So people might experience more severe allergic symptoms in future? That's right. And another factor is that the pollen season is changing.",
-      "segmentIds": [
-        "seg-128",
-        "seg-129",
-        "seg-130"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-042",
-      "part": 3,
-      "startTime": 1092.0,
-      "endTime": 1112.11,
-      "text": "Yes, scientists are predicting spring will come five weeks earlier by 2130. That's in the long term. But that doesn't mean that spring will come earlier every year. Look at last winter. That was really cold until March and the pollen season was delayed.",
-      "segmentIds": [
-        "seg-131",
-        "seg-132",
-        "seg-133"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-043",
-      "part": 3,
-      "startTime": 1112.11,
-      "endTime": 1133.91,
+      "startTime": 1109.82,
+      "endTime": 1132.38,
       "text": "Whereas this year spring came earlier and lasted longer. Right. And another thing we should mention is ragweed. As an example of a plant species moving into new areas as a result of climate change. Yes. In the US it's already the major allergen affecting millions of people in August and September.",
       "segmentIds": [
-        "seg-134",
-        "seg-135",
-        "seg-136",
-        "seg-137",
-        "seg-138"
+        "seg-129",
+        "seg-130",
+        "seg-131",
+        "seg-132"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-044",
+      "id": "long-035",
       "part": 3,
-      "startTime": 1133.91,
-      "endTime": 1169.97,
-      "text": "But we're starting to see it grow in Europe for the first time, which is really worrying because it's so allergenic. The problem with tree pollen is also worse in cities because there are so many hard surfaces around and the pollen doesn't get absorbed so much, just stays in the air. Yeah. Wasn't the pollen shown to be three times higher in one city?",
+      "startTime": 1132.52,
+      "endTime": 1152.14,
+      "text": "But we're starting to see it grow in Europe for the first time, which is really worrying because it's so allergenic. The problem with tree pollen is also worse in cities because there are so many hard surfaces around and the pollen doesn't get absorbed so much, just stays in the air. Yeah.",
       "segmentIds": [
+        "seg-133",
+        "seg-134",
+        "seg-135"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 3,
+      "startTime": 1152.14,
+      "endTime": 1163.7,
+      "text": "Wasn't the pollen shown to be three times higher in one city? I think so. So because of this, many cities have started to ban the planting of certain types of trees.",
+      "segmentIds": [
+        "seg-136",
+        "seg-137"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 1206.72,
+      "endTime": 1226.88,
+      "text": "So shall we look at the different data tables for seasonal changes for pollen in Europe? OK, but I think we should just focus on the trees and plants which we have the most data for. So that's oak trees and birch trees and grass. Yes, that makes it more manageable.",
+      "segmentIds": [
+        "seg-138",
         "seg-139",
         "seg-140",
         "seg-141"
@@ -3276,231 +3128,191 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-045",
+      "id": "long-038",
       "part": 3,
-      "startTime": 1169.97,
-      "endTime": 1194.47,
-      "text": "I think so. So because of this, many cities have started to ban the planting of certain types of trees. Before you hear the rest of the discussion, you have some time to look at questions 26 to 30 on page 6.",
+      "startTime": 1227.2,
+      "endTime": 1249.96,
+      "text": "Shall we go through the data for each country in detail and pick out anything interesting? So starting with Austria. Well, here we've only got data for birch pollen. I wonder why there's no data for oak or grass? It would be interesting to compare with neighbouring countries. True.",
       "segmentIds": [
         "seg-142",
         "seg-143",
-        "seg-144"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-046",
-      "part": 3,
-      "startTime": 1194.47,
-      "endTime": 1221.0,
-      "text": "Now listen and answer questions 26 to 30. So shall we look at the different data tables for seasonal changes for pollen in Europe? OK, but I think we should just focus on the trees and plants which we have the most data for.",
-      "segmentIds": [
+        "seg-144",
         "seg-145",
-        "seg-146",
-        "seg-147"
+        "seg-146"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-047",
+      "id": "long-039",
       "part": 3,
-      "startTime": 1222.0,
-      "endTime": 1242.68,
-      "text": "So that's oak trees and birch trees and grass. Yes, that makes it more manageable. Shall we go through the data for each country in detail and pick out anything interesting? All right. So starting with Austria. Well, here we've only got data for birch pollen.",
+      "startTime": 1250.24,
+      "endTime": 1269.66,
+      "text": "The picture in France is unusual. Yes. The pollen season starts earlier for both oak and birch, but it doesn't start any earlier for grass. I wonder why that is? In the Netherlands, we've got complete data for all three plants. So what does it show?",
       "segmentIds": [
+        "seg-147",
         "seg-148",
         "seg-149",
-        "seg-150"
+        "seg-150",
+        "seg-151"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-048",
+      "id": "long-040",
       "part": 3,
-      "startTime": 1242.68,
-      "endTime": 1263.16,
-      "text": "I wonder why there's no data for oak or grass? Hmm. It would be interesting to compare with neighbouring countries. True. The picture in France is unusual. Yes. The pollen season starts earlier for both oak and birch, but it doesn't start any earlier for grass.",
+      "startTime": 1270.86,
+      "endTime": 1294.36,
+      "text": "Grass and birch pollen are only starting a few days earlier, but oak pollen is starting much earlier. Eighteen days, in fact. Hmm, that's unusual. There's not such a big difference in other countries. No. Switzerland's an interesting case. The pollen season starts here earlier than in the past for oak, birch and grass.",
       "segmentIds": [
-        "seg-151",
         "seg-152",
         "seg-153",
         "seg-154",
-        "seg-155"
+        "seg-155",
+        "seg-156"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-049",
+      "id": "long-041",
       "part": 3,
-      "startTime": 1263.16,
-      "endTime": 1283.28,
-      "text": "I wonder why that is? In the Netherlands, we've got complete data for all three plants. So what does it show? Grass and birch pollen are only starting a few days earlier, but oak pollen is starting much earlier. Eighteen days, in fact. Hmm, that's unusual.",
+      "startTime": 1294.66,
+      "endTime": 1319.88,
+      "text": "Yeah, from 21 days to 14 days earlier. Yeah. The UK shows a different picture again. Yeah. Here the problem is that wet summers have extended the grass pollen season from five weeks to eight weeks, which is bad news for allergy sufferers. Right. Well, I think we should have another look.",
       "segmentIds": [
-        "seg-156",
         "seg-157",
         "seg-158",
-        "seg-159"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-050",
-      "part": 3,
-      "startTime": 1283.28,
-      "endTime": 1304.24,
-      "text": "There's not such a big difference in other countries. No. Switzerland's an interesting case. The pollen season starts here earlier than in the past for oak, birch and grass. Yeah, from 21 days to 14 days earlier. Yeah. The UK shows a different picture again. Yeah.",
-      "segmentIds": [
+        "seg-159",
         "seg-160",
-        "seg-161",
-        "seg-162"
+        "seg-161"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-051",
-      "part": 3,
-      "startTime": 1304.24,
-      "endTime": 1321.43,
-      "text": "Here the problem is that wet summers have extended the grass pollen season from five weeks to eight weeks, which is bad news for allergy sufferers. Right.",
+      "id": "long-042",
+      "part": 4,
+      "startTime": 1430.48,
+      "endTime": 1451.46,
+      "text": "For my investigation into the history and uses of plant products, I have focused on the cultivation and production of saffron, an expensive bright yellow spice made from crocus flowers. Unlike most other species of crocus, the saffron crocus doesn't flower in February or March,",
       "segmentIds": [
+        "seg-162",
         "seg-163",
         "seg-164"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-052",
-      "part": 3,
-      "startTime": 1321.43,
-      "endTime": 1359.43,
-      "text": "Well, I think we should have another look.",
+      "id": "long-043",
+      "part": 4,
+      "startTime": 1451.74,
+      "endTime": 1470.98,
+      "text": "but in October, when it produces fragrant lilac-colored flowers, which are harvested at that time. During the harvest, the flower petals are discarded and only the stigmas, the three dark orange or red-colored reproductive parts of the flower, are commercially used.",
       "segmentIds": [
-        "seg-165"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-053",
-      "part": 3,
-      "startTime": 1359.43,
-      "endTime": 1385.67,
-      "text": "That is the end of section 3.",
-      "segmentIds": [
-        "seg-166"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-054",
-      "part": 3,
-      "startTime": 1385.67,
-      "endTime": 1430.0,
-      "text": "You now have half a minute to check your answers.",
-      "segmentIds": [
+        "seg-165",
+        "seg-166",
         "seg-167"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-055",
+      "id": "long-044",
       "part": 4,
-      "startTime": 1430.0,
-      "endTime": 1437.81,
-      "text": "Now turn to section 4 on page 7. You will hear a student who is studying food science giving a presentation on a spice called saffron. First, you have some time to look at questions 31 to 40. Now listen carefully and answer questions 31 to 40. For my investigation into the history and uses of plant products,",
+      "startTime": 1471.34,
+      "endTime": 1489.82,
+      "text": "One person must pick for almost 400 hours to produce just one kilo of saffron, and amazingly, to produce just 50 grams, it takes about 14,000 individual stigmas. No wonder the spice is so expensive!",
       "segmentIds": [
         "seg-168",
         "seg-169",
-        "seg-170",
+        "seg-170"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 4,
+      "startTime": 1490.4,
+      "endTime": 1510.64,
+      "text": "After this painstaking harvesting, and to preserve the intensive taste, smell, and color of the product, the stigmas are subject to a process of drying, by which some 98% of their moisture content is removed. This makes it possible to keep saffron on the shelf to be used for many years.",
+      "segmentIds": [
         "seg-171",
-        "seg-172"
+        "seg-172",
+        "seg-173"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-056",
+      "id": "long-046",
       "part": 4,
-      "startTime": 1437.81,
-      "endTime": 1460.69,
-      "text": "I have focused on the cultivation and production of saffron, an expensive bright yellow spice made from crocus flowers. Unlike most other species of crocus, the saffron crocus doesn't flower in February or March, but in October, when it produces fragrant lilac-colored flowers, which are harvested at that time.",
+      "startTime": 1510.78,
+      "endTime": 1535.18,
+      "text": "The highly prized spice is famous for the flavor and aroma it imparts, which are often compared to that of honey. Saffron is also prized for its rich golden color, which makes food look so tempting and indulgent. If you want to buy some of this fabled spice, you will find that saffron is either sold as whole stigmas or ground up as a powder.",
       "segmentIds": [
-        "seg-173",
         "seg-174",
-        "seg-175"
+        "seg-175",
+        "seg-176"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-057",
+      "id": "long-047",
       "part": 4,
-      "startTime": 1460.69,
-      "endTime": 1480.16,
-      "text": "During the harvest, the flower petals are discarded and only the stigmas, the three dark orange or red-colored reproductive parts of the flower, are commercially used. One person must pick for almost 400 hours to produce just one kilo of saffron,",
+      "startTime": 1539.98,
+      "endTime": 1558.98,
+      "text": "Today, saffron is used in both Eastern and Western cuisines, to add both color and flavor to an enormous range of recipes, though cooks would agree that it is most commonly added to recipes for the cooking of rice, because somehow it seems to complement such dishes perfectly.",
       "segmentIds": [
-        "seg-176",
         "seg-177",
-        "seg-178"
+        "seg-178",
+        "seg-179"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-058",
+      "id": "long-048",
       "part": 4,
-      "startTime": 1480.16,
-      "endTime": 1497.7,
-      "text": "and amazingly, to produce just 50 grams, it takes about 14,000 individual stigmas. No wonder the spice is so expensive! After this painstaking harvesting, and to preserve the intensive taste, smell, and color of the product,",
+      "startTime": 1559.06,
+      "endTime": 1578.88,
+      "text": "It is found to varying degrees in Italian, Spanish, Indian, and Iranian food. Although food preparation is its most common present-day use, medical research indicates that saffron may have important applications as a drug in the clinical treatment of a number of eye disorders.",
       "segmentIds": [
-        "seg-179",
         "seg-180",
-        "seg-181"
+        "seg-181",
+        "seg-182"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-059",
+      "id": "long-049",
       "part": 4,
-      "startTime": 1497.7,
-      "endTime": 1520.95,
-      "text": "the stigmas are subject to a process of drying, by which some 98% of their moisture content is removed. This makes it possible to keep saffron on the shelf to be used for many years. The highly prized spice is famous for the flavor and aroma it imparts, which are often compared to that of honey.",
+      "startTime": 1579.3,
+      "endTime": 1603.18,
+      "text": "Patients given saffron in their regular diet seem to show remarkable signs of recovery from serious conditions. And although scientists are still unsure of exactly why, recent experiments with laboratory rats have shown saffron to be effective in protecting the animals from damage caused when they are exposed to potentially harmful lights.",
       "segmentIds": [
-        "seg-182",
         "seg-183",
-        "seg-184"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-060",
-      "part": 4,
-      "startTime": 1520.95,
-      "endTime": 1550.65,
-      "text": "Saffron is also prized for its rich golden color, which makes food look so tempting and indulgent. If you want to buy some of this fabled spice, you will find that saffron is either sold as whole stigmas or ground up as a powder. Today, saffron is used in both Eastern and Western cuisines, to add both color and flavor to an enormous range of recipes,",
-      "segmentIds": [
+        "seg-184",
         "seg-185",
-        "seg-186",
-        "seg-187"
+        "seg-186"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-061",
+      "id": "long-050",
       "part": 4,
-      "startTime": 1550.65,
-      "endTime": 1571.29,
-      "text": "though cooks would agree that it is most commonly added to recipes for the cooking of rice, because somehow it seems to complement such dishes perfectly. It is found to varying degrees in Italian, Spanish, Indian, and Iranian food. Although food preparation is its most common present-day use,",
+      "startTime": 1603.8,
+      "endTime": 1628.26,
+      "text": "Now, I'd like to give a few examples of how saffron has been used since ancient times. Some of the earliest evidence of saffron cultivation comes from archaeological excavations dating back 4,000 years on the island of Crete, where paintings and other artifacts have been found indicating that women wore beautiful saffron-colored clothes.",
       "segmentIds": [
+        "seg-187",
         "seg-188",
-        "seg-189",
-        "seg-190"
+        "seg-189"
       ],
       "timestampSource": "exact"
     },
     {
-      "id": "long-062",
+      "id": "long-051",
       "part": 4,
-      "startTime": 1571.29,
-      "endTime": 1605.95,
-      "text": "medical research indicates that saffron may have important applications as a drug in the clinical treatment of a number of eye disorders. Patients given saffron in their regular diet seem to show remarkable signs of recovery from serious conditions. And although scientists are still unsure of exactly why, recent experiments with laboratory rats have shown saffron to be effective in protecting the animals from damage caused when they are exposed to potentially harmful lights.",
+      "startTime": 1628.76,
+      "endTime": 1651.58,
+      "text": "This is the earliest evidence of saffron being used as a dye. During the Roman Empire, saffron oil was produced, which, because of both its color and aroma, was used to create cosmetics. But only the wealthiest citizens could afford these. Another use of saffron was to be found in the public baths.",
       "segmentIds": [
+        "seg-190",
         "seg-191",
         "seg-192",
         "seg-193"
@@ -3508,11 +3320,11 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-063",
+      "id": "long-052",
       "part": 4,
-      "startTime": 1605.95,
-      "endTime": 1631.42,
-      "text": "Now, I'd like to give a few examples of how saffron has been used since ancient times. Some of the earliest evidence of saffron cultivation comes from archaeological excavations dating back 4,000 years on the island of Crete, where paintings and other artifacts have been found indicating that women wore beautiful saffron-colored clothes.",
+      "startTime": 1651.98,
+      "endTime": 1670.58,
+      "text": "There, saffron was used as a perfume to keep the places smelling fresh and aromatic. It is even said that the streets of Rome were strewn with saffron threads to greet Emperor Nero as an extravagant and sweet-smelling gesture when he made a triumphal entrance into the city.",
       "segmentIds": [
         "seg-194",
         "seg-195",
@@ -3521,53 +3333,16 @@
       "timestampSource": "exact"
     },
     {
-      "id": "long-064",
+      "id": "long-053",
       "part": 4,
-      "startTime": 1631.42,
-      "endTime": 1653.97,
-      "text": "This is the earliest evidence of saffron being used as a dye. During the Roman Empire, saffron oil was produced, which, because of both its color and aroma, was used to create cosmetics. But only the wealthiest citizens could afford these. Another use of saffron was to be found in the public baths.",
+      "startTime": 1672.74,
+      "endTime": 1699.54,
+      "text": "Other parts of the ancient world used saffron extensively. One of the most well-known examples was in Persia, which is modern-day Iran, where saffron was a vital part of the process of manufacturing carpets. Being used as a traditional dye, along with other natural products like berries and minerals. To end my presentation, I'd like to read out a recipe written by.",
       "segmentIds": [
         "seg-197",
         "seg-198",
         "seg-199",
         "seg-200"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-065",
-      "part": 4,
-      "startTime": 1653.97,
-      "endTime": 1678.76,
-      "text": "There, saffron was used as a perfume to keep the places smelling fresh and aromatic. It is even said that the streets of Rome were strewn with saffron threads to greet Emperor Nero as an extravagant and sweet-smelling gesture when he made a triumphal entrance into the city. Other parts of the ancient world used saffron extensively.",
-      "segmentIds": [
-        "seg-201",
-        "seg-202",
-        "seg-203"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-066",
-      "part": 4,
-      "startTime": 1678.76,
-      "endTime": 1706.19,
-      "text": "One of the most well-known examples was in Persia, which is modern-day Iran, where saffron was a vital part of the process of manufacturing carpets. Being used as a traditional dye, along with other natural products like berries and minerals. To end my presentation, I'd like to read out a recipe written by… That is the end of Part 4.",
-      "segmentIds": [
-        "seg-204",
-        "seg-205",
-        "seg-206"
-      ],
-      "timestampSource": "exact"
-    },
-    {
-      "id": "long-067",
-      "part": 4,
-      "startTime": 1706.19,
-      "endTime": 1711.0,
-      "text": "You now have one minute to check your answers to Part 4",
-      "segmentIds": [
-        "seg-207"
       ],
       "timestampSource": "exact"
     }

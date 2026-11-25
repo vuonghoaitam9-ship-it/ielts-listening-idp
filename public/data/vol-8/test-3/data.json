@@ -11,8 +11,8 @@
   ],
   "audioUrl": "./data/vol-8/test-3/audio.mp3",
   "audioDurationSec": 1550.37,
-  "hasExactTimestamps": false,
-  "timestampNote": "Tài liệu gốc Vol 8 không đính kèm mốc giờ từng câu; hệ thống ước lượng tỷ lệ theo độ dài audio gốc. Bạn có thể tinh chỉnh bằng trình biên tập Timestamp / SRT.",
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian đã được căn chỉnh trực tiếp từ audio gốc ở mức từng từ (acoustic forced alignment).",
   "parts": [
     {
       "partNumber": 1,
@@ -22,7 +22,7 @@
         10
       ],
       "startTime": 0.0,
-      "endTime": 464.96,
+      "endTime": 426.7,
       "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
     },
     {
@@ -32,8 +32,8 @@
         11,
         20
       ],
-      "startTime": 464.96,
-      "endTime": 807.12,
+      "startTime": 457.18,
+      "endTime": 777.98,
       "topicHint": "You will hear a talk about two new initiatives to encourage bicycle use in a city in Australia."
     },
     {
@@ -43,8 +43,8 @@
         21,
         30
       ],
-      "startTime": 807.12,
-      "endTime": 1246.88,
+      "startTime": 808.46,
+      "endTime": 1222.98,
       "topicHint": "You will hear two students called Sylvia and Greg discussing their project on renewable energy."
     },
     {
@@ -54,8 +54,8 @@
         31,
         40
       ],
-      "startTime": 1246.88,
-      "endTime": 1548.37,
+      "startTime": 1253.44,
+      "endTime": 1548.2,
       "topicHint": "You will hear part of a presentation given by a business student on an assignment about absence from work."
     }
   ],
@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "roup details: three adults and two children Date of arrival: 1__________ (staying for 2 weeks) Week One Accommodation: • Book a 2__________ on the beach • Budge is around 3__________ a night Activities: • The children want to go 4__________ – arrange for them to have a 5__________ • Book a time for Susan and Jenny to pla",
+      "promptContext": "Date of arrival:",
       "answerRaw": "October 15 ,October 15th,15 October,15th October",
       "canonicalAnswer": "October 15",
       "acceptedAnswers": [
@@ -73,25 +73,20 @@
         "15th October"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "So they start on the 12th of October, don't they? Yes, but we'll be arriving on the 15th and we want to stay for a fortnight.",
-      "evidenceStartTime": 162.55,
-      "evidenceEndTime": 173.66,
-      "paraphrases": [
-        {
-          "questionTerm": "accommodation",
-          "audioTerm": "stay"
-        }
-      ],
+      "evidenceQuote": "So they start on the 12th of October, don't they? Yes, but we'll be arriving on the 15th and we want to stay for a fortnight. Right, got all that.",
+      "evidenceStartTime": 188.94,
+      "evidenceEndTime": 198.66,
+      "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"October 15\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'accommodation' ↔ 'stay'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"October 15\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 2,
       "part": 1,
-      "promptContext": "s and two children Date of arrival: 1__________ (staying for 2 weeks) Week One Accommodation: • Book a 2__________ on the beach • Budge is around 3__________ a night Activities: • The children want to go 4__________ – arrange for them to have a 5__________ • Book a time for Susan and Jenny to play 6__________ • Duncan wa",
+      "promptContext": "(staying for weeks)",
       "answerRaw": "hotel",
       "canonicalAnswer": "hotel",
       "acceptedAnswers": [
@@ -99,43 +94,33 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "In the first week, we'd like a bit of luxury and we're planning on staying in a hotel on the beach if possible.",
-      "evidenceStartTime": 190.22,
-      "evidenceEndTime": 200.16,
-      "paraphrases": [
-        {
-          "questionTerm": "accommodation",
-          "audioTerm": "hotel"
-        }
-      ],
+      "evidenceStartTime": 207.2,
+      "evidenceEndTime": 213.9,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"hotel\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'accommodation' ↔ 'hotel'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"hotel\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 3,
       "part": 1,
-      "promptContext": "odation: • Book a 2__________ on the beach • Budge is around 3__________ a night Activities: • The children want to go 4__________ – arrange for them to have a 5__________ • Book a time for Susan and Jenny to play 6__________ • Duncan wants to go 7__________ – send some information Week Two Accommodation: National Park-",
+      "promptContext": "on the beach • Budge is around",
       "answerRaw": "175",
       "canonicalAnswer": "175",
       "acceptedAnswers": [
         "175"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "You'd have to spend at least $175 for a big enough room. OK, we can stretch to that.",
-      "evidenceStartTime": 223.53,
-      "evidenceEndTime": 231.05,
-      "paraphrases": [
-        {
-          "questionTerm": "accommodation",
-          "audioTerm": "room"
-        }
-      ],
+      "evidenceQuote": "You'd have to spend at least $175 for a big enough room.",
+      "evidenceStartTime": 231.14,
+      "evidenceEndTime": 234.64,
+      "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"175\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'accommodation' ↔ 'room'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"175\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 4,
       "part": 1,
-      "promptContext": "nd 3__________ a night Activities: • The children want to go 4__________ – arrange for them to have a 5__________ • Book a time for Susan and Jenny to play 6__________ • Duncan wants to go 7__________ – send some information Week Two Accommodation: National Park- book a 8__________ ($100 per night) Activities: • Arrange",
+      "promptContext": "a night Activities: • The children want to go",
       "answerRaw": "sailing",
       "canonicalAnswer": "sailing",
       "acceptedAnswers": [
@@ -143,8 +128,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "They want to try sailing this year. Last year it was surfing. They were mad about it.",
-      "evidenceStartTime": 254.15,
-      "evidenceEndTime": 261.76,
+      "evidenceStartTime": 252.44,
+      "evidenceEndTime": 257.8,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"sailing\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -152,16 +137,16 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "children want to go 4__________ – arrange for them to have a 5__________ • Book a time for Susan and Jenny to play 6__________ • Duncan wants to go 7__________ – send some information Week Two Accommodation: National Park- book a 8__________ ($100 per night) Activities: • Arrange a 9__________ for Jenny • Send Duncan a 1",
+      "promptContext": "– arrange for them to have a",
       "answerRaw": "class",
       "canonicalAnswer": "class",
       "acceptedAnswers": [
         "class"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I know someone who can teach them to sail. Would you like me to organise a class for them?",
-      "evidenceStartTime": 268.83,
-      "evidenceEndTime": 276.89,
+      "evidenceQuote": "Would you like me to organise a class for them? Wonderful.",
+      "evidenceStartTime": 264.62,
+      "evidenceEndTime": 268.0,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"class\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -169,36 +154,33 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "have a 5__________ • Book a time for Susan and Jenny to play 6__________ • Duncan wants to go 7__________ – send some information Week Two Accommodation: National Park- book a 8__________ ($100 per night) Activities: • Arrange a 9__________ for Jenny • Send Duncan a 10__________ for Marco’s",
+      "promptContext": "• Book a time for Susan and Jenny to play",
       "answerRaw": "golf",
       "canonicalAnswer": "golf",
       "acceptedAnswers": [
         "golf"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "She loves bushwalking but obviously my mother can't manage that. Can I suggest golf for them both? It's a gentler kind of walk.",
-      "evidenceStartTime": 293.73,
-      "evidenceEndTime": 305.01,
+      "evidenceQuote": "Can I suggest golf for them both? It's a gentler kind of walk.",
+      "evidenceStartTime": 283.5,
+      "evidenceEndTime": 287.22,
       "paraphrases": [],
-      "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
-        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"golf\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"golf\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 7,
       "part": 1,
-      "promptContext": "for Susan and Jenny to play 6__________ • Duncan wants to go 7__________ – send some information Week Two Accommodation: National Park- book a 8__________ ($100 per night) Activities: • Arrange a 9__________ for Jenny • Send Duncan a 10__________ for Marco’s",
+      "promptContext": "• Duncan wants to go",
       "answerRaw": "fishing",
       "canonicalAnswer": "fishing",
       "acceptedAnswers": [
         "fishing"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "OK, I'll organise a time. Thanks. Could you send me some leaflets about fishing in the area?",
-      "evidenceStartTime": 312.35,
-      "evidenceEndTime": 320.59,
+      "evidenceQuote": "Could you send me some leaflets about fishing in the area?",
+      "evidenceStartTime": 294.84,
+      "evidenceEndTime": 297.86,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"fishing\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -206,7 +188,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "me information Week Two Accommodation: National Park- book a 8__________ ($100 per night) Activities: • Arrange a 9__________ for Jenny • Send Duncan a 10__________ for Marco’s",
+      "promptContext": "– send some information Week Two Accommodation: National Park- book a",
       "answerRaw": "caravan",
       "canonicalAnswer": "caravan",
       "acceptedAnswers": [
@@ -214,8 +196,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Yes, we did think about renting a house but I'm worried about the cost. Is there anything a bit cheaper, say a caravan or even a cabin?",
-      "evidenceStartTime": 363.21,
-      "evidenceEndTime": 375.21,
+      "evidenceStartTime": 350.12,
+      "evidenceEndTime": 358.44,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -225,7 +207,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "book a 8__________ ($100 per night) Activities: • Arrange a 9__________ for Jenny • Send Duncan a 10__________ for Marco’s",
+      "promptContext": "($100 per night) Activities: • Arrange a",
       "answerRaw": "massage",
       "canonicalAnswer": "massage",
       "acceptedAnswers": [
@@ -233,8 +215,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Well, it's actually going to be my wife's birthday so I'd like to do something a bit special for her. I can book a really nice massage for her after lunch on that day. Lovely.",
-      "evidenceStartTime": 401.0,
-      "evidenceEndTime": 416.58,
+      "evidenceStartTime": 377.02,
+      "evidenceEndTime": 387.46,
       "paraphrases": [],
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')"
@@ -244,16 +226,16 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "ctivities: • Arrange a 9__________ for Jenny • Send Duncan a 10__________ for Marco’s",
+      "promptContext": "for Jenny • Send Duncan a",
       "answerRaw": "menu",
       "canonicalAnswer": "menu",
       "acceptedAnswers": [
         "menu"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I've got two very fussy daughters. Could you send me their menu so we can check it'll be OK?",
-      "evidenceStartTime": 445.95,
-      "evidenceEndTime": 454.19,
+      "evidenceQuote": "Could you send me their menu so we can check it'll be OK? No problem, Duncan.",
+      "evidenceStartTime": 412.06,
+      "evidenceEndTime": 416.56,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"menu\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -261,7 +243,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "log on at the computer terminal ↓ Select a bike by using the 11__________ ↓ Release the bike by using the 12__________ – of your chosen bike ↓ Remove the bike from the 13__________ (You have ten seconds.) ↓ Make sure you have a 14__________ before setting off ↓ At the end of your journey, return the bike to a station and",
+      "promptContext": "Select a bike by using the",
       "answerRaw": "H screen",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -271,8 +253,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "You'll be shown a diagram of the bikes that are currently available at the station, so you just choose the one you want by touching the screen.",
-      "evidenceStartTime": 542.77,
-      "evidenceEndTime": 555.56,
+      "evidenceStartTime": 558.36,
+      "evidenceEndTime": 564.92,
       "paraphrases": [
         {
           "questionTerm": "select",
@@ -285,7 +267,7 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "ke by using the 11__________ ↓ Release the bike by using the 12__________ – of your chosen bike ↓ Remove the bike from the 13__________ (You have ten seconds.) ↓ Make sure you have a 14__________ before setting off ↓ At the end of your journey, return the bike to a station and secure in place (A 15__________ – will tell y",
+      "promptContext": "↓ Release the bike by using the",
       "answerRaw": "A button",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -295,8 +277,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Once you've chosen your bike, you can then go to where the bikes are stored and push the release button.",
-      "evidenceStartTime": 558.96,
-      "evidenceEndTime": 568.26,
+      "evidenceStartTime": 567.7,
+      "evidenceEndTime": 573.18,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án A button. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -304,7 +286,7 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": "2__________ – of your chosen bike ↓ Remove the bike from the 13__________ (You have ten seconds.) ↓ Make sure you have a 14__________ before setting off ↓ At the end of your journey, return the bike to a station and secure in place (A 15__________ – will tell you the bike is locked correctly) A button B website C helmet D",
+      "promptContext": "– of your chosen bike ↓ Remove the bike from the",
       "answerRaw": "G rack",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -314,8 +296,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Once you've chosen your bike, you can then go to where the bikes are stored and push the release button. After you do that, you have about 10 seconds to take the bike out of the rack.",
-      "evidenceStartTime": 558.96,
-      "evidenceEndTime": 575.24,
+      "evidenceStartTime": 567.7,
+      "evidenceEndTime": 577.74,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án G rack. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -323,7 +305,7 @@
     {
       "number": 14,
       "part": 2,
-      "promptContext": "13__________ (You have ten seconds.) ↓ Make sure you have a 14__________ before setting off ↓ At the end of your journey, return the bike to a station and secure in place (A 15__________ – will tell you the bike is locked correctly) A button B website C helmet D light E locker F password G rack H screen I sound",
+      "promptContext": "(You have ten seconds.) ↓ Make sure you have a",
       "answerRaw": "C helmet",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -333,8 +315,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Oh, at this point, can I just clarify something that a few people have been asking, and that is, do I have to wear a helmet?",
-      "evidenceStartTime": 586.6,
-      "evidenceEndTime": 597.69,
+      "evidenceStartTime": 587.14,
+      "evidenceEndTime": 594.6,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án C helmet. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -342,7 +324,7 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "journey, return the bike to a station and secure in place (A 15__________ – will tell you the bike is locked correctly) A button B website C helmet D light E locker F password G rack H screen I sound",
+      "promptContext": "__________ – will tell you the bike is locked correctly) A button B website C helmet D light E locker F password G rack H screen I sound",
       "answerRaw": "D light",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -352,8 +334,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The green light on the rack will confirm that it has been locked into place, so we hope that with such a simple scheme, we'll have many users.",
-      "evidenceStartTime": 629.81,
-      "evidenceEndTime": 642.51,
+      "evidenceStartTime": 615.92,
+      "evidenceEndTime": 624.08,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án đúng là phương án D light. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -368,9 +350,9 @@
         "E"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Let's turn to another initiative, the layout of the new Council Bicycle Centre, which will be opening next week.",
-      "evidenceStartTime": 654.86,
-      "evidenceEndTime": 664.88,
+      "evidenceQuote": "If you have any valuables with you, you can leave these in our lockers.",
+      "evidenceStartTime": 742.3,
+      "evidenceEndTime": 746.12,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -385,9 +367,9 @@
         "F"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "If you look at the bottom towards the right-hand corner, you'll see where the cyclists enter the centre.",
-      "evidenceStartTime": 679.83,
-      "evidenceEndTime": 689.13,
+      "evidenceQuote": "The locker room is in the top left-hand corner of your plan, so you can store your bag or wallet there before you head off for a shower.",
+      "evidenceStartTime": 746.2,
+      "evidenceEndTime": 754.28,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"F\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -402,9 +384,9 @@
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "That's it in the top right-hand corner. Now, there's another special service for the cyclists that I'd like to show you.",
-      "evidenceStartTime": 720.53,
-      "evidenceEndTime": 731.18,
+      "evidenceQuote": "We've installed 10 state-of-the-art power showers. They are located in this room here, to the left of the hairdryers and just near the exit.",
+      "evidenceStartTime": 754.48,
+      "evidenceEndTime": 763.22,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -419,14 +401,12 @@
         "H"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "We've put a lot of thought into the facilities of the centre.",
-      "evidenceStartTime": 753.0,
-      "evidenceEndTime": 758.46,
+      "evidenceQuote": "They are located in this room here, to the left of the hairdryers and just near the exit.",
+      "evidenceStartTime": 757.54,
+      "evidenceEndTime": 763.22,
       "paraphrases": [],
-      "distractors": [
-        "suy đoán ban đầu ('thought') khác với thực tế"
-      ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"H\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"H\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 20,
@@ -438,9 +418,9 @@
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "They are located in this room here, to the left of the hairdryers and just near the exit.",
-      "evidenceStartTime": 781.45,
-      "evidenceEndTime": 789.41,
+      "evidenceQuote": "There's also a water cooler available, so you can grab a drink and then pick up a towel next to the water cooler there.",
+      "evidenceStartTime": 763.66,
+      "evidenceEndTime": 772.98,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -448,7 +428,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "e attached to ships by long cables can use wind power in any 21__________ could reduce toxic emissions by 50% b) Sports car produced by US company uses 22__________ as a power source will have zero emissions c) Ethanol stoves produced in South Africa are safer than paraffin stoves as less likely to 23__________ Questions",
+      "promptContext": "can use wind power in any",
       "answerRaw": "weather",
       "canonicalAnswer": "weather",
       "acceptedAnswers": [
@@ -456,8 +436,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "And it means that they can be powered by the wind no matter what the weather.",
-      "evidenceStartTime": 889.65,
-      "evidenceEndTime": 896.54,
+      "evidenceStartTime": 912.74,
+      "evidenceEndTime": 916.92,
       "paraphrases": [
         {
           "questionTerm": "wind",
@@ -470,7 +450,7 @@
     {
       "number": 22,
       "part": 3,
-      "promptContext": "c emissions by 50% b) Sports car produced by US company uses 22__________ as a power source will have zero emissions c) Ethanol stoves produced in South Africa are safer than paraffin stoves as less likely to 23__________ Questions 24–25 Choose TWO correct answers. 24–25 Who will Sylvia and Greg ask to take part in the su",
+      "promptContext": "could reduce toxic emissions by 50% b) Sports car produced by US company uses",
       "answerRaw": "electricity",
       "canonicalAnswer": "electricity",
       "acceptedAnswers": [
@@ -478,8 +458,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Apparently they're producing a sports car which doesn't use petrol at all, just electricity.",
-      "evidenceStartTime": 936.1,
-      "evidenceEndTime": 944.33,
+      "evidenceStartTime": 947.76,
+      "evidenceEndTime": 953.56,
       "paraphrases": [],
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
@@ -489,16 +469,16 @@
     {
       "number": 23,
       "part": 3,
-      "promptContext": "outh Africa are safer than paraffin stoves as less likely to 23__________ Questions 24–25 Choose TWO correct answers. 24–25 Who will Sylvia and Greg ask to take part in the survey? A. companies B. lecturers C. local residents D. schoolchildren E. university students Questions 26–30 Choose the correct answer. 26 What does",
+      "promptContext": "as a power source will have zero emissions c) Ethanol stoves produced in South Africa are safer than paraffin stoves as less likely to",
       "answerRaw": "explode",
       "canonicalAnswer": "explode",
       "acceptedAnswers": [
         "explode"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Most of the local people use paraffin stoves at the moment and they are dangerous because they can explode quite easily.",
-      "evidenceStartTime": 980.13,
-      "evidenceEndTime": 990.87,
+      "evidenceQuote": "Most of the local people use paraffin stoves at the moment and they are dangerous because they can explode quite easily. Right.",
+      "evidenceStartTime": 982.9,
+      "evidenceEndTime": 991.04,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"explode\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -506,7 +486,7 @@
     {
       "number": 24,
       "part": 3,
-      "promptContext": "to 23__________ Questions 24–25 Choose TWO correct answers. 24–25 Who will Sylvia and Greg ask to take part in the survey? A. companies B. lecturers C. local residents D. schoolchildren E. university students Questions 26–30 Choose the correct answer. 26 What does Sylvia say about people's knowledge of renewable energy? A.",
+      "promptContext": "Who will Sylvia and Greg ask to take part in the survey? A. companies B. lecturers C. local residents D. schoolchildren E. university students Questions 26–30 Choose the correct answer.",
       "answerRaw": "C, E",
       "canonicalAnswer": "C, E",
       "acceptedAnswers": [
@@ -524,14 +504,12 @@
           "E"
         ]
       },
-      "evidenceQuote": "I think it's easier to do a survey of the general public rather than local companies. Why?",
-      "evidenceStartTime": 1004.66,
-      "evidenceEndTime": 1012.72,
+      "evidenceQuote": "What about the other students and the lecturers here in the university?",
+      "evidenceStartTime": 1017.98,
+      "evidenceEndTime": 1022.5,
       "paraphrases": [],
-      "distractors": [
-        "loại trừ phương án đối chiếu ('rather than')"
-      ],
-      "explanationVi": "Câu 24–25 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
+      "distractors": [],
+      "explanationVi": "Câu 24–25 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 25,
@@ -554,19 +532,17 @@
           "E"
         ]
       },
-      "evidenceQuote": "I think it's easier to do a survey of the general public rather than local companies. Why?",
-      "evidenceStartTime": 1004.66,
-      "evidenceEndTime": 1012.72,
+      "evidenceQuote": "What about the other students and the lecturers here in the university?",
+      "evidenceStartTime": 1017.98,
+      "evidenceEndTime": 1022.5,
       "paraphrases": [],
-      "distractors": [
-        "loại trừ phương án đối chiếu ('rather than')"
-      ],
-      "explanationVi": "Câu 24–25 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
+      "distractors": [],
+      "explanationVi": "Câu 24–25 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "iversity students Questions 26–30 Choose the correct answer. 26 What does Sylvia say about people's knowledge of renewable energy? A. Many people know little about it. B. People understand it because it has been in the news recently C. People are eager to find out more about it 27 What do Sylvia and Greg decide to ask abo",
+      "promptContext": "What does Sylvia say about people's knowledge of renewable energy? A. Many people know little about it. B. People understand it because it has been in the news recently C. People are eager to find out more about it",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -574,8 +550,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Well, we need to find out if they know what renewable energy is and how familiar people are with the concept.",
-      "evidenceStartTime": 1089.89,
-      "evidenceEndTime": 1099.65,
+      "evidenceStartTime": 1106.94,
+      "evidenceEndTime": 1114.02,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -583,33 +559,35 @@
     {
       "number": 27,
       "part": 3,
-      "promptContext": "news recently C. People are eager to find out more about it 27 What do Sylvia and Greg decide to ask about traditional energy consumption? A. the best way of preventing pollution B. possible future developments C. how expensive people find it 28 What does Greg say about nuclear power? A. It is not important for their sur",
+      "promptContext": "What do Sylvia and Greg decide to ask about traditional energy consumption? A. the best way of preventing pollution B. possible future developments C. how expensive people find it",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "Well, we need to find out if they know what renewable energy is and how familiar people are with the concept.",
-      "evidenceStartTime": 1089.89,
-      "evidenceEndTime": 1099.65,
+      "evidenceQuote": "But we can have that in if you want. We also need to find out what they think about the use of traditional energy sources like gas",
+      "evidenceStartTime": 1123.0,
+      "evidenceEndTime": 1130.98,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "possible future developments C. how expensive people find it 28 What does Greg say about nuclear power? A. It is not important for their survey B. People today have a positive attitude towards it. C. Some people think it is unsafe 29 What do Sylvia and Greg agree about the cost of renewable energy ? A. Prices will drop in",
+      "promptContext": "What does Greg say about nuclear power? A. It is not important for their survey B. People today have a positive attitude towards it. C. Some people think it is unsafe",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
         "C"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "I know it's been all over the news lately, but I think a lot of people are still in the dark about it.",
-      "evidenceStartTime": 1099.65,
-      "evidenceEndTime": 1108.78,
+      "evidenceQuote": "But we ought to see what they think is going to happen to the consumption of traditional energy sources. You're right. Then there's nuclear power.",
+      "evidenceStartTime": 1139.74,
+      "evidenceEndTime": 1148.7,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
@@ -619,33 +597,35 @@
     {
       "number": 29,
       "part": 3,
-      "promptContext": "itive attitude towards it. C. Some people think it is unsafe 29 What do Sylvia and Greg agree about the cost of renewable energy ? A. Prices will drop in the future B. People won't pay the high price C. The benefits outweigh the high cost 30 Sylvia and Greg agree that modern windmills A. are the most efficient way of harn",
+      "promptContext": "What do Sylvia and Greg agree about the cost of renewable energy ? A. Prices will drop in the future B. People won't pay the high price C. The benefits outweigh the high cost",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
         "A"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "That's an interesting one because it's cleaner and more efficient in many ways than other fuels.",
-      "evidenceStartTime": 1148.52,
-      "evidenceEndTime": 1157.11,
+      "evidenceQuote": "But once people realise the benefits to us all, the price is bound to come down.",
+      "evidenceStartTime": 1176.8,
+      "evidenceEndTime": 1182.06,
       "paraphrases": [],
-      "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "'t pay the high price C. The benefits outweigh the high cost 30 Sylvia and Greg agree that modern windmills A. are the most efficient way of harnessing energy B. should be put in carefully selected locations C. make the landscape look unattractive Questions 31–40 Complete the notes below. Write ONE WORD ONLY for each answ",
+      "promptContext": "Sylvia and Greg agree that modern windmills A. are the most efficient way of harnessing energy B. should be put in carefully selected locations C. make the landscape look unattractive Questions 31–40 Complete the notes below. Write ONE WORD ONLY for each answer. Absence from work Absence may be frequent or occasional. Main factors involved • a the 31__________ of employees (e.g. females are likely to have responsibility for children) • employees’ 32__________ (but the evidence is inconclusive) • the 33__________ of the organization (absenteeism may be acceptable) • the type of work (higher absence among employees in 34__________) • the 35__________ of an employees work group Public sector versus private sector Public sector has higher absence levels Possible explanation – the public sector is less 36__________ Systems may be more bureaucratic because of 37__________ factors (e.g. state controls) More recent literature suggests public sector organisations usually • have a 38__________ workforce • have more female and more older employees • provide 39__________ for longer, with fewer restrictions • are less likely to 40__________ employer",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
         "B"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "They're pretty efficient, so perhaps it's a case of choosing the right place for them where they look least out of place.",
-      "evidenceStartTime": 1222.35,
-      "evidenceEndTime": 1233.18,
+      "evidenceQuote": "They're pretty efficient, so perhaps it's a case of choosing the right place for them where they look least out of place. A good point.",
+      "evidenceStartTime": 1202.92,
+      "evidenceEndTime": 1210.48,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -661,8 +641,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Firstly, the gender of the employee may influence his or her ability to attend work.",
-      "evidenceStartTime": 1315.01,
-      "evidenceEndTime": 1322.51,
+      "evidenceStartTime": 1365.5,
+      "evidenceEndTime": 1371.2,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"gender\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -678,8 +658,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "The next factor that has been identified is the attitude of employees toward their work.",
-      "evidenceStartTime": 1332.78,
-      "evidenceEndTime": 1340.64,
+      "evidenceStartTime": 1379.6,
+      "evidenceEndTime": 1385.32,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"attitude\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -695,8 +675,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "Some researchers have suggested that another reason for high levels of absence is that some organisations have a culture in which absence is accepted,",
-      "evidenceStartTime": 1355.02,
-      "evidenceEndTime": 1368.42,
+      "evidenceStartTime": 1396.3,
+      "evidenceEndTime": 1405.74,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"culture\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -712,8 +692,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "It's been claimed that workers in industry are more likely to have high absence rates than people who work in offices.",
-      "evidenceStartTime": 1382.62,
-      "evidenceEndTime": 1393.16,
+      "evidenceStartTime": 1416.52,
+      "evidenceEndTime": 1424.14,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"industry\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -728,9 +708,9 @@
         "size"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "For example, one of the other underlying themes in the literature is that there is a connection between how often an employee is absent and what size of work group he or she belongs to.",
-      "evidenceStartTime": 1402.0,
-      "evidenceEndTime": 1418.52,
+      "evidenceQuote": "and what size of work group he or she belongs to. Specifically, it's been found that the bigger the group, the higher the levels of absence.",
+      "evidenceStartTime": 1438.42,
+      "evidenceEndTime": 1447.84,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"size\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -746,8 +726,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "but one explanation that has been often put forwards is that in some cases, public sector organisations may not be as efficient.",
-      "evidenceStartTime": 1448.71,
-      "evidenceEndTime": 1460.14,
+      "evidenceStartTime": 1468.64,
+      "evidenceEndTime": 1477.34,
       "paraphrases": [],
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
@@ -765,15 +745,14 @@
         "external"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "but one explanation that has been often put forwards is that in some cases, public sector organisations may not be as efficient. This might be because their systems are more bureaucratic due to factors which are external rather than internal,",
-      "evidenceStartTime": 1448.71,
-      "evidenceEndTime": 1470.23,
+      "evidenceQuote": "which are external rather than internal, like the degree of control the government imposes on the public sector.",
+      "evidenceStartTime": 1482.04,
+      "evidenceEndTime": 1488.82,
       "paraphrases": [],
       "distractors": [
-        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "loại trừ phương án đối chiếu ('rather than')"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"external\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"external\". Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
     },
     {
       "number": 38,
@@ -786,8 +765,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "However, most recent literature suggests a number of other explanations. Firstly, a public sector organisation tends to have a workforce which is larger.",
-      "evidenceStartTime": 1476.57,
-      "evidenceEndTime": 1490.14,
+      "evidenceStartTime": 1489.14,
+      "evidenceEndTime": 1499.42,
       "paraphrases": [],
       "distractors": [
         "đảo chiều thông tin bằng 'however'"
@@ -804,9 +783,9 @@
         "benefits"
       ],
       "sharedGroup": null,
-      "evidenceQuote": "It is also suggested that public sector organisations are more likely to give their absent employees benefits for a longer period and are less likely to place restrictions on these.",
-      "evidenceStartTime": 1502.2,
-      "evidenceEndTime": 1518.36,
+      "evidenceQuote": "It is also suggested that public sector organisations are more likely to give their absent employees benefits for a longer period",
+      "evidenceStartTime": 1509.18,
+      "evidenceEndTime": 1517.26,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"benefits\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -822,8 +801,8 @@
       ],
       "sharedGroup": null,
       "evidenceQuote": "In addition, it's been found that public sector employers have less of a tendency to dismiss employees for being absent.",
-      "evidenceStartTime": 1518.36,
-      "evidenceEndTime": 1529.08,
+      "evidenceStartTime": 1520.8,
+      "evidenceEndTime": 1528.46,
       "paraphrases": [],
       "distractors": [],
       "explanationVi": "Đáp án chuẩn cần điền là \"dismiss\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
@@ -833,1900 +812,1783 @@
     {
       "id": "seg-001",
       "part": 1,
-      "startTime": 0.0,
-      "endTime": 9.22,
-      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear.",
-      "timestampSource": "estimated",
+      "startTime": 106.7,
+      "endTime": 111.38,
+      "text": "Beachheads Travel, Pam speaking.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-002",
       "part": 1,
-      "startTime": 9.22,
-      "endTime": 19.34,
-      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
-      "timestampSource": "estimated",
+      "startTime": 111.8,
+      "endTime": 113.46,
+      "text": "Hi, my name's Duncan.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-003",
       "part": 1,
-      "startTime": 19.34,
-      "endTime": 25.97,
-      "text": "All the recordings will be played once only. The test is in four sections.",
-      "timestampSource": "estimated",
+      "startTime": 113.46,
+      "endTime": 116.54,
+      "text": "I'm hoping you'll be able to help me organise a trip to Beachheads.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-004",
       "part": 1,
-      "startTime": 25.97,
-      "endTime": 31.07,
-      "text": "Write all your answers in the listening question booklet.",
-      "timestampSource": "estimated",
+      "startTime": 117.68,
+      "endTime": 121.96,
+      "text": "Sure, let me just fill in our customer request sheet while I'm speaking to you.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-005",
       "part": 1,
-      "startTime": 31.07,
-      "endTime": 39.76,
-      "text": "At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet.",
-      "timestampSource": "estimated",
+      "startTime": 122.3,
+      "endTime": 127.4,
+      "text": "Could you tell me your name again, please? Yes, it's Duncan. Duncan White.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-006",
       "part": 1,
-      "startTime": 39.76,
-      "endTime": 45.85,
-      "text": "Now turn to section 1 on page 2 of your question booklet. Section 1.",
-      "timestampSource": "estimated",
+      "startTime": 130.52,
+      "endTime": 136.92,
+      "text": "The man's name is Duncan White, so White has been written in the space.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-007",
       "part": 1,
-      "startTime": 45.85,
-      "endTime": 55.34,
-      "text": "You will hear a telephone conversation between a travel agent and a man who needs help planning a holiday.",
-      "timestampSource": "estimated",
+      "startTime": 136.92,
+      "endTime": 140.1,
+      "text": "Now we shall begin.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-008",
       "part": 1,
-      "startTime": 55.34,
-      "endTime": 61.07,
-      "text": "First, you have some time to look at questions 1 to 7 on page 2.",
-      "timestampSource": "estimated",
+      "startTime": 140.3,
+      "endTime": 147.18,
+      "text": "You should answer the questions as you listen because you will not hear the recording a second time.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-009",
       "part": 1,
-      "startTime": 61.07,
-      "endTime": 66.89,
-      "text": "You will see that there is an example that has been done for you.",
-      "timestampSource": "estimated",
+      "startTime": 154.94,
+      "endTime": 157.02,
+      "text": "Beachheads Travel, Pam speaking.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-010",
       "part": 1,
-      "startTime": 66.89,
-      "endTime": 73.88,
-      "text": "On this occasion only, the conversation relating to this will be played first.",
-      "timestampSource": "estimated",
+      "startTime": 157.36,
+      "endTime": 159.02,
+      "text": "Hi, my name's Duncan.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-011",
       "part": 1,
-      "startTime": 73.88,
-      "endTime": 78.72,
-      "text": "Beachheads Travel, Pam speaking. Hi, my name's Duncan.",
-      "timestampSource": "estimated",
+      "startTime": 159.02,
+      "endTime": 162.1,
+      "text": "I'm hoping you'll be able to help me organise a trip to Beachheads.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-012",
       "part": 1,
-      "startTime": 78.72,
-      "endTime": 84.72,
-      "text": "I'm hoping you'll be able to help me organise a trip to Beachheads.",
-      "timestampSource": "estimated",
+      "startTime": 163.24,
+      "endTime": 167.54,
+      "text": "Sure, let me just fill in our customer request sheet while I'm speaking to you.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-013",
       "part": 1,
-      "startTime": 84.72,
-      "endTime": 91.79,
-      "text": "Sure, let me just fill in our customer request sheet while I'm speaking to you.",
-      "timestampSource": "estimated",
+      "startTime": 167.86,
+      "endTime": 172.74,
+      "text": "Could you tell me your name again, please? Yes, it's Duncan. Duncan White.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-014",
       "part": 1,
-      "startTime": 91.79,
-      "endTime": 98.42,
-      "text": "Could you tell me your name again, please? Yes, it's Duncan. Duncan White.",
-      "timestampSource": "estimated",
+      "startTime": 173.32,
+      "endTime": 175.74,
+      "text": "OK, and is the trip just for yourself?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-015",
       "part": 1,
-      "startTime": 98.42,
-      "endTime": 106.57,
-      "text": "The man's name is Duncan White, so White has been written in the space. Now we shall begin.",
-      "timestampSource": "estimated",
+      "startTime": 176.2,
+      "endTime": 184.6,
+      "text": "No, there's three adults, myself, my wife and my mother, and our two daughters, Chloe and Eden.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-016",
       "part": 1,
-      "startTime": 106.57,
-      "endTime": 115.53,
-      "text": "You should answer the questions as you listen because you will not hear the recording a second time.",
-      "timestampSource": "estimated",
+      "startTime": 184.96,
+      "endTime": 186.68,
+      "text": "So when are you thinking of travelling?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-017",
       "part": 1,
-      "startTime": 115.53,
-      "endTime": 122.52,
-      "text": "Listen carefully and answer questions 1 to 7. Beachheads Travel, Pam speaking.",
-      "timestampSource": "estimated",
+      "startTime": 186.88,
+      "endTime": 188.5,
+      "text": "During the next school holidays.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-018",
       "part": 1,
-      "startTime": 122.52,
-      "endTime": 130.49,
-      "text": "Hi, my name's Duncan. I'm hoping you'll be able to help me organise a trip to Beachheads.",
-      "timestampSource": "estimated",
+      "startTime": 188.94,
+      "endTime": 192.02,
+      "text": "So they start on the 12th of October, don't they?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-019",
       "part": 1,
-      "startTime": 130.49,
-      "endTime": 137.56,
-      "text": "Sure, let me just fill in our customer request sheet while I'm speaking to you.",
-      "timestampSource": "estimated",
+      "startTime": 192.5,
+      "endTime": 198.66,
+      "text": "Yes, but we'll be arriving on the 15th and we want to stay for a fortnight. Right, got all that.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-020",
       "part": 1,
-      "startTime": 137.56,
-      "endTime": 144.19,
-      "text": "Could you tell me your name again, please? Yes, it's Duncan. Duncan White.",
-      "timestampSource": "estimated",
+      "startTime": 198.66,
+      "endTime": 204.04,
+      "text": "Now I'll just take a few notes about the type of holiday you want so I can make the bookings for you.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-021",
       "part": 1,
-      "startTime": 144.19,
-      "endTime": 147.59,
-      "text": "OK, and is the trip just for yourself?",
-      "timestampSource": "estimated",
+      "startTime": 204.38,
+      "endTime": 207.0,
+      "text": "Have you thought about where you want to stay while you're here?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-022",
       "part": 1,
-      "startTime": 147.59,
-      "endTime": 156.1,
-      "text": "No, there's three adults, myself, my wife and my mother, and our two daughters, Chloe and Eden.",
-      "timestampSource": "estimated",
+      "startTime": 207.2,
+      "endTime": 213.9,
+      "text": "In the first week, we'd like a bit of luxury and we're planning on staying in a hotel on the beach if possible.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-023",
       "part": 1,
-      "startTime": 156.1,
-      "endTime": 162.55,
-      "text": "So when are you thinking of travelling? During the next school holidays.",
-      "timestampSource": "estimated",
+      "startTime": 214.1,
+      "endTime": 216.28,
+      "text": "That'll be so much better than a campsite.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-024",
       "part": 1,
-      "startTime": 162.55,
-      "endTime": 166.94,
-      "text": "So they start on the 12th of October, don't they?",
-      "timestampSource": "estimated",
+      "startTime": 216.6,
+      "endTime": 221.68,
+      "text": "We usually stay in a tent when we go away, but we're going to treat ourselves this time.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-025",
       "part": 1,
-      "startTime": 166.94,
-      "endTime": 173.66,
-      "text": "Yes, but we'll be arriving on the 15th and we want to stay for a fortnight.",
-      "timestampSource": "estimated",
+      "startTime": 221.92,
+      "endTime": 225.06,
+      "text": "And do you have a figure in mind for how much you'd like to spend?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-026",
       "part": 1,
-      "startTime": 173.66,
-      "endTime": 175.45,
-      "text": "Right, got all that.",
-      "timestampSource": "estimated",
+      "startTime": 225.06,
+      "endTime": 231.14,
+      "text": "Are we likely to get anything for under $150 a night? Not really.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-027",
       "part": 1,
-      "startTime": 175.45,
-      "endTime": 184.49,
-      "text": "Now I'll just take a few notes about the type of holiday you want so I can make the bookings for you.",
-      "timestampSource": "estimated",
+      "startTime": 231.14,
+      "endTime": 234.64,
+      "text": "You'd have to spend at least $175 for a big enough room.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-028",
       "part": 1,
-      "startTime": 184.49,
-      "endTime": 190.22,
-      "text": "Have you thought about where you want to stay while you're here?",
-      "timestampSource": "estimated",
+      "startTime": 235.04,
+      "endTime": 237.14,
+      "text": "OK, we can stretch to that.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-029",
       "part": 1,
-      "startTime": 190.22,
-      "endTime": 200.16,
-      "text": "In the first week, we'd like a bit of luxury and we're planning on staying in a hotel on the beach if possible.",
-      "timestampSource": "estimated",
+      "startTime": 237.4,
+      "endTime": 243.68,
+      "text": "I'll just have to stop myself thinking that when we go camping we only pay about $200 for a whole week.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-030",
       "part": 1,
-      "startTime": 200.16,
-      "endTime": 203.92,
-      "text": "That'll be so much better than a campsite.",
-      "timestampSource": "estimated",
+      "startTime": 243.94,
+      "endTime": 245.66,
+      "text": "Well, I'm sure it will be worth it.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-031",
       "part": 1,
-      "startTime": 203.92,
-      "endTime": 211.8,
-      "text": "We usually stay in a tent when we go away, but we're going to treat ourselves this time.",
-      "timestampSource": "estimated",
+      "startTime": 245.94,
+      "endTime": 248.98,
+      "text": "I can also organise some activities for your first week.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-032",
       "part": 1,
-      "startTime": 211.8,
-      "endTime": 217.71,
-      "text": "And do you have a figure in mind for how much you'd like to spend?",
-      "timestampSource": "estimated",
+      "startTime": 249.32,
+      "endTime": 252.28,
+      "text": "Is there anything your daughters would particularly like to do?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-033",
       "part": 1,
-      "startTime": 217.71,
-      "endTime": 223.53,
-      "text": "Are we likely to get anything for under $150 a night? Not really.",
-      "timestampSource": "estimated",
+      "startTime": 252.44,
+      "endTime": 257.8,
+      "text": "They want to try sailing this year. Last year it was surfing. They were mad about it.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-034",
       "part": 1,
-      "startTime": 223.53,
-      "endTime": 231.05,
-      "text": "You'd have to spend at least $175 for a big enough room. OK, we can stretch to that.",
-      "timestampSource": "estimated",
+      "startTime": 258.1,
+      "endTime": 260.36,
+      "text": "Kids change their minds a lot, don't they?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-035",
       "part": 1,
-      "startTime": 231.05,
-      "endTime": 240.27,
-      "text": "I'll just have to stop myself thinking that when we go camping we only pay about $200 for a whole week.",
-      "timestampSource": "estimated",
+      "startTime": 260.72,
+      "endTime": 262.58,
+      "text": "Mine are into cycling at the moment.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-036",
       "part": 1,
-      "startTime": 240.27,
-      "endTime": 248.51,
-      "text": "Well, I'm sure it will be worth it. I can also organise some activities for your first week.",
-      "timestampSource": "estimated",
+      "startTime": 262.78,
+      "endTime": 264.62,
+      "text": "I know someone who can teach them to sail.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-037",
       "part": 1,
-      "startTime": 248.51,
-      "endTime": 254.15,
-      "text": "Is there anything your daughters would particularly like to do?",
-      "timestampSource": "estimated",
+      "startTime": 264.62,
+      "endTime": 268.0,
+      "text": "Would you like me to organise a class for them? Wonderful.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-038",
       "part": 1,
-      "startTime": 254.15,
-      "endTime": 261.76,
-      "text": "They want to try sailing this year. Last year it was surfing. They were mad about it.",
-      "timestampSource": "estimated",
+      "startTime": 268.06,
+      "endTime": 269.96,
+      "text": "We're bringing our own boat with us.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-039",
       "part": 1,
-      "startTime": 261.76,
-      "endTime": 268.83,
-      "text": "Kids change their minds a lot, don't they? Mine are into cycling at the moment.",
-      "timestampSource": "estimated",
+      "startTime": 270.14,
+      "endTime": 272.06,
+      "text": "And what about your wife and your mother?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-040",
       "part": 1,
-      "startTime": 268.83,
-      "endTime": 276.89,
-      "text": "I know someone who can teach them to sail. Would you like me to organise a class for them?",
-      "timestampSource": "estimated",
+      "startTime": 272.32,
+      "endTime": 278.68,
+      "text": "Well, my mother Susan goes bowling when she's in Brisbane but my wife Jenny doesn't really like it.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-041",
       "part": 1,
-      "startTime": 276.89,
-      "endTime": 284.86,
-      "text": "Wonderful. We're bringing our own boat with us. And what about your wife and your mother?",
-      "timestampSource": "estimated",
+      "startTime": 278.9,
+      "endTime": 283.2,
+      "text": "She loves bushwalking but obviously my mother can't manage that.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-042",
       "part": 1,
-      "startTime": 284.86,
-      "endTime": 293.73,
-      "text": "Well, my mother Susan goes bowling when she's in Brisbane but my wife Jenny doesn't really like it.",
-      "timestampSource": "estimated",
+      "startTime": 283.5,
+      "endTime": 285.26,
+      "text": "Can I suggest golf for them both?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-043",
       "part": 1,
-      "startTime": 293.73,
-      "endTime": 299.46,
-      "text": "She loves bushwalking but obviously my mother can't manage that.",
-      "timestampSource": "estimated",
+      "startTime": 285.38,
+      "endTime": 287.22,
+      "text": "It's a gentler kind of walk.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-044",
       "part": 1,
-      "startTime": 299.46,
-      "endTime": 305.01,
-      "text": "Can I suggest golf for them both? It's a gentler kind of walk.",
-      "timestampSource": "estimated",
+      "startTime": 287.34,
+      "endTime": 294.56,
+      "text": "There's a beautiful course here with magnificent views of the sea. Sounds perfect. OK, I'll organise a time. Thanks.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-045",
       "part": 1,
-      "startTime": 305.01,
-      "endTime": 312.35,
-      "text": "There's a beautiful course here with magnificent views of the sea. Sounds perfect.",
-      "timestampSource": "estimated",
+      "startTime": 294.84,
+      "endTime": 297.86,
+      "text": "Could you send me some leaflets about fishing in the area?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-046",
       "part": 1,
-      "startTime": 312.35,
-      "endTime": 320.59,
-      "text": "OK, I'll organise a time. Thanks. Could you send me some leaflets about fishing in the area?",
-      "timestampSource": "estimated",
+      "startTime": 298.02,
+      "endTime": 299.88,
+      "text": "I'd like to take the boat out myself.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-047",
       "part": 1,
-      "startTime": 320.59,
-      "endTime": 328.11,
-      "text": "I'd like to take the boat out myself. Sure, there are some good spots around. Great.",
-      "timestampSource": "estimated",
+      "startTime": 300.2,
+      "endTime": 303.1,
+      "text": "Sure, there are some good spots around. Great.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-048",
       "part": 1,
-      "startTime": 328.11,
-      "endTime": 337.42,
-      "text": "Before you hear the rest of the conversation, you have some time to look at questions 8 to 10 on page 2.",
-      "timestampSource": "estimated",
+      "startTime": 336.16,
+      "endTime": 338.8,
+      "text": "OK, so let's think about the second week now.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-049",
       "part": 1,
-      "startTime": 337.42,
-      "endTime": 345.12,
-      "text": "Now listen and answer questions 8 to 10. OK, so let's think about the second week now.",
-      "timestampSource": "estimated",
+      "startTime": 338.98,
+      "endTime": 341.12,
+      "text": "We want something totally different.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-050",
       "part": 1,
-      "startTime": 345.12,
-      "endTime": 348.34,
-      "text": "We want something totally different.",
-      "timestampSource": "estimated",
+      "startTime": 341.32,
+      "endTime": 345.24,
+      "text": "We'd like to stay up in the mountains in the National Park. Very nice.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-051",
       "part": 1,
-      "startTime": 348.34,
-      "endTime": 354.61,
-      "text": "We'd like to stay up in the mountains in the National Park. Very nice.",
-      "timestampSource": "estimated",
+      "startTime": 345.44,
+      "endTime": 347.6,
+      "text": "And what kind of accommodation are you thinking of?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-052",
       "part": 1,
-      "startTime": 354.61,
-      "endTime": 359.18,
-      "text": "And what kind of accommodation are you thinking of?",
-      "timestampSource": "estimated",
+      "startTime": 347.72,
+      "endTime": 349.76,
+      "text": "There are some beautiful houses you can rent.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-053",
       "part": 1,
-      "startTime": 359.18,
-      "endTime": 363.21,
-      "text": "There are some beautiful houses you can rent.",
-      "timestampSource": "estimated",
+      "startTime": 350.12,
+      "endTime": 354.26,
+      "text": "Yes, we did think about renting a house but I'm worried about the cost.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-054",
       "part": 1,
-      "startTime": 363.21,
-      "endTime": 369.57,
-      "text": "Yes, we did think about renting a house but I'm worried about the cost.",
-      "timestampSource": "estimated",
+      "startTime": 354.5,
+      "endTime": 358.44,
+      "text": "Is there anything a bit cheaper, say a caravan or even a cabin?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-055",
       "part": 1,
-      "startTime": 369.57,
-      "endTime": 375.21,
-      "text": "Is there anything a bit cheaper, say a caravan or even a cabin?",
-      "timestampSource": "estimated",
+      "startTime": 358.62,
+      "endTime": 364.7,
+      "text": "It'd have to be a caravan because they don't have cabins at the campground but the standard is very high.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-056",
       "part": 1,
-      "startTime": 375.21,
-      "endTime": 384.61,
-      "text": "It'd have to be a caravan because they don't have cabins at the campground but the standard is very high.",
-      "timestampSource": "estimated",
+      "startTime": 364.84,
+      "endTime": 370.06,
+      "text": "How much does it cost? $100 a night but they're very roomy with all mod cons.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-057",
       "part": 1,
-      "startTime": 384.61,
-      "endTime": 391.51,
-      "text": "How much does it cost? $100 a night but they're very roomy with all mod cons.",
-      "timestampSource": "estimated",
+      "startTime": 370.18,
+      "endTime": 373.22,
+      "text": "The campground's also in a really good spot.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-058",
       "part": 1,
-      "startTime": 391.51,
-      "endTime": 395.45,
-      "text": "The campground's also in a really good spot.",
-      "timestampSource": "estimated",
+      "startTime": 373.5,
+      "endTime": 376.68,
+      "text": "What activities are you thinking of doing in that second week?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-059",
       "part": 1,
-      "startTime": 395.45,
-      "endTime": 401.0,
-      "text": "What activities are you thinking of doing in that second week?",
-      "timestampSource": "estimated",
+      "startTime": 377.02,
+      "endTime": 382.94,
+      "text": "Well, it's actually going to be my wife's birthday so I'd like to do something a bit special for her.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-060",
       "part": 1,
-      "startTime": 401.0,
-      "endTime": 410.04,
-      "text": "Well, it's actually going to be my wife's birthday so I'd like to do something a bit special for her.",
-      "timestampSource": "estimated",
+      "startTime": 383.24,
+      "endTime": 387.46,
+      "text": "I can book a really nice massage for her after lunch on that day. Lovely.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-061",
       "part": 1,
-      "startTime": 410.04,
-      "endTime": 416.58,
-      "text": "I can book a really nice massage for her after lunch on that day. Lovely.",
-      "timestampSource": "estimated",
+      "startTime": 387.72,
+      "endTime": 393.74,
+      "text": "Or would she rather try something more adventurous like a walk in the treetops? It's really exciting.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-062",
       "part": 1,
-      "startTime": 416.58,
-      "endTime": 423.65,
-      "text": "Or would she rather try something more adventurous like a walk in the treetops?",
-      "timestampSource": "estimated",
+      "startTime": 393.84,
+      "endTime": 395.9,
+      "text": "You go along a really high wooden bridge.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-063",
       "part": 1,
-      "startTime": 423.65,
-      "endTime": 431.71,
-      "text": "It's really exciting. You go along a really high wooden bridge. Oh no, she'd be terrified.",
-      "timestampSource": "estimated",
+      "startTime": 396.0,
+      "endTime": 398.32,
+      "text": "Oh no, she'd be terrified.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-064",
       "part": 1,
-      "startTime": 431.71,
-      "endTime": 438.96,
-      "text": "Stick with your first idea. Are there any nice places to eat near the campground?",
-      "timestampSource": "estimated",
+      "startTime": 398.56,
+      "endTime": 400.44,
+      "text": "Stick with your first idea.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-065",
       "part": 1,
-      "startTime": 438.96,
-      "endTime": 445.95,
-      "text": "Yes, there's a fantastic wood-fired pizza restaurant called Marco's. Oh, good.",
-      "timestampSource": "estimated",
+      "startTime": 400.66,
+      "endTime": 403.5,
+      "text": "Are there any nice places to eat near the campground?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-066",
       "part": 1,
-      "startTime": 445.95,
-      "endTime": 454.19,
-      "text": "I've got two very fussy daughters. Could you send me their menu so we can check it'll be OK?",
-      "timestampSource": "estimated",
+      "startTime": 403.92,
+      "endTime": 409.52,
+      "text": "Yes, there's a fantastic wood-fired pizza restaurant called Marco's. Oh, good.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-067",
       "part": 1,
-      "startTime": 454.19,
-      "endTime": 460.55,
-      "text": "No problem, Duncan. Now, while I remember That is the end of section 1.",
-      "timestampSource": "estimated",
+      "startTime": 409.62,
+      "endTime": 411.9,
+      "text": "I've got two very fussy daughters.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-068",
       "part": 1,
-      "startTime": 460.55,
-      "endTime": 464.96,
-      "text": "You now have half a minute to check your answers.",
-      "timestampSource": "estimated",
+      "startTime": 412.06,
+      "endTime": 416.56,
+      "text": "Could you send me their menu so we can check it'll be OK? No problem, Duncan.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-069",
-      "part": 2,
-      "startTime": 464.96,
-      "endTime": 467.82,
-      "text": "Now turn to section 2 on page 3.",
-      "timestampSource": "estimated",
+      "part": 1,
+      "startTime": 416.82,
+      "endTime": 418.98,
+      "text": "Now, while I remember",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-070",
       "part": 2,
-      "startTime": 467.82,
-      "endTime": 477.21,
-      "text": "Section 2 You will hear a talk about two new initiatives to encourage bicycle use in a city in Australia.",
-      "timestampSource": "estimated",
+      "startTime": 515.5,
+      "endTime": 520.98,
+      "text": "Thank you for all coming to today's information session on bicycle use in the inner city.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-071",
       "part": 2,
-      "startTime": 477.21,
-      "endTime": 483.11,
-      "text": "First, you have some time to look at questions 11 to 15 on page 3.",
-      "timestampSource": "estimated",
+      "startTime": 521.44,
+      "endTime": 527.28,
+      "text": "I'll start by telling you about the City Council's new bicycle hire scheme, which is called CityCycle.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-072",
       "part": 2,
-      "startTime": 483.11,
-      "endTime": 487.67,
-      "text": "Now listen carefully and answer questions 11 to 15.",
-      "timestampSource": "estimated",
+      "startTime": 528.62,
+      "endTime": 534.9,
+      "text": "We want to provide people who don't own a bike a convenient way to get around the inner city.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-073",
       "part": 2,
-      "startTime": 487.67,
-      "endTime": 495.63,
-      "text": "Thank you for all coming to today's information session on bicycle use in the inner city.",
-      "timestampSource": "estimated",
+      "startTime": 535.62,
+      "endTime": 542.22,
+      "text": "Now, to use CityCycle, first you need to subscribe to the service and you can do that online.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-074",
       "part": 2,
-      "startTime": 495.63,
-      "endTime": 504.75,
-      "text": "I'll start by telling you about the City Council's new bicycle hire scheme, which is called CityCycle.",
-      "timestampSource": "estimated",
+      "startTime": 542.48,
+      "endTime": 548.38,
+      "text": "Just go to the City Council website and follow the prompts and you'll be sent a card.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-075",
       "part": 2,
-      "startTime": 504.75,
-      "endTime": 513.07,
-      "text": "We want to provide people who don't own a bike a convenient way to get around the inner city.",
-      "timestampSource": "estimated",
+      "startTime": 548.6,
+      "endTime": 554.44,
+      "text": "Once you've done that, you can unlock one of our bikes from any station in the inner city area.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-076",
       "part": 2,
-      "startTime": 513.07,
-      "endTime": 521.39,
-      "text": "Now, to use CityCycle, first you need to subscribe to the service and you can do that online.",
-      "timestampSource": "estimated",
+      "startTime": 554.74,
+      "endTime": 558.18,
+      "text": "Just go to the station and log on at the computer terminal.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-077",
       "part": 2,
-      "startTime": 521.39,
-      "endTime": 528.99,
-      "text": "Just go to the City Council website and follow the prompts and you'll be sent a card.",
-      "timestampSource": "estimated",
+      "startTime": 558.36,
+      "endTime": 564.92,
+      "text": "You'll be shown a diagram of the bikes that are currently available at the station, so you just choose the one you want by touching the screen.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-078",
       "part": 2,
-      "startTime": 528.99,
-      "endTime": 537.49,
-      "text": "Once you've done that, you can unlock one of our bikes from any station in the inner city area.",
-      "timestampSource": "estimated",
+      "startTime": 565.08,
+      "endTime": 567.12,
+      "text": "You don't need a password or anything.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-079",
       "part": 2,
-      "startTime": 537.49,
-      "endTime": 542.77,
-      "text": "Just go to the station and log on at the computer terminal.",
-      "timestampSource": "estimated",
+      "startTime": 567.7,
+      "endTime": 573.18,
+      "text": "Once you've chosen your bike, you can then go to where the bikes are stored and push the release button.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-080",
       "part": 2,
-      "startTime": 542.77,
-      "endTime": 555.56,
-      "text": "You'll be shown a diagram of the bikes that are currently available at the station, so you just choose the one you want by touching the screen.",
-      "timestampSource": "estimated",
+      "startTime": 573.4,
+      "endTime": 577.74,
+      "text": "After you do that, you have about 10 seconds to take the bike out of the rack.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-081",
       "part": 2,
-      "startTime": 555.56,
-      "endTime": 558.96,
-      "text": "You don't need a password or anything.",
-      "timestampSource": "estimated",
+      "startTime": 577.9,
+      "endTime": 580.4,
+      "text": "You can now start your bike ride.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-082",
       "part": 2,
-      "startTime": 558.96,
-      "endTime": 568.26,
-      "text": "Once you've chosen your bike, you can then go to where the bikes are stored and push the release button.",
-      "timestampSource": "estimated",
+      "startTime": 581.34,
+      "endTime": 586.88,
+      "text": "Further down the track, we're thinking about adding lockers for bags if the scheme is popular.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-083",
       "part": 2,
-      "startTime": 568.26,
-      "endTime": 575.24,
-      "text": "After you do that, you have about 10 seconds to take the bike out of the rack.",
-      "timestampSource": "estimated",
+      "startTime": 587.14,
+      "endTime": 594.6,
+      "text": "Oh, at this point, can I just clarify something that a few people have been asking, and that is, do I have to wear a helmet?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-084",
       "part": 2,
-      "startTime": 575.24,
-      "endTime": 578.19,
-      "text": "You can now start your bike ride.",
-      "timestampSource": "estimated",
+      "startTime": 594.7,
+      "endTime": 596.86,
+      "text": "Well, the answer is yes, you do.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-085",
       "part": 2,
-      "startTime": 578.19,
-      "endTime": 586.6,
-      "text": "Further down the track, we're thinking about adding lockers for bags if the scheme is popular.",
-      "timestampSource": "estimated",
+      "startTime": 596.86,
+      "endTime": 602.56,
+      "text": "That's a requirement by law in this state, so don't forget to wear one at all times when riding.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-086",
       "part": 2,
-      "startTime": 586.6,
-      "endTime": 597.69,
-      "text": "Oh, at this point, can I just clarify something that a few people have been asking, and that is, do I have to wear a helmet?",
-      "timestampSource": "estimated",
+      "startTime": 603.02,
+      "endTime": 608.94,
+      "text": "Now, at the end of your trip, just come back to one of the city cycle stations and wheel the bike into the bike rack.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-087",
       "part": 2,
-      "startTime": 597.69,
-      "endTime": 600.55,
-      "text": "Well, the answer is yes, you do.",
-      "timestampSource": "estimated",
+      "startTime": 609.26,
+      "endTime": 615.66,
+      "text": "It's important to make sure that the bike is properly secured because you could be held liable if it goes missing.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-088",
       "part": 2,
-      "startTime": 600.55,
-      "endTime": 609.14,
-      "text": "That's a requirement by law in this state, so don't forget to wear one at all times when riding.",
-      "timestampSource": "estimated",
+      "startTime": 615.92,
+      "endTime": 624.08,
+      "text": "The green light on the rack will confirm that it has been locked into place, so we hope that with such a simple scheme, we'll have many users.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-089",
       "part": 2,
-      "startTime": 609.14,
-      "endTime": 619.61,
-      "text": "Now, at the end of your trip, just come back to one of the city cycle stations and wheel the bike into the bike rack.",
-      "timestampSource": "estimated",
+      "startTime": 666.9,
+      "endTime": 673.58,
+      "text": "Let's turn to another initiative, the layout of the new Council Bicycle Centre, which will be opening next week.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-090",
       "part": 2,
-      "startTime": 619.61,
-      "endTime": 629.81,
-      "text": "It's important to make sure that the bike is properly secured because you could be held liable if it goes missing.",
-      "timestampSource": "estimated",
+      "startTime": 673.96,
+      "endTime": 676.48,
+      "text": "This is for people who already own a bike.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-091",
       "part": 2,
-      "startTime": 629.81,
-      "endTime": 642.51,
-      "text": "The green light on the rack will confirm that it has been locked into place, so we hope that with such a simple scheme, we'll have many users.",
-      "timestampSource": "estimated",
+      "startTime": 676.58,
+      "endTime": 682.94,
+      "text": "We wanted to provide a place for cyclists to store their bikes, then change before going on to work.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-092",
       "part": 2,
-      "startTime": 642.51,
-      "endTime": 651.19,
-      "text": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20 on page 4.",
-      "timestampSource": "estimated",
+      "startTime": 683.38,
+      "endTime": 684.98,
+      "text": "Can you all see the plan?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-093",
       "part": 2,
-      "startTime": 651.19,
-      "endTime": 654.86,
-      "text": "Now listen and answer questions 16 to 20.",
-      "timestampSource": "estimated",
+      "startTime": 685.28,
+      "endTime": 691.82,
+      "text": "If you look at the bottom towards the right-hand corner, you'll see where the cyclists enter the centre.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-094",
       "part": 2,
-      "startTime": 654.86,
-      "endTime": 664.88,
-      "text": "Let's turn to another initiative, the layout of the new Council Bicycle Centre, which will be opening next week.",
-      "timestampSource": "estimated",
+      "startTime": 692.24,
+      "endTime": 695.04,
+      "text": "People want more than just a place to park their bikes.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-095",
       "part": 2,
-      "startTime": 664.88,
-      "endTime": 668.64,
-      "text": "This is for people who already own a bike.",
-      "timestampSource": "estimated",
+      "startTime": 695.16,
+      "endTime": 697.52,
+      "text": "That's why you'll see a coffee cart.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-096",
       "part": 2,
-      "startTime": 668.64,
-      "endTime": 677.59,
-      "text": "We wanted to provide a place for cyclists to store their bikes, then change before going on to work.",
-      "timestampSource": "estimated",
+      "startTime": 697.96,
+      "endTime": 702.5,
+      "text": "That's it there between the reception desk and the vending machines.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-097",
       "part": 2,
-      "startTime": 677.59,
-      "endTime": 679.83,
-      "text": "Can you all see the plan?",
-      "timestampSource": "estimated",
+      "startTime": 702.64,
+      "endTime": 706.44,
+      "text": "I'm sure it'll be very popular with commuters first thing in the morning.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-098",
       "part": 2,
-      "startTime": 679.83,
-      "endTime": 689.13,
-      "text": "If you look at the bottom towards the right-hand corner, you'll see where the cyclists enter the centre.",
-      "timestampSource": "estimated",
+      "startTime": 707.26,
+      "endTime": 715.44,
+      "text": "Now, of course, some of our cyclists have very expensive bikes, so we'll have a totally secure place for them to park.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-099",
       "part": 2,
-      "startTime": 689.13,
-      "endTime": 697.36,
-      "text": "People want more than just a place to park their bikes. That's why you'll see a coffee cart.",
-      "timestampSource": "estimated",
+      "startTime": 715.66,
+      "endTime": 718.4,
+      "text": "That's it in the top right-hand corner.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-100",
       "part": 2,
-      "startTime": 697.36,
-      "endTime": 703.44,
-      "text": "That's it there between the reception desk and the vending machines.",
-      "timestampSource": "estimated",
+      "startTime": 718.86,
+      "endTime": 723.0,
+      "text": "Now, there's another special service for the cyclists that I'd like to show you.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-101",
       "part": 2,
-      "startTime": 703.44,
-      "endTime": 709.97,
-      "text": "I'm sure it'll be very popular with commuters first thing in the morning.",
-      "timestampSource": "estimated",
+      "startTime": 723.66,
+      "endTime": 725.72,
+      "text": "Look back at the entry on the map.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-102",
       "part": 2,
-      "startTime": 709.97,
-      "endTime": 720.53,
-      "text": "Now, of course, some of our cyclists have very expensive bikes, so we'll have a totally secure place for them to park.",
-      "timestampSource": "estimated",
+      "startTime": 725.96,
+      "endTime": 732.14,
+      "text": "Just to the left of reception, on the Donovan Street side of the building, you'll see quite a large room.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-103",
       "part": 2,
-      "startTime": 720.53,
-      "endTime": 724.02,
-      "text": "That's it in the top right-hand corner.",
-      "timestampSource": "estimated",
+      "startTime": 732.46,
+      "endTime": 738.58,
+      "text": "That's the workshop, where cyclists will be able to leave their bikes for repairs while they are at work.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-104",
       "part": 2,
-      "startTime": 724.02,
-      "endTime": 731.18,
-      "text": "Now, there's another special service for the cyclists that I'd like to show you.",
-      "timestampSource": "estimated",
+      "startTime": 738.8,
+      "endTime": 742.02,
+      "text": "We've put a lot of thought into the facilities of the centre.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-105",
       "part": 2,
-      "startTime": 731.18,
-      "endTime": 734.22,
-      "text": "Look back at the entry on the map.",
-      "timestampSource": "estimated",
+      "startTime": 742.3,
+      "endTime": 746.12,
+      "text": "If you have any valuables with you, you can leave these in our lockers.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-106",
       "part": 2,
-      "startTime": 734.22,
-      "endTime": 743.61,
-      "text": "Just to the left of reception, on the Donovan Street side of the building, you'll see quite a large room.",
-      "timestampSource": "estimated",
+      "startTime": 746.2,
+      "endTime": 754.28,
+      "text": "The locker room is in the top left-hand corner of your plan, so you can store your bag or wallet there before you head off for a shower.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-107",
       "part": 2,
-      "startTime": 743.61,
-      "endTime": 753.0,
-      "text": "That's the workshop, where cyclists will be able to leave their bikes for repairs while they are at work.",
-      "timestampSource": "estimated",
+      "startTime": 754.48,
+      "endTime": 757.54,
+      "text": "We've installed 10 state-of-the-art power showers.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-108",
       "part": 2,
-      "startTime": 753.0,
-      "endTime": 758.46,
-      "text": "We've put a lot of thought into the facilities of the centre.",
-      "timestampSource": "estimated",
+      "startTime": 757.54,
+      "endTime": 763.22,
+      "text": "They are located in this room here, to the left of the hairdryers and just near the exit.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-109",
       "part": 2,
-      "startTime": 758.46,
-      "endTime": 764.81,
-      "text": "If you have any valuables with you, you can leave these in our lockers.",
-      "timestampSource": "estimated",
+      "startTime": 763.66,
+      "endTime": 772.98,
+      "text": "There's also a water cooler available, so you can grab a drink and then pick up a towel next to the water cooler there.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-110",
-      "part": 2,
-      "startTime": 764.81,
-      "endTime": 776.98,
-      "text": "The locker room is in the top left-hand corner of your plan, so you can store your bag or wallet there before you head off for a shower.",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 864.72,
+      "endTime": 875.2,
+      "text": "Greg, about this project on renewable energy, we've got to look at some products that use it and then see how aware people are of this kind of energy.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-111",
-      "part": 2,
-      "startTime": 776.98,
-      "endTime": 781.45,
-      "text": "We've installed 10 state-of-the-art power showers.",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 875.42,
+      "endTime": 880.64,
+      "text": "Well, first we must clarify what renewable energy is. I've done that.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-112",
-      "part": 2,
-      "startTime": 781.45,
-      "endTime": 789.41,
-      "text": "They are located in this room here, to the left of the hairdryers and just near the exit.",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 880.72,
+      "endTime": 890.32,
+      "text": "It's energy from a source which is replaced by a natural process such as wind, tidal energy from the sea, energy from the sun and so on.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-113",
-      "part": 2,
-      "startTime": 789.41,
-      "endTime": 800.05,
-      "text": "There's also a water cooler available, so you can grab a drink and then pick up a towel next to the water cooler there.",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 890.32,
+      "endTime": 895.62,
+      "text": "And I've found some very interesting examples of products using these sources. So have I.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-114",
-      "part": 2,
-      "startTime": 800.05,
-      "endTime": 807.12,
-      "text": "That is the end of Section 2. You now have half a minute to check your answers.",
-      "timestampSource": "estimated",
+      "part": 3,
+      "startTime": 895.62,
+      "endTime": 897.52,
+      "text": "But what have you got?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-115",
       "part": 3,
-      "startTime": 807.12,
-      "endTime": 809.98,
-      "text": "Now turn to Section 3 on page 5.",
-      "timestampSource": "estimated",
+      "startTime": 897.68,
+      "endTime": 904.62,
+      "text": "Well, the first one is a company in Germany which is producing huge kites that pull ships along.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-116",
       "part": 3,
-      "startTime": 809.98,
-      "endTime": 819.38,
-      "text": "Section 3 You will hear two students called Sylvia and Greg discussing their project on renewable energy.",
-      "timestampSource": "estimated",
+      "startTime": 904.92,
+      "endTime": 912.5,
+      "text": "The kites are attached by long cables and they fly up to 500 metres above the sea. They must be pretty big.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-117",
       "part": 3,
-      "startTime": 819.38,
-      "endTime": 825.29,
-      "text": "First, you have some time to look at questions 21 to 25 on page 5.",
-      "timestampSource": "estimated",
+      "startTime": 912.74,
+      "endTime": 916.92,
+      "text": "And it means that they can be powered by the wind no matter what the weather.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-118",
       "part": 3,
-      "startTime": 825.29,
-      "endTime": 829.85,
-      "text": "Now listen carefully and answer questions 21 to 25.",
-      "timestampSource": "estimated",
+      "startTime": 917.18,
+      "endTime": 919.02,
+      "text": "That sounds like a good idea.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-119",
       "part": 3,
-      "startTime": 829.85,
-      "endTime": 843.28,
-      "text": "Greg, about this project on renewable energy, we've got to look at some products that use it and then see how aware people are of this kind of energy.",
-      "timestampSource": "estimated",
+      "startTime": 919.24,
+      "endTime": 921.9,
+      "text": "But will they really help reduce energy use?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-120",
       "part": 3,
-      "startTime": 843.28,
-      "endTime": 849.46,
-      "text": "Well, first we must clarify what renewable energy is. I've done that.",
-      "timestampSource": "estimated",
+      "startTime": 923.22,
+      "endTime": 933.18,
+      "text": "As well as that, apparently the shipping industry is one of the worst polluters on the planet as they use cheap diesel fuel which has terrible toxic emissions.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-121",
       "part": 3,
-      "startTime": 849.46,
-      "endTime": 861.63,
-      "text": "It's energy from a source which is replaced by a natural process such as wind, tidal energy from the sea, energy from the sun and so on.",
-      "timestampSource": "estimated",
+      "startTime": 933.32,
+      "endTime": 942.3,
+      "text": "The company believes these kites could cut the use of these fuels by 50% and reduce the emissions by the same amount. Sounds good.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-122",
       "part": 3,
-      "startTime": 861.63,
-      "endTime": 869.6,
-      "text": "And I've found some very interesting examples of products using these sources. So have I.",
-      "timestampSource": "estimated",
+      "startTime": 942.94,
+      "endTime": 947.34,
+      "text": "And I found a company in the US which is developing a new type of car.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-123",
       "part": 3,
-      "startTime": 869.6,
-      "endTime": 871.57,
-      "text": "But what have you got?",
-      "timestampSource": "estimated",
+      "startTime": 947.76,
+      "endTime": 953.56,
+      "text": "Apparently they're producing a sports car which doesn't use petrol at all, just electricity.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-124",
       "part": 3,
-      "startTime": 871.57,
-      "endTime": 880.16,
-      "text": "Well, the first one is a company in Germany which is producing huge kites that pull ships along.",
-      "timestampSource": "estimated",
+      "startTime": 953.8,
+      "endTime": 958.76,
+      "text": "But for the US market only. Sounds intriguing. Do we know what it'll look like?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-125",
       "part": 3,
-      "startTime": 880.16,
-      "endTime": 887.5,
-      "text": "The kites are attached by long cables and they fly up to 500 metres above the sea.",
-      "timestampSource": "estimated",
+      "startTime": 959.28,
+      "endTime": 968.9,
+      "text": "They're very secretive about it and all they say is that it won't look ugly and it'll have zero emissions. Wow, really? So they say.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-126",
       "part": 3,
-      "startTime": 887.5,
-      "endTime": 889.65,
-      "text": "They must be pretty big.",
-      "timestampSource": "estimated",
+      "startTime": 969.24,
+      "endTime": 970.54,
+      "text": "Any other products?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-127",
       "part": 3,
-      "startTime": 889.65,
-      "endTime": 896.54,
-      "text": "And it means that they can be powered by the wind no matter what the weather.",
-      "timestampSource": "estimated",
+      "startTime": 970.86,
+      "endTime": 979.06,
+      "text": "I found an interesting article about a man in South Africa who's selling stoves using ethanol to the local people. Ethanol?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-128",
       "part": 3,
-      "startTime": 896.54,
-      "endTime": 903.97,
-      "text": "That sounds like a good idea. But will they really help reduce energy use? You bet.",
-      "timestampSource": "estimated",
+      "startTime": 979.14,
+      "endTime": 982.54,
+      "text": "Yes, it's made from the sugar of certain crops.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-129",
       "part": 3,
-      "startTime": 903.97,
-      "endTime": 918.2,
-      "text": "As well as that, apparently the shipping industry is one of the worst polluters on the planet as they use cheap diesel fuel which has terrible toxic emissions.",
-      "timestampSource": "estimated",
+      "startTime": 982.9,
+      "endTime": 991.04,
+      "text": "Most of the local people use paraffin stoves at the moment and they are dangerous because they can explode quite easily. Right.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-130",
       "part": 3,
-      "startTime": 918.2,
-      "endTime": 928.67,
-      "text": "The company believes these kites could cut the use of these fuels by 50% and reduce the emissions by the same amount.",
-      "timestampSource": "estimated",
+      "startTime": 991.54,
+      "endTime": 1001.0,
+      "text": "Now for the next part, we have to do a survey to find out how aware the public is about this kind of energy. Who shall we approach? Local businesses?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-131",
       "part": 3,
-      "startTime": 928.67,
-      "endTime": 936.1,
-      "text": "Sounds good. And I found a company in the US which is developing a new type of car.",
-      "timestampSource": "estimated",
+      "startTime": 1001.24,
+      "endTime": 1006.66,
+      "text": "I think it's easier to do a survey of the general public rather than local companies. Why?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-132",
       "part": 3,
-      "startTime": 936.1,
-      "endTime": 944.33,
-      "text": "Apparently they're producing a sports car which doesn't use petrol at all, just electricity.",
-      "timestampSource": "estimated",
+      "startTime": 1006.98,
+      "endTime": 1016.6,
+      "text": "Well, last time we sent all those email surveys to commercial organisations and we only had replies from 5% of them. Oh, I forgot that.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-133",
       "part": 3,
-      "startTime": 944.33,
-      "endTime": 951.4,
-      "text": "But for the US market only. Sounds intriguing. Do we know what it'll look like?",
-      "timestampSource": "estimated",
+      "startTime": 1017.04,
+      "endTime": 1017.74,
+      "text": "OK, then.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-134",
       "part": 3,
-      "startTime": 951.4,
-      "endTime": 960.89,
-      "text": "They're very secretive about it and all they say is that it won't look ugly and it'll have zero emissions.",
-      "timestampSource": "estimated",
+      "startTime": 1017.98,
+      "endTime": 1022.5,
+      "text": "What about the other students and the lecturers here in the university?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-135",
       "part": 3,
-      "startTime": 960.89,
-      "endTime": 964.92,
-      "text": "Wow, really? So they say. Any other products?",
-      "timestampSource": "estimated",
+      "startTime": 1022.62,
+      "endTime": 1024.42,
+      "text": "You know what the lecturers are like.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-136",
       "part": 3,
-      "startTime": 964.92,
-      "endTime": 975.12,
-      "text": "I found an interesting article about a man in South Africa who's selling stoves using ethanol to the local people.",
-      "timestampSource": "estimated",
+      "startTime": 1024.64,
+      "endTime": 1029.32,
+      "text": "They're so busy, they won't have the time. But the students will, I'm sure. OK.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-137",
       "part": 3,
-      "startTime": 975.12,
-      "endTime": 980.13,
-      "text": "Ethanol? Yes, it's made from the sugar of certain crops.",
-      "timestampSource": "estimated",
+      "startTime": 1029.6,
+      "endTime": 1033.48,
+      "text": "And as well as that, we could target the local schools like last time.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-138",
       "part": 3,
-      "startTime": 980.13,
-      "endTime": 990.87,
-      "text": "Most of the local people use paraffin stoves at the moment and they are dangerous because they can explode quite easily.",
-      "timestampSource": "estimated",
+      "startTime": 1033.78,
+      "endTime": 1036.08,
+      "text": "School kids just love doing surveys.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-139",
       "part": 3,
-      "startTime": 990.87,
-      "endTime": 991.41,
-      "text": "Right.",
-      "timestampSource": "estimated",
+      "startTime": 1036.3,
+      "endTime": 1041.02,
+      "text": "I think we want to stick to adults for this, don't you? You're probably right.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-140",
       "part": 3,
-      "startTime": 991.41,
-      "endTime": 1001.08,
-      "text": "Now for the next part, we have to do a survey to find out how aware the public is about this kind of energy.",
-      "timestampSource": "estimated",
+      "startTime": 1041.4,
+      "endTime": 1048.52,
+      "text": "Maybe we could approach people who rent or own properties around here since they're the ones who have to pay for the energy. Exactly.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-141",
       "part": 3,
-      "startTime": 1001.08,
-      "endTime": 1004.66,
-      "text": "Who shall we approach? Local businesses?",
-      "timestampSource": "estimated",
+      "startTime": 1102.44,
+      "endTime": 1106.6,
+      "text": "Now, what about the kind of questions we want to include in the survey?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-142",
       "part": 3,
-      "startTime": 1004.66,
-      "endTime": 1012.72,
-      "text": "I think it's easier to do a survey of the general public rather than local companies. Why?",
-      "timestampSource": "estimated",
+      "startTime": 1106.94,
+      "endTime": 1114.02,
+      "text": "Well, we need to find out if they know what renewable energy is and how familiar people are with the concept.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-143",
       "part": 3,
-      "startTime": 1012.72,
-      "endTime": 1023.1,
-      "text": "Well, last time we sent all those email surveys to commercial organisations and we only had replies from 5% of them.",
-      "timestampSource": "estimated",
+      "startTime": 1114.2,
+      "endTime": 1120.86,
+      "text": "I know it's been all over the news lately, but I think a lot of people are still in the dark about it. Do you think so?",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-144",
       "part": 3,
-      "startTime": 1023.1,
-      "endTime": 1025.61,
-      "text": "Oh, I forgot that. OK, then.",
-      "timestampSource": "estimated",
+      "startTime": 1120.88,
+      "endTime": 1123.0,
+      "text": "I'm not sure I agree.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-145",
       "part": 3,
-      "startTime": 1025.61,
-      "endTime": 1031.97,
-      "text": "What about the other students and the lecturers here in the university?",
-      "timestampSource": "estimated",
+      "startTime": 1123.0,
+      "endTime": 1124.96,
+      "text": "But we can have that in if you want.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-146",
       "part": 3,
-      "startTime": 1031.97,
-      "endTime": 1039.13,
-      "text": "You know what the lecturers are like. They're so busy, they won't have the time.",
-      "timestampSource": "estimated",
+      "startTime": 1125.96,
+      "endTime": 1130.98,
+      "text": "We also need to find out what they think about the use of traditional energy sources like gas",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-147",
       "part": 3,
-      "startTime": 1039.13,
-      "endTime": 1042.35,
-      "text": "But the students will, I'm sure. OK.",
-      "timestampSource": "estimated",
+      "startTime": 1130.98,
+      "endTime": 1137.58,
+      "text": "and coal and if they know what effect these types of energy have on their environment. And what they cost.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-148",
       "part": 3,
-      "startTime": 1042.35,
-      "endTime": 1048.62,
-      "text": "And as well as that, we could target the local schools like last time.",
-      "timestampSource": "estimated",
+      "startTime": 1137.76,
+      "endTime": 1139.54,
+      "text": "That's not so important.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-149",
       "part": 3,
-      "startTime": 1048.62,
-      "endTime": 1056.85,
-      "text": "School kids just love doing surveys. I think we want to stick to adults for this, don't you?",
-      "timestampSource": "estimated",
+      "startTime": 1139.74,
+      "endTime": 1148.7,
+      "text": "But we ought to see what they think is going to happen to the consumption of traditional energy sources. You're right. Then there's nuclear power.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-150",
       "part": 3,
-      "startTime": 1056.85,
-      "endTime": 1058.82,
-      "text": "You're probably right.",
-      "timestampSource": "estimated",
+      "startTime": 1148.8,
+      "endTime": 1154.08,
+      "text": "That's an interesting one because it's cleaner and more efficient in many ways than other fuels.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-151",
       "part": 3,
-      "startTime": 1058.82,
-      "endTime": 1069.92,
-      "text": "Maybe we could approach people who rent or own properties around here since they're the ones who have to pay for the energy.",
-      "timestampSource": "estimated",
+      "startTime": 1154.08,
+      "endTime": 1157.04,
+      "text": "But the safety factor has always worried people.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-152",
       "part": 3,
-      "startTime": 1069.92,
-      "endTime": 1070.64,
-      "text": "Exactly.",
-      "timestampSource": "estimated",
+      "startTime": 1157.84,
+      "endTime": 1164.08,
+      "text": "I know that the technology has improved greatly since it was first used, but I don't think everyone is convinced.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-153",
       "part": 3,
-      "startTime": 1070.64,
-      "endTime": 1079.86,
-      "text": "Before you hear the rest of the discussion, you have some time to look at questions 26 to 30 on page 6.",
-      "timestampSource": "estimated",
+      "startTime": 1164.24,
+      "endTime": 1168.32,
+      "text": "Are there any problems with renewable energy? Yes.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-154",
       "part": 3,
-      "startTime": 1079.86,
-      "endTime": 1083.53,
-      "text": "Now listen and answer questions 26 to 30.",
-      "timestampSource": "estimated",
+      "startTime": 1168.32,
+      "endTime": 1170.98,
+      "text": "And we need to know what people think about them.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-155",
       "part": 3,
-      "startTime": 1083.53,
-      "endTime": 1089.89,
-      "text": "Now, what about the kind of questions we want to include in the survey?",
-      "timestampSource": "estimated",
+      "startTime": 1171.34,
+      "endTime": 1176.42,
+      "text": "One argument is that it's going to be too expensive to use solar or wind power.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-156",
       "part": 3,
-      "startTime": 1089.89,
-      "endTime": 1099.65,
-      "text": "Well, we need to find out if they know what renewable energy is and how familiar people are with the concept.",
-      "timestampSource": "estimated",
+      "startTime": 1176.8,
+      "endTime": 1182.06,
+      "text": "But once people realise the benefits to us all, the price is bound to come down.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-157",
       "part": 3,
-      "startTime": 1099.65,
-      "endTime": 1108.78,
-      "text": "I know it's been all over the news lately, but I think a lot of people are still in the dark about it.",
-      "timestampSource": "estimated",
+      "startTime": 1182.16,
+      "endTime": 1184.44,
+      "text": "It's always expensive to start with.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-158",
       "part": 3,
-      "startTime": 1108.78,
-      "endTime": 1115.49,
-      "text": "Do you think so? I'm not sure I agree. But we can have that in if you want.",
-      "timestampSource": "estimated",
+      "startTime": 1184.8,
+      "endTime": 1189.12,
+      "text": "Once enough people want it, it'll be a viable prospect. That's true.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-159",
       "part": 3,
-      "startTime": 1115.49,
-      "endTime": 1131.6,
-      "text": "We also need to find out what they think about the use of traditional energy sources like gas and coal and if they know what effect these types of energy have on their environment.",
-      "timestampSource": "estimated",
+      "startTime": 1189.46,
+      "endTime": 1192.1,
+      "text": "But the other thing is they don't like it.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-160",
       "part": 3,
-      "startTime": 1131.6,
-      "endTime": 1135.54,
-      "text": "And what they cost. That's not so important.",
-      "timestampSource": "estimated",
+      "startTime": 1192.28,
+      "endTime": 1197.08,
+      "text": "They say that some of the technology is ugly, like the big windmills used.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-161",
       "part": 3,
-      "startTime": 1135.54,
-      "endTime": 1144.85,
-      "text": "But we ought to see what they think is going to happen to the consumption of traditional energy sources.",
-      "timestampSource": "estimated",
+      "startTime": 1197.22,
+      "endTime": 1200.84,
+      "text": "A lot of people think they spoil the countryside, and I agree.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-162",
       "part": 3,
-      "startTime": 1144.85,
-      "endTime": 1148.52,
-      "text": "You're right. Then there's nuclear power.",
-      "timestampSource": "estimated",
+      "startTime": 1200.98,
+      "endTime": 1202.68,
+      "text": "They're not that bad.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-163",
       "part": 3,
-      "startTime": 1148.52,
-      "endTime": 1157.11,
-      "text": "That's an interesting one because it's cleaner and more efficient in many ways than other fuels.",
-      "timestampSource": "estimated",
+      "startTime": 1202.92,
+      "endTime": 1210.48,
+      "text": "They're pretty efficient, so perhaps it's a case of choosing the right place for them where they look least out of place. A good point.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-164",
       "part": 3,
-      "startTime": 1157.11,
-      "endTime": 1161.85,
-      "text": "But the safety factor has always worried people. Yes.",
-      "timestampSource": "estimated",
+      "startTime": 1210.98,
+      "endTime": 1215.52,
+      "text": "It'll be very interesting to see the results of this survey.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-165",
-      "part": 3,
-      "startTime": 1161.85,
-      "endTime": 1171.96,
-      "text": "I know that the technology has improved greatly since it was first used, but I don't think everyone is convinced.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1333.32,
+      "endTime": 1334.34,
+      "text": "Hello, everyone.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-166",
-      "part": 3,
-      "startTime": 1171.96,
-      "endTime": 1176.44,
-      "text": "Are there any problems with renewable energy? Yes.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1334.6,
+      "endTime": 1342.3,
+      "text": "For my assignment, I did a review of the literature concerning absence in the workplace, and I'm going to present a summary of what I found.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-167",
-      "part": 3,
-      "startTime": 1176.44,
-      "endTime": 1180.83,
-      "text": "And we need to know what people think about them.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1342.7,
+      "endTime": 1345.28,
+      "text": "I looked at some research on absence from work.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-168",
-      "part": 3,
-      "startTime": 1180.83,
-      "endTime": 1187.9,
-      "text": "One argument is that it's going to be too expensive to use solar or wind power.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1345.5,
+      "endTime": 1349.8,
+      "text": "That is, the number of days' work people miss for various reasons.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-169",
-      "part": 3,
-      "startTime": 1187.9,
-      "endTime": 1195.06,
-      "text": "But once people realise the benefits to us all, the price is bound to come down.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1350.28,
+      "endTime": 1352.88,
+      "text": "Researchers refer to two types of absence.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-170",
-      "part": 3,
-      "startTime": 1195.06,
-      "endTime": 1203.29,
-      "text": "It's always expensive to start with. Once enough people want it, it'll be a viable prospect.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1353.14,
+      "endTime": 1358.78,
+      "text": "Frequent absence, which is obviously a more serious problem, and occasional absence.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-171",
-      "part": 3,
-      "startTime": 1203.29,
-      "endTime": 1208.21,
-      "text": "That's true. But the other thing is they don't like it.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1359.18,
+      "endTime": 1365.0,
+      "text": "A lot of studies look at the factors involved in absence from work, and several have been identified.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-172",
-      "part": 3,
-      "startTime": 1208.21,
-      "endTime": 1214.83,
-      "text": "They say that some of the technology is ugly, like the big windmills used.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1365.5,
+      "endTime": 1371.2,
+      "text": "Firstly, the gender of the employee may influence his or her ability to attend work.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-173",
-      "part": 3,
-      "startTime": 1214.83,
-      "endTime": 1222.35,
-      "text": "A lot of people think they spoil the countryside, and I agree. They're not that bad.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1371.4,
+      "endTime": 1379.24,
+      "text": "For example, a female is more likely to have child care responsibility, and so could be absent as a result of that.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-174",
-      "part": 3,
-      "startTime": 1222.35,
-      "endTime": 1233.18,
-      "text": "They're pretty efficient, so perhaps it's a case of choosing the right place for them where they look least out of place.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1379.6,
+      "endTime": 1385.32,
+      "text": "The next factor that has been identified is the attitude of employees toward their work.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-175",
-      "part": 3,
-      "startTime": 1233.18,
-      "endTime": 1239.8,
-      "text": "A good point. It'll be very interesting to see the results of this survey.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1385.56,
+      "endTime": 1391.82,
+      "text": "But there has been a lot of debate about the extent to which this actually does influence absence,",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-176",
-      "part": 3,
-      "startTime": 1239.8,
-      "endTime": 1246.88,
-      "text": "That is the end of Section 3. You now have half a minute to check your answers.",
-      "timestampSource": "estimated",
+      "part": 4,
+      "startTime": 1391.82,
+      "endTime": 1396.02,
+      "text": "and some people argue that the research hasn't been conclusive.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-177",
       "part": 4,
-      "startTime": 1246.88,
-      "endTime": 1250.72,
-      "text": "Now turn to Section 4 on page 7. Section 4.",
-      "timestampSource": "estimated",
+      "startTime": 1396.3,
+      "endTime": 1405.74,
+      "text": "Some researchers have suggested that another reason for high levels of absence is that some organisations have a culture in which absence is accepted,",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-178",
       "part": 4,
-      "startTime": 1250.72,
-      "endTime": 1260.19,
-      "text": "You will hear part of a presentation given by a business student on an assignment about absence from work.",
-      "timestampSource": "estimated",
+      "startTime": 1405.9,
+      "endTime": 1411.28,
+      "text": "but others have criticised this model, arguing that it's too much of a generalisation.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-179",
       "part": 4,
-      "startTime": 1260.19,
-      "endTime": 1266.08,
-      "text": "First, you have some time to look at questions 31 to 40 on page 7.",
-      "timestampSource": "estimated",
+      "startTime": 1411.74,
+      "endTime": 1416.14,
+      "text": "And then there are factors related to the type of work the employee does.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-180",
       "part": 4,
-      "startTime": 1266.08,
-      "endTime": 1272.15,
-      "text": "Now listen carefully and answer questions 31 to 40. Hello, everyone.",
-      "timestampSource": "estimated",
+      "startTime": 1416.52,
+      "endTime": 1424.14,
+      "text": "It's been claimed that workers in industry are more likely to have high absence rates than people who work in offices.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-181",
       "part": 4,
-      "startTime": 1272.15,
-      "endTime": 1284.65,
-      "text": "For my assignment, I did a review of the literature concerning absence in the workplace, and I'm going to present a summary of what I found.",
-      "timestampSource": "estimated",
+      "startTime": 1424.22,
+      "endTime": 1430.32,
+      "text": "It's also important to recognise that groups within a single organisation might behave differently.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-182",
       "part": 4,
-      "startTime": 1284.65,
-      "endTime": 1288.85,
-      "text": "I looked at some research on absence from work.",
-      "timestampSource": "estimated",
+      "startTime": 1430.34,
+      "endTime": 1438.42,
+      "text": "For example, one of the other underlying themes in the literature is that there is a connection between how often an employee is absent",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-183",
       "part": 4,
-      "startTime": 1288.85,
-      "endTime": 1294.74,
-      "text": "That is, the number of days' work people miss for various reasons.",
-      "timestampSource": "estimated",
+      "startTime": 1438.42,
+      "endTime": 1441.94,
+      "text": "and what size of work group he or she belongs to.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-184",
       "part": 4,
-      "startTime": 1294.74,
-      "endTime": 1298.49,
-      "text": "Researchers refer to two types of absence.",
-      "timestampSource": "estimated",
+      "startTime": 1442.34,
+      "endTime": 1447.84,
+      "text": "Specifically, it's been found that the bigger the group, the higher the levels of absence.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-185",
       "part": 4,
-      "startTime": 1298.49,
-      "endTime": 1305.99,
-      "text": "Frequent absence, which is obviously a more serious problem, and occasional absence.",
-      "timestampSource": "estimated",
+      "startTime": 1452.5,
+      "endTime": 1460.32,
+      "text": "On a related theme, some writers have focused on a comparison between public sector organisations and private sector ones.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-186",
       "part": 4,
-      "startTime": 1305.99,
-      "endTime": 1315.01,
-      "text": "A lot of studies look at the factors involved in absence from work, and several have been identified.",
-      "timestampSource": "estimated",
+      "startTime": 1460.52,
+      "endTime": 1465.04,
+      "text": "There is some evidence that absence levels are higher in the public sector.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-187",
       "part": 4,
-      "startTime": 1315.01,
-      "endTime": 1322.51,
-      "text": "Firstly, the gender of the employee may influence his or her ability to attend work.",
-      "timestampSource": "estimated",
+      "startTime": 1465.46,
+      "endTime": 1468.64,
+      "text": "It's not exactly clear why this should be the case,",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-188",
       "part": 4,
-      "startTime": 1322.51,
-      "endTime": 1332.78,
-      "text": "For example, a female is more likely to have child care responsibility, and so could be absent as a result of that.",
-      "timestampSource": "estimated",
+      "startTime": 1468.64,
+      "endTime": 1477.34,
+      "text": "but one explanation that has been often put forwards is that in some cases, public sector organisations may not be as efficient.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-189",
       "part": 4,
-      "startTime": 1332.78,
-      "endTime": 1340.64,
-      "text": "The next factor that has been identified is the attitude of employees toward their work.",
-      "timestampSource": "estimated",
+      "startTime": 1477.62,
+      "endTime": 1482.04,
+      "text": "This might be because their systems are more bureaucratic due to factors",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-190",
       "part": 4,
-      "startTime": 1340.64,
-      "endTime": 1349.39,
-      "text": "But there has been a lot of debate about the extent to which this actually does influence absence,",
-      "timestampSource": "estimated",
+      "startTime": 1482.04,
+      "endTime": 1488.82,
+      "text": "which are external rather than internal, like the degree of control the government imposes on the public sector.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-191",
       "part": 4,
-      "startTime": 1349.39,
-      "endTime": 1355.02,
-      "text": "and some people argue that the research hasn't been conclusive.",
-      "timestampSource": "estimated",
+      "startTime": 1489.14,
+      "endTime": 1493.52,
+      "text": "However, most recent literature suggests a number of other explanations.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-192",
       "part": 4,
-      "startTime": 1355.02,
-      "endTime": 1368.42,
-      "text": "Some researchers have suggested that another reason for high levels of absence is that some organisations have a culture in which absence is accepted,",
-      "timestampSource": "estimated",
+      "startTime": 1493.98,
+      "endTime": 1499.42,
+      "text": "Firstly, a public sector organisation tends to have a workforce which is larger.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-193",
       "part": 4,
-      "startTime": 1368.42,
-      "endTime": 1376.1,
-      "text": "but others have criticised this model, arguing that it's too much of a generalisation.",
-      "timestampSource": "estimated",
+      "startTime": 1499.8,
+      "endTime": 1509.02,
+      "text": "Also, it tends to employ a higher number of female and older employees, both of which groups are likely to record higher absence rates.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-194",
       "part": 4,
-      "startTime": 1376.1,
-      "endTime": 1382.62,
-      "text": "And then there are factors related to the type of work the employee does.",
-      "timestampSource": "estimated",
+      "startTime": 1509.18,
+      "endTime": 1517.26,
+      "text": "It is also suggested that public sector organisations are more likely to give their absent employees benefits for a longer period",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-195",
       "part": 4,
-      "startTime": 1382.62,
-      "endTime": 1393.16,
-      "text": "It's been claimed that workers in industry are more likely to have high absence rates than people who work in offices.",
-      "timestampSource": "estimated",
+      "startTime": 1517.26,
+      "endTime": 1520.5,
+      "text": "and are less likely to place restrictions on these.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-196",
       "part": 4,
-      "startTime": 1393.16,
-      "endTime": 1402.0,
-      "text": "It's also important to recognise that groups within a single organisation might behave differently.",
-      "timestampSource": "estimated",
+      "startTime": 1520.8,
+      "endTime": 1528.46,
+      "text": "In addition, it's been found that public sector employers have less of a tendency to dismiss employees for being absent.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-197",
       "part": 4,
-      "startTime": 1402.0,
-      "endTime": 1418.52,
-      "text": "For example, one of the other underlying themes in the literature is that there is a connection between how often an employee is absent and what size of work group he or she belongs to.",
-      "timestampSource": "estimated",
+      "startTime": 1528.46,
+      "endTime": 1535.02,
+      "text": "And all of these could be additional or alternative reasons for higher absence rates in the public sector.",
+      "timestampSource": "exact",
       "qTags": []
     },
     {
       "id": "seg-198",
       "part": 4,
-      "startTime": 1418.52,
-      "endTime": 1426.56,
-      "text": "Specifically, it's been found that the bigger the group, the higher the levels of absence.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-199",
-      "part": 4,
-      "startTime": 1426.56,
-      "endTime": 1437.46,
-      "text": "On a related theme, some writers have focused on a comparison between public sector organisations and private sector ones.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-200",
-      "part": 4,
-      "startTime": 1437.46,
-      "endTime": 1444.16,
-      "text": "There is some evidence that absence levels are higher in the public sector.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-201",
-      "part": 4,
-      "startTime": 1444.16,
-      "endTime": 1448.71,
-      "text": "It's not exactly clear why this should be the case,",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-202",
-      "part": 4,
-      "startTime": 1448.71,
-      "endTime": 1460.14,
-      "text": "but one explanation that has been often put forwards is that in some cases, public sector organisations may not be as efficient.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-203",
-      "part": 4,
-      "startTime": 1460.14,
-      "endTime": 1470.23,
-      "text": "This might be because their systems are more bureaucratic due to factors which are external rather than internal,",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-204",
-      "part": 4,
-      "startTime": 1470.23,
-      "endTime": 1476.57,
-      "text": "like the degree of control the government imposes on the public sector.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-205",
-      "part": 4,
-      "startTime": 1476.57,
-      "endTime": 1483.0,
-      "text": "However, most recent literature suggests a number of other explanations.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-206",
-      "part": 4,
-      "startTime": 1483.0,
-      "endTime": 1490.14,
-      "text": "Firstly, a public sector organisation tends to have a workforce which is larger.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-207",
-      "part": 4,
-      "startTime": 1490.14,
-      "endTime": 1502.2,
-      "text": "Also, it tends to employ a higher number of female and older employees, both of which groups are likely to record higher absence rates.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-208",
-      "part": 4,
-      "startTime": 1502.2,
-      "endTime": 1518.36,
-      "text": "It is also suggested that public sector organisations are more likely to give their absent employees benefits for a longer period and are less likely to place restrictions on these.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-209",
-      "part": 4,
-      "startTime": 1518.36,
-      "endTime": 1529.08,
-      "text": "In addition, it's been found that public sector employers have less of a tendency to dismiss employees for being absent.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-210",
-      "part": 4,
-      "startTime": 1529.08,
-      "endTime": 1538.55,
-      "text": "And all of these could be additional or alternative reasons for higher absence rates in the public sector.",
-      "timestampSource": "estimated",
-      "qTags": []
-    },
-    {
-      "id": "seg-211",
-      "part": 4,
-      "startTime": 1538.55,
-      "endTime": 1548.37,
-      "text": "Now, I'd like to talk about the management of absence. to transfer your answers to the listening answer sheet.",
-      "timestampSource": "estimated",
+      "startTime": 1535.38,
+      "endTime": 1538.78,
+      "text": "Now, I'd like to talk about the management of absence.",
+      "timestampSource": "exact",
       "qTags": []
     }
   ],
@@ -2734,903 +2596,700 @@
     {
       "id": "long-001",
       "part": 1,
-      "startTime": 0.0,
-      "endTime": 25.97,
-      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections.",
+      "startTime": 106.7,
+      "endTime": 127.4,
+      "text": "Beachheads Travel, Pam speaking. Hi, my name's Duncan. I'm hoping you'll be able to help me organise a trip to Beachheads. Sure, let me just fill in our customer request sheet while I'm speaking to you. Could you tell me your name again, please? Yes, it's Duncan. Duncan White.",
       "segmentIds": [
         "seg-001",
         "seg-002",
-        "seg-003"
+        "seg-003",
+        "seg-004",
+        "seg-005"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-002",
       "part": 1,
-      "startTime": 25.97,
-      "endTime": 45.85,
-      "text": "Write all your answers in the listening question booklet. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to section 1 on page 2 of your question booklet. Section 1.",
+      "startTime": 130.52,
+      "endTime": 147.18,
+      "text": "The man's name is Duncan White, so White has been written in the space. Now we shall begin. You should answer the questions as you listen because you will not hear the recording a second time.",
       "segmentIds": [
-        "seg-004",
-        "seg-005",
-        "seg-006"
+        "seg-006",
+        "seg-007",
+        "seg-008"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-003",
       "part": 1,
-      "startTime": 45.85,
-      "endTime": 66.89,
-      "text": "You will hear a telephone conversation between a travel agent and a man who needs help planning a holiday. First, you have some time to look at questions 1 to 7 on page 2. You will see that there is an example that has been done for you.",
+      "startTime": 154.94,
+      "endTime": 172.74,
+      "text": "Beachheads Travel, Pam speaking. Hi, my name's Duncan. I'm hoping you'll be able to help me organise a trip to Beachheads. Sure, let me just fill in our customer request sheet while I'm speaking to you. Could you tell me your name again, please? Yes, it's Duncan. Duncan White.",
       "segmentIds": [
-        "seg-007",
-        "seg-008",
-        "seg-009"
+        "seg-009",
+        "seg-010",
+        "seg-011",
+        "seg-012",
+        "seg-013"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
       "id": "long-004",
       "part": 1,
-      "startTime": 66.89,
-      "endTime": 84.72,
-      "text": "On this occasion only, the conversation relating to this will be played first. Beachheads Travel, Pam speaking. Hi, my name's Duncan. I'm hoping you'll be able to help me organise a trip to Beachheads.",
+      "startTime": 173.32,
+      "endTime": 192.02,
+      "text": "OK, and is the trip just for yourself? No, there's three adults, myself, my wife and my mother, and our two daughters, Chloe and Eden. So when are you thinking of travelling? During the next school holidays. So they start on the 12th of October, don't they?",
       "segmentIds": [
-        "seg-010",
-        "seg-011",
-        "seg-012"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-005",
-      "part": 1,
-      "startTime": 84.72,
-      "endTime": 106.57,
-      "text": "Sure, let me just fill in our customer request sheet while I'm speaking to you. Could you tell me your name again, please? Yes, it's Duncan. Duncan White. The man's name is Duncan White, so White has been written in the space. Now we shall begin.",
-      "segmentIds": [
-        "seg-013",
         "seg-014",
-        "seg-015"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-006",
-      "part": 1,
-      "startTime": 106.57,
-      "endTime": 130.49,
-      "text": "You should answer the questions as you listen because you will not hear the recording a second time. Listen carefully and answer questions 1 to 7. Beachheads Travel, Pam speaking. Hi, my name's Duncan. I'm hoping you'll be able to help me organise a trip to Beachheads.",
-      "segmentIds": [
+        "seg-015",
         "seg-016",
         "seg-017",
         "seg-018"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-007",
+      "id": "long-005",
       "part": 1,
-      "startTime": 130.49,
-      "endTime": 147.59,
-      "text": "Sure, let me just fill in our customer request sheet while I'm speaking to you. Could you tell me your name again, please? Yes, it's Duncan. Duncan White. OK, and is the trip just for yourself?",
+      "startTime": 192.5,
+      "endTime": 216.28,
+      "text": "Yes, but we'll be arriving on the 15th and we want to stay for a fortnight. Right, got all that. Now I'll just take a few notes about the type of holiday you want so I can make the bookings for you. Have you thought about where you want to stay while you're here? In the first week, we'd like a bit of luxury and we're planning on staying in a hotel on the beach if possible. That'll be so much better than a campsite.",
       "segmentIds": [
         "seg-019",
         "seg-020",
-        "seg-021"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-008",
-      "part": 1,
-      "startTime": 147.59,
-      "endTime": 166.94,
-      "text": "No, there's three adults, myself, my wife and my mother, and our two daughters, Chloe and Eden. So when are you thinking of travelling? During the next school holidays. So they start on the 12th of October, don't they?",
-      "segmentIds": [
+        "seg-021",
         "seg-022",
-        "seg-023",
-        "seg-024"
+        "seg-023"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-009",
+      "id": "long-006",
       "part": 1,
-      "startTime": 166.94,
-      "endTime": 190.22,
-      "text": "Yes, but we'll be arriving on the 15th and we want to stay for a fortnight. Right, got all that. Now I'll just take a few notes about the type of holiday you want so I can make the bookings for you. Have you thought about where you want to stay while you're here?",
+      "startTime": 216.6,
+      "endTime": 237.14,
+      "text": "We usually stay in a tent when we go away, but we're going to treat ourselves this time. And do you have a figure in mind for how much you'd like to spend? Are we likely to get anything for under $150 a night? Not really. You'd have to spend at least $175 for a big enough room. OK, we can stretch to that.",
       "segmentIds": [
+        "seg-024",
         "seg-025",
         "seg-026",
         "seg-027",
         "seg-028"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-010",
+      "id": "long-007",
       "part": 1,
-      "startTime": 190.22,
-      "endTime": 211.8,
-      "text": "In the first week, we'd like a bit of luxury and we're planning on staying in a hotel on the beach if possible. That'll be so much better than a campsite. We usually stay in a tent when we go away, but we're going to treat ourselves this time.",
+      "startTime": 237.4,
+      "endTime": 257.8,
+      "text": "I'll just have to stop myself thinking that when we go camping we only pay about $200 for a whole week. Well, I'm sure it will be worth it. I can also organise some activities for your first week. Is there anything your daughters would particularly like to do? They want to try sailing this year. Last year it was surfing. They were mad about it.",
       "segmentIds": [
         "seg-029",
         "seg-030",
-        "seg-031"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-011",
-      "part": 1,
-      "startTime": 211.8,
-      "endTime": 231.05,
-      "text": "And do you have a figure in mind for how much you'd like to spend? Are we likely to get anything for under $150 a night? Not really. You'd have to spend at least $175 for a big enough room. OK, we can stretch to that.",
-      "segmentIds": [
+        "seg-031",
         "seg-032",
-        "seg-033",
-        "seg-034"
+        "seg-033"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-012",
+      "id": "long-008",
       "part": 1,
-      "startTime": 231.05,
-      "endTime": 254.15,
-      "text": "I'll just have to stop myself thinking that when we go camping we only pay about $200 for a whole week. Well, I'm sure it will be worth it. I can also organise some activities for your first week. Is there anything your daughters would particularly like to do?",
+      "startTime": 258.1,
+      "endTime": 269.96,
+      "text": "Kids change their minds a lot, don't they? Mine are into cycling at the moment. I know someone who can teach them to sail. Would you like me to organise a class for them? Wonderful. We're bringing our own boat with us.",
       "segmentIds": [
+        "seg-034",
         "seg-035",
         "seg-036",
-        "seg-037"
+        "seg-037",
+        "seg-038"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-013",
+      "id": "long-009",
       "part": 1,
-      "startTime": 254.15,
-      "endTime": 276.89,
-      "text": "They want to try sailing this year. Last year it was surfing. They were mad about it. Kids change their minds a lot, don't they? Mine are into cycling at the moment. I know someone who can teach them to sail. Would you like me to organise a class for them?",
+      "startTime": 270.14,
+      "endTime": 287.22,
+      "text": "And what about your wife and your mother? Well, my mother Susan goes bowling when she's in Brisbane but my wife Jenny doesn't really like it. She loves bushwalking but obviously my mother can't manage that. Can I suggest golf for them both? It's a gentler kind of walk.",
       "segmentIds": [
-        "seg-038",
         "seg-039",
-        "seg-040"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-014",
-      "part": 1,
-      "startTime": 276.89,
-      "endTime": 299.46,
-      "text": "Wonderful. We're bringing our own boat with us. And what about your wife and your mother? Well, my mother Susan goes bowling when she's in Brisbane but my wife Jenny doesn't really like it. She loves bushwalking but obviously my mother can't manage that.",
-      "segmentIds": [
+        "seg-040",
         "seg-041",
         "seg-042",
         "seg-043"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-015",
+      "id": "long-010",
       "part": 1,
-      "startTime": 299.46,
-      "endTime": 320.59,
-      "text": "Can I suggest golf for them both? It's a gentler kind of walk. There's a beautiful course here with magnificent views of the sea. Sounds perfect. OK, I'll organise a time. Thanks. Could you send me some leaflets about fishing in the area?",
+      "startTime": 287.34,
+      "endTime": 303.1,
+      "text": "There's a beautiful course here with magnificent views of the sea. Sounds perfect. OK, I'll organise a time. Thanks. Could you send me some leaflets about fishing in the area? I'd like to take the boat out myself. Sure, there are some good spots around. Great.",
       "segmentIds": [
         "seg-044",
         "seg-045",
-        "seg-046"
+        "seg-046",
+        "seg-047"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-016",
+      "id": "long-011",
       "part": 1,
-      "startTime": 320.59,
-      "endTime": 345.12,
-      "text": "I'd like to take the boat out myself. Sure, there are some good spots around. Great. Before you hear the rest of the conversation, you have some time to look at questions 8 to 10 on page 2. Now listen and answer questions 8 to 10. OK, so let's think about the second week now.",
+      "startTime": 336.16,
+      "endTime": 349.76,
+      "text": "OK, so let's think about the second week now. We want something totally different. We'd like to stay up in the mountains in the National Park. Very nice. And what kind of accommodation are you thinking of? There are some beautiful houses you can rent.",
       "segmentIds": [
-        "seg-047",
         "seg-048",
-        "seg-049"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-017",
-      "part": 1,
-      "startTime": 345.12,
-      "endTime": 363.21,
-      "text": "We want something totally different. We'd like to stay up in the mountains in the National Park. Very nice. And what kind of accommodation are you thinking of? There are some beautiful houses you can rent.",
-      "segmentIds": [
+        "seg-049",
         "seg-050",
         "seg-051",
-        "seg-052",
-        "seg-053"
+        "seg-052"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-018",
+      "id": "long-012",
       "part": 1,
-      "startTime": 363.21,
-      "endTime": 384.61,
-      "text": "Yes, we did think about renting a house but I'm worried about the cost. Is there anything a bit cheaper, say a caravan or even a cabin? It'd have to be a caravan because they don't have cabins at the campground but the standard is very high.",
+      "startTime": 350.12,
+      "endTime": 373.22,
+      "text": "Yes, we did think about renting a house but I'm worried about the cost. Is there anything a bit cheaper, say a caravan or even a cabin? It'd have to be a caravan because they don't have cabins at the campground but the standard is very high. How much does it cost? $100 a night but they're very roomy with all mod cons. The campground's also in a really good spot.",
       "segmentIds": [
+        "seg-053",
         "seg-054",
         "seg-055",
-        "seg-056"
+        "seg-056",
+        "seg-057"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-019",
+      "id": "long-013",
       "part": 1,
-      "startTime": 384.61,
-      "endTime": 401.0,
-      "text": "How much does it cost? $100 a night but they're very roomy with all mod cons. The campground's also in a really good spot. What activities are you thinking of doing in that second week?",
+      "startTime": 373.5,
+      "endTime": 395.9,
+      "text": "What activities are you thinking of doing in that second week? Well, it's actually going to be my wife's birthday so I'd like to do something a bit special for her. I can book a really nice massage for her after lunch on that day. Lovely. Or would she rather try something more adventurous like a walk in the treetops? It's really exciting. You go along a really high wooden bridge.",
       "segmentIds": [
-        "seg-057",
         "seg-058",
-        "seg-059"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-020",
-      "part": 1,
-      "startTime": 401.0,
-      "endTime": 423.65,
-      "text": "Well, it's actually going to be my wife's birthday so I'd like to do something a bit special for her. I can book a really nice massage for her after lunch on that day. Lovely. Or would she rather try something more adventurous like a walk in the treetops?",
-      "segmentIds": [
+        "seg-059",
         "seg-060",
         "seg-061",
         "seg-062"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-021",
+      "id": "long-014",
       "part": 1,
-      "startTime": 423.65,
-      "endTime": 445.95,
-      "text": "It's really exciting. You go along a really high wooden bridge. Oh no, she'd be terrified. Stick with your first idea. Are there any nice places to eat near the campground? Yes, there's a fantastic wood-fired pizza restaurant called Marco's. Oh, good.",
+      "startTime": 396.0,
+      "endTime": 411.9,
+      "text": "Oh no, she'd be terrified. Stick with your first idea. Are there any nice places to eat near the campground? Yes, there's a fantastic wood-fired pizza restaurant called Marco's. Oh, good. I've got two very fussy daughters.",
       "segmentIds": [
         "seg-063",
         "seg-064",
-        "seg-065"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-022",
-      "part": 1,
-      "startTime": 445.95,
-      "endTime": 464.96,
-      "text": "I've got two very fussy daughters. Could you send me their menu so we can check it'll be OK? No problem, Duncan. Now, while I remember That is the end of section 1. You now have half a minute to check your answers.",
-      "segmentIds": [
+        "seg-065",
         "seg-066",
-        "seg-067",
-        "seg-068"
+        "seg-067"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-023",
-      "part": 2,
-      "startTime": 464.96,
-      "endTime": 487.67,
-      "text": "Now turn to section 2 on page 3. Section 2 You will hear a talk about two new initiatives to encourage bicycle use in a city in Australia. First, you have some time to look at questions 11 to 15 on page 3. Now listen carefully and answer questions 11 to 15.",
+      "id": "long-015",
+      "part": 1,
+      "startTime": 412.06,
+      "endTime": 418.98,
+      "text": "Could you send me their menu so we can check it'll be OK? No problem, Duncan. Now, while I remember",
       "segmentIds": [
-        "seg-069",
+        "seg-068",
+        "seg-069"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 2,
+      "startTime": 515.5,
+      "endTime": 534.9,
+      "text": "Thank you for all coming to today's information session on bicycle use in the inner city. I'll start by telling you about the City Council's new bicycle hire scheme, which is called CityCycle. We want to provide people who don't own a bike a convenient way to get around the inner city.",
+      "segmentIds": [
         "seg-070",
         "seg-071",
         "seg-072"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-024",
+      "id": "long-017",
       "part": 2,
-      "startTime": 487.67,
-      "endTime": 513.07,
-      "text": "Thank you for all coming to today's information session on bicycle use in the inner city. I'll start by telling you about the City Council's new bicycle hire scheme, which is called CityCycle. We want to provide people who don't own a bike a convenient way to get around the inner city.",
+      "startTime": 535.62,
+      "endTime": 558.18,
+      "text": "Now, to use CityCycle, first you need to subscribe to the service and you can do that online. Just go to the City Council website and follow the prompts and you'll be sent a card. Once you've done that, you can unlock one of our bikes from any station in the inner city area. Just go to the station and log on at the computer terminal.",
       "segmentIds": [
         "seg-073",
         "seg-074",
-        "seg-075"
+        "seg-075",
+        "seg-076"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-025",
+      "id": "long-018",
       "part": 2,
-      "startTime": 513.07,
-      "endTime": 537.49,
-      "text": "Now, to use CityCycle, first you need to subscribe to the service and you can do that online. Just go to the City Council website and follow the prompts and you'll be sent a card. Once you've done that, you can unlock one of our bikes from any station in the inner city area.",
+      "startTime": 558.36,
+      "endTime": 580.4,
+      "text": "You'll be shown a diagram of the bikes that are currently available at the station, so you just choose the one you want by touching the screen. You don't need a password or anything. Once you've chosen your bike, you can then go to where the bikes are stored and push the release button. After you do that, you have about 10 seconds to take the bike out of the rack. You can now start your bike ride.",
       "segmentIds": [
-        "seg-076",
         "seg-077",
-        "seg-078"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-026",
-      "part": 2,
-      "startTime": 537.49,
-      "endTime": 558.96,
-      "text": "Just go to the station and log on at the computer terminal. You'll be shown a diagram of the bikes that are currently available at the station, so you just choose the one you want by touching the screen. You don't need a password or anything.",
-      "segmentIds": [
+        "seg-078",
         "seg-079",
         "seg-080",
         "seg-081"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-027",
+      "id": "long-019",
       "part": 2,
-      "startTime": 558.96,
-      "endTime": 578.19,
-      "text": "Once you've chosen your bike, you can then go to where the bikes are stored and push the release button. After you do that, you have about 10 seconds to take the bike out of the rack. You can now start your bike ride.",
+      "startTime": 581.34,
+      "endTime": 602.56,
+      "text": "Further down the track, we're thinking about adding lockers for bags if the scheme is popular. Oh, at this point, can I just clarify something that a few people have been asking, and that is, do I have to wear a helmet? Well, the answer is yes, you do. That's a requirement by law in this state, so don't forget to wear one at all times when riding.",
       "segmentIds": [
         "seg-082",
         "seg-083",
-        "seg-084"
+        "seg-084",
+        "seg-085"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-028",
+      "id": "long-020",
       "part": 2,
-      "startTime": 578.19,
-      "endTime": 600.55,
-      "text": "Further down the track, we're thinking about adding lockers for bags if the scheme is popular. Oh, at this point, can I just clarify something that a few people have been asking, and that is, do I have to wear a helmet? Well, the answer is yes, you do.",
+      "startTime": 603.02,
+      "endTime": 624.08,
+      "text": "Now, at the end of your trip, just come back to one of the city cycle stations and wheel the bike into the bike rack. It's important to make sure that the bike is properly secured because you could be held liable if it goes missing. The green light on the rack will confirm that it has been locked into place, so we hope that with such a simple scheme, we'll have many users.",
       "segmentIds": [
-        "seg-085",
         "seg-086",
-        "seg-087"
+        "seg-087",
+        "seg-088"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-029",
+      "id": "long-021",
       "part": 2,
-      "startTime": 600.55,
-      "endTime": 629.81,
-      "text": "That's a requirement by law in this state, so don't forget to wear one at all times when riding. Now, at the end of your trip, just come back to one of the city cycle stations and wheel the bike into the bike rack. It's important to make sure that the bike is properly secured because you could be held liable if it goes missing.",
+      "startTime": 666.9,
+      "endTime": 684.98,
+      "text": "Let's turn to another initiative, the layout of the new Council Bicycle Centre, which will be opening next week. This is for people who already own a bike. We wanted to provide a place for cyclists to store their bikes, then change before going on to work. Can you all see the plan?",
       "segmentIds": [
-        "seg-088",
         "seg-089",
-        "seg-090"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-030",
-      "part": 2,
-      "startTime": 629.81,
-      "endTime": 654.86,
-      "text": "The green light on the rack will confirm that it has been locked into place, so we hope that with such a simple scheme, we'll have many users. Before you hear the rest of the talk, you have some time to look at questions 16 to 20 on page 4. Now listen and answer questions 16 to 20.",
-      "segmentIds": [
+        "seg-090",
         "seg-091",
-        "seg-092",
-        "seg-093"
+        "seg-092"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-031",
+      "id": "long-022",
       "part": 2,
-      "startTime": 654.86,
-      "endTime": 677.59,
-      "text": "Let's turn to another initiative, the layout of the new Council Bicycle Centre, which will be opening next week. This is for people who already own a bike. We wanted to provide a place for cyclists to store their bikes, then change before going on to work.",
+      "startTime": 685.28,
+      "endTime": 706.44,
+      "text": "If you look at the bottom towards the right-hand corner, you'll see where the cyclists enter the centre. People want more than just a place to park their bikes. That's why you'll see a coffee cart. That's it there between the reception desk and the vending machines. I'm sure it'll be very popular with commuters first thing in the morning.",
       "segmentIds": [
+        "seg-093",
         "seg-094",
         "seg-095",
-        "seg-096"
+        "seg-096",
+        "seg-097"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-032",
+      "id": "long-023",
       "part": 2,
-      "startTime": 677.59,
-      "endTime": 697.36,
-      "text": "Can you all see the plan? If you look at the bottom towards the right-hand corner, you'll see where the cyclists enter the centre. People want more than just a place to park their bikes. That's why you'll see a coffee cart.",
+      "startTime": 707.26,
+      "endTime": 725.72,
+      "text": "Now, of course, some of our cyclists have very expensive bikes, so we'll have a totally secure place for them to park. That's it in the top right-hand corner. Now, there's another special service for the cyclists that I'd like to show you. Look back at the entry on the map.",
       "segmentIds": [
-        "seg-097",
         "seg-098",
-        "seg-099"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-033",
-      "part": 2,
-      "startTime": 697.36,
-      "endTime": 720.53,
-      "text": "That's it there between the reception desk and the vending machines. I'm sure it'll be very popular with commuters first thing in the morning. Now, of course, some of our cyclists have very expensive bikes, so we'll have a totally secure place for them to park.",
-      "segmentIds": [
+        "seg-099",
         "seg-100",
-        "seg-101",
-        "seg-102"
+        "seg-101"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-034",
+      "id": "long-024",
       "part": 2,
-      "startTime": 720.53,
-      "endTime": 743.61,
-      "text": "That's it in the top right-hand corner. Now, there's another special service for the cyclists that I'd like to show you. Look back at the entry on the map. Just to the left of reception, on the Donovan Street side of the building, you'll see quite a large room.",
+      "startTime": 725.96,
+      "endTime": 746.12,
+      "text": "Just to the left of reception, on the Donovan Street side of the building, you'll see quite a large room. That's the workshop, where cyclists will be able to leave their bikes for repairs while they are at work. We've put a lot of thought into the facilities of the centre. If you have any valuables with you, you can leave these in our lockers.",
       "segmentIds": [
+        "seg-102",
         "seg-103",
         "seg-104",
-        "seg-105",
-        "seg-106"
+        "seg-105"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-035",
+      "id": "long-025",
       "part": 2,
-      "startTime": 743.61,
-      "endTime": 764.81,
-      "text": "That's the workshop, where cyclists will be able to leave their bikes for repairs while they are at work. We've put a lot of thought into the facilities of the centre. If you have any valuables with you, you can leave these in our lockers.",
+      "startTime": 746.2,
+      "endTime": 772.98,
+      "text": "The locker room is in the top left-hand corner of your plan, so you can store your bag or wallet there before you head off for a shower. We've installed 10 state-of-the-art power showers. They are located in this room here, to the left of the hairdryers and just near the exit. There's also a water cooler available, so you can grab a drink and then pick up a towel next to the water cooler there.",
       "segmentIds": [
+        "seg-106",
         "seg-107",
         "seg-108",
         "seg-109"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-036",
-      "part": 2,
-      "startTime": 764.81,
-      "endTime": 789.41,
-      "text": "The locker room is in the top left-hand corner of your plan, so you can store your bag or wallet there before you head off for a shower. We've installed 10 state-of-the-art power showers. They are located in this room here, to the left of the hairdryers and just near the exit.",
+      "id": "long-026",
+      "part": 3,
+      "startTime": 864.72,
+      "endTime": 890.32,
+      "text": "Greg, about this project on renewable energy, we've got to look at some products that use it and then see how aware people are of this kind of energy. Well, first we must clarify what renewable energy is. I've done that. It's energy from a source which is replaced by a natural process such as wind, tidal energy from the sea, energy from the sun and so on.",
       "segmentIds": [
         "seg-110",
         "seg-111",
         "seg-112"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-037",
-      "part": 2,
-      "startTime": 789.41,
-      "endTime": 807.12,
-      "text": "There's also a water cooler available, so you can grab a drink and then pick up a towel next to the water cooler there. That is the end of Section 2. You now have half a minute to check your answers.",
+      "id": "long-027",
+      "part": 3,
+      "startTime": 890.32,
+      "endTime": 912.5,
+      "text": "And I've found some very interesting examples of products using these sources. So have I. But what have you got? Well, the first one is a company in Germany which is producing huge kites that pull ships along. The kites are attached by long cables and they fly up to 500 metres above the sea. They must be pretty big.",
       "segmentIds": [
         "seg-113",
-        "seg-114"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-038",
-      "part": 3,
-      "startTime": 807.12,
-      "endTime": 829.85,
-      "text": "Now turn to Section 3 on page 5. Section 3 You will hear two students called Sylvia and Greg discussing their project on renewable energy. First, you have some time to look at questions 21 to 25 on page 5. Now listen carefully and answer questions 21 to 25.",
-      "segmentIds": [
+        "seg-114",
         "seg-115",
-        "seg-116",
+        "seg-116"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 3,
+      "startTime": 912.74,
+      "endTime": 933.18,
+      "text": "And it means that they can be powered by the wind no matter what the weather. That sounds like a good idea. But will they really help reduce energy use? As well as that, apparently the shipping industry is one of the worst polluters on the planet as they use cheap diesel fuel which has terrible toxic emissions.",
+      "segmentIds": [
         "seg-117",
-        "seg-118"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-039",
-      "part": 3,
-      "startTime": 829.85,
-      "endTime": 861.63,
-      "text": "Greg, about this project on renewable energy, we've got to look at some products that use it and then see how aware people are of this kind of energy. Well, first we must clarify what renewable energy is. I've done that. It's energy from a source which is replaced by a natural process such as wind, tidal energy from the sea, energy from the sun and so on.",
-      "segmentIds": [
+        "seg-118",
         "seg-119",
-        "seg-120",
-        "seg-121"
+        "seg-120"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-040",
+      "id": "long-029",
       "part": 3,
-      "startTime": 861.63,
-      "endTime": 880.16,
-      "text": "And I've found some very interesting examples of products using these sources. So have I. But what have you got? Well, the first one is a company in Germany which is producing huge kites that pull ships along.",
+      "startTime": 933.32,
+      "endTime": 953.56,
+      "text": "The company believes these kites could cut the use of these fuels by 50% and reduce the emissions by the same amount. Sounds good. And I found a company in the US which is developing a new type of car. Apparently they're producing a sports car which doesn't use petrol at all, just electricity.",
       "segmentIds": [
+        "seg-121",
         "seg-122",
-        "seg-123",
-        "seg-124"
+        "seg-123"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-041",
+      "id": "long-030",
       "part": 3,
-      "startTime": 880.16,
-      "endTime": 903.97,
-      "text": "The kites are attached by long cables and they fly up to 500 metres above the sea. They must be pretty big. And it means that they can be powered by the wind no matter what the weather. That sounds like a good idea. But will they really help reduce energy use? You bet.",
+      "startTime": 953.8,
+      "endTime": 970.54,
+      "text": "But for the US market only. Sounds intriguing. Do we know what it'll look like? They're very secretive about it and all they say is that it won't look ugly and it'll have zero emissions. Wow, really? So they say. Any other products?",
       "segmentIds": [
+        "seg-124",
         "seg-125",
-        "seg-126",
+        "seg-126"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 3,
+      "startTime": 970.86,
+      "endTime": 991.04,
+      "text": "I found an interesting article about a man in South Africa who's selling stoves using ethanol to the local people. Ethanol? Yes, it's made from the sugar of certain crops. Most of the local people use paraffin stoves at the moment and they are dangerous because they can explode quite easily. Right.",
+      "segmentIds": [
         "seg-127",
-        "seg-128"
+        "seg-128",
+        "seg-129"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-042",
+      "id": "long-032",
       "part": 3,
-      "startTime": 903.97,
-      "endTime": 936.1,
-      "text": "As well as that, apparently the shipping industry is one of the worst polluters on the planet as they use cheap diesel fuel which has terrible toxic emissions. The company believes these kites could cut the use of these fuels by 50% and reduce the emissions by the same amount. Sounds good. And I found a company in the US which is developing a new type of car.",
+      "startTime": 991.54,
+      "endTime": 1016.6,
+      "text": "Now for the next part, we have to do a survey to find out how aware the public is about this kind of energy. Who shall we approach? Local businesses? I think it's easier to do a survey of the general public rather than local companies. Why? Well, last time we sent all those email surveys to commercial organisations and we only had replies from 5% of them. Oh, I forgot that.",
       "segmentIds": [
-        "seg-129",
         "seg-130",
-        "seg-131"
+        "seg-131",
+        "seg-132"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-043",
+      "id": "long-033",
       "part": 3,
-      "startTime": 936.1,
-      "endTime": 960.89,
-      "text": "Apparently they're producing a sports car which doesn't use petrol at all, just electricity. But for the US market only. Sounds intriguing. Do we know what it'll look like? They're very secretive about it and all they say is that it won't look ugly and it'll have zero emissions.",
+      "startTime": 1017.04,
+      "endTime": 1033.48,
+      "text": "OK, then. What about the other students and the lecturers here in the university? You know what the lecturers are like. They're so busy, they won't have the time. But the students will, I'm sure. OK. And as well as that, we could target the local schools like last time.",
       "segmentIds": [
-        "seg-132",
         "seg-133",
-        "seg-134"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-044",
-      "part": 3,
-      "startTime": 960.89,
-      "endTime": 980.13,
-      "text": "Wow, really? So they say. Any other products? I found an interesting article about a man in South Africa who's selling stoves using ethanol to the local people. Ethanol? Yes, it's made from the sugar of certain crops.",
-      "segmentIds": [
+        "seg-134",
         "seg-135",
         "seg-136",
         "seg-137"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-045",
+      "id": "long-034",
       "part": 3,
-      "startTime": 980.13,
-      "endTime": 1001.08,
-      "text": "Most of the local people use paraffin stoves at the moment and they are dangerous because they can explode quite easily. Right. Now for the next part, we have to do a survey to find out how aware the public is about this kind of energy.",
+      "startTime": 1033.78,
+      "endTime": 1048.52,
+      "text": "School kids just love doing surveys. I think we want to stick to adults for this, don't you? You're probably right. Maybe we could approach people who rent or own properties around here since they're the ones who have to pay for the energy. Exactly.",
       "segmentIds": [
         "seg-138",
         "seg-139",
         "seg-140"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-046",
+      "id": "long-035",
       "part": 3,
-      "startTime": 1001.08,
-      "endTime": 1023.1,
-      "text": "Who shall we approach? Local businesses? I think it's easier to do a survey of the general public rather than local companies. Why? Well, last time we sent all those email surveys to commercial organisations and we only had replies from 5% of them.",
+      "startTime": 1102.44,
+      "endTime": 1124.96,
+      "text": "Now, what about the kind of questions we want to include in the survey? Well, we need to find out if they know what renewable energy is and how familiar people are with the concept. I know it's been all over the news lately, but I think a lot of people are still in the dark about it. Do you think so? I'm not sure I agree. But we can have that in if you want.",
       "segmentIds": [
         "seg-141",
         "seg-142",
-        "seg-143"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-047",
-      "part": 3,
-      "startTime": 1023.1,
-      "endTime": 1042.35,
-      "text": "Oh, I forgot that. OK, then. What about the other students and the lecturers here in the university? You know what the lecturers are like. They're so busy, they won't have the time. But the students will, I'm sure. OK.",
-      "segmentIds": [
+        "seg-143",
         "seg-144",
-        "seg-145",
+        "seg-145"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 3,
+      "startTime": 1125.96,
+      "endTime": 1148.7,
+      "text": "We also need to find out what they think about the use of traditional energy sources like gas and coal and if they know what effect these types of energy have on their environment. And what they cost. That's not so important. But we ought to see what they think is going to happen to the consumption of traditional energy sources. You're right. Then there's nuclear power.",
+      "segmentIds": [
         "seg-146",
-        "seg-147"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-048",
-      "part": 3,
-      "startTime": 1042.35,
-      "endTime": 1058.82,
-      "text": "And as well as that, we could target the local schools like last time. School kids just love doing surveys. I think we want to stick to adults for this, don't you? You're probably right.",
-      "segmentIds": [
+        "seg-147",
         "seg-148",
-        "seg-149",
-        "seg-150"
+        "seg-149"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-049",
+      "id": "long-037",
       "part": 3,
-      "startTime": 1058.82,
-      "endTime": 1079.86,
-      "text": "Maybe we could approach people who rent or own properties around here since they're the ones who have to pay for the energy. Exactly. Before you hear the rest of the discussion, you have some time to look at questions 26 to 30 on page 6.",
+      "startTime": 1148.8,
+      "endTime": 1170.98,
+      "text": "That's an interesting one because it's cleaner and more efficient in many ways than other fuels. But the safety factor has always worried people. I know that the technology has improved greatly since it was first used, but I don't think everyone is convinced. Are there any problems with renewable energy? Yes. And we need to know what people think about them.",
       "segmentIds": [
+        "seg-150",
         "seg-151",
         "seg-152",
-        "seg-153"
+        "seg-153",
+        "seg-154"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-050",
+      "id": "long-038",
       "part": 3,
-      "startTime": 1079.86,
-      "endTime": 1099.65,
-      "text": "Now listen and answer questions 26 to 30. Now, what about the kind of questions we want to include in the survey? Well, we need to find out if they know what renewable energy is and how familiar people are with the concept.",
+      "startTime": 1171.34,
+      "endTime": 1192.1,
+      "text": "One argument is that it's going to be too expensive to use solar or wind power. But once people realise the benefits to us all, the price is bound to come down. It's always expensive to start with. Once enough people want it, it'll be a viable prospect. That's true. But the other thing is they don't like it.",
       "segmentIds": [
-        "seg-154",
         "seg-155",
-        "seg-156"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-051",
-      "part": 3,
-      "startTime": 1099.65,
-      "endTime": 1131.6,
-      "text": "I know it's been all over the news lately, but I think a lot of people are still in the dark about it. Do you think so? I'm not sure I agree. But we can have that in if you want. We also need to find out what they think about the use of traditional energy sources like gas and coal and if they know what effect these types of energy have on their environment.",
-      "segmentIds": [
+        "seg-156",
         "seg-157",
         "seg-158",
         "seg-159"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-052",
+      "id": "long-039",
       "part": 3,
-      "startTime": 1131.6,
-      "endTime": 1148.52,
-      "text": "And what they cost. That's not so important. But we ought to see what they think is going to happen to the consumption of traditional energy sources. You're right. Then there's nuclear power.",
+      "startTime": 1192.28,
+      "endTime": 1215.52,
+      "text": "They say that some of the technology is ugly, like the big windmills used. A lot of people think they spoil the countryside, and I agree. They're not that bad. They're pretty efficient, so perhaps it's a case of choosing the right place for them where they look least out of place. A good point. It'll be very interesting to see the results of this survey.",
       "segmentIds": [
         "seg-160",
         "seg-161",
-        "seg-162"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-053",
-      "part": 3,
-      "startTime": 1148.52,
-      "endTime": 1171.96,
-      "text": "That's an interesting one because it's cleaner and more efficient in many ways than other fuels. But the safety factor has always worried people. Yes. I know that the technology has improved greatly since it was first used, but I don't think everyone is convinced.",
-      "segmentIds": [
+        "seg-162",
         "seg-163",
-        "seg-164",
-        "seg-165"
+        "seg-164"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-054",
-      "part": 3,
-      "startTime": 1171.96,
-      "endTime": 1195.06,
-      "text": "Are there any problems with renewable energy? Yes. And we need to know what people think about them. One argument is that it's going to be too expensive to use solar or wind power. But once people realise the benefits to us all, the price is bound to come down.",
+      "id": "long-040",
+      "part": 4,
+      "startTime": 1333.32,
+      "endTime": 1352.88,
+      "text": "Hello, everyone. For my assignment, I did a review of the literature concerning absence in the workplace, and I'm going to present a summary of what I found. I looked at some research on absence from work. That is, the number of days' work people miss for various reasons. Researchers refer to two types of absence.",
       "segmentIds": [
+        "seg-165",
         "seg-166",
         "seg-167",
         "seg-168",
         "seg-169"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-055",
-      "part": 3,
-      "startTime": 1195.06,
-      "endTime": 1214.83,
-      "text": "It's always expensive to start with. Once enough people want it, it'll be a viable prospect. That's true. But the other thing is they don't like it. They say that some of the technology is ugly, like the big windmills used.",
+      "id": "long-041",
+      "part": 4,
+      "startTime": 1353.14,
+      "endTime": 1371.2,
+      "text": "Frequent absence, which is obviously a more serious problem, and occasional absence. A lot of studies look at the factors involved in absence from work, and several have been identified. Firstly, the gender of the employee may influence his or her ability to attend work.",
       "segmentIds": [
         "seg-170",
         "seg-171",
         "seg-172"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-056",
-      "part": 3,
-      "startTime": 1214.83,
-      "endTime": 1239.8,
-      "text": "A lot of people think they spoil the countryside, and I agree. They're not that bad. They're pretty efficient, so perhaps it's a case of choosing the right place for them where they look least out of place. A good point. It'll be very interesting to see the results of this survey.",
+      "id": "long-042",
+      "part": 4,
+      "startTime": 1371.4,
+      "endTime": 1391.82,
+      "text": "For example, a female is more likely to have child care responsibility, and so could be absent as a result of that. The next factor that has been identified is the attitude of employees toward their work. But there has been a lot of debate about the extent to which this actually does influence absence,",
       "segmentIds": [
         "seg-173",
         "seg-174",
         "seg-175"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-057",
-      "part": 3,
-      "startTime": 1239.8,
-      "endTime": 1246.88,
-      "text": "That is the end of Section 3. You now have half a minute to check your answers.",
-      "segmentIds": [
-        "seg-176"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-058",
+      "id": "long-043",
       "part": 4,
-      "startTime": 1246.88,
-      "endTime": 1266.08,
-      "text": "Now turn to Section 4 on page 7. Section 4. You will hear part of a presentation given by a business student on an assignment about absence from work. First, you have some time to look at questions 31 to 40 on page 7.",
+      "startTime": 1391.82,
+      "endTime": 1411.28,
+      "text": "and some people argue that the research hasn't been conclusive. Some researchers have suggested that another reason for high levels of absence is that some organisations have a culture in which absence is accepted, but others have criticised this model, arguing that it's too much of a generalisation.",
       "segmentIds": [
+        "seg-176",
         "seg-177",
-        "seg-178",
-        "seg-179"
+        "seg-178"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-059",
+      "id": "long-044",
       "part": 4,
-      "startTime": 1266.08,
-      "endTime": 1288.85,
-      "text": "Now listen carefully and answer questions 31 to 40. Hello, everyone. For my assignment, I did a review of the literature concerning absence in the workplace, and I'm going to present a summary of what I found. I looked at some research on absence from work.",
+      "startTime": 1411.74,
+      "endTime": 1430.32,
+      "text": "And then there are factors related to the type of work the employee does. It's been claimed that workers in industry are more likely to have high absence rates than people who work in offices. It's also important to recognise that groups within a single organisation might behave differently.",
       "segmentIds": [
+        "seg-179",
         "seg-180",
-        "seg-181",
-        "seg-182"
+        "seg-181"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-060",
+      "id": "long-045",
       "part": 4,
-      "startTime": 1288.85,
-      "endTime": 1305.99,
-      "text": "That is, the number of days' work people miss for various reasons. Researchers refer to two types of absence. Frequent absence, which is obviously a more serious problem, and occasional absence.",
+      "startTime": 1430.34,
+      "endTime": 1447.84,
+      "text": "For example, one of the other underlying themes in the literature is that there is a connection between how often an employee is absent and what size of work group he or she belongs to. Specifically, it's been found that the bigger the group, the higher the levels of absence.",
       "segmentIds": [
+        "seg-182",
         "seg-183",
-        "seg-184",
-        "seg-185"
+        "seg-184"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-061",
+      "id": "long-046",
       "part": 4,
-      "startTime": 1305.99,
-      "endTime": 1332.78,
-      "text": "A lot of studies look at the factors involved in absence from work, and several have been identified. Firstly, the gender of the employee may influence his or her ability to attend work. For example, a female is more likely to have child care responsibility, and so could be absent as a result of that.",
+      "startTime": 1452.5,
+      "endTime": 1468.64,
+      "text": "On a related theme, some writers have focused on a comparison between public sector organisations and private sector ones. There is some evidence that absence levels are higher in the public sector. It's not exactly clear why this should be the case,",
       "segmentIds": [
+        "seg-185",
         "seg-186",
-        "seg-187",
-        "seg-188"
+        "seg-187"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-062",
+      "id": "long-047",
       "part": 4,
-      "startTime": 1332.78,
-      "endTime": 1355.02,
-      "text": "The next factor that has been identified is the attitude of employees toward their work. But there has been a lot of debate about the extent to which this actually does influence absence, and some people argue that the research hasn't been conclusive.",
+      "startTime": 1468.64,
+      "endTime": 1488.82,
+      "text": "but one explanation that has been often put forwards is that in some cases, public sector organisations may not be as efficient. This might be because their systems are more bureaucratic due to factors which are external rather than internal, like the degree of control the government imposes on the public sector.",
       "segmentIds": [
+        "seg-188",
         "seg-189",
-        "seg-190",
-        "seg-191"
+        "seg-190"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-063",
+      "id": "long-048",
       "part": 4,
-      "startTime": 1355.02,
-      "endTime": 1382.62,
-      "text": "Some researchers have suggested that another reason for high levels of absence is that some organisations have a culture in which absence is accepted, but others have criticised this model, arguing that it's too much of a generalisation. And then there are factors related to the type of work the employee does.",
+      "startTime": 1489.14,
+      "endTime": 1509.02,
+      "text": "However, most recent literature suggests a number of other explanations. Firstly, a public sector organisation tends to have a workforce which is larger. Also, it tends to employ a higher number of female and older employees, both of which groups are likely to record higher absence rates.",
       "segmentIds": [
+        "seg-191",
         "seg-192",
-        "seg-193",
-        "seg-194"
+        "seg-193"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-064",
+      "id": "long-049",
       "part": 4,
-      "startTime": 1382.62,
-      "endTime": 1418.52,
-      "text": "It's been claimed that workers in industry are more likely to have high absence rates than people who work in offices. It's also important to recognise that groups within a single organisation might behave differently. For example, one of the other underlying themes in the literature is that there is a connection between how often an employee is absent and what size of work group he or she belongs to.",
+      "startTime": 1509.18,
+      "endTime": 1528.46,
+      "text": "It is also suggested that public sector organisations are more likely to give their absent employees benefits for a longer period and are less likely to place restrictions on these. In addition, it's been found that public sector employers have less of a tendency to dismiss employees for being absent.",
       "segmentIds": [
+        "seg-194",
         "seg-195",
-        "seg-196",
-        "seg-197"
+        "seg-196"
       ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     },
     {
-      "id": "long-065",
+      "id": "long-050",
       "part": 4,
-      "startTime": 1418.52,
-      "endTime": 1444.16,
-      "text": "Specifically, it's been found that the bigger the group, the higher the levels of absence. On a related theme, some writers have focused on a comparison between public sector organisations and private sector ones. There is some evidence that absence levels are higher in the public sector.",
+      "startTime": 1528.46,
+      "endTime": 1538.78,
+      "text": "And all of these could be additional or alternative reasons for higher absence rates in the public sector. Now, I'd like to talk about the management of absence.",
       "segmentIds": [
-        "seg-198",
-        "seg-199",
-        "seg-200"
+        "seg-197",
+        "seg-198"
       ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-066",
-      "part": 4,
-      "startTime": 1444.16,
-      "endTime": 1470.23,
-      "text": "It's not exactly clear why this should be the case, but one explanation that has been often put forwards is that in some cases, public sector organisations may not be as efficient. This might be because their systems are more bureaucratic due to factors which are external rather than internal,",
-      "segmentIds": [
-        "seg-201",
-        "seg-202",
-        "seg-203"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-067",
-      "part": 4,
-      "startTime": 1470.23,
-      "endTime": 1490.14,
-      "text": "like the degree of control the government imposes on the public sector. However, most recent literature suggests a number of other explanations. Firstly, a public sector organisation tends to have a workforce which is larger.",
-      "segmentIds": [
-        "seg-204",
-        "seg-205",
-        "seg-206"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-068",
-      "part": 4,
-      "startTime": 1490.14,
-      "endTime": 1529.08,
-      "text": "Also, it tends to employ a higher number of female and older employees, both of which groups are likely to record higher absence rates. It is also suggested that public sector organisations are more likely to give their absent employees benefits for a longer period and are less likely to place restrictions on these. In addition, it's been found that public sector employers have less of a tendency to dismiss employees for being absent.",
-      "segmentIds": [
-        "seg-207",
-        "seg-208",
-        "seg-209"
-      ],
-      "timestampSource": "estimated"
-    },
-    {
-      "id": "long-069",
-      "part": 4,
-      "startTime": 1529.08,
-      "endTime": 1548.37,
-      "text": "And all of these could be additional or alternative reasons for higher absence rates in the public sector. Now, I'd like to talk about the management of absence. to transfer your answers to the listening answer sheet.",
-      "segmentIds": [
-        "seg-210",
-        "seg-211"
-      ],
-      "timestampSource": "estimated"
+      "timestampSource": "exact"
     }
   ]
 }

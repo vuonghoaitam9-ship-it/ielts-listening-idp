@@ -121,8 +121,9 @@ export function buildLongSegmentsFromShort(
     const group: TranscriptSegment[] = [shortSegments[i]];
     let j = i + 1;
     while (j < shortSegments.length && shortSegments[j].part === part) {
+      const gap = shortSegments[j].startTime - shortSegments[j - 1].endTime;
       const span = shortSegments[j].endTime - startT;
-      if (group.length >= 5 || (group.length >= 3 && span >= 24) || span > 42) {
+      if (gap > 2.5 || group.length >= 5 || (group.length >= 3 && span >= 24) || span > 42) {
         break;
       }
       group.push(shortSegments[j]);
