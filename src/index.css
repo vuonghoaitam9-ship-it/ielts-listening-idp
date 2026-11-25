@@ -1,0 +1,112 @@
+@import "tailwindcss";
+
+:root {
+  --idp-bg: #f4f6f9;
+  --idp-surface: #ffffff;
+  --idp-surface-muted: #eef2f6;
+  --idp-border: #cbd5e1;
+  --idp-text: #0f172a;
+  --idp-text-muted: #475569;
+  --idp-header-bg: #0f2942;
+  --idp-header-text: #ffffff;
+  --idp-accent: #1d4ed8;
+  --idp-input-bg: #ffffff;
+  --idp-input-border: #94a3b8;
+  --idp-flag: #b45309;
+}
+
+.idp-theme-light {
+  --idp-bg: #f4f6f9;
+  --idp-surface: #ffffff;
+  --idp-surface-muted: #f1f5f9;
+  --idp-border: #cbd5e1;
+  --idp-text: #0f172a;
+  --idp-text-muted: #475569;
+  --idp-header-bg: #12263a;
+  --idp-header-text: #f8fafc;
+  --idp-accent: #1e40af;
+  --idp-input-bg: #ffffff;
+  --idp-input-border: #64748b;
+  --idp-flag: #b45309;
+}
+
+.idp-theme-dark {
+  --idp-bg: #0b0f17;
+  --idp-surface: #151c28;
+  --idp-surface-muted: #1e293b;
+  --idp-border: #334155;
+  --idp-text: #f1f5f9;
+  --idp-text-muted: #cbd5e1;
+  --idp-header-bg: #020617;
+  --idp-header-text: #f8fafc;
+  --idp-accent: #60a5fa;
+  --idp-input-bg: #0f172a;
+  --idp-input-border: #475569;
+  --idp-flag: #fbbf24;
+}
+
+.idp-theme-yellow-black {
+  --idp-bg: #000000;
+  --idp-surface: #0a0a0a;
+  --idp-surface-muted: #171717;
+  --idp-border: #facc15;
+  --idp-text: #fef08a;
+  --idp-text-muted: #fde047;
+  --idp-header-bg: #000000;
+  --idp-header-text: #fef08a;
+  --idp-accent: #facc15;
+  --idp-input-bg: #000000;
+  --idp-input-border: #facc15;
+  --idp-flag: #facc15;
+}
+
+.idp-font-small {
+  font-size: 13px;
+}
+
+.idp-font-standard {
+  font-size: 15px;
+}
+
+.idp-font-large {
+  font-size: 17px;
+}
+
+.idp-surface {
+  background-color: var(--idp-surface);
+  color: var(--idp-text);
+  border-color: var(--idp-border);
+}
+
+.idp-bg {
+  background-color: var(--idp-bg);
+  color: var(--idp-text);
+}
+
+.idp-muted {
+  background-color: var(--idp-surface-muted);
+  color: var(--idp-text-muted);
+}
+
+.idp-input {
+  background-color: var(--idp-input-bg);
+  color: var(--idp-text);
+  border-color: var(--idp-input-border);
+}
+
+.idp-input:focus {
+  outline: 2px solid var(--idp-accent);
+  outline-offset: 1px;
+}
+
+.idp-theme-dark .pdf-canvas-filter {
+  filter: invert(0.92) hue-rotate(180deg);
+}
+
+.idp-theme-yellow-black .pdf-canvas-filter {
+  filter: invert(1) sepia(1) saturate(5) hue-rotate(15deg) contrast(1.1);
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

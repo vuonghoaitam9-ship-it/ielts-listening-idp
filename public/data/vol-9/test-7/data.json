@@ -1,0 +1,3558 @@
+{
+  "id": "vol-9-test-7",
+  "vol": 9,
+  "testNumber": 7,
+  "title": "Vol 9 — Test 7",
+  "pdfUrl": "./data/vol-9/test-7/exam.pdf",
+  "pdfPages": 6,
+  "questionPageRange": [
+    1,
+    6
+  ],
+  "audioUrl": "./data/vol-9/test-7/audio.mp3",
+  "audioDurationSec": 1515.05,
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 0.0,
+      "endTime": 429.0,
+      "topicHint": "You will hear a telephone conversation between an assistant at a car service station and a customer."
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 429.0,
+      "endTime": 819.0,
+      "topicHint": "Section 2 (Questions 11-20)"
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 819.0,
+      "endTime": 1190.0,
+      "topicHint": "You will hear an art history student called Jack talking to a lecturer, Dr."
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1190.0,
+      "endTime": 1515.05,
+      "topicHint": "You will hear part of a lecture in a business class."
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "name: Ian Croft Cars details Registration number: 1 ………………. Make and model: Vida (4-door saloon) Date of manufacture: 2001 Number of miles 2 ……………. Problems · needs two new 3 ………….. · the inside 4 ………….. needs fixing · one passage seat 5 ………… is stuck · the 6 ……………. needs replacing · t",
+      "answerRaw": "BD51STR",
+      "canonicalAnswer": "BD51STR",
+      "acceptedAnswers": [
+        "BD51STR"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "So could I have a registration number please? BD51STR. Is that B for Bravo at the beginning?",
+      "evidenceStartTime": 98.9,
+      "evidenceEndTime": 106.51,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"BD51STR\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "-door saloon) Date of manufacture: 2001 Number of miles 2 ……………. Problems · needs two new 3 ………….. · the inside 4 ………….. needs fixing · one passage seat 5 ………… is stuck · the 6 ……………. needs replacing · the 7 ………… brakes of the car need attention · needs a spare 8 ……………… Service arrangements Date/Time: Tu",
+      "answerRaw": "180,000",
+      "canonicalAnswer": "180,000",
+      "acceptedAnswers": [
+        "180,000"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's done a lot. Let's see, I did make a note of it. Yes, it's 180,000 miles.",
+      "evidenceStartTime": 132.76,
+      "evidenceEndTime": 138.74,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"180,000\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "2001 Number of miles 2 ……………. Problems · needs two new 3 ………….. · the inside 4 ………….. needs fixing · one passage seat 5 ………… is stuck · the 6 ……………. needs replacing · the 7 ………… brakes of the car need attention · needs a spare 8 ……………… Service arrangements Date/Time: Tuesday 5 October 8.00 a.m. Courtesy c",
+      "answerRaw": "tyres",
+      "canonicalAnswer": "tyres",
+      "acceptedAnswers": [
+        "tyres"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I think a couple of the tyres probably need replacing. They're getting a bit worn.",
+      "evidenceStartTime": 193.37,
+      "evidenceEndTime": 207.2,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"tyres\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "2 ……………. Problems · needs two new 3 ………….. · the inside 4 ………….. needs fixing · one passage seat 5 ………… is stuck · the 6 ……………. needs replacing · the 7 ………… brakes of the car need attention · needs a spare 8 ……………… Service arrangements Date/Time: Tuesday 5 October 8.00 a.m. Courtesy car? 9 ………… Yes, preferab",
+      "answerRaw": "light",
+      "canonicalAnswer": "light",
+      "acceptedAnswers": [
+        "light"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Then, it's not a big problem, but it's a bit annoying. When you open the car door, the light ought to come on inside automatically, but it seems to have stopped working.",
+      "evidenceStartTime": 220.0,
+      "evidenceEndTime": 231.04,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"light\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": ".. · the inside 4 ………….. needs fixing · one passage seat 5 ………… is stuck · the 6 ……………. needs replacing · the 7 ………… brakes of the car need attention · needs a spare 8 ……………… Service arrangements Date/Time: Tuesday 5 October 8.00 a.m. Courtesy car? 9 ………… Yes, preferably Customer details Address: 361 College Ro",
+      "answerRaw": "belt",
+      "canonicalAnswer": "belt",
+      "acceptedAnswers": [
+        "belt"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Oh yes, on one of the passenger seats at the back, you can't fasten the belt.",
+      "evidenceStartTime": 236.43,
+      "evidenceEndTime": 241.49,
+      "paraphrases": [
+        {
+          "questionTerm": "customer",
+          "audioTerm": "passenger"
+        }
+      ],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"belt\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'customer' ↔ 'passenger'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": ".. needs fixing · one passage seat 5 ………… is stuck · the 6 ……………. needs replacing · the 7 ………… brakes of the car need attention · needs a spare 8 ……………… Service arrangements Date/Time: Tuesday 5 October 8.00 a.m. Courtesy car? 9 ………… Yes, preferably Customer details Address: 361 College Road, Norwich Phone: 10 ……",
+      "answerRaw": "radio",
+      "canonicalAnswer": "radio",
+      "acceptedAnswers": [
+        "radio"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, one thing that's actually going to need replacing, I think, is the radio.",
+      "evidenceStartTime": 253.27,
+      "evidenceEndTime": 258.1,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"radio\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "eat 5 ………… is stuck · the 6 ……………. needs replacing · the 7 ………… brakes of the car need attention · needs a spare 8 ……………… Service arrangements Date/Time: Tuesday 5 October 8.00 a.m. Courtesy car? 9 ………… Yes, preferably Customer details Address: 361 College Road, Norwich Phone: 10 ……………….",
+      "answerRaw": "front",
+      "canonicalAnswer": "front",
+      "acceptedAnswers": [
+        "front"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I know you'll check the brakes in a service, but can you have a particular look at the front ones?",
+      "evidenceStartTime": 267.66,
+      "evidenceEndTime": 273.15,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"front\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "he 7 ………… brakes of the car need attention · needs a spare 8 ……………… Service arrangements Date/Time: Tuesday 5 October 8.00 a.m. Courtesy car? 9 ………… Yes, preferably Customer details Address: 361 College Road, Norwich Phone: 10 ……………….",
+      "answerRaw": "key",
+      "canonicalAnswer": "key",
+      "acceptedAnswers": [
+        "key"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And the other thing is, I only have one key for the car and I really need a spare.",
+      "evidenceStartTime": 278.22,
+      "evidenceEndTime": 284.23,
+      "paraphrases": [],
+      "distractors": [
+        "giới hạn phạm vi bằng 'only'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"key\". Lưu ý bẫy gây nhiễu (distractor): giới hạn phạm vi bằng 'only'."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "gements Date/Time: Tuesday 5 October 8.00 a.m. Courtesy car? 9 ………… Yes, preferably Customer details Address: 361 College Road, Norwich Phone: 10 ……………….",
+      "answerRaw": "automatic",
+      "canonicalAnswer": "automatic",
+      "acceptedAnswers": [
+        "automatic"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, that would be good, but can I have an automatic if possible, please?",
+      "evidenceStartTime": 312.83,
+      "evidenceEndTime": 317.56,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"automatic\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "y Customer details Address: 361 College Road, Norwich Phone: 10 ……………….",
+      "answerRaw": "07847 355780,07847355780",
+      "canonicalAnswer": "07847 355780",
+      "acceptedAnswers": [
+        "07847 355780",
+        "07847355780"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Right, 07847 355780. Lovely.",
+      "evidenceStartTime": 335.0,
+      "evidenceEndTime": 370.75,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"07847 355780\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "r questions 11–20 Questions 11–15 Choose the correct answer. 11 Why David Laws leading the meeting instead of Penny Williams today? A Penny Williams is not well recently B David Laws is the director now C The meeting will be postponed 12 What does David say has been a problem with guest speaker talks? A expensive tickets",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The guest speaker talks this year have been incredibly popular, and the slight rise in ticket price has not put anyone off.",
+      "evidenceStartTime": 462.0,
+      "evidenceEndTime": 470.4,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "vid Laws is the director now C The meeting will be postponed 12 What does David say has been a problem with guest speaker talks? A expensive tickets B lack of publicity C inconvenient time 13 What did the man say about break-in at library? A the building was destroyed to some damage B some valuable items were stolen C the",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The guest speaker talks this year have been incredibly popular, and the slight rise in ticket price has not put anyone off.",
+      "evidenceStartTime": 462.0,
+      "evidenceEndTime": 470.4,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "A expensive tickets B lack of publicity C inconvenient time 13 What did the man say about break-in at library? A the building was destroyed to some damage B some valuable items were stolen C the thieves had a good preparation 14 Why they want to make an extension of the library? A it has no renovation since founded B it",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Also, you might be aware that we had a break-in last month, and while the thief or thieves actually left empty-handed,",
+      "evidenceStartTime": 486.83,
+      "evidenceEndTime": 494.76,
+      "paraphrases": [
+        {
+          "questionTerm": "damage",
+          "audioTerm": "break"
+        }
+      ],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'damage' ↔ 'break'. Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "uable items were stolen C the thieves had a good preparation 14 Why they want to make an extension of the library? A it has no renovation since founded B it need to double the number of computers C increased number of visiting people 15 The investment from the city council will be deployed for A extra staff recruitment B",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Rosedale Library has been serving the public for 50 years, but it's not been extended since the renovations in 1969. Since opening, the number of books on our shelves and other items has more than doubled, and visitor numbers have increased 20% in the last 10 years.",
+      "evidenceStartTime": 521.88,
+      "evidenceEndTime": 541.93,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "he number of computers C increased number of visiting people 15 The investment from the city council will be deployed for A extra staff recruitment B buy more computers C improve the lighting Questions 16–20 Label the map below Choose FIVE correct letters from the map, A-H, next to the questions 16-20. Rosedale Library A",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We hope that you have noticed some recent improvements to the library, such as the eight new PCs that were installed back in June.",
+      "evidenceStartTime": 545.33,
+      "evidenceEndTime": 554.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "ext to the questions 16-20. Rosedale Library A B C D E F G H 16 Children’s room 17 Community room 18 Café 19 Academic study room 20 Multimedia room",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The fact that the workroom would be overlooking Roberts Avenue means the staff will actually be able to see outside rather than be stuck in the small room behind the toilets. The room looking out onto both Queen's Parade and Roberts Avenue would be the academic study room,",
+      "evidenceStartTime": 725.0,
+      "evidenceEndTime": 744.31,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "loại trừ phương án đối chiếu ('rather than')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "s 16-20. Rosedale Library A B C D E F G H 16 Children’s room 17 Community room 18 Café 19 Academic study room 20 Multimedia room",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The fact that the workroom would be overlooking Roberts Avenue means the staff will actually be able to see outside rather than be stuck in the small room behind the toilets. The room looking out onto both Queen's Parade and Roberts Avenue would be the academic study room,",
+      "evidenceStartTime": 725.0,
+      "evidenceEndTime": 744.31,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "loại trừ phương án đối chiếu ('rather than')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "Library A B C D E F G H 16 Children’s room 17 Community room 18 Café 19 Academic study room 20 Multimedia room",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The fact that the workroom would be overlooking Roberts Avenue means the staff will actually be able to see outside rather than be stuck in the small room behind the toilets. The room looking out onto both Queen's Parade and Roberts Avenue would be the academic study room,",
+      "evidenceStartTime": 725.0,
+      "evidenceEndTime": 744.31,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "loại trừ phương án đối chiếu ('rather than')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "A B C D E F G H 16 Children’s room 17 Community room 18 Café 19 Academic study room 20 Multimedia room",
+      "answerRaw": "H",
+      "canonicalAnswer": "H",
+      "acceptedAnswers": [
+        "H"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The fact that the workroom would be overlooking Roberts Avenue means the staff will actually be able to see outside rather than be stuck in the small room behind the toilets. The room looking out onto both Queen's Parade and Roberts Avenue would be the academic study room,",
+      "evidenceStartTime": 725.0,
+      "evidenceEndTime": 744.31,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "loại trừ phương án đối chiếu ('rather than')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"H\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "dren’s room 17 Community room 18 Café 19 Academic study room 20 Multimedia room",
+      "answerRaw": "G",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The fact that the workroom would be overlooking Roberts Avenue means the staff will actually be able to see outside rather than be stuck in the small room behind the toilets. The room looking out onto both Queen's Parade and Roberts Avenue would be the academic study room,",
+      "evidenceStartTime": 725.0,
+      "evidenceEndTime": 744.31,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "loại trừ phương án đối chiếu ('rather than')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"G\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "ons 21–25 Choose the correct answer. The artist Samuel Prout 21 According to Jack, why did Samuel Prout never become very famous? A His output was very limited. B He has seen as out-fashioned. C His work never had a major exhibition. 22 Dr Rubin and Jack agree that many of Prout’s problems were caused by A poor health. B",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, but Ruskin's assessment was quite biassed, wasn't it? How do you mean? Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike.",
+      "evidenceStartTime": 936.26,
+      "evidenceEndTime": 957.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "n as out-fashioned. C His work never had a major exhibition. 22 Dr Rubin and Jack agree that many of Prout’s problems were caused by A poor health. B jealous colleagues. C an unhappy marriage. 23 How did Prout learn painting? A His father taught him. B He went to art galleries. C He copied pictures. 24 What point does Jac",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, but Ruskin's assessment was quite biassed, wasn't it? How do you mean? Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike.",
+      "evidenceStartTime": 936.26,
+      "evidenceEndTime": 957.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "A poor health. B jealous colleagues. C an unhappy marriage. 23 How did Prout learn painting? A His father taught him. B He went to art galleries. C He copied pictures. 24 What point does Jack make about Prout’s style? A Prout used different styles simultaneously. B Many other artists had a similar style. C Prout’s style",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, but Ruskin's assessment was quite biassed, wasn't it? How do you mean? Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike.",
+      "evidenceStartTime": 936.26,
+      "evidenceEndTime": 957.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "aught him. B He went to art galleries. C He copied pictures. 24 What point does Jack make about Prout’s style? A Prout used different styles simultaneously. B Many other artists had a similar style. C Prout’s style developed throughout his career. 25 What did John Ruskin admire about Prout’s paintings? A their realism B t",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, but Ruskin's assessment was quite biassed, wasn't it? How do you mean? Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike.",
+      "evidenceStartTime": 936.26,
+      "evidenceEndTime": 957.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "ilar style. C Prout’s style developed throughout his career. 25 What did John Ruskin admire about Prout’s paintings? A their realism B their presentation of buildings C their wide range of subject matters Questions 26–30 What information do the speakers give about each of the following pictures? Choose FIVE corect answers",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, but Ruskin's assessment was quite biassed, wasn't it? How do you mean? Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike.",
+      "evidenceStartTime": 936.26,
+      "evidenceEndTime": 957.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "s 26-30. Information Pictures A view in Germany: at Wurzburg 26 ………… Bridge on the Ouse, near York 27 ……………. Wooden scene 28 ………… Venice 29 …………… Entrance to a harbor 30 …………. A one of several paintings of the same view B probably an inaccurate title C may not be genuine D was never finished E typical subject matter",
+      "answerRaw": "E typical subject matter for Prout",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E typical subject matter for Prout",
+        "typical subject matter for Prout"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, but Ruskin's assessment was quite biassed, wasn't it? How do you mean? Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike.",
+      "evidenceStartTime": 936.26,
+      "evidenceEndTime": 957.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án E typical subject matter for Prout. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "n Germany: at Wurzburg 26 ………… Bridge on the Ouse, near York 27 ……………. Wooden scene 28 ………… Venice 29 …………… Entrance to a harbor 30 …………. A one of several paintings of the same view B probably an inaccurate title C may not be genuine D was never finished E typical subject matter for Prout F skillful painting of ligh",
+      "answerRaw": "B probably an inaccurate title",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B",
+        "B probably an inaccurate title",
+        "probably an inaccurate title"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, but Ruskin's assessment was quite biassed, wasn't it? How do you mean? Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike.",
+      "evidenceStartTime": 936.26,
+      "evidenceEndTime": 957.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án B probably an inaccurate title. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "26 ………… Bridge on the Ouse, near York 27 ……………. Wooden scene 28 ………… Venice 29 …………… Entrance to a harbor 30 …………. A one of several paintings of the same view B probably an inaccurate title C may not be genuine D was never finished E typical subject matter for Prout F skillful painting of light and dark G shows an",
+      "answerRaw": "C may not be genuine",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C",
+        "C may not be genuine",
+        "may not be genuine"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, but Ruskin's assessment was quite biassed, wasn't it? How do you mean? Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike.",
+      "evidenceStartTime": 936.26,
+      "evidenceEndTime": 957.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án C may not be genuine. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "on the Ouse, near York 27 ……………. Wooden scene 28 ………… Venice 29 …………… Entrance to a harbor 30 …………. A one of several paintings of the same view B probably an inaccurate title C may not be genuine D was never finished E typical subject matter for Prout F skillful painting of light and dark G shows an event that neve",
+      "answerRaw": "F skillful painting of light and dark",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F",
+        "F skillful painting of light and dark",
+        "skillful painting of light and dark"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, but Ruskin's assessment was quite biassed, wasn't it? How do you mean? Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike.",
+      "evidenceStartTime": 936.26,
+      "evidenceEndTime": 957.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án F skillful painting of light and dark. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "…. Wooden scene 28 ………… Venice 29 …………… Entrance to a harbor 30 …………. A one of several paintings of the same view B probably an inaccurate title C may not be genuine D was never finished E typical subject matter for Prout F skillful painting of light and dark G shows an event that never took place",
+      "answerRaw": "A one of several paintings of the same view",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A",
+        "A one of several paintings of the same view",
+        "one of several paintings of the same view"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, but Ruskin's assessment was quite biassed, wasn't it? How do you mean? Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike.",
+      "evidenceStartTime": 936.26,
+      "evidenceEndTime": 957.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án A one of several paintings of the same view. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "lleagues noticed the spread of mass-customisation in many US 31 …………. • They decided to apply the idea to chocolate, and allow clients to decide which ingredients they wanted. • They called their company’s ‘Chocozine’. The email order • A European retailer wanted 15,000 chocolate bars to use as a 32 ……….. for cus",
+      "answerRaw": "industries",
+      "canonicalAnswer": "industries",
+      "acceptedAnswers": [
+        "industries"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "A man called Eric Smith and two of his colleagues were struck by the mass customisation movement that was spreading through a large number of industries in the US.",
+      "evidenceStartTime": 1283.0,
+      "evidenceEndTime": 1293.06,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"industries\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "A European retailer wanted 15,000 chocolate bars to use as a 32 ……….. for customers. • The deal could improve their sales and provide 33 ………….. . But there were risks: • They might not have sufficient time for the job. • If they failed, it could affect their finances and their 34 ………….. • They only had three",
+      "answerRaw": "gift",
+      "canonicalAnswer": "gift",
+      "acceptedAnswers": [
+        "gift"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They wanted to give these as a gift in their high-end stores in New York City, Miami and Los Angeles during the holiday shopping season.",
+      "evidenceStartTime": 1329.0,
+      "evidenceEndTime": 1337.99,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"gift\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "stomers. • The deal could improve their sales and provide 33 ………….. . But there were risks: • They might not have sufficient time for the job. • If they failed, it could affect their finances and their 34 ………….. • They only had three 35 ……….. , which was not enough. They attempt to subcontract • At first",
+      "answerRaw": "publicity",
+      "canonicalAnswer": "publicity",
+      "acceptedAnswers": [
+        "publicity"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Smith and his co-founders knew it could also be very good publicity, so they needed to consider it carefully.",
+      "evidenceStartTime": 1344.8,
+      "evidenceEndTime": 1352.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"publicity\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "If they failed, it could affect their finances and their 34 ………….. • They only had three 35 ……….. , which was not enough. They attempt to subcontract • At first they couldn’t find a subcontract with the right 36 ………. • A Harvard professor invited Smith to speak to students. • Many students said it would be",
+      "answerRaw": "reputation",
+      "canonicalAnswer": "reputation",
+      "acceptedAnswers": [
+        "reputation"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "what about the financial fallout as well as the possible damage to the company's reputation?",
+      "evidenceStartTime": 1370.12,
+      "evidenceEndTime": 1375.58,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"reputation\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "their finances and their 34 ………….. • They only had three 35 ……….. , which was not enough. They attempt to subcontract • At first they couldn’t find a subcontract with the right 36 ………. • A Harvard professor invited Smith to speak to students. • Many students said it would be a 37 …….. to do the deal. • One",
+      "answerRaw": "machines",
+      "canonicalAnswer": "machines",
+      "acceptedAnswers": [
+        "machines"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "As well as this, another thing they had to think about was how they were actually going to produce all these chocolate bars as the number of machines they had was limited.",
+      "evidenceStartTime": 1375.58,
+      "evidenceEndTime": 1385.72,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"machines\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "At first they couldn’t find a subcontract with the right 36 ………. • A Harvard professor invited Smith to speak to students. • Many students said it would be a 37 …….. to do the deal. • One student had a 38 ………. in the chocolate industry. • But this subcontract had trouble with the unusual 39 ……… of the cho",
+      "answerRaw": "toppings",
+      "canonicalAnswer": "toppings",
+      "acceptedAnswers": [
+        "toppings"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "but he couldn't find anyone who had experience of making bars with the type of melted toppings that Chocozine used.",
+      "evidenceStartTime": 1407.75,
+      "evidenceEndTime": 1415.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"toppings\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "to speak to students. • Many students said it would be a 37 …….. to do the deal. • One student had a 38 ………. in the chocolate industry. • But this subcontract had trouble with the unusual 39 ……… of the chocolate bar. • Chocozine finally declined the order, but their sales improved anyway. Comment • Accept",
+      "answerRaw": "mistake",
+      "canonicalAnswer": "mistake",
+      "acceptedAnswers": [
+        "mistake"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Many of the students thought that doing the deal with a luxury retailer would be a mistake.",
+      "evidenceStartTime": 1436.1,
+      "evidenceEndTime": 1441.95,
+      "paraphrases": [],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"mistake\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "it would be a 37 …….. to do the deal. • One student had a 38 ………. in the chocolate industry. • But this subcontract had trouble with the unusual 39 ……… of the chocolate bar. • Chocozine finally declined the order, but their sales improved anyway. Comment • Accepting 40 ………… orders has created severe problems",
+      "answerRaw": "contact",
+      "canonicalAnswer": "contact",
+      "acceptedAnswers": [
+        "contact"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "and he said he had a contact in the business who might be interested in doing the job.",
+      "evidenceStartTime": 1450.78,
+      "evidenceEndTime": 1455.79,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"contact\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "try. • But this subcontract had trouble with the unusual 39 ……… of the chocolate bar. • Chocozine finally declined the order, but their sales improved anyway. Comment • Accepting 40 ………… orders has created severe problems for many new businesses.",
+      "answerRaw": "shape",
+      "canonicalAnswer": "shape",
+      "acceptedAnswers": [
+        "shape"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "He said he was interested in doing the order, but he found there were difficult technical issues to be worked out, including how to faithfully reproduce the distinctive shape of the Chocozine bars.",
+      "evidenceStartTime": 1458.58,
+      "evidenceEndTime": 1470.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"shape\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "der, but their sales improved anyway. Comment • Accepting 40 ………… orders has created severe problems for many new businesses.",
+      "answerRaw": "big",
+      "canonicalAnswer": "big",
+      "acceptedAnswers": [
+        "big"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But not every small business will have the happy ending that Chocozine did. And taking on too big an order has destroyed many a small business.",
+      "evidenceStartTime": 1495.58,
+      "evidenceEndTime": 1504.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"big\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 10.24,
+      "text": "You will hear a telephone conversation between an assistant at a car service station and a customer.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 10.24,
+      "endTime": 17.51,
+      "text": "First, you have some time to look at questions one and two on page two.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 17.51,
+      "endTime": 24.17,
+      "text": "You will see that there is an example that has been done for you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 24.17,
+      "endTime": 32.16,
+      "text": "On this occasion only, the conversation relating to this will be played first.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 32.16,
+      "endTime": 35.64,
+      "text": "Good morning servicing department.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 35.64,
+      "endTime": 42.0,
+      "text": "Good morning, I'd like to book my car in for a service please.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 50.0,
+      "endTime": 57.71,
+      "text": "The customer's name is Ian Croft, so Croft has been written in the space. Now we shall begin.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 57.71,
+      "endTime": 66.0,
+      "text": "You should answer the questions as you listen because you will not hear the recording a second time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 67.0,
+      "endTime": 75.1,
+      "text": "Listen carefully and answer questions one and two. Good morning servicing department.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 75.1,
+      "endTime": 81.0,
+      "text": "Good morning, I'd like to book my car in for a service please.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 81.0,
+      "endTime": 85.0,
+      "text": "Certainly sir. If I could just take your name. Ian Croft.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 87.0,
+      "endTime": 94.19,
+      "text": "Right, and have you had the car serviced with us before? No, I've only just moved here.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 94.19,
+      "endTime": 98.9,
+      "text": "Right, so I'll need to take some details of the car then.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 98.9,
+      "endTime": 106.51,
+      "text": "So could I have a registration number please? BD51STR. Is that B for Bravo at the beginning?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 106.51,
+      "endTime": 108.0,
+      "text": "Yes, that's right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 109.0,
+      "endTime": 117.19,
+      "text": "And the make of the car? It's a Vida. Right, and is that the estate? No, the four-door saloon.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 117.19,
+      "endTime": 121.2,
+      "text": "Good, and do you know the date of manufacture?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 121.2,
+      "endTime": 126.0,
+      "text": "Mmm, about… oh hold on, I'll have to work this one out.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 126.0,
+      "endTime": 132.76,
+      "text": "We've had it for ages. It must be 2001. Right, and can you tell me what the mileage is?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 132.76,
+      "endTime": 138.74,
+      "text": "It's done a lot. Let's see, I did make a note of it. Yes, it's 180,000 miles.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 138.74,
+      "endTime": 141.0,
+      "text": "It's done very well actually.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 144.0,
+      "endTime": 162.96,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions three to ten on page two.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 162.96,
+      "endTime": 170.65,
+      "text": "Now listen and answer questions three to ten.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 170.65,
+      "endTime": 191.49,
+      "text": "Right, well now of course we'll do a full service, but are there any particular problems or things you'd like us to check?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 191.49,
+      "endTime": 193.37,
+      "text": "Yes, a few.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 193.37,
+      "endTime": 202.59,
+      "text": "I think a couple of the tyres probably need replacing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 202.59,
+      "endTime": 207.2,
+      "text": "They're getting a bit worn.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 207.2,
+      "endTime": 220.0,
+      "text": "OK, we do automatically look at those, but I'll make a note of that anyway.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 220.0,
+      "endTime": 223.55,
+      "text": "Then, it's not a big problem, but it's a bit annoying.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 223.55,
+      "endTime": 231.04,
+      "text": "When you open the car door, the light ought to come on inside automatically, but it seems to have stopped working.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 231.04,
+      "endTime": 236.43,
+      "text": "Right, we'll have a look at that for you. I'm sure we can fix that. OK, what else?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 236.43,
+      "endTime": 241.49,
+      "text": "Oh yes, on one of the passenger seats at the back, you can't fasten the belt.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 241.49,
+      "endTime": 243.0,
+      "text": "It seems to have stuck.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 243.0,
+      "endTime": 246.24,
+      "text": "It just happened yesterday, so that needs looking at.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 246.24,
+      "endTime": 251.07,
+      "text": "Yes, that's quite important if you carry passengers in the back. Anything else?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 251.07,
+      "endTime": 253.27,
+      "text": "Er, there was something. Let me see.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 253.27,
+      "endTime": 258.1,
+      "text": "Well, one thing that's actually going to need replacing, I think, is the radio.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 258.1,
+      "endTime": 260.0,
+      "text": "It hasn't worked for some time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 261.0,
+      "endTime": 265.7,
+      "text": "Would you like us to give you a quote for that before we fit a new one? Yes, please.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 265.7,
+      "endTime": 267.66,
+      "text": "Oh, and I know what I meant to say.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 267.66,
+      "endTime": 273.15,
+      "text": "I know you'll check the brakes in a service, but can you have a particular look at the front ones?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 273.15,
+      "endTime": 275.0,
+      "text": "I think they might be a bit worn.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 275.0,
+      "endTime": 278.22,
+      "text": "Certainly. I'll make a note of that too. OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 278.22,
+      "endTime": 284.23,
+      "text": "And the other thing is, I only have one key for the car and I really need a spare.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 284.23,
+      "endTime": 288.99,
+      "text": "Yes, we'll have to order that for you, but we can do that. Great.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 288.99,
+      "endTime": 295.51,
+      "text": "So, when would you like to come in for the service? Well, do you have anything next week?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 295.51,
+      "endTime": 301.08,
+      "text": "Tuesday would be good. Er, that's the 4th of October, isn't it? No, the 5th.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 301.08,
+      "endTime": 304.0,
+      "text": "Yes, can you make 8am? Yes, that's fine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 305.0,
+      "endTime": 311.28,
+      "text": "And the service will take a few hours, so would you like to have a courtesy car during that time?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 311.28,
+      "endTime": 312.83,
+      "text": "There's no extra charge.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 312.83,
+      "endTime": 317.56,
+      "text": "Yes, that would be good, but can I have an automatic if possible, please?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 1,
+      "startTime": 317.56,
+      "endTime": 323.0,
+      "text": "We'll see what we can do. Right, and now I just need to take your address, Mr Croft.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 1,
+      "startTime": 324.0,
+      "endTime": 330.42,
+      "text": "It's 361 College Road, Norwich. And would you like a phone number? Yes, please.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 1,
+      "startTime": 330.42,
+      "endTime": 334.0,
+      "text": "A daytime number would be best, if possible.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 1,
+      "startTime": 335.0,
+      "endTime": 361.48,
+      "text": "Right, 07847 355780.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 1,
+      "startTime": 361.48,
+      "endTime": 370.75,
+      "text": "Lovely.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 1,
+      "startTime": 370.75,
+      "endTime": 389.29,
+      "text": "So, that's it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 1,
+      "startTime": 389.29,
+      "endTime": 429.0,
+      "text": "Thank you very much, Mr Croft.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 2,
+      "startTime": 429.0,
+      "endTime": 430.0,
+      "text": "Good morning, everyone. Welcome to Rosedale Library Open Day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 2,
+      "startTime": 430.0,
+      "endTime": 435.97,
+      "text": "It's good to see that so many members of the public are interested in the future of the library.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 2,
+      "startTime": 435.97,
+      "endTime": 439.58,
+      "text": "For those of you who don't know me, my name is David Laws.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 2,
+      "startTime": 439.58,
+      "endTime": 444.0,
+      "text": "I'm the new personal assistant to Penny Williams, the library director.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 2,
+      "startTime": 445.0,
+      "endTime": 453.17,
+      "text": "Penny was supposed to be leading this meeting, but due to unexpected illness, I will be taking her place this morning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 2,
+      "startTime": 453.17,
+      "endTime": 458.57,
+      "text": "We felt that this would be better than postponing the meeting to a later date.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 2,
+      "startTime": 458.57,
+      "endTime": 461.0,
+      "text": "Firstly, a couple of small matters.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 2,
+      "startTime": 462.0,
+      "endTime": 470.4,
+      "text": "The guest speaker talks this year have been incredibly popular, and the slight rise in ticket price has not put anyone off.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 2,
+      "startTime": 470.4,
+      "endTime": 474.29,
+      "text": "We will continue to hold these events on a monthly basis.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 2,
+      "startTime": 474.29,
+      "endTime": 482.0,
+      "text": "It has, however, come to our attention that some people have missed events because they didn't know they were on.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 2,
+      "startTime": 483.0,
+      "endTime": 486.83,
+      "text": "We now intend to notify everyone through email reminders.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 2,
+      "startTime": 486.83,
+      "endTime": 494.76,
+      "text": "Also, you might be aware that we had a break-in last month, and while the thief or thieves actually left empty-handed,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 2,
+      "startTime": 494.76,
+      "endTime": 499.67,
+      "text": "they did smash a number of windows and kick down a door trying to get in.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 2,
+      "startTime": 499.67,
+      "endTime": 507.0,
+      "text": "Police believe the offenders were just taking a chance that there might be something valuable in the library.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 2,
+      "startTime": 508.0,
+      "endTime": 515.08,
+      "text": "Anyway, we hope that the new security cameras along Roberts Avenue might deter this kind of activity.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 515.08,
+      "endTime": 521.88,
+      "text": "Now, the purpose of the meeting, of course, is to present the proposals for a new library layout.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 521.88,
+      "endTime": 530.0,
+      "text": "Rosedale Library has been serving the public for 50 years, but it's not been extended since the renovations in 1969.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 532.0,
+      "endTime": 541.93,
+      "text": "Since opening, the number of books on our shelves and other items has more than doubled, and visitor numbers have increased 20% in the last 10 years.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 541.93,
+      "endTime": 545.33,
+      "text": "There is, therefore, a clear need for an extension.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 545.33,
+      "endTime": 554.0,
+      "text": "We hope that you have noticed some recent improvements to the library, such as the eight new PCs that were installed back in June.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 555.0,
+      "endTime": 567.02,
+      "text": "We're also aware that the lighting is quite poor, but you'll shortly see a big difference because the City Council continued to support us and have authorised the spending in this area.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 567.02,
+      "endTime": 574.88,
+      "text": "We've also applied to the Council to approve the addition of another member of staff to work part-time in the afternoons,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 574.88,
+      "endTime": 582.35,
+      "text": "when mothers and children tend to use the library more often, and this decision will be made in the next few weeks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 582.35,
+      "endTime": 588.0,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 608.0,
+      "endTime": 610.76,
+      "text": "Now listen and answer questions 16 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 610.76,
+      "endTime": 619.05,
+      "text": "Now, turning to the proposal for the extensions and alterations to the library, please see the second page of your handout.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 619.05,
+      "endTime": 627.0,
+      "text": "The double line indicates the rooms in the existing building, and the dotted lines show where the extensions might be.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 628.0,
+      "endTime": 635.83,
+      "text": "As you can see, the location of the entrance hall to the library would remain unchanged there at the bottom of the plan.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 635.83,
+      "endTime": 645.36,
+      "text": "Once you go all the way through the entrance hall, on your immediate left would be the local history display that would face the information desk.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 645.36,
+      "endTime": 649.99,
+      "text": "Behind it, the plan is for an access ramp inside the existing building,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 649.99,
+      "endTime": 656.0,
+      "text": "meaning the mothers with pushchairs and wheelchair users could ascend to the first new area.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 657.0,
+      "endTime": 666.81,
+      "text": "This new room is designed to be light and airy, and could be the ideal location for a new children's room looking out onto the park.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 666.81,
+      "endTime": 672.16,
+      "text": "You will notice there are steps that lead back down to the ground floor.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 672.16,
+      "endTime": 679.0,
+      "text": "At the bottom of these, on the left, would be the adult fiction section, so no change there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 680.0,
+      "endTime": 688.25,
+      "text": "But behind this is proposed to construct a new community room for public lectures, special events and so forth.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 688.25,
+      "endTime": 690.78,
+      "text": "This will be the largest new room.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 690.78,
+      "endTime": 696.28,
+      "text": "To the right of the adult fiction room, with magnificent views of the sea,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 696.28,
+      "endTime": 704.0,
+      "text": "a cafe could provide visitors with light refreshments and an opportunity to browse a range of magazines.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 705.0,
+      "endTime": 712.71,
+      "text": "There would be external access to this area via a set of steps leading down towards Queen's Parade.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 2,
+      "startTime": 712.71,
+      "endTime": 716.29,
+      "text": "Now, let's go back to the entrance hall again.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 2,
+      "startTime": 716.29,
+      "endTime": 724.0,
+      "text": "On the right of the entrance hall, facing onto the right Roberts Avenue, is the new staff workroom.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 2,
+      "startTime": 725.0,
+      "endTime": 737.35,
+      "text": "The fact that the workroom would be overlooking Roberts Avenue means the staff will actually be able to see outside rather than be stuck in the small room behind the toilets.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 2,
+      "startTime": 737.35,
+      "endTime": 744.31,
+      "text": "The room looking out onto both Queen's Parade and Roberts Avenue would be the academic study room,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 2,
+      "startTime": 744.31,
+      "endTime": 749.7,
+      "text": "a facility we believe could be used by the growing number of local students.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 2,
+      "startTime": 749.7,
+      "endTime": 759.0,
+      "text": "Also facing Roberts Avenue but not Queen's Parade would be the multimedia room with our extensive audio collection right behind it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 2,
+      "startTime": 759.0,
+      "endTime": 779.8,
+      "text": "That is the end of Part 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 2,
+      "startTime": 779.8,
+      "endTime": 819.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 3,
+      "startTime": 819.0,
+      "endTime": 819.92,
+      "text": "You will hear an art history student called Jack talking to a lecturer, Dr.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 3,
+      "startTime": 819.92,
+      "endTime": 820.56,
+      "text": "Reuben, about an English artist called Samuel Prout.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 3,
+      "startTime": 820.56,
+      "endTime": 821.37,
+      "text": "First, you have some time to look at questions 21 to 25 on page 5.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 3,
+      "startTime": 821.37,
+      "endTime": 822.0,
+      "text": "Now, listen carefully and answer questions 21 to 25.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 3,
+      "startTime": 822.0,
+      "endTime": 823.77,
+      "text": "Dr. Reuben? Hello, Jack.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 3,
+      "startTime": 823.77,
+      "endTime": 829.3,
+      "text": "So, have you chosen which artist you're going to give your presentation on?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 3,
+      "startTime": 829.3,
+      "endTime": 836.0,
+      "text": "Yes, Samuel Prout, the 19th century English watercolour painter. Right, interesting choice.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 3,
+      "startTime": 837.0,
+      "endTime": 842.03,
+      "text": "I always feel he never quite got the fame he deserved, did he? No, I think that's true.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 3,
+      "startTime": 842.03,
+      "endTime": 847.99,
+      "text": "I mean, I don't think he ever went completely out of vogue even though tastes and fashions come and go.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 3,
+      "startTime": 847.99,
+      "endTime": 854.0,
+      "text": "He was really prolific in his day but there's never really been a high-profile showing of his paintings.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 3,
+      "startTime": 855.0,
+      "endTime": 858.57,
+      "text": "That could have brought him to more people's attention.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 3,
+      "startTime": 858.57,
+      "endTime": 865.26,
+      "text": "Sure, but I think it's remarkable that he achieved any critical success given the problems that he had.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 3,
+      "startTime": 865.26,
+      "endTime": 870.0,
+      "text": "Apparently, he was prone to chronic chest infections throughout his life.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 3,
+      "startTime": 870.0,
+      "endTime": 875.13,
+      "text": "Yes, it must have been hard for him but it seems he had a loving wife and family.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 3,
+      "startTime": 875.13,
+      "endTime": 878.3,
+      "text": "And a strong network of colleagues and supporters.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 878.3,
+      "endTime": 884.0,
+      "text": "Yeah, I've been trying to find out what got him interested in painting in the first place.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 885.0,
+      "endTime": 891.21,
+      "text": "He doesn't seem to have learned the skill from his father like so many artists of his time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 891.21,
+      "endTime": 898.45,
+      "text": "No, well, I think he painstakingly reproduced other painters' works essentially sort of schooling himself.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 898.45,
+      "endTime": 902.0,
+      "text": "And then later on he actually became an art teacher.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 903.0,
+      "endTime": 906.4,
+      "text": "How do you feel about Prout's style of painting?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 906.4,
+      "endTime": 915.53,
+      "text": "It's interesting how a lot of artists you can see how their style is developing as their work matures but not so much with Prout.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 915.53,
+      "endTime": 919.56,
+      "text": "He seemed to have several on the go all at the same time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 919.56,
+      "endTime": 926.0,
+      "text": "Yes, with others you can say oh, that must be by so-and-so and painted in around 1820, say.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 927.0,
+      "endTime": 929.3,
+      "text": "Right, but not so much with Prout.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 929.3,
+      "endTime": 936.26,
+      "text": "Of course, Prout's career had a huge boost when the art critic John Ruskin declared him a great artist.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 936.26,
+      "endTime": 941.33,
+      "text": "Yes, but Ruskin's assessment was quite biassed, wasn't it? How do you mean?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 941.33,
+      "endTime": 957.0,
+      "text": "Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 957.0,
+      "endTime": 975.06,
+      "text": "For me, his detailing of architecture was too predictable but for Ruskin that was where Prout's genius lay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 975.06,
+      "endTime": 985.86,
+      "text": "Well, I guess that's what Ruskin was particularly interested in.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 985.86,
+      "endTime": 1003.08,
+      "text": "Before you hear the rest of the discussion you have some time to look at questions 26 to 30 on page 6.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 1003.08,
+      "endTime": 1010.0,
+      "text": "Now listen and answer questions 26 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 1014.0,
+      "endTime": 1026.86,
+      "text": "OK, Jack, so your brief was to prepare a presentation to give to the group and show some pictures associated with the artist each of which makes a key point about their work, OK?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 1026.86,
+      "endTime": 1031.63,
+      "text": "Right, well, I wanted to start with a view in Germany at Würzburg.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 1031.63,
+      "endTime": 1040.81,
+      "text": "It's a detailed watercolour showing a busy market scene with a background of flamboyant detail like in so many of his pictures.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 1040.81,
+      "endTime": 1045.0,
+      "text": "Yes, basically what Prout had made his name doing so well.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1045.0,
+      "endTime": 1047.92,
+      "text": "It really gives the flavour of his work. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1047.92,
+      "endTime": 1057.0,
+      "text": "There's a painting called Bridge on the Ouse near York except that experts now think this isn't York at all but somewhere in the south of England.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1058.0,
+      "endTime": 1061.91,
+      "text": "Right. But as far as I know the picture has never been renamed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1061.91,
+      "endTime": 1067.0,
+      "text": "No, that would make cataloguing and researching Prout's pictures more complicated.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1068.0,
+      "endTime": 1073.92,
+      "text": "And the next one is called Woodland Scene. This one has a signature, it says S.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1073.92,
+      "endTime": 1080.82,
+      "text": "Prout in the bottom left but even so experts on Prout say they doubt he actually painted it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1080.82,
+      "endTime": 1083.0,
+      "text": "Yes, I remember reading that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1084.0,
+      "endTime": 1089.82,
+      "text": "The detailing is too clumsy with the sun not casting shade in the right place.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1089.82,
+      "endTime": 1098.7,
+      "text": "Exactly and there's a lot of blue that basically doesn't appear in any other Prout pictures so it's probably a forgery.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1098.7,
+      "endTime": 1099.0,
+      "text": "Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1099.0,
+      "endTime": 1101.36,
+      "text": "And what's the next one? Venice.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1101.36,
+      "endTime": 1106.23,
+      "text": "It's a view from the Grand Canal with some rather grand buildings.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1106.23,
+      "endTime": 1115.0,
+      "text": "They're bathed in sunlight with a sort of picturesque shadow cast by the buildings opposite which is shown brilliantly.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 3,
+      "startTime": 1116.0,
+      "endTime": 1121.0,
+      "text": "Lovely use of colour. Prout at his best, I think. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 3,
+      "startTime": 1121.0,
+      "endTime": 1126.77,
+      "text": "And then there's Entrance to a Harbour. Right. He grew up by the sea, didn't he?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 3,
+      "startTime": 1126.77,
+      "endTime": 1128.0,
+      "text": "Yes, in Plymouth.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 3,
+      "startTime": 1129.0,
+      "endTime": 1139.91,
+      "text": "He didn't specialise in seascapes but this same location with the harbour and the sea also appear in other pictures showing a range of weather conditions.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 3,
+      "startTime": 1139.91,
+      "endTime": 1146.0,
+      "text": "They don't all have figures like this one but I think they're really well done. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 3,
+      "startTime": 1146.0,
+      "endTime": 1163.71,
+      "text": "That is the end of section three.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 3,
+      "startTime": 1163.71,
+      "endTime": 1190.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 4,
+      "startTime": 1190.0,
+      "endTime": 1193.0,
+      "text": "Now turn to section four on page seven.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 4,
+      "startTime": 1193.0,
+      "endTime": 1197.0,
+      "text": "You will hear part of a lecture in a business class.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 4,
+      "startTime": 1197.0,
+      "endTime": 1203.77,
+      "text": "The professor is discussing a case study of a company in North America called Chocozine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 4,
+      "startTime": 1203.77,
+      "endTime": 1210.0,
+      "text": "First, you have some time to look at questions thirty-one to forty on page seven.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 4,
+      "startTime": 1261.0,
+      "endTime": 1265.62,
+      "text": "Now listen carefully and answer questions thirty-one to forty.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 4,
+      "startTime": 1265.62,
+      "endTime": 1271.5,
+      "text": "We've been talking about small businesses and some of the challenges they face.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 4,
+      "startTime": 1271.5,
+      "endTime": 1282.0,
+      "text": "Today, I want to look at a case study based on a company called Chocozine that illustrates the need to evaluate opportunities very carefully.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 4,
+      "startTime": 1283.0,
+      "endTime": 1293.06,
+      "text": "A man called Eric Smith and two of his colleagues were struck by the mass customisation movement that was spreading through a large number of industries in the US.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 4,
+      "startTime": 1293.06,
+      "endTime": 1299.79,
+      "text": "This involved mass-producing products and at the same time individually customising them for their customers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 4,
+      "startTime": 1299.79,
+      "endTime": 1302.51,
+      "text": "Why not apply the same concept to chocolate?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 4,
+      "startTime": 1302.51,
+      "endTime": 1308.0,
+      "text": "Customers could choose the ingredients they'd like to have put into their chocolate bars.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 4,
+      "startTime": 1309.0,
+      "endTime": 1315.42,
+      "text": "So Smith and his colleagues decided to launch a customised chocolate operation called Chocozine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 4,
+      "startTime": 1315.42,
+      "endTime": 1323.11,
+      "text": "Then, when Chocozine was only about nine months old, Smith received an email from a large European luxury retailer.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 4,
+      "startTime": 1323.11,
+      "endTime": 1329.0,
+      "text": "This retailer was enquiring about ordering 15,000 bars of chocolate for their customers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 4,
+      "startTime": 1329.0,
+      "endTime": 1337.99,
+      "text": "They wanted to give these as a gift in their high-end stores in New York City, Miami and Los Angeles during the holiday shopping season.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 4,
+      "startTime": 1337.99,
+      "endTime": 1344.8,
+      "text": "The offer certainly sounded enticing because Chocozine was selling fewer than 150 chocolate bars a day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 4,
+      "startTime": 1344.8,
+      "endTime": 1352.0,
+      "text": "Smith and his co-founders knew it could also be very good publicity, so they needed to consider it carefully.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 4,
+      "startTime": 1353.0,
+      "endTime": 1358.02,
+      "text": "They had many things to consider. Obviously, it was a tempting offer.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 4,
+      "startTime": 1358.02,
+      "endTime": 1361.0,
+      "text": "But at the same time, the risk was great.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 4,
+      "startTime": 1362.0,
+      "endTime": 1366.03,
+      "text": "They didn't know whether they could get the order completed in time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 4,
+      "startTime": 1366.03,
+      "endTime": 1370.12,
+      "text": "Also, if they accepted it and then it turned out they couldn't do it,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 4,
+      "startTime": 1370.12,
+      "endTime": 1375.58,
+      "text": "what about the financial fallout as well as the possible damage to the company's reputation?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 1375.58,
+      "endTime": 1385.72,
+      "text": "As well as this, another thing they had to think about was how they were actually going to produce all these chocolate bars as the number of machines they had was limited.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 1385.72,
+      "endTime": 1390.0,
+      "text": "They only had three of them, and that clearly wasn't going to be enough.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 4,
+      "startTime": 1395.0,
+      "endTime": 1400.55,
+      "text": "So they decided to think creatively and try to find a subcontractor to produce the bars.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 4,
+      "startTime": 1400.55,
+      "endTime": 1403.96,
+      "text": "They weren't ready to pass up such a rare opportunity.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 4,
+      "startTime": 1403.96,
+      "endTime": 1407.75,
+      "text": "Smith spent two days searching for a suitable subcontractor,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 4,
+      "startTime": 1407.75,
+      "endTime": 1415.0,
+      "text": "but he couldn't find anyone who had experience of making bars with the type of melted toppings that Chocozine used.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 4,
+      "startTime": 1416.0,
+      "endTime": 1418.36,
+      "text": "Then something rather unexpected happened.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 4,
+      "startTime": 1418.36,
+      "endTime": 1423.3,
+      "text": "A professor at Harvard Business School was teaching a class about product customisation.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 4,
+      "startTime": 1423.3,
+      "endTime": 1427.0,
+      "text": "So she wrote to Smith and asked if he would speak to the students.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 4,
+      "startTime": 1428.0,
+      "endTime": 1436.1,
+      "text": "So in late October, Smith had an opportunity to talk about the deal to about 90 MBA students and to ask them for their advice.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-193",
+      "part": 4,
+      "startTime": 1436.1,
+      "endTime": 1441.95,
+      "text": "Many of the students thought that doing the deal with a luxury retailer would be a mistake.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-194",
+      "part": 4,
+      "startTime": 1441.95,
+      "endTime": 1446.0,
+      "text": "However, after the class, Smith spoke with one of the students.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-195",
+      "part": 4,
+      "startTime": 1447.0,
+      "endTime": 1450.78,
+      "text": "This student had worked as a buyer at a major chocolate retailer,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-196",
+      "part": 4,
+      "startTime": 1450.78,
+      "endTime": 1455.79,
+      "text": "and he said he had a contact in the business who might be interested in doing the job.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-197",
+      "part": 4,
+      "startTime": 1455.79,
+      "endTime": 1458.58,
+      "text": "Smith called the new subcontractor the next day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-198",
+      "part": 4,
+      "startTime": 1458.58,
+      "endTime": 1465.22,
+      "text": "He said he was interested in doing the order, but he found there were difficult technical issues to be worked out,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-199",
+      "part": 4,
+      "startTime": 1465.22,
+      "endTime": 1470.0,
+      "text": "including how to faithfully reproduce the distinctive shape of the Chocozine bars.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-200",
+      "part": 4,
+      "startTime": 1471.0,
+      "endTime": 1477.99,
+      "text": "Smith thought about it, and in the end, reluctantly, he sent an email declining the luxury retailer's order.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-201",
+      "part": 4,
+      "startTime": 1477.99,
+      "endTime": 1487.05,
+      "text": "But fortunately for Chocozine, their sales picked up anyway, and the company gradually expanded its market share and is now doing very well.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-202",
+      "part": 4,
+      "startTime": 1487.05,
+      "endTime": 1489.0,
+      "text": "Chocozine's case is important.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-203",
+      "part": 4,
+      "startTime": 1490.0,
+      "endTime": 1495.58,
+      "text": "They were wise to carefully consider whether they could actually manage an order of this kind.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-204",
+      "part": 4,
+      "startTime": 1495.58,
+      "endTime": 1500.03,
+      "text": "But not every small business will have the happy ending that Chocozine did.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-205",
+      "part": 4,
+      "startTime": 1500.03,
+      "endTime": 1504.0,
+      "text": "And taking on too big an order has destroyed many a small business.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-206",
+      "part": 4,
+      "startTime": 1507.0,
+      "endTime": 1513.54,
+      "text": "That is the end of section 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-207",
+      "part": 4,
+      "startTime": 1513.54,
+      "endTime": 1515.05,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-208",
+      "part": 4,
+      "startTime": 1524.6,
+      "endTime": 1515.05,
+      "text": "That is the end of the listening test.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-209",
+      "part": 4,
+      "startTime": 1533.17,
+      "endTime": 1515.05,
+      "text": "You now have 10 minutes to transfer your answers to the listening answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 24.17,
+      "text": "You will hear a telephone conversation between an assistant at a car service station and a customer. First, you have some time to look at questions one and two on page two. You will see that there is an example that has been done for you.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 24.17,
+      "endTime": 42.0,
+      "text": "On this occasion only, the conversation relating to this will be played first. Good morning servicing department. Good morning, I'd like to book my car in for a service please.",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 50.0,
+      "endTime": 75.1,
+      "text": "The customer's name is Ian Croft, so Croft has been written in the space. Now we shall begin. You should answer the questions as you listen because you will not hear the recording a second time. Listen carefully and answer questions one and two. Good morning servicing department.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008",
+        "seg-009"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 75.1,
+      "endTime": 98.9,
+      "text": "Good morning, I'd like to book my car in for a service please. Certainly sir. If I could just take your name. Ian Croft. Right, and have you had the car serviced with us before? No, I've only just moved here. Right, so I'll need to take some details of the car then.",
+      "segmentIds": [
+        "seg-010",
+        "seg-011",
+        "seg-012",
+        "seg-013"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 98.9,
+      "endTime": 121.2,
+      "text": "So could I have a registration number please? BD51STR. Is that B for Bravo at the beginning? Yes, that's right. And the make of the car? It's a Vida. Right, and is that the estate? No, the four-door saloon. Good, and do you know the date of manufacture?",
+      "segmentIds": [
+        "seg-014",
+        "seg-015",
+        "seg-016",
+        "seg-017"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 121.2,
+      "endTime": 141.0,
+      "text": "Mmm, about… oh hold on, I'll have to work this one out. We've had it for ages. It must be 2001. Right, and can you tell me what the mileage is? It's done a lot. Let's see, I did make a note of it. Yes, it's 180,000 miles. It's done very well actually.",
+      "segmentIds": [
+        "seg-018",
+        "seg-019",
+        "seg-020",
+        "seg-021"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 144.0,
+      "endTime": 170.65,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions three to ten on page two. Now listen and answer questions three to ten.",
+      "segmentIds": [
+        "seg-022",
+        "seg-023"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 170.65,
+      "endTime": 202.59,
+      "text": "Right, well now of course we'll do a full service, but are there any particular problems or things you'd like us to check? Yes, a few. I think a couple of the tyres probably need replacing.",
+      "segmentIds": [
+        "seg-024",
+        "seg-025",
+        "seg-026"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 202.59,
+      "endTime": 223.55,
+      "text": "They're getting a bit worn. OK, we do automatically look at those, but I'll make a note of that anyway. Then, it's not a big problem, but it's a bit annoying.",
+      "segmentIds": [
+        "seg-027",
+        "seg-028",
+        "seg-029"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 223.55,
+      "endTime": 246.24,
+      "text": "When you open the car door, the light ought to come on inside automatically, but it seems to have stopped working. Right, we'll have a look at that for you. I'm sure we can fix that. OK, what else? Oh yes, on one of the passenger seats at the back, you can't fasten the belt. It seems to have stuck. It just happened yesterday, so that needs looking at.",
+      "segmentIds": [
+        "seg-030",
+        "seg-031",
+        "seg-032",
+        "seg-033",
+        "seg-034"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 246.24,
+      "endTime": 265.7,
+      "text": "Yes, that's quite important if you carry passengers in the back. Anything else? Er, there was something. Let me see. Well, one thing that's actually going to need replacing, I think, is the radio. It hasn't worked for some time. Would you like us to give you a quote for that before we fit a new one? Yes, please.",
+      "segmentIds": [
+        "seg-035",
+        "seg-036",
+        "seg-037",
+        "seg-038",
+        "seg-039"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 265.7,
+      "endTime": 284.23,
+      "text": "Oh, and I know what I meant to say. I know you'll check the brakes in a service, but can you have a particular look at the front ones? I think they might be a bit worn. Certainly. I'll make a note of that too. OK. And the other thing is, I only have one key for the car and I really need a spare.",
+      "segmentIds": [
+        "seg-040",
+        "seg-041",
+        "seg-042",
+        "seg-043",
+        "seg-044"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 284.23,
+      "endTime": 304.0,
+      "text": "Yes, we'll have to order that for you, but we can do that. Great. So, when would you like to come in for the service? Well, do you have anything next week? Tuesday would be good. Er, that's the 4th of October, isn't it? No, the 5th. Yes, can you make 8am? Yes, that's fine.",
+      "segmentIds": [
+        "seg-045",
+        "seg-046",
+        "seg-047",
+        "seg-048"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 305.0,
+      "endTime": 323.0,
+      "text": "And the service will take a few hours, so would you like to have a courtesy car during that time? There's no extra charge. Yes, that would be good, but can I have an automatic if possible, please? We'll see what we can do. Right, and now I just need to take your address, Mr Croft.",
+      "segmentIds": [
+        "seg-049",
+        "seg-050",
+        "seg-051",
+        "seg-052"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 324.0,
+      "endTime": 361.48,
+      "text": "It's 361 College Road, Norwich. And would you like a phone number? Yes, please. A daytime number would be best, if possible. Right, 07847 355780.",
+      "segmentIds": [
+        "seg-053",
+        "seg-054",
+        "seg-055"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 361.48,
+      "endTime": 389.29,
+      "text": "Lovely. So, that's it.",
+      "segmentIds": [
+        "seg-056",
+        "seg-057"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 1,
+      "startTime": 389.29,
+      "endTime": 429.0,
+      "text": "Thank you very much, Mr Croft.",
+      "segmentIds": [
+        "seg-058"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 2,
+      "startTime": 429.0,
+      "endTime": 444.0,
+      "text": "Good morning, everyone. Welcome to Rosedale Library Open Day. It's good to see that so many members of the public are interested in the future of the library. For those of you who don't know me, my name is David Laws. I'm the new personal assistant to Penny Williams, the library director.",
+      "segmentIds": [
+        "seg-059",
+        "seg-060",
+        "seg-061",
+        "seg-062"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 2,
+      "startTime": 445.0,
+      "endTime": 461.0,
+      "text": "Penny was supposed to be leading this meeting, but due to unexpected illness, I will be taking her place this morning. We felt that this would be better than postponing the meeting to a later date. Firstly, a couple of small matters.",
+      "segmentIds": [
+        "seg-063",
+        "seg-064",
+        "seg-065"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 462.0,
+      "endTime": 482.0,
+      "text": "The guest speaker talks this year have been incredibly popular, and the slight rise in ticket price has not put anyone off. We will continue to hold these events on a monthly basis. It has, however, come to our attention that some people have missed events because they didn't know they were on.",
+      "segmentIds": [
+        "seg-066",
+        "seg-067",
+        "seg-068"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-021",
+      "part": 2,
+      "startTime": 483.0,
+      "endTime": 499.67,
+      "text": "We now intend to notify everyone through email reminders. Also, you might be aware that we had a break-in last month, and while the thief or thieves actually left empty-handed, they did smash a number of windows and kick down a door trying to get in.",
+      "segmentIds": [
+        "seg-069",
+        "seg-070",
+        "seg-071"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 499.67,
+      "endTime": 521.88,
+      "text": "Police believe the offenders were just taking a chance that there might be something valuable in the library. Anyway, we hope that the new security cameras along Roberts Avenue might deter this kind of activity. Now, the purpose of the meeting, of course, is to present the proposals for a new library layout.",
+      "segmentIds": [
+        "seg-072",
+        "seg-073",
+        "seg-074"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-023",
+      "part": 2,
+      "startTime": 521.88,
+      "endTime": 545.33,
+      "text": "Rosedale Library has been serving the public for 50 years, but it's not been extended since the renovations in 1969. Since opening, the number of books on our shelves and other items has more than doubled, and visitor numbers have increased 20% in the last 10 years. There is, therefore, a clear need for an extension.",
+      "segmentIds": [
+        "seg-075",
+        "seg-076",
+        "seg-077"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 2,
+      "startTime": 545.33,
+      "endTime": 574.88,
+      "text": "We hope that you have noticed some recent improvements to the library, such as the eight new PCs that were installed back in June. We're also aware that the lighting is quite poor, but you'll shortly see a big difference because the City Council continued to support us and have authorised the spending in this area. We've also applied to the Council to approve the addition of another member of staff to work part-time in the afternoons,",
+      "segmentIds": [
+        "seg-078",
+        "seg-079",
+        "seg-080"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 574.88,
+      "endTime": 610.76,
+      "text": "when mothers and children tend to use the library more often, and this decision will be made in the next few weeks. Before you hear the rest of the talk, you have some time to look at questions 16 to 20. Now listen and answer questions 16 to 20.",
+      "segmentIds": [
+        "seg-081",
+        "seg-082",
+        "seg-083"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 610.76,
+      "endTime": 635.83,
+      "text": "Now, turning to the proposal for the extensions and alterations to the library, please see the second page of your handout. The double line indicates the rooms in the existing building, and the dotted lines show where the extensions might be. As you can see, the location of the entrance hall to the library would remain unchanged there at the bottom of the plan.",
+      "segmentIds": [
+        "seg-084",
+        "seg-085",
+        "seg-086"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 635.83,
+      "endTime": 656.0,
+      "text": "Once you go all the way through the entrance hall, on your immediate left would be the local history display that would face the information desk. Behind it, the plan is for an access ramp inside the existing building, meaning the mothers with pushchairs and wheelchair users could ascend to the first new area.",
+      "segmentIds": [
+        "seg-087",
+        "seg-088",
+        "seg-089"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 657.0,
+      "endTime": 679.0,
+      "text": "This new room is designed to be light and airy, and could be the ideal location for a new children's room looking out onto the park. You will notice there are steps that lead back down to the ground floor. At the bottom of these, on the left, would be the adult fiction section, so no change there.",
+      "segmentIds": [
+        "seg-090",
+        "seg-091",
+        "seg-092"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 680.0,
+      "endTime": 696.28,
+      "text": "But behind this is proposed to construct a new community room for public lectures, special events and so forth. This will be the largest new room. To the right of the adult fiction room, with magnificent views of the sea,",
+      "segmentIds": [
+        "seg-093",
+        "seg-094",
+        "seg-095"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 696.28,
+      "endTime": 716.29,
+      "text": "a cafe could provide visitors with light refreshments and an opportunity to browse a range of magazines. There would be external access to this area via a set of steps leading down towards Queen's Parade. Now, let's go back to the entrance hall again.",
+      "segmentIds": [
+        "seg-096",
+        "seg-097",
+        "seg-098"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 2,
+      "startTime": 716.29,
+      "endTime": 744.31,
+      "text": "On the right of the entrance hall, facing onto the right Roberts Avenue, is the new staff workroom. The fact that the workroom would be overlooking Roberts Avenue means the staff will actually be able to see outside rather than be stuck in the small room behind the toilets. The room looking out onto both Queen's Parade and Roberts Avenue would be the academic study room,",
+      "segmentIds": [
+        "seg-099",
+        "seg-100",
+        "seg-101"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 2,
+      "startTime": 744.31,
+      "endTime": 779.8,
+      "text": "a facility we believe could be used by the growing number of local students. Also facing Roberts Avenue but not Queen's Parade would be the multimedia room with our extensive audio collection right behind it. That is the end of Part 2.",
+      "segmentIds": [
+        "seg-102",
+        "seg-103",
+        "seg-104"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 2,
+      "startTime": 779.8,
+      "endTime": 819.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-105"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 3,
+      "startTime": 819.0,
+      "endTime": 823.77,
+      "text": "You will hear an art history student called Jack talking to a lecturer, Dr. Reuben, about an English artist called Samuel Prout. First, you have some time to look at questions 21 to 25 on page 5. Now, listen carefully and answer questions 21 to 25. Dr. Reuben? Hello, Jack.",
+      "segmentIds": [
+        "seg-106",
+        "seg-107",
+        "seg-108",
+        "seg-109",
+        "seg-110"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 3,
+      "startTime": 823.77,
+      "endTime": 842.03,
+      "text": "So, have you chosen which artist you're going to give your presentation on? Yes, Samuel Prout, the 19th century English watercolour painter. Right, interesting choice. I always feel he never quite got the fame he deserved, did he? No, I think that's true.",
+      "segmentIds": [
+        "seg-111",
+        "seg-112",
+        "seg-113"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 3,
+      "startTime": 842.03,
+      "endTime": 865.26,
+      "text": "I mean, I don't think he ever went completely out of vogue even though tastes and fashions come and go. He was really prolific in his day but there's never really been a high-profile showing of his paintings. That could have brought him to more people's attention. Sure, but I think it's remarkable that he achieved any critical success given the problems that he had.",
+      "segmentIds": [
+        "seg-114",
+        "seg-115",
+        "seg-116",
+        "seg-117"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 865.26,
+      "endTime": 884.0,
+      "text": "Apparently, he was prone to chronic chest infections throughout his life. Yes, it must have been hard for him but it seems he had a loving wife and family. And a strong network of colleagues and supporters. Yeah, I've been trying to find out what got him interested in painting in the first place.",
+      "segmentIds": [
+        "seg-118",
+        "seg-119",
+        "seg-120",
+        "seg-121"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 885.0,
+      "endTime": 906.4,
+      "text": "He doesn't seem to have learned the skill from his father like so many artists of his time. No, well, I think he painstakingly reproduced other painters' works essentially sort of schooling himself. And then later on he actually became an art teacher. How do you feel about Prout's style of painting?",
+      "segmentIds": [
+        "seg-122",
+        "seg-123",
+        "seg-124",
+        "seg-125"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 906.4,
+      "endTime": 929.3,
+      "text": "It's interesting how a lot of artists you can see how their style is developing as their work matures but not so much with Prout. He seemed to have several on the go all at the same time. Yes, with others you can say oh, that must be by so-and-so and painted in around 1820, say. Right, but not so much with Prout.",
+      "segmentIds": [
+        "seg-126",
+        "seg-127",
+        "seg-128",
+        "seg-129"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 929.3,
+      "endTime": 957.0,
+      "text": "Of course, Prout's career had a huge boost when the art critic John Ruskin declared him a great artist. Yes, but Ruskin's assessment was quite biassed, wasn't it? How do you mean? Well, Ruskin admired Prout and he didn't seem to mind the fact that many of his paintings showed more or less the same thing European street scenes or that the people in Prout's pictures can look rather wooden and not very lifelike.",
+      "segmentIds": [
+        "seg-130",
+        "seg-131",
+        "seg-132"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 3,
+      "startTime": 957.0,
+      "endTime": 985.86,
+      "text": "For me, his detailing of architecture was too predictable but for Ruskin that was where Prout's genius lay. Well, I guess that's what Ruskin was particularly interested in.",
+      "segmentIds": [
+        "seg-133",
+        "seg-134"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 985.86,
+      "endTime": 1026.86,
+      "text": "Before you hear the rest of the discussion you have some time to look at questions 26 to 30 on page 6. Now listen and answer questions 26 to 30. OK, Jack, so your brief was to prepare a presentation to give to the group and show some pictures associated with the artist each of which makes a key point about their work, OK?",
+      "segmentIds": [
+        "seg-135",
+        "seg-136",
+        "seg-137"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 1026.86,
+      "endTime": 1047.92,
+      "text": "Right, well, I wanted to start with a view in Germany at Würzburg. It's a detailed watercolour showing a busy market scene with a background of flamboyant detail like in so many of his pictures. Yes, basically what Prout had made his name doing so well. It really gives the flavour of his work. Right.",
+      "segmentIds": [
+        "seg-138",
+        "seg-139",
+        "seg-140",
+        "seg-141"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 1047.92,
+      "endTime": 1067.0,
+      "text": "There's a painting called Bridge on the Ouse near York except that experts now think this isn't York at all but somewhere in the south of England. Right. But as far as I know the picture has never been renamed. No, that would make cataloguing and researching Prout's pictures more complicated.",
+      "segmentIds": [
+        "seg-142",
+        "seg-143",
+        "seg-144"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1068.0,
+      "endTime": 1089.82,
+      "text": "And the next one is called Woodland Scene. This one has a signature, it says S. Prout in the bottom left but even so experts on Prout say they doubt he actually painted it. Yes, I remember reading that. The detailing is too clumsy with the sun not casting shade in the right place.",
+      "segmentIds": [
+        "seg-145",
+        "seg-146",
+        "seg-147",
+        "seg-148"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1089.82,
+      "endTime": 1106.23,
+      "text": "Exactly and there's a lot of blue that basically doesn't appear in any other Prout pictures so it's probably a forgery. Yes. And what's the next one? Venice. It's a view from the Grand Canal with some rather grand buildings.",
+      "segmentIds": [
+        "seg-149",
+        "seg-150",
+        "seg-151",
+        "seg-152"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1106.23,
+      "endTime": 1128.0,
+      "text": "They're bathed in sunlight with a sort of picturesque shadow cast by the buildings opposite which is shown brilliantly. Lovely use of colour. Prout at his best, I think. Right. And then there's Entrance to a Harbour. Right. He grew up by the sea, didn't he? Yes, in Plymouth.",
+      "segmentIds": [
+        "seg-153",
+        "seg-154",
+        "seg-155",
+        "seg-156"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 3,
+      "startTime": 1129.0,
+      "endTime": 1163.71,
+      "text": "He didn't specialise in seascapes but this same location with the harbour and the sea also appear in other pictures showing a range of weather conditions. They don't all have figures like this one but I think they're really well done. Right. That is the end of section three.",
+      "segmentIds": [
+        "seg-157",
+        "seg-158",
+        "seg-159"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-049",
+      "part": 3,
+      "startTime": 1163.71,
+      "endTime": 1190.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-160"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-050",
+      "part": 4,
+      "startTime": 1190.0,
+      "endTime": 1210.0,
+      "text": "Now turn to section four on page seven. You will hear part of a lecture in a business class. The professor is discussing a case study of a company in North America called Chocozine. First, you have some time to look at questions thirty-one to forty on page seven.",
+      "segmentIds": [
+        "seg-161",
+        "seg-162",
+        "seg-163",
+        "seg-164"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-051",
+      "part": 4,
+      "startTime": 1261.0,
+      "endTime": 1282.0,
+      "text": "Now listen carefully and answer questions thirty-one to forty. We've been talking about small businesses and some of the challenges they face. Today, I want to look at a case study based on a company called Chocozine that illustrates the need to evaluate opportunities very carefully.",
+      "segmentIds": [
+        "seg-165",
+        "seg-166",
+        "seg-167"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-052",
+      "part": 4,
+      "startTime": 1283.0,
+      "endTime": 1302.51,
+      "text": "A man called Eric Smith and two of his colleagues were struck by the mass customisation movement that was spreading through a large number of industries in the US. This involved mass-producing products and at the same time individually customising them for their customers. Why not apply the same concept to chocolate?",
+      "segmentIds": [
+        "seg-168",
+        "seg-169",
+        "seg-170"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-053",
+      "part": 4,
+      "startTime": 1302.51,
+      "endTime": 1323.11,
+      "text": "Customers could choose the ingredients they'd like to have put into their chocolate bars. So Smith and his colleagues decided to launch a customised chocolate operation called Chocozine. Then, when Chocozine was only about nine months old, Smith received an email from a large European luxury retailer.",
+      "segmentIds": [
+        "seg-171",
+        "seg-172",
+        "seg-173"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-054",
+      "part": 4,
+      "startTime": 1323.11,
+      "endTime": 1344.8,
+      "text": "This retailer was enquiring about ordering 15,000 bars of chocolate for their customers. They wanted to give these as a gift in their high-end stores in New York City, Miami and Los Angeles during the holiday shopping season. The offer certainly sounded enticing because Chocozine was selling fewer than 150 chocolate bars a day.",
+      "segmentIds": [
+        "seg-174",
+        "seg-175",
+        "seg-176"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-055",
+      "part": 4,
+      "startTime": 1344.8,
+      "endTime": 1366.03,
+      "text": "Smith and his co-founders knew it could also be very good publicity, so they needed to consider it carefully. They had many things to consider. Obviously, it was a tempting offer. But at the same time, the risk was great. They didn't know whether they could get the order completed in time.",
+      "segmentIds": [
+        "seg-177",
+        "seg-178",
+        "seg-179",
+        "seg-180"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1366.03,
+      "endTime": 1390.0,
+      "text": "Also, if they accepted it and then it turned out they couldn't do it, what about the financial fallout as well as the possible damage to the company's reputation? As well as this, another thing they had to think about was how they were actually going to produce all these chocolate bars as the number of machines they had was limited. They only had three of them, and that clearly wasn't going to be enough.",
+      "segmentIds": [
+        "seg-181",
+        "seg-182",
+        "seg-183",
+        "seg-184"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-057",
+      "part": 4,
+      "startTime": 1395.0,
+      "endTime": 1418.36,
+      "text": "So they decided to think creatively and try to find a subcontractor to produce the bars. They weren't ready to pass up such a rare opportunity. Smith spent two days searching for a suitable subcontractor, but he couldn't find anyone who had experience of making bars with the type of melted toppings that Chocozine used. Then something rather unexpected happened.",
+      "segmentIds": [
+        "seg-185",
+        "seg-186",
+        "seg-187",
+        "seg-188",
+        "seg-189"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-058",
+      "part": 4,
+      "startTime": 1418.36,
+      "endTime": 1441.95,
+      "text": "A professor at Harvard Business School was teaching a class about product customisation. So she wrote to Smith and asked if he would speak to the students. So in late October, Smith had an opportunity to talk about the deal to about 90 MBA students and to ask them for their advice. Many of the students thought that doing the deal with a luxury retailer would be a mistake.",
+      "segmentIds": [
+        "seg-190",
+        "seg-191",
+        "seg-192",
+        "seg-193"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-059",
+      "part": 4,
+      "startTime": 1441.95,
+      "endTime": 1465.22,
+      "text": "However, after the class, Smith spoke with one of the students. This student had worked as a buyer at a major chocolate retailer, and he said he had a contact in the business who might be interested in doing the job. Smith called the new subcontractor the next day. He said he was interested in doing the order, but he found there were difficult technical issues to be worked out,",
+      "segmentIds": [
+        "seg-194",
+        "seg-195",
+        "seg-196",
+        "seg-197",
+        "seg-198"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-060",
+      "part": 4,
+      "startTime": 1465.22,
+      "endTime": 1489.0,
+      "text": "including how to faithfully reproduce the distinctive shape of the Chocozine bars. Smith thought about it, and in the end, reluctantly, he sent an email declining the luxury retailer's order. But fortunately for Chocozine, their sales picked up anyway, and the company gradually expanded its market share and is now doing very well. Chocozine's case is important.",
+      "segmentIds": [
+        "seg-199",
+        "seg-200",
+        "seg-201",
+        "seg-202"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-061",
+      "part": 4,
+      "startTime": 1490.0,
+      "endTime": 1513.54,
+      "text": "They were wise to carefully consider whether they could actually manage an order of this kind. But not every small business will have the happy ending that Chocozine did. And taking on too big an order has destroyed many a small business. That is the end of section 4.",
+      "segmentIds": [
+        "seg-203",
+        "seg-204",
+        "seg-205",
+        "seg-206"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-062",
+      "part": 4,
+      "startTime": 1513.54,
+      "endTime": 1515.05,
+      "text": "You now have half a minute to check your answers. That is the end of the listening test. You now have 10 minutes to transfer your answers to the listening answer sheet.",
+      "segmentIds": [
+        "seg-207",
+        "seg-208",
+        "seg-209"
+      ],
+      "timestampSource": "exact"
+    }
+  ]
+}

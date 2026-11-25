@@ -1,0 +1,3584 @@
+{
+  "id": "vol-7-test-5",
+  "vol": 7,
+  "testNumber": 5,
+  "title": "Vol 7 — Test 5",
+  "pdfUrl": "./data/vol-7/test-5/exam.pdf",
+  "pdfPages": 6,
+  "questionPageRange": [
+    1,
+    6
+  ],
+  "audioUrl": "./data/vol-7/test-5/audio.mp3",
+  "audioDurationSec": 1506.17,
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 0.0,
+      "endTime": 383.0,
+      "topicHint": "You will hear a telephone conversation between a man who works for a library service and a woman who wants to join a library. First, you have some time to look at questions 1 to 5 "
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 387.0,
+      "endTime": 723.0,
+      "topicHint": "You will hear the organiser of a family camp talking to a group of people who will be staying at a campsite. First, you have some time to look at questions 11 to 16 on page three."
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 723.0,
+      "endTime": 1068.0,
+      "topicHint": "You will hear two music students discussing the results of a survey they have done."
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1098.0,
+      "endTime": 1506.17,
+      "topicHint": "You will hear a lecturer giving a talk to some engineering students about ethics and engineering."
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "the west of Perthon Best option – Minack Library Located in 1_______ Street, next to the 2_______ Saturdays: open until 3_______ p.m. Children’s activities - a 4_______ club (5-13 year olds) - a 5_______ club (every other Saturday) Adult activities - book of the Month club - can meet local 6_______ (about one a year) Se",
+      "answerRaw": "SKELLARN",
+      "canonicalAnswer": "SKELLARN",
+      "acceptedAnswers": [
+        "SKELLARN"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "OK, your nearest one is the Minack Library. Minack? Yes, in Skellen Street. Can you spell that?",
+      "evidenceStartTime": 160.0,
+      "evidenceEndTime": 173.1,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"SKELLARN\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "ion – Minack Library Located in 1_______ Street, next to the 2_______ Saturdays: open until 3_______ p.m. Children’s activities - a 4_______ club (5-13 year olds) - a 5_______ club (every other Saturday) Adult activities - book of the Month club - can meet local 6_______ (about one a year) Services - can borrow 7_______",
+      "answerRaw": "park",
+      "canonicalAnswer": "park",
+      "acceptedAnswers": [
+        "park"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Got that. It's very easy to find because it's beside a park. Oh, I think I know that area.",
+      "evidenceStartTime": 178.0,
+      "evidenceEndTime": 183.93,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"park\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "1_______ Street, next to the 2_______ Saturdays: open until 3_______ p.m. Children’s activities - a 4_______ club (5-13 year olds) - a 5_______ club (every other Saturday) Adult activities - book of the Month club - can meet local 6_______ (about one a year) Services - can borrow 7_______ - computers are available (can",
+      "answerRaw": "4.30 / 4:30",
+      "canonicalAnswer": "4.30",
+      "acceptedAnswers": [
+        "4.30",
+        "4:30"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Opens at 9 o'clock, closes at 4.30. We shut at 5 on weekdays.",
+      "evidenceStartTime": 212.37,
+      "evidenceEndTime": 217.0,
+      "paraphrases": [],
+      "distractors": [
+        "Có số gây nhiễu (9, 5) xuất hiện sát đáp án chuẩn '4.30'."
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"4.30\". Lưu ý bẫy gây nhiễu (distractor): Có số gây nhiễu (9, 5) xuất hiện sát đáp án chuẩn '4.30'.."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "aturdays: open until 3_______ p.m. Children’s activities - a 4_______ club (5-13 year olds) - a 5_______ club (every other Saturday) Adult activities - book of the Month club - can meet local 6_______ (about one a year) Services - can borrow 7_______ - computers are available (can be booked) - various 8_______ are availa",
+      "answerRaw": "drama",
+      "canonicalAnswer": "drama",
+      "acceptedAnswers": [
+        "drama"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, the library does run a drama club, but that would only be suitable for your younger child.",
+      "evidenceStartTime": 229.0,
+      "evidenceEndTime": 235.05,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "giới hạn phạm vi bằng 'only'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"drama\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "LISTENING VOL 7 TEST 5 Read the text and answer questions 1–10 Questions 1–10 Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Library services Example: Area of living: in the west of Perthon Best option – Minack Library Located in 1_______ Street, next to",
+      "answerRaw": "singing",
+      "canonicalAnswer": "singing",
+      "acceptedAnswers": [
+        "singing"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Oh, but there's a singing club that's held every second Saturday afternoon for children of all ages up to 16.",
+      "evidenceStartTime": 245.51,
+      "evidenceEndTime": 252.38,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"singing\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": ") Adult activities - book of the Month club - can meet local 6_______ (about one a year) Services - can borrow 7_______ - computers are available (can be booked) - various 8_______ are available - can drop off books, etc via the letter box (must give card 9_______) Library shop sells - postcards (small selection) - 10___",
+      "answerRaw": "artists",
+      "canonicalAnswer": "artists",
+      "acceptedAnswers": [
+        "artists"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And I know that about once every 12 months, they have a session where you can meet artists, you know, from the local area.",
+      "evidenceStartTime": 300.81,
+      "evidenceEndTime": 317.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"artists\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "LISTENING VOL 7 TEST 5 Read the text and answer questions 1–10 Questions 1–10 Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Library services Example: Area of living: in the west of Perthon Best option – Minack Library Located in 1_______ Street, n",
+      "answerRaw": "films",
+      "canonicalAnswer": "films",
+      "acceptedAnswers": [
+        "films"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Not CDs, I'm afraid, but films, yes. Right. I'll make a note of that. Anything else you need to know? Oh, yes.",
+      "evidenceStartTime": 328.2,
+      "evidenceEndTime": 335.9,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "từ chối hoặc báo không khả dụng ('I'm afraid')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"films\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "7_______ - computers are available (can be booked) - various 8_______ are available - can drop off books, etc via the letter box (must give card 9_______) Library shop sells - postcards (small selection) - 10_______ (wide range)",
+      "answerRaw": "magazines",
+      "canonicalAnswer": "magazines",
+      "acceptedAnswers": [
+        "magazines"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We have 10 computers and we also stock several magazines, including business, healthcare and hobbies.",
+      "evidenceStartTime": 335.9,
+      "evidenceEndTime": 342.68,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"magazines\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "- can drop off books, etc via the letter box (must give card 9_______) Library shop sells - postcards (small selection) - 10_______ (wide range)",
+      "answerRaw": "number",
+      "canonicalAnswer": "number",
+      "acceptedAnswers": [
+        "number"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "All you have to do is attach a note to it with the number on your card clearly written.",
+      "evidenceStartTime": 351.0,
+      "evidenceEndTime": 356.03,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"number\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "9_______) Library shop sells - postcards (small selection) - 10_______ (wide range)",
+      "answerRaw": "maps",
+      "canonicalAnswer": "maps",
+      "acceptedAnswers": [
+        "maps"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We don't have many, but it's a popular service. Oh, that's a good idea. They're very popular. We also have an impressive range of maps of the surrounding area for sale.",
+      "evidenceStartTime": 362.0,
+      "evidenceEndTime": 373.26,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"maps\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Now listen carefully and answer questions 11 to 16. Hello, everyone.",
+      "evidenceStartTime": 434.0,
+      "evidenceEndTime": 440.5,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "ct letter, A-H, next to the questions 11-16. 11 Toilet block 12 Shower block 13 Tent site 14 Cabins 15 Barbecue area 16 Bike trail Questions 17–18 Choose TWO correct answers. 17-18 Which TWO items is it recommended that campers bring? A earplugs B sunscreen C swimming toy D torch E boots Questions 19–20 Choose TWO correct",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There's another area of pine forest, and then over on the far right-hand side, there's a block of small cabins.",
+      "evidenceStartTime": 517.0,
+      "evidenceEndTime": 524.74,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "next to the questions 11-16. 11 Toilet block 12 Shower block 13 Tent site 14 Cabins 15 Barbecue area 16 Bike trail Questions 17–18 Choose TWO correct answers. 17-18 Which TWO items is it recommended that campers bring? A earplugs B sunscreen C swimming toy D torch E boots Questions 19–20 Choose TWO correct answers. 19-20",
+      "answerRaw": "G",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There's another area of pine forest, and then over on the far right-hand side, there's a block of small cabins.",
+      "evidenceStartTime": 517.0,
+      "evidenceEndTime": 524.74,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"G\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "uestions 11-16. 11 Toilet block 12 Shower block 13 Tent site 14 Cabins 15 Barbecue area 16 Bike trail Questions 17–18 Choose TWO correct answers. 17-18 Which TWO items is it recommended that campers bring? A earplugs B sunscreen C swimming toy D torch E boots Questions 19–20 Choose TWO correct answers. 19-20 Which does th",
+      "answerRaw": "D",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There's another area of pine forest, and then over on the far right-hand side, there's a block of small cabins.",
+      "evidenceStartTime": 517.0,
+      "evidenceEndTime": 524.74,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "1-16. 11 Toilet block 12 Shower block 13 Tent site 14 Cabins 15 Barbecue area 16 Bike trail Questions 17–18 Choose TWO correct answers. 17-18 Which TWO items is it recommended that campers bring? A earplugs B sunscreen C swimming toy D torch E boots Questions 19–20 Choose TWO correct answers. 19-20 Which does the organise",
+      "answerRaw": "F",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There's another area of pine forest, and then over on the far right-hand side, there's a block of small cabins.",
+      "evidenceStartTime": 517.0,
+      "evidenceEndTime": 524.74,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"F\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "lock 12 Shower block 13 Tent site 14 Cabins 15 Barbecue area 16 Bike trail Questions 17–18 Choose TWO correct answers. 17-18 Which TWO items is it recommended that campers bring? A earplugs B sunscreen C swimming toy D torch E boots Questions 19–20 Choose TWO correct answers. 19-20 Which does the organiser suggest are the",
+      "answerRaw": "H",
+      "canonicalAnswer": "H",
+      "acceptedAnswers": [
+        "H"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There's another area of pine forest, and then over on the far right-hand side, there's a block of small cabins.",
+      "evidenceStartTime": 517.0,
+      "evidenceEndTime": 524.74,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"H\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "ea 16 Bike trail Questions 17–18 Choose TWO correct answers. 17-18 Which TWO items is it recommended that campers bring? A earplugs B sunscreen C swimming toy D torch E boots Questions 19–20 Choose TWO correct answers. 19-20 Which does the organiser suggest are the TWO most popular concert items? A acting B dancing C poetry",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "While we're on the subject of weather too, usually I recommend that campers bring sunblock with them.",
+      "evidenceStartTime": 631.0,
+      "evidenceEndTime": 637.52,
+      "paraphrases": [
+        {
+          "questionTerm": "suggest",
+          "audioTerm": "recommend"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'suggest' ↔ 'recommend'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "",
+      "answerRaw": "E",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "and the blocks all have outside lighting now. So I'd say that a pair of earplugs are more useful, as in my experience, a lot of talking goes on after light's out.",
+      "evidenceStartTime": 650.98,
+      "evidenceEndTime": 661.48,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "D torch E boots Questions 19–20 Choose TWO correct answers. 19-20 Which does the organiser suggest are the TWO most popular concert items? A acting B dancing C poetry recital D singing E storytelling",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But in April, if it's wet, it can get muddy around the campsite, so to bring boots isn't a bad idea. Finally, can you all please prepare something for the final night concert?",
+      "evidenceStartTime": 661.48,
+      "evidenceEndTime": 674.58,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "",
+      "answerRaw": "D",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But actually, people much prefer to see some good dancing.",
+      "evidenceStartTime": 694.05,
+      "evidenceEndTime": 698.0,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "questions 21–30 Questions 21–22 Choose TWO correct answers. 21-22 Which TWO points did students most frequently make about their musical background before staring a music degree? A They had already composed music. B They had several music qualifications. C They could play more than one instrument. D They had performed in pu",
+      "answerRaw": "C, D",
+      "canonicalAnswer": "C, D",
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t5-q21-22",
+        "questionNumbers": [
+          21,
+          22
+        ],
+        "poolAnswers": [
+          "C",
+          "D"
+        ]
+      },
+      "evidenceQuote": "The most important points to make are that although most people have actually composed music during the course,",
+      "evidenceStartTime": 795.43,
+      "evidenceEndTime": 801.77,
+      "paraphrases": [
+        {
+          "questionTerm": "instrument",
+          "audioTerm": "music"
+        }
+      ],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')"
+      ],
+      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, D). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'instrument' ↔ 'music'. Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "",
+      "answerRaw": "C, D",
+      "canonicalAnswer": "C, D",
+      "acceptedAnswers": [
+        "C",
+        "D"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t5-q21-22",
+        "questionNumbers": [
+          21,
+          22
+        ],
+        "poolAnswers": [
+          "C",
+          "D"
+        ]
+      },
+      "evidenceQuote": "that wasn't the case when they arrived. And the other thing they had in common was the piano.",
+      "evidenceStartTime": 801.77,
+      "evidenceEndTime": 807.24,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, D). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "d piano lessons. Questions 23–24 Choose TWO correct answers. 23-24 Which TWO points did students most frequently make about music practice? A They prefer to practise alone B They try to practise every day C They are motivated to practise by fear D They feel they don’t do enough practice E They enjoy the challenge of a diffic",
+      "answerRaw": "C, E",
+      "canonicalAnswer": "C, E",
+      "acceptedAnswers": [
+        "C",
+        "E"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t5-q23-24",
+        "questionNumbers": [
+          23,
+          24
+        ],
+        "poolAnswers": [
+          "C",
+          "E"
+        ]
+      },
+      "evidenceQuote": "The most striking thing here is that even students who you'd expect to practice for hours every day until they get it perfect,",
+      "evidenceStartTime": 847.86,
+      "evidenceEndTime": 856.39,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "",
+      "answerRaw": "C, E",
+      "canonicalAnswer": "C, E",
+      "acceptedAnswers": [
+        "C",
+        "E"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t5-q23-24",
+        "questionNumbers": [
+          23,
+          24
+        ],
+        "poolAnswers": [
+          "C",
+          "E"
+        ]
+      },
+      "evidenceQuote": "The most striking thing here is that even students who you'd expect to practice for hours every day until they get it perfect,",
+      "evidenceStartTime": 847.86,
+      "evidenceEndTime": 856.39,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "difficult piece Questions 25–26 Choose TWO correct answers. 25-26 Which TWO points were most frequently made by students about the pieces they select for assessed performances? A They like to hear others performing the same pieces. B They like to choose little-known pieces C They like to play pieces from memory D They like",
+      "answerRaw": "A, C",
+      "canonicalAnswer": "A, C",
+      "acceptedAnswers": [
+        "A",
+        "C"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t5-q25-26",
+        "questionNumbers": [
+          25,
+          26
+        ],
+        "poolAnswers": [
+          "A",
+          "C"
+        ]
+      },
+      "evidenceQuote": "After that, we should talk a bit about the pieces that students select for assessed performances.",
+      "evidenceStartTime": 881.04,
+      "evidenceEndTime": 887.0,
+      "paraphrases": [
+        {
+          "questionTerm": "choose",
+          "audioTerm": "select"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, C). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'choose' ↔ 'select'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "",
+      "answerRaw": "A, C",
+      "canonicalAnswer": "A, C",
+      "acceptedAnswers": [
+        "A",
+        "C"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t5-q25-26",
+        "questionNumbers": [
+          25,
+          26
+        ],
+        "poolAnswers": [
+          "A",
+          "C"
+        ]
+      },
+      "evidenceQuote": "But they were in the minority. I think the first thing to say is that a high percentage said they would always try to learn their pieces by heart because it's too easy to get lost if you're trying to read and play when you're nervous.",
+      "evidenceStartTime": 898.46,
+      "evidenceEndTime": 912.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, C). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "-30. Student Comments Aspects of performance Performing solo 27_______ Deciding which pieces to perform 28_______ Performing with musicians from a different genre 29_______ Performing with musicians who play the same instrument 30_______ A This is very beneficial B This is difficult but enjoyable C This can affect relatio",
+      "answerRaw": "B difficult but",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B",
+        "B difficult but",
+        "difficult but"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I expected to find that performing solo would make students very nervous, but in fact that isn't the case.",
+      "evidenceStartTime": 976.0,
+      "evidenceEndTime": 982.33,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án B difficult but. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "e Performing solo 27_______ Deciding which pieces to perform 28_______ Performing with musicians from a different genre 29_______ Performing with musicians who play the same instrument 30_______ A This is very beneficial B This is difficult but enjoyable C This can affect relationships D This makes them very nervous E Thi",
+      "answerRaw": "E time-consuming",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E time-consuming",
+        "time-consuming"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You need to consider your audience, the venue, the time available to learn the piece, especially if it's complicated.",
+      "evidenceStartTime": 1015.0,
+      "evidenceEndTime": 1022.46,
+      "paraphrases": [
+        {
+          "questionTerm": "difficult",
+          "audioTerm": "complicated"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E time-consuming. Diễn đạt tương đương (paraphrase) giữa đề và audio: 'difficult' ↔ 'complicated'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "m 28_______ Performing with musicians from a different genre 29_______ Performing with musicians who play the same instrument 30_______ A This is very beneficial B This is difficult but enjoyable C This can affect relationships D This makes them very nervous E This is time-consuming F This is easy G This is happens infreq",
+      "answerRaw": "G infrequently",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G",
+        "G infrequently",
+        "infrequently"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Then there's performing with musicians from a different genre, like a classical musician playing with a jazz group.",
+      "evidenceStartTime": 1028.0,
+      "evidenceEndTime": 1034.93,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án G infrequently. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "_____ Performing with musicians who play the same instrument 30_______ A This is very beneficial B This is difficult but enjoyable C This can affect relationships D This makes them very nervous E This is time-consuming F This is easy G This is happens infrequently",
+      "answerRaw": "A very beneficial",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A",
+        "A very beneficial",
+        "very beneficial"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "For performing with musicians who play the same instrument, almost everyone put the same thing.",
+      "evidenceStartTime": 1040.38,
+      "evidenceEndTime": 1046.45,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án A very beneficial. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "ight and wrong conduct - at first, engineers saw ethics as a 31_______ issue - attitudes changed because of three disasters involving the collapse of 32_______ 1876 – USA (metal fatigue) 1879 – Scotland (the impact of 33_______ on the structure was miscalculated) 1907 – Canada (the structure could not support its own 34__",
+      "answerRaw": "personal",
+      "canonicalAnswer": "personal",
+      "acceptedAnswers": [
+        "personal"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Initially, ethical issues were considered to be a personal matter, something to be decided in accordance with one's own principles and values.",
+      "evidenceStartTime": 1209.0,
+      "evidenceEndTime": 1219.53,
+      "paraphrases": [],
+      "distractors": [
+        "thông tin ban đầu ('initially') đã được điều chỉnh"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"personal\". Lưu ý bẫy gây nhiễu (distractor): thông tin ban đầu ('initially') đã được điều chỉnh."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "changed because of three disasters involving the collapse of 32_______ 1876 – USA (metal fatigue) 1879 – Scotland (the impact of 33_______ on the structure was miscalculated) 1907 – Canada (the structure could not support its own 34_______) Boston Molasses Disaster At the time, molasses was the main 35_______ used in the",
+      "answerRaw": "bridges",
+      "canonicalAnswer": "bridges",
+      "acceptedAnswers": [
+        "bridges"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "All three of these involved the collapse of bridges. The first, known as the Ashtabula River Railroad Disaster, happened in 1876 in the USA, and we now think it was probably caused by metal fatigue.",
+      "evidenceStartTime": 1243.0,
+      "evidenceEndTime": 1258.85,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"bridges\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "__ 1876 – USA (metal fatigue) 1879 – Scotland (the impact of 33_______ on the structure was miscalculated) 1907 – Canada (the structure could not support its own 34_______) Boston Molasses Disaster At the time, molasses was the main 35_______ used in the USA - Boston company: collapse of a 36_______ released 8 million lit",
+      "answerRaw": "wind",
+      "canonicalAnswer": "wind",
+      "acceptedAnswers": [
+        "wind"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "This occurred because engineers had failed to correctly calculate the effects that wind would have on the structure.",
+      "evidenceStartTime": 1265.0,
+      "evidenceEndTime": 1273.17,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"wind\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "ated) 1907 – Canada (the structure could not support its own 34_______) Boston Molasses Disaster At the time, molasses was the main 35_______ used in the USA - Boston company: collapse of a 36_______ released 8 million litres of molasses - the wave of molasses destroyed buildings and the railway - local residents insisted",
+      "answerRaw": "weight",
+      "canonicalAnswer": "weight",
+      "acceptedAnswers": [
+        "weight"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The weight of the structure was so great that it could not support itself, and it collapsed.",
+      "evidenceStartTime": 1280.0,
+      "evidenceEndTime": 1286.41,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"weight\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "Boston Molasses Disaster At the time, molasses was the main 35_______ used in the USA - Boston company: collapse of a 36_______ released 8 million litres of molasses - the wave of molasses destroyed buildings and the railway - local residents insisted on a 37_______ of the molasses company Causes of the accident: - insuf",
+      "answerRaw": "sweetener",
+      "canonicalAnswer": "sweetener",
+      "acceptedAnswers": [
+        "sweetener"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "At the time, molasses was used rather than sugar as the principal sweetener in the USA.",
+      "evidenceStartTime": 1317.36,
+      "evidenceEndTime": 1323.57,
+      "paraphrases": [],
+      "distractors": [
+        "loại trừ phương án đối chiếu ('rather than')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"sweetener\". Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "in 35_______ used in the USA - Boston company: collapse of a 36_______ released 8 million litres of molasses - the wave of molasses destroyed buildings and the railway - local residents insisted on a 37_______ of the molasses company Causes of the accident: - insufficient 38_______ check - the fermentation caused the risi",
+      "answerRaw": "tank",
+      "canonicalAnswer": "tank",
+      "acceptedAnswers": [
+        "tank"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The molasses, more than eight million liters of thick, sticky liquid, was stored in a tank.",
+      "evidenceStartTime": 1338.67,
+      "evidenceEndTime": 1345.85,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"tank\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "ed buildings and the railway - local residents insisted on a 37_______ of the molasses company Causes of the accident: - insufficient 38_______ check - the fermentation caused the rising of 39_______ Now, every engineer has to have a 40_______",
+      "answerRaw": "trial",
+      "canonicalAnswer": "trial",
+      "acceptedAnswers": [
+        "trial"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They banded together and succeeded in bringing about a trial, charging the company with negligence.",
+      "evidenceStartTime": 1377.92,
+      "evidenceEndTime": 1384.6,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"trial\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "the molasses company Causes of the accident: - insufficient 38_______ check - the fermentation caused the rising of 39_______ Now, every engineer has to have a 40_______",
+      "answerRaw": "safety",
+      "canonicalAnswer": "safety",
+      "acceptedAnswers": [
+        "safety"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "However, it is certainly clear that not enough safety tests were carried out.",
+      "evidenceStartTime": 1402.34,
+      "evidenceEndTime": 1407.42,
+      "paraphrases": [],
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"safety\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "ient 38_______ check - the fermentation caused the rising of 39_______ Now, every engineer has to have a 40_______",
+      "answerRaw": "pressure",
+      "canonicalAnswer": "pressure",
+      "acceptedAnswers": [
+        "pressure"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It seems that the collapse was probably brought about by fermentation of the molasses, which led to an increase in pressure.",
+      "evidenceStartTime": 1417.0,
+      "evidenceEndTime": 1426.59,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"pressure\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "ed the rising of 39_______ Now, every engineer has to have a 40_______",
+      "answerRaw": "license / lice",
+      "canonicalAnswer": "license",
+      "acceptedAnswers": [
+        "license",
+        "licence"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "However, this was one of the main incidents which led to increased legislation in the 1920s to regulate engineers and the engineering profession. It is the reason why we can now only operate if we have gained a license.",
+      "evidenceStartTime": 1433.78,
+      "evidenceEndTime": 1451.38,
+      "paraphrases": [],
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'",
+        "giới hạn phạm vi bằng 'only'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"license\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 7.8,
+      "text": "for you to read the instructions and questions and you will have a chance to check your work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 7.8,
+      "endTime": 14.0,
+      "text": "All the recordings will be played once only. The test is in four sections.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 15.0,
+      "endTime": 19.61,
+      "text": "Write all your answers in the listening question booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 19.61,
+      "endTime": 27.38,
+      "text": "At the end of the test you will be given 10 minutes to transfer your answers to an answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 27.38,
+      "endTime": 32.0,
+      "text": "Now turn to section 1 on page 2 of your question booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 37.0,
+      "endTime": 56.58,
+      "text": "You will hear a telephone conversation between a man who works for a library service and a woman who wants to join a library.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 56.58,
+      "endTime": 66.6,
+      "text": "First, you have some time to look at questions 1 to 5 on page 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 66.6,
+      "endTime": 76.78,
+      "text": "You will see that there is an example that has been done for you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 76.78,
+      "endTime": 89.0,
+      "text": "On this occasion only, the conversation relating to this will be played first.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 92.0,
+      "endTime": 95.37,
+      "text": "Good morning, library services. Oh, good morning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 95.37,
+      "endTime": 102.19,
+      "text": "My family and I have recently moved to the area and we'd like to find where our nearest library is.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 102.19,
+      "endTime": 107.35,
+      "text": "We don't have a car. Right, so whereabouts are you? In Perton, in the west.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 107.35,
+      "endTime": 111.0,
+      "text": "Fine, so I'll just get the details on screen for you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 114.0,
+      "endTime": 121.72,
+      "text": "The woman is asking about libraries in the west of the area, so west has been written in the space.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 121.72,
+      "endTime": 123.2,
+      "text": "Now we shall begin.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 123.2,
+      "endTime": 131.0,
+      "text": "You should answer the questions as you listen because you will not hear the recording a second time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 132.0,
+      "endTime": 139.97,
+      "text": "Listen carefully and answer questions 1 to 5. Good morning, library services. Oh, good morning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 139.97,
+      "endTime": 148.27,
+      "text": "My family and I have recently moved to the area and we'd like to find where our nearest library is.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 148.27,
+      "endTime": 154.56,
+      "text": "We don't have a car. Right, so whereabouts are you? In Perton, in the west.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 154.56,
+      "endTime": 159.0,
+      "text": "Fine, so I'll just get the details on screen for you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 160.0,
+      "endTime": 167.11,
+      "text": "OK, your nearest one is the Minack Library. Minack?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 167.11,
+      "endTime": 173.1,
+      "text": "Yes, in Skellen Street. Can you spell that?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 173.1,
+      "endTime": 177.0,
+      "text": "It's S-K-E-L-L-A-R-N Street.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 178.0,
+      "endTime": 183.93,
+      "text": "Got that. It's very easy to find because it's beside a park. Oh, I think I know that area.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 183.93,
+      "endTime": 188.47,
+      "text": "There's a sports centre near there, isn't there? I don't know of one.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 188.47,
+      "endTime": 194.0,
+      "text": "Oh, I'm probably mistaken. Anyway, it's probably a bit far for us to walk from home.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 194.0,
+      "endTime": 198.78,
+      "text": "Are there any buses? Yes, it's well-served by public transport.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 198.78,
+      "endTime": 205.46,
+      "text": "There's a stop about five minutes' walk away. Oh, right. And when does the library open?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 205.46,
+      "endTime": 212.37,
+      "text": "We'll most often want to come at the weekend. I'm afraid it's not open on Sunday. Saturday?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 212.37,
+      "endTime": 217.0,
+      "text": "Opens at 9 o'clock, closes at 4.30. We shut at 5 on weekdays.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 218.0,
+      "endTime": 218.81,
+      "text": "That's fine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 218.81,
+      "endTime": 225.43,
+      "text": "Now, I've got two kids, 14 and 9, and I wondered whether you have any special activities for them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 225.43,
+      "endTime": 228.0,
+      "text": "In our last place, we had an art club.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 229.0,
+      "endTime": 235.05,
+      "text": "Well, the library does run a drama club, but that would only be suitable for your younger child.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 235.05,
+      "endTime": 239.46,
+      "text": "It's open for 5 to 13-year-olds. A pity it's not open to both of them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 239.46,
+      "endTime": 241.98,
+      "text": "Have you anything they could both go to?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 241.98,
+      "endTime": 245.51,
+      "text": "Well, there's no reading club that would suit them both.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 245.51,
+      "endTime": 252.38,
+      "text": "Oh, but there's a singing club that's held every second Saturday afternoon for children of all ages up to 16.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 252.38,
+      "endTime": 253.0,
+      "text": "Excellent.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 257.0,
+      "endTime": 270.81,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 6 to 10 on page 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 270.81,
+      "endTime": 276.12,
+      "text": "Now listen and answer questions 6 to 10.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 276.12,
+      "endTime": 287.93,
+      "text": "Now, because we're new to the area, I'm also wanting to get involved in local activities.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 287.93,
+      "endTime": 294.7,
+      "text": "Well, Minack does some sessions for adults as well.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 294.7,
+      "endTime": 300.81,
+      "text": "There's a book of the month club. That's good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 300.81,
+      "endTime": 317.0,
+      "text": "And I know that about once every 12 months, they have a session where you can meet artists, you know, from the local area.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 317.0,
+      "endTime": 321.43,
+      "text": "How interesting. Well, that sounds like a full programme.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 321.43,
+      "endTime": 328.2,
+      "text": "Now, while I'm on the phone, can I check what the facilities are? Can you take out CDs?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 328.2,
+      "endTime": 331.0,
+      "text": "Not CDs, I'm afraid, but films, yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 331.0,
+      "endTime": 335.9,
+      "text": "Right. I'll make a note of that. Anything else you need to know? Oh, yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 335.9,
+      "endTime": 342.68,
+      "text": "We have 10 computers and we also stock several magazines, including business, healthcare and hobbies.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 342.68,
+      "endTime": 344.16,
+      "text": "Same as my last place.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 1,
+      "startTime": 344.16,
+      "endTime": 351.0,
+      "text": "And there is a new drop-off facility where you can post any item through the door if it's after hours.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 1,
+      "startTime": 351.0,
+      "endTime": 356.03,
+      "text": "All you have to do is attach a note to it with the number on your card clearly written.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 1,
+      "startTime": 356.03,
+      "endTime": 361.0,
+      "text": "That sounds good. And we do have a small shop on the premises where we sell postcards.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 1,
+      "startTime": 362.0,
+      "endTime": 367.0,
+      "text": "We don't have many, but it's a popular service. Oh, that's a good idea. They're very popular.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 1,
+      "startTime": 367.0,
+      "endTime": 373.26,
+      "text": "We also have an impressive range of maps of the surrounding area for sale.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 1,
+      "startTime": 373.26,
+      "endTime": 378.85,
+      "text": "Well, it sounds like you've got... That is the end of section one.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 1,
+      "startTime": 378.85,
+      "endTime": 383.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 2,
+      "startTime": 387.0,
+      "endTime": 396.71,
+      "text": "You will hear the organiser of a family camp talking to a group of people who will be staying at a campsite.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 2,
+      "startTime": 396.71,
+      "endTime": 403.0,
+      "text": "First, you have some time to look at questions 11 to 16 on page three.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 2,
+      "startTime": 434.0,
+      "endTime": 440.5,
+      "text": "Now listen carefully and answer questions 11 to 16. Hello, everyone.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 2,
+      "startTime": 440.5,
+      "endTime": 447.0,
+      "text": "And welcome to this orientation session prior to our camp next week.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 2,
+      "startTime": 447.0,
+      "endTime": 453.27,
+      "text": "Thank you for coming along to find out what you and your children will be doing on this year's camp.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 2,
+      "startTime": 453.27,
+      "endTime": 461.54,
+      "text": "To start off with, let's tell you a bit about the campsite itself so that you'll be able to find your way around once you get there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 2,
+      "startTime": 461.54,
+      "endTime": 468.31,
+      "text": "Firstly, we'll be arriving by bus into the car park, which if you look at the plan you have in front of you,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 2,
+      "startTime": 468.31,
+      "endTime": 472.0,
+      "text": "you'll see at the top of the picture on the left-hand side.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 2,
+      "startTime": 473.0,
+      "endTime": 479.48,
+      "text": "Now, if you cross the road from the car park, the first building you'll come to is the toilet block.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 2,
+      "startTime": 479.48,
+      "endTime": 485.71,
+      "text": "It's been recently upgraded, so it's very nice and clean in there now with plenty of facilities.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 2,
+      "startTime": 485.71,
+      "endTime": 492.0,
+      "text": "And built onto that, so this is across the road from the community hall, is the new shower block.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 2,
+      "startTime": 493.0,
+      "endTime": 500.38,
+      "text": "The hot water does run out occasionally, but usually there's enough to cope with a group your size.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 2,
+      "startTime": 500.38,
+      "endTime": 505.52,
+      "text": "If you now move to the bottom left of your map, among the pine trees,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 2,
+      "startTime": 505.52,
+      "endTime": 512.97,
+      "text": "there is a special flat site set up for pitching tents with power points and outdoor taps for water.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 2,
+      "startTime": 512.97,
+      "endTime": 517.0,
+      "text": "Now, let's go back and move along the top of your map.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 517.0,
+      "endTime": 524.74,
+      "text": "There's another area of pine forest, and then over on the far right-hand side, there's a block of small cabins.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 524.74,
+      "endTime": 534.22,
+      "text": "Note that this is different from the main accommodation block, which doesn't appear on this map, but is further over again to the right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 534.22,
+      "endTime": 540.84,
+      "text": "Now let's look down from there, over the road, so we're moving clockwise around your map, okay?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 540.84,
+      "endTime": 549.0,
+      "text": "In this next block, beside the flower beds, we have a lovely place for barbecues, where you can cook in the open air.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 550.0,
+      "endTime": 552.22,
+      "text": "What else to tell you about?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 552.22,
+      "endTime": 561.95,
+      "text": "Below the flower bed and across Lakeside Drive, you'll see a trail for mountain biking, which is always a popular activity.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 561.95,
+      "endTime": 568.76,
+      "text": "Moving on now, in the middle of the campsite, you'll see the lake where you can canoe.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 568.76,
+      "endTime": 572.0,
+      "text": "And above that again, the community hall.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 573.0,
+      "endTime": 582.5,
+      "text": "So that completes your introduction to the campsite.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 582.5,
+      "endTime": 587.8,
+      "text": "I hope you found that useful.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 587.8,
+      "endTime": 605.52,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 17 to 20 on page 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 605.52,
+      "endTime": 613.0,
+      "text": "Now listen and answer questions 17 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 617.0,
+      "endTime": 620.33,
+      "text": "Now let's think about what you need to bring with you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 620.33,
+      "endTime": 623.53,
+      "text": "I'm sure you're all wondering what you need to pack.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 623.53,
+      "endTime": 630.0,
+      "text": "The lake is a bit cold for swimming at this time of year, so you can leave your togs out of the suitcase.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 631.0,
+      "endTime": 637.52,
+      "text": "While we're on the subject of weather too, usually I recommend that campers bring sunblock with them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 637.52,
+      "endTime": 643.0,
+      "text": "But I guess now that we're into April, that too can be left behind. Ah, let me think.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 644.0,
+      "endTime": 650.98,
+      "text": "Some campers like a torch, but actually the days are still so long that it's light outside till quite late,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 650.98,
+      "endTime": 653.91,
+      "text": "and the blocks all have outside lighting now.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 653.91,
+      "endTime": 661.48,
+      "text": "So I'd say that a pair of earplugs are more useful, as in my experience, a lot of talking goes on after light's out.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 661.48,
+      "endTime": 668.0,
+      "text": "But in April, if it's wet, it can get muddy around the campsite, so to bring boots isn't a bad idea.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 670.0,
+      "endTime": 674.58,
+      "text": "Finally, can you all please prepare something for the final night concert?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 674.58,
+      "endTime": 678.11,
+      "text": "Bring your musical instruments or whatever else you need.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 678.11,
+      "endTime": 683.0,
+      "text": "You can't have a camp without a good sing-along. That's our favourite activity.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 2,
+      "startTime": 683.0,
+      "endTime": 689.82,
+      "text": "Maybe you could recite a poem, act out a skit or charades for us if you're brave enough to try that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 2,
+      "startTime": 689.82,
+      "endTime": 694.05,
+      "text": "Or failing that, perhaps you can tell a joke or a funny story.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 2,
+      "startTime": 694.05,
+      "endTime": 698.0,
+      "text": "But actually, people much prefer to see some good dancing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 2,
+      "startTime": 699.0,
+      "endTime": 708.82,
+      "text": "I'll look forward to seeing you all perform next week.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 2,
+      "startTime": 708.82,
+      "endTime": 714.09,
+      "text": "That is the end of Section 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 2,
+      "startTime": 714.09,
+      "endTime": 723.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 3,
+      "startTime": 723.0,
+      "endTime": 724.0,
+      "text": "You will hear two music students discussing the results of a survey they have done.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 3,
+      "startTime": 724.0,
+      "endTime": 736.68,
+      "text": "First, you have some time to look at questions 21 to 26 on page 5.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 3,
+      "startTime": 736.68,
+      "endTime": 746.48,
+      "text": "Now listen carefully and answer questions 21 to 26.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 3,
+      "startTime": 746.48,
+      "endTime": 766.66,
+      "text": "So Gareth, we need to organise the findings from our survey on music students for the final presentation.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 3,
+      "startTime": 766.66,
+      "endTime": 778.0,
+      "text": "Yes Lorna, I think we've got some very interesting results.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 3,
+      "startTime": 778.0,
+      "endTime": 790.17,
+      "text": "Obviously, we need to start by saying that we interviewed all the third year students doing a music degree and state the objective of our research project, that is, to find out about their attitudes to performing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 3,
+      "startTime": 790.17,
+      "endTime": 795.43,
+      "text": "And then we should talk about the students' musical backgrounds before coming to university.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 3,
+      "startTime": 795.43,
+      "endTime": 801.77,
+      "text": "The most important points to make are that although most people have actually composed music during the course,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 3,
+      "startTime": 801.77,
+      "endTime": 804.0,
+      "text": "that wasn't the case when they arrived.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 3,
+      "startTime": 804.0,
+      "endTime": 807.24,
+      "text": "And the other thing they had in common was the piano.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 3,
+      "startTime": 807.24,
+      "endTime": 812.5,
+      "text": "Well, they'd had access to a piano at some point, but not all had studied it formally.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 3,
+      "startTime": 812.5,
+      "endTime": 816.6,
+      "text": "I thought the most interesting finding was that before coming here,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 3,
+      "startTime": 816.6,
+      "endTime": 824.0,
+      "text": "almost everyone was involved in a chamber orchestra or band or singing in a choir and playing in front of live audiences.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 3,
+      "startTime": 825.0,
+      "endTime": 829.81,
+      "text": "But varying enormously in size. Some had only played in tiny venues.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 3,
+      "startTime": 829.81,
+      "endTime": 832.0,
+      "text": "I think it's worth saying that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 3,
+      "startTime": 832.0,
+      "endTime": 832.2,
+      "text": "OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 3,
+      "startTime": 832.2,
+      "endTime": 840.4,
+      "text": "And as you might expect from people wanting to study music, they all had a degree of proficiency in at least two instruments.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 840.4,
+      "endTime": 844.0,
+      "text": "But in most cases, one of the instruments was dominant.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 844.0,
+      "endTime": 847.86,
+      "text": "Right. We need to talk about attitudes to music practice.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 847.86,
+      "endTime": 856.39,
+      "text": "The most striking thing here is that even students who you'd expect to practice for hours every day until they get it perfect,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 856.39,
+      "endTime": 861.0,
+      "text": "say it's being terrified of failing that really makes them practice.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 861.0,
+      "endTime": 866.0,
+      "text": "I know I'm the same. Me too. It's interesting what was said about practising alone.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 867.0,
+      "endTime": 871.43,
+      "text": "Some people preferred that because they could focus more on their weak points.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 871.43,
+      "endTime": 873.25,
+      "text": "But that wasn't a majority view.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 873.25,
+      "endTime": 880.0,
+      "text": "What most of them agree on is that there's nothing more rewarding than mastering something that's really hard to learn.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 880.0,
+      "endTime": 881.04,
+      "text": "That's right. OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 881.04,
+      "endTime": 887.0,
+      "text": "After that, we should talk a bit about the pieces that students select for assessed performances.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 887.0,
+      "endTime": 890.26,
+      "text": "There wasn't quite so much consensus on this, was there?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 890.26,
+      "endTime": 898.46,
+      "text": "A few people prefer to do pieces which are relatively unknown, while others choose the ones they think will show off their technical ability.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 898.46,
+      "endTime": 900.2,
+      "text": "But they were in the minority.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 900.2,
+      "endTime": 912.0,
+      "text": "I think the first thing to say is that a high percentage said they would always try to learn their pieces by heart because it's too easy to get lost if you're trying to read and play when you're nervous.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 912.0,
+      "endTime": 912.48,
+      "text": "OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 912.48,
+      "endTime": 935.16,
+      "text": "And quite a lot of them said it helps to listen to other people playing your chosen piece, preferably recordings, but even just other students.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 935.16,
+      "endTime": 951.5,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 27 to 30 on page 6.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 951.5,
+      "endTime": 958.0,
+      "text": "Now listen and answer questions 27 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 961.0,
+      "endTime": 966.52,
+      "text": "So finally, we need to look at the findings for students' attitudes to performing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 966.52,
+      "endTime": 973.52,
+      "text": "We should point out that this includes informal and formal public performances as well as assessed ones.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 973.52,
+      "endTime": 975.0,
+      "text": "Yes, that's important.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 976.0,
+      "endTime": 982.33,
+      "text": "I expected to find that performing solo would make students very nervous, but in fact that isn't the case.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 982.33,
+      "endTime": 988.78,
+      "text": "They do find it hugely challenging to start with, but they appreciate the challenge and find it stimulating.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 988.78,
+      "endTime": 993.8,
+      "text": "Right. I was surprised by what students said about deciding which pieces to perform.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 993.8,
+      "endTime": 999.0,
+      "text": "I thought they'd all say this was easy. For me, it's always been quite straightforward.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1000.0,
+      "endTime": 1003.47,
+      "text": "Which pieces do I like best and which pieces can I play well?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1003.47,
+      "endTime": 1005.86,
+      "text": "And my repertoire is quite limited anyway.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1005.86,
+      "endTime": 1010.7,
+      "text": "But the most commonly cited answer was that it took them ages to make their minds up.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1010.7,
+      "endTime": 1014.0,
+      "text": "I suppose it's because there are so many factors involved.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1015.0,
+      "endTime": 1022.46,
+      "text": "You need to consider your audience, the venue, the time available to learn the piece, especially if it's complicated.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1022.46,
+      "endTime": 1028.0,
+      "text": "You need to think about all these things and you can't do that in a hurry. That's true.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1028.0,
+      "endTime": 1034.93,
+      "text": "Then there's performing with musicians from a different genre, like a classical musician playing with a jazz group.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1034.93,
+      "endTime": 1040.0,
+      "text": "That can really be fun. But most of the music students had never even considered it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 3,
+      "startTime": 1040.0,
+      "endTime": 1040.38,
+      "text": "Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 3,
+      "startTime": 1040.38,
+      "endTime": 1046.45,
+      "text": "For performing with musicians who play the same instrument, almost everyone put the same thing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 3,
+      "startTime": 1046.45,
+      "endTime": 1054.0,
+      "text": "Yes, they all said it was incredibly helpful and not at all intimidating, which says a lot for the department's ethos.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 3,
+      "startTime": 1054.0,
+      "endTime": 1060.3,
+      "text": "Yes, that's a good point. OK, what I think we should sort out now...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 3,
+      "startTime": 1060.3,
+      "endTime": 1068.0,
+      "text": "That is the end of section three. You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 4,
+      "startTime": 1098.0,
+      "endTime": 1103.65,
+      "text": "Now turn to section four on page seven. Section four.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 4,
+      "startTime": 1103.65,
+      "endTime": 1114.0,
+      "text": "You will hear a lecturer giving a talk to some engineering students about ethics and engineering.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 4,
+      "startTime": 1115.0,
+      "endTime": 1147.81,
+      "text": "First, you have some time to look at questions thirty-one to forty on page seven.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 4,
+      "startTime": 1147.81,
+      "endTime": 1172.92,
+      "text": "Now listen carefully and answer questions thirty-one to forty.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 4,
+      "startTime": 1172.92,
+      "endTime": 1179.0,
+      "text": "Good afternoon.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 4,
+      "startTime": 1180.0,
+      "endTime": 1189.22,
+      "text": "Today we're starting a series of lectures on ethics in engineering, that is, engineering principles relating to right and wrong conduct,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 4,
+      "startTime": 1189.22,
+      "endTime": 1195.73,
+      "text": "and the sorts of moral responsibilities that you will have to uphold in your professional lives.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 4,
+      "startTime": 1195.73,
+      "endTime": 1201.76,
+      "text": "I'm going to start by giving you a brief outline of the history of ethics in engineering.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 4,
+      "startTime": 1201.76,
+      "endTime": 1208.0,
+      "text": "It was, of course, only in the 19th century that engineering really emerged as a profession.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 4,
+      "startTime": 1209.0,
+      "endTime": 1219.53,
+      "text": "Initially, ethical issues were considered to be a personal matter, something to be decided in accordance with one's own principles and values.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 4,
+      "startTime": 1219.53,
+      "endTime": 1228.13,
+      "text": "However, things gradually changed as the profession grew and as engineering projects became larger and more complex,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 4,
+      "startTime": 1228.13,
+      "endTime": 1235.77,
+      "text": "a need began to be felt for a more codified set of principles that all engineers would agree to follow.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 4,
+      "startTime": 1235.77,
+      "endTime": 1242.0,
+      "text": "Unfortunately, it took three major disasters to bring about this change in attitude.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 4,
+      "startTime": 1243.0,
+      "endTime": 1247.18,
+      "text": "All three of these involved the collapse of bridges.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 4,
+      "startTime": 1247.18,
+      "endTime": 1258.85,
+      "text": "The first, known as the Ashtabula River Railroad Disaster, happened in 1876 in the USA, and we now think it was probably caused by metal fatigue.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 4,
+      "startTime": 1258.85,
+      "endTime": 1264.0,
+      "text": "Then in 1879 there was a second disaster, this time in Scotland.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 4,
+      "startTime": 1265.0,
+      "endTime": 1273.17,
+      "text": "This occurred because engineers had failed to correctly calculate the effects that wind would have on the structure.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 4,
+      "startTime": 1273.17,
+      "endTime": 1276.41,
+      "text": "The third collapse occurred in 1907 in Canada.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 4,
+      "startTime": 1276.41,
+      "endTime": 1280.0,
+      "text": "This was also due to an engineering design problem.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 4,
+      "startTime": 1280.0,
+      "endTime": 1286.41,
+      "text": "The weight of the structure was so great that it could not support itself, and it collapsed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 4,
+      "startTime": 1286.41,
+      "endTime": 1297.08,
+      "text": "Public outcry over disasters such as these eventually led to the establishment of professional societies for engineers in most industrializing societies.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 4,
+      "startTime": 1297.08,
+      "endTime": 1305.1,
+      "text": "Another different type of disaster also had an impact on the development of professional engineering organizations,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 4,
+      "startTime": 1305.1,
+      "endTime": 1309.0,
+      "text": "and I'd like to talk about this in a little more detail.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 4,
+      "startTime": 1310.0,
+      "endTime": 1317.36,
+      "text": "This incident, which happened early in the twentieth century, is known as the Boston Molasses Disaster.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 1317.36,
+      "endTime": 1323.57,
+      "text": "At the time, molasses was used rather than sugar as the principal sweetener in the USA.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 1323.57,
+      "endTime": 1329.0,
+      "text": "It was also used in the manufacture of a number of other important products.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 4,
+      "startTime": 1330.0,
+      "endTime": 1338.67,
+      "text": "One company in the city of Boston had a large amount of molasses waiting to be transferred to another factory.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 4,
+      "startTime": 1338.67,
+      "endTime": 1345.85,
+      "text": "The molasses, more than eight million liters of thick, sticky liquid, was stored in a tank.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 4,
+      "startTime": 1345.85,
+      "endTime": 1352.0,
+      "text": "Suddenly this collapsed, unleashing a wave of molasses up to five meters high.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 4,
+      "startTime": 1352.0,
+      "endTime": 1357.31,
+      "text": "Nearby buildings were swept off their foundations and crashed to the ground.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 4,
+      "startTime": 1357.31,
+      "endTime": 1361.85,
+      "text": "The wave also swept away a considerable stretch of railway track.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 4,
+      "startTime": 1361.85,
+      "endTime": 1368.0,
+      "text": "Many streets round the factory were covered with a thick layer of sticky brown molasses.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 4,
+      "startTime": 1373.0,
+      "endTime": 1377.92,
+      "text": "Local residents were furious, as they felt that the company was to blame.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 4,
+      "startTime": 1377.92,
+      "endTime": 1384.6,
+      "text": "They banded together and succeeded in bringing about a trial, charging the company with negligence.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-193",
+      "part": 4,
+      "startTime": 1384.6,
+      "endTime": 1396.0,
+      "text": "After three years, the company was found responsible for the accident and required to pay out in damages the equivalent of six or seven million dollars in today's money.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-194",
+      "part": 4,
+      "startTime": 1397.0,
+      "endTime": 1402.34,
+      "text": "Even today, no one is absolutely sure about the immediate causes of the accident.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-195",
+      "part": 4,
+      "startTime": 1402.34,
+      "endTime": 1407.42,
+      "text": "However, it is certainly clear that not enough safety tests were carried out.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-196",
+      "part": 4,
+      "startTime": 1407.42,
+      "endTime": 1416.0,
+      "text": "Had these been done in accordance with the standards now applicable, then the accident would almost certainly have been prevented.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-197",
+      "part": 4,
+      "startTime": 1417.0,
+      "endTime": 1426.59,
+      "text": "It seems that the collapse was probably brought about by fermentation of the molasses, which led to an increase in pressure.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-198",
+      "part": 4,
+      "startTime": 1426.59,
+      "endTime": 1433.78,
+      "text": "This increase probably exerted too much force against a fatigue crack or some other weakness.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-199",
+      "part": 4,
+      "startTime": 1433.78,
+      "endTime": 1445.0,
+      "text": "However, this was one of the main incidents which led to increased legislation in the 1920s to regulate engineers and the engineering profession.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-200",
+      "part": 4,
+      "startTime": 1445.0,
+      "endTime": 1451.38,
+      "text": "It is the reason why we can now only operate if we have gained a license.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-201",
+      "part": 4,
+      "startTime": 1451.38,
+      "endTime": 1459.76,
+      "text": "This requires us always to be conscientious about doing everything necessary to avoid disasters.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-202",
+      "part": 4,
+      "startTime": 1459.76,
+      "endTime": 1465.0,
+      "text": "However time-consuming or expensive this may sometimes seem.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-203",
+      "part": 4,
+      "startTime": 1466.0,
+      "endTime": 1478.91,
+      "text": "Let's move on now to another… That is the end of Section 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-204",
+      "part": 4,
+      "startTime": 1478.91,
+      "endTime": 1489.63,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-205",
+      "part": 4,
+      "startTime": 1489.63,
+      "endTime": 1497.94,
+      "text": "That is the end of the listening test.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-206",
+      "part": 4,
+      "startTime": 1497.94,
+      "endTime": 1506.17,
+      "text": "You now have 10 minutes to transfer your answers to the listening answer sheet",
+      "timestampSource": "exact",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 19.61,
+      "text": "for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections. Write all your answers in the listening question booklet.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 19.61,
+      "endTime": 56.58,
+      "text": "At the end of the test you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to section 1 on page 2 of your question booklet. You will hear a telephone conversation between a man who works for a library service and a woman who wants to join a library.",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 56.58,
+      "endTime": 89.0,
+      "text": "First, you have some time to look at questions 1 to 5 on page 2. You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008",
+        "seg-009"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 92.0,
+      "endTime": 111.0,
+      "text": "Good morning, library services. Oh, good morning. My family and I have recently moved to the area and we'd like to find where our nearest library is. We don't have a car. Right, so whereabouts are you? In Perton, in the west. Fine, so I'll just get the details on screen for you.",
+      "segmentIds": [
+        "seg-010",
+        "seg-011",
+        "seg-012",
+        "seg-013"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 114.0,
+      "endTime": 131.0,
+      "text": "The woman is asking about libraries in the west of the area, so west has been written in the space. Now we shall begin. You should answer the questions as you listen because you will not hear the recording a second time.",
+      "segmentIds": [
+        "seg-014",
+        "seg-015",
+        "seg-016"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 132.0,
+      "endTime": 154.56,
+      "text": "Listen carefully and answer questions 1 to 5. Good morning, library services. Oh, good morning. My family and I have recently moved to the area and we'd like to find where our nearest library is. We don't have a car. Right, so whereabouts are you? In Perton, in the west.",
+      "segmentIds": [
+        "seg-017",
+        "seg-018",
+        "seg-019"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 154.56,
+      "endTime": 177.0,
+      "text": "Fine, so I'll just get the details on screen for you. OK, your nearest one is the Minack Library. Minack? Yes, in Skellen Street. Can you spell that? It's S-K-E-L-L-A-R-N Street.",
+      "segmentIds": [
+        "seg-020",
+        "seg-021",
+        "seg-022",
+        "seg-023"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 178.0,
+      "endTime": 198.78,
+      "text": "Got that. It's very easy to find because it's beside a park. Oh, I think I know that area. There's a sports centre near there, isn't there? I don't know of one. Oh, I'm probably mistaken. Anyway, it's probably a bit far for us to walk from home. Are there any buses? Yes, it's well-served by public transport.",
+      "segmentIds": [
+        "seg-024",
+        "seg-025",
+        "seg-026",
+        "seg-027"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 198.78,
+      "endTime": 218.81,
+      "text": "There's a stop about five minutes' walk away. Oh, right. And when does the library open? We'll most often want to come at the weekend. I'm afraid it's not open on Sunday. Saturday? Opens at 9 o'clock, closes at 4.30. We shut at 5 on weekdays. That's fine.",
+      "segmentIds": [
+        "seg-028",
+        "seg-029",
+        "seg-030",
+        "seg-031"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 218.81,
+      "endTime": 241.98,
+      "text": "Now, I've got two kids, 14 and 9, and I wondered whether you have any special activities for them. In our last place, we had an art club. Well, the library does run a drama club, but that would only be suitable for your younger child. It's open for 5 to 13-year-olds. A pity it's not open to both of them. Have you anything they could both go to?",
+      "segmentIds": [
+        "seg-032",
+        "seg-033",
+        "seg-034",
+        "seg-035",
+        "seg-036"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 241.98,
+      "endTime": 253.0,
+      "text": "Well, there's no reading club that would suit them both. Oh, but there's a singing club that's held every second Saturday afternoon for children of all ages up to 16. Excellent.",
+      "segmentIds": [
+        "seg-037",
+        "seg-038",
+        "seg-039"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 257.0,
+      "endTime": 287.93,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 6 to 10 on page 2. Now listen and answer questions 6 to 10. Now, because we're new to the area, I'm also wanting to get involved in local activities.",
+      "segmentIds": [
+        "seg-040",
+        "seg-041",
+        "seg-042"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 287.93,
+      "endTime": 317.0,
+      "text": "Well, Minack does some sessions for adults as well. There's a book of the month club. That's good. And I know that about once every 12 months, they have a session where you can meet artists, you know, from the local area.",
+      "segmentIds": [
+        "seg-043",
+        "seg-044",
+        "seg-045"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 317.0,
+      "endTime": 335.9,
+      "text": "How interesting. Well, that sounds like a full programme. Now, while I'm on the phone, can I check what the facilities are? Can you take out CDs? Not CDs, I'm afraid, but films, yes. Right. I'll make a note of that. Anything else you need to know? Oh, yes.",
+      "segmentIds": [
+        "seg-046",
+        "seg-047",
+        "seg-048",
+        "seg-049"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 335.9,
+      "endTime": 356.03,
+      "text": "We have 10 computers and we also stock several magazines, including business, healthcare and hobbies. Same as my last place. And there is a new drop-off facility where you can post any item through the door if it's after hours. All you have to do is attach a note to it with the number on your card clearly written.",
+      "segmentIds": [
+        "seg-050",
+        "seg-051",
+        "seg-052",
+        "seg-053"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 356.03,
+      "endTime": 378.85,
+      "text": "That sounds good. And we do have a small shop on the premises where we sell postcards. We don't have many, but it's a popular service. Oh, that's a good idea. They're very popular. We also have an impressive range of maps of the surrounding area for sale. Well, it sounds like you've got... That is the end of section one.",
+      "segmentIds": [
+        "seg-054",
+        "seg-055",
+        "seg-056",
+        "seg-057"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 1,
+      "startTime": 378.85,
+      "endTime": 383.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-058"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 2,
+      "startTime": 387.0,
+      "endTime": 403.0,
+      "text": "You will hear the organiser of a family camp talking to a group of people who will be staying at a campsite. First, you have some time to look at questions 11 to 16 on page three.",
+      "segmentIds": [
+        "seg-059",
+        "seg-060"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 2,
+      "startTime": 434.0,
+      "endTime": 453.27,
+      "text": "Now listen carefully and answer questions 11 to 16. Hello, everyone. And welcome to this orientation session prior to our camp next week. Thank you for coming along to find out what you and your children will be doing on this year's camp.",
+      "segmentIds": [
+        "seg-061",
+        "seg-062",
+        "seg-063"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 453.27,
+      "endTime": 472.0,
+      "text": "To start off with, let's tell you a bit about the campsite itself so that you'll be able to find your way around once you get there. Firstly, we'll be arriving by bus into the car park, which if you look at the plan you have in front of you, you'll see at the top of the picture on the left-hand side.",
+      "segmentIds": [
+        "seg-064",
+        "seg-065",
+        "seg-066"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-021",
+      "part": 2,
+      "startTime": 473.0,
+      "endTime": 492.0,
+      "text": "Now, if you cross the road from the car park, the first building you'll come to is the toilet block. It's been recently upgraded, so it's very nice and clean in there now with plenty of facilities. And built onto that, so this is across the road from the community hall, is the new shower block.",
+      "segmentIds": [
+        "seg-067",
+        "seg-068",
+        "seg-069"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 493.0,
+      "endTime": 512.97,
+      "text": "The hot water does run out occasionally, but usually there's enough to cope with a group your size. If you now move to the bottom left of your map, among the pine trees, there is a special flat site set up for pitching tents with power points and outdoor taps for water.",
+      "segmentIds": [
+        "seg-070",
+        "seg-071",
+        "seg-072"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-023",
+      "part": 2,
+      "startTime": 512.97,
+      "endTime": 534.22,
+      "text": "Now, let's go back and move along the top of your map. There's another area of pine forest, and then over on the far right-hand side, there's a block of small cabins. Note that this is different from the main accommodation block, which doesn't appear on this map, but is further over again to the right.",
+      "segmentIds": [
+        "seg-073",
+        "seg-074",
+        "seg-075"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 2,
+      "startTime": 534.22,
+      "endTime": 552.22,
+      "text": "Now let's look down from there, over the road, so we're moving clockwise around your map, okay? In this next block, beside the flower beds, we have a lovely place for barbecues, where you can cook in the open air. What else to tell you about?",
+      "segmentIds": [
+        "seg-076",
+        "seg-077",
+        "seg-078"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 552.22,
+      "endTime": 572.0,
+      "text": "Below the flower bed and across Lakeside Drive, you'll see a trail for mountain biking, which is always a popular activity. Moving on now, in the middle of the campsite, you'll see the lake where you can canoe. And above that again, the community hall.",
+      "segmentIds": [
+        "seg-079",
+        "seg-080",
+        "seg-081"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 573.0,
+      "endTime": 605.52,
+      "text": "So that completes your introduction to the campsite. I hope you found that useful. Before you hear the rest of the talk, you have some time to look at questions 17 to 20 on page 4.",
+      "segmentIds": [
+        "seg-082",
+        "seg-083",
+        "seg-084"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 605.52,
+      "endTime": 623.53,
+      "text": "Now listen and answer questions 17 to 20. Now let's think about what you need to bring with you. I'm sure you're all wondering what you need to pack.",
+      "segmentIds": [
+        "seg-085",
+        "seg-086",
+        "seg-087"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 623.53,
+      "endTime": 643.0,
+      "text": "The lake is a bit cold for swimming at this time of year, so you can leave your togs out of the suitcase. While we're on the subject of weather too, usually I recommend that campers bring sunblock with them. But I guess now that we're into April, that too can be left behind. Ah, let me think.",
+      "segmentIds": [
+        "seg-088",
+        "seg-089",
+        "seg-090"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 644.0,
+      "endTime": 661.48,
+      "text": "Some campers like a torch, but actually the days are still so long that it's light outside till quite late, and the blocks all have outside lighting now. So I'd say that a pair of earplugs are more useful, as in my experience, a lot of talking goes on after light's out.",
+      "segmentIds": [
+        "seg-091",
+        "seg-092",
+        "seg-093"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 661.48,
+      "endTime": 683.0,
+      "text": "But in April, if it's wet, it can get muddy around the campsite, so to bring boots isn't a bad idea. Finally, can you all please prepare something for the final night concert? Bring your musical instruments or whatever else you need. You can't have a camp without a good sing-along. That's our favourite activity.",
+      "segmentIds": [
+        "seg-094",
+        "seg-095",
+        "seg-096",
+        "seg-097"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 2,
+      "startTime": 683.0,
+      "endTime": 698.0,
+      "text": "Maybe you could recite a poem, act out a skit or charades for us if you're brave enough to try that. Or failing that, perhaps you can tell a joke or a funny story. But actually, people much prefer to see some good dancing.",
+      "segmentIds": [
+        "seg-098",
+        "seg-099",
+        "seg-100"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 2,
+      "startTime": 699.0,
+      "endTime": 723.0,
+      "text": "I'll look forward to seeing you all perform next week. That is the end of Section 2. You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-101",
+        "seg-102",
+        "seg-103"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 3,
+      "startTime": 723.0,
+      "endTime": 746.48,
+      "text": "You will hear two music students discussing the results of a survey they have done. First, you have some time to look at questions 21 to 26 on page 5. Now listen carefully and answer questions 21 to 26.",
+      "segmentIds": [
+        "seg-104",
+        "seg-105",
+        "seg-106"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 3,
+      "startTime": 746.48,
+      "endTime": 778.0,
+      "text": "So Gareth, we need to organise the findings from our survey on music students for the final presentation. Yes Lorna, I think we've got some very interesting results.",
+      "segmentIds": [
+        "seg-107",
+        "seg-108"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 3,
+      "startTime": 778.0,
+      "endTime": 801.77,
+      "text": "Obviously, we need to start by saying that we interviewed all the third year students doing a music degree and state the objective of our research project, that is, to find out about their attitudes to performing. And then we should talk about the students' musical backgrounds before coming to university. The most important points to make are that although most people have actually composed music during the course,",
+      "segmentIds": [
+        "seg-109",
+        "seg-110",
+        "seg-111"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 3,
+      "startTime": 801.77,
+      "endTime": 824.0,
+      "text": "that wasn't the case when they arrived. And the other thing they had in common was the piano. Well, they'd had access to a piano at some point, but not all had studied it formally. I thought the most interesting finding was that before coming here, almost everyone was involved in a chamber orchestra or band or singing in a choir and playing in front of live audiences.",
+      "segmentIds": [
+        "seg-112",
+        "seg-113",
+        "seg-114",
+        "seg-115",
+        "seg-116"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 825.0,
+      "endTime": 844.0,
+      "text": "But varying enormously in size. Some had only played in tiny venues. I think it's worth saying that. OK. And as you might expect from people wanting to study music, they all had a degree of proficiency in at least two instruments. But in most cases, one of the instruments was dominant.",
+      "segmentIds": [
+        "seg-117",
+        "seg-118",
+        "seg-119",
+        "seg-120",
+        "seg-121"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 844.0,
+      "endTime": 866.0,
+      "text": "Right. We need to talk about attitudes to music practice. The most striking thing here is that even students who you'd expect to practice for hours every day until they get it perfect, say it's being terrified of failing that really makes them practice. I know I'm the same. Me too. It's interesting what was said about practising alone.",
+      "segmentIds": [
+        "seg-122",
+        "seg-123",
+        "seg-124",
+        "seg-125"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 867.0,
+      "endTime": 887.0,
+      "text": "Some people preferred that because they could focus more on their weak points. But that wasn't a majority view. What most of them agree on is that there's nothing more rewarding than mastering something that's really hard to learn. That's right. OK. After that, we should talk a bit about the pieces that students select for assessed performances.",
+      "segmentIds": [
+        "seg-126",
+        "seg-127",
+        "seg-128",
+        "seg-129",
+        "seg-130"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 887.0,
+      "endTime": 900.2,
+      "text": "There wasn't quite so much consensus on this, was there? A few people prefer to do pieces which are relatively unknown, while others choose the ones they think will show off their technical ability. But they were in the minority.",
+      "segmentIds": [
+        "seg-131",
+        "seg-132",
+        "seg-133"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 3,
+      "startTime": 900.2,
+      "endTime": 935.16,
+      "text": "I think the first thing to say is that a high percentage said they would always try to learn their pieces by heart because it's too easy to get lost if you're trying to read and play when you're nervous. OK. And quite a lot of them said it helps to listen to other people playing your chosen piece, preferably recordings, but even just other students.",
+      "segmentIds": [
+        "seg-134",
+        "seg-135",
+        "seg-136"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 935.16,
+      "endTime": 966.52,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 27 to 30 on page 6. Now listen and answer questions 27 to 30. So finally, we need to look at the findings for students' attitudes to performing.",
+      "segmentIds": [
+        "seg-137",
+        "seg-138",
+        "seg-139"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 966.52,
+      "endTime": 988.78,
+      "text": "We should point out that this includes informal and formal public performances as well as assessed ones. Yes, that's important. I expected to find that performing solo would make students very nervous, but in fact that isn't the case. They do find it hugely challenging to start with, but they appreciate the challenge and find it stimulating.",
+      "segmentIds": [
+        "seg-140",
+        "seg-141",
+        "seg-142",
+        "seg-143"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 988.78,
+      "endTime": 1010.7,
+      "text": "Right. I was surprised by what students said about deciding which pieces to perform. I thought they'd all say this was easy. For me, it's always been quite straightforward. Which pieces do I like best and which pieces can I play well? And my repertoire is quite limited anyway. But the most commonly cited answer was that it took them ages to make their minds up.",
+      "segmentIds": [
+        "seg-144",
+        "seg-145",
+        "seg-146",
+        "seg-147",
+        "seg-148"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1010.7,
+      "endTime": 1028.0,
+      "text": "I suppose it's because there are so many factors involved. You need to consider your audience, the venue, the time available to learn the piece, especially if it's complicated. You need to think about all these things and you can't do that in a hurry. That's true.",
+      "segmentIds": [
+        "seg-149",
+        "seg-150",
+        "seg-151"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1028.0,
+      "endTime": 1046.45,
+      "text": "Then there's performing with musicians from a different genre, like a classical musician playing with a jazz group. That can really be fun. But most of the music students had never even considered it. Right. For performing with musicians who play the same instrument, almost everyone put the same thing.",
+      "segmentIds": [
+        "seg-152",
+        "seg-153",
+        "seg-154",
+        "seg-155"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1046.45,
+      "endTime": 1068.0,
+      "text": "Yes, they all said it was incredibly helpful and not at all intimidating, which says a lot for the department's ethos. Yes, that's a good point. OK, what I think we should sort out now... That is the end of section three. You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-156",
+        "seg-157",
+        "seg-158"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 4,
+      "startTime": 1098.0,
+      "endTime": 1114.0,
+      "text": "Now turn to section four on page seven. Section four. You will hear a lecturer giving a talk to some engineering students about ethics and engineering.",
+      "segmentIds": [
+        "seg-159",
+        "seg-160"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-049",
+      "part": 4,
+      "startTime": 1115.0,
+      "endTime": 1147.81,
+      "text": "First, you have some time to look at questions thirty-one to forty on page seven.",
+      "segmentIds": [
+        "seg-161"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-050",
+      "part": 4,
+      "startTime": 1147.81,
+      "endTime": 1189.22,
+      "text": "Now listen carefully and answer questions thirty-one to forty. Good afternoon. Today we're starting a series of lectures on ethics in engineering, that is, engineering principles relating to right and wrong conduct,",
+      "segmentIds": [
+        "seg-162",
+        "seg-163",
+        "seg-164"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-051",
+      "part": 4,
+      "startTime": 1189.22,
+      "endTime": 1208.0,
+      "text": "and the sorts of moral responsibilities that you will have to uphold in your professional lives. I'm going to start by giving you a brief outline of the history of ethics in engineering. It was, of course, only in the 19th century that engineering really emerged as a profession.",
+      "segmentIds": [
+        "seg-165",
+        "seg-166",
+        "seg-167"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-052",
+      "part": 4,
+      "startTime": 1209.0,
+      "endTime": 1235.77,
+      "text": "Initially, ethical issues were considered to be a personal matter, something to be decided in accordance with one's own principles and values. However, things gradually changed as the profession grew and as engineering projects became larger and more complex, a need began to be felt for a more codified set of principles that all engineers would agree to follow.",
+      "segmentIds": [
+        "seg-168",
+        "seg-169",
+        "seg-170"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-053",
+      "part": 4,
+      "startTime": 1235.77,
+      "endTime": 1258.85,
+      "text": "Unfortunately, it took three major disasters to bring about this change in attitude. All three of these involved the collapse of bridges. The first, known as the Ashtabula River Railroad Disaster, happened in 1876 in the USA, and we now think it was probably caused by metal fatigue.",
+      "segmentIds": [
+        "seg-171",
+        "seg-172",
+        "seg-173"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-054",
+      "part": 4,
+      "startTime": 1258.85,
+      "endTime": 1280.0,
+      "text": "Then in 1879 there was a second disaster, this time in Scotland. This occurred because engineers had failed to correctly calculate the effects that wind would have on the structure. The third collapse occurred in 1907 in Canada. This was also due to an engineering design problem.",
+      "segmentIds": [
+        "seg-174",
+        "seg-175",
+        "seg-176",
+        "seg-177"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-055",
+      "part": 4,
+      "startTime": 1280.0,
+      "endTime": 1305.1,
+      "text": "The weight of the structure was so great that it could not support itself, and it collapsed. Public outcry over disasters such as these eventually led to the establishment of professional societies for engineers in most industrializing societies. Another different type of disaster also had an impact on the development of professional engineering organizations,",
+      "segmentIds": [
+        "seg-178",
+        "seg-179",
+        "seg-180"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1305.1,
+      "endTime": 1329.0,
+      "text": "and I'd like to talk about this in a little more detail. This incident, which happened early in the twentieth century, is known as the Boston Molasses Disaster. At the time, molasses was used rather than sugar as the principal sweetener in the USA. It was also used in the manufacture of a number of other important products.",
+      "segmentIds": [
+        "seg-181",
+        "seg-182",
+        "seg-183",
+        "seg-184"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-057",
+      "part": 4,
+      "startTime": 1330.0,
+      "endTime": 1352.0,
+      "text": "One company in the city of Boston had a large amount of molasses waiting to be transferred to another factory. The molasses, more than eight million liters of thick, sticky liquid, was stored in a tank. Suddenly this collapsed, unleashing a wave of molasses up to five meters high.",
+      "segmentIds": [
+        "seg-185",
+        "seg-186",
+        "seg-187"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-058",
+      "part": 4,
+      "startTime": 1352.0,
+      "endTime": 1368.0,
+      "text": "Nearby buildings were swept off their foundations and crashed to the ground. The wave also swept away a considerable stretch of railway track. Many streets round the factory were covered with a thick layer of sticky brown molasses.",
+      "segmentIds": [
+        "seg-188",
+        "seg-189",
+        "seg-190"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-059",
+      "part": 4,
+      "startTime": 1373.0,
+      "endTime": 1396.0,
+      "text": "Local residents were furious, as they felt that the company was to blame. They banded together and succeeded in bringing about a trial, charging the company with negligence. After three years, the company was found responsible for the accident and required to pay out in damages the equivalent of six or seven million dollars in today's money.",
+      "segmentIds": [
+        "seg-191",
+        "seg-192",
+        "seg-193"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-060",
+      "part": 4,
+      "startTime": 1397.0,
+      "endTime": 1416.0,
+      "text": "Even today, no one is absolutely sure about the immediate causes of the accident. However, it is certainly clear that not enough safety tests were carried out. Had these been done in accordance with the standards now applicable, then the accident would almost certainly have been prevented.",
+      "segmentIds": [
+        "seg-194",
+        "seg-195",
+        "seg-196"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-061",
+      "part": 4,
+      "startTime": 1417.0,
+      "endTime": 1445.0,
+      "text": "It seems that the collapse was probably brought about by fermentation of the molasses, which led to an increase in pressure. This increase probably exerted too much force against a fatigue crack or some other weakness. However, this was one of the main incidents which led to increased legislation in the 1920s to regulate engineers and the engineering profession.",
+      "segmentIds": [
+        "seg-197",
+        "seg-198",
+        "seg-199"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-062",
+      "part": 4,
+      "startTime": 1445.0,
+      "endTime": 1465.0,
+      "text": "It is the reason why we can now only operate if we have gained a license. This requires us always to be conscientious about doing everything necessary to avoid disasters. However time-consuming or expensive this may sometimes seem.",
+      "segmentIds": [
+        "seg-200",
+        "seg-201",
+        "seg-202"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-063",
+      "part": 4,
+      "startTime": 1466.0,
+      "endTime": 1497.94,
+      "text": "Let's move on now to another… That is the end of Section 4. You now have half a minute to check your answers. That is the end of the listening test.",
+      "segmentIds": [
+        "seg-203",
+        "seg-204",
+        "seg-205"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-064",
+      "part": 4,
+      "startTime": 1497.94,
+      "endTime": 1506.17,
+      "text": "You now have 10 minutes to transfer your answers to the listening answer sheet",
+      "segmentIds": [
+        "seg-206"
+      ],
+      "timestampSource": "exact"
+    }
+  ]
+}

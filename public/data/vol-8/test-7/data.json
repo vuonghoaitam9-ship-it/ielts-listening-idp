@@ -1,0 +1,3388 @@
+{
+  "id": "vol-8-test-7",
+  "vol": 8,
+  "testNumber": 7,
+  "title": "Vol 8 — Test 7",
+  "pdfUrl": "./data/vol-8/test-7/exam.pdf",
+  "pdfPages": 5,
+  "questionPageRange": [
+    1,
+    5
+  ],
+  "audioUrl": "./data/vol-8/test-7/audio.mp3",
+  "audioDurationSec": 1555.54,
+  "hasExactTimestamps": false,
+  "timestampNote": "Tài liệu gốc Vol 8 không đính kèm mốc giờ từng câu; hệ thống ước lượng tỷ lệ theo độ dài audio gốc. Bạn có thể tinh chỉnh bằng trình biên tập Timestamp / SRT.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 0.0,
+      "endTime": 406.16,
+      "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 406.16,
+      "endTime": 751.8,
+      "topicHint": "You will hear a manager from a company that makes electrical goods talking to some college students who are going to spend a month with the company. First, you have some time to lo"
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 751.8,
+      "endTime": 1150.66,
+      "topicHint": "Section 3 (Questions 21-30)"
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1150.66,
+      "endTime": 1553.54,
+      "topicHint": "You will hear part of a landscape design lecture about the health benefits of gardens in hospitals. First, you have some time to look at questions 31 to 40."
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "ion: Australia Surname: 1 …………… Month of travel: July Length of stay: 2 …………… Possible dates of travel: within first fortnight Airport: Brisbane Area of destination: the 3 …………. (near Brisbane",
+      "answerRaw": "Thorn",
+      "canonicalAnswer": "Thorn",
+      "acceptedAnswers": [
+        "Thorn"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The family name is Thorne. T-H-O-R-N? Yes. Right. Now, we'd be looking at going during the school holidays, the mid-year ones.",
+      "evidenceStartTime": 82.0,
+      "evidenceEndTime": 93.56,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Thorn\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "July Length of stay: 2 …………… Possible dates of travel: within first fortnight Airport: Brisbane Area of destination: the 3 …………. (near Brisbane) Type of accommodation 4 …………… Questions 5–7 Choose the correct answer. 5 Acco",
+      "answerRaw": "five days,5 days",
+      "canonicalAnswer": "five days",
+      "acceptedAnswers": [
+        "five days",
+        "5 days"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Let me see. We want to go for five days and we could go any time from the 1st to the 14th.",
+      "evidenceStartTime": 101.79,
+      "evidenceEndTime": 110.11,
+      "paraphrases": [
+        {
+          "questionTerm": "length",
+          "audioTerm": "time"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"five days\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'length' ↔ 'time'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "Brisbane Area of destination: the 3 …………. (near Brisbane) Type of accommodation 4 …………… Questions 5–7 Choose the correct answer. 5 According to the client, the children's favourite theme park will be A Movieworld. B Dreamworld. C Waterworld. 6 At the wildlife sanctuary they will be able",
+      "answerRaw": "Gold Coast",
+      "canonicalAnswer": "Gold Coast",
+      "acceptedAnswers": [
+        "Gold Coast"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "So the Gold Coast then. That's a lovely area. Oh yes. I have some work to do in Brisbane, so we thought we'd combine that with a family holiday.",
+      "evidenceStartTime": 122.41,
+      "evidenceEndTime": 135.63,
+      "paraphrases": [],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Gold Coast\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "the 3 …………. (near Brisbane) Type of accommodation 4 …………… Questions 5–7 Choose the correct answer. 5 According to the client, the children's favourite theme park will be A Movieworld. B Dreamworld. C Waterworld. 6 At the wildlife sanctuary they will be able to take close-up photographs of A the crocodiles. B t",
+      "answerRaw": "apartment",
+      "canonicalAnswer": "apartment",
+      "acceptedAnswers": [
+        "apartment"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, we had in mind an apartment, thinking that hotels are too expensive, and even motels not perhaps as child-friendly as having your own space.",
+      "evidenceStartTime": 140.81,
+      "evidenceEndTime": 154.31,
+      "paraphrases": [
+        {
+          "questionTerm": "accommodation",
+          "audioTerm": "apartment"
+        }
+      ],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"apartment\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'accommodation' ↔ 'apartment'. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "ation 4 …………… Questions 5–7 Choose the correct answer. 5 According to the client, the children's favourite theme park will be A Movieworld. B Dreamworld. C Waterworld. 6 At the wildlife sanctuary they will be able to take close-up photographs of A the crocodiles. B the kangaroos. C the koalas. 7 The client wants th",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And while we're talking about entertainment, I can recommend the local wildlife sanctuary.",
+      "evidenceStartTime": 226.88,
+      "evidenceEndTime": 235.2,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "theme park will be A Movieworld. B Dreamworld. C Waterworld. 6 At the wildlife sanctuary they will be able to take close-up photographs of A the crocodiles. B the kangaroos. C the koalas. 7 The client wants the accommodation to be near the A beach. B nightclubs. C shopping facilities. Questions 8–10 Choose THREE correct",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And while we're talking about entertainment, I can recommend the local wildlife sanctuary.",
+      "evidenceStartTime": 226.88,
+      "evidenceEndTime": 235.2,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "tographs of A the crocodiles. B the kangaroos. C the koalas. 7 The client wants the accommodation to be near the A beach. B nightclubs. C shopping facilities. Questions 8–10 Choose THREE correct answers. 8-10 Which THREE facilities does the client want at her accommodation? A childcare B playroom C parking D gym E laundr",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And I guess most people tell you they want to be in beachfront accommodation, do they?",
+      "evidenceStartTime": 301.03,
+      "evidenceEndTime": 308.98,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "ing facilities. Questions 8–10 Choose THREE correct answers. 8-10 Which THREE facilities does the client want at her accommodation? A childcare B playroom C parking D gym E laundry F cleaning G sauna/spa",
+      "answerRaw": "B, E, F",
+      "canonicalAnswer": "B, E, F",
+      "acceptedAnswers": [
+        "B",
+        "E",
+        "F"
+      ],
+      "sharedGroup": {
+        "groupId": "v8-t7-q8-10",
+        "questionNumbers": [
+          8,
+          9,
+          10
+        ],
+        "poolAnswers": [
+          "B",
+          "E",
+          "F"
+        ]
+      },
+      "evidenceQuote": "And I guess most people tell you they want to be in beachfront accommodation, do they?",
+      "evidenceStartTime": 301.03,
+      "evidenceEndTime": 308.98,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Câu 8–9–10 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E, F). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "",
+      "answerRaw": "B, E, F",
+      "canonicalAnswer": "B, E, F",
+      "acceptedAnswers": [
+        "B",
+        "E",
+        "F"
+      ],
+      "sharedGroup": {
+        "groupId": "v8-t7-q8-10",
+        "questionNumbers": [
+          8,
+          9,
+          10
+        ],
+        "poolAnswers": [
+          "B",
+          "E",
+          "F"
+        ]
+      },
+      "evidenceQuote": "We don't plan to go out without the children, but we would want someone to come in to tidy up and wash the dishes and so on every day.",
+      "evidenceStartTime": 334.21,
+      "evidenceEndTime": 346.6,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Câu 8–9–10 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E, F). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "",
+      "answerRaw": "B, E, F",
+      "canonicalAnswer": "B, E, F",
+      "acceptedAnswers": [
+        "B",
+        "E",
+        "F"
+      ],
+      "sharedGroup": {
+        "groupId": "v8-t7-q8-10",
+        "questionNumbers": [
+          8,
+          9,
+          10
+        ],
+        "poolAnswers": [
+          "B",
+          "E",
+          "F"
+        ]
+      },
+      "evidenceQuote": "Would you be interested in that? Yes, that would be useful, especially if it's a rainy day.",
+      "evidenceStartTime": 386.26,
+      "evidenceEndTime": 394.67,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Câu 8–9–10 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E, F). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": ". Reynolds Electrical Tony Reynolds' first business produced 11 ………… Reynolds Electrical was started in the year 12 ……….. There was previously a 13 ……….. where the company is now based. The 14 ………… of the products is an important factor for customers. The company is building a new 15 ………….. The company recently won an a",
+      "answerRaw": "cars",
+      "canonicalAnswer": "cars",
+      "acceptedAnswers": [
+        "cars"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "When he was only 19, he started a small company that manufactured cars.",
+      "evidenceStartTime": 456.2,
+      "evidenceEndTime": 462.75,
+      "paraphrases": [],
+      "distractors": [
+        "giới hạn phạm vi bằng 'only'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"cars\". Lưu ý bẫy gây nhiễu (distractor): giới hạn phạm vi bằng 'only'."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "roduced 11 ………… Reynolds Electrical was started in the year 12 ……….. There was previously a 13 ……….. where the company is now based. The 14 ………… of the products is an important factor for customers. The company is building a new 15 ………….. The company recently won an award for its success in reducing 16 ………… Questions 17",
+      "answerRaw": "1928",
+      "canonicalAnswer": "1928",
+      "acceptedAnswers": [
+        "1928"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "So, the company dates back to 1928, and I'm pleased to say we've been successful more or less ever since, and we moved to our present site in 1955.",
+      "evidenceStartTime": 479.64,
+      "evidenceEndTime": 493.21,
+      "paraphrases": [],
+      "distractors": [
+        "Có số gây nhiễu (1955) xuất hiện sát đáp án chuẩn '1928'."
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"1928\". Lưu ý bẫy gây nhiễu (distractor): Có số gây nhiễu (1955) xuất hiện sát đáp án chuẩn '1928'.."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "cal was started in the year 12 ……….. There was previously a 13 ……….. where the company is now based. The 14 ………… of the products is an important factor for customers. The company is building a new 15 ………….. The company recently won an award for its success in reducing 16 ………… Questions 17–20 Complete the table below. Wr",
+      "answerRaw": "cinema",
+      "canonicalAnswer": "cinema",
+      "acceptedAnswers": [
+        "cinema"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There was a cinema here, which had to be demolished, and new buildings were put up.",
+      "evidenceStartTime": 493.21,
+      "evidenceEndTime": 500.87,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"cinema\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "as previously a 13 ……….. where the company is now based. The 14 ………… of the products is an important factor for customers. The company is building a new 15 ………….. The company recently won an award for its success in reducing 16 ………… Questions 17–20 Complete the table below. Write ONE WORD ONLY for each answer. Meetings D",
+      "answerRaw": "quality",
+      "canonicalAnswer": "quality",
+      "acceptedAnswers": [
+        "quality"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "our customers are happy to pay a higher price for the quality of Reynolds goods.",
+      "evidenceStartTime": 528.29,
+      "evidenceEndTime": 535.67,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"quality\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "mportant factor for customers. The company is building a new 15 ………….. The company recently won an award for its success in reducing 16 ………… Questions 17–20 Complete the table below. Write ONE WORD ONLY for each answer. Meetings Day Topic Monday possible improvements in 17 ………….. Tuesday 18 ……………. development Wednesday",
+      "answerRaw": "factory",
+      "canonicalAnswer": "factory",
+      "acceptedAnswers": [
+        "factory"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We're now constructing a second factory, so that we can increase production.",
+      "evidenceStartTime": 544.99,
+      "evidenceEndTime": 552.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"factory\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "he company recently won an award for its success in reducing 16 ………… Questions 17–20 Complete the table below. Write ONE WORD ONLY for each answer. Meetings Day Topic Monday possible improvements in 17 ………….. Tuesday 18 ……………. development Wednesday communication with 19 ……….. Thursday getting the right staff Friday mak",
+      "answerRaw": "waste",
+      "canonicalAnswer": "waste",
+      "acceptedAnswers": [
+        "waste"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "So earlier this year, we were delighted when we received an award for making a big reduction in waste.",
+      "evidenceStartTime": 573.51,
+      "evidenceEndTime": 582.92,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"waste\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "answer. Meetings Day Topic Monday possible improvements in 17 ………….. Tuesday 18 ……………. development Wednesday communication with 19 ……….. Thursday getting the right staff Friday making sure the company has enough 20 …………",
+      "answerRaw": "safety",
+      "canonicalAnswer": "safety",
+      "acceptedAnswers": [
+        "safety"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Today we're going to discuss ways of getting higher levels of safety,",
+      "evidenceStartTime": 639.67,
+      "evidenceEndTime": 646.04,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"safety\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "Day Topic Monday possible improvements in 17 ………….. Tuesday 18 ……………. development Wednesday communication with 19 ……….. Thursday getting the right staff Friday making sure the company has enough 20 …………",
+      "answerRaw": "website",
+      "canonicalAnswer": "website",
+      "acceptedAnswers": [
+        "website"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Tomorrow afternoon, Tuesday, I'll introduce you to the IT department, and they'll update you about the changes to our website.",
+      "evidenceStartTime": 657.12,
+      "evidenceEndTime": 668.75,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"website\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "Tuesday 18 ……………. development Wednesday communication with 19 ……….. Thursday getting the right staff Friday making sure the company has enough 20 …………",
+      "answerRaw": "customers",
+      "canonicalAnswer": "customers",
+      "acceptedAnswers": [
+        "customers"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Then on Wednesday, we'll talk about our contact with those very important people, customers.",
+      "evidenceStartTime": 675.4,
+      "evidenceEndTime": 683.89,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"customers\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "g the right staff Friday making sure the company has enough 20 …………",
+      "answerRaw": "money",
+      "canonicalAnswer": "money",
+      "acceptedAnswers": [
+        "money"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And that's how we ensure we have sufficient money coming in to pay our bills and other expenses, such as wages.",
+      "evidenceStartTime": 729.56,
+      "evidenceEndTime": 739.8,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"money\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "r questions 21–30 Questions 21–26 Choose the correct answer. 21 According to Sandra, what is the most important thing to demonstrate in the portfolio? A creativity B development C quality 22 What is Charlie going to include to show his understanding of design? A some photos B a poster C a publicity flyer 23 Charlie and Sa",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Oh, I was going to pick out the works that I think show creative thinking, but maybe you're right. What are you going to include to show your understanding of design?",
+      "evidenceStartTime": 789.51,
+      "evidenceEndTime": 804.76,
+      "paraphrases": [
+        {
+          "questionTerm": "choose",
+          "audioTerm": "pick"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'choose' ↔ 'pick'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "trate in the portfolio? A creativity B development C quality 22 What is Charlie going to include to show his understanding of design? A some photos B a poster C a publicity flyer 23 Charlie and Sandra choose drawings of the human body to show their ability to A provide realistic detail. B portray everyday situations. C re",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I think I'm going to include that flyer I did. That publicity flyer for the music festival?",
+      "evidenceStartTime": 804.76,
+      "evidenceEndTime": 813.17,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "ding of design? A some photos B a poster C a publicity flyer 23 Charlie and Sandra choose drawings of the human body to show their ability to A provide realistic detail. B portray everyday situations. C represent movement. 24 Why does Charlie advise Sandra not to include her work on deserts? A It needs explanation. B It w",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, they demonstrate that we can show a human body in action.",
+      "evidenceStartTime": 849.21,
+      "evidenceEndTime": 854.94,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "detail. B portray everyday situations. C represent movement. 24 Why does Charlie advise Sandra not to include her work on deserts? A It needs explanation. B It will take up too much space. C It doesn't fit in with the rest of her work. 25 What did Sandra think was the best advice from their tutor? A Save the best for the",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The household objects would show we can draw details precisely and position things on the paper effectively, but they were just static. OK, now do you think I should include my work on deserts? To be honest, I don't think so.",
+      "evidenceStartTime": 863.72,
+      "evidenceEndTime": 884.42,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "o much space. C It doesn't fit in with the rest of her work. 25 What did Sandra think was the best advice from their tutor? A Save the best for the end. B Make a strong first impression. C Organise work in groups. 26 Who is Sandra going to ask to look at her portfolio before she submits it? A her parents B an art critic C",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Now, we need to think about the portfolio as a whole. How we organise it.",
+      "evidenceStartTime": 908.17,
+      "evidenceEndTime": 914.92,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "B Make a strong first impression. C Organise work in groups. 26 Who is Sandra going to ask to look at her portfolio before she submits it? A her parents B an art critic C an artist Questions 27–30 Which reason is given for the inclusion in Charlie's portfolio of each of the following pieces? Choose FOUR correct answers, A",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I thought his most useful suggestion was to make sure similar pieces are put together so the portfolio has a clear structure,",
+      "evidenceStartTime": 920.1,
+      "evidenceEndTime": 931.65,
+      "paraphrases": [],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "usion in Charlie's Portfolio Pieces a design fora book cover 27 ……. designs for jewellery 28 ……… a wood carving 29 ……….. an advertisement 30 …………. A explanation of a personal relationship B communication of a mood C high degree of accuracy D evidence of originality E use of lettering F combination of different mate",
+      "answerRaw": "E use of lettering",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E use of lettering",
+        "use of lettering"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I thought his most useful suggestion was to make sure similar pieces are put together so the portfolio has a clear structure,",
+      "evidenceStartTime": 920.1,
+      "evidenceEndTime": 931.65,
+      "paraphrases": [],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án đúng là phương án E use of lettering. Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "Pieces a design fora book cover 27 ……. designs for jewellery 28 ……… a wood carving 29 ……….. an advertisement 30 …………. A explanation of a personal relationship B communication of a mood C high degree of accuracy D evidence of originality E use of lettering F combination of different materials",
+      "answerRaw": "C high degree of accuracy",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C",
+        "C high degree of accuracy",
+        "high degree of accuracy"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, like my design for a book cover. I just had a very simple design based on the book's title in this unusual handwritten script.",
+      "evidenceStartTime": 1022.57,
+      "evidenceEndTime": 1034.67,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án C high degree of accuracy. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "ok cover 27 ……. designs for jewellery 28 ……… a wood carving 29 ……….. an advertisement 30 …………. A explanation of a personal relationship B communication of a mood C high degree of accuracy D evidence of originality E use of lettering F combination of different materials",
+      "answerRaw": "D evidence of originality",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D",
+        "D evidence of originality",
+        "evidence of originality"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And are you going to include that wood carving you did, the one of a fish you made from a piece of wood your sister picked up by the sea?",
+      "evidenceStartTime": 1080.6,
+      "evidenceEndTime": 1093.26,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án D evidence of originality. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "r jewellery 28 ……… a wood carving 29 ……….. an advertisement 30 …………. A explanation of a personal relationship B communication of a mood C high degree of accuracy D evidence of originality E use of lettering F combination of different materials",
+      "answerRaw": "B communication of a mood",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B",
+        "B communication of a mood",
+        "communication of a mood"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And are you going to include that wood carving you did, the one of a fish you made from a piece of wood your sister picked up by the sea?",
+      "evidenceStartTime": 1080.6,
+      "evidenceEndTime": 1093.26,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án B communication of a mood. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "looking at gardens may speed recovery from surgery and from 31 ……… • patients with views of nature recovered much faster than patients with views of a 32 ………… European studies • hospitals were a source of 33 ………. Looking at nature • can affect electrical activity in the body, especially the 34 ………… • can be beneficial to",
+      "answerRaw": "infection",
+      "canonicalAnswer": "infection",
+      "acceptedAnswers": [
+        "infection"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But a 1984 study by an environmental psychologist, Roger Schwartz, was the first to use the standards of modern medical research to demonstrate that gardens can sometimes speed recovery from surgery and also help the healing of infection.",
+      "evidenceStartTime": 1203.42,
+      "evidenceEndTime": 1225.33,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"infection\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "f nature recovered much faster than patients with views of a 32 ………… European studies • hospitals were a source of 33 ………. Looking at nature • can affect electrical activity in the body, especially the 34 ………… • can be beneficial to the 35 ………. system 1995 Cooper and Bennett study • research methods included analysis, obs",
+      "answerRaw": "wall",
+      "canonicalAnswer": "wall",
+      "acceptedAnswers": [
+        "wall"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "a day faster than those looking at a wall and they needed significantly less pain medication and had fewer complications after their surgery.",
+      "evidenceStartTime": 1245.13,
+      "evidenceEndTime": 1258.11,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"wall\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "s of a 32 ………… European studies • hospitals were a source of 33 ………. Looking at nature • can affect electrical activity in the body, especially the 34 ………… • can be beneficial to the 35 ………. system 1995 Cooper and Bennett study • research methods included analysis, observation and 36 ………. • gardens with a 37 ………. were pa",
+      "answerRaw": "stress",
+      "canonicalAnswer": "stress",
+      "acceptedAnswers": [
+        "stress"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "These studies showed that hospitals contributed to people's levels of stress.",
+      "evidenceStartTime": 1270.08,
+      "evidenceEndTime": 1277.17,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"stress\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "• can affect electrical activity in the body, especially the 34 ………… • can be beneficial to the 35 ………. system 1995 Cooper and Bennett study • research methods included analysis, observation and 36 ………. • gardens with a 37 ………. were particularly popular 'Behavioural maps' studies • showed gardens need - areas for private",
+      "answerRaw": "heart",
+      "canonicalAnswer": "heart",
+      "acceptedAnswers": [
+        "heart"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "This is shown in physiological changes in electrical activity, most obviously in the heart.",
+      "evidenceStartTime": 1306.81,
+      "evidenceEndTime": 1315.19,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"heart\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "the body, especially the 34 ………… • can be beneficial to the 35 ………. system 1995 Cooper and Bennett study • research methods included analysis, observation and 36 ………. • gardens with a 37 ………. were particularly popular 'Behavioural maps' studies • showed gardens need - areas for private conversation and flat paths - easi",
+      "answerRaw": "immune",
+      "canonicalAnswer": "immune",
+      "acceptedAnswers": [
+        "immune"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "but there's good evidence they can reduce your levels of pain and by doing that, boost your immune system in ways that help you heal.",
+      "evidenceStartTime": 1321.82,
+      "evidenceEndTime": 1334.06,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"immune\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "study • research methods included analysis, observation and 36 ………. • gardens with a 37 ………. were particularly popular 'Behavioural maps' studies • showed gardens need - areas for private conversation and flat paths - easily moved 38 ……….. - landscaping that attracts 39 ………… • middle-aged patients prefer peace and quie",
+      "answerRaw": "interviews",
+      "canonicalAnswer": "interviews",
+      "acceptedAnswers": [
+        "interviews"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They then conducted interviews with the people who use the gardens and they discovered that the users mostly visited gardens looking to relax and recover from mental and physical tiredness.",
+      "evidenceStartTime": 1361.31,
+      "evidenceEndTime": 1378.71,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"interviews\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "included analysis, observation and 36 ………. • gardens with a 37 ………. were particularly popular 'Behavioural maps' studies • showed gardens need - areas for private conversation and flat paths - easily moved 38 ……….. - landscaping that attracts 39 ………… • middle-aged patients prefer peace and quiet • elderly patients want",
+      "answerRaw": "fountain",
+      "canonicalAnswer": "fountain",
+      "acceptedAnswers": [
+        "fountain"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They also found that what people liked most were gardens that had a fountain.",
+      "evidenceStartTime": 1378.71,
+      "evidenceEndTime": 1385.8,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"fountain\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "reas for private conversation and flat paths - easily moved 38 ……….. - landscaping that attracts 39 ………… • middle-aged patients prefer peace and quiet • elderly patients want to feel a part of 40 …………",
+      "answerRaw": "furniture",
+      "canonicalAnswer": "furniture",
+      "acceptedAnswers": [
+        "furniture"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Another thing that researchers found was that people also wanted somewhere to rest so lightweight furniture that can be placed in the shade or sun with a minimum amount of effort was important.",
+      "evidenceStartTime": 1443.98,
+      "evidenceEndTime": 1461.75,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"furniture\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "t paths - easily moved 38 ……….. - landscaping that attracts 39 ………… • middle-aged patients prefer peace and quiet • elderly patients want to feel a part of 40 …………",
+      "answerRaw": "birds",
+      "canonicalAnswer": "birds",
+      "acceptedAnswers": [
+        "birds"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And lastly, they also wanted naturalistic landscaping that would also bring birds into the area.",
+      "evidenceStartTime": 1461.75,
+      "evidenceEndTime": 1470.59,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"birds\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "",
+      "answerRaw": "society",
+      "canonicalAnswer": "society",
+      "acceptedAnswers": [
+        "society"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "At one residence for seniors the researchers noticed that every afternoon the elderly residents would sit at the front of the building so they felt that they were active members of society by talking to people passing by.",
+      "evidenceStartTime": 1499.13,
+      "evidenceEndTime": 1519.48,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"society\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 9.52,
+      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 9.52,
+      "endTime": 19.97,
+      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 19.97,
+      "endTime": 26.53,
+      "text": "All the recordings will be played once only. The test is in four parts.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 26.53,
+      "endTime": 31.8,
+      "text": "Write all your answers in the listening question booklet.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 31.8,
+      "endTime": 40.86,
+      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 40.86,
+      "endTime": 47.15,
+      "text": "Now turn to part one on page two of your question booklet. Part one.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 47.15,
+      "endTime": 54.92,
+      "text": "You will hear a conversation between a travel agent and a client in a travel agency.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 54.92,
+      "endTime": 60.37,
+      "text": "First, you have some time to look at questions one to four.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 60.37,
+      "endTime": 67.3,
+      "text": "Now listen carefully and answer questions one to four. Good morning. Hello.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 67.3,
+      "endTime": 74.14,
+      "text": "Could you help me with a quote for a visit to Australia? Yes, have a seat.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 74.14,
+      "endTime": 82.0,
+      "text": "Now, if I could get a name from you first, then I can set up a quotation form. Great.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 82.0,
+      "endTime": 86.53,
+      "text": "The family name is Thorne. T-H-O-R-N? Yes. Right.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 86.53,
+      "endTime": 93.56,
+      "text": "Now, we'd be looking at going during the school holidays, the mid-year ones.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 93.56,
+      "endTime": 101.79,
+      "text": "That's June then, is it? No, it's July this year. OK. And what dates are you thinking of?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 101.79,
+      "endTime": 110.11,
+      "text": "Let me see. We want to go for five days and we could go any time from the 1st to the 14th.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 110.11,
+      "endTime": 115.29,
+      "text": "Right. And whereabouts in Australia are you thinking of?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 115.29,
+      "endTime": 122.41,
+      "text": "We were thinking of flying to Brisbane and then staying somewhere near there.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 122.41,
+      "endTime": 127.31,
+      "text": "So the Gold Coast then. That's a lovely area. Oh yes.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 127.31,
+      "endTime": 135.63,
+      "text": "I have some work to do in Brisbane, so we thought we'd combine that with a family holiday.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 135.63,
+      "endTime": 140.81,
+      "text": "And now, what sort of accommodation are you thinking of?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 140.81,
+      "endTime": 154.31,
+      "text": "Well, we had in mind an apartment, thinking that hotels are too expensive, and even motels not perhaps as child-friendly as having your own space.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 154.31,
+      "endTime": 158.01,
+      "text": "Yes. I'll have a look at what we've got.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 158.01,
+      "endTime": 167.07,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions five to ten.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 167.07,
+      "endTime": 171.14,
+      "text": "Now listen and answer questions five to ten.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 171.14,
+      "endTime": 179.09,
+      "text": "And will this brochure you're going to give me detail what sightseeing there is to do?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 179.09,
+      "endTime": 185.65,
+      "text": "Oh yes. There's lots of information in there about the amusement parks.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 185.65,
+      "endTime": 195.17,
+      "text": "The three main ones are Dream World, which has some scary roller coaster rides, as well as zoo animals.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 195.17,
+      "endTime": 199.05,
+      "text": "So that one sounds OK for all ages. Right.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 199.05,
+      "endTime": 206.17,
+      "text": "Well, there's also Water World, which is full of hydra slides and wave pools.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 206.17,
+      "endTime": 211.72,
+      "text": "They'd like that better. They're all keen on swimming. Yeah.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 211.72,
+      "endTime": 219.95,
+      "text": "And then there's also Movie World, which has actors dressed up as famous film characters.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 219.95,
+      "endTime": 226.88,
+      "text": "My kids don't watch much TV or video. I don't think they'd be so into that.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 226.88,
+      "endTime": 235.2,
+      "text": "And while we're talking about entertainment, I can recommend the local wildlife sanctuary.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 235.2,
+      "endTime": 243.71,
+      "text": "You can see all kinds of creatures there and get some good photographs. Do they have koalas?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 243.71,
+      "endTime": 250.55,
+      "text": "Yes, but they're usually asleep and hidden in the treetops during the day.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 250.55,
+      "endTime": 253.42,
+      "text": "But the crocodiles are amazing.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 253.42,
+      "endTime": 259.34,
+      "text": "It's easy to get right up to the fence to get close-ups of them.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 259.34,
+      "endTime": 262.11,
+      "text": "I suppose there are kangaroos.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 262.11,
+      "endTime": 268.86,
+      "text": "Yes, but they're kept in a distant paddock, so can be quite hard to spot.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 268.86,
+      "endTime": 275.79,
+      "text": "Certainly sounds as if you know the place well. Yeah, I've been many times.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 275.79,
+      "endTime": 282.82,
+      "text": "Now, I'm searching on my computer here for a suitable place for you to stay.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 282.82,
+      "endTime": 286.61,
+      "text": "What amenities would you like to be near?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 286.61,
+      "endTime": 294.28,
+      "text": "Well, we don't want to be close to any bars or clubs because of the noise at night.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 294.28,
+      "endTime": 301.03,
+      "text": "We'll need to be within walking distance of a shop to buy food and so on.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 301.03,
+      "endTime": 308.98,
+      "text": "And I guess most people tell you they want to be in beachfront accommodation, do they?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 308.98,
+      "endTime": 320.35,
+      "text": "But it's going to be in winter, and I doubt the sea will be warm enough to swim in, so for us that doesn't actually matter.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 320.35,
+      "endTime": 326.17,
+      "text": "OK, that's fine. And now, what facilities are important to you?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 326.17,
+      "endTime": 334.21,
+      "text": "Would you like a babysitter for the evenings? I don't think that's necessary this time.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 334.21,
+      "endTime": 346.6,
+      "text": "We don't plan to go out without the children, but we would want someone to come in to tidy up and wash the dishes and so on every day.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 346.6,
+      "endTime": 347.52,
+      "text": "What else?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 347.52,
+      "endTime": 361.02,
+      "text": "It doesn't have to be too flash, like we wouldn't use a gym or anything, and none of us really like saunas or spas, so we don't need one of those.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 1,
+      "startTime": 361.02,
+      "endTime": 367.31,
+      "text": "What about a parking space? No, that's not important. Anything else?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 1,
+      "startTime": 367.31,
+      "endTime": 378.22,
+      "text": "There must be facilities available for washing clothes, either in the unit or a communal one, it doesn't matter which.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 1,
+      "startTime": 378.22,
+      "endTime": 386.26,
+      "text": "Mm-hm. Quite a lot of places have indoor rooms with play equipment for the little ones.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 1,
+      "startTime": 386.26,
+      "endTime": 394.67,
+      "text": "Would you be interested in that? Yes, that would be useful, especially if it's a rainy day.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 1,
+      "startTime": 394.67,
+      "endTime": 400.77,
+      "text": "Oh, I'll have a look on the database. That is the end of part one.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 1,
+      "startTime": 400.77,
+      "endTime": 406.16,
+      "text": "You now have 45 seconds to check your answers to part one.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 2,
+      "startTime": 406.16,
+      "endTime": 419.82,
+      "text": "You will hear a manager from a company that makes electrical goods talking to some college students who are going to spend a month with the company.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 2,
+      "startTime": 419.82,
+      "endTime": 424.99,
+      "text": "First, you have some time to look at questions 11 to 16.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 2,
+      "startTime": 424.99,
+      "endTime": 429.79,
+      "text": "Now, listen carefully and answer questions 11 to 16.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 2,
+      "startTime": 429.79,
+      "endTime": 433.67,
+      "text": "Hello, and welcome to Reynolds Electrical.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 2,
+      "startTime": 433.67,
+      "endTime": 444.01,
+      "text": "I'm Cathy Meredith, and I'm in charge of your training programme during the month you're going to spend with us.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 2,
+      "startTime": 444.01,
+      "endTime": 449.09,
+      "text": "Let me start by telling you a little about the company.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 2,
+      "startTime": 449.09,
+      "endTime": 456.2,
+      "text": "The name Reynolds comes from Tony Reynolds. He was a local man, born in 1905.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 2,
+      "startTime": 456.2,
+      "endTime": 462.75,
+      "text": "When he was only 19, he started a small company that manufactured cars.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 2,
+      "startTime": 462.75,
+      "endTime": 467.46,
+      "text": "This was a failure, though, and he gave up in 1927.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 2,
+      "startTime": 467.46,
+      "endTime": 479.64,
+      "text": "He then trained as an electrician, and in the following year, rented a small workshop and set up a new company, Reynolds Electrical.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 2,
+      "startTime": 479.64,
+      "endTime": 493.21,
+      "text": "So, the company dates back to 1928, and I'm pleased to say we've been successful more or less ever since, and we moved to our present site in 1955.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 2,
+      "startTime": 493.21,
+      "endTime": 500.87,
+      "text": "There was a cinema here, which had to be demolished, and new buildings were put up.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 2,
+      "startTime": 500.87,
+      "endTime": 508.81,
+      "text": "Of course, in those days, it was quite common to have factories close to town centres.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 2,
+      "startTime": 508.81,
+      "endTime": 515.09,
+      "text": "The company has been more and more successful in the last few years.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 2,
+      "startTime": 515.09,
+      "endTime": 519.89,
+      "text": "The main reason is a change in the pattern of sales.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 2,
+      "startTime": 519.89,
+      "endTime": 528.29,
+      "text": "Another reason for our success is that despite strong competition from cheaper competitors,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 528.29,
+      "endTime": 535.67,
+      "text": "our customers are happy to pay a higher price for the quality of Reynolds goods.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 535.67,
+      "endTime": 544.99,
+      "text": "Because of this success, we're feeling confident about the future, and we've got some exciting plans.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 544.99,
+      "endTime": 552.0,
+      "text": "We're now constructing a second factory, so that we can increase production.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 552.0,
+      "endTime": 561.14,
+      "text": "We're also replacing our existing production machinery, and making improvements to all the offices.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 561.14,
+      "endTime": 573.51,
+      "text": "One more point I'd like to make is that ever since Tony Reynolds started the business, we've always tried to be the best in our field.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 573.51,
+      "endTime": 582.92,
+      "text": "So earlier this year, we were delighted when we received an award for making a big reduction in waste.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 582.92,
+      "endTime": 586.89,
+      "text": "Our policy is to recycle as much as we can.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 586.89,
+      "endTime": 594.92,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 17 to 20.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 594.92,
+      "endTime": 598.7,
+      "text": "Now listen and answer questions 17 to 20.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 598.7,
+      "endTime": 605.9,
+      "text": "Right, now I'll give you an idea of what you'll be doing in the next few days.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 605.9,
+      "endTime": 618.54,
+      "text": "You'll spend most of this week with different members of our staff, working alongside them so that you can learn what their job involves.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 618.54,
+      "endTime": 627.12,
+      "text": "And we'll get together at 3 o'clock every afternoon to focus on a different part of our work.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 627.12,
+      "endTime": 639.67,
+      "text": "Every Monday we have a meeting of people from different parts of the company, and I'd like you to take part in this afternoon's meeting.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 639.67,
+      "endTime": 646.04,
+      "text": "Today we're going to discuss ways of getting higher levels of safety,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 646.04,
+      "endTime": 657.12,
+      "text": "and we'll be interested in any suggestions you might make, so think about it while you're going round the factory today.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 657.12,
+      "endTime": 668.75,
+      "text": "Tomorrow afternoon, Tuesday, I'll introduce you to the IT department, and they'll update you about the changes to our website.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 668.75,
+      "endTime": 675.4,
+      "text": "This is important because a growing number of people want to buy online.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 675.4,
+      "endTime": 683.89,
+      "text": "Then on Wednesday, we'll talk about our contact with those very important people, customers.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 683.89,
+      "endTime": 688.87,
+      "text": "Without them, of course, we'd soon go out of business.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 688.87,
+      "endTime": 700.22,
+      "text": "And that discussion will cover all sorts of things, from advertising to research into what sort of people buy our products.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 700.22,
+      "endTime": 711.94,
+      "text": "The next afternoon, Thursday, we'll focus on recruitment, and how we try to make sure we have the best staff to meet our needs.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 711.94,
+      "endTime": 718.95,
+      "text": "We seem to be doing well because mostly they stay with us for several years.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 718.95,
+      "endTime": 729.56,
+      "text": "And finally, for this week at least, on Friday, something that I think you'll find more interesting than it sounds.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 729.56,
+      "endTime": 739.8,
+      "text": "And that's how we ensure we have sufficient money coming in to pay our bills and other expenses, such as wages.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 2,
+      "startTime": 739.8,
+      "endTime": 747.28,
+      "text": "Right, now, are there any questions before I go on? That is the end of Section 2.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 2,
+      "startTime": 747.28,
+      "endTime": 751.8,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 3,
+      "startTime": 751.8,
+      "endTime": 752.82,
+      "text": "Hi, Sandra.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 3,
+      "startTime": 752.82,
+      "endTime": 760.4,
+      "text": "Have you got time to talk through a few things about preparing our art portfolios?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 3,
+      "startTime": 760.4,
+      "endTime": 767.98,
+      "text": "I've got some ideas for what to include in mine, but I'd like to hear about yours.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 3,
+      "startTime": 767.98,
+      "endTime": 779.07,
+      "text": "I'm going to include an interpretation of a famous picture, and then pieces from each of my years of studying fine arts,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 3,
+      "startTime": 779.07,
+      "endTime": 789.51,
+      "text": "because I think it's crucial to show progression, even if some of them aren't representative of my best work now.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 3,
+      "startTime": 789.51,
+      "endTime": 798.57,
+      "text": "Oh, I was going to pick out the works that I think show creative thinking, but maybe you're right.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 3,
+      "startTime": 798.57,
+      "endTime": 804.76,
+      "text": "What are you going to include to show your understanding of design?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 3,
+      "startTime": 804.76,
+      "endTime": 813.17,
+      "text": "I think I'm going to include that flyer I did. That publicity flyer for the music festival?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 3,
+      "startTime": 813.17,
+      "endTime": 819.36,
+      "text": "Yes, that was great. I'm hoping to use my health and safety poster.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 3,
+      "startTime": 819.36,
+      "endTime": 821.95,
+      "text": "The design element's strong.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 3,
+      "startTime": 821.95,
+      "endTime": 829.99,
+      "text": "Some people are including photos of modern buildings, but I'm not so sure about photos.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 3,
+      "startTime": 829.99,
+      "endTime": 836.09,
+      "text": "Anyway, we've also got to show we've explored one medium in depth.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 3,
+      "startTime": 836.09,
+      "endTime": 839.23,
+      "text": "Well, what about choosing drawing?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 3,
+      "startTime": 839.23,
+      "endTime": 845.33,
+      "text": "That series we both did of the human body would be good, you know.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 3,
+      "startTime": 845.33,
+      "endTime": 849.21,
+      "text": "The set of pictures showing a man running?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 3,
+      "startTime": 849.21,
+      "endTime": 854.94,
+      "text": "Yes, they demonstrate that we can show a human body in action.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 3,
+      "startTime": 854.94,
+      "endTime": 862.52,
+      "text": "I think they'd be more impressive than those drawings we did of household objects.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 3,
+      "startTime": 862.52,
+      "endTime": 863.72,
+      "text": "Yes, I agree.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 3,
+      "startTime": 863.72,
+      "endTime": 876.2,
+      "text": "The household objects would show we can draw details precisely and position things on the paper effectively, but they were just static.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 3,
+      "startTime": 876.2,
+      "endTime": 884.42,
+      "text": "OK, now do you think I should include my work on deserts? To be honest, I don't think so.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 3,
+      "startTime": 884.42,
+      "endTime": 900.96,
+      "text": "You've got a huge amount of work on that subject, and I think the problem is that a lot of it will need extensive notes so the tutor can understand the thinking behind the pieces.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 900.96,
+      "endTime": 908.17,
+      "text": "Pity, because you've dealt with it in a very unusual way. You're right. Right.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 908.17,
+      "endTime": 914.92,
+      "text": "Now, we need to think about the portfolio as a whole. How we organise it.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 914.92,
+      "endTime": 920.1,
+      "text": "Did the tutor say anything about that? I can't remember.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 920.1,
+      "endTime": 931.65,
+      "text": "I thought his most useful suggestion was to make sure similar pieces are put together so the portfolio has a clear structure,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 931.65,
+      "endTime": 938.95,
+      "text": "but he said we shouldn't worry about making a dramatic impact at the beginning.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 938.95,
+      "endTime": 947.17,
+      "text": "Some students recommend saving the best piece till last, but I don't agree. No, nor do I.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 947.17,
+      "endTime": 956.87,
+      "text": "But everyone says it's a good idea to get someone else to look at the portfolio just before we submit it.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 956.87,
+      "endTime": 965.74,
+      "text": "Of course, our art teacher will comment on it as we go along, but who else are you going to ask?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 965.74,
+      "endTime": 974.15,
+      "text": "There's a sculptor who lives near me, and my parents know him, so that's who I'm going for.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 974.15,
+      "endTime": 987.73,
+      "text": "I've got a friend who writes articles for the art section of a national newspaper, and I was going to ask him, but I decided he lives too far away.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 987.73,
+      "endTime": 996.32,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 27 to 30.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 996.32,
+      "endTime": 1000.48,
+      "text": "Now listen and answer questions 27 to 30. OK.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 1000.48,
+      "endTime": 1010.65,
+      "text": "Now, our tutor said it's important to make sure the reason for including each piece in our portfolio is clear.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 1010.65,
+      "endTime": 1017.3,
+      "text": "I think I've more or less decided about that for my portfolio. Have you?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 1017.3,
+      "endTime": 1022.57,
+      "text": "I haven't thought about it at all. What have you decided?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 1022.57,
+      "endTime": 1026.08,
+      "text": "Well, like my design for a book cover.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 1026.08,
+      "endTime": 1034.67,
+      "text": "I just had a very simple design based on the book's title in this unusual handwritten script.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 1034.67,
+      "endTime": 1043.82,
+      "text": "So, my reason for including that is it's a piece which shows the presentation of writing in design.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 1043.82,
+      "endTime": 1044.37,
+      "text": "Right.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 1044.37,
+      "endTime": 1052.5,
+      "text": "Then I did some work on designing jewellery, and I'm including that in my portfolio too.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1052.5,
+      "endTime": 1060.63,
+      "text": "So, is that to show how well you can express yourself using different media, like metal?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1060.63,
+      "endTime": 1063.96,
+      "text": "That's not why I'm including it, no.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1063.96,
+      "endTime": 1074.96,
+      "text": "What I actually learned from doing the jewellery was the importance of precision, getting each little thing just right.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1074.96,
+      "endTime": 1080.6,
+      "text": "So, that's the reason I'm giving for including it. Oh, I see.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1080.6,
+      "endTime": 1093.26,
+      "text": "And are you going to include that wood carving you did, the one of a fish you made from a piece of wood your sister picked up by the sea?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1093.26,
+      "endTime": 1101.39,
+      "text": "Yes. At first, I was going to include that because I like the smooth scales of the fish.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1101.39,
+      "endTime": 1109.43,
+      "text": "But in the end, I decided it's an example of something that was completely my own idea.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1109.43,
+      "endTime": 1113.4,
+      "text": "OK, good. Then there was the advertisement.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1113.4,
+      "endTime": 1121.99,
+      "text": "I did an ad for a hotel, a warm, cosy scene with an illustration of an open fire. I remember.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1121.99,
+      "endTime": 1130.31,
+      "text": "We had to show we could convey a feeling that matched the image of the product, didn't we?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1130.31,
+      "endTime": 1138.35,
+      "text": "I did one for a fruit juice drink, trying to give an impression of vitality and energy.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1138.35,
+      "endTime": 1145.47,
+      "text": "Right. Well, now, shall we get on with actually... That is the end of Part 3.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1145.47,
+      "endTime": 1150.66,
+      "text": "You now have 30 seconds to check your answers to Part 3.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 4,
+      "startTime": 1150.66,
+      "endTime": 1159.77,
+      "text": "You will hear part of a landscape design lecture about the health benefits of gardens in hospitals.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 4,
+      "startTime": 1159.77,
+      "endTime": 1164.93,
+      "text": "First, you have some time to look at questions 31 to 40.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 4,
+      "startTime": 1164.93,
+      "endTime": 1169.63,
+      "text": "Now listen carefully and answer questions 31 to 40.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 4,
+      "startTime": 1169.63,
+      "endTime": 1176.72,
+      "text": "Welcome to today's lecture about hospital gardens and their medical benefits.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 4,
+      "startTime": 1176.72,
+      "endTime": 1183.9,
+      "text": "Recently, a group of architects were interviewed about health care facilities.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 4,
+      "startTime": 1183.9,
+      "endTime": 1196.05,
+      "text": "82% of them agreed that the planning of outdoor space should be one of the most important considerations in the design of hospitals.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 4,
+      "startTime": 1196.05,
+      "endTime": 1203.42,
+      "text": "Of course, the idea that a garden can be good for our health is not exactly new.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 4,
+      "startTime": 1203.42,
+      "endTime": 1225.33,
+      "text": "But a 1984 study by an environmental psychologist, Roger Schwartz, was the first to use the standards of modern medical research to demonstrate that gardens can sometimes speed recovery from surgery and also help the healing of infection.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 4,
+      "startTime": 1225.33,
+      "endTime": 1235.37,
+      "text": "In his study, Schwartz reviewed the medical records of people recovering from surgery at a suburban hospital.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 4,
+      "startTime": 1235.37,
+      "endTime": 1245.13,
+      "text": "All other things being equal, patients with bedside windows looking out on leafy trees healed, on average,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 4,
+      "startTime": 1245.13,
+      "endTime": 1258.11,
+      "text": "a day faster than those looking at a wall and they needed significantly less pain medication and had fewer complications after their surgery.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 4,
+      "startTime": 1258.11,
+      "endTime": 1270.08,
+      "text": "In fact, at the time, studies carried out in Europe showed that the conditions in hospital can have serious physical consequences.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 4,
+      "startTime": 1270.08,
+      "endTime": 1277.17,
+      "text": "These studies showed that hospitals contributed to people's levels of stress.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 4,
+      "startTime": 1277.17,
+      "endTime": 1289.69,
+      "text": "Fortunately, as the evidence implicating hospitals increased, the amount of data suggesting that gardens can encourage healing grew too.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 4,
+      "startTime": 1289.69,
+      "endTime": 1299.54,
+      "text": "According to various studies of healthy people, just three to five minutes spent looking at views of trees,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 4,
+      "startTime": 1299.54,
+      "endTime": 1306.81,
+      "text": "flowers or water can begin to reduce anger and pain and to increase relaxation.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 4,
+      "startTime": 1306.81,
+      "endTime": 1315.19,
+      "text": "This is shown in physiological changes in electrical activity, most obviously in the heart.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 4,
+      "startTime": 1315.19,
+      "endTime": 1321.82,
+      "text": "Now, it's important for me to state clearly that gardens can't cure you,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 4,
+      "startTime": 1321.82,
+      "endTime": 1334.06,
+      "text": "but there's good evidence they can reduce your levels of pain and by doing that, boost your immune system in ways that help you heal.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 4,
+      "startTime": 1334.06,
+      "endTime": 1346.12,
+      "text": "Importantly, as research into this field has grown, it has shown that not all gardens are equally effective in the healing process.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 4,
+      "startTime": 1346.12,
+      "endTime": 1361.31,
+      "text": "In 1995, Marcus Cooper and landscape architect Mark Bennett analysed the physical layout of several hospital gardens and carried out observations of their daily use.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 4,
+      "startTime": 1361.31,
+      "endTime": 1378.71,
+      "text": "They then conducted interviews with the people who use the gardens and they discovered that the users mostly visited gardens looking to relax and recover from mental and physical tiredness.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 4,
+      "startTime": 1378.71,
+      "endTime": 1385.8,
+      "text": "They also found that what people liked most were gardens that had a fountain.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 4,
+      "startTime": 1385.8,
+      "endTime": 1407.34,
+      "text": "These results are consistent with Schwartz's findings of the healing power of a window view and also correspond with the theories of evolutionary biologists that people prefer views that are similar to the fields where humans evolved.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 4,
+      "startTime": 1407.34,
+      "endTime": 1412.86,
+      "text": "What you can do in the gardens is important as what you see.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 4,
+      "startTime": 1412.86,
+      "endTime": 1428.33,
+      "text": "The results of behavioural map studies in which researchers observe visitors' actions while in a garden suggested gardens need several different things to be effective.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 4,
+      "startTime": 1428.33,
+      "endTime": 1441.22,
+      "text": "They need to provide areas for private conversations, flat shady paths that people would like to walk along and that won't trip wheelchairs.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 4,
+      "startTime": 1441.22,
+      "endTime": 1443.98,
+      "text": "That's important in hospitals.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 4,
+      "startTime": 1443.98,
+      "endTime": 1461.75,
+      "text": "Another thing that researchers found was that people also wanted somewhere to rest so lightweight furniture that can be placed in the shade or sun with a minimum amount of effort was important.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 1461.75,
+      "endTime": 1470.59,
+      "text": "And lastly, they also wanted naturalistic landscaping that would also bring birds into the area.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 1470.59,
+      "endTime": 1490.02,
+      "text": "Of course hospitals have patients from a wide range of age groups and it's been found that while different generations seem to value the same things in gardens some differences in preferences have turned up too.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 4,
+      "startTime": 1490.02,
+      "endTime": 1499.13,
+      "text": "Middle-aged adults look for peace and quiet while older adults are more likely to seek stimulation.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 4,
+      "startTime": 1499.13,
+      "endTime": 1519.48,
+      "text": "At one residence for seniors the researchers noticed that every afternoon the elderly residents would sit at the front of the building so they felt that they were active members of society by talking to people passing by.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 4,
+      "startTime": 1519.48,
+      "endTime": 1532.83,
+      "text": "To help ensure that outdoor areas promote as much healing as possible gardens should be planned taking science and aesthetic design into account.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 4,
+      "startTime": 1532.83,
+      "endTime": 1537.34,
+      "text": "The implications... That is the end of part four.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 4,
+      "startTime": 1537.34,
+      "endTime": 1542.77,
+      "text": "You now have one minute to check your answers to part four.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 4,
+      "startTime": 1542.77,
+      "endTime": 1546.27,
+      "text": "That is the end of the listening test.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 4,
+      "startTime": 1546.27,
+      "endTime": 1553.54,
+      "text": "You now have 10 minutes to transfer your answers to the listening answer sheet.",
+      "timestampSource": "estimated",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 26.53,
+      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 26.53,
+      "endTime": 47.15,
+      "text": "Write all your answers in the listening question booklet. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to part one on page two of your question booklet. Part one.",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 47.15,
+      "endTime": 67.3,
+      "text": "You will hear a conversation between a travel agent and a client in a travel agency. First, you have some time to look at questions one to four. Now listen carefully and answer questions one to four. Good morning. Hello.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008",
+        "seg-009"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 67.3,
+      "endTime": 86.53,
+      "text": "Could you help me with a quote for a visit to Australia? Yes, have a seat. Now, if I could get a name from you first, then I can set up a quotation form. Great. The family name is Thorne. T-H-O-R-N? Yes. Right.",
+      "segmentIds": [
+        "seg-010",
+        "seg-011",
+        "seg-012"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 86.53,
+      "endTime": 110.11,
+      "text": "Now, we'd be looking at going during the school holidays, the mid-year ones. That's June then, is it? No, it's July this year. OK. And what dates are you thinking of? Let me see. We want to go for five days and we could go any time from the 1st to the 14th.",
+      "segmentIds": [
+        "seg-013",
+        "seg-014",
+        "seg-015"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 110.11,
+      "endTime": 127.31,
+      "text": "Right. And whereabouts in Australia are you thinking of? We were thinking of flying to Brisbane and then staying somewhere near there. So the Gold Coast then. That's a lovely area. Oh yes.",
+      "segmentIds": [
+        "seg-016",
+        "seg-017",
+        "seg-018"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 127.31,
+      "endTime": 154.31,
+      "text": "I have some work to do in Brisbane, so we thought we'd combine that with a family holiday. And now, what sort of accommodation are you thinking of? Well, we had in mind an apartment, thinking that hotels are too expensive, and even motels not perhaps as child-friendly as having your own space.",
+      "segmentIds": [
+        "seg-019",
+        "seg-020",
+        "seg-021"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 154.31,
+      "endTime": 171.14,
+      "text": "Yes. I'll have a look at what we've got. Before you hear the rest of the conversation, you have some time to look at questions five to ten. Now listen and answer questions five to ten.",
+      "segmentIds": [
+        "seg-022",
+        "seg-023",
+        "seg-024"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 171.14,
+      "endTime": 195.17,
+      "text": "And will this brochure you're going to give me detail what sightseeing there is to do? Oh yes. There's lots of information in there about the amusement parks. The three main ones are Dream World, which has some scary roller coaster rides, as well as zoo animals.",
+      "segmentIds": [
+        "seg-025",
+        "seg-026",
+        "seg-027"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 195.17,
+      "endTime": 211.72,
+      "text": "So that one sounds OK for all ages. Right. Well, there's also Water World, which is full of hydra slides and wave pools. They'd like that better. They're all keen on swimming. Yeah.",
+      "segmentIds": [
+        "seg-028",
+        "seg-029",
+        "seg-030"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 211.72,
+      "endTime": 235.2,
+      "text": "And then there's also Movie World, which has actors dressed up as famous film characters. My kids don't watch much TV or video. I don't think they'd be so into that. And while we're talking about entertainment, I can recommend the local wildlife sanctuary.",
+      "segmentIds": [
+        "seg-031",
+        "seg-032",
+        "seg-033"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 235.2,
+      "endTime": 253.42,
+      "text": "You can see all kinds of creatures there and get some good photographs. Do they have koalas? Yes, but they're usually asleep and hidden in the treetops during the day. But the crocodiles are amazing.",
+      "segmentIds": [
+        "seg-034",
+        "seg-035",
+        "seg-036"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 253.42,
+      "endTime": 275.79,
+      "text": "It's easy to get right up to the fence to get close-ups of them. I suppose there are kangaroos. Yes, but they're kept in a distant paddock, so can be quite hard to spot. Certainly sounds as if you know the place well. Yeah, I've been many times.",
+      "segmentIds": [
+        "seg-037",
+        "seg-038",
+        "seg-039",
+        "seg-040"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 275.79,
+      "endTime": 294.28,
+      "text": "Now, I'm searching on my computer here for a suitable place for you to stay. What amenities would you like to be near? Well, we don't want to be close to any bars or clubs because of the noise at night.",
+      "segmentIds": [
+        "seg-041",
+        "seg-042",
+        "seg-043"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 294.28,
+      "endTime": 320.35,
+      "text": "We'll need to be within walking distance of a shop to buy food and so on. And I guess most people tell you they want to be in beachfront accommodation, do they? But it's going to be in winter, and I doubt the sea will be warm enough to swim in, so for us that doesn't actually matter.",
+      "segmentIds": [
+        "seg-044",
+        "seg-045",
+        "seg-046"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 320.35,
+      "endTime": 346.6,
+      "text": "OK, that's fine. And now, what facilities are important to you? Would you like a babysitter for the evenings? I don't think that's necessary this time. We don't plan to go out without the children, but we would want someone to come in to tidy up and wash the dishes and so on every day.",
+      "segmentIds": [
+        "seg-047",
+        "seg-048",
+        "seg-049"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-017",
+      "part": 1,
+      "startTime": 346.6,
+      "endTime": 367.31,
+      "text": "What else? It doesn't have to be too flash, like we wouldn't use a gym or anything, and none of us really like saunas or spas, so we don't need one of those. What about a parking space? No, that's not important. Anything else?",
+      "segmentIds": [
+        "seg-050",
+        "seg-051",
+        "seg-052"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-018",
+      "part": 1,
+      "startTime": 367.31,
+      "endTime": 394.67,
+      "text": "There must be facilities available for washing clothes, either in the unit or a communal one, it doesn't matter which. Mm-hm. Quite a lot of places have indoor rooms with play equipment for the little ones. Would you be interested in that? Yes, that would be useful, especially if it's a rainy day.",
+      "segmentIds": [
+        "seg-053",
+        "seg-054",
+        "seg-055"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-019",
+      "part": 1,
+      "startTime": 394.67,
+      "endTime": 406.16,
+      "text": "Oh, I'll have a look on the database. That is the end of part one. You now have 45 seconds to check your answers to part one.",
+      "segmentIds": [
+        "seg-056",
+        "seg-057"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 406.16,
+      "endTime": 429.79,
+      "text": "You will hear a manager from a company that makes electrical goods talking to some college students who are going to spend a month with the company. First, you have some time to look at questions 11 to 16. Now, listen carefully and answer questions 11 to 16.",
+      "segmentIds": [
+        "seg-058",
+        "seg-059",
+        "seg-060"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-021",
+      "part": 2,
+      "startTime": 429.79,
+      "endTime": 449.09,
+      "text": "Hello, and welcome to Reynolds Electrical. I'm Cathy Meredith, and I'm in charge of your training programme during the month you're going to spend with us. Let me start by telling you a little about the company.",
+      "segmentIds": [
+        "seg-061",
+        "seg-062",
+        "seg-063"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 449.09,
+      "endTime": 467.46,
+      "text": "The name Reynolds comes from Tony Reynolds. He was a local man, born in 1905. When he was only 19, he started a small company that manufactured cars. This was a failure, though, and he gave up in 1927.",
+      "segmentIds": [
+        "seg-064",
+        "seg-065",
+        "seg-066"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-023",
+      "part": 2,
+      "startTime": 467.46,
+      "endTime": 500.87,
+      "text": "He then trained as an electrician, and in the following year, rented a small workshop and set up a new company, Reynolds Electrical. So, the company dates back to 1928, and I'm pleased to say we've been successful more or less ever since, and we moved to our present site in 1955. There was a cinema here, which had to be demolished, and new buildings were put up.",
+      "segmentIds": [
+        "seg-067",
+        "seg-068",
+        "seg-069"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-024",
+      "part": 2,
+      "startTime": 500.87,
+      "endTime": 519.89,
+      "text": "Of course, in those days, it was quite common to have factories close to town centres. The company has been more and more successful in the last few years. The main reason is a change in the pattern of sales.",
+      "segmentIds": [
+        "seg-070",
+        "seg-071",
+        "seg-072"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 519.89,
+      "endTime": 544.99,
+      "text": "Another reason for our success is that despite strong competition from cheaper competitors, our customers are happy to pay a higher price for the quality of Reynolds goods. Because of this success, we're feeling confident about the future, and we've got some exciting plans.",
+      "segmentIds": [
+        "seg-073",
+        "seg-074",
+        "seg-075"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 544.99,
+      "endTime": 573.51,
+      "text": "We're now constructing a second factory, so that we can increase production. We're also replacing our existing production machinery, and making improvements to all the offices. One more point I'd like to make is that ever since Tony Reynolds started the business, we've always tried to be the best in our field.",
+      "segmentIds": [
+        "seg-076",
+        "seg-077",
+        "seg-078"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 573.51,
+      "endTime": 594.92,
+      "text": "So earlier this year, we were delighted when we received an award for making a big reduction in waste. Our policy is to recycle as much as we can. Before you hear the rest of the talk, you have some time to look at questions 17 to 20.",
+      "segmentIds": [
+        "seg-079",
+        "seg-080",
+        "seg-081"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 594.92,
+      "endTime": 618.54,
+      "text": "Now listen and answer questions 17 to 20. Right, now I'll give you an idea of what you'll be doing in the next few days. You'll spend most of this week with different members of our staff, working alongside them so that you can learn what their job involves.",
+      "segmentIds": [
+        "seg-082",
+        "seg-083",
+        "seg-084"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 618.54,
+      "endTime": 646.04,
+      "text": "And we'll get together at 3 o'clock every afternoon to focus on a different part of our work. Every Monday we have a meeting of people from different parts of the company, and I'd like you to take part in this afternoon's meeting. Today we're going to discuss ways of getting higher levels of safety,",
+      "segmentIds": [
+        "seg-085",
+        "seg-086",
+        "seg-087"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 646.04,
+      "endTime": 675.4,
+      "text": "and we'll be interested in any suggestions you might make, so think about it while you're going round the factory today. Tomorrow afternoon, Tuesday, I'll introduce you to the IT department, and they'll update you about the changes to our website. This is important because a growing number of people want to buy online.",
+      "segmentIds": [
+        "seg-088",
+        "seg-089",
+        "seg-090"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-031",
+      "part": 2,
+      "startTime": 675.4,
+      "endTime": 700.22,
+      "text": "Then on Wednesday, we'll talk about our contact with those very important people, customers. Without them, of course, we'd soon go out of business. And that discussion will cover all sorts of things, from advertising to research into what sort of people buy our products.",
+      "segmentIds": [
+        "seg-091",
+        "seg-092",
+        "seg-093"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-032",
+      "part": 2,
+      "startTime": 700.22,
+      "endTime": 729.56,
+      "text": "The next afternoon, Thursday, we'll focus on recruitment, and how we try to make sure we have the best staff to meet our needs. We seem to be doing well because mostly they stay with us for several years. And finally, for this week at least, on Friday, something that I think you'll find more interesting than it sounds.",
+      "segmentIds": [
+        "seg-094",
+        "seg-095",
+        "seg-096"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-033",
+      "part": 2,
+      "startTime": 729.56,
+      "endTime": 751.8,
+      "text": "And that's how we ensure we have sufficient money coming in to pay our bills and other expenses, such as wages. Right, now, are there any questions before I go on? That is the end of Section 2. You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-097",
+        "seg-098",
+        "seg-099"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-034",
+      "part": 3,
+      "startTime": 751.8,
+      "endTime": 767.98,
+      "text": "Hi, Sandra. Have you got time to talk through a few things about preparing our art portfolios? I've got some ideas for what to include in mine, but I'd like to hear about yours.",
+      "segmentIds": [
+        "seg-100",
+        "seg-101",
+        "seg-102"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-035",
+      "part": 3,
+      "startTime": 767.98,
+      "endTime": 798.57,
+      "text": "I'm going to include an interpretation of a famous picture, and then pieces from each of my years of studying fine arts, because I think it's crucial to show progression, even if some of them aren't representative of my best work now. Oh, I was going to pick out the works that I think show creative thinking, but maybe you're right.",
+      "segmentIds": [
+        "seg-103",
+        "seg-104",
+        "seg-105"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-036",
+      "part": 3,
+      "startTime": 798.57,
+      "endTime": 821.95,
+      "text": "What are you going to include to show your understanding of design? I think I'm going to include that flyer I did. That publicity flyer for the music festival? Yes, that was great. I'm hoping to use my health and safety poster. The design element's strong.",
+      "segmentIds": [
+        "seg-106",
+        "seg-107",
+        "seg-108",
+        "seg-109"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 821.95,
+      "endTime": 845.33,
+      "text": "Some people are including photos of modern buildings, but I'm not so sure about photos. Anyway, we've also got to show we've explored one medium in depth. Well, what about choosing drawing? That series we both did of the human body would be good, you know.",
+      "segmentIds": [
+        "seg-110",
+        "seg-111",
+        "seg-112",
+        "seg-113"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 845.33,
+      "endTime": 863.72,
+      "text": "The set of pictures showing a man running? Yes, they demonstrate that we can show a human body in action. I think they'd be more impressive than those drawings we did of household objects. Yes, I agree.",
+      "segmentIds": [
+        "seg-114",
+        "seg-115",
+        "seg-116",
+        "seg-117"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 863.72,
+      "endTime": 900.96,
+      "text": "The household objects would show we can draw details precisely and position things on the paper effectively, but they were just static. OK, now do you think I should include my work on deserts? To be honest, I don't think so. You've got a huge amount of work on that subject, and I think the problem is that a lot of it will need extensive notes so the tutor can understand the thinking behind the pieces.",
+      "segmentIds": [
+        "seg-118",
+        "seg-119",
+        "seg-120"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 900.96,
+      "endTime": 920.1,
+      "text": "Pity, because you've dealt with it in a very unusual way. You're right. Right. Now, we need to think about the portfolio as a whole. How we organise it. Did the tutor say anything about that? I can't remember.",
+      "segmentIds": [
+        "seg-121",
+        "seg-122",
+        "seg-123"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-041",
+      "part": 3,
+      "startTime": 920.1,
+      "endTime": 947.17,
+      "text": "I thought his most useful suggestion was to make sure similar pieces are put together so the portfolio has a clear structure, but he said we shouldn't worry about making a dramatic impact at the beginning. Some students recommend saving the best piece till last, but I don't agree. No, nor do I.",
+      "segmentIds": [
+        "seg-124",
+        "seg-125",
+        "seg-126"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 947.17,
+      "endTime": 974.15,
+      "text": "But everyone says it's a good idea to get someone else to look at the portfolio just before we submit it. Of course, our art teacher will comment on it as we go along, but who else are you going to ask? There's a sculptor who lives near me, and my parents know him, so that's who I'm going for.",
+      "segmentIds": [
+        "seg-127",
+        "seg-128",
+        "seg-129"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 974.15,
+      "endTime": 1000.48,
+      "text": "I've got a friend who writes articles for the art section of a national newspaper, and I was going to ask him, but I decided he lives too far away. Before you hear the rest of the discussion, you have some time to look at questions 27 to 30. Now listen and answer questions 27 to 30. OK.",
+      "segmentIds": [
+        "seg-130",
+        "seg-131",
+        "seg-132"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 1000.48,
+      "endTime": 1022.57,
+      "text": "Now, our tutor said it's important to make sure the reason for including each piece in our portfolio is clear. I think I've more or less decided about that for my portfolio. Have you? I haven't thought about it at all. What have you decided?",
+      "segmentIds": [
+        "seg-133",
+        "seg-134",
+        "seg-135"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1022.57,
+      "endTime": 1044.37,
+      "text": "Well, like my design for a book cover. I just had a very simple design based on the book's title in this unusual handwritten script. So, my reason for including that is it's a piece which shows the presentation of writing in design. Right.",
+      "segmentIds": [
+        "seg-136",
+        "seg-137",
+        "seg-138",
+        "seg-139"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1044.37,
+      "endTime": 1063.96,
+      "text": "Then I did some work on designing jewellery, and I'm including that in my portfolio too. So, is that to show how well you can express yourself using different media, like metal? That's not why I'm including it, no.",
+      "segmentIds": [
+        "seg-140",
+        "seg-141",
+        "seg-142"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1063.96,
+      "endTime": 1093.26,
+      "text": "What I actually learned from doing the jewellery was the importance of precision, getting each little thing just right. So, that's the reason I'm giving for including it. Oh, I see. And are you going to include that wood carving you did, the one of a fish you made from a piece of wood your sister picked up by the sea?",
+      "segmentIds": [
+        "seg-143",
+        "seg-144",
+        "seg-145"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-048",
+      "part": 3,
+      "startTime": 1093.26,
+      "endTime": 1113.4,
+      "text": "Yes. At first, I was going to include that because I like the smooth scales of the fish. But in the end, I decided it's an example of something that was completely my own idea. OK, good. Then there was the advertisement.",
+      "segmentIds": [
+        "seg-146",
+        "seg-147",
+        "seg-148"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-049",
+      "part": 3,
+      "startTime": 1113.4,
+      "endTime": 1138.35,
+      "text": "I did an ad for a hotel, a warm, cosy scene with an illustration of an open fire. I remember. We had to show we could convey a feeling that matched the image of the product, didn't we? I did one for a fruit juice drink, trying to give an impression of vitality and energy.",
+      "segmentIds": [
+        "seg-149",
+        "seg-150",
+        "seg-151"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-050",
+      "part": 3,
+      "startTime": 1138.35,
+      "endTime": 1150.66,
+      "text": "Right. Well, now, shall we get on with actually... That is the end of Part 3. You now have 30 seconds to check your answers to Part 3.",
+      "segmentIds": [
+        "seg-152",
+        "seg-153"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-051",
+      "part": 4,
+      "startTime": 1150.66,
+      "endTime": 1169.63,
+      "text": "You will hear part of a landscape design lecture about the health benefits of gardens in hospitals. First, you have some time to look at questions 31 to 40. Now listen carefully and answer questions 31 to 40.",
+      "segmentIds": [
+        "seg-154",
+        "seg-155",
+        "seg-156"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-052",
+      "part": 4,
+      "startTime": 1169.63,
+      "endTime": 1196.05,
+      "text": "Welcome to today's lecture about hospital gardens and their medical benefits. Recently, a group of architects were interviewed about health care facilities. 82% of them agreed that the planning of outdoor space should be one of the most important considerations in the design of hospitals.",
+      "segmentIds": [
+        "seg-157",
+        "seg-158",
+        "seg-159"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-053",
+      "part": 4,
+      "startTime": 1196.05,
+      "endTime": 1235.37,
+      "text": "Of course, the idea that a garden can be good for our health is not exactly new. But a 1984 study by an environmental psychologist, Roger Schwartz, was the first to use the standards of modern medical research to demonstrate that gardens can sometimes speed recovery from surgery and also help the healing of infection. In his study, Schwartz reviewed the medical records of people recovering from surgery at a suburban hospital.",
+      "segmentIds": [
+        "seg-160",
+        "seg-161",
+        "seg-162"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-054",
+      "part": 4,
+      "startTime": 1235.37,
+      "endTime": 1270.08,
+      "text": "All other things being equal, patients with bedside windows looking out on leafy trees healed, on average, a day faster than those looking at a wall and they needed significantly less pain medication and had fewer complications after their surgery. In fact, at the time, studies carried out in Europe showed that the conditions in hospital can have serious physical consequences.",
+      "segmentIds": [
+        "seg-163",
+        "seg-164",
+        "seg-165"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-055",
+      "part": 4,
+      "startTime": 1270.08,
+      "endTime": 1299.54,
+      "text": "These studies showed that hospitals contributed to people's levels of stress. Fortunately, as the evidence implicating hospitals increased, the amount of data suggesting that gardens can encourage healing grew too. According to various studies of healthy people, just three to five minutes spent looking at views of trees,",
+      "segmentIds": [
+        "seg-166",
+        "seg-167",
+        "seg-168"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1299.54,
+      "endTime": 1321.82,
+      "text": "flowers or water can begin to reduce anger and pain and to increase relaxation. This is shown in physiological changes in electrical activity, most obviously in the heart. Now, it's important for me to state clearly that gardens can't cure you,",
+      "segmentIds": [
+        "seg-169",
+        "seg-170",
+        "seg-171"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-057",
+      "part": 4,
+      "startTime": 1321.82,
+      "endTime": 1361.31,
+      "text": "but there's good evidence they can reduce your levels of pain and by doing that, boost your immune system in ways that help you heal. Importantly, as research into this field has grown, it has shown that not all gardens are equally effective in the healing process. In 1995, Marcus Cooper and landscape architect Mark Bennett analysed the physical layout of several hospital gardens and carried out observations of their daily use.",
+      "segmentIds": [
+        "seg-172",
+        "seg-173",
+        "seg-174"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-058",
+      "part": 4,
+      "startTime": 1361.31,
+      "endTime": 1385.8,
+      "text": "They then conducted interviews with the people who use the gardens and they discovered that the users mostly visited gardens looking to relax and recover from mental and physical tiredness. They also found that what people liked most were gardens that had a fountain.",
+      "segmentIds": [
+        "seg-175",
+        "seg-176"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-059",
+      "part": 4,
+      "startTime": 1385.8,
+      "endTime": 1412.86,
+      "text": "These results are consistent with Schwartz's findings of the healing power of a window view and also correspond with the theories of evolutionary biologists that people prefer views that are similar to the fields where humans evolved. What you can do in the gardens is important as what you see.",
+      "segmentIds": [
+        "seg-177",
+        "seg-178"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-060",
+      "part": 4,
+      "startTime": 1412.86,
+      "endTime": 1443.98,
+      "text": "The results of behavioural map studies in which researchers observe visitors' actions while in a garden suggested gardens need several different things to be effective. They need to provide areas for private conversations, flat shady paths that people would like to walk along and that won't trip wheelchairs. That's important in hospitals.",
+      "segmentIds": [
+        "seg-179",
+        "seg-180",
+        "seg-181"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-061",
+      "part": 4,
+      "startTime": 1443.98,
+      "endTime": 1470.59,
+      "text": "Another thing that researchers found was that people also wanted somewhere to rest so lightweight furniture that can be placed in the shade or sun with a minimum amount of effort was important. And lastly, they also wanted naturalistic landscaping that would also bring birds into the area.",
+      "segmentIds": [
+        "seg-182",
+        "seg-183"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-062",
+      "part": 4,
+      "startTime": 1470.59,
+      "endTime": 1499.13,
+      "text": "Of course hospitals have patients from a wide range of age groups and it's been found that while different generations seem to value the same things in gardens some differences in preferences have turned up too. Middle-aged adults look for peace and quiet while older adults are more likely to seek stimulation.",
+      "segmentIds": [
+        "seg-184",
+        "seg-185"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-063",
+      "part": 4,
+      "startTime": 1499.13,
+      "endTime": 1537.34,
+      "text": "At one residence for seniors the researchers noticed that every afternoon the elderly residents would sit at the front of the building so they felt that they were active members of society by talking to people passing by. To help ensure that outdoor areas promote as much healing as possible gardens should be planned taking science and aesthetic design into account. The implications... That is the end of part four.",
+      "segmentIds": [
+        "seg-186",
+        "seg-187",
+        "seg-188"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-064",
+      "part": 4,
+      "startTime": 1537.34,
+      "endTime": 1553.54,
+      "text": "You now have one minute to check your answers to part four. That is the end of the listening test. You now have 10 minutes to transfer your answers to the listening answer sheet.",
+      "segmentIds": [
+        "seg-189",
+        "seg-190",
+        "seg-191"
+      ],
+      "timestampSource": "estimated"
+    }
+  ]
+}

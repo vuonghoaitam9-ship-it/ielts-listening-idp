@@ -1,0 +1,3638 @@
+{
+  "id": "vol-7-test-10",
+  "vol": 7,
+  "testNumber": 10,
+  "title": "Vol 7 — Test 10",
+  "pdfUrl": "./data/vol-7/test-10/exam.pdf",
+  "pdfPages": 6,
+  "questionPageRange": [
+    1,
+    6
+  ],
+  "audioUrl": "./data/vol-7/test-10/audio.mp3",
+  "audioDurationSec": 1581.32,
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 0.0,
+      "endTime": 438.0,
+      "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 438.0,
+      "endTime": 824.0,
+      "topicHint": "You'll hear the warden of a nature trail talking to a group of people who are interested in hiking on the trail. First, you have some time to look at questions 11 to 14."
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 824.0,
+      "endTime": 1264.0,
+      "topicHint": "You will hear two business administration students called Pam and Jason discussing their project with their professor."
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1264.0,
+      "endTime": 1577.0,
+      "topicHint": "Section 4 (Questions 31-40)"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "rk Address: 15 Hill Street Contact information o Name: Sally 1…….. o phone: 027 584 6613 Kitchen o needs a bigger window o the kitchen is too hot – fit a 2……….. Bathroom o put in a 3……… on the back wall o decide the 4……… of the small tiles later Outside o put a higher 5………. in the garden o put a new 6………… on the garage d",
+      "answerRaw": "Keyworth",
+      "canonicalAnswer": "Keyworth",
+      "acceptedAnswers": [
+        "Keyworth"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "SALLY Well, at this time of year, I mean, I shouldn't complain really, but I wish it wasn't so hot in here. Is there anything you can do about that? KEYWORTH Air conditioning? SALLY It's too expensive.",
+      "evidenceStartTime": 157.85,
+      "evidenceEndTime": 168.81,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Keyworth\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "hen o needs a bigger window o the kitchen is too hot – fit a 2……….. Bathroom o put in a 3……… on the back wall o decide the 4……… of the small tiles later Outside o put a higher 5………. in the garden o put a new 6………… on the garage door o fix the roof – it was damaged by a 7………….. o fit a new rain gutter made of 8……….. Other",
+      "answerRaw": "fan",
+      "canonicalAnswer": "fan",
+      "acceptedAnswers": [
+        "fan"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "KEYWORTH How about a fan then? SALLY Yes, that would be perfect. KEYWORTH Righto.",
+      "evidenceStartTime": 168.81,
+      "evidenceEndTime": 173.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"fan\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "o the kitchen is too hot – fit a 2……….. Bathroom o put in a 3……… on the back wall o decide the 4……… of the small tiles later Outside o put a higher 5………. in the garden o put a new 6………… on the garage door o fix the roof – it was damaged by a 7………….. o fit a new rain gutter made of 8……….. Other information o start date:",
+      "answerRaw": "shower",
+      "canonicalAnswer": "shower",
+      "acceptedAnswers": [
+        "shower"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "So I thought here, on the back wall, I'd like you to fit a shower.",
+      "evidenceStartTime": 182.73,
+      "evidenceEndTime": 187.0,
+      "paraphrases": [],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"shower\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "……….. Bathroom o put in a 3……… on the back wall o decide the 4……… of the small tiles later Outside o put a higher 5………. in the garden o put a new 6………… on the garage door o fix the roof – it was damaged by a 7………….. o fit a new rain gutter made of 8……….. Other information o start date: 9……….. o security code: 10……….",
+      "answerRaw": "colour,color",
+      "canonicalAnswer": "colour",
+      "acceptedAnswers": [
+        "colour",
+        "color"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But do I have to choose a colour now? KEYWORTH You can do that later.",
+      "evidenceStartTime": 206.0,
+      "evidenceEndTime": 210.88,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"colour\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "ide the 4……… of the small tiles later Outside o put a higher 5………. in the garden o put a new 6………… on the garage door o fix the roof – it was damaged by a 7………….. o fit a new rain gutter made of 8……….. Other information o start date: 9……….. o security code: 10……….",
+      "answerRaw": "gate",
+      "canonicalAnswer": "gate",
+      "acceptedAnswers": [
+        "gate"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And the fence looks in good condition. SALLY Yes, it's new. But the thing is the gate.",
+      "evidenceStartTime": 267.0,
+      "evidenceEndTime": 271.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"gate\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "later Outside o put a higher 5………. in the garden o put a new 6………… on the garage door o fix the roof – it was damaged by a 7………….. o fit a new rain gutter made of 8……….. Other information o start date: 9……….. o security code: 10……….",
+      "answerRaw": "lock",
+      "canonicalAnswer": "lock",
+      "acceptedAnswers": [
+        "lock"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Um, the door should be fine, but the lock. I'll replace that, shall I? SALLY Yes, thanks.",
+      "evidenceStartTime": 285.64,
+      "evidenceEndTime": 292.52,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"lock\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "………… on the garage door o fix the roof – it was damaged by a 7………….. o fit a new rain gutter made of 8……….. Other information o start date: 9……….. o security code: 10……….",
+      "answerRaw": "storm",
+      "canonicalAnswer": "storm",
+      "acceptedAnswers": [
+        "storm"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "NARRATOR Did that happen in the storm a couple of weeks ago? SALLY Yes, that's right.",
+      "evidenceStartTime": 297.34,
+      "evidenceEndTime": 302.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"storm\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "it was damaged by a 7………….. o fit a new rain gutter made of 8……….. Other information o start date: 9……….. o security code: 10……….",
+      "answerRaw": "plastic",
+      "canonicalAnswer": "plastic",
+      "acceptedAnswers": [
+        "plastic"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "SALLY No, plastic will be fine, thanks. It's cheaper. NARRATOR OK.",
+      "evidenceStartTime": 318.0,
+      "evidenceEndTime": 321.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"plastic\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "w rain gutter made of 8……….. Other information o start date: 9……….. o security code: 10……….",
+      "answerRaw": "May 8th/8 May",
+      "canonicalAnswer": "May 8th",
+      "acceptedAnswers": [
+        "May 8th",
+        "8 May"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "NARRATOR Well, I'm completely booked all April, and I've got a job on May the 5th.",
+      "evidenceStartTime": 328.93,
+      "evidenceEndTime": 334.5,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"May 8th\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "…….. Other information o start date: 9……….. o security code: 10……….",
+      "answerRaw": "AG4176",
+      "canonicalAnswer": "AG4176",
+      "acceptedAnswers": [
+        "AG4176"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "SALLY We have a security code. I'll give you that. It's a mix of letters and numbers.",
+      "evidenceStartTime": 341.97,
+      "evidenceEndTime": 350.23,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"AG4176\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "ose the correct answer. The McFaddin hiking and nature trail 11 All entry points along the trail A provide secure parking facilities from cars. B are within easy access from public roads. C have a regular shuttle bus service. 12 Which facilities at the trail rest stations has been added as a result of a user survey? A ele",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You can hike the whole length of the trail or just a couple of miles because there are 20 entry points along the trail,",
+      "evidenceStartTime": 498.0,
+      "evidenceEndTime": 507.1,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "ess from public roads. C have a regular shuttle bus service. 12 Which facilities at the trail rest stations has been added as a result of a user survey? A electric recharge points B picnic areas C maps and other information On the Red Rock Walk, hikers are easily able to A see many different plants. B enjoy spectacular sc",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "For hikers coming from Johnson City, there's a shuttle bus to each of the two end points every morning and evening.",
+      "evidenceStartTime": 510.62,
+      "evidenceEndTime": 519.42,
+      "paraphrases": [
+        {
+          "questionTerm": "bus",
+          "audioTerm": "shuttle"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'bus' ↔ 'shuttle'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "At one-mile intervals along the trail, there are rest stations providing picnic areas,",
+      "evidenceStartTime": 527.0,
+      "evidenceEndTime": 533.67,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "spectacular scenic views. C identify a wide range of birds. 14 What does the speaker say about the River Walk in wintertime? A There are not many other walkers in the area. B The area does not get much ice and snow. C It may not be possible to use this section of the trail. Questions 15–20 Which information is given abou",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "we've recently installed kiosks at each rest station with clear, easy-to-follow maps and other trail information.",
+      "evidenceStartTime": 542.75,
+      "evidenceEndTime": 551.51,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "s 15-20. Information Facilities at the hostel dormitory beds 15…….. family rooms 16…….. clothes washing 17……….. meals 18………. hot showers 19………. bicycle rental 20…………. A only at weekends B voluntary donation expected C not yet available D help from guests requested E provided free F advance booking required G new equipment",
+      "answerRaw": "H first-come-first-served",
+      "canonicalAnswer": "H",
+      "acceptedAnswers": [
+        "H",
+        "H first-come-first-served",
+        "first-come-first-served"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It has a range of facilities available to help make your walking experience memorable.",
+      "evidenceStartTime": 667.5,
+      "evidenceEndTime": 675.0,
+      "paraphrases": [
+        {
+          "questionTerm": "free",
+          "audioTerm": "available"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án H first-come-first-served. Diễn đạt tương đương (paraphrase) giữa đề và audio: 'free' ↔ 'available'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "Facilities at the hostel dormitory beds 15…….. family rooms 16…….. clothes washing 17……….. meals 18………. hot showers 19………. bicycle rental 20…………. A only at weekends B voluntary donation expected C not yet available D help from guests requested E provided free F advance booking required G new equipment H available on firs",
+      "answerRaw": "F advance booking required",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F",
+        "F advance booking required",
+        "advance booking required"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Unfortunately, we found that pre-booking beds just didn't work, so now we allocate them as people arrive,",
+      "evidenceStartTime": 689.4,
+      "evidenceEndTime": 697.09,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án F advance booking required. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "el dormitory beds 15…….. family rooms 16…….. clothes washing 17……….. meals 18………. hot showers 19………. bicycle rental 20…………. A only at weekends B voluntary donation expected C not yet available D help from guests requested E provided free F advance booking required G new equipment H available on first-come-first-served bas",
+      "answerRaw": "G new equipment",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G",
+        "G new equipment",
+        "new equipment"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Unfortunately, we found that pre-booking beds just didn't work, so now we allocate them as people arrive,",
+      "evidenceStartTime": 689.4,
+      "evidenceEndTime": 697.09,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án G new equipment. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "eds 15…….. family rooms 16…….. clothes washing 17……….. meals 18………. hot showers 19………. bicycle rental 20…………. A only at weekends B voluntary donation expected C not yet available D help from guests requested E provided free F advance booking required G new equipment H available on first-come-first-served basic I special r",
+      "answerRaw": "D help from guests",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D",
+        "D help from guests",
+        "help from guests"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "but we have extra cots and sleeping bags to help with any overflow.",
+      "evidenceStartTime": 697.09,
+      "evidenceEndTime": 702.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án D help from guests. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "ooms 16…….. clothes washing 17……….. meals 18………. hot showers 19………. bicycle rental 20…………. A only at weekends B voluntary donation expected C not yet available D help from guests requested E provided free F advance booking required G new equipment H available on first-come-first-served basic I special rate for children",
+      "answerRaw": "E provided free",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E provided free",
+        "provided free"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We have plenty of showers and unlimited hot water available, so you can have this luxury at no charge and you can enjoy it as long as you like.",
+      "evidenceStartTime": 762.13,
+      "evidenceEndTime": 772.6,
+      "paraphrases": [
+        {
+          "questionTerm": "free",
+          "audioTerm": "no charge"
+        },
+        {
+          "questionTerm": "free",
+          "audioTerm": "available"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E provided free. Diễn đạt tương đương (paraphrase) giữa đề và audio: 'free' ↔ 'no charge'; 'free' ↔ 'available'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "shing 17……….. meals 18………. hot showers 19………. bicycle rental 20…………. A only at weekends B voluntary donation expected C not yet available D help from guests requested E provided free F advance booking required G new equipment H available on first-come-first-served basic I special rate for children",
+      "answerRaw": "C not yet available",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C",
+        "C not yet available",
+        "not yet available"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We have plenty of showers and unlimited hot water available, so you can have this luxury at no charge and you can enjoy it as long as you like.",
+      "evidenceStartTime": 762.13,
+      "evidenceEndTime": 772.6,
+      "paraphrases": [
+        {
+          "questionTerm": "free",
+          "audioTerm": "no charge"
+        },
+        {
+          "questionTerm": "free",
+          "audioTerm": "available"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án C not yet available. Diễn đạt tương đương (paraphrase) giữa đề và audio: 'free' ↔ 'no charge'; 'free' ↔ 'available'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "se the correct answer. A marketing project on food packaging 21 What do Pam and Jason primarily hope to learn more about from their project? A maximizing profits B minimizing environmental damage C meeting legal requirements 22 Which issue about packaging do Pam and Jason feel is most important to food shoppers today? A p",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Now you've decided to look specifically at the packaging of food, what do you think the main issue is for shoppers these days?",
+      "evidenceStartTime": 906.34,
+      "evidenceEndTime": 914.84,
+      "paraphrases": [
+        {
+          "questionTerm": "important",
+          "audioTerm": "main"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'important' ↔ 'main'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "minimizing environmental damage C meeting legal requirements 22 Which issue about packaging do Pam and Jason feel is most important to food shoppers today? A providing information about contents B extending the useful life of products C reducing excess waste from packaging 23 Why have Pam and Jason decided to concentrate",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Now you've decided to look specifically at the packaging of food, what do you think the main issue is for shoppers these days?",
+      "evidenceStartTime": 906.34,
+      "evidenceEndTime": 914.84,
+      "paraphrases": [
+        {
+          "questionTerm": "important",
+          "audioTerm": "main"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'important' ↔ 'main'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "eful life of products C reducing excess waste from packaging 23 Why have Pam and Jason decided to concentrate specifically on large supermarkets? A They are the subjects of previously published studies. B They are the most profitable food retail businesses. C They will offer good opportunities for interviews. 24 The profe",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But in the current economic climate, Pam and I think people are most interested in packaging that helps keep food fresh for longer.",
+      "evidenceStartTime": 935.0,
+      "evidenceEndTime": 943.16,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "nesses. C They will offer good opportunities for interviews. 24 The professor says that the local population has unusual food- shopping habits because of A its range of nationalities B its high education level C its young age 25 According to the literature, what influences food shoppers most? A taste B price C health bene",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But in the current economic climate, Pam and I think people are most interested in packaging that helps keep food fresh for longer.",
+      "evidenceStartTime": 935.0,
+      "evidenceEndTime": 943.16,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "of nationalities B its high education level C its young age 25 According to the literature, what influences food shoppers most? A taste B price C health benefits Questions 26–30 What action do Pam and Jason agree to take for each of the following aspects of their experiment? Choose FIVE correct answers, A-G, next to ques",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But in the current economic climate, Pam and I think people are most interested in packaging that helps keep food fresh for longer.",
+      "evidenceStartTime": 935.0,
+      "evidenceEndTime": 943.16,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "ts of the experiment the number of different designs offered 26……….. the sample size of students 27……….. how to display the packages 28………. finding the reasons for students' choices 29……….. analysis of data collected 30……….. A refer to course notes B widen the choice C use more colours D allow for more time E ask for help",
+      "answerRaw": "B widen the choice",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B",
+        "B widen the choice",
+        "widen the choice"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Of course, the supermarkets do account for most food sales around here, but that wasn't our reason for choosing them. Speaking of this area, you know the food buying choices here are quite unusual.",
+      "evidenceStartTime": 969.0,
+      "evidenceEndTime": 981.53,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án B widen the choice. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "ifferent designs offered 26……….. the sample size of students 27……….. how to display the packages 28………. finding the reasons for students' choices 29……….. analysis of data collected 30……….. A refer to course notes B widen the choice C use more colours D allow for more time E ask for help F design a questionnaire G plan for",
+      "answerRaw": "E ask for help",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E ask for help",
+        "ask for help"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We're going to ask each student to choose the one design they think is best.",
+      "evidenceStartTime": 1151.0,
+      "evidenceEndTime": 1156.32,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E ask for help. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "sample size of students 27……….. how to display the packages 28………. finding the reasons for students' choices 29……….. analysis of data collected 30……….. A refer to course notes B widen the choice C use more colours D allow for more time E ask for help F design a questionnaire G plan for oral interviews",
+      "answerRaw": "A refer to notes",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A",
+        "A refer to notes",
+        "refer to notes"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We're going to ask each student to choose the one design they think is best.",
+      "evidenceStartTime": 1151.0,
+      "evidenceEndTime": 1156.32,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án A refer to notes. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "he packages 28………. finding the reasons for students' choices 29……….. analysis of data collected 30……….. A refer to course notes B widen the choice C use more colours D allow for more time E ask for help F design a questionnaire G plan for oral interviews",
+      "answerRaw": "F design questionnaire",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F",
+        "F design questionnaire",
+        "design questionnaire"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We're going to ask each student to choose the one design they think is best.",
+      "evidenceStartTime": 1151.0,
+      "evidenceEndTime": 1156.32,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án F design questionnaire. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "ons for students' choices 29……….. analysis of data collected 30……….. A refer to course notes B widen the choice C use more colours D allow for more time E ask for help F design a questionnaire G plan for oral interviews",
+      "answerRaw": "D allow more time",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D",
+        "D allow more time",
+        "allow more time"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We're going to ask each student to choose the one design they think is best.",
+      "evidenceStartTime": 1151.0,
+      "evidenceEndTime": 1156.32,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án D allow more time. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "is as significant as the discovery of how to create and use 31………… . Computer will be seen as being 32……….. . Psychology Research will become much more 33…………… , and also more practical since more 34…………… will be working in the field. Imaging devices will give information about the behaviour of the 35……….. . Genetics Wit",
+      "answerRaw": "fire",
+      "canonicalAnswer": "fire",
+      "acceptedAnswers": [
+        "fire"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It could indeed be considered as being as momentous a development as when our predecessors in caves first learned to make fire and use it for all sorts of purposes.",
+      "evidenceStartTime": 1295.0,
+      "evidenceEndTime": 1307.49,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"fire\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "ow to create and use 31………… . Computer will be seen as being 32……….. . Psychology Research will become much more 33…………… , and also more practical since more 34…………… will be working in the field. Imaging devices will give information about the behaviour of the 35……….. . Genetics With increased life expectancy, it is impor",
+      "answerRaw": "intelligent",
+      "canonicalAnswer": "intelligent",
+      "acceptedAnswers": [
+        "intelligent"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There was considerable agreement that people will increasingly perceive these computer systems as intelligent.",
+      "evidenceStartTime": 1333.0,
+      "evidenceEndTime": 1340.84,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"intelligent\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "as being 32……….. . Psychology Research will become much more 33…………… , and also more practical since more 34…………… will be working in the field. Imaging devices will give information about the behaviour of the 35……….. . Genetics With increased life expectancy, it is important to consider the 36…………. of elderly people’s liv",
+      "answerRaw": "varied",
+      "canonicalAnswer": "varied",
+      "acceptedAnswers": [
+        "varied"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Their key point was that psychological research would inevitably become increasingly varied.",
+      "evidenceStartTime": 1367.0,
+      "evidenceEndTime": 1373.83,
+      "paraphrases": [
+        {
+          "questionTerm": "important",
+          "audioTerm": "key"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"varied\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'important' ↔ 'key'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "ecome much more 33…………… , and also more practical since more 34…………… will be working in the field. Imaging devices will give information about the behaviour of the 35……….. . Genetics With increased life expectancy, it is important to consider the 36…………. of elderly people’s lives. Knowledge of a person’s genome will indic",
+      "answerRaw": "women",
+      "canonicalAnswer": "women",
+      "acceptedAnswers": [
+        "women"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There is likely to be further expansion into domains with more practical relevance as increasing numbers of women become research scientists,",
+      "evidenceStartTime": 1379.62,
+      "evidenceEndTime": 1390.09,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"women\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "ing devices will give information about the behaviour of the 35……….. . Genetics With increased life expectancy, it is important to consider the 36…………. of elderly people’s lives. Knowledge of a person’s genome will indicate whether they are likely to be affected by a 37…………. . The approach to treatment will be on an incre",
+      "answerRaw": "brain",
+      "canonicalAnswer": "brain",
+      "acceptedAnswers": [
+        "brain"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They will be assisted in this by imaging devices that will be inserted into the brain and provide a great deal of information about how it behaves.",
+      "evidenceStartTime": 1408.3,
+      "evidenceEndTime": 1418.89,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"brain\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "h increased life expectancy, it is important to consider the 36…………. of elderly people’s lives. Knowledge of a person’s genome will indicate whether they are likely to be affected by a 37…………. . The approach to treatment will be on an increasingly 38……….. basis. Zoology People can explore the world via satellite. For exam",
+      "answerRaw": "quality",
+      "canonicalAnswer": "quality",
+      "acceptedAnswers": [
+        "quality"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "However, today geneticists emphasize that it is vital that the increasing number of the elderly in society must take quality of life into account.",
+      "evidenceStartTime": 1442.84,
+      "evidenceEndTime": 1454.0,
+      "paraphrases": [
+        {
+          "questionTerm": "important",
+          "audioTerm": "vital"
+        }
+      ],
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"quality\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'important' ↔ 'vital'. Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "me will indicate whether they are likely to be affected by a 37…………. . The approach to treatment will be on an increasingly 38……….. basis. Zoology People can explore the world via satellite. For example, it is possible to see the effects of the destruction of 39………. in East Africa. Such increased awareness should enable u",
+      "answerRaw": "disease",
+      "canonicalAnswer": "disease",
+      "acceptedAnswers": [
+        "disease"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "This information about our DNA enables health care providers to predict our likelihood of suffering from any particular disease.",
+      "evidenceStartTime": 1465.44,
+      "evidenceEndTime": 1475.4,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"disease\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "…………. . The approach to treatment will be on an increasingly 38……….. basis. Zoology People can explore the world via satellite. For example, it is possible to see the effects of the destruction of 39………. in East Africa. Such increased awareness should enable us to do more to look after the 40………… .",
+      "answerRaw": "personal",
+      "canonicalAnswer": "personal",
+      "acceptedAnswers": [
+        "personal"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "and the current one-size-fits-all approach to health care will give way to a more personal approach.",
+      "evidenceStartTime": 1492.94,
+      "evidenceEndTime": 1500.66,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"personal\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "ple, it is possible to see the effects of the destruction of 39………. in East Africa. Such increased awareness should enable us to do more to look after the 40………… .",
+      "answerRaw": "forests",
+      "canonicalAnswer": "forests",
+      "acceptedAnswers": [
+        "forests"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It is now possible, for instance, to go online and see for yourself the abundant wildlife in one part of East Africa and in the surrounding region the harm people have done by destroying the forests, all supposedly in the name of development.",
+      "evidenceStartTime": 1525.75,
+      "evidenceEndTime": 1543.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"forests\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "ased awareness should enable us to do more to look after the 40………… .",
+      "answerRaw": "planet",
+      "canonicalAnswer": "planet",
+      "acceptedAnswers": [
+        "planet"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They hope that we will learn to connect our minds to our hearts and apply this new knowledge to help protect our planet.",
+      "evidenceStartTime": 1551.78,
+      "evidenceEndTime": 1560.09,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"planet\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 11.01,
+      "text": "IELTS Listening Version 53997 You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 11.01,
+      "endTime": 20.36,
+      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 20.36,
+      "endTime": 24.0,
+      "text": "All the recordings will be played once only.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 26.0,
+      "endTime": 32.0,
+      "text": "The test is in four parts. Write all your answers in the listening question booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 32.0,
+      "endTime": 39.0,
+      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 41.0,
+      "endTime": 50.76,
+      "text": "Now turn to Part 1 on page 2 of your question booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 50.76,
+      "endTime": 69.02,
+      "text": "Part 1 You will hear a woman talking to a builder who is going to do some building work at her house.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 69.02,
+      "endTime": 78.6,
+      "text": "First you have some time to look at questions 1 to 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 78.6,
+      "endTime": 87.46,
+      "text": "Now listen carefully and answer questions 1 to 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 87.46,
+      "endTime": 90.0,
+      "text": "SALLY Morning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 91.0,
+      "endTime": 93.0,
+      "text": "Thanks for coming round. I'm Sally. KEYWORTH Morning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 94.0,
+      "endTime": 100.83,
+      "text": "Um, so just before we get started, I'll just make a few notes. So, um, we're at 15 Hill Street?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 100.83,
+      "endTime": 104.0,
+      "text": "SALLY Yes, that's right. KEYWORTH OK, great.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 104.0,
+      "endTime": 109.13,
+      "text": "And then I need to write down your contact information. Just for the office, you know.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 109.13,
+      "endTime": 113.0,
+      "text": "So first, what's your surname please, Sally? SALLY It's Keyworth.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 113.0,
+      "endTime": 117.08,
+      "text": "I'll spell that. K-E-Y-W-O-R-T-H.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 117.08,
+      "endTime": 124.0,
+      "text": "KEYWORTH And your phone number, I've got that somewhere.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 124.0,
+      "endTime": 127.52,
+      "text": "Yes, 027 584 6613. SALLY That's right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 127.52,
+      "endTime": 133.92,
+      "text": "KEYWORTH OK Sally, so what building work would you like to have done?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 133.92,
+      "endTime": 138.0,
+      "text": "SALLY Well, let's go into the kitchen first.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 139.0,
+      "endTime": 141.66,
+      "text": "So, you see, it's quite dark in here.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 141.66,
+      "endTime": 147.48,
+      "text": "We've tried having a few lights fitted, but it hasn't really made any difference.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 147.48,
+      "endTime": 151.0,
+      "text": "So what we've decided is the window is too small.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 151.0,
+      "endTime": 154.51,
+      "text": "We'd like a larger one. KEYWORTH That shouldn't be a problem.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 154.51,
+      "endTime": 157.85,
+      "text": "And is there anything else you'd like done in the kitchen?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 157.85,
+      "endTime": 164.0,
+      "text": "SALLY Well, at this time of year, I mean, I shouldn't complain really, but I wish it wasn't so hot in here.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 164.0,
+      "endTime": 168.81,
+      "text": "Is there anything you can do about that? KEYWORTH Air conditioning? SALLY It's too expensive.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 168.81,
+      "endTime": 173.0,
+      "text": "KEYWORTH How about a fan then? SALLY Yes, that would be perfect. KEYWORTH Righto.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 174.0,
+      "endTime": 178.72,
+      "text": "And what's next, Sally? SALLY Well, if we walk through into the bathroom.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 178.72,
+      "endTime": 182.73,
+      "text": "The thing is, when my father's staying, he can't use the bath.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 182.73,
+      "endTime": 187.0,
+      "text": "So I thought here, on the back wall, I'd like you to fit a shower.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 187.0,
+      "endTime": 189.54,
+      "text": "Is that possible? KEYWORTH Shouldn't be too hard.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 189.54,
+      "endTime": 194.0,
+      "text": "I'll get you some brochures, because there are a few ways of doing that. SALLY Thanks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 195.0,
+      "endTime": 199.41,
+      "text": "KEYWORTH Now, those tiles on the wall look new. So do you want to keep those?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 199.41,
+      "endTime": 203.53,
+      "text": "SALLY Yes, the tiles are new, but actually my husband doesn't like them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 203.53,
+      "endTime": 206.0,
+      "text": "We want to change to those very small ones.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 206.0,
+      "endTime": 210.88,
+      "text": "But do I have to choose a colour now? KEYWORTH You can do that later.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 210.88,
+      "endTime": 213.71,
+      "text": "I'll get some charts for you to look at.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 213.71,
+      "endTime": 221.0,
+      "text": "NARRATOR Before you hear the rest of the conversation, you have some time to look at questions 5 to 10.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 251.0,
+      "endTime": 258.79,
+      "text": "Now listen and answer questions 5 to 10. SALLY Now, the last thing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 258.79,
+      "endTime": 261.0,
+      "text": "Let's walk outside.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 261.0,
+      "endTime": 266.0,
+      "text": "I need to show you some things outside the house. NARRATOR Right-o. Ooh, nice garden.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 267.0,
+      "endTime": 271.0,
+      "text": "And the fence looks in good condition. SALLY Yes, it's new. But the thing is the gate.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 272.0,
+      "endTime": 276.0,
+      "text": "It's too low. You have to bend down to open it. We need something that's higher.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 276.0,
+      "endTime": 281.0,
+      "text": "NARRATOR Right. I'll see to that. SALLY Then the other thing is the garage here.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 281.0,
+      "endTime": 285.64,
+      "text": "We had a break-in, actually. NARRATOR Ah, yeah, I can see.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 285.64,
+      "endTime": 289.0,
+      "text": "Um, the door should be fine, but the lock.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 290.0,
+      "endTime": 292.52,
+      "text": "I'll replace that, shall I? SALLY Yes, thanks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 292.52,
+      "endTime": 297.34,
+      "text": "Then also, if you step back here and look up on the roof, you can see that it's damaged.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 297.34,
+      "endTime": 302.0,
+      "text": "NARRATOR Did that happen in the storm a couple of weeks ago? SALLY Yes, that's right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 302.0,
+      "endTime": 304.78,
+      "text": "NARRATOR I'll get up there and take a look at that then.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 1,
+      "startTime": 304.78,
+      "endTime": 309.0,
+      "text": "It might be quite a big job, but I'll get back to you once I've had a look. SALLY OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 1,
+      "startTime": 309.0,
+      "endTime": 313.55,
+      "text": "NARRATOR I can see that your rain gutter is broken as well. SALLY Can you fix that?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 1,
+      "startTime": 313.55,
+      "endTime": 318.0,
+      "text": "NARRATOR Well, I'll need to replace it, maybe with a steel one. It'd be stronger.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 1,
+      "startTime": 318.0,
+      "endTime": 321.0,
+      "text": "SALLY No, plastic will be fine, thanks. It's cheaper. NARRATOR OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 1,
+      "startTime": 322.0,
+      "endTime": 327.3,
+      "text": "SALLY And that's everything, I think. Is there any other information you need?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 1,
+      "startTime": 327.3,
+      "endTime": 328.93,
+      "text": "What about a start date?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 1,
+      "startTime": 328.93,
+      "endTime": 334.5,
+      "text": "NARRATOR Well, I'm completely booked all April, and I've got a job on May the 5th.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 1,
+      "startTime": 334.5,
+      "endTime": 336.0,
+      "text": "That'll be a few days.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 1,
+      "startTime": 336.0,
+      "endTime": 341.97,
+      "text": "So, let's say May the 8th. SALLY OK. NARRATOR Now, what about a key, in case you're out?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 1,
+      "startTime": 341.97,
+      "endTime": 344.0,
+      "text": "SALLY We have a security code.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 1,
+      "startTime": 344.0,
+      "endTime": 350.23,
+      "text": "I'll give you that. It's a mix of letters and numbers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 1,
+      "startTime": 350.23,
+      "endTime": 353.0,
+      "text": "The code is A-G-4-1-7-6.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 1,
+      "startTime": 354.0,
+      "endTime": 366.0,
+      "text": "NARRATOR Got that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 1,
+      "startTime": 366.0,
+      "endTime": 383.33,
+      "text": "OK, we'll organise some...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 1,
+      "startTime": 383.33,
+      "endTime": 400.66,
+      "text": "That is the end of Part 1.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 1,
+      "startTime": 400.66,
+      "endTime": 438.0,
+      "text": "You now have one minute to check your answers to Part 1.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 2,
+      "startTime": 438.0,
+      "endTime": 458.0,
+      "text": "You'll hear the warden of a nature trail talking to a group of people who are interested in hiking on the trail.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 2,
+      "startTime": 458.0,
+      "endTime": 468.0,
+      "text": "First, you have some time to look at questions 11 to 14.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 2,
+      "startTime": 468.0,
+      "endTime": 474.69,
+      "text": "Now listen carefully and answer questions 11 to 14. Good morning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 2,
+      "startTime": 474.69,
+      "endTime": 482.0,
+      "text": "I'm Susan Meyer, Trail Warden for the McFadden Hiking and Nature Trail.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 2,
+      "startTime": 483.0,
+      "endTime": 486.28,
+      "text": "Let me tell you a bit about the trail.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 2,
+      "startTime": 486.28,
+      "endTime": 491.21,
+      "text": "The trail is 25 miles long, running roughly east to west.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 491.21,
+      "endTime": 497.0,
+      "text": "To hike it, you may start at either end of the trail or in between.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 498.0,
+      "endTime": 507.1,
+      "text": "You can hike the whole length of the trail or just a couple of miles because there are 20 entry points along the trail,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 507.1,
+      "endTime": 510.62,
+      "text": "each connected to public roads by short paths.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 510.62,
+      "endTime": 519.42,
+      "text": "For hikers coming from Johnson City, there's a shuttle bus to each of the two end points every morning and evening.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 519.42,
+      "endTime": 526.0,
+      "text": "And four of the entry points have a free car park with television camera surveillance.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 527.0,
+      "endTime": 533.67,
+      "text": "At one-mile intervals along the trail, there are rest stations providing picnic areas,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 533.67,
+      "endTime": 539.41,
+      "text": "water, toilets, and places where you can recharge your electronic devices.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 539.41,
+      "endTime": 542.75,
+      "text": "In response to a poll of walkers last year,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 542.75,
+      "endTime": 551.51,
+      "text": "we've recently installed kiosks at each rest station with clear, easy-to-follow maps and other trail information.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 551.51,
+      "endTime": 555.0,
+      "text": "There are several distinct sections of trail.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 556.0,
+      "endTime": 564.28,
+      "text": "The Red Rock Walk offers a superb opportunity to study a huge variety of vegetation along the way.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 564.28,
+      "endTime": 569.52,
+      "text": "There's lots to look at, though you can't see great distances.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 569.52,
+      "endTime": 580.0,
+      "text": "Birds are actually hard to spot, but with a pair of binoculars and at certain times of day, you may see some rare varieties.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 582.0,
+      "endTime": 589.46,
+      "text": "The River Walk comprises about five miles of trail winding along the bank of the Malder River.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 589.46,
+      "endTime": 593.98,
+      "text": "Personally, I prefer this section of the trail in winter.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 593.98,
+      "endTime": 602.0,
+      "text": "The river does freeze over, and the snow can accumulate, but that doesn't always discourage visitors.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 603.0,
+      "endTime": 612.18,
+      "text": "Sometimes, though, if the weather conditions are really unsuitable, we might have to close this walk to the public.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 612.18,
+      "endTime": 619.05,
+      "text": "But often it can get crowded with hikers who've discovered the attraction of the area.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 619.05,
+      "endTime": 626.0,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 15 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 656.0,
+      "endTime": 659.57,
+      "text": "Now listen and answer questions 15 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 659.57,
+      "endTime": 667.5,
+      "text": "Now let me tell you about the Halfway Hostel, located approximately midway along the trail.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 667.5,
+      "endTime": 675.0,
+      "text": "It has a range of facilities available to help make your walking experience memorable.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 676.0,
+      "endTime": 681.71,
+      "text": "Let me give you some information about the various facilities available there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 681.71,
+      "endTime": 689.4,
+      "text": "Of course, there are beds in dormitories for use at a very reasonable $7 per person weekdays or weekends.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 2,
+      "startTime": 689.4,
+      "endTime": 697.09,
+      "text": "Unfortunately, we found that pre-booking beds just didn't work, so now we allocate them as people arrive,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 2,
+      "startTime": 697.09,
+      "endTime": 702.0,
+      "text": "but we have extra cots and sleeping bags to help with any overflow.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 2,
+      "startTime": 703.0,
+      "endTime": 709.25,
+      "text": "There are two family rooms, accommodating six people each, with private bathrooms.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 2,
+      "startTime": 709.25,
+      "endTime": 719.69,
+      "text": "They're $35 per room, and for them you will need to make arrangements ahead of time, as they're very popular, especially at the weekends.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 2,
+      "startTime": 719.69,
+      "endTime": 727.0,
+      "text": "A popular facility that we've recently added is coin-operated washing machines for your clothes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 2,
+      "startTime": 728.0,
+      "endTime": 734.11,
+      "text": "You can get awfully wet and dirty if you're walking the trail in bad weather,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 2,
+      "startTime": 734.11,
+      "endTime": 741.33,
+      "text": "and since we got these machines, you can put on clean gear when you set out in the morning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 2,
+      "startTime": 741.33,
+      "endTime": 749.1,
+      "text": "The hostel serves two meals a day, breakfast at $4 and dinner at $8, the same for adults and kids.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 2,
+      "startTime": 749.1,
+      "endTime": 756.0,
+      "text": "There's always a vegetarian and a non-vegetarian option, depending on your preferences.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 2,
+      "startTime": 757.0,
+      "endTime": 762.13,
+      "text": "We do ask you to give a hand with serving and cleaning up after meals.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 2,
+      "startTime": 762.13,
+      "endTime": 772.6,
+      "text": "We have plenty of showers and unlimited hot water available, so you can have this luxury at no charge and you can enjoy it as long as you like.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 2,
+      "startTime": 772.6,
+      "endTime": 781.39,
+      "text": "Now, some people like to spend time on the trail on mountain bikes and maybe take a bit of a rest from all that walking,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 2,
+      "startTime": 781.39,
+      "endTime": 786.0,
+      "text": "and that's permitted as long as you observe basic safety rules.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 2,
+      "startTime": 787.0,
+      "endTime": 805.5,
+      "text": "The hostel's in the process of creating a bike rental scheme which should be up and running next year.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 2,
+      "startTime": 805.5,
+      "endTime": 813.84,
+      "text": "So, if you think... That is the end of Part 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 2,
+      "startTime": 813.84,
+      "endTime": 824.0,
+      "text": "You now have 30 seconds to check your answers to Part 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 3,
+      "startTime": 824.0,
+      "endTime": 847.74,
+      "text": "You will hear two business administration students called Pam and Jason discussing their project with their professor.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 3,
+      "startTime": 847.74,
+      "endTime": 859.0,
+      "text": "First, you have some time to look at questions 21 to 25.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 3,
+      "startTime": 859.0,
+      "endTime": 866.46,
+      "text": "Now listen carefully and answer questions 21 to 25. Hello, Pam, Jason.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 3,
+      "startTime": 866.46,
+      "endTime": 872.0,
+      "text": "Thanks for coming to discuss your marketing project.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 3,
+      "startTime": 873.0,
+      "endTime": 876.55,
+      "text": "I've read your proposal and outline, so let's go over it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 3,
+      "startTime": 876.55,
+      "endTime": 882.59,
+      "text": "You've chosen the topic of food packaging, so what did you want to get out of doing this project?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 3,
+      "startTime": 882.59,
+      "endTime": 890.12,
+      "text": "We decided if we did our project on packaging, we might find some practical tips on how a business could make more money.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 890.12,
+      "endTime": 896.47,
+      "text": "After all, we're business admin students and that's the ultimate reason we're on the course, isn't it?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 896.47,
+      "endTime": 901.39,
+      "text": "So, although we know the impact of packaging on the environment is important...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 901.39,
+      "endTime": 906.0,
+      "text": "We feel the government regulations are pretty strict already in that area.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 906.0,
+      "endTime": 906.34,
+      "text": "Okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 906.34,
+      "endTime": 914.84,
+      "text": "Now you've decided to look specifically at the packaging of food, what do you think the main issue is for shoppers these days?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 914.84,
+      "endTime": 924.35,
+      "text": "Some people get upset about the waste with all the plastic and stuff used to package food, but I guess most don't pay much attention to that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 924.35,
+      "endTime": 932.58,
+      "text": "A few years ago, people seemed concerned about packaging food so that buyers knew more about what it contains from labels,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 932.58,
+      "endTime": 935.0,
+      "text": "like calories, additives, and stuff.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 935.0,
+      "endTime": 943.16,
+      "text": "But in the current economic climate, Pam and I think people are most interested in packaging that helps keep food fresh for longer.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 943.16,
+      "endTime": 946.83,
+      "text": "And you've chosen to concentrate on big supermarket chains.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 946.83,
+      "endTime": 950.32,
+      "text": "Why not look at local stores or even convenience stores?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 950.32,
+      "endTime": 958.91,
+      "text": "Well, there are some interesting published studies based on small retail outlets and we looked at those, but after a little investigation,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 958.91,
+      "endTime": 968.0,
+      "text": "we found that the managers of the large supermarkets in this area wanted to be helpful and are willing to let us talk to them and their employees.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 969.0,
+      "endTime": 976.48,
+      "text": "Of course, the supermarkets do account for most food sales around here, but that wasn't our reason for choosing them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 976.48,
+      "endTime": 981.53,
+      "text": "Speaking of this area, you know the food buying choices here are quite unusual.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 981.53,
+      "endTime": 991.0,
+      "text": "Since we're in a university town, the population is quite young, but actually my research shows that age isn't the factor in making the area unique.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 991.0,
+      "endTime": 996.8,
+      "text": "And although the education level is pretty high, that doesn't seem very important either.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 996.8,
+      "endTime": 1004.35,
+      "text": "I guess it's because we got people from all over the world living here, with all the foreign students at university.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 1004.35,
+      "endTime": 1005.0,
+      "text": "That's it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 1005.0,
+      "endTime": 1008.51,
+      "text": "Our supermarkets cater for a huge diversity of cultures.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1008.51,
+      "endTime": 1015.22,
+      "text": "In our survey of the literature, I was struck by what shoppers say is most important to them when they buy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1015.22,
+      "endTime": 1022.0,
+      "text": "I would have thought how much the buyer had to pay would be the key, but that doesn't appear to be the case.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1022.0,
+      "endTime": 1026.97,
+      "text": "That's right. How delicious the buyer considers the product seems to be the main thing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1026.97,
+      "endTime": 1032.0,
+      "text": "Whether or not the food is good for you is pretty low down on the customer's priorities.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1033.0,
+      "endTime": 1037.97,
+      "text": "That's interesting.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1037.97,
+      "endTime": 1062.28,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 26 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1062.28,
+      "endTime": 1073.0,
+      "text": "Now listen and answer questions 26 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1076.0,
+      "endTime": 1079.47,
+      "text": "Let's discuss the practical experiment you're planning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1079.47,
+      "endTime": 1084.84,
+      "text": "You're going to design the box for a new breakfast cereal which you'll try to market.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1084.84,
+      "endTime": 1094.0,
+      "text": "Not in reality, of course, but by showing different designs to some of your fellow students on a computer, a kind of virtual reality supermarket.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1095.0,
+      "endTime": 1098.21,
+      "text": "And the students will choose the design that appeals most.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1098.21,
+      "endTime": 1101.47,
+      "text": "Let's talk through the experiment, okay? That'd be helpful.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1101.47,
+      "endTime": 1106.0,
+      "text": "Now, the number of different designs you're proposing to show each student is two.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 3,
+      "startTime": 1107.0,
+      "endTime": 1109.65,
+      "text": "If I were you, I'd make it at least four.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 3,
+      "startTime": 1109.65,
+      "endTime": 1114.96,
+      "text": "That way you can examine their reaction to more variety in the kinds of packaging.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 3,
+      "startTime": 1114.96,
+      "endTime": 1116.0,
+      "text": "Okay, good idea.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 3,
+      "startTime": 1117.0,
+      "endTime": 1123.69,
+      "text": "We do have several more designs. Now, we've got a sample from our class of about 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 3,
+      "startTime": 1123.69,
+      "endTime": 1126.0,
+      "text": "Is that enough? Probably not.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 3,
+      "startTime": 1126.0,
+      "endTime": 1129.68,
+      "text": "Try talking to the assistant in the business studies department.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 3,
+      "startTime": 1129.68,
+      "endTime": 1134.0,
+      "text": "He can sort out how to recruit some more from other classes for you. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 3,
+      "startTime": 1135.0,
+      "endTime": 1143.34,
+      "text": "Now, as to how you're going to display your packages to the students, I did talk about those technical issues in one of your first classes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 3,
+      "startTime": 1143.34,
+      "endTime": 1148.74,
+      "text": "Go back and look over what I said about the practical realities of conducting experiments.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 3,
+      "startTime": 1148.74,
+      "endTime": 1150.0,
+      "text": "Okay, we can do that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 3,
+      "startTime": 1151.0,
+      "endTime": 1156.32,
+      "text": "We're going to ask each student to choose the one design they think is best.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 3,
+      "startTime": 1156.32,
+      "endTime": 1162.2,
+      "text": "But how will we know why they chose that one? Well, don't just rely on oral prompts.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 3,
+      "startTime": 1162.2,
+      "endTime": 1165.0,
+      "text": "Give them a series of written questions.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 3,
+      "startTime": 1165.0,
+      "endTime": 1169.57,
+      "text": "That way you'll have hard data. Okay. But what about analyzing the data?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 3,
+      "startTime": 1169.57,
+      "endTime": 1177.0,
+      "text": "Well, we've got an excellent computer program to gather it all together, but we still need to interpret it ourselves.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 3,
+      "startTime": 1178.0,
+      "endTime": 1182.24,
+      "text": "So, we'll need to give ourselves a few more days for that. Yes, we will.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 3,
+      "startTime": 1182.24,
+      "endTime": 1184.0,
+      "text": "Anyway, it's all looking good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 3,
+      "startTime": 1189.0,
+      "endTime": 1212.78,
+      "text": "That is the end of Part 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 3,
+      "startTime": 1212.78,
+      "endTime": 1264.0,
+      "text": "You now have 30 seconds to check your answers to Part 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 4,
+      "startTime": 1264.0,
+      "endTime": 1264.11,
+      "text": "In this final lecture of our course on the history of science,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 4,
+      "startTime": 1264.11,
+      "endTime": 1264.32,
+      "text": "I would like to look to the future and tell you about some predictions that have been made about scientific developments.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 4,
+      "startTime": 1264.32,
+      "endTime": 1264.68,
+      "text": "The content for my talk is based on some research in which 30 scientific leaders were invited to comment on the developments that they envisage as likely to come about in their own discipline within 50 years.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 4,
+      "startTime": 1264.68,
+      "endTime": 1264.8,
+      "text": "After summarizing some of their most interesting contributions for you,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 4,
+      "startTime": 1264.8,
+      "endTime": 1265.0,
+      "text": "I'll ask you to give me your opinions as to the likelihood of these changes occurring within this timescale.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 4,
+      "startTime": 1265.0,
+      "endTime": 1269.88,
+      "text": "You may also like to suggest some other likely changes yourselves.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 4,
+      "startTime": 1269.88,
+      "endTime": 1279.2,
+      "text": "So first, let's start with computer science, as this is clearly an area where there are bound to be dramatic developments and,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 4,
+      "startTime": 1279.2,
+      "endTime": 1287.04,
+      "text": "even more significantly perhaps, these developments are likely to impact on every other field of learning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 4,
+      "startTime": 1287.04,
+      "endTime": 1294.0,
+      "text": "The invention of computers represents an enormous leap forward in the field of human endeavor.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 4,
+      "startTime": 1295.0,
+      "endTime": 1307.49,
+      "text": "It could indeed be considered as being as momentous a development as when our predecessors in caves first learned to make fire and use it for all sorts of purposes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 1307.49,
+      "endTime": 1316.63,
+      "text": "In the future, the computational revolution is certain to be generally recognized as a transformation as significant as,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 1316.63,
+      "endTime": 1318.99,
+      "text": "say, the industrial revolution.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 4,
+      "startTime": 1318.99,
+      "endTime": 1325.39,
+      "text": "The computer scientists in the study I referred to felt that, in the coming decades,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 4,
+      "startTime": 1325.39,
+      "endTime": 1332.0,
+      "text": "lives will be significantly enhanced by automated reasoning systems of different types.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 4,
+      "startTime": 1333.0,
+      "endTime": 1340.84,
+      "text": "There was considerable agreement that people will increasingly perceive these computer systems as intelligent.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 4,
+      "startTime": 1340.84,
+      "endTime": 1349.04,
+      "text": "Although many of these will be deployed behind the scenes, others will be in the foreground, serving in an elegant,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 4,
+      "startTime": 1349.04,
+      "endTime": 1357.66,
+      "text": "often collaborative manner to help people do their jobs, to learn and teach, to reflect and remember, to plan and decide.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 4,
+      "startTime": 1357.66,
+      "endTime": 1366.0,
+      "text": "Without going into further detail about this at this point, let's turn to what predictions psychologists had to make.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 4,
+      "startTime": 1367.0,
+      "endTime": 1373.83,
+      "text": "Their key point was that psychological research would inevitably become increasingly varied.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 4,
+      "startTime": 1373.83,
+      "endTime": 1379.62,
+      "text": "It would move into such areas as behavioral economics and social neuroscience.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-193",
+      "part": 4,
+      "startTime": 1379.62,
+      "endTime": 1390.09,
+      "text": "There is likely to be further expansion into domains with more practical relevance as increasing numbers of women become research scientists,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-194",
+      "part": 4,
+      "startTime": 1390.09,
+      "endTime": 1397.0,
+      "text": "so areas such as health, environment, family and social identity will receive more attention.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-195",
+      "part": 4,
+      "startTime": 1398.0,
+      "endTime": 1408.3,
+      "text": "At the same time as they broaden their horizons, psychologists will also intensify their search to discover what exactly determines how we act.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-196",
+      "part": 4,
+      "startTime": 1408.3,
+      "endTime": 1418.89,
+      "text": "They will be assisted in this by imaging devices that will be inserted into the brain and provide a great deal of information about how it behaves.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-197",
+      "part": 4,
+      "startTime": 1418.89,
+      "endTime": 1424.0,
+      "text": "There should be some fascinating discoveries coming to light very soon.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-198",
+      "part": 4,
+      "startTime": 1429.0,
+      "endTime": 1435.12,
+      "text": "Another field that is currently undergoing enormous changes is that of genetics.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-199",
+      "part": 4,
+      "startTime": 1435.12,
+      "endTime": 1442.84,
+      "text": "It is not new to suggest that average life expectancy is likely to continue rising in most countries.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-200",
+      "part": 4,
+      "startTime": 1442.84,
+      "endTime": 1454.0,
+      "text": "However, today geneticists emphasize that it is vital that the increasing number of the elderly in society must take quality of life into account.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-201",
+      "part": 4,
+      "startTime": 1454.0,
+      "endTime": 1457.19,
+      "text": "So how will genetics help this to happen?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-202",
+      "part": 4,
+      "startTime": 1457.19,
+      "endTime": 1465.44,
+      "text": "To start with, they hope to develop technologies that can sequence each person's genome extremely cheaply.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-203",
+      "part": 4,
+      "startTime": 1465.44,
+      "endTime": 1475.4,
+      "text": "This information about our DNA enables health care providers to predict our likelihood of suffering from any particular disease.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-204",
+      "part": 4,
+      "startTime": 1475.4,
+      "endTime": 1487.0,
+      "text": "From there on, it is a matter of weighing up various factors with a view to determining what can be done to minimize each individual's level of risk.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-205",
+      "part": 4,
+      "startTime": 1488.0,
+      "endTime": 1492.94,
+      "text": "With such information in hand, new treatments will be developed,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-206",
+      "part": 4,
+      "startTime": 1492.94,
+      "endTime": 1500.66,
+      "text": "and the current one-size-fits-all approach to health care will give way to a more personal approach.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-207",
+      "part": 4,
+      "startTime": 1500.66,
+      "endTime": 1506.91,
+      "text": "The final subject area that I wish to bring to your attention is that of zoology.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-208",
+      "part": 4,
+      "startTime": 1506.91,
+      "endTime": 1512.0,
+      "text": "Once again, computers and technology have a key role to play here.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-209",
+      "part": 4,
+      "startTime": 1513.0,
+      "endTime": 1520.05,
+      "text": "Experts comment specifically on the importance of satellites for future developments in this field.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-210",
+      "part": 4,
+      "startTime": 1520.05,
+      "endTime": 1525.75,
+      "text": "These enable people to explore the world from their homes, offices, and schools.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-211",
+      "part": 4,
+      "startTime": 1525.75,
+      "endTime": 1543.0,
+      "text": "It is now possible, for instance, to go online and see for yourself the abundant wildlife in one part of East Africa and in the surrounding region the harm people have done by destroying the forests, all supposedly in the name of development.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-212",
+      "part": 4,
+      "startTime": 1545.0,
+      "endTime": 1551.78,
+      "text": "Zoologists believe the breakthrough that lies ahead is how people act on such information as this.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-213",
+      "part": 4,
+      "startTime": 1551.78,
+      "endTime": 1560.09,
+      "text": "They hope that we will learn to connect our minds to our hearts and apply this new knowledge to help protect our planet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-214",
+      "part": 4,
+      "startTime": 1560.09,
+      "endTime": 1572.0,
+      "text": "They express a clear hope that a greater understanding of the consequences of human short-sightedness will make people anxious to rectify what we can before it is too late.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-215",
+      "part": 4,
+      "startTime": 1576.0,
+      "endTime": 1577.0,
+      "text": "That is the end of Part 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 24.0,
+      "text": "IELTS Listening Version 53997 You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 26.0,
+      "endTime": 50.76,
+      "text": "The test is in four parts. Write all your answers in the listening question booklet. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to Part 1 on page 2 of your question booklet.",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 50.76,
+      "endTime": 87.46,
+      "text": "Part 1 You will hear a woman talking to a builder who is going to do some building work at her house. First you have some time to look at questions 1 to 4. Now listen carefully and answer questions 1 to 4.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008",
+        "seg-009"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 87.46,
+      "endTime": 109.13,
+      "text": "SALLY Morning. Thanks for coming round. I'm Sally. KEYWORTH Morning. Um, so just before we get started, I'll just make a few notes. So, um, we're at 15 Hill Street? SALLY Yes, that's right. KEYWORTH OK, great. And then I need to write down your contact information. Just for the office, you know.",
+      "segmentIds": [
+        "seg-010",
+        "seg-011",
+        "seg-012",
+        "seg-013",
+        "seg-014"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 109.13,
+      "endTime": 127.52,
+      "text": "So first, what's your surname please, Sally? SALLY It's Keyworth. I'll spell that. K-E-Y-W-O-R-T-H. KEYWORTH And your phone number, I've got that somewhere. Yes, 027 584 6613. SALLY That's right.",
+      "segmentIds": [
+        "seg-015",
+        "seg-016",
+        "seg-017",
+        "seg-018"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 127.52,
+      "endTime": 151.0,
+      "text": "KEYWORTH OK Sally, so what building work would you like to have done? SALLY Well, let's go into the kitchen first. So, you see, it's quite dark in here. We've tried having a few lights fitted, but it hasn't really made any difference. So what we've decided is the window is too small.",
+      "segmentIds": [
+        "seg-019",
+        "seg-020",
+        "seg-021",
+        "seg-022",
+        "seg-023"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 151.0,
+      "endTime": 173.0,
+      "text": "We'd like a larger one. KEYWORTH That shouldn't be a problem. And is there anything else you'd like done in the kitchen? SALLY Well, at this time of year, I mean, I shouldn't complain really, but I wish it wasn't so hot in here. Is there anything you can do about that? KEYWORTH Air conditioning? SALLY It's too expensive. KEYWORTH How about a fan then? SALLY Yes, that would be perfect. KEYWORTH Righto.",
+      "segmentIds": [
+        "seg-024",
+        "seg-025",
+        "seg-026",
+        "seg-027",
+        "seg-028"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 174.0,
+      "endTime": 194.0,
+      "text": "And what's next, Sally? SALLY Well, if we walk through into the bathroom. The thing is, when my father's staying, he can't use the bath. So I thought here, on the back wall, I'd like you to fit a shower. Is that possible? KEYWORTH Shouldn't be too hard. I'll get you some brochures, because there are a few ways of doing that. SALLY Thanks.",
+      "segmentIds": [
+        "seg-029",
+        "seg-030",
+        "seg-031",
+        "seg-032",
+        "seg-033"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 195.0,
+      "endTime": 213.71,
+      "text": "KEYWORTH Now, those tiles on the wall look new. So do you want to keep those? SALLY Yes, the tiles are new, but actually my husband doesn't like them. We want to change to those very small ones. But do I have to choose a colour now? KEYWORTH You can do that later. I'll get some charts for you to look at.",
+      "segmentIds": [
+        "seg-034",
+        "seg-035",
+        "seg-036",
+        "seg-037",
+        "seg-038"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 213.71,
+      "endTime": 221.0,
+      "text": "NARRATOR Before you hear the rest of the conversation, you have some time to look at questions 5 to 10.",
+      "segmentIds": [
+        "seg-039"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 251.0,
+      "endTime": 271.0,
+      "text": "Now listen and answer questions 5 to 10. SALLY Now, the last thing. Let's walk outside. I need to show you some things outside the house. NARRATOR Right-o. Ooh, nice garden. And the fence looks in good condition. SALLY Yes, it's new. But the thing is the gate.",
+      "segmentIds": [
+        "seg-040",
+        "seg-041",
+        "seg-042",
+        "seg-043"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 272.0,
+      "endTime": 292.52,
+      "text": "It's too low. You have to bend down to open it. We need something that's higher. NARRATOR Right. I'll see to that. SALLY Then the other thing is the garage here. We had a break-in, actually. NARRATOR Ah, yeah, I can see. Um, the door should be fine, but the lock. I'll replace that, shall I? SALLY Yes, thanks.",
+      "segmentIds": [
+        "seg-044",
+        "seg-045",
+        "seg-046",
+        "seg-047",
+        "seg-048"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 292.52,
+      "endTime": 313.55,
+      "text": "Then also, if you step back here and look up on the roof, you can see that it's damaged. NARRATOR Did that happen in the storm a couple of weeks ago? SALLY Yes, that's right. NARRATOR I'll get up there and take a look at that then. It might be quite a big job, but I'll get back to you once I've had a look. SALLY OK. NARRATOR I can see that your rain gutter is broken as well. SALLY Can you fix that?",
+      "segmentIds": [
+        "seg-049",
+        "seg-050",
+        "seg-051",
+        "seg-052",
+        "seg-053"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 313.55,
+      "endTime": 334.5,
+      "text": "NARRATOR Well, I'll need to replace it, maybe with a steel one. It'd be stronger. SALLY No, plastic will be fine, thanks. It's cheaper. NARRATOR OK. SALLY And that's everything, I think. Is there any other information you need? What about a start date? NARRATOR Well, I'm completely booked all April, and I've got a job on May the 5th.",
+      "segmentIds": [
+        "seg-054",
+        "seg-055",
+        "seg-056",
+        "seg-057",
+        "seg-058"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 334.5,
+      "endTime": 353.0,
+      "text": "That'll be a few days. So, let's say May the 8th. SALLY OK. NARRATOR Now, what about a key, in case you're out? SALLY We have a security code. I'll give you that. It's a mix of letters and numbers. The code is A-G-4-1-7-6.",
+      "segmentIds": [
+        "seg-059",
+        "seg-060",
+        "seg-061",
+        "seg-062",
+        "seg-063"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 354.0,
+      "endTime": 383.33,
+      "text": "NARRATOR Got that. OK, we'll organise some...",
+      "segmentIds": [
+        "seg-064",
+        "seg-065"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 1,
+      "startTime": 383.33,
+      "endTime": 400.66,
+      "text": "That is the end of Part 1.",
+      "segmentIds": [
+        "seg-066"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 1,
+      "startTime": 400.66,
+      "endTime": 438.0,
+      "text": "You now have one minute to check your answers to Part 1.",
+      "segmentIds": [
+        "seg-067"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 2,
+      "startTime": 438.0,
+      "endTime": 474.69,
+      "text": "You'll hear the warden of a nature trail talking to a group of people who are interested in hiking on the trail. First, you have some time to look at questions 11 to 14. Now listen carefully and answer questions 11 to 14. Good morning.",
+      "segmentIds": [
+        "seg-068",
+        "seg-069",
+        "seg-070"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 474.69,
+      "endTime": 497.0,
+      "text": "I'm Susan Meyer, Trail Warden for the McFadden Hiking and Nature Trail. Let me tell you a bit about the trail. The trail is 25 miles long, running roughly east to west. To hike it, you may start at either end of the trail or in between.",
+      "segmentIds": [
+        "seg-071",
+        "seg-072",
+        "seg-073",
+        "seg-074"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-021",
+      "part": 2,
+      "startTime": 498.0,
+      "endTime": 519.42,
+      "text": "You can hike the whole length of the trail or just a couple of miles because there are 20 entry points along the trail, each connected to public roads by short paths. For hikers coming from Johnson City, there's a shuttle bus to each of the two end points every morning and evening.",
+      "segmentIds": [
+        "seg-075",
+        "seg-076",
+        "seg-077"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 519.42,
+      "endTime": 542.75,
+      "text": "And four of the entry points have a free car park with television camera surveillance. At one-mile intervals along the trail, there are rest stations providing picnic areas, water, toilets, and places where you can recharge your electronic devices. In response to a poll of walkers last year,",
+      "segmentIds": [
+        "seg-078",
+        "seg-079",
+        "seg-080",
+        "seg-081"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-023",
+      "part": 2,
+      "startTime": 542.75,
+      "endTime": 564.28,
+      "text": "we've recently installed kiosks at each rest station with clear, easy-to-follow maps and other trail information. There are several distinct sections of trail. The Red Rock Walk offers a superb opportunity to study a huge variety of vegetation along the way.",
+      "segmentIds": [
+        "seg-082",
+        "seg-083",
+        "seg-084"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 2,
+      "startTime": 564.28,
+      "endTime": 589.46,
+      "text": "There's lots to look at, though you can't see great distances. Birds are actually hard to spot, but with a pair of binoculars and at certain times of day, you may see some rare varieties. The River Walk comprises about five miles of trail winding along the bank of the Malder River.",
+      "segmentIds": [
+        "seg-085",
+        "seg-086",
+        "seg-087"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 589.46,
+      "endTime": 612.18,
+      "text": "Personally, I prefer this section of the trail in winter. The river does freeze over, and the snow can accumulate, but that doesn't always discourage visitors. Sometimes, though, if the weather conditions are really unsuitable, we might have to close this walk to the public.",
+      "segmentIds": [
+        "seg-088",
+        "seg-089",
+        "seg-090"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 612.18,
+      "endTime": 626.0,
+      "text": "But often it can get crowded with hikers who've discovered the attraction of the area. Before you hear the rest of the talk, you have some time to look at questions 15 to 20.",
+      "segmentIds": [
+        "seg-091",
+        "seg-092"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 656.0,
+      "endTime": 675.0,
+      "text": "Now listen and answer questions 15 to 20. Now let me tell you about the Halfway Hostel, located approximately midway along the trail. It has a range of facilities available to help make your walking experience memorable.",
+      "segmentIds": [
+        "seg-093",
+        "seg-094",
+        "seg-095"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 676.0,
+      "endTime": 697.09,
+      "text": "Let me give you some information about the various facilities available there. Of course, there are beds in dormitories for use at a very reasonable $7 per person weekdays or weekends. Unfortunately, we found that pre-booking beds just didn't work, so now we allocate them as people arrive,",
+      "segmentIds": [
+        "seg-096",
+        "seg-097",
+        "seg-098"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 697.09,
+      "endTime": 719.69,
+      "text": "but we have extra cots and sleeping bags to help with any overflow. There are two family rooms, accommodating six people each, with private bathrooms. They're $35 per room, and for them you will need to make arrangements ahead of time, as they're very popular, especially at the weekends.",
+      "segmentIds": [
+        "seg-099",
+        "seg-100",
+        "seg-101"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 719.69,
+      "endTime": 741.33,
+      "text": "A popular facility that we've recently added is coin-operated washing machines for your clothes. You can get awfully wet and dirty if you're walking the trail in bad weather, and since we got these machines, you can put on clean gear when you set out in the morning.",
+      "segmentIds": [
+        "seg-102",
+        "seg-103",
+        "seg-104"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 2,
+      "startTime": 741.33,
+      "endTime": 762.13,
+      "text": "The hostel serves two meals a day, breakfast at $4 and dinner at $8, the same for adults and kids. There's always a vegetarian and a non-vegetarian option, depending on your preferences. We do ask you to give a hand with serving and cleaning up after meals.",
+      "segmentIds": [
+        "seg-105",
+        "seg-106",
+        "seg-107"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 2,
+      "startTime": 762.13,
+      "endTime": 786.0,
+      "text": "We have plenty of showers and unlimited hot water available, so you can have this luxury at no charge and you can enjoy it as long as you like. Now, some people like to spend time on the trail on mountain bikes and maybe take a bit of a rest from all that walking, and that's permitted as long as you observe basic safety rules.",
+      "segmentIds": [
+        "seg-108",
+        "seg-109",
+        "seg-110"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 2,
+      "startTime": 787.0,
+      "endTime": 824.0,
+      "text": "The hostel's in the process of creating a bike rental scheme which should be up and running next year. So, if you think... That is the end of Part 2. You now have 30 seconds to check your answers to Part 2.",
+      "segmentIds": [
+        "seg-111",
+        "seg-112",
+        "seg-113"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 3,
+      "startTime": 824.0,
+      "endTime": 859.0,
+      "text": "You will hear two business administration students called Pam and Jason discussing their project with their professor. First, you have some time to look at questions 21 to 25.",
+      "segmentIds": [
+        "seg-114",
+        "seg-115"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 3,
+      "startTime": 859.0,
+      "endTime": 882.59,
+      "text": "Now listen carefully and answer questions 21 to 25. Hello, Pam, Jason. Thanks for coming to discuss your marketing project. I've read your proposal and outline, so let's go over it. You've chosen the topic of food packaging, so what did you want to get out of doing this project?",
+      "segmentIds": [
+        "seg-116",
+        "seg-117",
+        "seg-118",
+        "seg-119"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 3,
+      "startTime": 882.59,
+      "endTime": 906.34,
+      "text": "We decided if we did our project on packaging, we might find some practical tips on how a business could make more money. After all, we're business admin students and that's the ultimate reason we're on the course, isn't it? So, although we know the impact of packaging on the environment is important... We feel the government regulations are pretty strict already in that area. Okay.",
+      "segmentIds": [
+        "seg-120",
+        "seg-121",
+        "seg-122",
+        "seg-123",
+        "seg-124"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 906.34,
+      "endTime": 932.58,
+      "text": "Now you've decided to look specifically at the packaging of food, what do you think the main issue is for shoppers these days? Some people get upset about the waste with all the plastic and stuff used to package food, but I guess most don't pay much attention to that. A few years ago, people seemed concerned about packaging food so that buyers knew more about what it contains from labels,",
+      "segmentIds": [
+        "seg-125",
+        "seg-126",
+        "seg-127"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 932.58,
+      "endTime": 950.32,
+      "text": "like calories, additives, and stuff. But in the current economic climate, Pam and I think people are most interested in packaging that helps keep food fresh for longer. And you've chosen to concentrate on big supermarket chains. Why not look at local stores or even convenience stores?",
+      "segmentIds": [
+        "seg-128",
+        "seg-129",
+        "seg-130",
+        "seg-131"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 950.32,
+      "endTime": 976.48,
+      "text": "Well, there are some interesting published studies based on small retail outlets and we looked at those, but after a little investigation, we found that the managers of the large supermarkets in this area wanted to be helpful and are willing to let us talk to them and their employees. Of course, the supermarkets do account for most food sales around here, but that wasn't our reason for choosing them.",
+      "segmentIds": [
+        "seg-132",
+        "seg-133",
+        "seg-134"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 976.48,
+      "endTime": 996.8,
+      "text": "Speaking of this area, you know the food buying choices here are quite unusual. Since we're in a university town, the population is quite young, but actually my research shows that age isn't the factor in making the area unique. And although the education level is pretty high, that doesn't seem very important either.",
+      "segmentIds": [
+        "seg-135",
+        "seg-136",
+        "seg-137"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 3,
+      "startTime": 996.8,
+      "endTime": 1015.22,
+      "text": "I guess it's because we got people from all over the world living here, with all the foreign students at university. That's it. Our supermarkets cater for a huge diversity of cultures. In our survey of the literature, I was struck by what shoppers say is most important to them when they buy.",
+      "segmentIds": [
+        "seg-138",
+        "seg-139",
+        "seg-140",
+        "seg-141"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 1015.22,
+      "endTime": 1037.97,
+      "text": "I would have thought how much the buyer had to pay would be the key, but that doesn't appear to be the case. That's right. How delicious the buyer considers the product seems to be the main thing. Whether or not the food is good for you is pretty low down on the customer's priorities. That's interesting.",
+      "segmentIds": [
+        "seg-142",
+        "seg-143",
+        "seg-144",
+        "seg-145"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 1037.97,
+      "endTime": 1079.47,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 26 to 30. Now listen and answer questions 26 to 30. Let's discuss the practical experiment you're planning.",
+      "segmentIds": [
+        "seg-146",
+        "seg-147",
+        "seg-148"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 1079.47,
+      "endTime": 1101.47,
+      "text": "You're going to design the box for a new breakfast cereal which you'll try to market. Not in reality, of course, but by showing different designs to some of your fellow students on a computer, a kind of virtual reality supermarket. And the students will choose the design that appeals most. Let's talk through the experiment, okay? That'd be helpful.",
+      "segmentIds": [
+        "seg-149",
+        "seg-150",
+        "seg-151",
+        "seg-152"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1101.47,
+      "endTime": 1123.69,
+      "text": "Now, the number of different designs you're proposing to show each student is two. If I were you, I'd make it at least four. That way you can examine their reaction to more variety in the kinds of packaging. Okay, good idea. We do have several more designs. Now, we've got a sample from our class of about 20.",
+      "segmentIds": [
+        "seg-153",
+        "seg-154",
+        "seg-155",
+        "seg-156",
+        "seg-157"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1123.69,
+      "endTime": 1143.34,
+      "text": "Is that enough? Probably not. Try talking to the assistant in the business studies department. He can sort out how to recruit some more from other classes for you. Right. Now, as to how you're going to display your packages to the students, I did talk about those technical issues in one of your first classes.",
+      "segmentIds": [
+        "seg-158",
+        "seg-159",
+        "seg-160",
+        "seg-161"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1143.34,
+      "endTime": 1165.0,
+      "text": "Go back and look over what I said about the practical realities of conducting experiments. Okay, we can do that. We're going to ask each student to choose the one design they think is best. But how will we know why they chose that one? Well, don't just rely on oral prompts. Give them a series of written questions.",
+      "segmentIds": [
+        "seg-162",
+        "seg-163",
+        "seg-164",
+        "seg-165",
+        "seg-166"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 3,
+      "startTime": 1165.0,
+      "endTime": 1184.0,
+      "text": "That way you'll have hard data. Okay. But what about analyzing the data? Well, we've got an excellent computer program to gather it all together, but we still need to interpret it ourselves. So, we'll need to give ourselves a few more days for that. Yes, we will. Anyway, it's all looking good.",
+      "segmentIds": [
+        "seg-167",
+        "seg-168",
+        "seg-169",
+        "seg-170"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-049",
+      "part": 3,
+      "startTime": 1189.0,
+      "endTime": 1212.78,
+      "text": "That is the end of Part 3.",
+      "segmentIds": [
+        "seg-171"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-050",
+      "part": 3,
+      "startTime": 1212.78,
+      "endTime": 1264.0,
+      "text": "You now have 30 seconds to check your answers to Part 3.",
+      "segmentIds": [
+        "seg-172"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-051",
+      "part": 4,
+      "startTime": 1264.0,
+      "endTime": 1265.0,
+      "text": "In this final lecture of our course on the history of science, I would like to look to the future and tell you about some predictions that have been made about scientific developments. The content for my talk is based on some research in which 30 scientific leaders were invited to comment on the developments that they envisage as likely to come about in their own discipline within 50 years. After summarizing some of their most interesting contributions for you, I'll ask you to give me your opinions as to the likelihood of these changes occurring within this timescale.",
+      "segmentIds": [
+        "seg-173",
+        "seg-174",
+        "seg-175",
+        "seg-176",
+        "seg-177"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-052",
+      "part": 4,
+      "startTime": 1265.0,
+      "endTime": 1287.04,
+      "text": "You may also like to suggest some other likely changes yourselves. So first, let's start with computer science, as this is clearly an area where there are bound to be dramatic developments and, even more significantly perhaps, these developments are likely to impact on every other field of learning.",
+      "segmentIds": [
+        "seg-178",
+        "seg-179",
+        "seg-180"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-053",
+      "part": 4,
+      "startTime": 1287.04,
+      "endTime": 1316.63,
+      "text": "The invention of computers represents an enormous leap forward in the field of human endeavor. It could indeed be considered as being as momentous a development as when our predecessors in caves first learned to make fire and use it for all sorts of purposes. In the future, the computational revolution is certain to be generally recognized as a transformation as significant as,",
+      "segmentIds": [
+        "seg-181",
+        "seg-182",
+        "seg-183"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-054",
+      "part": 4,
+      "startTime": 1316.63,
+      "endTime": 1332.0,
+      "text": "say, the industrial revolution. The computer scientists in the study I referred to felt that, in the coming decades, lives will be significantly enhanced by automated reasoning systems of different types.",
+      "segmentIds": [
+        "seg-184",
+        "seg-185",
+        "seg-186"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-055",
+      "part": 4,
+      "startTime": 1333.0,
+      "endTime": 1357.66,
+      "text": "There was considerable agreement that people will increasingly perceive these computer systems as intelligent. Although many of these will be deployed behind the scenes, others will be in the foreground, serving in an elegant, often collaborative manner to help people do their jobs, to learn and teach, to reflect and remember, to plan and decide.",
+      "segmentIds": [
+        "seg-187",
+        "seg-188",
+        "seg-189"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1357.66,
+      "endTime": 1379.62,
+      "text": "Without going into further detail about this at this point, let's turn to what predictions psychologists had to make. Their key point was that psychological research would inevitably become increasingly varied. It would move into such areas as behavioral economics and social neuroscience.",
+      "segmentIds": [
+        "seg-190",
+        "seg-191",
+        "seg-192"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-057",
+      "part": 4,
+      "startTime": 1379.62,
+      "endTime": 1408.3,
+      "text": "There is likely to be further expansion into domains with more practical relevance as increasing numbers of women become research scientists, so areas such as health, environment, family and social identity will receive more attention. At the same time as they broaden their horizons, psychologists will also intensify their search to discover what exactly determines how we act.",
+      "segmentIds": [
+        "seg-193",
+        "seg-194",
+        "seg-195"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-058",
+      "part": 4,
+      "startTime": 1408.3,
+      "endTime": 1435.12,
+      "text": "They will be assisted in this by imaging devices that will be inserted into the brain and provide a great deal of information about how it behaves. There should be some fascinating discoveries coming to light very soon. Another field that is currently undergoing enormous changes is that of genetics.",
+      "segmentIds": [
+        "seg-196",
+        "seg-197",
+        "seg-198"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-059",
+      "part": 4,
+      "startTime": 1435.12,
+      "endTime": 1457.19,
+      "text": "It is not new to suggest that average life expectancy is likely to continue rising in most countries. However, today geneticists emphasize that it is vital that the increasing number of the elderly in society must take quality of life into account. So how will genetics help this to happen?",
+      "segmentIds": [
+        "seg-199",
+        "seg-200",
+        "seg-201"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-060",
+      "part": 4,
+      "startTime": 1457.19,
+      "endTime": 1487.0,
+      "text": "To start with, they hope to develop technologies that can sequence each person's genome extremely cheaply. This information about our DNA enables health care providers to predict our likelihood of suffering from any particular disease. From there on, it is a matter of weighing up various factors with a view to determining what can be done to minimize each individual's level of risk.",
+      "segmentIds": [
+        "seg-202",
+        "seg-203",
+        "seg-204"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-061",
+      "part": 4,
+      "startTime": 1488.0,
+      "endTime": 1506.91,
+      "text": "With such information in hand, new treatments will be developed, and the current one-size-fits-all approach to health care will give way to a more personal approach. The final subject area that I wish to bring to your attention is that of zoology.",
+      "segmentIds": [
+        "seg-205",
+        "seg-206",
+        "seg-207"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-062",
+      "part": 4,
+      "startTime": 1506.91,
+      "endTime": 1525.75,
+      "text": "Once again, computers and technology have a key role to play here. Experts comment specifically on the importance of satellites for future developments in this field. These enable people to explore the world from their homes, offices, and schools.",
+      "segmentIds": [
+        "seg-208",
+        "seg-209",
+        "seg-210"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-063",
+      "part": 4,
+      "startTime": 1525.75,
+      "endTime": 1560.09,
+      "text": "It is now possible, for instance, to go online and see for yourself the abundant wildlife in one part of East Africa and in the surrounding region the harm people have done by destroying the forests, all supposedly in the name of development. Zoologists believe the breakthrough that lies ahead is how people act on such information as this. They hope that we will learn to connect our minds to our hearts and apply this new knowledge to help protect our planet.",
+      "segmentIds": [
+        "seg-211",
+        "seg-212",
+        "seg-213"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-064",
+      "part": 4,
+      "startTime": 1560.09,
+      "endTime": 1577.0,
+      "text": "They express a clear hope that a greater understanding of the consequences of human short-sightedness will make people anxious to rectify what we can before it is too late. That is the end of Part 4.",
+      "segmentIds": [
+        "seg-214",
+        "seg-215"
+      ],
+      "timestampSource": "exact"
+    }
+  ]
+}

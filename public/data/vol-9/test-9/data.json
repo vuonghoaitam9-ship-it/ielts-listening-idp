@@ -1,0 +1,3870 @@
+{
+  "id": "vol-9-test-9",
+  "vol": 9,
+  "testNumber": 9,
+  "title": "Vol 9 — Test 9",
+  "pdfUrl": "./data/vol-9/test-9/exam.pdf",
+  "pdfPages": 6,
+  "questionPageRange": [
+    1,
+    6
+  ],
+  "audioUrl": "./data/vol-9/test-9/audio.mp3",
+  "audioDurationSec": 1761.33,
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 1.0,
+      "endTime": 502.0,
+      "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 502.0,
+      "endTime": 895.0,
+      "topicHint": "You will hear a radio show host interviewing a man called Michael McKay, who is the director of a Canadian theatre."
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 895.0,
+      "endTime": 1332.0,
+      "topicHint": "You will hear a student called Aya discussing her research project about maths ability with her tutor."
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1332.0,
+      "endTime": 1758.0,
+      "topicHint": "You will hear part of a lecture about a marine creature called the Red Sea Urchin."
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "ncludes Example Rock climbing...... Centre grounds using the 1 ……… £60 for a group of twelve) 2 …………………. Mountain biking in the mountains doing 3 …………. checks £70 services of a 4 ……………….. Wild camping in the 5 ……………. finding out about plants £50 Accommodation in tents Hill walking in the National Park 6 ……………. skills £90",
+      "answerRaw": "ropes,rope",
+      "canonicalAnswer": "ropes",
+      "acceptedAnswers": [
+        "ropes",
+        "rope"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "What is that exactly? Well, you need to know how to use ropes if you're going to climb,",
+      "evidenceStartTime": 195.0,
+      "evidenceEndTime": 201.41,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"ropes\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": ".. Centre grounds using the 1 ……… £60 for a group of twelve) 2 …………………. Mountain biking in the mountains doing 3 …………. checks £70 services of a 4 ……………….. Wild camping in the 5 ……………. finding out about plants £50 Accommodation in tents Hill walking in the National Park 6 ……………. skills £90 7 ……………………. Questions 8–10 Compl",
+      "answerRaw": "equipment",
+      "canonicalAnswer": "equipment",
+      "acceptedAnswers": [
+        "equipment"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "No, but it does include the equipment. Right. Now, I was wondering about the mountain biking weekends. Oh, yes. They're very popular.",
+      "evidenceStartTime": 231.19,
+      "evidenceEndTime": 240.5,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"equipment\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "of twelve) 2 …………………. Mountain biking in the mountains doing 3 …………. checks £70 services of a 4 ……………….. Wild camping in the 5 ……………. finding out about plants £50 Accommodation in tents Hill walking in the National Park 6 ……………. skills £90 7 ……………………. Questions 8–10 Complete the notes below. Write NO MORE THAN TWO WORDS",
+      "answerRaw": "safety",
+      "canonicalAnswer": "safety",
+      "acceptedAnswers": [
+        "safety"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We do take you out in the mountains, but our routes are relatively easy. The website said that we learn to do safety checks on our bikes.",
+      "evidenceStartTime": 244.03,
+      "evidenceEndTime": 260.5,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"safety\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "king in the mountains doing 3 …………. checks £70 services of a 4 ……………….. Wild camping in the 5 ……………. finding out about plants £50 Accommodation in tents Hill walking in the National Park 6 ……………. skills £90 7 ……………………. Questions 8–10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer D",
+      "answerRaw": "guide",
+      "canonicalAnswer": "guide",
+      "acceptedAnswers": [
+        "guide"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's 70 pounds and includes all the help you need from our guide.",
+      "evidenceStartTime": 272.8,
+      "evidenceEndTime": 283.46,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"guide\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "………. checks £70 services of a 4 ……………….. Wild camping in the 5 ……………. finding out about plants £50 Accommodation in tents Hill walking in the National Park 6 ……………. skills £90 7 ……………………. Questions 8–10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer Deposit for group booking: 8 ………",
+      "answerRaw": "forest",
+      "canonicalAnswer": "forest",
+      "acceptedAnswers": [
+        "forest"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There was something on the website called wild camping. It's in the forest, the website said.",
+      "evidenceStartTime": 321.59,
+      "evidenceEndTime": 330.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"forest\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "£50 Accommodation in tents Hill walking in the National Park 6 ……………. skills £90 7 ……………………. Questions 8–10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer Deposit for group booking: 8 ………….. of full amount Must bring suitable 9 …………… Name of contact: Gordon 10 ……………….",
+      "answerRaw": "navigation",
+      "canonicalAnswer": "navigation",
+      "acceptedAnswers": [
+        "navigation"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And so you won't get lost when you go walking on your own. We teach you some navigation skills.",
+      "evidenceStartTime": 363.0,
+      "evidenceEndTime": 368.98,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"navigation\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "tents Hill walking in the National Park 6 ……………. skills £90 7 ……………………. Questions 8–10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer Deposit for group booking: 8 ………….. of full amount Must bring suitable 9 …………… Name of contact: Gordon 10 ……………….",
+      "answerRaw": "lunch",
+      "canonicalAnswer": "lunch",
+      "acceptedAnswers": [
+        "lunch"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Does that include accommodation? It doesn't, but there are some very inexpensive B&Bs nearby. Or you can stay at the local youth hostel, but lunch is included. Thanks.",
+      "evidenceStartTime": 371.0,
+      "evidenceEndTime": 383.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"lunch\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "S AND/OR A NUMBER for each answer Deposit for group booking: 8 ………….. of full amount Must bring suitable 9 …………… Name of contact: Gordon 10 ……………….",
+      "answerRaw": "20%,20 percent",
+      "canonicalAnswer": "20%",
+      "acceptedAnswers": [
+        "20%",
+        "20 percent"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But if you're booking for a group, then it'll be 20% of the total cost. OK.",
+      "evidenceStartTime": 395.0,
+      "evidenceEndTime": 399.89,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"20%\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "r group booking: 8 ………….. of full amount Must bring suitable 9 …………… Name of contact: Gordon 10 ……………….",
+      "answerRaw": "shoes",
+      "canonicalAnswer": "shoes",
+      "acceptedAnswers": [
+        "shoes"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The most important thing is to have the right shoes, so you'll need to bring those.",
+      "evidenceStartTime": 404.59,
+      "evidenceEndTime": 410.0,
+      "paraphrases": [
+        {
+          "questionTerm": "must",
+          "audioTerm": "need"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"shoes\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'must' ↔ 'need'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "l amount Must bring suitable 9 …………… Name of contact: Gordon 10 ……………….",
+      "answerRaw": "Arkwright",
+      "canonicalAnswer": "Arkwright",
+      "acceptedAnswers": [
+        "Arkwright"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Or you could book it online. But don't hesitate to call me if you still have questions. My name's Gordon. Gordon Arkwright. That's A-R-K-W-R-I-G-H-T. Thanks for your help.",
+      "evidenceStartTime": 420.0,
+      "evidenceEndTime": 435.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Arkwright\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "uestions 11–15 Choose the correct answer. Beach Clean-up Day 11 Quinlan Beach was chosen for the clean-up day because A litter there is a danger to wildlife. B visitors have complained about litter there. C the local council requested help with litter collection there. 12 What does Brenda say about the groups for the clea",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Thank you very much for agreeing to participate in the next beach clean-up day.",
+      "evidenceStartTime": 545.83,
+      "evidenceEndTime": 554.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "e local council requested help with litter collection there. 12 What does Brenda say about the groups for the clean-up day? A Groups will stay the same all day. B Everyone should choose their group in advance. C Group members can decide on their roles. 13 What equipment does Brenda say that people may want to bring? A ba",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'm Brenda, the organiser, and I just want to explain a bit about the day to help you prepare and to answer any questions you might have.",
+      "evidenceStartTime": 557.62,
+      "evidenceEndTime": 567.95,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "group in advance. C Group members can decide on their roles. 13 What equipment does Brenda say that people may want to bring? A bags B a whistle C a litter-picking tool 14 What does Brenda say about clothing for the day? A Hats are optional. B Footwear should be waterproof. C Gloves are provided in a range of sizes. 15 Wh",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'm Brenda, the organiser, and I just want to explain a bit about the day to help you prepare and to answer any questions you might have.",
+      "evidenceStartTime": 557.62,
+      "evidenceEndTime": 567.95,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "ay want to bring? A bags B a whistle C a litter-picking tool 14 What does Brenda say about clothing for the day? A Hats are optional. B Footwear should be waterproof. C Gloves are provided in a range of sizes. 15 Why does Brenda want each group to fill in a survey? A to collect information about the types of litter they p",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Sunscreen is up to you, but highly recommended. Each group that goes out picking up litter will be given a survey to fill in as you go along.",
+      "evidenceStartTime": 691.19,
+      "evidenceEndTime": 703.46,
+      "paraphrases": [
+        {
+          "questionTerm": "optional",
+          "audioTerm": "up to you"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'optional' ↔ 'up to you'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "ld be waterproof. C Gloves are provided in a range of sizes. 15 Why does Brenda want each group to fill in a survey? A to collect information about the types of litter they pick up B to indicate the location of the litter they pick up C to measure how much litter they pick up Questions 16–20 A B C D E F G H I 16 First aid",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Sunscreen is up to you, but highly recommended. Each group that goes out picking up litter will be given a survey to fill in as you go along.",
+      "evidenceStartTime": 691.19,
+      "evidenceEndTime": 703.46,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "w much litter they pick up Questions 16–20 A B C D E F G H I 16 First aid station 17 Equipment pick-up 18 Toilets 19 Meeting point A B C D E F G H I 20 Location for lunch",
+      "answerRaw": "F",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The first aid station is close to the shore and will be staffed all day in case anyone needs it.",
+      "evidenceStartTime": 778.0,
+      "evidenceEndTime": 786.13,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"F\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "ck up Questions 16–20 A B C D E F G H I 16 First aid station 17 Equipment pick-up 18 Toilets 19 Meeting point A B C D E F G H I 20 Location for lunch",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The first aid station is close to the shore and will be staffed all day in case anyone needs it.",
+      "evidenceStartTime": 778.0,
+      "evidenceEndTime": 786.13,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "A B C D E F G H I 16 First aid station 17 Equipment pick-up 18 Toilets 19 Meeting point A B C D E F G H I 20 Location for lunch",
+      "answerRaw": "G",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The first aid station is close to the shore and will be staffed all day in case anyone needs it.",
+      "evidenceStartTime": 778.0,
+      "evidenceEndTime": 786.13,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"G\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "F G H I 16 First aid station 17 Equipment pick-up 18 Toilets 19 Meeting point A B C D E F G H I 20 Location for lunch",
+      "answerRaw": "I",
+      "canonicalAnswer": "I",
+      "acceptedAnswers": [
+        "I"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The first aid station is close to the shore and will be staffed all day in case anyone needs it.",
+      "evidenceStartTime": 778.0,
+      "evidenceEndTime": 786.13,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"I\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "ipment pick-up 18 Toilets 19 Meeting point A B C D E F G H I 20 Location for lunch",
+      "answerRaw": "D",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Later in the day, you'll move to the West Beach. We'll be meeting for lunch at 1pm.",
+      "evidenceStartTime": 840.0,
+      "evidenceEndTime": 846.92,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "Choose the correct answer. Research Project on Maths Ability 21 Aya chose interviewing as her main research method because A it was easier to use than other methods. B it enabled her to explore points of interest in detail. C it was different from methods used by other research groups. 22 On what basis did Aya choose her",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You will hear a student called Aya discussing her research project about maths ability with her tutor.",
+      "evidenceStartTime": 895.0,
+      "evidenceEndTime": 896.0,
+      "paraphrases": [
+        {
+          "questionTerm": "research",
+          "audioTerm": "project"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'research' ↔ 'project'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "it was different from methods used by other research groups. 22 On what basis did Aya choose her research participants? A They were available in large numbers. B They had asked to be involved in the project. C They all had very similar attitudes to maths. 23 What surprised Aya most about her findings? A that so few people",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You will hear a student called Aya discussing her research project about maths ability with her tutor.",
+      "evidenceStartTime": 895.0,
+      "evidenceEndTime": 896.0,
+      "paraphrases": [
+        {
+          "questionTerm": "research",
+          "audioTerm": "project"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'research' ↔ 'project'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "the project. C They all had very similar attitudes to maths. 23 What surprised Aya most about her findings? A that so few people had thought about their maths ability before B that there were such distinct differences between the genders C that people had such strong feelings about the subject Questions 24–30 Complete the",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You will hear a student called Aya discussing her research project about maths ability with her tutor.",
+      "evidenceStartTime": 895.0,
+      "evidenceEndTime": 896.0,
+      "paraphrases": [
+        {
+          "questionTerm": "project",
+          "audioTerm": "research"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'project' ↔ 'research'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "method: interview Females Males First- level importance Poor 24 ………….. Fear of 25 ………… Second- level importance No obvious 26 ……………. Belief that you need a 27 ………. for maths Third- level importance Low awareness of alternative strategies to solve maths problems How do people solve maths questions? Research method: 28 …………",
+      "answerRaw": "teaching",
+      "canonicalAnswer": "teaching",
+      "acceptedAnswers": [
+        "teaching"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Now, you can see that for the women, they thought bad teaching was mainly to blame for their disliking maths.",
+      "evidenceStartTime": 1128.51,
+      "evidenceEndTime": 1136.0,
+      "paraphrases": [],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"teaching\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "Females Males First- level importance Poor 24 ………….. Fear of 25 ………… Second- level importance No obvious 26 ……………. Belief that you need a 27 ………. for maths Third- level importance Low awareness of alternative strategies to solve maths problems How do people solve maths questions? Research method: 28 …………… of people’s stra",
+      "answerRaw": "numbers",
+      "canonicalAnswer": "numbers",
+      "acceptedAnswers": [
+        "numbers"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They talked mostly about the fact that they were actually, you know, scared of numbers.",
+      "evidenceStartTime": 1138.79,
+      "evidenceEndTime": 1143.99,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"numbers\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "4 ………….. Fear of 25 ………… Second- level importance No obvious 26 ……………. Belief that you need a 27 ………. for maths Third- level importance Low awareness of alternative strategies to solve maths problems How do people solve maths questions? Research method: 28 …………… of people’s strategies successful unsuccessful Understanding",
+      "answerRaw": "applications",
+      "canonicalAnswer": "applications",
+      "acceptedAnswers": [
+        "applications"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And then the problem for the women at the second level was the fact that they couldn't see what applications maths had and what obvious ones anyway.",
+      "evidenceStartTime": 1150.83,
+      "evidenceEndTime": 1160.51,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"applications\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "level importance No obvious 26 ……………. Belief that you need a 27 ………. for maths Third- level importance Low awareness of alternative strategies to solve maths problems How do people solve maths questions? Research method: 28 …………… of people’s strategies successful unsuccessful Understanding the question as a 29 ……………… Appl",
+      "answerRaw": "talent",
+      "canonicalAnswer": "talent",
+      "acceptedAnswers": [
+        "talent"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And for the men, they found problems because they had this strong belief that you have to be born with a talent for the subject to be any good at maths.",
+      "evidenceStartTime": 1163.06,
+      "evidenceEndTime": 1173.0,
+      "paraphrases": [
+        {
+          "questionTerm": "need",
+          "audioTerm": "have to"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"talent\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'need' ↔ 'have to'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "oblems How do people solve maths questions? Research method: 28 …………… of people’s strategies successful unsuccessful Understanding the question as a 29 ……………… Applying a solution learned previously Second most common strategy Using visualisation Giving up after first 30 ………….. of the problem",
+      "answerRaw": "observation",
+      "canonicalAnswer": "observation",
+      "acceptedAnswers": [
+        "observation"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, the method I used for my research was observation. Of what?",
+      "evidenceStartTime": 1194.2,
+      "evidenceEndTime": 1199.56,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"observation\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "",
+      "answerRaw": "whole",
+      "canonicalAnswer": "whole",
+      "acceptedAnswers": [
+        "whole"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Good mathematicians? A mixture actually. Five successful and five less successful. Now, I found that the most common strategy used by the people who got the correct answers was that they attempted to comprehend the question taken as a whole.",
+      "evidenceStartTime": 1213.0,
+      "evidenceEndTime": 1229.0,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"whole\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "st common strategy Using visualisation Giving up after first 30 ………….. of the problem",
+      "answerRaw": "reading",
+      "canonicalAnswer": "reading",
+      "acceptedAnswers": [
+        "reading"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, I have to say the strategy they used was to give up immediately after reading the question, I'm afraid.",
+      "evidenceStartTime": 1265.88,
+      "evidenceEndTime": 1293.6,
+      "paraphrases": [],
+      "distractors": [
+        "từ chối hoặc báo không khả dụng ('I'm afraid')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"reading\". Lưu ý bẫy gây nhiễu (distractor): từ chối hoặc báo không khả dụng ('I'm afraid')."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "The Red Sea Urchin Background The red sea urchin: • feeds on 31 …………………………… . is covered in 32 ………………………….. that protect it . used to be regarded as a 33 ……………………………… From 1970s onwards: it became clear that 34 ………………………….. was an important market for red sea urchins • scientific interest increased because of a 35 …………………",
+      "answerRaw": "plants",
+      "canonicalAnswer": "plants",
+      "acceptedAnswers": [
+        "plants"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It grazes on plants. It's an herbivore, in other words.",
+      "evidenceStartTime": 1431.4,
+      "evidenceEndTime": 1436.4,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"plants\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "he red sea urchin: • feeds on 31 …………………………… . is covered in 32 ………………………….. that protect it . used to be regarded as a 33 ……………………………… From 1970s onwards: it became clear that 34 ………………………….. was an important market for red sea urchins • scientific interest increased because of a 35 …………………….. in red sea urchin populati",
+      "answerRaw": "spines",
+      "canonicalAnswer": "spines",
+      "acceptedAnswers": [
+        "spines"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And it survives very well because it's covered in spines, which are very sharp, and these deter most predators.",
+      "evidenceStartTime": 1447.0,
+      "evidenceEndTime": 1455.3,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"spines\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "n 32 ………………………….. that protect it . used to be regarded as a 33 ……………………………… From 1970s onwards: it became clear that 34 ………………………….. was an important market for red sea urchins • scientific interest increased because of a 35 …………………….. in red sea urchin population Research findings Study based on biochemical techniques",
+      "answerRaw": "pest",
+      "canonicalAnswer": "pest",
+      "acceptedAnswers": [
+        "pest"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "a plant which supports an extensive ecosystem. So, in fact, it was considered to be a pest.",
+      "evidenceStartTime": 1464.2,
+      "evidenceEndTime": 1471.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"pest\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "s a 33 ……………………………… From 1970s onwards: it became clear that 34 ………………………….. was an important market for red sea urchins • scientific interest increased because of a 35 …………………….. in red sea urchin population Research findings Study based on biochemical techniques Red sea urchins: • grow very slowly • live a very long ti",
+      "answerRaw": "Asia",
+      "canonicalAnswer": "Asia",
+      "acceptedAnswers": [
+        "Asia"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It became apparent that there was a demand for the Red Sea Urchin in Asia, where certain parts of the animal were considered to be a great delicacy.",
+      "evidenceStartTime": 1507.0,
+      "evidenceEndTime": 1516.87,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Asia\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "red sea urchins • scientific interest increased because of a 35 …………………….. in red sea urchin population Research findings Study based on biochemical techniques Red sea urchins: • grow very slowly • live a very long time (maximum life span: up to 36 ……………… ) • can be harvested only after 6-7 years • after 22 years, onl",
+      "answerRaw": "decline",
+      "canonicalAnswer": "decline",
+      "acceptedAnswers": [
+        "decline"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And just at this time, people noticed an apparent decline in the numbers of Sea Urchins.",
+      "evidenceStartTime": 1536.15,
+      "evidenceEndTime": 1542.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"decline\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "ery slowly • live a very long time (maximum life span: up to 36 ……………… ) • can be harvested only after 6-7 years • after 22 years, only grow 37 ……………………… per year Study measuring radio carbon • no evidence of 38 …………………………… when sea urchins die • they can still 39 …………………………. and grow when very old • growth not connect",
+      "answerRaw": "200 years old",
+      "canonicalAnswer": "200 years old",
+      "acceptedAnswers": [
+        "200 years old"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They can live to be 100 years old, and some may even reach 200.",
+      "evidenceStartTime": 1597.32,
+      "evidenceEndTime": 1602.0,
+      "paraphrases": [],
+      "distractors": [
+        "Có số gây nhiễu (100) xuất hiện sát đáp án chuẩn '200 years old'."
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"200 years old\". Lưu ý bẫy gây nhiễu (distractor): Có số gây nhiễu (100) xuất hiện sát đáp án chuẩn '200 years old'.."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "e harvested only after 6-7 years • after 22 years, only grow 37 ……………………… per year Study measuring radio carbon • no evidence of 38 …………………………… when sea urchins die • they can still 39 …………………………. and grow when very old • growth not connected to 40 ………………… or other external factors",
+      "answerRaw": "0.1 of a centimetre,0.1 of a centimeter,0.1 centimetre,0.1 centimeter",
+      "canonicalAnswer": "0.1 of a centimetre",
+      "acceptedAnswers": [
+        "0.1 of a centimetre",
+        "0.1 of a centimeter",
+        "0.1 centimetre",
+        "0.1 centimeter"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "when it's about 12 centimetres long, it grows at just 0.1 of a centimetre a year.",
+      "evidenceStartTime": 1645.36,
+      "evidenceEndTime": 1651.89,
+      "paraphrases": [],
+      "distractors": [
+        "Có số gây nhiễu (12) xuất hiện sát đáp án chuẩn '0.1 of a centimetre'."
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"0.1 of a centimetre\". Lưu ý bẫy gây nhiễu (distractor): Có số gây nhiễu (12) xuất hiện sát đáp án chuẩn '0.1 of a centimetre'.."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "…………… per year Study measuring radio carbon • no evidence of 38 …………………………… when sea urchins die • they can still 39 …………………………. and grow when very old • growth not connected to 40 ………………… or other external factors",
+      "answerRaw": "ageing,aging",
+      "canonicalAnswer": "ageing",
+      "acceptedAnswers": [
+        "ageing",
+        "aging"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The study measured levels of radiocarbon, and it has shown that even very old Sea Urchins show almost no sign of ageing when something finally kills them.",
+      "evidenceStartTime": 1680.0,
+      "evidenceEndTime": 1691.15,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"ageing\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "ence of 38 …………………………… when sea urchins die • they can still 39 …………………………. and grow when very old • growth not connected to 40 ………………… or other external factors",
+      "answerRaw": "breed",
+      "canonicalAnswer": "breed",
+      "acceptedAnswers": [
+        "breed"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And in addition to that, even when they're incredibly ancient, they are still able to breed.",
+      "evidenceStartTime": 1699.33,
+      "evidenceEndTime": 1706.0,
+      "paraphrases": [
+        {
+          "questionTerm": "old",
+          "audioTerm": "ancient"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"breed\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'old' ↔ 'ancient'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "…………………………. and grow when very old • growth not connected to 40 ………………… or other external factors",
+      "answerRaw": "ocean conditions",
+      "canonicalAnswer": "ocean conditions",
+      "acceptedAnswers": [
+        "ocean conditions"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And this growth is independent of ocean conditions and other variables.",
+      "evidenceStartTime": 1739.0,
+      "evidenceEndTime": 1745.68,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"ocean conditions\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 1.0,
+      "endTime": 11.55,
+      "text": "IELTS Listening Version 17213 You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 11.55,
+      "endTime": 20.51,
+      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 20.51,
+      "endTime": 24.0,
+      "text": "All the recordings will be played once only.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 25.0,
+      "endTime": 32.05,
+      "text": "The test is in four sections. Write all your answers in the listening question booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 32.05,
+      "endTime": 40.0,
+      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 42.0,
+      "endTime": 52.47,
+      "text": "Now turn to Section 1 on page 2 of your question booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 52.47,
+      "endTime": 70.29,
+      "text": "Section 1 You will hear a woman phoning an activity centre for information about weekend courses.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 70.29,
+      "endTime": 82.05,
+      "text": "First, you have some time to look at questions 1 to 4 on page 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 82.05,
+      "endTime": 94.0,
+      "text": "You will see that there is an example that has been done for you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 95.0,
+      "endTime": 114.91,
+      "text": "On this occasion only, the conversation relating to this will be played first.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 114.91,
+      "endTime": 139.15,
+      "text": "The woman is interested in going rock climbing, so rock climbing has been written in the space.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 139.15,
+      "endTime": 144.0,
+      "text": "Now we shall begin.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 145.0,
+      "endTime": 153.44,
+      "text": "You should answer the questions as you listen, because you will not hear the recording a second time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 153.44,
+      "endTime": 160.46,
+      "text": "Listen carefully and answer questions 1 to 4. Good morning. Renfrew Activity Centre.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 160.46,
+      "endTime": 166.14,
+      "text": "How can I help you? Hello. I'm calling about your activity weekends.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 166.14,
+      "endTime": 171.0,
+      "text": "Some colleagues and I would like to learn some new skills.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 171.0,
+      "endTime": 176.35,
+      "text": "We're fed up with the boring things like playing tennis or going to the gym.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 176.35,
+      "endTime": 180.5,
+      "text": "We thought something like rock climbing might be quite fun.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 180.5,
+      "endTime": 184.79,
+      "text": "That's one of the activities you do, don't you? That's right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 184.79,
+      "endTime": 189.22,
+      "text": "The rock climbing takes place here in the centre grounds. Fine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 189.22,
+      "endTime": 195.0,
+      "text": "From your website, I see that the main technique I would learn would be rope work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 195.0,
+      "endTime": 201.41,
+      "text": "What is that exactly? Well, you need to know how to use ropes if you're going to climb,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 201.41,
+      "endTime": 208.19,
+      "text": "so we spend the first morning learning about that, and then we practise on the indoor climb.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 208.19,
+      "endTime": 212.91,
+      "text": "On the second day, we take you on two supervised climbs outside.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 212.91,
+      "endTime": 218.73,
+      "text": "And what's the cost of the weekend? Well, it depends how many of you there are.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 218.73,
+      "endTime": 224.41,
+      "text": "Up to nine people is 65 pounds per person. There'll be about 12 of us. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 224.41,
+      "endTime": 231.19,
+      "text": "That's 60 pounds each. That's very reasonable. Does that include our accommodation and food?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 231.19,
+      "endTime": 234.0,
+      "text": "No, but it does include the equipment.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 234.0,
+      "endTime": 240.5,
+      "text": "Right. Now, I was wondering about the mountain biking weekends. Oh, yes. They're very popular.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 240.5,
+      "endTime": 244.03,
+      "text": "Do you have to be an experienced rider? Not at all.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 244.03,
+      "endTime": 249.0,
+      "text": "We do take you out in the mountains, but our routes are relatively easy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 250.0,
+      "endTime": 260.5,
+      "text": "The website said that we learn to do safety checks on our bikes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 260.5,
+      "endTime": 265.42,
+      "text": "Yes, you learn all about that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 265.42,
+      "endTime": 272.8,
+      "text": "That'll be very useful. And how much is that?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 272.8,
+      "endTime": 283.46,
+      "text": "It's 70 pounds and includes all the help you need from our guide.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 283.46,
+      "endTime": 288.22,
+      "text": "He knows all the best places.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 288.22,
+      "endTime": 306.43,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 5 to 10 on pages 2 and 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 306.43,
+      "endTime": 313.0,
+      "text": "Now listen and answer questions 5 to 10.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 313.0,
+      "endTime": 321.59,
+      "text": "Some of my colleagues might prefer something a little less energetic, maybe camping or walking.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 321.59,
+      "endTime": 330.0,
+      "text": "There was something on the website called wild camping. It's in the forest, the website said.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 330.0,
+      "endTime": 334.18,
+      "text": "That's right. I read a bit about it in the paper last week.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 334.18,
+      "endTime": 338.0,
+      "text": "They said that the forest has the most amazing plants.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 338.0,
+      "endTime": 344.17,
+      "text": "Do we get a chance to learn something about that? Yes, you do. And the cost? 50 pounds.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 344.17,
+      "endTime": 347.0,
+      "text": "That includes your tented accommodation.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 347.0,
+      "endTime": 348.44,
+      "text": "Right, I've got that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 348.44,
+      "endTime": 354.01,
+      "text": "I think the other activity which we may be interested in is the hill walking one.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 354.01,
+      "endTime": 356.62,
+      "text": "That's in the National Park, isn't it?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 356.62,
+      "endTime": 362.0,
+      "text": "Yes, it's very popular and it gives people a chance to get to know each other.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 363.0,
+      "endTime": 368.98,
+      "text": "And so you won't get lost when you go walking on your own. We teach you some navigation skills.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 368.98,
+      "endTime": 371.0,
+      "text": "And the cost of that? 90 pounds.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 371.0,
+      "endTime": 377.72,
+      "text": "Does that include accommodation? It doesn't, but there are some very inexpensive B&Bs nearby.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 1,
+      "startTime": 377.72,
+      "endTime": 383.0,
+      "text": "Or you can stay at the local youth hostel, but lunch is included. Thanks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 1,
+      "startTime": 384.0,
+      "endTime": 389.7,
+      "text": "Oh, and just a couple of other things. Yes? Will you need a deposit with the booking? Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 1,
+      "startTime": 389.7,
+      "endTime": 394.0,
+      "text": "When you book, we usually ask for a deposit of 25 pounds per person.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 1,
+      "startTime": 395.0,
+      "endTime": 399.89,
+      "text": "But if you're booking for a group, then it'll be 20% of the total cost. OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 1,
+      "startTime": 399.89,
+      "endTime": 404.59,
+      "text": "And is there any equipment we must bring with us, or is it all provided?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 1,
+      "startTime": 404.59,
+      "endTime": 410.0,
+      "text": "The most important thing is to have the right shoes, so you'll need to bring those.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 1,
+      "startTime": 410.0,
+      "endTime": 414.09,
+      "text": "Other things like maps and wet weather gear can be borrowed from here.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 1,
+      "startTime": 414.09,
+      "endTime": 415.67,
+      "text": "Right, that's good to know.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 1,
+      "startTime": 415.67,
+      "endTime": 420.0,
+      "text": "I'll get back to my colleagues and call you when we've decided what to do.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 1,
+      "startTime": 420.0,
+      "endTime": 427.68,
+      "text": "Or you could book it online. But don't hesitate to call me if you still have questions.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 1,
+      "startTime": 427.68,
+      "endTime": 435.0,
+      "text": "My name's Gordon. Gordon Arkwright. That's A-R-K-W-R-I-G-H-T. Thanks for your help.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 1,
+      "startTime": 438.0,
+      "endTime": 461.79,
+      "text": "That is the end of Section 1.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 1,
+      "startTime": 461.79,
+      "endTime": 502.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 2,
+      "startTime": 502.0,
+      "endTime": 507.72,
+      "text": "Now turn to Section 2 on page 4. Section 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 2,
+      "startTime": 507.72,
+      "endTime": 523.03,
+      "text": "You will hear a radio show host interviewing a man called Michael McKay, who is the director of a Canadian theatre.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 2,
+      "startTime": 523.03,
+      "endTime": 531.68,
+      "text": "First you have some time to look at questions 11 to 14 on page 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 2,
+      "startTime": 531.68,
+      "endTime": 539.0,
+      "text": "First you have some time to look at questions 11 to 15.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 2,
+      "startTime": 539.0,
+      "endTime": 545.83,
+      "text": "Now listen carefully and answer questions 11 to 15. Hi, everybody.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 2,
+      "startTime": 545.83,
+      "endTime": 554.0,
+      "text": "Thank you very much for agreeing to participate in the next beach clean-up day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 2,
+      "startTime": 554.0,
+      "endTime": 557.62,
+      "text": "These days are a real benefit for our community.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 2,
+      "startTime": 557.62,
+      "endTime": 567.95,
+      "text": "I'm Brenda, the organiser, and I just want to explain a bit about the day to help you prepare and to answer any questions you might have.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 2,
+      "startTime": 567.95,
+      "endTime": 573.0,
+      "text": "The beach that's been chosen for the clean-up day is Quinlan Beach.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 574.0,
+      "endTime": 583.18,
+      "text": "Because it's easily accessible by public transport, the beach is really popular and well used by locals and tourists alike.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 583.18,
+      "endTime": 589.0,
+      "text": "The town council does its best to provide bins, but litter is still a problem.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 589.0,
+      "endTime": 599.0,
+      "text": "It's important to deal with this, as it's a threat to the groups of seals that swim around there and regularly rest on the flat rocks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 600.0,
+      "endTime": 607.04,
+      "text": "When you observe them in their natural habitat, you really sense why you're picking up this litter.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 607.04,
+      "endTime": 611.66,
+      "text": "You'll be working in groups of three to four people at the beach.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 611.66,
+      "endTime": 616.0,
+      "text": "Some of you have signed up as groups already, which is great.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 617.0,
+      "endTime": 620.75,
+      "text": "The rest of you will be organised into groups on the day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 620.75,
+      "endTime": 623.32,
+      "text": "There are different roles in the group.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 623.32,
+      "endTime": 627.0,
+      "text": "It'll be up to you to choose who does what in the group.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 628.0,
+      "endTime": 634.1,
+      "text": "After lunch, we'll form new groups, which will give you a chance to get to know new people.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 634.1,
+      "endTime": 637.85,
+      "text": "You may be wondering what kind of equipment you'll need.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 637.85,
+      "endTime": 641.0,
+      "text": "You may have seen tools to pick up litter with.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 641.0,
+      "endTime": 643.5,
+      "text": "They're like poles with a sharp end.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 643.5,
+      "endTime": 647.87,
+      "text": "If you want to use one of those, you'll have to bring your own.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 647.87,
+      "endTime": 655.0,
+      "text": "After the safety briefing, we'll give you each a whistle to blow in case you need to get our attention.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 656.0,
+      "endTime": 663.56,
+      "text": "The town council is providing special collection bags for us to use, which are fully biodegradable.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 663.56,
+      "endTime": 668.9,
+      "text": "There are a few things to keep in mind regarding clothing for the day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 668.9,
+      "endTime": 676.0,
+      "text": "Definitely go for something comfortable and wear shoes or boots that will keep your feet dry.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 677.0,
+      "endTime": 682.68,
+      "text": "We're all going to be given yellow caps so we can identify each other.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 682.68,
+      "endTime": 691.19,
+      "text": "The town council is supplying vinyl gloves, but they're quite large, so your own may be more comfortable.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 691.19,
+      "endTime": 695.0,
+      "text": "Sunscreen is up to you, but highly recommended.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 697.0,
+      "endTime": 703.46,
+      "text": "Each group that goes out picking up litter will be given a survey to fill in as you go along.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 703.46,
+      "endTime": 712.7,
+      "text": "The town council can get an estimate of the quantity and the different kinds of litter we gather up by examining the bags we collect.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 712.7,
+      "endTime": 720.0,
+      "text": "However, they are very keen to know more about where you find the rubbish, which may help them in future.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 2,
+      "startTime": 720.0,
+      "endTime": 736.66,
+      "text": "So that's what you're asked to indicate on the survey.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 2,
+      "startTime": 736.66,
+      "endTime": 753.01,
+      "text": "OK, now please look at the map showing Quinlan Beach.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 2,
+      "startTime": 753.01,
+      "endTime": 778.0,
+      "text": "When you arrive, you can park in the car park, which is at the bottom of the map.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 2,
+      "startTime": 778.0,
+      "endTime": 786.13,
+      "text": "The first aid station is close to the shore and will be staffed all day in case anyone needs it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 2,
+      "startTime": 786.13,
+      "endTime": 793.84,
+      "text": "You can find it by taking the footpath that goes north from the car park towards the beach.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 2,
+      "startTime": 793.84,
+      "endTime": 799.0,
+      "text": "The path branches out, but carry on straight and there it is.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 2,
+      "startTime": 800.0,
+      "endTime": 808.84,
+      "text": "To get to the equipment pickup, walk along the road that leads from the car park, around the bend and past the bus stop.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 2,
+      "startTime": 808.84,
+      "endTime": 815.91,
+      "text": "There's a small building before you get to the golf club and that's where the equipment is kept.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 2,
+      "startTime": 815.91,
+      "endTime": 819.0,
+      "text": "You'll want to know where the toilets are.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 2,
+      "startTime": 820.0,
+      "endTime": 826.65,
+      "text": "They're adjacent to the car park, on the opposite side from where the wooded area is.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 2,
+      "startTime": 826.65,
+      "endTime": 832.51,
+      "text": "You can see the beach is sort of divided into two stretches by rocky point.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 2,
+      "startTime": 832.51,
+      "endTime": 839.0,
+      "text": "The meeting point for the beach cleanup is on the beach that's closest to the cafe.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 2,
+      "startTime": 840.0,
+      "endTime": 846.92,
+      "text": "Later in the day, you'll move to the West Beach. We'll be meeting for lunch at 1pm.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 2,
+      "startTime": 846.92,
+      "endTime": 852.0,
+      "text": "Some food is available in the cafe or you can bring your own.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 2,
+      "startTime": 853.0,
+      "endTime": 870.2,
+      "text": "We'll meet in the area immediately outside the entrance to the Grand Pier where there are picnic tables.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 2,
+      "startTime": 870.2,
+      "endTime": 875.33,
+      "text": "You get a good view from there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 2,
+      "startTime": 875.33,
+      "endTime": 881.45,
+      "text": "So now, if there are any questions...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 2,
+      "startTime": 881.45,
+      "endTime": 885.75,
+      "text": "That is the end of Part 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 2,
+      "startTime": 885.75,
+      "endTime": 895.0,
+      "text": "You now have 30 seconds to check your answers to Part 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 3,
+      "startTime": 895.0,
+      "endTime": 896.0,
+      "text": "You will hear a student called Aya discussing her research project about maths ability with her tutor.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 3,
+      "startTime": 896.0,
+      "endTime": 914.03,
+      "text": "First, you have some time to look at questions 21 to 23.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 3,
+      "startTime": 914.03,
+      "endTime": 930.45,
+      "text": "Now listen carefully and answer questions 21 to 23.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 3,
+      "startTime": 930.45,
+      "endTime": 934.0,
+      "text": "Right, Aya.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 935.0,
+      "endTime": 946.01,
+      "text": "Last time we met, you decided to choose skills and attitudes in learning maths as the focus of your research project and you were thinking of splitting it into two sections.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 946.01,
+      "endTime": 947.22,
+      "text": "Is that right? Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 947.22,
+      "endTime": 956.0,
+      "text": "I decided to start by looking at people's attitude to maths and then go on to research how people actually solve different maths problems.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 956.0,
+      "endTime": 958.86,
+      "text": "Great. Now, what research methods did you use?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 958.86,
+      "endTime": 968.18,
+      "text": "Well, I explored lots of different techniques and actually tried out things like sending out questionnaires but then I opted for a different approach.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 968.18,
+      "endTime": 977.0,
+      "text": "I thought face-to-face interviews would be more appropriate because you can look at things in more depth when you're actually with the person.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 977.0,
+      "endTime": 980.45,
+      "text": "Hmm. How many participants did you have?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 980.45,
+      "endTime": 985.98,
+      "text": "Quite a few, which meant interviewing was pretty demanding work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 985.98,
+      "endTime": 989.0,
+      "text": "25 altogether, 14 men and 11 women.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 990.0,
+      "endTime": 991.83,
+      "text": "How did you identify them?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 991.83,
+      "endTime": 1006.22,
+      "text": "Well, they were all students at this college and what I did was send round a really short questionnaire by email asking whether people liked maths and these 25 answered not at all, which is what I needed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 1006.22,
+      "endTime": 1010.59,
+      "text": "So you followed them up? Yeah, and arranged to interview them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 1010.59,
+      "endTime": 1016.3,
+      "text": "Now, the first question I asked them was, how good do you think you are at maths?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 1016.3,
+      "endTime": 1018.0,
+      "text": "And I got these results.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 1018.0,
+      "endTime": 1021.77,
+      "text": "A pretty even split at either end of the continuum.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 1021.77,
+      "endTime": 1026.06,
+      "text": "20% for both good and poor and the majority in the middle.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 1026.06,
+      "endTime": 1033.0,
+      "text": "And I should emphasise that for this there were no distinct differences between men and women.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 1033.0,
+      "endTime": 1036.55,
+      "text": "Did those figures surprise you? I wouldn't say so.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 1036.55,
+      "endTime": 1041.52,
+      "text": "What did shock me was how violently anti-maths as a subject they were.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 1041.52,
+      "endTime": 1044.0,
+      "text": "It wasn't what I'd expected at all.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1045.0,
+      "endTime": 1051.08,
+      "text": "Yes, I can imagine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1051.08,
+      "endTime": 1080.86,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 24 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1080.86,
+      "endTime": 1094.0,
+      "text": "Now listen and answer questions 24 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1098.0,
+      "endTime": 1106.9,
+      "text": "Anyway, the next part of my interview asked about their experiences of learning maths and why they had become so negative about it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1106.9,
+      "endTime": 1112.34,
+      "text": "I identified three different levels of importance, as you can see in this table.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1112.34,
+      "endTime": 1117.78,
+      "text": "Do you mean the first row shows those points which were considered most serious?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1117.78,
+      "endTime": 1119.0,
+      "text": "Yes, that's right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1120.0,
+      "endTime": 1123.91,
+      "text": "And the second row, the second most important, and so on.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1123.91,
+      "endTime": 1128.51,
+      "text": "And I also showed the difference between female and male responses.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1128.51,
+      "endTime": 1136.0,
+      "text": "Now, you can see that for the women, they thought bad teaching was mainly to blame for their disliking maths.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1137.0,
+      "endTime": 1138.79,
+      "text": "Didn't the men think that? No.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1138.79,
+      "endTime": 1143.99,
+      "text": "They talked mostly about the fact that they were actually, you know, scared of numbers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1143.99,
+      "endTime": 1148.0,
+      "text": "And some of these people considered themselves to be good at maths.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 3,
+      "startTime": 1149.0,
+      "endTime": 1150.83,
+      "text": "Yeah, interesting, isn't it?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 3,
+      "startTime": 1150.83,
+      "endTime": 1160.51,
+      "text": "And then the problem for the women at the second level was the fact that they couldn't see what applications maths had and what obvious ones anyway.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 3,
+      "startTime": 1160.51,
+      "endTime": 1163.06,
+      "text": "Yes, that's been my experience as well.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 3,
+      "startTime": 1163.06,
+      "endTime": 1173.0,
+      "text": "And for the men, they found problems because they had this strong belief that you have to be born with a talent for the subject to be any good at maths.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 3,
+      "startTime": 1173.0,
+      "endTime": 1176.47,
+      "text": "I've come across that quite often in my work too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 3,
+      "startTime": 1176.47,
+      "endTime": 1182.49,
+      "text": "And then at the third level, it was striking that men and women had the same problem,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 3,
+      "startTime": 1182.49,
+      "endTime": 1189.5,
+      "text": "which was that they weren't really aware of alternative strategies, you know, for solving problems.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 3,
+      "startTime": 1189.5,
+      "endTime": 1190.0,
+      "text": "Thanks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 3,
+      "startTime": 1190.0,
+      "endTime": 1194.2,
+      "text": "Now, what about the second part of your study, Aya?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 3,
+      "startTime": 1194.2,
+      "endTime": 1199.56,
+      "text": "Well, the method I used for my research was observation. Of what?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 3,
+      "startTime": 1199.56,
+      "endTime": 1203.27,
+      "text": "Of how different people solve maths problems.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 3,
+      "startTime": 1203.27,
+      "endTime": 1213.0,
+      "text": "So basically, I set them a problem and asked them to write down any workings out, and I made notes on how they did it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 3,
+      "startTime": 1213.0,
+      "endTime": 1218.47,
+      "text": "Good mathematicians? A mixture actually. Five successful and five less successful.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 3,
+      "startTime": 1218.47,
+      "endTime": 1229.0,
+      "text": "Now, I found that the most common strategy used by the people who got the correct answers was that they attempted to comprehend the question taken as a whole.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 3,
+      "startTime": 1230.0,
+      "endTime": 1236.41,
+      "text": "This obviously helped them a great deal in contrast with the way unsuccessful participants worked.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 3,
+      "startTime": 1236.41,
+      "endTime": 1243.47,
+      "text": "For them, the most common strategy was to take a solution which they had learned before and try to apply it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 3,
+      "startTime": 1243.47,
+      "endTime": 1246.15,
+      "text": "And were there any other strategies? Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 3,
+      "startTime": 1246.15,
+      "endTime": 1252.62,
+      "text": "The second most common technique I saw used by the good problem solvers was visualisation, which...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 3,
+      "startTime": 1252.62,
+      "endTime": 1257.0,
+      "text": "How interesting. I've noticed that's actually how I work best. Yep.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 3,
+      "startTime": 1258.0,
+      "endTime": 1265.88,
+      "text": "And what about the weaker ones?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 3,
+      "startTime": 1265.88,
+      "endTime": 1293.6,
+      "text": "Well, I have to say the strategy they used was to give up immediately after reading the question, I'm afraid.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 3,
+      "startTime": 1293.6,
+      "endTime": 1303.77,
+      "text": "Well, that's extremely interesting, Aya.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 3,
+      "startTime": 1303.77,
+      "endTime": 1311.14,
+      "text": "Now, had you thought about...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 3,
+      "startTime": 1311.14,
+      "endTime": 1317.75,
+      "text": "That is the end of Part 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 3,
+      "startTime": 1317.75,
+      "endTime": 1332.0,
+      "text": "You now have 45 seconds to check your answers to Part 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 4,
+      "startTime": 1332.0,
+      "endTime": 1333.0,
+      "text": "You will hear part of a lecture about a marine creature called the Red Sea Urchin.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 4,
+      "startTime": 1333.0,
+      "endTime": 1361.69,
+      "text": "First, you have some time to look at questions 31 to 40.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 4,
+      "startTime": 1361.69,
+      "endTime": 1388.33,
+      "text": "Now, listen carefully and answer questions 31 to 40.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 4,
+      "startTime": 1388.33,
+      "endTime": 1395.0,
+      "text": "Good morning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 1396.0,
+      "endTime": 1404.27,
+      "text": "Last week, I talked about various research methods in the natural sciences, and you did some background reading on that topic.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 1404.27,
+      "endTime": 1417.33,
+      "text": "Today, I want to take up that theme again and look at a specific example of how data gained using newer techniques has really pushed our knowledge forward, more or less overturning existing theories.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 4,
+      "startTime": 1417.33,
+      "endTime": 1421.0,
+      "text": "So, I'm going to look at the case of the Red Sea Urchin.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 4,
+      "startTime": 1422.0,
+      "endTime": 1424.39,
+      "text": "First of all, some background.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 4,
+      "startTime": 1424.39,
+      "endTime": 1431.4,
+      "text": "As the name suggests, this is a marine animal, and it's found in shallow coastal waters.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 4,
+      "startTime": 1431.4,
+      "endTime": 1433.0,
+      "text": "It grazes on plants.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 4,
+      "startTime": 1434.0,
+      "endTime": 1436.4,
+      "text": "It's an herbivore, in other words.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 4,
+      "startTime": 1436.4,
+      "endTime": 1443.11,
+      "text": "Here in North America, we can find it all along our west coast, from Alaska down to California.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 4,
+      "startTime": 1443.11,
+      "endTime": 1446.0,
+      "text": "So, many of you will be familiar with it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 4,
+      "startTime": 1447.0,
+      "endTime": 1455.3,
+      "text": "And it survives very well because it's covered in spines, which are very sharp, and these deter most predators.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-193",
+      "part": 4,
+      "startTime": 1455.3,
+      "endTime": 1464.2,
+      "text": "Now, in the 1960s, in this country, the Sea Urchin was thought to be partly responsible for the sudden decline in kelp,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-194",
+      "part": 4,
+      "startTime": 1464.2,
+      "endTime": 1471.0,
+      "text": "a plant which supports an extensive ecosystem. So, in fact, it was considered to be a pest.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-195",
+      "part": 4,
+      "startTime": 1472.0,
+      "endTime": 1480.69,
+      "text": "Incidentally, since the 1960s, the thinking on that has changed, and humans are now thought to be to blame.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-196",
+      "part": 4,
+      "startTime": 1480.69,
+      "endTime": 1490.59,
+      "text": "But anyway, Red Sea Urchins weren't popular, and people even tried to poison them, to get rid of them in any way possible.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-197",
+      "part": 4,
+      "startTime": 1490.59,
+      "endTime": 1494.0,
+      "text": "But then, in the 1970s, attitudes changed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-198",
+      "part": 4,
+      "startTime": 1496.0,
+      "endTime": 1499.19,
+      "text": "Interestingly, this had nothing to do with science.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-199",
+      "part": 4,
+      "startTime": 1499.19,
+      "endTime": 1503.07,
+      "text": "There were no new insights into the biology of the Sea Urchin.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-200",
+      "part": 4,
+      "startTime": 1503.07,
+      "endTime": 1506.0,
+      "text": "It was, in fact, a purely economic development.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-201",
+      "part": 4,
+      "startTime": 1507.0,
+      "endTime": 1516.87,
+      "text": "It became apparent that there was a demand for the Red Sea Urchin in Asia, where certain parts of the animal were considered to be a great delicacy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-202",
+      "part": 4,
+      "startTime": 1516.87,
+      "endTime": 1523.0,
+      "text": "And so, a commercial fishery was established based on Sea Urchins. They brought high prices.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-203",
+      "part": 4,
+      "startTime": 1524.0,
+      "endTime": 1531.9,
+      "text": "In fact, at one point during the 1990s, they were one of the most valuable marine resources in the state of California.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-204",
+      "part": 4,
+      "startTime": 1531.9,
+      "endTime": 1536.15,
+      "text": "So, people began to look at the Sea Urchin in a different light.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-205",
+      "part": 4,
+      "startTime": 1536.15,
+      "endTime": 1542.0,
+      "text": "And just at this time, people noticed an apparent decline in the numbers of Sea Urchins.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-206",
+      "part": 4,
+      "startTime": 1543.0,
+      "endTime": 1551.77,
+      "text": "This prompted a wave of scientific studies, with the purpose of getting more information about the species,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-207",
+      "part": 4,
+      "startTime": 1551.77,
+      "endTime": 1557.59,
+      "text": "its life cycle, its biology, survival rate, growth patterns, and so on.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-208",
+      "part": 4,
+      "startTime": 1557.59,
+      "endTime": 1560.05,
+      "text": "So, what did research uncover?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-209",
+      "part": 4,
+      "startTime": 1560.05,
+      "endTime": 1567.18,
+      "text": "Well, the most significant findings came from research based on biochemical techniques.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-210",
+      "part": 4,
+      "startTime": 1567.18,
+      "endTime": 1578.0,
+      "text": "Basically, individual Sea Urchins were tagged and injected with tetracycline, which allowed researchers to track their growth rates.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-211",
+      "part": 4,
+      "startTime": 1579.0,
+      "endTime": 1588.83,
+      "text": "And it quickly became apparent that the Sea Urchins grew a lot more slowly, and lived a lot longer than had previously been thought.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-212",
+      "part": 4,
+      "startTime": 1588.83,
+      "endTime": 1597.32,
+      "text": "Astonishingly, they can have a vast lifespan, greater than that of almost any other terrestrial or marine species.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-213",
+      "part": 4,
+      "startTime": 1597.32,
+      "endTime": 1602.0,
+      "text": "They can live to be 100 years old, and some may even reach 200.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-214",
+      "part": 4,
+      "startTime": 1603.0,
+      "endTime": 1613.25,
+      "text": "Just imagine, an individual Red Sea Urchin that hatched early in the 19th century may still be thriving, and even breeding.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-215",
+      "part": 4,
+      "startTime": 1613.25,
+      "endTime": 1619.17,
+      "text": "It was found that this animal does grow fairly quickly when it's young.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-216",
+      "part": 4,
+      "startTime": 1619.17,
+      "endTime": 1625.0,
+      "text": "At the age of 2, it can grow from 2 to 4 centimetres in just one year.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-217",
+      "part": 4,
+      "startTime": 1626.0,
+      "endTime": 1636.81,
+      "text": "But even then, according to scientists who conducted the research, it still takes 6 or 7 years before it's big enough to be harvested.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-218",
+      "part": 4,
+      "startTime": 1636.81,
+      "endTime": 1645.36,
+      "text": "By the time the Red Sea Urchin is a teenager, its growth slows quite dramatically, and from the age of 22,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-219",
+      "part": 4,
+      "startTime": 1645.36,
+      "endTime": 1651.89,
+      "text": "when it's about 12 centimetres long, it grows at just 0.1 of a centimetre a year.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-220",
+      "part": 4,
+      "startTime": 1651.89,
+      "endTime": 1656.0,
+      "text": "But somehow, the animal never really stops growing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-221",
+      "part": 4,
+      "startTime": 1656.0,
+      "endTime": 1658.38,
+      "text": "It just grows incredibly slowly.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-222",
+      "part": 4,
+      "startTime": 1658.38,
+      "endTime": 1669.25,
+      "text": "Some of the largest, and probably the oldest, Sea Urchins were found off the coast of British Columbia, between Vancouver Island and the mainland.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-223",
+      "part": 4,
+      "startTime": 1669.25,
+      "endTime": 1679.0,
+      "text": "And now another very recent study, one using an entirely different technique, has produced independent evidence for these findings.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-224",
+      "part": 4,
+      "startTime": 1680.0,
+      "endTime": 1691.15,
+      "text": "The study measured levels of radiocarbon, and it has shown that even very old Sea Urchins show almost no sign of ageing when something finally kills them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-225",
+      "part": 4,
+      "startTime": 1691.15,
+      "endTime": 1699.33,
+      "text": "Unlike when someone looks at you or me, you can't look at a Sea Urchin and say whether it's young or middle-aged.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-226",
+      "part": 4,
+      "startTime": 1699.33,
+      "endTime": 1706.0,
+      "text": "And in addition to that, even when they're incredibly ancient, they are still able to breed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-227",
+      "part": 4,
+      "startTime": 1707.0,
+      "endTime": 1717.36,
+      "text": "So, by now, you may be wondering how, with this phenomenal lifespan, there aren't a lot more Sea Urchins around than there actually are.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-228",
+      "part": 4,
+      "startTime": 1717.36,
+      "endTime": 1723.15,
+      "text": "Well, there is a suggestion that reproduction rates for the species are low,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-229",
+      "part": 4,
+      "startTime": 1723.15,
+      "endTime": 1728.94,
+      "text": "because not many Red Sea Urchins are able to survive the first year of life.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-230",
+      "part": 4,
+      "startTime": 1728.94,
+      "endTime": 1738.0,
+      "text": "The study also confirmed the finding that in older Sea Urchins, there is a very steady, very consistent rate of growth.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-231",
+      "part": 4,
+      "startTime": 1739.0,
+      "endTime": 1745.68,
+      "text": "And this growth is independent of ocean conditions and other variables.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-232",
+      "part": 4,
+      "startTime": 1745.68,
+      "endTime": 1752.73,
+      "text": "So, what are the implications of these findings? That is the end of Part 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-233",
+      "part": 4,
+      "startTime": 1752.73,
+      "endTime": 1758.0,
+      "text": "You now have one minute to check your answers to Part 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 1.0,
+      "endTime": 24.0,
+      "text": "IELTS Listening Version 17213 You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 25.0,
+      "endTime": 52.47,
+      "text": "The test is in four sections. Write all your answers in the listening question booklet. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to Section 1 on page 2 of your question booklet.",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 52.47,
+      "endTime": 94.0,
+      "text": "Section 1 You will hear a woman phoning an activity centre for information about weekend courses. First, you have some time to look at questions 1 to 4 on page 2. You will see that there is an example that has been done for you.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008",
+        "seg-009"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 95.0,
+      "endTime": 114.91,
+      "text": "On this occasion only, the conversation relating to this will be played first.",
+      "segmentIds": [
+        "seg-010"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 114.91,
+      "endTime": 153.44,
+      "text": "The woman is interested in going rock climbing, so rock climbing has been written in the space. Now we shall begin. You should answer the questions as you listen, because you will not hear the recording a second time.",
+      "segmentIds": [
+        "seg-011",
+        "seg-012",
+        "seg-013"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 153.44,
+      "endTime": 176.35,
+      "text": "Listen carefully and answer questions 1 to 4. Good morning. Renfrew Activity Centre. How can I help you? Hello. I'm calling about your activity weekends. Some colleagues and I would like to learn some new skills. We're fed up with the boring things like playing tennis or going to the gym.",
+      "segmentIds": [
+        "seg-014",
+        "seg-015",
+        "seg-016",
+        "seg-017"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 176.35,
+      "endTime": 195.0,
+      "text": "We thought something like rock climbing might be quite fun. That's one of the activities you do, don't you? That's right. The rock climbing takes place here in the centre grounds. Fine. From your website, I see that the main technique I would learn would be rope work.",
+      "segmentIds": [
+        "seg-018",
+        "seg-019",
+        "seg-020",
+        "seg-021"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 195.0,
+      "endTime": 218.73,
+      "text": "What is that exactly? Well, you need to know how to use ropes if you're going to climb, so we spend the first morning learning about that, and then we practise on the indoor climb. On the second day, we take you on two supervised climbs outside. And what's the cost of the weekend? Well, it depends how many of you there are.",
+      "segmentIds": [
+        "seg-022",
+        "seg-023",
+        "seg-024",
+        "seg-025"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 218.73,
+      "endTime": 240.5,
+      "text": "Up to nine people is 65 pounds per person. There'll be about 12 of us. Right. That's 60 pounds each. That's very reasonable. Does that include our accommodation and food? No, but it does include the equipment. Right. Now, I was wondering about the mountain biking weekends. Oh, yes. They're very popular.",
+      "segmentIds": [
+        "seg-026",
+        "seg-027",
+        "seg-028",
+        "seg-029"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 240.5,
+      "endTime": 260.5,
+      "text": "Do you have to be an experienced rider? Not at all. We do take you out in the mountains, but our routes are relatively easy. The website said that we learn to do safety checks on our bikes.",
+      "segmentIds": [
+        "seg-030",
+        "seg-031",
+        "seg-032"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 260.5,
+      "endTime": 283.46,
+      "text": "Yes, you learn all about that. That'll be very useful. And how much is that? It's 70 pounds and includes all the help you need from our guide.",
+      "segmentIds": [
+        "seg-033",
+        "seg-034",
+        "seg-035"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 283.46,
+      "endTime": 313.0,
+      "text": "He knows all the best places. Before you hear the rest of the conversation, you have some time to look at questions 5 to 10 on pages 2 and 3. Now listen and answer questions 5 to 10.",
+      "segmentIds": [
+        "seg-036",
+        "seg-037",
+        "seg-038"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 313.0,
+      "endTime": 334.18,
+      "text": "Some of my colleagues might prefer something a little less energetic, maybe camping or walking. There was something on the website called wild camping. It's in the forest, the website said. That's right. I read a bit about it in the paper last week.",
+      "segmentIds": [
+        "seg-039",
+        "seg-040",
+        "seg-041"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 334.18,
+      "endTime": 354.01,
+      "text": "They said that the forest has the most amazing plants. Do we get a chance to learn something about that? Yes, you do. And the cost? 50 pounds. That includes your tented accommodation. Right, I've got that. I think the other activity which we may be interested in is the hill walking one.",
+      "segmentIds": [
+        "seg-042",
+        "seg-043",
+        "seg-044",
+        "seg-045",
+        "seg-046"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 354.01,
+      "endTime": 377.72,
+      "text": "That's in the National Park, isn't it? Yes, it's very popular and it gives people a chance to get to know each other. And so you won't get lost when you go walking on your own. We teach you some navigation skills. And the cost of that? 90 pounds. Does that include accommodation? It doesn't, but there are some very inexpensive B&Bs nearby.",
+      "segmentIds": [
+        "seg-047",
+        "seg-048",
+        "seg-049",
+        "seg-050",
+        "seg-051"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 377.72,
+      "endTime": 399.89,
+      "text": "Or you can stay at the local youth hostel, but lunch is included. Thanks. Oh, and just a couple of other things. Yes? Will you need a deposit with the booking? Yes. When you book, we usually ask for a deposit of 25 pounds per person. But if you're booking for a group, then it'll be 20% of the total cost. OK.",
+      "segmentIds": [
+        "seg-052",
+        "seg-053",
+        "seg-054",
+        "seg-055"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 1,
+      "startTime": 399.89,
+      "endTime": 420.0,
+      "text": "And is there any equipment we must bring with us, or is it all provided? The most important thing is to have the right shoes, so you'll need to bring those. Other things like maps and wet weather gear can be borrowed from here. Right, that's good to know. I'll get back to my colleagues and call you when we've decided what to do.",
+      "segmentIds": [
+        "seg-056",
+        "seg-057",
+        "seg-058",
+        "seg-059",
+        "seg-060"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 1,
+      "startTime": 420.0,
+      "endTime": 461.79,
+      "text": "Or you could book it online. But don't hesitate to call me if you still have questions. My name's Gordon. Gordon Arkwright. That's A-R-K-W-R-I-G-H-T. Thanks for your help. That is the end of Section 1.",
+      "segmentIds": [
+        "seg-061",
+        "seg-062",
+        "seg-063"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 1,
+      "startTime": 461.79,
+      "endTime": 502.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-064"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 502.0,
+      "endTime": 531.68,
+      "text": "Now turn to Section 2 on page 4. Section 2. You will hear a radio show host interviewing a man called Michael McKay, who is the director of a Canadian theatre. First you have some time to look at questions 11 to 14 on page 4.",
+      "segmentIds": [
+        "seg-065",
+        "seg-066",
+        "seg-067"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-021",
+      "part": 2,
+      "startTime": 531.68,
+      "endTime": 554.0,
+      "text": "First you have some time to look at questions 11 to 15. Now listen carefully and answer questions 11 to 15. Hi, everybody. Thank you very much for agreeing to participate in the next beach clean-up day.",
+      "segmentIds": [
+        "seg-068",
+        "seg-069",
+        "seg-070"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 554.0,
+      "endTime": 573.0,
+      "text": "These days are a real benefit for our community. I'm Brenda, the organiser, and I just want to explain a bit about the day to help you prepare and to answer any questions you might have. The beach that's been chosen for the clean-up day is Quinlan Beach.",
+      "segmentIds": [
+        "seg-071",
+        "seg-072",
+        "seg-073"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-023",
+      "part": 2,
+      "startTime": 574.0,
+      "endTime": 599.0,
+      "text": "Because it's easily accessible by public transport, the beach is really popular and well used by locals and tourists alike. The town council does its best to provide bins, but litter is still a problem. It's important to deal with this, as it's a threat to the groups of seals that swim around there and regularly rest on the flat rocks.",
+      "segmentIds": [
+        "seg-074",
+        "seg-075",
+        "seg-076"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 2,
+      "startTime": 600.0,
+      "endTime": 623.32,
+      "text": "When you observe them in their natural habitat, you really sense why you're picking up this litter. You'll be working in groups of three to four people at the beach. Some of you have signed up as groups already, which is great. The rest of you will be organised into groups on the day. There are different roles in the group.",
+      "segmentIds": [
+        "seg-077",
+        "seg-078",
+        "seg-079",
+        "seg-080",
+        "seg-081"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 623.32,
+      "endTime": 643.5,
+      "text": "It'll be up to you to choose who does what in the group. After lunch, we'll form new groups, which will give you a chance to get to know new people. You may be wondering what kind of equipment you'll need. You may have seen tools to pick up litter with. They're like poles with a sharp end.",
+      "segmentIds": [
+        "seg-082",
+        "seg-083",
+        "seg-084",
+        "seg-085",
+        "seg-086"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 643.5,
+      "endTime": 663.56,
+      "text": "If you want to use one of those, you'll have to bring your own. After the safety briefing, we'll give you each a whistle to blow in case you need to get our attention. The town council is providing special collection bags for us to use, which are fully biodegradable.",
+      "segmentIds": [
+        "seg-087",
+        "seg-088",
+        "seg-089"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 663.56,
+      "endTime": 682.68,
+      "text": "There are a few things to keep in mind regarding clothing for the day. Definitely go for something comfortable and wear shoes or boots that will keep your feet dry. We're all going to be given yellow caps so we can identify each other.",
+      "segmentIds": [
+        "seg-090",
+        "seg-091",
+        "seg-092"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 682.68,
+      "endTime": 703.46,
+      "text": "The town council is supplying vinyl gloves, but they're quite large, so your own may be more comfortable. Sunscreen is up to you, but highly recommended. Each group that goes out picking up litter will be given a survey to fill in as you go along.",
+      "segmentIds": [
+        "seg-093",
+        "seg-094",
+        "seg-095"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 703.46,
+      "endTime": 736.66,
+      "text": "The town council can get an estimate of the quantity and the different kinds of litter we gather up by examining the bags we collect. However, they are very keen to know more about where you find the rubbish, which may help them in future. So that's what you're asked to indicate on the survey.",
+      "segmentIds": [
+        "seg-096",
+        "seg-097",
+        "seg-098"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 736.66,
+      "endTime": 778.0,
+      "text": "OK, now please look at the map showing Quinlan Beach. When you arrive, you can park in the car park, which is at the bottom of the map.",
+      "segmentIds": [
+        "seg-099",
+        "seg-100"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 2,
+      "startTime": 778.0,
+      "endTime": 799.0,
+      "text": "The first aid station is close to the shore and will be staffed all day in case anyone needs it. You can find it by taking the footpath that goes north from the car park towards the beach. The path branches out, but carry on straight and there it is.",
+      "segmentIds": [
+        "seg-101",
+        "seg-102",
+        "seg-103"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 2,
+      "startTime": 800.0,
+      "endTime": 819.0,
+      "text": "To get to the equipment pickup, walk along the road that leads from the car park, around the bend and past the bus stop. There's a small building before you get to the golf club and that's where the equipment is kept. You'll want to know where the toilets are.",
+      "segmentIds": [
+        "seg-104",
+        "seg-105",
+        "seg-106"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 2,
+      "startTime": 820.0,
+      "endTime": 839.0,
+      "text": "They're adjacent to the car park, on the opposite side from where the wooded area is. You can see the beach is sort of divided into two stretches by rocky point. The meeting point for the beach cleanup is on the beach that's closest to the cafe.",
+      "segmentIds": [
+        "seg-107",
+        "seg-108",
+        "seg-109"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 2,
+      "startTime": 840.0,
+      "endTime": 870.2,
+      "text": "Later in the day, you'll move to the West Beach. We'll be meeting for lunch at 1pm. Some food is available in the cafe or you can bring your own. We'll meet in the area immediately outside the entrance to the Grand Pier where there are picnic tables.",
+      "segmentIds": [
+        "seg-110",
+        "seg-111",
+        "seg-112"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 2,
+      "startTime": 870.2,
+      "endTime": 885.75,
+      "text": "You get a good view from there. So now, if there are any questions... That is the end of Part 2.",
+      "segmentIds": [
+        "seg-113",
+        "seg-114",
+        "seg-115"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 2,
+      "startTime": 885.75,
+      "endTime": 895.0,
+      "text": "You now have 30 seconds to check your answers to Part 2.",
+      "segmentIds": [
+        "seg-116"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 895.0,
+      "endTime": 930.45,
+      "text": "You will hear a student called Aya discussing her research project about maths ability with her tutor. First, you have some time to look at questions 21 to 23. Now listen carefully and answer questions 21 to 23.",
+      "segmentIds": [
+        "seg-117",
+        "seg-118",
+        "seg-119"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 930.45,
+      "endTime": 947.22,
+      "text": "Right, Aya. Last time we met, you decided to choose skills and attitudes in learning maths as the focus of your research project and you were thinking of splitting it into two sections. Is that right? Yes.",
+      "segmentIds": [
+        "seg-120",
+        "seg-121",
+        "seg-122"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 947.22,
+      "endTime": 968.18,
+      "text": "I decided to start by looking at people's attitude to maths and then go on to research how people actually solve different maths problems. Great. Now, what research methods did you use? Well, I explored lots of different techniques and actually tried out things like sending out questionnaires but then I opted for a different approach.",
+      "segmentIds": [
+        "seg-123",
+        "seg-124",
+        "seg-125"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 968.18,
+      "endTime": 991.83,
+      "text": "I thought face-to-face interviews would be more appropriate because you can look at things in more depth when you're actually with the person. Hmm. How many participants did you have? Quite a few, which meant interviewing was pretty demanding work. 25 altogether, 14 men and 11 women. How did you identify them?",
+      "segmentIds": [
+        "seg-126",
+        "seg-127",
+        "seg-128",
+        "seg-129",
+        "seg-130"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 3,
+      "startTime": 991.83,
+      "endTime": 1016.3,
+      "text": "Well, they were all students at this college and what I did was send round a really short questionnaire by email asking whether people liked maths and these 25 answered not at all, which is what I needed. So you followed them up? Yeah, and arranged to interview them. Now, the first question I asked them was, how good do you think you are at maths?",
+      "segmentIds": [
+        "seg-131",
+        "seg-132",
+        "seg-133"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 1016.3,
+      "endTime": 1036.55,
+      "text": "And I got these results. A pretty even split at either end of the continuum. 20% for both good and poor and the majority in the middle. And I should emphasise that for this there were no distinct differences between men and women. Did those figures surprise you? I wouldn't say so.",
+      "segmentIds": [
+        "seg-134",
+        "seg-135",
+        "seg-136",
+        "seg-137",
+        "seg-138"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 1036.55,
+      "endTime": 1051.08,
+      "text": "What did shock me was how violently anti-maths as a subject they were. It wasn't what I'd expected at all. Yes, I can imagine.",
+      "segmentIds": [
+        "seg-139",
+        "seg-140",
+        "seg-141"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 1051.08,
+      "endTime": 1080.86,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 24 to 30.",
+      "segmentIds": [
+        "seg-142"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1080.86,
+      "endTime": 1112.34,
+      "text": "Now listen and answer questions 24 to 30. Anyway, the next part of my interview asked about their experiences of learning maths and why they had become so negative about it. I identified three different levels of importance, as you can see in this table.",
+      "segmentIds": [
+        "seg-143",
+        "seg-144",
+        "seg-145"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1112.34,
+      "endTime": 1136.0,
+      "text": "Do you mean the first row shows those points which were considered most serious? Yes, that's right. And the second row, the second most important, and so on. And I also showed the difference between female and male responses. Now, you can see that for the women, they thought bad teaching was mainly to blame for their disliking maths.",
+      "segmentIds": [
+        "seg-146",
+        "seg-147",
+        "seg-148",
+        "seg-149",
+        "seg-150"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1137.0,
+      "endTime": 1160.51,
+      "text": "Didn't the men think that? No. They talked mostly about the fact that they were actually, you know, scared of numbers. And some of these people considered themselves to be good at maths. Yeah, interesting, isn't it? And then the problem for the women at the second level was the fact that they couldn't see what applications maths had and what obvious ones anyway.",
+      "segmentIds": [
+        "seg-151",
+        "seg-152",
+        "seg-153",
+        "seg-154",
+        "seg-155"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 3,
+      "startTime": 1160.51,
+      "endTime": 1182.49,
+      "text": "Yes, that's been my experience as well. And for the men, they found problems because they had this strong belief that you have to be born with a talent for the subject to be any good at maths. I've come across that quite often in my work too. And then at the third level, it was striking that men and women had the same problem,",
+      "segmentIds": [
+        "seg-156",
+        "seg-157",
+        "seg-158",
+        "seg-159"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-049",
+      "part": 3,
+      "startTime": 1182.49,
+      "endTime": 1203.27,
+      "text": "which was that they weren't really aware of alternative strategies, you know, for solving problems. Thanks. Now, what about the second part of your study, Aya? Well, the method I used for my research was observation. Of what? Of how different people solve maths problems.",
+      "segmentIds": [
+        "seg-160",
+        "seg-161",
+        "seg-162",
+        "seg-163",
+        "seg-164"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-050",
+      "part": 3,
+      "startTime": 1203.27,
+      "endTime": 1229.0,
+      "text": "So basically, I set them a problem and asked them to write down any workings out, and I made notes on how they did it. Good mathematicians? A mixture actually. Five successful and five less successful. Now, I found that the most common strategy used by the people who got the correct answers was that they attempted to comprehend the question taken as a whole.",
+      "segmentIds": [
+        "seg-165",
+        "seg-166",
+        "seg-167"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-051",
+      "part": 3,
+      "startTime": 1230.0,
+      "endTime": 1252.62,
+      "text": "This obviously helped them a great deal in contrast with the way unsuccessful participants worked. For them, the most common strategy was to take a solution which they had learned before and try to apply it. And were there any other strategies? Yes. The second most common technique I saw used by the good problem solvers was visualisation, which...",
+      "segmentIds": [
+        "seg-168",
+        "seg-169",
+        "seg-170",
+        "seg-171"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-052",
+      "part": 3,
+      "startTime": 1252.62,
+      "endTime": 1293.6,
+      "text": "How interesting. I've noticed that's actually how I work best. Yep. And what about the weaker ones? Well, I have to say the strategy they used was to give up immediately after reading the question, I'm afraid.",
+      "segmentIds": [
+        "seg-172",
+        "seg-173",
+        "seg-174"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-053",
+      "part": 3,
+      "startTime": 1293.6,
+      "endTime": 1317.75,
+      "text": "Well, that's extremely interesting, Aya. Now, had you thought about... That is the end of Part 3.",
+      "segmentIds": [
+        "seg-175",
+        "seg-176",
+        "seg-177"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-054",
+      "part": 3,
+      "startTime": 1317.75,
+      "endTime": 1332.0,
+      "text": "You now have 45 seconds to check your answers to Part 3.",
+      "segmentIds": [
+        "seg-178"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-055",
+      "part": 4,
+      "startTime": 1332.0,
+      "endTime": 1361.69,
+      "text": "You will hear part of a lecture about a marine creature called the Red Sea Urchin. First, you have some time to look at questions 31 to 40.",
+      "segmentIds": [
+        "seg-179",
+        "seg-180"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1361.69,
+      "endTime": 1395.0,
+      "text": "Now, listen carefully and answer questions 31 to 40. Good morning.",
+      "segmentIds": [
+        "seg-181",
+        "seg-182"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-057",
+      "part": 4,
+      "startTime": 1396.0,
+      "endTime": 1421.0,
+      "text": "Last week, I talked about various research methods in the natural sciences, and you did some background reading on that topic. Today, I want to take up that theme again and look at a specific example of how data gained using newer techniques has really pushed our knowledge forward, more or less overturning existing theories. So, I'm going to look at the case of the Red Sea Urchin.",
+      "segmentIds": [
+        "seg-183",
+        "seg-184",
+        "seg-185"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-058",
+      "part": 4,
+      "startTime": 1422.0,
+      "endTime": 1443.11,
+      "text": "First of all, some background. As the name suggests, this is a marine animal, and it's found in shallow coastal waters. It grazes on plants. It's an herbivore, in other words. Here in North America, we can find it all along our west coast, from Alaska down to California.",
+      "segmentIds": [
+        "seg-186",
+        "seg-187",
+        "seg-188",
+        "seg-189",
+        "seg-190"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-059",
+      "part": 4,
+      "startTime": 1443.11,
+      "endTime": 1464.2,
+      "text": "So, many of you will be familiar with it. And it survives very well because it's covered in spines, which are very sharp, and these deter most predators. Now, in the 1960s, in this country, the Sea Urchin was thought to be partly responsible for the sudden decline in kelp,",
+      "segmentIds": [
+        "seg-191",
+        "seg-192",
+        "seg-193"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-060",
+      "part": 4,
+      "startTime": 1464.2,
+      "endTime": 1490.59,
+      "text": "a plant which supports an extensive ecosystem. So, in fact, it was considered to be a pest. Incidentally, since the 1960s, the thinking on that has changed, and humans are now thought to be to blame. But anyway, Red Sea Urchins weren't popular, and people even tried to poison them, to get rid of them in any way possible.",
+      "segmentIds": [
+        "seg-194",
+        "seg-195",
+        "seg-196"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-061",
+      "part": 4,
+      "startTime": 1490.59,
+      "endTime": 1506.0,
+      "text": "But then, in the 1970s, attitudes changed. Interestingly, this had nothing to do with science. There were no new insights into the biology of the Sea Urchin. It was, in fact, a purely economic development.",
+      "segmentIds": [
+        "seg-197",
+        "seg-198",
+        "seg-199",
+        "seg-200"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-062",
+      "part": 4,
+      "startTime": 1507.0,
+      "endTime": 1531.9,
+      "text": "It became apparent that there was a demand for the Red Sea Urchin in Asia, where certain parts of the animal were considered to be a great delicacy. And so, a commercial fishery was established based on Sea Urchins. They brought high prices. In fact, at one point during the 1990s, they were one of the most valuable marine resources in the state of California.",
+      "segmentIds": [
+        "seg-201",
+        "seg-202",
+        "seg-203"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-063",
+      "part": 4,
+      "startTime": 1531.9,
+      "endTime": 1551.77,
+      "text": "So, people began to look at the Sea Urchin in a different light. And just at this time, people noticed an apparent decline in the numbers of Sea Urchins. This prompted a wave of scientific studies, with the purpose of getting more information about the species,",
+      "segmentIds": [
+        "seg-204",
+        "seg-205",
+        "seg-206"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-064",
+      "part": 4,
+      "startTime": 1551.77,
+      "endTime": 1567.18,
+      "text": "its life cycle, its biology, survival rate, growth patterns, and so on. So, what did research uncover? Well, the most significant findings came from research based on biochemical techniques.",
+      "segmentIds": [
+        "seg-207",
+        "seg-208",
+        "seg-209"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-065",
+      "part": 4,
+      "startTime": 1567.18,
+      "endTime": 1597.32,
+      "text": "Basically, individual Sea Urchins were tagged and injected with tetracycline, which allowed researchers to track their growth rates. And it quickly became apparent that the Sea Urchins grew a lot more slowly, and lived a lot longer than had previously been thought. Astonishingly, they can have a vast lifespan, greater than that of almost any other terrestrial or marine species.",
+      "segmentIds": [
+        "seg-210",
+        "seg-211",
+        "seg-212"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-066",
+      "part": 4,
+      "startTime": 1597.32,
+      "endTime": 1619.17,
+      "text": "They can live to be 100 years old, and some may even reach 200. Just imagine, an individual Red Sea Urchin that hatched early in the 19th century may still be thriving, and even breeding. It was found that this animal does grow fairly quickly when it's young.",
+      "segmentIds": [
+        "seg-213",
+        "seg-214",
+        "seg-215"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-067",
+      "part": 4,
+      "startTime": 1619.17,
+      "endTime": 1645.36,
+      "text": "At the age of 2, it can grow from 2 to 4 centimetres in just one year. But even then, according to scientists who conducted the research, it still takes 6 or 7 years before it's big enough to be harvested. By the time the Red Sea Urchin is a teenager, its growth slows quite dramatically, and from the age of 22,",
+      "segmentIds": [
+        "seg-216",
+        "seg-217",
+        "seg-218"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-068",
+      "part": 4,
+      "startTime": 1645.36,
+      "endTime": 1669.25,
+      "text": "when it's about 12 centimetres long, it grows at just 0.1 of a centimetre a year. But somehow, the animal never really stops growing. It just grows incredibly slowly. Some of the largest, and probably the oldest, Sea Urchins were found off the coast of British Columbia, between Vancouver Island and the mainland.",
+      "segmentIds": [
+        "seg-219",
+        "seg-220",
+        "seg-221",
+        "seg-222"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-069",
+      "part": 4,
+      "startTime": 1669.25,
+      "endTime": 1699.33,
+      "text": "And now another very recent study, one using an entirely different technique, has produced independent evidence for these findings. The study measured levels of radiocarbon, and it has shown that even very old Sea Urchins show almost no sign of ageing when something finally kills them. Unlike when someone looks at you or me, you can't look at a Sea Urchin and say whether it's young or middle-aged.",
+      "segmentIds": [
+        "seg-223",
+        "seg-224",
+        "seg-225"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-070",
+      "part": 4,
+      "startTime": 1699.33,
+      "endTime": 1723.15,
+      "text": "And in addition to that, even when they're incredibly ancient, they are still able to breed. So, by now, you may be wondering how, with this phenomenal lifespan, there aren't a lot more Sea Urchins around than there actually are. Well, there is a suggestion that reproduction rates for the species are low,",
+      "segmentIds": [
+        "seg-226",
+        "seg-227",
+        "seg-228"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-071",
+      "part": 4,
+      "startTime": 1723.15,
+      "endTime": 1745.68,
+      "text": "because not many Red Sea Urchins are able to survive the first year of life. The study also confirmed the finding that in older Sea Urchins, there is a very steady, very consistent rate of growth. And this growth is independent of ocean conditions and other variables.",
+      "segmentIds": [
+        "seg-229",
+        "seg-230",
+        "seg-231"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-072",
+      "part": 4,
+      "startTime": 1745.68,
+      "endTime": 1758.0,
+      "text": "So, what are the implications of these findings? That is the end of Part 4. You now have one minute to check your answers to Part 4.",
+      "segmentIds": [
+        "seg-232",
+        "seg-233"
+      ],
+      "timestampSource": "exact"
+    }
+  ]
+}

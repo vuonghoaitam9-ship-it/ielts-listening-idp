@@ -1,0 +1,3285 @@
+{
+  "id": "vol-8-test-1",
+  "vol": 8,
+  "testNumber": 1,
+  "title": "Vol 8 — Test 1",
+  "pdfUrl": "./data/vol-8/test-1/exam.pdf",
+  "pdfPages": 6,
+  "questionPageRange": [
+    1,
+    6
+  ],
+  "audioUrl": "./data/vol-8/test-1/audio.mp3",
+  "audioDurationSec": 1454.03,
+  "hasExactTimestamps": false,
+  "timestampNote": "Tài liệu gốc Vol 8 không đính kèm mốc giờ từng câu; hệ thống ước lượng tỷ lệ theo độ dài audio gốc. Bạn có thể tinh chỉnh bằng trình biên tập Timestamp / SRT.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 0.0,
+      "endTime": 337.1,
+      "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 337.1,
+      "endTime": 705.71,
+      "topicHint": "You will hear the manager of a bookshop called Bibliostack talking to a group of young people about the way the bookshop is organised."
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 705.71,
+      "endTime": 1090.34,
+      "topicHint": "You will hear a business student called Ron getting feedback from his tutor on his presentation. First, you have some time to look at questions 21 to 24. Now listen carefully and a"
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1090.34,
+      "endTime": 1452.03,
+      "topicHint": "you will hear about studying Dyscalculia, a neurodevelopmental disorder affecting numerical abilities."
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "m Name: Sarah Brown Date of birth: 1 …………. Address: 21 Waverley Road, Radstone, RD4 6W Contact tel. no.: 2 ………… Notes wants to travel in 3 ……… Europe hopes to travel by 4 ……. interested in working in a 5………... recommended to consider an alternative e.g. 6……….. work advised",
+      "answerRaw": "13 March,13 March 1998",
+      "canonicalAnswer": "13 March",
+      "acceptedAnswers": [
+        "13 March",
+        "13 March 1998"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But first of all, I need some personal details, and then we'll match your details against our database to see what's available work-wise. Great. OK, your full name? Sarah Brown. Date of birth? March the 13th. Oh, I'm the 31st! 1988.",
+      "evidenceStartTime": 84.82,
+      "evidenceEndTime": 105.06,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"13 March\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "21 Waverley Road, Radstone, RD4 6W Contact tel. no.: 2 ………… Notes wants to travel in 3 ……… Europe hopes to travel by 4 ……. interested in working in a 5………... recommended to consider an alternative e.g. 6……….. work advised to buy a European 7………..for travelling given a 8 ……….. with accommodation details agreed to",
+      "answerRaw": "0903775115",
+      "canonicalAnswer": "0903775115",
+      "acceptedAnswers": [
+        "0903775115"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And your address? 21 Waverley Road, Radstone RD46WV. And a contact telephone number, please.",
+      "evidenceStartTime": 105.06,
+      "evidenceEndTime": 113.12,
+      "paraphrases": [],
+      "distractors": [
+        "Có số gây nhiễu (21) xuất hiện sát đáp án chuẩn '0903775115'."
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"0903775115\". Lưu ý bẫy gây nhiễu (distractor): Có số gây nhiễu (21) xuất hiện sát đáp án chuẩn '0903775115'.."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "4 6W Contact tel. no.: 2 ………… Notes wants to travel in 3 ……… Europe hopes to travel by 4 ……. interested in working in a 5………... recommended to consider an alternative e.g. 6……….. work advised to buy a European 7………..for travelling given a 8 ……….. with accommodation details agreed to take out 9 ………from the Agency to",
+      "answerRaw": "northern",
+      "canonicalAnswer": "northern",
+      "acceptedAnswers": [
+        "northern"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, I'd like to go to Northern Europe. Have you been there before?",
+      "evidenceStartTime": 123.73,
+      "evidenceEndTime": 129.69,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"northern\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "……… Notes wants to travel in 3 ……… Europe hopes to travel by 4 ……. interested in working in a 5………... recommended to consider an alternative e.g. 6……….. work advised to buy a European 7………..for travelling given a 8 ……….. with accommodation details agreed to take out 9 ………from the Agency told to use an 10 ………for contactin",
+      "answerRaw": "train",
+      "canonicalAnswer": "train",
+      "acceptedAnswers": [
+        "train"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We always went by plane, but now I can choose. I'd like to go by train so I can stop off whenever I want. OK.",
+      "evidenceStartTime": 136.0,
+      "evidenceEndTime": 145.46,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"train\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "… Europe hopes to travel by 4 ……. interested in working in a 5………... recommended to consider an alternative e.g. 6……….. work advised to buy a European 7………..for travelling given a 8 ……….. with accommodation details agreed to take out 9 ………from the Agency told to use an 10 ………for contacting people",
+      "answerRaw": "hotel",
+      "canonicalAnswer": "hotel",
+      "acceptedAnswers": [
+        "hotel"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, I thought about hotel work because then I might get accommodation with the job and I'd like to work for about half the year.",
+      "evidenceStartTime": 150.98,
+      "evidenceEndTime": 162.37,
+      "paraphrases": [
+        {
+          "questionTerm": "accommodation",
+          "audioTerm": "hotel"
+        },
+        {
+          "questionTerm": "work",
+          "audioTerm": "job"
+        }
+      ],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"hotel\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'accommodation' ↔ 'hotel'; 'work' ↔ 'job'. Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "……. Address: 21 Waverley Road, Radstone, RD4 6W Contact tel. no.: 2 ………… Notes wants to travel in 3 ……… Europe hopes to travel by 4 ……. interested in working in a 5………... recommended to consider an alternative e.g. 6……….. work advised to buy a European 7………..for travelling given a 8 ……….. with accom",
+      "answerRaw": "farm",
+      "canonicalAnswer": "farm",
+      "acceptedAnswers": [
+        "farm"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, lots of students like to work on a farm and we have lots of requests from people looking for student workers for a few weeks at a time throughout the year.",
+      "evidenceStartTime": 172.19,
+      "evidenceEndTime": 186.3,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"farm\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "er an alternative e.g. 6……….. work advised to buy a European 7………..for travelling given a 8 ……….. with accommodation details agreed to take out 9 ………from the Agency told to use an 10 ………for contacting people",
+      "answerRaw": "pass",
+      "canonicalAnswer": "pass",
+      "acceptedAnswers": [
+        "pass"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Buying single tickets would be expensive so the best option would be to have a European pass which would give you unlimited rail travel at off-peak times.",
+      "evidenceStartTime": 206.54,
+      "evidenceEndTime": 220.03,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"pass\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "work advised to buy a European 7………..for travelling given a 8 ……….. with accommodation details agreed to take out 9 ………from the Agency told to use an 10 ………for contacting people",
+      "answerRaw": "booklet",
+      "canonicalAnswer": "booklet",
+      "acceptedAnswers": [
+        "booklet"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, I'll give you a booklet now. But it's down to you to book your accommodation.",
+      "evidenceStartTime": 237.99,
+      "evidenceEndTime": 245.18,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"booklet\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "iven a 8 ……….. with accommodation details agreed to take out 9 ………from the Agency told to use an 10 ………for contacting people",
+      "answerRaw": "insurance",
+      "canonicalAnswer": "insurance",
+      "acceptedAnswers": [
+        "insurance"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, before I make any arrangements for you, you need to have insurance for your entire trip.",
+      "evidenceStartTime": 274.01,
+      "evidenceEndTime": 282.25,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"insurance\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "tails agreed to take out 9 ………from the Agency told to use an 10 ………for contacting people",
+      "answerRaw": "internet cafe",
+      "canonicalAnswer": "internet cafe",
+      "acceptedAnswers": [
+        "internet cafe"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's much more sensible to rely on an internet cafe. That's what we tell people to do. Oh, OK.",
+      "evidenceStartTime": 316.25,
+      "evidenceEndTime": 324.49,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"internet cafe\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "orrect letter, A-H, next to questions 11-15. A B C D E F G H 11 seating area 12 cushions 13 computer bench 14 café bar 15 newspapers Questions 16–20 Choose the correct answer. 16 bookshop aims to A sell as many books as possible B create an energetic environment C attract people to remain in the shop 17 children’s books a",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Right in the centre of this floor, but behind the bookshelf so you can't see it very well from here, is our main seating area, where people are encouraged to sit and read for as long as they like.",
+      "evidenceStartTime": 378.22,
+      "evidenceEndTime": 395.28,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "-H, next to questions 11-15. A B C D E F G H 11 seating area 12 cushions 13 computer bench 14 café bar 15 newspapers Questions 16–20 Choose the correct answer. 16 bookshop aims to A sell as many books as possible B create an energetic environment C attract people to remain in the shop 17 children’s books are located A gro",
+      "answerRaw": "F",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Right in the centre of this floor, but behind the bookshelf so you can't see it very well from here, is our main seating area, where people are encouraged to sit and read for as long as they like.",
+      "evidenceStartTime": 378.22,
+      "evidenceEndTime": 395.28,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"F\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "questions 11-15. A B C D E F G H 11 seating area 12 cushions 13 computer bench 14 café bar 15 newspapers Questions 16–20 Choose the correct answer. 16 bookshop aims to A sell as many books as possible B create an energetic environment C attract people to remain in the shop 17 children’s books are located A ground floor B",
+      "answerRaw": "D",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We debated about locating children's books on the ground floor, or halfway up the building, like the third or fourth floor, but in the end,",
+      "evidenceStartTime": 556.61,
+      "evidenceEndTime": 568.77,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "B C D E F G H 11 seating area 12 cushions 13 computer bench 14 café bar 15 newspapers Questions 16–20 Choose the correct answer. 16 bookshop aims to A sell as many books as possible B create an energetic environment C attract people to remain in the shop 17 children’s books are located A ground floor B highest level C mi",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We debated about locating children's books on the ground floor, or halfway up the building, like the third or fourth floor, but in the end,",
+      "evidenceStartTime": 556.61,
+      "evidenceEndTime": 568.77,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "H 11 seating area 12 cushions 13 computer bench 14 café bar 15 newspapers Questions 16–20 Choose the correct answer. 16 bookshop aims to A sell as many books as possible B create an energetic environment C attract people to remain in the shop 17 children’s books are located A ground floor B highest level C midway up 18 p",
+      "answerRaw": "H",
+      "canonicalAnswer": "H",
+      "acceptedAnswers": [
+        "H"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We debated about locating children's books on the ground floor, or halfway up the building, like the third or fourth floor, but in the end,",
+      "evidenceStartTime": 556.61,
+      "evidenceEndTime": 568.77,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"H\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "bar 15 newspapers Questions 16–20 Choose the correct answer. 16 bookshop aims to A sell as many books as possible B create an energetic environment C attract people to remain in the shop 17 children’s books are located A ground floor B highest level C midway up 18 parents to relax A train floor-staff to take care children",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We debated about locating children's books on the ground floor, or halfway up the building, like the third or fourth floor, but in the end,",
+      "evidenceStartTime": 556.61,
+      "evidenceEndTime": 568.77,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "energetic environment C attract people to remain in the shop 17 children’s books are located A ground floor B highest level C midway up 18 parents to relax A train floor-staff to take care children B free nursery C professional child care 19 regular book reading A to sell more books B author gathering C bring more money b",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We debated about locating children's books on the ground floor, or halfway up the building, like the third or fourth floor, but in the end,",
+      "evidenceStartTime": 556.61,
+      "evidenceEndTime": 568.77,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "books are located A ground floor B highest level C midway up 18 parents to relax A train floor-staff to take care children B free nursery C professional child care 19 regular book reading A to sell more books B author gathering C bring more money by charing 20 poetry workshop A encourage their works to be published B to b",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We debated about locating children's books on the ground floor, or halfway up the building, like the third or fourth floor, but in the end,",
+      "evidenceStartTime": 556.61,
+      "evidenceEndTime": 568.77,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "take care children B free nursery C professional child care 19 regular book reading A to sell more books B author gathering C bring more money by charing 20 poetry workshop A encourage their works to be published B to become professional poet C to read them in public",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We don't make a charge for people to attend, but we obviously hope that some of them will want to purchase the book after listening to part of it being read aloud.",
+      "evidenceStartTime": 639.21,
+      "evidenceEndTime": 653.47,
+      "paraphrases": [
+        {
+          "questionTerm": "money",
+          "audioTerm": "charge"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'money' ↔ 'charge'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "more books B author gathering C bring more money by charing 20 poetry workshop A encourage their works to be published B to become professional poet C to read them in public",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's extremely difficult to earn your living as a professional poet, and even published poets have other jobs.",
+      "evidenceStartTime": 683.13,
+      "evidenceEndTime": 692.75,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "ose the correct answer. The Just-in-Time Supply System (JIT) 21 Ron suggests that in his presentation he should have A given credit to the originators of the JIT idea. B discussed why the Japanese adopted the JIT idea. C explained how supermarkets used the JIT idea. 22 The tutor says that in his presentation Ron omitted A",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You will hear a business student called Ron getting feedback from his tutor on his presentation.",
+      "evidenceStartTime": 705.71,
+      "evidenceEndTime": 714.12,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "he JIT idea. C explained how supermarkets used the JIT idea. 22 The tutor says that in his presentation Ron omitted A a description of classic business theory. B an introductory definition of JIT. C a statement of the aims of JIT. 23 Ron says that he found his information on standardising parts from A a website. B journal",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You will hear a business student called Ron getting feedback from his tutor on his presentation.",
+      "evidenceStartTime": 705.71,
+      "evidenceEndTime": 714.12,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "ductory definition of JIT. C a statement of the aims of JIT. 23 Ron says that he found his information on standardising parts from A a website. B journal articles C a textbook. 24 The tutor suggests that in the service sector, JIT is A difficult to apply because of the absence of countable things. B regarded by most membe",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Now, you talked a bit about standardising parts as a way of streamlining JIT.",
+      "evidenceStartTime": 833.14,
+      "evidenceEndTime": 839.88,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "ing parts from A a website. B journal articles C a textbook. 24 The tutor suggests that in the service sector, JIT is A difficult to apply because of the absence of countable things. B regarded by most members of staff as unfashionable C unlikely to be accepted by important clients Questions 25–30 What criticism is made o",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Now, you talked a bit about standardising parts as a way of streamlining JIT.",
+      "evidenceStartTime": 833.14,
+      "evidenceEndTime": 839.88,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "iticisms Technical aspects of presentation speed of delivery 25………. purpose 26………. transitions 27………. visuals 28………… vocabulary 29………… body language 30………… Criticisms A too informal B too irregular C too predictable D too sudden E too technical F too unenthusiastic G too loosely related H too vague",
+      "answerRaw": "B too irregular",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B",
+        "B too irregular",
+        "too irregular"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, I tried an internet website on the subject which is called The Lean Clearinghouse, but it was too technical for me.",
+      "evidenceStartTime": 842.77,
+      "evidenceEndTime": 853.37,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án B too irregular. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "cal aspects of presentation speed of delivery 25………. purpose 26………. transitions 27………. visuals 28………… vocabulary 29………… body language 30………… Criticisms A too informal B too irregular C too predictable D too sudden E too technical F too unenthusiastic G too loosely related H too vague",
+      "answerRaw": "H too vague",
+      "canonicalAnswer": "H",
+      "acceptedAnswers": [
+        "H",
+        "H too vague",
+        "too vague"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, I tried an internet website on the subject which is called The Lean Clearinghouse, but it was too technical for me.",
+      "evidenceStartTime": 842.77,
+      "evidenceEndTime": 853.37,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án H too vague. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "entation speed of delivery 25………. purpose 26………. transitions 27………. visuals 28………… vocabulary 29………… body language 30………… Criticisms A too informal B too irregular C too predictable D too sudden E too technical F too unenthusiastic G too loosely related H too vague",
+      "answerRaw": "D too sudden",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D",
+        "D too sudden",
+        "too sudden"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, I tried an internet website on the subject which is called The Lean Clearinghouse, but it was too technical for me.",
+      "evidenceStartTime": 842.77,
+      "evidenceEndTime": 853.37,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án D too sudden. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "of delivery 25………. purpose 26………. transitions 27………. visuals 28………… vocabulary 29………… body language 30………… Criticisms A too informal B too irregular C too predictable D too sudden E too technical F too unenthusiastic G too loosely related H too vague",
+      "answerRaw": "G too loosely related",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G",
+        "G too loosely related",
+        "too loosely related"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, I tried an internet website on the subject which is called The Lean Clearinghouse, but it was too technical for me.",
+      "evidenceStartTime": 842.77,
+      "evidenceEndTime": 853.37,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án G too loosely related. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "purpose 26………. transitions 27………. visuals 28………… vocabulary 29………… body language 30………… Criticisms A too informal B too irregular C too predictable D too sudden E too technical F too unenthusiastic G too loosely related H too vague",
+      "answerRaw": "E too technical",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E too technical",
+        "too technical"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, I tried an internet website on the subject which is called The Lean Clearinghouse, but it was too technical for me.",
+      "evidenceStartTime": 842.77,
+      "evidenceEndTime": 853.37,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án E too technical. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "itions 27………. visuals 28………… vocabulary 29………… body language 30………… Criticisms A too informal B too irregular C too predictable D too sudden E too technical F too unenthusiastic G too loosely related H too vague",
+      "answerRaw": "F too unenthusiastic",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F",
+        "F too unenthusiastic",
+        "too unenthusiastic"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, I tried an internet website on the subject which is called The Lean Clearinghouse, but it was too technical for me.",
+      "evidenceStartTime": 842.77,
+      "evidenceEndTime": 853.37,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án F too unenthusiastic. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "ONLY for each answer. Dyscalculia Teaching applied in class 31 ………. method of teaching Children have difficulty to learn the concept of 32 ………. and sequence In the class, they are taught everyday practice / problem e.g. dealing with 33………. For children with mathematics disorder, they should develop more calculation to de",
+      "answerRaw": "traditional",
+      "canonicalAnswer": "traditional",
+      "acceptedAnswers": [
+        "traditional"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Currently, most schools use the traditional method of teaching mathematics, which may not be effective for children with Dyscalculia.",
+      "evidenceStartTime": 1135.57,
+      "evidenceEndTime": 1147.19,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"traditional\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "of teaching Children have difficulty to learn the concept of 32 ………. and sequence In the class, they are taught everyday practice / problem e.g. dealing with 33………. For children with mathematics disorder, they should develop more calculation to develop more 34 ………. Solution : teachers encourage them to solve the problem b",
+      "answerRaw": "time",
+      "canonicalAnswer": "time",
+      "acceptedAnswers": [
+        "time"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "These children struggle with grasping mathematical concepts, especially when it comes to understanding the concept of time and sequence.",
+      "evidenceStartTime": 1147.19,
+      "evidenceEndTime": 1159.07,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"time\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "hey are taught everyday practice / problem e.g. dealing with 33………. For children with mathematics disorder, they should develop more calculation to develop more 34 ………. Solution : teachers encourage them to solve the problem by 35 ………. Do exercises e.g. breathing , relaxation and 36…………. Researchers like to find a 37 ……….",
+      "answerRaw": "money",
+      "canonicalAnswer": "money",
+      "acceptedAnswers": [
+        "money"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They engage the students in activities that involve dealing with money, as this is a common challenge for children with Dyscalculia.",
+      "evidenceStartTime": 1178.29,
+      "evidenceEndTime": 1189.82,
+      "paraphrases": [
+        {
+          "questionTerm": "problem",
+          "audioTerm": "challenge"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"money\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'problem' ↔ 'challenge'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "sorder, they should develop more calculation to develop more 34 ………. Solution : teachers encourage them to solve the problem by 35 ………. Do exercises e.g. breathing , relaxation and 36…………. Researchers like to find a 37 ………. with language barrier/ language learning difficulty Children are likely to have some problems with",
+      "answerRaw": "confidence",
+      "canonicalAnswer": "confidence",
+      "acceptedAnswers": [
+        "confidence"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "To boost their confidence, children with mathematics disorders are encouraged to practise more calculations and problem-solving.",
+      "evidenceStartTime": 1210.52,
+      "evidenceEndTime": 1221.7,
+      "paraphrases": [
+        {
+          "questionTerm": "difficulty",
+          "audioTerm": "problem"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"confidence\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'difficulty' ↔ 'problem'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": ". Solution : teachers encourage them to solve the problem by 35 ………. Do exercises e.g. breathing , relaxation and 36…………. Researchers like to find a 37 ………. with language barrier/ language learning difficulty Children are likely to have some problems with 38 ………… With this approach, children no longer needed 39 ………. train",
+      "answerRaw": "guesses",
+      "canonicalAnswer": "guesses",
+      "acceptedAnswers": [
+        "guesses"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Teachers also implement strategies that encourage children to make educated guesses when they encounter mathematical problems.",
+      "evidenceStartTime": 1240.48,
+      "evidenceEndTime": 1251.49,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"guesses\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "blem by 35 ………. Do exercises e.g. breathing , relaxation and 36…………. Researchers like to find a 37 ………. with language barrier/ language learning difficulty Children are likely to have some problems with 38 ………… With this approach, children no longer needed 39 ………. training again The mathematics disorder is popular with 40",
+      "answerRaw": "walking",
+      "canonicalAnswer": "walking",
+      "acceptedAnswers": [
+        "walking"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "and even walking breaks, to promote a conducive learning environment.",
+      "evidenceStartTime": 1273.41,
+      "evidenceEndTime": 1279.44,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"walking\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "reathing , relaxation and 36…………. Researchers like to find a 37 ………. with language barrier/ language learning difficulty Children are likely to have some problems with 38 ………… With this approach, children no longer needed 39 ………. training again The mathematics disorder is popular with 40 ……… and families of children",
+      "answerRaw": "link",
+      "canonicalAnswer": "link",
+      "acceptedAnswers": [
+        "link"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Researchers in this field are particularly interested in finding a potential link between Dyscalculia and language learning difficulties.",
+      "evidenceStartTime": 1297.87,
+      "evidenceEndTime": 1309.84,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"link\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "ng difficulty Children are likely to have some problems with 38 ………… With this approach, children no longer needed 39 ………. training again The mathematics disorder is popular with 40 ……… and families of children",
+      "answerRaw": "concentration",
+      "canonicalAnswer": "concentration",
+      "acceptedAnswers": [
+        "concentration"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Children with Dyscalculia often struggle with concentration and maintaining focus.",
+      "evidenceStartTime": 1329.05,
+      "evidenceEndTime": 1336.21,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"concentration\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "s with 38 ………… With this approach, children no longer needed 39 ………. training again The mathematics disorder is popular with 40 ……… and families of children",
+      "answerRaw": "additional",
+      "canonicalAnswer": "additional",
+      "acceptedAnswers": [
+        "additional"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "By implementing these strategies, children may no longer require additional treatment or training specifically focused on their mathematics disorder.",
+      "evidenceStartTime": 1374.46,
+      "evidenceEndTime": 1387.47,
+      "paraphrases": [],
+      "distractors": [
+        "tình trạng không còn đúng nữa ('no longer')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"additional\". Lưu ý bẫy gây nhiễu (distractor): tình trạng không còn đúng nữa ('no longer')."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "………. training again The mathematics disorder is popular with 40 ……… and families of children",
+      "answerRaw": "teachers",
+      "canonicalAnswer": "teachers",
+      "acceptedAnswers": [
+        "teachers"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's important to note that Dyscalculia affects not only the children, but also their families and teachers. Teachers and families play a crucial role in supporting these children and understanding their unique needs in the classroom and at home.",
+      "evidenceStartTime": 1399.52,
+      "evidenceEndTime": 1420.92,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"teachers\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 9.03,
+      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 9.03,
+      "endTime": 18.93,
+      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 18.93,
+      "endTime": 25.15,
+      "text": "All the recordings will be played once only. The test is in four parts.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 25.15,
+      "endTime": 30.14,
+      "text": "Write all your answers in the listening question booklet.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 30.14,
+      "endTime": 38.64,
+      "text": "At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 38.64,
+      "endTime": 43.37,
+      "text": "Now turn to part 1 on page 2 of your question booklet.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 43.37,
+      "endTime": 52.4,
+      "text": "Part 1 You will hear a conversation between a travel agent and a student who is planning a trip abroad.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 52.4,
+      "endTime": 57.13,
+      "text": "First, you have some time to look at questions 1 to 6.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 57.13,
+      "endTime": 63.79,
+      "text": "Now listen carefully and answer questions 1 to 6. Hello, how can I help you?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 63.79,
+      "endTime": 72.55,
+      "text": "I'm taking a year off and I'm hoping to travel abroad and to find work as well for part of the time.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 72.55,
+      "endTime": 78.25,
+      "text": "I know you specialise in student travel and work placement, so...",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 78.25,
+      "endTime": 84.82,
+      "text": "That's right, we can help you arrange your travel and set up a job for you.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 84.82,
+      "endTime": 96.82,
+      "text": "But first of all, I need some personal details, and then we'll match your details against our database to see what's available work-wise.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 96.82,
+      "endTime": 105.06,
+      "text": "Great. OK, your full name? Sarah Brown. Date of birth? March the 13th. Oh, I'm the 31st! 1988.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 105.06,
+      "endTime": 113.12,
+      "text": "And your address? 21 Waverley Road, Radstone RD46WV. And a contact telephone number, please.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 113.12,
+      "endTime": 117.68,
+      "text": "I can give you my mobile number. 0903 775 115. Fine.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 117.68,
+      "endTime": 123.73,
+      "text": "Now, tell me where you plan to travel to and I'll see how I can help.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 123.73,
+      "endTime": 129.69,
+      "text": "Well, I'd like to go to Northern Europe. Have you been there before?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 129.69,
+      "endTime": 136.0,
+      "text": "No, I know Southern Europe quite well as I've been there with my family.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 136.0,
+      "endTime": 140.03,
+      "text": "We always went by plane, but now I can choose.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 140.03,
+      "endTime": 145.46,
+      "text": "I'd like to go by train so I can stop off whenever I want. OK.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 145.46,
+      "endTime": 150.98,
+      "text": "Now, just as important, what sort of work have you got in mind?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 150.98,
+      "endTime": 162.37,
+      "text": "Well, I thought about hotel work because then I might get accommodation with the job and I'd like to work for about half the year.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 162.37,
+      "endTime": 166.49,
+      "text": "That sort of work is usually quite competitive.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 166.49,
+      "endTime": 172.19,
+      "text": "Perhaps you should consider an alternative just in case. Such as?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 172.19,
+      "endTime": 186.3,
+      "text": "Well, lots of students like to work on a farm and we have lots of requests from people looking for student workers for a few weeks at a time throughout the year.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 186.3,
+      "endTime": 193.66,
+      "text": "You can generally earn quite good money if you're willing to work fairly long hours.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 193.66,
+      "endTime": 201.9,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 7 to 10.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 201.9,
+      "endTime": 206.54,
+      "text": "Now listen and answer questions 7 to 10. Now, travel.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 206.54,
+      "endTime": 220.03,
+      "text": "Buying single tickets would be expensive so the best option would be to have a European pass which would give you unlimited rail travel at off-peak times.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 220.03,
+      "endTime": 229.67,
+      "text": "To start off with, we could issue one for up to three months to cover the countries you're intending to visit.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 229.67,
+      "endTime": 230.72,
+      "text": "Sounds good.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 230.72,
+      "endTime": 237.99,
+      "text": "Do you have any information about youth hostels which I could use to plan my route?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 237.99,
+      "endTime": 245.18,
+      "text": "Yes, I'll give you a booklet now. But it's down to you to book your accommodation.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 245.18,
+      "endTime": 253.68,
+      "text": "At certain times of the year, especially during public holiday periods, such places fill up fast.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 253.68,
+      "endTime": 264.55,
+      "text": "And remember, if we're going to arrange work for you in the countryside, you won't be able to go out easily in the evenings.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 264.55,
+      "endTime": 270.07,
+      "text": "Although you'd probably be too tired anyway. I won't mind that.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 270.07,
+      "endTime": 274.01,
+      "text": "And you're going to be travelling alone? Yes.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 274.01,
+      "endTime": 282.25,
+      "text": "Well, before I make any arrangements for you, you need to have insurance for your entire trip.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 282.25,
+      "endTime": 287.51,
+      "text": "We can arrange that for you if you like. What does it cover?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 287.51,
+      "endTime": 294.52,
+      "text": "Any valuable items, jewellery for example, your money, your mobile, your health,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 294.52,
+      "endTime": 302.67,
+      "text": "and if you needed to get back home quickly, you'd be covered so you could buy a plane ticket.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 302.67,
+      "endTime": 304.42,
+      "text": "Right, I'll do that.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 304.42,
+      "endTime": 311.61,
+      "text": "I thought I'd take my laptop so I can email and keep in touch with people at home.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 311.61,
+      "endTime": 316.25,
+      "text": "Not a good idea to lug your computer around with you.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 316.25,
+      "endTime": 324.49,
+      "text": "It's much more sensible to rely on an internet cafe. That's what we tell people to do. Oh, OK.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 324.49,
+      "endTime": 331.76,
+      "text": "Right, so I've entered all your details, let's see what the database comes up with.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 331.76,
+      "endTime": 337.1,
+      "text": "That is the end of part one. You now have one minute to check",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 2,
+      "startTime": 337.1,
+      "endTime": 348.82,
+      "text": "You will hear the manager of a bookshop called Bibliostack talking to a group of young people about the way the bookshop is organised.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 2,
+      "startTime": 348.82,
+      "endTime": 353.72,
+      "text": "First, you have some time to look at questions 11 to 15.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 2,
+      "startTime": 353.72,
+      "endTime": 358.18,
+      "text": "Now listen carefully and answer questions 11 to 15.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 2,
+      "startTime": 358.18,
+      "endTime": 363.17,
+      "text": "Good morning, everyone, and a big welcome to Bibliostack.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 2,
+      "startTime": 363.17,
+      "endTime": 367.63,
+      "text": "Firstly, I'll explain the plan of the store to you.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 2,
+      "startTime": 367.63,
+      "endTime": 378.22,
+      "text": "The building is on seven floors and is circular, as you can see, and we're here on the ground floor in its entrance hall.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 2,
+      "startTime": 378.22,
+      "endTime": 386.97,
+      "text": "Right in the centre of this floor, but behind the bookshelf so you can't see it very well from here,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 2,
+      "startTime": 386.97,
+      "endTime": 395.28,
+      "text": "is our main seating area, where people are encouraged to sit and read for as long as they like.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 2,
+      "startTime": 395.28,
+      "endTime": 402.72,
+      "text": "But they're under no pressure to buy what they're reading. That's not how we operate.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 2,
+      "startTime": 402.72,
+      "endTime": 415.41,
+      "text": "And if you look to your immediate left, past the first double row of shelves, you'll see piles of coloured cushions in front of the window there.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 2,
+      "startTime": 415.41,
+      "endTime": 420.57,
+      "text": "We provide those so that people can sit wherever they want.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 2,
+      "startTime": 420.57,
+      "endTime": 433.08,
+      "text": "Lots of people like to sit close to the bookshelves, and if they want to sit on the floor there, we want them to be as comfortable as possible.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 2,
+      "startTime": 433.08,
+      "endTime": 445.42,
+      "text": "On your right, between the two larger bookshelves, you'll see the computer bench, where our visitors can search through our entire catalogue.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 2,
+      "startTime": 445.42,
+      "endTime": 457.14,
+      "text": "We pride ourselves in being the largest bookshop in the country, so our sales assistants can't possibly know all the available titles.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 2,
+      "startTime": 457.14,
+      "endTime": 464.31,
+      "text": "Although the room in front of you is dominated by the bookshelves, at the far end,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 2,
+      "startTime": 464.31,
+      "endTime": 471.31,
+      "text": "just in front of the lift, you'll see that we provide a small cafe bar here too.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 2,
+      "startTime": 471.31,
+      "endTime": 479.36,
+      "text": "And just to your right, there's a door to the cloakroom, where people can leave their coats.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 2,
+      "startTime": 479.36,
+      "endTime": 487.41,
+      "text": "Then after that, there's a stand where we keep a selection of local and national newspapers.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 2,
+      "startTime": 487.41,
+      "endTime": 494.15,
+      "text": "Customers are welcome to browse through them, and we also have some for sale.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 2,
+      "startTime": 494.15,
+      "endTime": 503.25,
+      "text": "We really want people to feel as though they're browsing through books in the comfort of their own home.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 2,
+      "startTime": 503.25,
+      "endTime": 510.86,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 2,
+      "startTime": 510.86,
+      "endTime": 514.45,
+      "text": "Now listen and answer questions 16 to 20.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 2,
+      "startTime": 514.45,
+      "endTime": 523.64,
+      "text": "Right, now I suggest we walk slowly up through the building, and I'll give you more information as we go.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 2,
+      "startTime": 523.64,
+      "endTime": 525.91,
+      "text": "We're open 12 hours a day.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 2,
+      "startTime": 525.91,
+      "endTime": 533.26,
+      "text": "We don't mind if people spend the whole day here, but leave without buying anything.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 533.26,
+      "endTime": 540.17,
+      "text": "Of course, we hope they'll buy something, but our purpose is to draw people in,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 540.17,
+      "endTime": 546.64,
+      "text": "to provide the kind of environment which makes them want to stay and read.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 546.64,
+      "endTime": 550.66,
+      "text": "Look at how busy each floor is, but how quiet.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 550.66,
+      "endTime": 556.61,
+      "text": "You may be wondering whether there are any children in the building.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 556.61,
+      "endTime": 568.77,
+      "text": "We debated about locating children's books on the ground floor, or halfway up the building, like the third or fourth floor, but in the end,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 568.77,
+      "endTime": 577.96,
+      "text": "we decided to put them on the very top level, and I can assure you it's not the least bit quiet up there.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 577.96,
+      "endTime": 590.47,
+      "text": "Of course, many parents would prefer to spend time on other floors, and so we provide a supervised area for children under two in the basement,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 590.47,
+      "endTime": 596.42,
+      "text": "so parents can wander around the shop for a few hours and not worry.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 596.42,
+      "endTime": 605.96,
+      "text": "But they do have to pay for this service, because although we thought about using some of our own assistants,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 605.96,
+      "endTime": 613.05,
+      "text": "we decided to employ qualified nursery staff for parents' complete peace of mind.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 613.05,
+      "endTime": 623.29,
+      "text": "Now, we're just passing the fiction section, and you've probably noticed a small crowd of people beginning to gather.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 623.29,
+      "endTime": 629.76,
+      "text": "That's because a well-known author is going to read from her latest novel.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 629.76,
+      "endTime": 639.21,
+      "text": "We try to hold events like this at least once or twice a week, and as you can imagine, they're very popular.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 639.21,
+      "endTime": 653.47,
+      "text": "We don't make a charge for people to attend, but we obviously hope that some of them will want to purchase the book after listening to part of it being read aloud.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 653.47,
+      "endTime": 659.42,
+      "text": "Other events which are proving to be very popular are our workshops.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 659.42,
+      "endTime": 667.38,
+      "text": "Last week, we held a poetry workshop, and people came along with poems that they'd written.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 667.38,
+      "endTime": 676.74,
+      "text": "One of the country's best-known poets ran the workshop, and the participants read their poems aloud to him.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 676.74,
+      "endTime": 683.13,
+      "text": "He was kind and encouraging, and many people felt inspired by his advice.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 683.13,
+      "endTime": 692.75,
+      "text": "It's extremely difficult to earn your living as a professional poet, and even published poets have other jobs.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 692.75,
+      "endTime": 700.62,
+      "text": "Now, we're going to take a look at our section on audiobooks. That is the end of part two.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 700.62,
+      "endTime": 705.71,
+      "text": "You now have 30 seconds to check your answers to part two.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 3,
+      "startTime": 705.71,
+      "endTime": 714.12,
+      "text": "You will hear a business student called Ron getting feedback from his tutor on his presentation.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 3,
+      "startTime": 714.12,
+      "endTime": 719.02,
+      "text": "First, you have some time to look at questions 21 to 24.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 3,
+      "startTime": 719.02,
+      "endTime": 723.49,
+      "text": "Now listen carefully and answer questions 21 to 24.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 3,
+      "startTime": 723.49,
+      "endTime": 733.91,
+      "text": "Thanks, Ron, for coming to my office to discuss the presentation you gave yesterday to the business management seminar.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 3,
+      "startTime": 733.91,
+      "endTime": 741.44,
+      "text": "We'll go over what you did with the aim of helping you improve your next presentation.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 3,
+      "startTime": 741.44,
+      "endTime": 742.49,
+      "text": "Sounds good.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 3,
+      "startTime": 742.49,
+      "endTime": 754.4,
+      "text": "Now, the topic was the just-in-time, or JIT, supply system used by a lot of manufacturers, first in Japan and then in the West, I think.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 3,
+      "startTime": 754.4,
+      "endTime": 769.99,
+      "text": "Yes, but actually one thing I should have made clearer and talked about was the fact that the Americans actually pioneered the idea of just-in-time, though it wasn't called that.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 3,
+      "startTime": 769.99,
+      "endTime": 775.77,
+      "text": "Henry Ford and his cars, in fact, at the turn of the 20th century.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 3,
+      "startTime": 775.77,
+      "endTime": 785.75,
+      "text": "And later, a big US supermarket chain used it, and this was where Toyota in Japan got the idea for its car making.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 3,
+      "startTime": 785.75,
+      "endTime": 789.43,
+      "text": "Yes, that would have been a good addition.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 3,
+      "startTime": 789.43,
+      "endTime": 802.13,
+      "text": "Now, before we go any further, I think I would suggest that you should have stopped and clearly defined just-in-time for your seminar colleagues.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 3,
+      "startTime": 802.13,
+      "endTime": 811.24,
+      "text": "You said its aim was to reduce waste, and you mentioned that classic business theory assumes that stock,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 3,
+      "startTime": 811.24,
+      "endTime": 819.47,
+      "text": "or inventory of parts, are counted as assets, but just-in-time sees them as unnecessary waste.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 3,
+      "startTime": 819.47,
+      "endTime": 829.37,
+      "text": "But you never told us that JIT simply means waiting until the last moment to order new supplies as you need them.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 3,
+      "startTime": 829.37,
+      "endTime": 833.14,
+      "text": "Yes, you're right. I should have done that.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 3,
+      "startTime": 833.14,
+      "endTime": 839.88,
+      "text": "Now, you talked a bit about standardising parts as a way of streamlining JIT.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 3,
+      "startTime": 839.88,
+      "endTime": 842.77,
+      "text": "Where did you get your data from?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 3,
+      "startTime": 842.77,
+      "endTime": 853.37,
+      "text": "Well, I tried an internet website on the subject which is called The Lean Clearinghouse, but it was too technical for me.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 3,
+      "startTime": 853.37,
+      "endTime": 859.85,
+      "text": "So, in the end, I got my data from a textbook called Learning from Toyota.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 3,
+      "startTime": 859.85,
+      "endTime": 865.81,
+      "text": "I found some journal articles too, but they didn't seem very useful.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 3,
+      "startTime": 865.81,
+      "endTime": 873.78,
+      "text": "Yes, well, there is a US government report on it I've seen. I'll get a copy for you. Great.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 3,
+      "startTime": 873.78,
+      "endTime": 877.02,
+      "text": "I look forward to reading through it.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 3,
+      "startTime": 877.02,
+      "endTime": 885.34,
+      "text": "And while you're at it, you might want to find out about cases where JIT might not be suitable.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 3,
+      "startTime": 885.34,
+      "endTime": 897.6,
+      "text": "And that's in service industries like tourism or healthcare, where customers are paying for something that they can't actually see or count.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 3,
+      "startTime": 897.6,
+      "endTime": 912.93,
+      "text": "Although JIT is fashionable today, some people would say it hasn't proved so successful in the service sector as it has with the manufacturing of goods that can be quantified.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 912.93,
+      "endTime": 917.83,
+      "text": "That would be interesting. I'll see what I can find out.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 917.83,
+      "endTime": 925.97,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 925.97,
+      "endTime": 929.56,
+      "text": "Now listen and answer questions 25 to 30.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 929.56,
+      "endTime": 939.28,
+      "text": "Now, unless you have any more questions, let's turn to a critique of the technical aspects of the presentation.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 939.28,
+      "endTime": 945.5,
+      "text": "I'm afraid I'll emphasise the things I think you might want to work on.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 945.5,
+      "endTime": 953.64,
+      "text": "It was a good talk, but with a little work, your next presentation should be excellent. Fine.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 953.64,
+      "endTime": 959.33,
+      "text": "That would be helpful. Actually, I wasn't happy with my delivery.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 959.33,
+      "endTime": 967.21,
+      "text": "I sometimes seemed to talk fast and sometimes slow. I was on edge, I guess. Yes, you were.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 967.21,
+      "endTime": 972.03,
+      "text": "And as well as that, your purpose wasn't very specific.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 972.03,
+      "endTime": 978.51,
+      "text": "In future, you need to lay out exactly what you're going to cover and why.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 978.51,
+      "endTime": 982.45,
+      "text": "Make it clear and concise and not so general.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 982.45,
+      "endTime": 987.62,
+      "text": "And what about my transitions from one section to the next?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 987.62,
+      "endTime": 995.24,
+      "text": "Well, you didn't link the sections, did you? You went too quickly from one to the next.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 995.24,
+      "endTime": 1000.41,
+      "text": "It was all just too abrupt. Okay, I'll try to improve that.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 1000.41,
+      "endTime": 1010.04,
+      "text": "Now, your PowerPoint visuals were lovely, but sometimes I got the feeling that, nice as they were as pictures,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 1010.04,
+      "endTime": 1017.22,
+      "text": "they didn't have much to do with what you were talking about, right? You're right.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 1017.22,
+      "endTime": 1029.57,
+      "text": "And, you know, another thing, I could see from the other students' reactions, they just didn't understand some of the vocabulary I was using.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 1029.57,
+      "endTime": 1037.19,
+      "text": "Good point. Well, remember, your audience were laymen, mostly without knowledge of JIT.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 1037.19,
+      "endTime": 1045.25,
+      "text": "So, you need to simplify and try to put things in everyday English. I never seem to do that.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 1045.25,
+      "endTime": 1049.54,
+      "text": "And lastly, I'll just mention your body language.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1049.54,
+      "endTime": 1056.02,
+      "text": "You didn't use gestures and you just stood straight without any animation.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1056.02,
+      "endTime": 1060.84,
+      "text": "It didn't make you seem very interested in the subject.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1060.84,
+      "endTime": 1065.74,
+      "text": "I know, even though I really do like the subject. Sorry.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1065.74,
+      "endTime": 1074.23,
+      "text": "Well, despite all this, I enjoyed your presentation and I could see you put lots of work into it.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1074.23,
+      "endTime": 1082.37,
+      "text": "I look forward to an even better presentation from you next time. Well, thanks for your help.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1082.37,
+      "endTime": 1090.34,
+      "text": "That is the end of part three. You now have 30 seconds to check your answers to part three.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 4,
+      "startTime": 1090.34,
+      "endTime": 1100.47,
+      "text": "In part four, you will hear about studying Dyscalculia, a neurodevelopmental disorder affecting numerical abilities.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 4,
+      "startTime": 1100.47,
+      "endTime": 1105.36,
+      "text": "First, you have some time to look at questions 31 to 40.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 4,
+      "startTime": 1105.36,
+      "endTime": 1109.9,
+      "text": "Now, listen carefully and answer questions 31 to 40.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 4,
+      "startTime": 1109.9,
+      "endTime": 1124.66,
+      "text": "Dyscalculia, a complex neurodevelopmental condition, refers to a learning disorder marked by significant challenges in understanding and manipulating numerical concepts,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 4,
+      "startTime": 1124.66,
+      "endTime": 1128.15,
+      "text": "quantities, and mathematical operations.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 4,
+      "startTime": 1128.15,
+      "endTime": 1135.57,
+      "text": "It's a condition that affects children's ability to understand and work with numbers.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 4,
+      "startTime": 1135.57,
+      "endTime": 1147.19,
+      "text": "Currently, most schools use the traditional method of teaching mathematics, which may not be effective for children with Dyscalculia.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 4,
+      "startTime": 1147.19,
+      "endTime": 1159.07,
+      "text": "These children struggle with grasping mathematical concepts, especially when it comes to understanding the concept of time and sequence.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 4,
+      "startTime": 1159.07,
+      "endTime": 1167.37,
+      "text": "They find it challenging to comprehend the passage of time and the order in which events occur.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 4,
+      "startTime": 1167.37,
+      "endTime": 1178.29,
+      "text": "In the classroom, teachers focus on providing everyday practical examples to help these children overcome their difficulties.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 4,
+      "startTime": 1178.29,
+      "endTime": 1189.82,
+      "text": "They engage the students in activities that involve dealing with money, as this is a common challenge for children with Dyscalculia.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 4,
+      "startTime": 1189.82,
+      "endTime": 1201.35,
+      "text": "By incorporating real-life scenarios, teachers aim to make the learning experience more meaningful and relatable for these students.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 4,
+      "startTime": 1201.35,
+      "endTime": 1210.52,
+      "text": "Additionally, teachers provide individualised support and interventions tailored to each student's needs.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 4,
+      "startTime": 1210.52,
+      "endTime": 1221.7,
+      "text": "To boost their confidence, children with mathematics disorders are encouraged to practise more calculations and problem-solving.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 4,
+      "startTime": 1221.7,
+      "endTime": 1232.88,
+      "text": "This additional practise helps them develop a stronger sense of self-assurance when it comes to dealing with mathematical tasks.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 4,
+      "startTime": 1232.88,
+      "endTime": 1240.48,
+      "text": "Teachers also provide positive reinforcement and praise for their efforts and progress.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 4,
+      "startTime": 1240.48,
+      "endTime": 1251.49,
+      "text": "Teachers also implement strategies that encourage children to make educated guesses when they encounter mathematical problems.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 4,
+      "startTime": 1251.49,
+      "endTime": 1255.33,
+      "text": "By empowering them to make informed guesses,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 4,
+      "startTime": 1255.33,
+      "endTime": 1264.59,
+      "text": "teachers hope to foster problem-solving skills and reduce anxiety associated with mathematical challenges.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 4,
+      "startTime": 1264.59,
+      "endTime": 1273.41,
+      "text": "Additionally, they incorporate various exercises, such as breathing techniques, relaxation exercises,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 4,
+      "startTime": 1273.41,
+      "endTime": 1279.44,
+      "text": "and even walking breaks, to promote a conducive learning environment.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 4,
+      "startTime": 1279.44,
+      "endTime": 1286.43,
+      "text": "These activities aid in reducing stress and promoting focus during math lessons.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 4,
+      "startTime": 1286.43,
+      "endTime": 1297.87,
+      "text": "Teachers also explore alternative teaching methods, such as visual aids and manipulatives, to enhance understanding and engagement.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 4,
+      "startTime": 1297.87,
+      "endTime": 1309.84,
+      "text": "Researchers in this field are particularly interested in finding a potential link between Dyscalculia and language learning difficulties.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 4,
+      "startTime": 1309.84,
+      "endTime": 1320.93,
+      "text": "They are investigating whether there is a connection between language barriers and the challenges children face in mathematics.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 4,
+      "startTime": 1320.93,
+      "endTime": 1329.05,
+      "text": "Understanding this link could help inform more targeted interventions and support strategies.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 4,
+      "startTime": 1329.05,
+      "endTime": 1336.21,
+      "text": "Children with Dyscalculia often struggle with concentration and maintaining focus.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 4,
+      "startTime": 1336.21,
+      "endTime": 1348.61,
+      "text": "Teachers are aware of this issue and work to provide additional support and accommodations to help these children stay engaged during lessons.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 4,
+      "startTime": 1348.61,
+      "endTime": 1358.65,
+      "text": "They may use techniques like chunking information, breaking tasks into smaller steps, and providing regular breaks.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 4,
+      "startTime": 1358.65,
+      "endTime": 1364.85,
+      "text": "With this comprehensive approach to teaching children with Dyscalculia,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 4,
+      "startTime": 1364.85,
+      "endTime": 1374.46,
+      "text": "the aim is to provide them with the necessary skills and strategies to overcome their mathematical challenges.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 4,
+      "startTime": 1374.46,
+      "endTime": 1387.47,
+      "text": "By implementing these strategies, children may no longer require additional treatment or training specifically focused on their mathematics disorder.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 4,
+      "startTime": 1387.47,
+      "endTime": 1399.52,
+      "text": "Ongoing assessment and monitoring of progress are crucial to ensure the effectiveness of interventions and make any necessary adjustments.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 4,
+      "startTime": 1399.52,
+      "endTime": 1408.95,
+      "text": "It's important to note that Dyscalculia affects not only the children, but also their families and teachers.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 4,
+      "startTime": 1408.95,
+      "endTime": 1420.92,
+      "text": "Teachers and families play a crucial role in supporting these children and understanding their unique needs in the classroom and at home.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 4,
+      "startTime": 1420.92,
+      "endTime": 1433.58,
+      "text": "Open communication, collaboration, and a supportive environment are key in helping children with Dyscalculia thrive academically and emotionally.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 1433.58,
+      "endTime": 1444.76,
+      "text": "By recognising and addressing Dyscalculia, we can provide a more inclusive and supportive learning environment for all students.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 1444.76,
+      "endTime": 1452.03,
+      "text": "That is the end of Part 4. You now have one minute to check your answers to Part 4.",
+      "timestampSource": "estimated",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 25.15,
+      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 25.15,
+      "endTime": 43.37,
+      "text": "Write all your answers in the listening question booklet. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to part 1 on page 2 of your question booklet.",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 43.37,
+      "endTime": 63.79,
+      "text": "Part 1 You will hear a conversation between a travel agent and a student who is planning a trip abroad. First, you have some time to look at questions 1 to 6. Now listen carefully and answer questions 1 to 6. Hello, how can I help you?",
+      "segmentIds": [
+        "seg-007",
+        "seg-008",
+        "seg-009"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 63.79,
+      "endTime": 84.82,
+      "text": "I'm taking a year off and I'm hoping to travel abroad and to find work as well for part of the time. I know you specialise in student travel and work placement, so... That's right, we can help you arrange your travel and set up a job for you.",
+      "segmentIds": [
+        "seg-010",
+        "seg-011",
+        "seg-012"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 84.82,
+      "endTime": 113.12,
+      "text": "But first of all, I need some personal details, and then we'll match your details against our database to see what's available work-wise. Great. OK, your full name? Sarah Brown. Date of birth? March the 13th. Oh, I'm the 31st! 1988. And your address? 21 Waverley Road, Radstone RD46WV. And a contact telephone number, please.",
+      "segmentIds": [
+        "seg-013",
+        "seg-014",
+        "seg-015"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 113.12,
+      "endTime": 136.0,
+      "text": "I can give you my mobile number. 0903 775 115. Fine. Now, tell me where you plan to travel to and I'll see how I can help. Well, I'd like to go to Northern Europe. Have you been there before? No, I know Southern Europe quite well as I've been there with my family.",
+      "segmentIds": [
+        "seg-016",
+        "seg-017",
+        "seg-018",
+        "seg-019"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 136.0,
+      "endTime": 150.98,
+      "text": "We always went by plane, but now I can choose. I'd like to go by train so I can stop off whenever I want. OK. Now, just as important, what sort of work have you got in mind?",
+      "segmentIds": [
+        "seg-020",
+        "seg-021",
+        "seg-022"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 150.98,
+      "endTime": 172.19,
+      "text": "Well, I thought about hotel work because then I might get accommodation with the job and I'd like to work for about half the year. That sort of work is usually quite competitive. Perhaps you should consider an alternative just in case. Such as?",
+      "segmentIds": [
+        "seg-023",
+        "seg-024",
+        "seg-025"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 172.19,
+      "endTime": 201.9,
+      "text": "Well, lots of students like to work on a farm and we have lots of requests from people looking for student workers for a few weeks at a time throughout the year. You can generally earn quite good money if you're willing to work fairly long hours. Before you hear the rest of the conversation, you have some time to look at questions 7 to 10.",
+      "segmentIds": [
+        "seg-026",
+        "seg-027",
+        "seg-028"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 201.9,
+      "endTime": 229.67,
+      "text": "Now listen and answer questions 7 to 10. Now, travel. Buying single tickets would be expensive so the best option would be to have a European pass which would give you unlimited rail travel at off-peak times. To start off with, we could issue one for up to three months to cover the countries you're intending to visit.",
+      "segmentIds": [
+        "seg-029",
+        "seg-030",
+        "seg-031"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 229.67,
+      "endTime": 245.18,
+      "text": "Sounds good. Do you have any information about youth hostels which I could use to plan my route? Yes, I'll give you a booklet now. But it's down to you to book your accommodation.",
+      "segmentIds": [
+        "seg-032",
+        "seg-033",
+        "seg-034"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 245.18,
+      "endTime": 270.07,
+      "text": "At certain times of the year, especially during public holiday periods, such places fill up fast. And remember, if we're going to arrange work for you in the countryside, you won't be able to go out easily in the evenings. Although you'd probably be too tired anyway. I won't mind that.",
+      "segmentIds": [
+        "seg-035",
+        "seg-036",
+        "seg-037"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 270.07,
+      "endTime": 287.51,
+      "text": "And you're going to be travelling alone? Yes. Well, before I make any arrangements for you, you need to have insurance for your entire trip. We can arrange that for you if you like. What does it cover?",
+      "segmentIds": [
+        "seg-038",
+        "seg-039",
+        "seg-040"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 287.51,
+      "endTime": 304.42,
+      "text": "Any valuable items, jewellery for example, your money, your mobile, your health, and if you needed to get back home quickly, you'd be covered so you could buy a plane ticket. Right, I'll do that.",
+      "segmentIds": [
+        "seg-041",
+        "seg-042",
+        "seg-043"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 304.42,
+      "endTime": 324.49,
+      "text": "I thought I'd take my laptop so I can email and keep in touch with people at home. Not a good idea to lug your computer around with you. It's much more sensible to rely on an internet cafe. That's what we tell people to do. Oh, OK.",
+      "segmentIds": [
+        "seg-044",
+        "seg-045",
+        "seg-046"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 324.49,
+      "endTime": 337.1,
+      "text": "Right, so I've entered all your details, let's see what the database comes up with. That is the end of part one. You now have one minute to check",
+      "segmentIds": [
+        "seg-047",
+        "seg-048"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-017",
+      "part": 2,
+      "startTime": 337.1,
+      "endTime": 358.18,
+      "text": "You will hear the manager of a bookshop called Bibliostack talking to a group of young people about the way the bookshop is organised. First, you have some time to look at questions 11 to 15. Now listen carefully and answer questions 11 to 15.",
+      "segmentIds": [
+        "seg-049",
+        "seg-050",
+        "seg-051"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-018",
+      "part": 2,
+      "startTime": 358.18,
+      "endTime": 378.22,
+      "text": "Good morning, everyone, and a big welcome to Bibliostack. Firstly, I'll explain the plan of the store to you. The building is on seven floors and is circular, as you can see, and we're here on the ground floor in its entrance hall.",
+      "segmentIds": [
+        "seg-052",
+        "seg-053",
+        "seg-054"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-019",
+      "part": 2,
+      "startTime": 378.22,
+      "endTime": 402.72,
+      "text": "Right in the centre of this floor, but behind the bookshelf so you can't see it very well from here, is our main seating area, where people are encouraged to sit and read for as long as they like. But they're under no pressure to buy what they're reading. That's not how we operate.",
+      "segmentIds": [
+        "seg-055",
+        "seg-056",
+        "seg-057"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 402.72,
+      "endTime": 433.08,
+      "text": "And if you look to your immediate left, past the first double row of shelves, you'll see piles of coloured cushions in front of the window there. We provide those so that people can sit wherever they want. Lots of people like to sit close to the bookshelves, and if they want to sit on the floor there, we want them to be as comfortable as possible.",
+      "segmentIds": [
+        "seg-058",
+        "seg-059",
+        "seg-060"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-021",
+      "part": 2,
+      "startTime": 433.08,
+      "endTime": 464.31,
+      "text": "On your right, between the two larger bookshelves, you'll see the computer bench, where our visitors can search through our entire catalogue. We pride ourselves in being the largest bookshop in the country, so our sales assistants can't possibly know all the available titles. Although the room in front of you is dominated by the bookshelves, at the far end,",
+      "segmentIds": [
+        "seg-061",
+        "seg-062",
+        "seg-063"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 464.31,
+      "endTime": 487.41,
+      "text": "just in front of the lift, you'll see that we provide a small cafe bar here too. And just to your right, there's a door to the cloakroom, where people can leave their coats. Then after that, there's a stand where we keep a selection of local and national newspapers.",
+      "segmentIds": [
+        "seg-064",
+        "seg-065",
+        "seg-066"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-023",
+      "part": 2,
+      "startTime": 487.41,
+      "endTime": 510.86,
+      "text": "Customers are welcome to browse through them, and we also have some for sale. We really want people to feel as though they're browsing through books in the comfort of their own home. Before you hear the rest of the talk, you have some time to look at questions 16 to 20.",
+      "segmentIds": [
+        "seg-067",
+        "seg-068",
+        "seg-069"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-024",
+      "part": 2,
+      "startTime": 510.86,
+      "endTime": 533.26,
+      "text": "Now listen and answer questions 16 to 20. Right, now I suggest we walk slowly up through the building, and I'll give you more information as we go. We're open 12 hours a day. We don't mind if people spend the whole day here, but leave without buying anything.",
+      "segmentIds": [
+        "seg-070",
+        "seg-071",
+        "seg-072",
+        "seg-073"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 533.26,
+      "endTime": 556.61,
+      "text": "Of course, we hope they'll buy something, but our purpose is to draw people in, to provide the kind of environment which makes them want to stay and read. Look at how busy each floor is, but how quiet. You may be wondering whether there are any children in the building.",
+      "segmentIds": [
+        "seg-074",
+        "seg-075",
+        "seg-076",
+        "seg-077"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 556.61,
+      "endTime": 590.47,
+      "text": "We debated about locating children's books on the ground floor, or halfway up the building, like the third or fourth floor, but in the end, we decided to put them on the very top level, and I can assure you it's not the least bit quiet up there. Of course, many parents would prefer to spend time on other floors, and so we provide a supervised area for children under two in the basement,",
+      "segmentIds": [
+        "seg-078",
+        "seg-079",
+        "seg-080"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 590.47,
+      "endTime": 613.05,
+      "text": "so parents can wander around the shop for a few hours and not worry. But they do have to pay for this service, because although we thought about using some of our own assistants, we decided to employ qualified nursery staff for parents' complete peace of mind.",
+      "segmentIds": [
+        "seg-081",
+        "seg-082",
+        "seg-083"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 613.05,
+      "endTime": 639.21,
+      "text": "Now, we're just passing the fiction section, and you've probably noticed a small crowd of people beginning to gather. That's because a well-known author is going to read from her latest novel. We try to hold events like this at least once or twice a week, and as you can imagine, they're very popular.",
+      "segmentIds": [
+        "seg-084",
+        "seg-085",
+        "seg-086"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 639.21,
+      "endTime": 667.38,
+      "text": "We don't make a charge for people to attend, but we obviously hope that some of them will want to purchase the book after listening to part of it being read aloud. Other events which are proving to be very popular are our workshops. Last week, we held a poetry workshop, and people came along with poems that they'd written.",
+      "segmentIds": [
+        "seg-087",
+        "seg-088",
+        "seg-089"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 667.38,
+      "endTime": 692.75,
+      "text": "One of the country's best-known poets ran the workshop, and the participants read their poems aloud to him. He was kind and encouraging, and many people felt inspired by his advice. It's extremely difficult to earn your living as a professional poet, and even published poets have other jobs.",
+      "segmentIds": [
+        "seg-090",
+        "seg-091",
+        "seg-092"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-031",
+      "part": 2,
+      "startTime": 692.75,
+      "endTime": 705.71,
+      "text": "Now, we're going to take a look at our section on audiobooks. That is the end of part two. You now have 30 seconds to check your answers to part two.",
+      "segmentIds": [
+        "seg-093",
+        "seg-094"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-032",
+      "part": 3,
+      "startTime": 705.71,
+      "endTime": 723.49,
+      "text": "You will hear a business student called Ron getting feedback from his tutor on his presentation. First, you have some time to look at questions 21 to 24. Now listen carefully and answer questions 21 to 24.",
+      "segmentIds": [
+        "seg-095",
+        "seg-096",
+        "seg-097"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-033",
+      "part": 3,
+      "startTime": 723.49,
+      "endTime": 742.49,
+      "text": "Thanks, Ron, for coming to my office to discuss the presentation you gave yesterday to the business management seminar. We'll go over what you did with the aim of helping you improve your next presentation. Sounds good.",
+      "segmentIds": [
+        "seg-098",
+        "seg-099",
+        "seg-100"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-034",
+      "part": 3,
+      "startTime": 742.49,
+      "endTime": 775.77,
+      "text": "Now, the topic was the just-in-time, or JIT, supply system used by a lot of manufacturers, first in Japan and then in the West, I think. Yes, but actually one thing I should have made clearer and talked about was the fact that the Americans actually pioneered the idea of just-in-time, though it wasn't called that. Henry Ford and his cars, in fact, at the turn of the 20th century.",
+      "segmentIds": [
+        "seg-101",
+        "seg-102",
+        "seg-103"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-035",
+      "part": 3,
+      "startTime": 775.77,
+      "endTime": 802.13,
+      "text": "And later, a big US supermarket chain used it, and this was where Toyota in Japan got the idea for its car making. Yes, that would have been a good addition. Now, before we go any further, I think I would suggest that you should have stopped and clearly defined just-in-time for your seminar colleagues.",
+      "segmentIds": [
+        "seg-104",
+        "seg-105",
+        "seg-106"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-036",
+      "part": 3,
+      "startTime": 802.13,
+      "endTime": 829.37,
+      "text": "You said its aim was to reduce waste, and you mentioned that classic business theory assumes that stock, or inventory of parts, are counted as assets, but just-in-time sees them as unnecessary waste. But you never told us that JIT simply means waiting until the last moment to order new supplies as you need them.",
+      "segmentIds": [
+        "seg-107",
+        "seg-108",
+        "seg-109"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 829.37,
+      "endTime": 842.77,
+      "text": "Yes, you're right. I should have done that. Now, you talked a bit about standardising parts as a way of streamlining JIT. Where did you get your data from?",
+      "segmentIds": [
+        "seg-110",
+        "seg-111",
+        "seg-112"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 842.77,
+      "endTime": 865.81,
+      "text": "Well, I tried an internet website on the subject which is called The Lean Clearinghouse, but it was too technical for me. So, in the end, I got my data from a textbook called Learning from Toyota. I found some journal articles too, but they didn't seem very useful.",
+      "segmentIds": [
+        "seg-113",
+        "seg-114",
+        "seg-115"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 865.81,
+      "endTime": 885.34,
+      "text": "Yes, well, there is a US government report on it I've seen. I'll get a copy for you. Great. I look forward to reading through it. And while you're at it, you might want to find out about cases where JIT might not be suitable.",
+      "segmentIds": [
+        "seg-116",
+        "seg-117",
+        "seg-118"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 885.34,
+      "endTime": 917.83,
+      "text": "And that's in service industries like tourism or healthcare, where customers are paying for something that they can't actually see or count. Although JIT is fashionable today, some people would say it hasn't proved so successful in the service sector as it has with the manufacturing of goods that can be quantified. That would be interesting. I'll see what I can find out.",
+      "segmentIds": [
+        "seg-119",
+        "seg-120",
+        "seg-121"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-041",
+      "part": 3,
+      "startTime": 917.83,
+      "endTime": 939.28,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30. Now listen and answer questions 25 to 30. Now, unless you have any more questions, let's turn to a critique of the technical aspects of the presentation.",
+      "segmentIds": [
+        "seg-122",
+        "seg-123",
+        "seg-124"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 939.28,
+      "endTime": 959.33,
+      "text": "I'm afraid I'll emphasise the things I think you might want to work on. It was a good talk, but with a little work, your next presentation should be excellent. Fine. That would be helpful. Actually, I wasn't happy with my delivery.",
+      "segmentIds": [
+        "seg-125",
+        "seg-126",
+        "seg-127"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 959.33,
+      "endTime": 982.45,
+      "text": "I sometimes seemed to talk fast and sometimes slow. I was on edge, I guess. Yes, you were. And as well as that, your purpose wasn't very specific. In future, you need to lay out exactly what you're going to cover and why. Make it clear and concise and not so general.",
+      "segmentIds": [
+        "seg-128",
+        "seg-129",
+        "seg-130",
+        "seg-131"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 982.45,
+      "endTime": 1000.41,
+      "text": "And what about my transitions from one section to the next? Well, you didn't link the sections, did you? You went too quickly from one to the next. It was all just too abrupt. Okay, I'll try to improve that.",
+      "segmentIds": [
+        "seg-132",
+        "seg-133",
+        "seg-134"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1000.41,
+      "endTime": 1029.57,
+      "text": "Now, your PowerPoint visuals were lovely, but sometimes I got the feeling that, nice as they were as pictures, they didn't have much to do with what you were talking about, right? You're right. And, you know, another thing, I could see from the other students' reactions, they just didn't understand some of the vocabulary I was using.",
+      "segmentIds": [
+        "seg-135",
+        "seg-136",
+        "seg-137"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1029.57,
+      "endTime": 1049.54,
+      "text": "Good point. Well, remember, your audience were laymen, mostly without knowledge of JIT. So, you need to simplify and try to put things in everyday English. I never seem to do that. And lastly, I'll just mention your body language.",
+      "segmentIds": [
+        "seg-138",
+        "seg-139",
+        "seg-140"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1049.54,
+      "endTime": 1065.74,
+      "text": "You didn't use gestures and you just stood straight without any animation. It didn't make you seem very interested in the subject. I know, even though I really do like the subject. Sorry.",
+      "segmentIds": [
+        "seg-141",
+        "seg-142",
+        "seg-143"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-048",
+      "part": 3,
+      "startTime": 1065.74,
+      "endTime": 1090.34,
+      "text": "Well, despite all this, I enjoyed your presentation and I could see you put lots of work into it. I look forward to an even better presentation from you next time. Well, thanks for your help. That is the end of part three. You now have 30 seconds to check your answers to part three.",
+      "segmentIds": [
+        "seg-144",
+        "seg-145",
+        "seg-146"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-049",
+      "part": 4,
+      "startTime": 1090.34,
+      "endTime": 1109.9,
+      "text": "In part four, you will hear about studying Dyscalculia, a neurodevelopmental disorder affecting numerical abilities. First, you have some time to look at questions 31 to 40. Now, listen carefully and answer questions 31 to 40.",
+      "segmentIds": [
+        "seg-147",
+        "seg-148",
+        "seg-149"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-050",
+      "part": 4,
+      "startTime": 1109.9,
+      "endTime": 1135.57,
+      "text": "Dyscalculia, a complex neurodevelopmental condition, refers to a learning disorder marked by significant challenges in understanding and manipulating numerical concepts, quantities, and mathematical operations. It's a condition that affects children's ability to understand and work with numbers.",
+      "segmentIds": [
+        "seg-150",
+        "seg-151",
+        "seg-152"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-051",
+      "part": 4,
+      "startTime": 1135.57,
+      "endTime": 1167.37,
+      "text": "Currently, most schools use the traditional method of teaching mathematics, which may not be effective for children with Dyscalculia. These children struggle with grasping mathematical concepts, especially when it comes to understanding the concept of time and sequence. They find it challenging to comprehend the passage of time and the order in which events occur.",
+      "segmentIds": [
+        "seg-153",
+        "seg-154",
+        "seg-155"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-052",
+      "part": 4,
+      "startTime": 1167.37,
+      "endTime": 1201.35,
+      "text": "In the classroom, teachers focus on providing everyday practical examples to help these children overcome their difficulties. They engage the students in activities that involve dealing with money, as this is a common challenge for children with Dyscalculia. By incorporating real-life scenarios, teachers aim to make the learning experience more meaningful and relatable for these students.",
+      "segmentIds": [
+        "seg-156",
+        "seg-157",
+        "seg-158"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-053",
+      "part": 4,
+      "startTime": 1201.35,
+      "endTime": 1232.88,
+      "text": "Additionally, teachers provide individualised support and interventions tailored to each student's needs. To boost their confidence, children with mathematics disorders are encouraged to practise more calculations and problem-solving. This additional practise helps them develop a stronger sense of self-assurance when it comes to dealing with mathematical tasks.",
+      "segmentIds": [
+        "seg-159",
+        "seg-160",
+        "seg-161"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-054",
+      "part": 4,
+      "startTime": 1232.88,
+      "endTime": 1255.33,
+      "text": "Teachers also provide positive reinforcement and praise for their efforts and progress. Teachers also implement strategies that encourage children to make educated guesses when they encounter mathematical problems. By empowering them to make informed guesses,",
+      "segmentIds": [
+        "seg-162",
+        "seg-163",
+        "seg-164"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-055",
+      "part": 4,
+      "startTime": 1255.33,
+      "endTime": 1279.44,
+      "text": "teachers hope to foster problem-solving skills and reduce anxiety associated with mathematical challenges. Additionally, they incorporate various exercises, such as breathing techniques, relaxation exercises, and even walking breaks, to promote a conducive learning environment.",
+      "segmentIds": [
+        "seg-165",
+        "seg-166",
+        "seg-167"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1279.44,
+      "endTime": 1309.84,
+      "text": "These activities aid in reducing stress and promoting focus during math lessons. Teachers also explore alternative teaching methods, such as visual aids and manipulatives, to enhance understanding and engagement. Researchers in this field are particularly interested in finding a potential link between Dyscalculia and language learning difficulties.",
+      "segmentIds": [
+        "seg-168",
+        "seg-169",
+        "seg-170"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-057",
+      "part": 4,
+      "startTime": 1309.84,
+      "endTime": 1336.21,
+      "text": "They are investigating whether there is a connection between language barriers and the challenges children face in mathematics. Understanding this link could help inform more targeted interventions and support strategies. Children with Dyscalculia often struggle with concentration and maintaining focus.",
+      "segmentIds": [
+        "seg-171",
+        "seg-172",
+        "seg-173"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-058",
+      "part": 4,
+      "startTime": 1336.21,
+      "endTime": 1364.85,
+      "text": "Teachers are aware of this issue and work to provide additional support and accommodations to help these children stay engaged during lessons. They may use techniques like chunking information, breaking tasks into smaller steps, and providing regular breaks. With this comprehensive approach to teaching children with Dyscalculia,",
+      "segmentIds": [
+        "seg-174",
+        "seg-175",
+        "seg-176"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-059",
+      "part": 4,
+      "startTime": 1364.85,
+      "endTime": 1399.52,
+      "text": "the aim is to provide them with the necessary skills and strategies to overcome their mathematical challenges. By implementing these strategies, children may no longer require additional treatment or training specifically focused on their mathematics disorder. Ongoing assessment and monitoring of progress are crucial to ensure the effectiveness of interventions and make any necessary adjustments.",
+      "segmentIds": [
+        "seg-177",
+        "seg-178",
+        "seg-179"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-060",
+      "part": 4,
+      "startTime": 1399.52,
+      "endTime": 1433.58,
+      "text": "It's important to note that Dyscalculia affects not only the children, but also their families and teachers. Teachers and families play a crucial role in supporting these children and understanding their unique needs in the classroom and at home. Open communication, collaboration, and a supportive environment are key in helping children with Dyscalculia thrive academically and emotionally.",
+      "segmentIds": [
+        "seg-180",
+        "seg-181",
+        "seg-182"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-061",
+      "part": 4,
+      "startTime": 1433.58,
+      "endTime": 1452.03,
+      "text": "By recognising and addressing Dyscalculia, we can provide a more inclusive and supportive learning environment for all students. That is the end of Part 4. You now have one minute to check your answers to Part 4.",
+      "segmentIds": [
+        "seg-183",
+        "seg-184"
+      ],
+      "timestampSource": "estimated"
+    }
+  ]
+}

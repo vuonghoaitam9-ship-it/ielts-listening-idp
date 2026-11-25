@@ -1,0 +1,4122 @@
+{
+  "id": "vol-8-test-5",
+  "vol": 8,
+  "testNumber": 5,
+  "title": "Vol 8 — Test 5",
+  "pdfUrl": "./data/vol-8/test-5/exam.pdf",
+  "pdfPages": 6,
+  "questionPageRange": [
+    1,
+    6
+  ],
+  "audioUrl": "./data/vol-8/test-5/audio.mp3",
+  "audioDurationSec": 1930.66,
+  "hasExactTimestamps": false,
+  "timestampNote": "Tài liệu gốc Vol 8 không đính kèm mốc giờ từng câu; hệ thống ước lượng tỷ lệ theo độ dài audio gốc. Bạn có thể tinh chỉnh bằng trình biên tập Timestamp / SRT.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 0.0,
+      "endTime": 531.74,
+      "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 531.74,
+      "endTime": 939.88,
+      "topicHint": "You will hear the store manager of a bookshop give a short talk to new staff."
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 939.88,
+      "endTime": 1604.92,
+      "topicHint": "You will hear a university lecturer talking to a female student called Katie and a male student called John about writing essays."
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1604.92,
+      "endTime": 1928.67,
+      "topicHint": "You will hear part of a linguistics lecture about attempts to invent a universal language."
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "bably be about 40 degrees centigrade during the day • pack a 1__________ • drive from Tucson along the 2__________ trails • go to the 3__________ (highly recommended) • there is the possibility of playing 4__________ Visit Susie’s parents Susie’s parents live in a town called Williams Address: 6073 5__________ Drive Town",
+      "answerRaw": "jacket",
+      "canonicalAnswer": "jacket",
+      "acceptedAnswers": [
+        "jacket"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, you'll find that everywhere is air-conditioned, and it can feel quite cold sometimes, so a jacket would be a good idea.",
+      "evidenceStartTime": 215.17,
+      "evidenceEndTime": 227.59,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"jacket\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "g the day • pack a 1__________ • drive from Tucson along the 2__________ trails • go to the 3__________ (highly recommended) • there is the possibility of playing 4__________ Visit Susie’s parents Susie’s parents live in a town called Williams Address: 6073 5__________ Drive Town history: named after a local hunter destr",
+      "answerRaw": "desert",
+      "canonicalAnswer": "desert",
+      "acceptedAnswers": [
+        "desert"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'd hire a car in Tucson, and then follow the trails in the desert.",
+      "evidenceStartTime": 253.22,
+      "evidenceEndTime": 259.88,
+      "paraphrases": [
+        {
+          "questionTerm": "drive",
+          "audioTerm": "car"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"desert\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'drive' ↔ 'car'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "• drive from Tucson along the 2__________ trails • go to the 3__________ (highly recommended) • there is the possibility of playing 4__________ Visit Susie’s parents Susie’s parents live in a town called Williams Address: 6073 5__________ Drive Town history: named after a local hunter destroyed by fire in 6__________ (re",
+      "answerRaw": "space museum",
+      "canonicalAnswer": "space museum",
+      "acceptedAnswers": [
+        "space museum"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But I think the most interesting is the Space Museum, so my advice would be to go there.",
+      "evidenceStartTime": 274.09,
+      "evidenceEndTime": 282.83,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"space museum\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "_ (highly recommended) • there is the possibility of playing 4__________ Visit Susie’s parents Susie’s parents live in a town called Williams Address: 6073 5__________ Drive Town history: named after a local hunter destroyed by fire in 6__________ (rebuilt later) Susie’s parents will be at home after 2nd July 4th July –",
+      "answerRaw": "golf",
+      "canonicalAnswer": "golf",
+      "acceptedAnswers": [
+        "golf"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Any chance of a game of golf? Oh, absolutely. There are loads of courses around Tucson.",
+      "evidenceStartTime": 299.62,
+      "evidenceEndTime": 308.16,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"golf\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "Susie’s parents live in a town called Williams Address: 6073 5__________ Drive Town history: named after a local hunter destroyed by fire in 6__________ (rebuilt later) Susie’s parents will be at home after 2nd July 4th July – Independence Day: there will be 7__________ in the evening Susie’s parents’ phone number: 8____",
+      "answerRaw": "Fearnleigh",
+      "canonicalAnswer": "Fearnleigh",
+      "acceptedAnswers": [
+        "Fearnleigh"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They live in the town of Williams, at 6073 Fearnley Drive. Okay.",
+      "evidenceStartTime": 334.19,
+      "evidenceEndTime": 340.55,
+      "paraphrases": [
+        {
+          "questionTerm": "local",
+          "audioTerm": "town"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Fearnleigh\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'local' ↔ 'town'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "own history: named after a local hunter destroyed by fire in 6__________ (rebuilt later) Susie’s parents will be at home after 2nd July 4th July – Independence Day: there will be 7__________ in the evening Susie’s parents’ phone number: 8__________ Grand Canyon • tour by 9__________ (1½ hrs; 7 trips a day) • canoe (all d",
+      "answerRaw": "1901",
+      "canonicalAnswer": "1901",
+      "acceptedAnswers": [
+        "1901"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But there was a big fire in 1901, and most of the town was burnt down.",
+      "evidenceStartTime": 376.03,
+      "evidenceEndTime": 382.99,
+      "paraphrases": [
+        {
+          "questionTerm": "local",
+          "audioTerm": "town"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"1901\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'local' ↔ 'town'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "me after 2nd July 4th July – Independence Day: there will be 7__________ in the evening Susie’s parents’ phone number: 8__________ Grand Canyon • tour by 9__________ (1½ hrs; 7 trips a day) • canoe (all day; important to take 10__________)",
+      "answerRaw": "fireworks",
+      "canonicalAnswer": "fireworks",
+      "acceptedAnswers": [
+        "fireworks"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They wouldn't miss the 4th of July, Independence Day. Ah, okay. So, lots of fireworks?",
+      "evidenceStartTime": 407.33,
+      "evidenceEndTime": 415.88,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"fireworks\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "be 7__________ in the evening Susie’s parents’ phone number: 8__________ Grand Canyon • tour by 9__________ (1½ hrs; 7 trips a day) • canoe (all day; important to take 10__________)",
+      "answerRaw": "9286352271",
+      "canonicalAnswer": "9286352271",
+      "acceptedAnswers": [
+        "9286352271"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And really, you shouldn't be in Arizona without taking a trip to the Grand Canyon for a few days.",
+      "evidenceStartTime": 435.25,
+      "evidenceEndTime": 444.89,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"9286352271\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "’s parents’ phone number: 8__________ Grand Canyon • tour by 9__________ (1½ hrs; 7 trips a day) • canoe (all day; important to take 10__________)",
+      "answerRaw": "helicopter",
+      "canonicalAnswer": "helicopter",
+      "acceptedAnswers": [
+        "helicopter"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Someone told me you could take a helicopter. Can I do that? Sure.",
+      "evidenceStartTime": 461.78,
+      "evidenceEndTime": 468.24,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"helicopter\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "(1½ hrs; 7 trips a day) • canoe (all day; important to take 10__________)",
+      "answerRaw": "sun cream",
+      "canonicalAnswer": "sun cream",
+      "acceptedAnswers": [
+        "sun cream"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They provide you with waterproof clothes, but they recommend you bring sun cream.",
+      "evidenceStartTime": 500.45,
+      "evidenceEndTime": 508.5,
+      "paraphrases": [
+        {
+          "questionTerm": "take",
+          "audioTerm": "bring"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"sun cream\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'take' ↔ 'bring'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "",
+      "answerRaw": "I",
+      "canonicalAnswer": "I",
+      "acceptedAnswers": [
+        "I"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "First, you have some time to look at questions 11 to 16 on page 3.",
+      "evidenceStartTime": 543.64,
+      "evidenceEndTime": 550.19,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"I\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "e correct letter, A-I, next to questions 11-16. 11 Art books 12 Gardening books 13 History books 14 Children's books 15 Reading area 16 Self-help books Questions 17–20 What does the speaker say about each new book? Choose FOUR correct answers, A-F, next to questions 17-20. Comments A a first-time author B an award-winning",
+      "answerRaw": "H",
+      "canonicalAnswer": "H",
+      "acceptedAnswers": [
+        "H"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And finally, immediately to the left of the entrance, you'll see self-help books.",
+      "evidenceStartTime": 764.43,
+      "evidenceEndTime": 772.46,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"H\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "-I, next to questions 11-16. 11 Art books 12 Gardening books 13 History books 14 Children's books 15 Reading area 16 Self-help books Questions 17–20 What does the speaker say about each new book? Choose FOUR correct answers, A-F, next to questions 17-20. Comments A a first-time author B an award-winning book C a true stor",
+      "answerRaw": "D",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And finally, immediately to the left of the entrance, you'll see self-help books.",
+      "evidenceStartTime": 764.43,
+      "evidenceEndTime": 772.46,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "ions 11-16. 11 Art books 12 Gardening books 13 History books 14 Children's books 15 Reading area 16 Self-help books Questions 17–20 What does the speaker say about each new book? Choose FOUR correct answers, A-F, next to questions 17-20. Comments A a first-time author B an award-winning book C a true story D has a sad end",
+      "answerRaw": "G",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And finally, immediately to the left of the entrance, you'll see self-help books.",
+      "evidenceStartTime": 764.43,
+      "evidenceEndTime": 772.46,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"G\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "ooks 12 Gardening books 13 History books 14 Children's books 15 Reading area 16 Self-help books Questions 17–20 What does the speaker say about each new book? Choose FOUR correct answers, A-F, next to questions 17-20. Comments A a first-time author B an award-winning book C a true story D has a sad ending E has good illus",
+      "answerRaw": "E",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And finally, immediately to the left of the entrance, you'll see self-help books.",
+      "evidenceStartTime": 764.43,
+      "evidenceEndTime": 772.46,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "g books 13 History books 14 Children's books 15 Reading area 16 Self-help books Questions 17–20 What does the speaker say about each new book? Choose FOUR correct answers, A-F, next to questions 17-20. Comments A a first-time author B an award-winning book C a true story D has a sad ending E has good illustrations F part",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And finally, immediately to the left of the entrance, you'll see self-help books.",
+      "evidenceStartTime": 764.43,
+      "evidenceEndTime": 772.46,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "od illustrations F part of a series New books Penny Pinchers 17________ The Running Boy 18________ The Hidden Code 19________ The Orange Moon 20________",
+      "answerRaw": "E has good illustrations",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E has good illustrations",
+        "has good illustrations"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Firstly, Elizabeth Honey's written a new book called Penny Pinchers.",
+      "evidenceStartTime": 819.27,
+      "evidenceEndTime": 826.01,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E has good illustrations. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "a series New books Penny Pinchers 17________ The Running Boy 18________ The Hidden Code 19________ The Orange Moon 20________",
+      "answerRaw": "A a first-time author",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A",
+        "A a first-time author",
+        "a first-time author"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Firstly, Elizabeth Honey's written a new book called Penny Pinchers.",
+      "evidenceStartTime": 819.27,
+      "evidenceEndTime": 826.01,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án A a first-time author. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "nchers 17________ The Running Boy 18________ The Hidden Code 19________ The Orange Moon 20________",
+      "answerRaw": "B an award-winning book",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B",
+        "B an award-winning book",
+        "an award-winning book"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The next book I have here is The Hidden Code, which won several prizes at the last book convention.",
+      "evidenceStartTime": 871.44,
+      "evidenceEndTime": 881.26,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án B an award-winning book. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "ng Boy 18________ The Hidden Code 19________ The Orange Moon 20________",
+      "answerRaw": "F part of a series",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F",
+        "F part of a series",
+        "part of a series"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And finally, my personal favourite, The Orange Moon. This is the final book in a set of novels about the lives of a fictional group of friends living in outback Australia.",
+      "evidenceStartTime": 904.47,
+      "evidenceEndTime": 921.33,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án F part of a series. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "r questions 21–30 Questions 21–25 Choose the correct answer. 21 Katy thinks it might be inappropriate for academic essays to A. give both sides of an argument. B. express personal opinions. C. present a range of views. 22 The tutor says that in one type of conclusion students should A. withhold their own views. B. avoid t",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, the writer's made it quite clear what his own views are about this subject.",
+      "evidenceStartTime": 1007.66,
+      "evidenceEndTime": 1015.7,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": ". B. express personal opinions. C. present a range of views. 22 The tutor says that in one type of conclusion students should A. withhold their own views. B. avoid too much repetition. C. refer to the title. 23 What does the tutor say about the bibliography? A. There is a standard format for references. B. Presentation is",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "This person's used italics when he refers to book titles in the reference section, but I thought we had to underline them.",
+      "evidenceStartTime": 1124.66,
+      "evidenceEndTime": 1136.77,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "views. B. avoid too much repetition. C. refer to the title. 23 What does the tutor say about the bibliography? A. There is a standard format for references. B. Presentation is not assessed at this level. C. Book titles should be underlined. 24 What advice does the tutor give about quotations? A. They provide evidence of",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "This person's used italics when he refers to book titles in the reference section, but I thought we had to underline them.",
+      "evidenceStartTime": 1124.66,
+      "evidenceEndTime": 1136.77,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "assessed at this level. C. Book titles should be underlined. 24 What advice does the tutor give about quotations? A. They provide evidence of how widely a student has read. B. They are useful for defining difficult concepts. C. There is a tendency to use too few of them. 25 John suggests that the writer of the first essay",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Generally speaking, I'd say that you need to be aware of words within the essay title itself that are possibly contentious, terms that need defining.",
+      "evidenceStartTime": 1261.51,
+      "evidenceEndTime": 1276.3,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "ult concepts. C. There is a tendency to use too few of them. 25 John suggests that the writer of the first essay should have A done more thorough research. B analysed his data more carefully. C given his views more clearly. Questions 26–30 Complete the sentences below. Write ONE WORD ONLY for each answer. • The tutor says",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "He says things like, we aren't given enough evidence, or we don't know how he got his results.",
+      "evidenceStartTime": 1320.17,
+      "evidenceEndTime": 1329.5,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "say is relevance. Katy thinks the writer separates different 26__________ very clearly. John feels that bullet points and sub-headings might be more appropriate for 27__________ than for essays. • The tutor thinks that paragraphs should be used to structure essays. John particularly admires the way the writer backs up his",
+      "answerRaw": "subtopics",
+      "canonicalAnswer": "subtopics",
+      "acceptedAnswers": [
+        "subtopics"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I mean, sometimes writers mix different subtopics up, so it's quite difficult to follow the logic of the essay.",
+      "evidenceStartTime": 1439.76,
+      "evidenceEndTime": 1450.77,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"subtopics\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "bullet points and sub-headings might be more appropriate for 27__________ than for essays. • The tutor thinks that paragraphs should be used to structure essays. John particularly admires the way the writer backs up his statements with 28__________. Katy likes the writer’s use of language to link his 29__________. The tut",
+      "answerRaw": "reports",
+      "canonicalAnswer": "reports",
+      "acceptedAnswers": [
+        "reports"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I mean, it is very clear. But is it OK to use subheadings and bullet points like this? I mean, in things like reports, they can be very useful, I know.",
+      "evidenceStartTime": 1458.01,
+      "evidenceEndTime": 1472.89,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"reports\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "arly admires the way the writer backs up his statements with 28__________. Katy likes the writer’s use of language to link his 29__________. The tutor thinks that wide 30__________ helps to develop writing ability",
+      "answerRaw": "examples",
+      "canonicalAnswer": "examples",
+      "acceptedAnswers": [
+        "examples"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "One thing I thought was really good about this essay was the way the writer always gives examples to support statements.",
+      "evidenceStartTime": 1506.03,
+      "evidenceEndTime": 1517.94,
+      "paraphrases": [],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"examples\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "_______. Katy likes the writer’s use of language to link his 29__________. The tutor thinks that wide 30__________ helps to develop writing ability",
+      "answerRaw": "ideas",
+      "canonicalAnswer": "ideas",
+      "acceptedAnswers": [
+        "ideas"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Another thing that helps the reader is the way he uses words and phrases to connect ideas.",
+      "evidenceStartTime": 1534.31,
+      "evidenceEndTime": 1543.24,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"ideas\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "anguage to link his 29__________. The tutor thinks that wide 30__________ helps to develop writing ability",
+      "answerRaw": "reading",
+      "canonicalAnswer": "reading",
+      "acceptedAnswers": [
+        "reading"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The content is the most important thing, of course, but there's no doubt that language can make the content clearer, or otherwise, for the reader. Now, you may feel at this early stage that your writing skills are rusty, but reading is the key, I think.",
+      "evidenceStartTime": 1557.04,
+      "evidenceEndTime": 1582.05,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"reading\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "y invented languages were used for religious purposes or for 31__________ • We know of about 900 invented languages, but many have been lost. William Spencer • He wrote books about 32__________ so he needed an accurate language. • At first he tried to base his language on 33__________ • Later he classified words in the sa",
+      "answerRaw": "trade",
+      "canonicalAnswer": "trade",
+      "acceptedAnswers": [
+        "trade"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "or developed to help establish trade between different nations.",
+      "evidenceStartTime": 1679.11,
+      "evidenceEndTime": 1685.36,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"trade\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "many have been lost. William Spencer • He wrote books about 32__________ so he needed an accurate language. • At first he tried to base his language on 33__________ • Later he classified words in the same way that was used for plants. Ludwig Zamenhof • He mixed together existing European languages. • He wrote 34_________",
+      "answerRaw": "science",
+      "canonicalAnswer": "science",
+      "acceptedAnswers": [
+        "science"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "His subject was science. As a result, he wanted to create a language where words had only one meaning, so everyone would understand precisely what they meant.",
+      "evidenceStartTime": 1739.02,
+      "evidenceEndTime": 1754.59,
+      "paraphrases": [],
+      "distractors": [
+        "giới hạn phạm vi bằng 'only'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"science\". Lưu ý bẫy gây nhiễu (distractor): giới hạn phạm vi bằng 'only'."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "curate language. • At first he tried to base his language on 33__________ • Later he classified words in the same way that was used for plants. Ludwig Zamenhof • He mixed together existing European languages. • He wrote 34__________ to help develop his new language. • He wanted simplicity, e.g. one prefix to make words 35",
+      "answerRaw": "numbers",
+      "canonicalAnswer": "numbers",
+      "acceptedAnswers": [
+        "numbers"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "A, B, C, and so on, he tried to substitute numbers for them.",
+      "evidenceStartTime": 1764.61,
+      "evidenceEndTime": 1770.56,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"numbers\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "• He mixed together existing European languages. • He wrote 34__________ to help develop his new language. • He wanted simplicity, e.g. one prefix to make words 35__________ • He sent a 36__________ to his friends to publicise his language. • He created the most successful invented language. Bruce Goldie • Each word of h",
+      "answerRaw": "songs",
+      "canonicalAnswer": "songs",
+      "acceptedAnswers": [
+        "songs"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "he used it to write quite a few different songs, and this made his work more enjoyable.",
+      "evidenceStartTime": 1850.0,
+      "evidenceEndTime": 1858.63,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"songs\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "guage. • He wanted simplicity, e.g. one prefix to make words 35__________ • He sent a 36__________ to his friends to publicise his language. • He created the most successful invented language. Bruce Goldie • Each word of his language was based on a 37__________ • His language did not get academic recognition at first. • C",
+      "answerRaw": "negative",
+      "canonicalAnswer": "negative",
+      "acceptedAnswers": [
+        "negative"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "So, for example, he had a single prefix that was used before adjectives or verbs to make them negative, which is obviously much easier than English.",
+      "evidenceStartTime": 1876.48,
+      "evidenceEndTime": 1891.16,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"negative\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "city, e.g. one prefix to make words 35__________ • He sent a 36__________ to his friends to publicise his language. • He created the most successful invented language. Bruce Goldie • Each word of his language was based on a 37__________ • His language did not get academic recognition at first. • Children in a Canadian 38_",
+      "answerRaw": "letter",
+      "canonicalAnswer": "letter",
+      "acceptedAnswers": [
+        "letter"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "In order to publicise the completed language, he made a list of everyone he knew and posted a letter to all of them using the new language.",
+      "evidenceStartTime": 1912.18,
+      "evidenceEndTime": 1925.97,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"letter\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "age. Bruce Goldie • Each word of his language was based on a 37__________ • His language did not get academic recognition at first. • Children in a Canadian 38__________ learned to read using his language. Conclusion: why have invented languages failed? • They cannot express 39__________ • English became the global langua",
+      "answerRaw": "picture",
+      "canonicalAnswer": "picture",
+      "acceptedAnswers": [
+        "picture"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "In order to publicise the completed language, he made a list of everyone he knew and posted a letter to all of them using the new language.",
+      "evidenceStartTime": 1912.18,
+      "evidenceEndTime": 1925.97,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"picture\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "get academic recognition at first. • Children in a Canadian 38__________ learned to read using his language. Conclusion: why have invented languages failed? • They cannot express 39__________ • English became the global language. • They are now invented by 40__________, just for entertainment.",
+      "answerRaw": "hospital",
+      "canonicalAnswer": "hospital",
+      "acceptedAnswers": [
+        "hospital"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "In order to publicise the completed language, he made a list of everyone he knew and posted a letter to all of them using the new language.",
+      "evidenceStartTime": 1912.18,
+      "evidenceEndTime": 1925.97,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"hospital\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "n: why have invented languages failed? • They cannot express 39__________ • English became the global language. • They are now invented by 40__________, just for entertainment.",
+      "answerRaw": "emotions",
+      "canonicalAnswer": "emotions",
+      "acceptedAnswers": [
+        "emotions"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "In order to publicise the completed language, he made a list of everyone he knew and posted a letter to all of them using the new language.",
+      "evidenceStartTime": 1912.18,
+      "evidenceEndTime": 1925.97,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"emotions\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "glish became the global language. • They are now invented by 40__________, just for entertainment.",
+      "answerRaw": "writers",
+      "canonicalAnswer": "writers",
+      "acceptedAnswers": [
+        "writers"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "In order to publicise the completed language, he made a list of everyone he knew and posted a letter to all of them using the new language.",
+      "evidenceStartTime": 1912.18,
+      "evidenceEndTime": 1925.97,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"writers\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 13.22,
+      "text": "IELTS Listening Version 59374 You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 13.22,
+      "endTime": 24.45,
+      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 24.45,
+      "endTime": 31.8,
+      "text": "All the recordings will be played once only. The test is in four sections.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 31.8,
+      "endTime": 37.46,
+      "text": "Write all your answers in the Listening Question Booklet.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 37.46,
+      "endTime": 47.1,
+      "text": "At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 47.1,
+      "endTime": 52.76,
+      "text": "Now turn to Section 1 on page 2 of your Question Booklet.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 52.76,
+      "endTime": 65.48,
+      "text": "Section 1 You will hear an Englishman called Steve phoning a friend called Susie about his trip to Arizona in the United States.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 65.48,
+      "endTime": 71.74,
+      "text": "First you have some time to look at questions 1 to 4 on page 2.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 71.74,
+      "endTime": 78.2,
+      "text": "You will see that there is an example that has been done for you.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 78.2,
+      "endTime": 86.65,
+      "text": "On this occasion only, the conversation relating to this will be played first. Hello?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 86.65,
+      "endTime": 93.51,
+      "text": "Hi Susie, it's Steve. Steve, hi! How are you doing? I'm fine, thanks.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 93.51,
+      "endTime": 105.04,
+      "text": "Actually, I've got to attend a conference in July in Tucson, Arizona, and I was hoping you could give me a few tips.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 105.04,
+      "endTime": 109.81,
+      "text": "You're from around there, aren't you? I sure am.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 109.81,
+      "endTime": 116.37,
+      "text": "Tucson's not my hometown though, but it's definitely worth seeing.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 116.37,
+      "endTime": 119.95,
+      "text": "What's the weather like around then?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 119.95,
+      "endTime": 125.81,
+      "text": "Is it true it's about 40 degrees centigrade in the daytime?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 125.81,
+      "endTime": 133.96,
+      "text": "That's right, and not less than 25 at night. A bit different from England in July.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 133.96,
+      "endTime": 142.61,
+      "text": "The temperature during the day will be 40 degrees, so 40 has been written in the space.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 142.61,
+      "endTime": 144.5,
+      "text": "Now we shall begin.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 144.5,
+      "endTime": 154.44,
+      "text": "You should answer the questions as you listen because you will not hear the recording a second time.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 154.44,
+      "endTime": 162.89,
+      "text": "Listen carefully and answer questions 1 to 4. Hello? Hi Susie, it's Steve. Steve, hi!",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 162.89,
+      "endTime": 166.47,
+      "text": "How are you doing? I'm fine, thanks.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 166.47,
+      "endTime": 178.0,
+      "text": "Actually, I've got to attend a conference in July in Tucson, Arizona, and I was hoping you could give me a few tips.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 178.0,
+      "endTime": 182.77,
+      "text": "You're from around there, aren't you? I sure am.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 182.77,
+      "endTime": 189.33,
+      "text": "Tucson's not my hometown though, but it's definitely worth seeing.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 189.33,
+      "endTime": 192.91,
+      "text": "What's the weather like around then?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 192.91,
+      "endTime": 198.77,
+      "text": "Is it true it's about 40 degrees centigrade in the daytime?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 198.77,
+      "endTime": 206.92,
+      "text": "That's right, and not less than 25 at night. A bit different from England in July.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 206.92,
+      "endTime": 215.17,
+      "text": "True. I was wondering what to take with me. I won't need warm clothes then, will I?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 215.17,
+      "endTime": 227.59,
+      "text": "Well, you'll find that everywhere is air-conditioned, and it can feel quite cold sometimes, so a jacket would be a good idea.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 227.59,
+      "endTime": 241.2,
+      "text": "You might need an umbrella as well, as we sometimes have thunderstorms during the day, but you can always pick one up when you get there.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 241.2,
+      "endTime": 250.04,
+      "text": "My conference is only for a couple of days, so I was wondering what I could do in Tucson.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 250.04,
+      "endTime": 253.22,
+      "text": "Well, it's a beautiful position.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 253.22,
+      "endTime": 259.88,
+      "text": "I'd hire a car in Tucson, and then follow the trails in the desert.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 259.88,
+      "endTime": 266.54,
+      "text": "Okay, I'm writing all this down. Any other tips? Museums and stuff?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 266.54,
+      "endTime": 274.09,
+      "text": "Well, there are lots of museums. The usual thing, like wildlife and history.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 274.09,
+      "endTime": 282.83,
+      "text": "But I think the most interesting is the Space Museum, so my advice would be to go there.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 282.83,
+      "endTime": 288.69,
+      "text": "Hmm, what else? Well, there are plenty of walks you can do.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 288.69,
+      "endTime": 299.62,
+      "text": "The town itself is great, and there are plenty of places you can eat and drink when you get too hot and tired.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 299.62,
+      "endTime": 304.09,
+      "text": "Any chance of a game of golf? Oh, absolutely.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 304.09,
+      "endTime": 308.16,
+      "text": "There are loads of courses around Tucson.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 308.16,
+      "endTime": 318.49,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 5 to 10 on page 2.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 318.49,
+      "endTime": 322.46,
+      "text": "Now listen and answer questions 5 to 10.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 322.46,
+      "endTime": 330.61,
+      "text": "If you've got time, why don't you visit my parents? They'd love to see you. Great!",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 330.61,
+      "endTime": 334.19,
+      "text": "Can you give me their address? Sure.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 334.19,
+      "endTime": 340.55,
+      "text": "They live in the town of Williams, at 6073 Fearnley Drive. Okay.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 340.55,
+      "endTime": 348.5,
+      "text": "How do you spell that? F-E-A-R-N-L-E-I-G-H. 6073 Fearnley Drive. Okay. Got that.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 348.5,
+      "endTime": 357.74,
+      "text": "The town's in northern Arizona, and it's named after a hunter in the area in the early 1800s.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 357.74,
+      "endTime": 364.8,
+      "text": "He used to make a living shooting animals around there for their skins.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 364.8,
+      "endTime": 369.97,
+      "text": "Sounds interesting. So, is it full of old buildings?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 369.97,
+      "endTime": 376.03,
+      "text": "Well, the post office is the oldest, as it was built in 1881.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 1,
+      "startTime": 376.03,
+      "endTime": 382.99,
+      "text": "But there was a big fire in 1901, and most of the town was burnt down.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 1,
+      "startTime": 382.99,
+      "endTime": 386.96,
+      "text": "But it didn't take them long to rebuild.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 1,
+      "startTime": 386.96,
+      "endTime": 394.31,
+      "text": "Oh, and the famous Route 66 goes through the town. That was built in 1926.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 1,
+      "startTime": 394.31,
+      "endTime": 402.46,
+      "text": "So, when exactly are you going? The conference is from the 1st to the 2nd of July.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 1,
+      "startTime": 402.46,
+      "endTime": 407.33,
+      "text": "Will your parents be at home after that? Oh, yes.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 1,
+      "startTime": 407.33,
+      "endTime": 415.88,
+      "text": "They wouldn't miss the 4th of July, Independence Day. Ah, okay. So, lots of fireworks?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 1,
+      "startTime": 415.88,
+      "endTime": 423.03,
+      "text": "As soon as the sun goes down. People come from miles around to see them.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 1,
+      "startTime": 423.03,
+      "endTime": 429.19,
+      "text": "Why don't you give my parents a call? They're on 928-635-2271.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 1,
+      "startTime": 429.19,
+      "endTime": 435.25,
+      "text": "I'm sure they'd love to have you. Okay. I'll do that tonight.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 1,
+      "startTime": 435.25,
+      "endTime": 444.89,
+      "text": "And really, you shouldn't be in Arizona without taking a trip to the Grand Canyon for a few days.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 1,
+      "startTime": 444.89,
+      "endTime": 451.65,
+      "text": "Hold on. I've got a leaflet here. I took a friend there last summer.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 1,
+      "startTime": 451.65,
+      "endTime": 454.33,
+      "text": "She had a great time. Okay.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 1,
+      "startTime": 454.33,
+      "endTime": 461.78,
+      "text": "It says here that there are a lot of tours you can take when you get there.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 1,
+      "startTime": 461.78,
+      "endTime": 468.24,
+      "text": "Someone told me you could take a helicopter. Can I do that? Sure.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 1,
+      "startTime": 468.24,
+      "endTime": 476.69,
+      "text": "That tour takes about one and a half hours, and there are seven a day to choose from.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 1,
+      "startTime": 476.69,
+      "endTime": 478.38,
+      "text": "The last is 5.30.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 1,
+      "startTime": 478.38,
+      "endTime": 486.83,
+      "text": "You get a really good idea of the huge size of the canyon from up there. Sounds good.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 1,
+      "startTime": 486.83,
+      "endTime": 493.39,
+      "text": "Any chance I can get down to the river? I'm quite good in a canoe.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 1,
+      "startTime": 493.39,
+      "endTime": 500.45,
+      "text": "Yes, you can do that, too. Let's see. Ah, yes, there's an all-day trip.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 1,
+      "startTime": 500.45,
+      "endTime": 508.5,
+      "text": "They provide you with waterproof clothes, but they recommend you bring sun cream.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 1,
+      "startTime": 508.5,
+      "endTime": 512.47,
+      "text": "You'll really need it down on the river.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 1,
+      "startTime": 512.47,
+      "endTime": 520.22,
+      "text": "Well, that should keep me busy for a few days. Thanks, Susie. That's terrific.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 1,
+      "startTime": 520.22,
+      "endTime": 526.88,
+      "text": "I'll ring you again just before I go. That is the end of Section 1.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 1,
+      "startTime": 526.88,
+      "endTime": 531.74,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 531.74,
+      "endTime": 536.0,
+      "text": "Now turn to Section 2 on page 3. Section 2.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 536.0,
+      "endTime": 543.64,
+      "text": "You will hear the store manager of a bookshop give a short talk to new staff.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 543.64,
+      "endTime": 550.19,
+      "text": "First, you have some time to look at questions 11 to 16 on page 3.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 550.19,
+      "endTime": 557.63,
+      "text": "Now listen carefully and answer questions 11 to 16. Good evening, everyone.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 557.63,
+      "endTime": 561.89,
+      "text": "Thanks for coming in. This won't take long.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 561.89,
+      "endTime": 576.37,
+      "text": "Because we have quite a few new staff members, we thought it would be helpful to call you all in while the shop's closed to give you a short tour.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 576.37,
+      "endTime": 584.9,
+      "text": "After the tour, we'll introduce you to some of the book promotions we have this month.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 584.9,
+      "endTime": 592.34,
+      "text": "Have you all got a copy of the map? Okay, let's move to the store entrance.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 592.34,
+      "endTime": 598.29,
+      "text": "I can point out each section to you quite easily from there.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 598.29,
+      "endTime": 609.99,
+      "text": "There are the two cashiers straight ahead, and on our right, close to the wall, is a large area divided into sections.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 609.99,
+      "endTime": 620.9,
+      "text": "To attract students from the art college nearby, we decided to have books on art at the front of this section,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 620.9,
+      "endTime": 630.82,
+      "text": "and we're planning to include more texts from the prescribed book lists of local colleges in future.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 630.82,
+      "endTime": 636.37,
+      "text": "In the middle of this large section is the home section.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 636.37,
+      "endTime": 641.03,
+      "text": "The books here range from design to renovation.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 641.03,
+      "endTime": 648.77,
+      "text": "And at the back of this section, we have a small selection of gardening books.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 648.77,
+      "endTime": 660.08,
+      "text": "As this is a new section for us, at first we thought we'd locate it on its own, on the other side of the cashiers.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 660.08,
+      "endTime": 668.11,
+      "text": "But we ultimately decided to have it at the back there, and it's well signposted.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 668.11,
+      "endTime": 679.52,
+      "text": "Straight ahead, and directly behind the cashiers, there's the magazine and newspaper stand, which is closest to us.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 679.52,
+      "endTime": 689.54,
+      "text": "Behind this, you can see two sections side by side, history on one side and biographies on the other.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 689.54,
+      "endTime": 696.78,
+      "text": "In our other stores, these sections are usually located at the very back.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 696.78,
+      "endTime": 707.0,
+      "text": "But sales haven't been great, so to try to attract more interest, we decided to make them more visible.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 707.0,
+      "endTime": 716.32,
+      "text": "Also within this central area, just behind biographies, we've placed our two fiction sections.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 2,
+      "startTime": 716.32,
+      "endTime": 727.83,
+      "text": "The children's section is the larger area, over on the right, and the adults' section, the smaller one, on the left.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 2,
+      "startTime": 727.83,
+      "endTime": 739.04,
+      "text": "You'll see over in the far left-hand corner of the store, we have our coffee shop, which has become very popular.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 2,
+      "startTime": 739.04,
+      "endTime": 747.77,
+      "text": "Behind this, running right along the back of the store, we've introduced a reading area.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 2,
+      "startTime": 747.77,
+      "endTime": 753.72,
+      "text": "We've added chairs and cushions to create a cosy atmosphere.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 2,
+      "startTime": 753.72,
+      "endTime": 764.43,
+      "text": "And as you move around the store later, you'll see this comfortable seating idea in other parts of the shop.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 2,
+      "startTime": 764.43,
+      "endTime": 772.46,
+      "text": "And finally, immediately to the left of the entrance, you'll see self-help books.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 2,
+      "startTime": 772.46,
+      "endTime": 781.98,
+      "text": "These are here because we currently have a number of special offers connected with these topics.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 2,
+      "startTime": 781.98,
+      "endTime": 790.61,
+      "text": "When the specials have finished, we'll relocate this section to behind the coffee shop.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 2,
+      "startTime": 790.61,
+      "endTime": 797.45,
+      "text": "OK, I think that's it. I'll let you have a browse around in a minute.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 2,
+      "startTime": 797.45,
+      "endTime": 807.07,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 17 to 20 on page 4.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 2,
+      "startTime": 807.07,
+      "endTime": 811.14,
+      "text": "Now listen and answer questions 17 to 20.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 2,
+      "startTime": 811.14,
+      "endTime": 819.27,
+      "text": "Next, I'd like to quickly introduce you to some of the new books we have in stock.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 2,
+      "startTime": 819.27,
+      "endTime": 826.01,
+      "text": "Firstly, Elizabeth Honey's written a new book called Penny Pinchers.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 2,
+      "startTime": 826.01,
+      "endTime": 833.75,
+      "text": "It's a wonderful story, set in early Australia, and I thoroughly recommend it.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 2,
+      "startTime": 833.75,
+      "endTime": 840.49,
+      "text": "It includes some beautiful drawings based on the artwork of the era.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 2,
+      "startTime": 840.49,
+      "endTime": 842.87,
+      "text": "Next is The Running Boy.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 2,
+      "startTime": 842.87,
+      "endTime": 850.31,
+      "text": "It's about a boy who gets himself into some difficult situations at school.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 2,
+      "startTime": 850.31,
+      "endTime": 858.05,
+      "text": "I think Simon Darling, the writer, has done a fantastic job in his debut book.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 2,
+      "startTime": 858.05,
+      "endTime": 866.38,
+      "text": "He's currently working on his second novel, a crime story aimed at the adult market.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 2,
+      "startTime": 866.38,
+      "endTime": 871.44,
+      "text": "I'm sure that will definitely be worth waiting for.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 2,
+      "startTime": 871.44,
+      "endTime": 881.26,
+      "text": "The next book I have here is The Hidden Code, which won several prizes at the last book convention.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 2,
+      "startTime": 881.26,
+      "endTime": 891.18,
+      "text": "Marketed as a book for older children, it deals with realistic problems faced by young people today.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 2,
+      "startTime": 891.18,
+      "endTime": 894.55,
+      "text": "Basically, it's a work of fiction.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 2,
+      "startTime": 894.55,
+      "endTime": 904.47,
+      "text": "It's something that should also be read by every parent, not just the younger members of the family.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 2,
+      "startTime": 904.47,
+      "endTime": 909.63,
+      "text": "And finally, my personal favourite, The Orange Moon.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 2,
+      "startTime": 909.63,
+      "endTime": 921.33,
+      "text": "This is the final book in a set of novels about the lives of a fictional group of friends living in outback Australia.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 2,
+      "startTime": 921.33,
+      "endTime": 932.04,
+      "text": "I hear this is being adapted to a movie, suitable for the whole family, which I'm sure will be very popular.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 2,
+      "startTime": 932.04,
+      "endTime": 939.88,
+      "text": "That is the end of Section 2. You now have half a minute to check your answers.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 939.88,
+      "endTime": 943.06,
+      "text": "Now turn to Section 3 on page 5.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 943.06,
+      "endTime": 956.85,
+      "text": "Section 3 You will hear a university lecturer talking to a female student called Katie and a male student called John about writing essays.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 956.85,
+      "endTime": 963.4,
+      "text": "First, you have some time to look at questions 21 to 25 on page 5.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 963.4,
+      "endTime": 971.54,
+      "text": "Now listen carefully and answer questions 21 to 25. Morning, Katie. Morning, John.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 971.54,
+      "endTime": 979.88,
+      "text": "I want to talk about essays today and what the requirements are for this university.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 979.88,
+      "endTime": 985.93,
+      "text": "What kinds of things we look for when we're grading them, OK?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 985.93,
+      "endTime": 992.18,
+      "text": "So, let's look at those two sample essays I gave you last week.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 992.18,
+      "endTime": 999.42,
+      "text": "I asked you to read them and to think about their strong and weak points.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 999.42,
+      "endTime": 1007.66,
+      "text": "Do either of you have any general comments or questions about the first one? Katie?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 1007.66,
+      "endTime": 1015.7,
+      "text": "Well, the writer's made it quite clear what his own views are about this subject.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 1015.7,
+      "endTime": 1022.15,
+      "text": "But I thought in academic essays you weren't supposed to do that.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 1022.15,
+      "endTime": 1034.85,
+      "text": "I thought you were meant to present all the different arguments and just appear to be neutral about which one you think is best.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 1034.85,
+      "endTime": 1041.6,
+      "text": "Students do sometimes come down quite firmly on one particular side.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 1041.6,
+      "endTime": 1051.52,
+      "text": "And that's OK, as long as they can show that they've given balanced consideration to all the issues.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 1051.52,
+      "endTime": 1057.57,
+      "text": "Do you see what I mean? John, you're looking a bit uncertain.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1057.57,
+      "endTime": 1060.55,
+      "text": "Did you want to say something?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1060.55,
+      "endTime": 1067.5,
+      "text": "Well, what if you don't feel as sure about the debate as this student?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1067.5,
+      "endTime": 1075.64,
+      "text": "There's another type of conclusion that's valid when you're writing at this level.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1075.64,
+      "endTime": 1081.69,
+      "text": "People don't have to come down strongly on a particular side.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1081.69,
+      "endTime": 1097.86,
+      "text": "They can say in the essay that the process of researching a particular topic has identified the importance of a range of studies that support different viewpoints.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1097.86,
+      "endTime": 1103.52,
+      "text": "And then they return to the title of the assignment. Yes?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1103.52,
+      "endTime": 1112.25,
+      "text": "And I'd say that it's a good idea to use some of the actual words that are in the title.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1112.25,
+      "endTime": 1117.81,
+      "text": "It shows the reader that you're still on track. OK? Yes.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1117.81,
+      "endTime": 1124.66,
+      "text": "Tony, can I just ask you something about the bibliography? Of course.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1124.66,
+      "endTime": 1136.77,
+      "text": "This person's used italics when he refers to book titles in the reference section, but I thought we had to underline them.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1136.77,
+      "endTime": 1144.21,
+      "text": "Actually, he's done it in the way we set out in the University Study Guide.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1144.21,
+      "endTime": 1148.77,
+      "text": "That is the appropriate convention for titles.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1148.77,
+      "endTime": 1160.98,
+      "text": "You might think it's trivial, but presenting references appropriately is one of the requirements of a degree at this level,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 3,
+      "startTime": 1160.98,
+      "endTime": 1167.23,
+      "text": "so I wouldn't be doing my job properly if I didn't stress that.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 3,
+      "startTime": 1167.23,
+      "endTime": 1175.17,
+      "text": "And once people are used to it, they don't generally have a big problem with it.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 3,
+      "startTime": 1175.17,
+      "endTime": 1180.43,
+      "text": "Yes, Katie? You mentioned the University Study Guide.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 3,
+      "startTime": 1180.43,
+      "endTime": 1185.89,
+      "text": "I looked in there to see what it said about quotations.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 3,
+      "startTime": 1185.89,
+      "endTime": 1193.33,
+      "text": "The essays got a lot of quite long ones, and I was a bit surprised by that.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 3,
+      "startTime": 1193.33,
+      "endTime": 1197.4,
+      "text": "I thought we weren't supposed to do that.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 3,
+      "startTime": 1197.4,
+      "endTime": 1207.62,
+      "text": "But using a range of quotations is a way of showing that you have actually read quite widely, isn't it?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 3,
+      "startTime": 1207.62,
+      "endTime": 1209.31,
+      "text": "Well, not really.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 3,
+      "startTime": 1209.31,
+      "endTime": 1219.43,
+      "text": "Unfortunately, some students just pick out extracts to quote without actually reading the whole thing.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 3,
+      "startTime": 1219.43,
+      "endTime": 1224.89,
+      "text": "It's really a matter of using quotations appropriately.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 3,
+      "startTime": 1224.89,
+      "endTime": 1238.09,
+      "text": "I've marked essays in the past where literally every fourth or fifth sentence has been a quote, and that definitely isn't acceptable.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 3,
+      "startTime": 1238.09,
+      "endTime": 1250.89,
+      "text": "You have to read widely, but you should be assimilating what you've read, and in general, presenting the ideas in your own words.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 3,
+      "startTime": 1250.89,
+      "endTime": 1254.66,
+      "text": "So, when exactly should we use quotes?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 3,
+      "startTime": 1254.66,
+      "endTime": 1261.51,
+      "text": "Particularly where there are definitions involved, as there are here.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 3,
+      "startTime": 1261.51,
+      "endTime": 1276.3,
+      "text": "Generally speaking, I'd say that you need to be aware of words within the essay title itself that are possibly contentious, terms that need defining.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 3,
+      "startTime": 1276.3,
+      "endTime": 1281.76,
+      "text": "For instance, this one here has the word culture in it.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 3,
+      "startTime": 1281.76,
+      "endTime": 1293.57,
+      "text": "Now, although you probably have a rough idea of what that term means, you might not be able to articulate it very well.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 3,
+      "startTime": 1293.57,
+      "endTime": 1301.31,
+      "text": "So, why not cite someone else's definition, rather than dream one up yourself?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 3,
+      "startTime": 1301.31,
+      "endTime": 1305.58,
+      "text": "OK, any other comments on this first essay?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 3,
+      "startTime": 1305.58,
+      "endTime": 1311.34,
+      "text": "What about the way the writer discusses research findings?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 3,
+      "startTime": 1311.34,
+      "endTime": 1320.17,
+      "text": "One thing that struck me was the approach of the student to some of the things he'd read.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 3,
+      "startTime": 1320.17,
+      "endTime": 1329.5,
+      "text": "He says things like, we aren't given enough evidence, or we don't know how he got his results.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 3,
+      "startTime": 1329.5,
+      "endTime": 1340.91,
+      "text": "When you're reading about someone's research at second hand, you often don't get told how many people were studied,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 3,
+      "startTime": 1340.91,
+      "endTime": 1349.94,
+      "text": "or exactly what kind of questionnaires were used, or how exactly the results were analysed.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 3,
+      "startTime": 1349.94,
+      "endTime": 1358.57,
+      "text": "But I've always felt that it's just up to me to go to the primary sources and find out.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 3,
+      "startTime": 1358.57,
+      "endTime": 1370.08,
+      "text": "It is important that you feel free to say if there are reasons why you can't make a clear judgement about something.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 3,
+      "startTime": 1370.08,
+      "endTime": 1374.15,
+      "text": "But you don't have to, not at this level.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 3,
+      "startTime": 1374.15,
+      "endTime": 1379.51,
+      "text": "It's almost as if we just take things for granted. OK?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 3,
+      "startTime": 1379.51,
+      "endTime": 1389.73,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 26 to 30 on page 6.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 3,
+      "startTime": 1389.73,
+      "endTime": 1397.97,
+      "text": "Now listen and answer questions 26 to 30. Now, let's look at the second essay then.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 3,
+      "startTime": 1397.97,
+      "endTime": 1404.92,
+      "text": "First of all, this essay title is in the form of a question, isn't it?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 3,
+      "startTime": 1404.92,
+      "endTime": 1410.28,
+      "text": "Did you think this student answered the question? Yes.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 3,
+      "startTime": 1410.28,
+      "endTime": 1414.65,
+      "text": "Good, because really that's the bottom line.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 3,
+      "startTime": 1414.65,
+      "endTime": 1420.41,
+      "text": "The minimum criterion for an assignment is relevance. Yes?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 3,
+      "startTime": 1420.41,
+      "endTime": 1429.34,
+      "text": "Sometimes people don't seem to see the words on the page, but you have to be very focused.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 3,
+      "startTime": 1429.34,
+      "endTime": 1433.61,
+      "text": "Secondly, what about the overall structure?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 3,
+      "startTime": 1433.61,
+      "endTime": 1439.76,
+      "text": "Would you say that the essay is well-structured? Yes, I would.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 3,
+      "startTime": 1439.76,
+      "endTime": 1450.77,
+      "text": "I mean, sometimes writers mix different subtopics up, so it's quite difficult to follow the logic of the essay.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 3,
+      "startTime": 1450.77,
+      "endTime": 1458.01,
+      "text": "But here I think they're separated very clearly. Do you agree, John? Yes.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-193",
+      "part": 3,
+      "startTime": 1458.01,
+      "endTime": 1466.54,
+      "text": "I mean, it is very clear. But is it OK to use subheadings and bullet points like this?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-194",
+      "part": 3,
+      "startTime": 1466.54,
+      "endTime": 1472.89,
+      "text": "I mean, in things like reports, they can be very useful, I know.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-195",
+      "part": 3,
+      "startTime": 1472.89,
+      "endTime": 1477.95,
+      "text": "But is it all right to use them in academic essays?",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-196",
+      "part": 3,
+      "startTime": 1477.95,
+      "endTime": 1487.18,
+      "text": "Well, my general feeling is that it's best just to use paragraphs to signal changes of topic.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-197",
+      "part": 3,
+      "startTime": 1487.18,
+      "endTime": 1495.02,
+      "text": "The beginning of a paragraph should signal what you're going to say in general,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-198",
+      "part": 3,
+      "startTime": 1495.02,
+      "endTime": 1506.03,
+      "text": "and then as you get to the end of the paragraph, you should be signalling what you're going to move on to next.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-199",
+      "part": 3,
+      "startTime": 1506.03,
+      "endTime": 1517.94,
+      "text": "One thing I thought was really good about this essay was the way the writer always gives examples to support statements.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-200",
+      "part": 3,
+      "startTime": 1517.94,
+      "endTime": 1526.47,
+      "text": "He never just assumes that explanations are enough. Yes. I'm glad you brought that up.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-201",
+      "part": 3,
+      "startTime": 1526.47,
+      "endTime": 1534.31,
+      "text": "I was going to mention it myself. As you say, it's very helpful for the reader.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-202",
+      "part": 3,
+      "startTime": 1534.31,
+      "endTime": 1543.24,
+      "text": "Another thing that helps the reader is the way he uses words and phrases to connect ideas.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-203",
+      "part": 3,
+      "startTime": 1543.24,
+      "endTime": 1548.8,
+      "text": "You mean things like however and on the other hand? Yes.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-204",
+      "part": 3,
+      "startTime": 1548.8,
+      "endTime": 1557.04,
+      "text": "And finally, in addition… Yes. That really is one of the hallmarks of a good essay.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-205",
+      "part": 3,
+      "startTime": 1557.04,
+      "endTime": 1571.53,
+      "text": "The content is the most important thing, of course, but there's no doubt that language can make the content clearer, or otherwise, for the reader.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-206",
+      "part": 3,
+      "startTime": 1571.53,
+      "endTime": 1582.05,
+      "text": "Now, you may feel at this early stage that your writing skills are rusty, but reading is the key, I think.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-207",
+      "part": 3,
+      "startTime": 1582.05,
+      "endTime": 1592.27,
+      "text": "As you read more and more extensively, you'll find that your own use of academic language will improve,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-208",
+      "part": 3,
+      "startTime": 1592.27,
+      "endTime": 1600.11,
+      "text": "and it'll get much easier to form your own ideas. That is the end of Section 3.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-209",
+      "part": 3,
+      "startTime": 1600.11,
+      "endTime": 1604.92,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-210",
+      "part": 4,
+      "startTime": 1604.92,
+      "endTime": 1608.09,
+      "text": "Now turn to Section 4 on page 7.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-211",
+      "part": 4,
+      "startTime": 1608.09,
+      "endTime": 1618.01,
+      "text": "Section 4 You will hear part of a linguistics lecture about attempts to invent a universal language.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-212",
+      "part": 4,
+      "startTime": 1618.01,
+      "endTime": 1624.56,
+      "text": "First, you have some time to look at questions 31 to 40 on page 7.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-213",
+      "part": 4,
+      "startTime": 1624.56,
+      "endTime": 1631.01,
+      "text": "Now listen carefully and answer questions 31 to 40. Good morning.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-214",
+      "part": 4,
+      "startTime": 1631.01,
+      "endTime": 1636.17,
+      "text": "Welcome back to this series of linguistics lectures.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-215",
+      "part": 4,
+      "startTime": 1636.17,
+      "endTime": 1643.51,
+      "text": "Today, I will be talking about the idea of inventing a universal language.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-216",
+      "part": 4,
+      "startTime": 1643.51,
+      "endTime": 1650.25,
+      "text": "What does that mean? Well, most human languages were never invented.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-217",
+      "part": 4,
+      "startTime": 1650.25,
+      "endTime": 1653.42,
+      "text": "Instead, they evolved over time.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-218",
+      "part": 4,
+      "startTime": 1653.42,
+      "endTime": 1660.36,
+      "text": "And the result is, you know, they're irregular and difficult to learn.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-219",
+      "part": 4,
+      "startTime": 1660.36,
+      "endTime": 1668.3,
+      "text": "So for centuries, people have dreamed of inventing a perfect universal language.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-220",
+      "part": 4,
+      "startTime": 1668.3,
+      "endTime": 1679.11,
+      "text": "The early invented languages that did exist were either created by priests to be used for religious purposes,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-221",
+      "part": 4,
+      "startTime": 1679.11,
+      "endTime": 1685.36,
+      "text": "or developed to help establish trade between different nations.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-222",
+      "part": 4,
+      "startTime": 1685.36,
+      "endTime": 1697.56,
+      "text": "Scholars have found evidence that around 900 languages have been invented over the centuries in various parts of the world.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-223",
+      "part": 4,
+      "startTime": 1697.56,
+      "endTime": 1710.55,
+      "text": "But the linguist Erika Ockrent believes that the exact figure is unclear because she suspects many of these languages are now lost.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-224",
+      "part": 4,
+      "startTime": 1710.55,
+      "endTime": 1713.23,
+      "text": "No record of them survives.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-225",
+      "part": 4,
+      "startTime": 1713.23,
+      "endTime": 1723.35,
+      "text": "The first really serious attempt to invent a language was made by William Spencer in the 17th century.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-226",
+      "part": 4,
+      "startTime": 1723.35,
+      "endTime": 1731.98,
+      "text": "Like so many others, he was frustrated by the irregularities in all existing languages.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-227",
+      "part": 4,
+      "startTime": 1731.98,
+      "endTime": 1739.02,
+      "text": "Accuracy was particularly important for Spencer because he wrote books.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-228",
+      "part": 4,
+      "startTime": 1739.02,
+      "endTime": 1741.4,
+      "text": "His subject was science.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-229",
+      "part": 4,
+      "startTime": 1741.4,
+      "endTime": 1754.59,
+      "text": "As a result, he wanted to create a language where words had only one meaning, so everyone would understand precisely what they meant.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-230",
+      "part": 4,
+      "startTime": 1754.59,
+      "endTime": 1764.61,
+      "text": "At first, he thought the only way to do this was, instead of using the usual letters of the alphabet,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-231",
+      "part": 4,
+      "startTime": 1764.61,
+      "endTime": 1770.56,
+      "text": "A, B, C, and so on, he tried to substitute numbers for them.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-232",
+      "part": 4,
+      "startTime": 1770.56,
+      "endTime": 1779.69,
+      "text": "However, this attempt failed, mostly because he couldn't describe complex ideas in this way.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-233",
+      "part": 4,
+      "startTime": 1779.69,
+      "endTime": 1788.91,
+      "text": "So Spencer went back to using the alphabet, but he grouped words together in a different way.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-234",
+      "part": 4,
+      "startTime": 1788.91,
+      "endTime": 1798.23,
+      "text": "When his dictionary was published in 1668, the words weren't classified in alphabetical order.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-235",
+      "part": 4,
+      "startTime": 1798.23,
+      "endTime": 1809.34,
+      "text": "What he'd done was, he'd used the same system with which plants were divided up into groups based on their type.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-236",
+      "part": 4,
+      "startTime": 1809.34,
+      "endTime": 1819.95,
+      "text": "Another important attempt to invent a universal language was made by Ludwig Zamenhof, who was born in 1859.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-237",
+      "part": 4,
+      "startTime": 1819.95,
+      "endTime": 1824.71,
+      "text": "Zamenhof's language reflects his own background.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-238",
+      "part": 4,
+      "startTime": 1824.71,
+      "endTime": 1831.16,
+      "text": "He grew up speaking Polish, English, French, German, and Russian.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-239",
+      "part": 4,
+      "startTime": 1831.16,
+      "endTime": 1841.87,
+      "text": "So, rather than create a completely new language, he mixed together five or six existing European languages.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-240",
+      "part": 4,
+      "startTime": 1841.87,
+      "endTime": 1850.0,
+      "text": "Then, Zamenhof used an interesting technique to help him develop his new language,",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-241",
+      "part": 4,
+      "startTime": 1850.0,
+      "endTime": 1858.63,
+      "text": "he used it to write quite a few different songs, and this made his work more enjoyable.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-242",
+      "part": 4,
+      "startTime": 1858.63,
+      "endTime": 1871.62,
+      "text": "He also thought that most European languages were too complicated, which meant that it was very difficult for people to learn them.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-243",
+      "part": 4,
+      "startTime": 1871.62,
+      "endTime": 1876.48,
+      "text": "Zamenhof wanted to create a more simple language.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-244",
+      "part": 4,
+      "startTime": 1876.48,
+      "endTime": 1891.16,
+      "text": "So, for example, he had a single prefix that was used before adjectives or verbs to make them negative, which is obviously much easier than English.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-245",
+      "part": 4,
+      "startTime": 1891.16,
+      "endTime": 1899.19,
+      "text": "Then, finally, he published a book introducing his language to the world in 1887.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-246",
+      "part": 4,
+      "startTime": 1899.19,
+      "endTime": 1907.32,
+      "text": "Unfortunately, like other invented languages, no one was very interested at first.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-247",
+      "part": 4,
+      "startTime": 1907.32,
+      "endTime": 1912.18,
+      "text": "So, again, Zamenhof used an interesting approach.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-248",
+      "part": 4,
+      "startTime": 1912.18,
+      "endTime": 1925.97,
+      "text": "In order to publicise the completed language, he made a list of everyone he knew and posted a letter to all of them using the new language.",
+      "timestampSource": "estimated",
+      "qTags": []
+    },
+    {
+      "id": "seg-249",
+      "part": 4,
+      "startTime": 1925.97,
+      "endTime": 1928.67,
+      "text": "Many people were surprised.",
+      "timestampSource": "estimated",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 31.8,
+      "text": "IELTS Listening Version 59374 You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 31.8,
+      "endTime": 52.76,
+      "text": "Write all your answers in the Listening Question Booklet. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to Section 1 on page 2 of your Question Booklet.",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 52.76,
+      "endTime": 78.2,
+      "text": "Section 1 You will hear an Englishman called Steve phoning a friend called Susie about his trip to Arizona in the United States. First you have some time to look at questions 1 to 4 on page 2. You will see that there is an example that has been done for you.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008",
+        "seg-009"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 78.2,
+      "endTime": 105.04,
+      "text": "On this occasion only, the conversation relating to this will be played first. Hello? Hi Susie, it's Steve. Steve, hi! How are you doing? I'm fine, thanks. Actually, I've got to attend a conference in July in Tucson, Arizona, and I was hoping you could give me a few tips.",
+      "segmentIds": [
+        "seg-010",
+        "seg-011",
+        "seg-012"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 105.04,
+      "endTime": 125.81,
+      "text": "You're from around there, aren't you? I sure am. Tucson's not my hometown though, but it's definitely worth seeing. What's the weather like around then? Is it true it's about 40 degrees centigrade in the daytime?",
+      "segmentIds": [
+        "seg-013",
+        "seg-014",
+        "seg-015",
+        "seg-016"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 125.81,
+      "endTime": 144.5,
+      "text": "That's right, and not less than 25 at night. A bit different from England in July. The temperature during the day will be 40 degrees, so 40 has been written in the space. Now we shall begin.",
+      "segmentIds": [
+        "seg-017",
+        "seg-018",
+        "seg-019"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 144.5,
+      "endTime": 166.47,
+      "text": "You should answer the questions as you listen because you will not hear the recording a second time. Listen carefully and answer questions 1 to 4. Hello? Hi Susie, it's Steve. Steve, hi! How are you doing? I'm fine, thanks.",
+      "segmentIds": [
+        "seg-020",
+        "seg-021",
+        "seg-022"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 166.47,
+      "endTime": 189.33,
+      "text": "Actually, I've got to attend a conference in July in Tucson, Arizona, and I was hoping you could give me a few tips. You're from around there, aren't you? I sure am. Tucson's not my hometown though, but it's definitely worth seeing.",
+      "segmentIds": [
+        "seg-023",
+        "seg-024",
+        "seg-025"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 189.33,
+      "endTime": 206.92,
+      "text": "What's the weather like around then? Is it true it's about 40 degrees centigrade in the daytime? That's right, and not less than 25 at night. A bit different from England in July.",
+      "segmentIds": [
+        "seg-026",
+        "seg-027",
+        "seg-028"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 206.92,
+      "endTime": 241.2,
+      "text": "True. I was wondering what to take with me. I won't need warm clothes then, will I? Well, you'll find that everywhere is air-conditioned, and it can feel quite cold sometimes, so a jacket would be a good idea. You might need an umbrella as well, as we sometimes have thunderstorms during the day, but you can always pick one up when you get there.",
+      "segmentIds": [
+        "seg-029",
+        "seg-030",
+        "seg-031"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 241.2,
+      "endTime": 259.88,
+      "text": "My conference is only for a couple of days, so I was wondering what I could do in Tucson. Well, it's a beautiful position. I'd hire a car in Tucson, and then follow the trails in the desert.",
+      "segmentIds": [
+        "seg-032",
+        "seg-033",
+        "seg-034"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 259.88,
+      "endTime": 282.83,
+      "text": "Okay, I'm writing all this down. Any other tips? Museums and stuff? Well, there are lots of museums. The usual thing, like wildlife and history. But I think the most interesting is the Space Museum, so my advice would be to go there.",
+      "segmentIds": [
+        "seg-035",
+        "seg-036",
+        "seg-037"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 282.83,
+      "endTime": 304.09,
+      "text": "Hmm, what else? Well, there are plenty of walks you can do. The town itself is great, and there are plenty of places you can eat and drink when you get too hot and tired. Any chance of a game of golf? Oh, absolutely.",
+      "segmentIds": [
+        "seg-038",
+        "seg-039",
+        "seg-040"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 304.09,
+      "endTime": 322.46,
+      "text": "There are loads of courses around Tucson. Before you hear the rest of the conversation, you have some time to look at questions 5 to 10 on page 2. Now listen and answer questions 5 to 10.",
+      "segmentIds": [
+        "seg-041",
+        "seg-042",
+        "seg-043"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 322.46,
+      "endTime": 340.55,
+      "text": "If you've got time, why don't you visit my parents? They'd love to see you. Great! Can you give me their address? Sure. They live in the town of Williams, at 6073 Fearnley Drive. Okay.",
+      "segmentIds": [
+        "seg-044",
+        "seg-045",
+        "seg-046"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 340.55,
+      "endTime": 364.8,
+      "text": "How do you spell that? F-E-A-R-N-L-E-I-G-H. 6073 Fearnley Drive. Okay. Got that. The town's in northern Arizona, and it's named after a hunter in the area in the early 1800s. He used to make a living shooting animals around there for their skins.",
+      "segmentIds": [
+        "seg-047",
+        "seg-048",
+        "seg-049"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-017",
+      "part": 1,
+      "startTime": 364.8,
+      "endTime": 386.96,
+      "text": "Sounds interesting. So, is it full of old buildings? Well, the post office is the oldest, as it was built in 1881. But there was a big fire in 1901, and most of the town was burnt down. But it didn't take them long to rebuild.",
+      "segmentIds": [
+        "seg-050",
+        "seg-051",
+        "seg-052",
+        "seg-053"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-018",
+      "part": 1,
+      "startTime": 386.96,
+      "endTime": 407.33,
+      "text": "Oh, and the famous Route 66 goes through the town. That was built in 1926. So, when exactly are you going? The conference is from the 1st to the 2nd of July. Will your parents be at home after that? Oh, yes.",
+      "segmentIds": [
+        "seg-054",
+        "seg-055",
+        "seg-056"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-019",
+      "part": 1,
+      "startTime": 407.33,
+      "endTime": 429.19,
+      "text": "They wouldn't miss the 4th of July, Independence Day. Ah, okay. So, lots of fireworks? As soon as the sun goes down. People come from miles around to see them. Why don't you give my parents a call? They're on 928-635-2271.",
+      "segmentIds": [
+        "seg-057",
+        "seg-058",
+        "seg-059"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-020",
+      "part": 1,
+      "startTime": 429.19,
+      "endTime": 451.65,
+      "text": "I'm sure they'd love to have you. Okay. I'll do that tonight. And really, you shouldn't be in Arizona without taking a trip to the Grand Canyon for a few days. Hold on. I've got a leaflet here. I took a friend there last summer.",
+      "segmentIds": [
+        "seg-060",
+        "seg-061",
+        "seg-062"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-021",
+      "part": 1,
+      "startTime": 451.65,
+      "endTime": 468.24,
+      "text": "She had a great time. Okay. It says here that there are a lot of tours you can take when you get there. Someone told me you could take a helicopter. Can I do that? Sure.",
+      "segmentIds": [
+        "seg-063",
+        "seg-064",
+        "seg-065"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-022",
+      "part": 1,
+      "startTime": 468.24,
+      "endTime": 486.83,
+      "text": "That tour takes about one and a half hours, and there are seven a day to choose from. The last is 5.30. You get a really good idea of the huge size of the canyon from up there. Sounds good.",
+      "segmentIds": [
+        "seg-066",
+        "seg-067",
+        "seg-068"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-023",
+      "part": 1,
+      "startTime": 486.83,
+      "endTime": 508.5,
+      "text": "Any chance I can get down to the river? I'm quite good in a canoe. Yes, you can do that, too. Let's see. Ah, yes, there's an all-day trip. They provide you with waterproof clothes, but they recommend you bring sun cream.",
+      "segmentIds": [
+        "seg-069",
+        "seg-070",
+        "seg-071"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-024",
+      "part": 1,
+      "startTime": 508.5,
+      "endTime": 531.74,
+      "text": "You'll really need it down on the river. Well, that should keep me busy for a few days. Thanks, Susie. That's terrific. I'll ring you again just before I go. That is the end of Section 1. You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-072",
+        "seg-073",
+        "seg-074",
+        "seg-075"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 531.74,
+      "endTime": 550.19,
+      "text": "Now turn to Section 2 on page 3. Section 2. You will hear the store manager of a bookshop give a short talk to new staff. First, you have some time to look at questions 11 to 16 on page 3.",
+      "segmentIds": [
+        "seg-076",
+        "seg-077",
+        "seg-078"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 550.19,
+      "endTime": 576.37,
+      "text": "Now listen carefully and answer questions 11 to 16. Good evening, everyone. Thanks for coming in. This won't take long. Because we have quite a few new staff members, we thought it would be helpful to call you all in while the shop's closed to give you a short tour.",
+      "segmentIds": [
+        "seg-079",
+        "seg-080",
+        "seg-081"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 576.37,
+      "endTime": 598.29,
+      "text": "After the tour, we'll introduce you to some of the book promotions we have this month. Have you all got a copy of the map? Okay, let's move to the store entrance. I can point out each section to you quite easily from there.",
+      "segmentIds": [
+        "seg-082",
+        "seg-083",
+        "seg-084"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 598.29,
+      "endTime": 630.82,
+      "text": "There are the two cashiers straight ahead, and on our right, close to the wall, is a large area divided into sections. To attract students from the art college nearby, we decided to have books on art at the front of this section, and we're planning to include more texts from the prescribed book lists of local colleges in future.",
+      "segmentIds": [
+        "seg-085",
+        "seg-086",
+        "seg-087"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 630.82,
+      "endTime": 648.77,
+      "text": "In the middle of this large section is the home section. The books here range from design to renovation. And at the back of this section, we have a small selection of gardening books.",
+      "segmentIds": [
+        "seg-088",
+        "seg-089",
+        "seg-090"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 648.77,
+      "endTime": 679.52,
+      "text": "As this is a new section for us, at first we thought we'd locate it on its own, on the other side of the cashiers. But we ultimately decided to have it at the back there, and it's well signposted. Straight ahead, and directly behind the cashiers, there's the magazine and newspaper stand, which is closest to us.",
+      "segmentIds": [
+        "seg-091",
+        "seg-092",
+        "seg-093"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-031",
+      "part": 2,
+      "startTime": 679.52,
+      "endTime": 707.0,
+      "text": "Behind this, you can see two sections side by side, history on one side and biographies on the other. In our other stores, these sections are usually located at the very back. But sales haven't been great, so to try to attract more interest, we decided to make them more visible.",
+      "segmentIds": [
+        "seg-094",
+        "seg-095",
+        "seg-096"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-032",
+      "part": 2,
+      "startTime": 707.0,
+      "endTime": 739.04,
+      "text": "Also within this central area, just behind biographies, we've placed our two fiction sections. The children's section is the larger area, over on the right, and the adults' section, the smaller one, on the left. You'll see over in the far left-hand corner of the store, we have our coffee shop, which has become very popular.",
+      "segmentIds": [
+        "seg-097",
+        "seg-098",
+        "seg-099"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-033",
+      "part": 2,
+      "startTime": 739.04,
+      "endTime": 764.43,
+      "text": "Behind this, running right along the back of the store, we've introduced a reading area. We've added chairs and cushions to create a cosy atmosphere. And as you move around the store later, you'll see this comfortable seating idea in other parts of the shop.",
+      "segmentIds": [
+        "seg-100",
+        "seg-101",
+        "seg-102"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-034",
+      "part": 2,
+      "startTime": 764.43,
+      "endTime": 790.61,
+      "text": "And finally, immediately to the left of the entrance, you'll see self-help books. These are here because we currently have a number of special offers connected with these topics. When the specials have finished, we'll relocate this section to behind the coffee shop.",
+      "segmentIds": [
+        "seg-103",
+        "seg-104",
+        "seg-105"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-035",
+      "part": 2,
+      "startTime": 790.61,
+      "endTime": 811.14,
+      "text": "OK, I think that's it. I'll let you have a browse around in a minute. Before you hear the rest of the talk, you have some time to look at questions 17 to 20 on page 4. Now listen and answer questions 17 to 20.",
+      "segmentIds": [
+        "seg-106",
+        "seg-107",
+        "seg-108"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-036",
+      "part": 2,
+      "startTime": 811.14,
+      "endTime": 833.75,
+      "text": "Next, I'd like to quickly introduce you to some of the new books we have in stock. Firstly, Elizabeth Honey's written a new book called Penny Pinchers. It's a wonderful story, set in early Australia, and I thoroughly recommend it.",
+      "segmentIds": [
+        "seg-109",
+        "seg-110",
+        "seg-111"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-037",
+      "part": 2,
+      "startTime": 833.75,
+      "endTime": 850.31,
+      "text": "It includes some beautiful drawings based on the artwork of the era. Next is The Running Boy. It's about a boy who gets himself into some difficult situations at school.",
+      "segmentIds": [
+        "seg-112",
+        "seg-113",
+        "seg-114"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-038",
+      "part": 2,
+      "startTime": 850.31,
+      "endTime": 871.44,
+      "text": "I think Simon Darling, the writer, has done a fantastic job in his debut book. He's currently working on his second novel, a crime story aimed at the adult market. I'm sure that will definitely be worth waiting for.",
+      "segmentIds": [
+        "seg-115",
+        "seg-116",
+        "seg-117"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-039",
+      "part": 2,
+      "startTime": 871.44,
+      "endTime": 894.55,
+      "text": "The next book I have here is The Hidden Code, which won several prizes at the last book convention. Marketed as a book for older children, it deals with realistic problems faced by young people today. Basically, it's a work of fiction.",
+      "segmentIds": [
+        "seg-118",
+        "seg-119",
+        "seg-120"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-040",
+      "part": 2,
+      "startTime": 894.55,
+      "endTime": 921.33,
+      "text": "It's something that should also be read by every parent, not just the younger members of the family. And finally, my personal favourite, The Orange Moon. This is the final book in a set of novels about the lives of a fictional group of friends living in outback Australia.",
+      "segmentIds": [
+        "seg-121",
+        "seg-122",
+        "seg-123"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-041",
+      "part": 2,
+      "startTime": 921.33,
+      "endTime": 939.88,
+      "text": "I hear this is being adapted to a movie, suitable for the whole family, which I'm sure will be very popular. That is the end of Section 2. You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-124",
+        "seg-125"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 939.88,
+      "endTime": 963.4,
+      "text": "Now turn to Section 3 on page 5. Section 3 You will hear a university lecturer talking to a female student called Katie and a male student called John about writing essays. First, you have some time to look at questions 21 to 25 on page 5.",
+      "segmentIds": [
+        "seg-126",
+        "seg-127",
+        "seg-128"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 963.4,
+      "endTime": 985.93,
+      "text": "Now listen carefully and answer questions 21 to 25. Morning, Katie. Morning, John. I want to talk about essays today and what the requirements are for this university. What kinds of things we look for when we're grading them, OK?",
+      "segmentIds": [
+        "seg-129",
+        "seg-130",
+        "seg-131"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 985.93,
+      "endTime": 1007.66,
+      "text": "So, let's look at those two sample essays I gave you last week. I asked you to read them and to think about their strong and weak points. Do either of you have any general comments or questions about the first one? Katie?",
+      "segmentIds": [
+        "seg-132",
+        "seg-133",
+        "seg-134"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1007.66,
+      "endTime": 1034.85,
+      "text": "Well, the writer's made it quite clear what his own views are about this subject. But I thought in academic essays you weren't supposed to do that. I thought you were meant to present all the different arguments and just appear to be neutral about which one you think is best.",
+      "segmentIds": [
+        "seg-135",
+        "seg-136",
+        "seg-137"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1034.85,
+      "endTime": 1057.57,
+      "text": "Students do sometimes come down quite firmly on one particular side. And that's OK, as long as they can show that they've given balanced consideration to all the issues. Do you see what I mean? John, you're looking a bit uncertain.",
+      "segmentIds": [
+        "seg-138",
+        "seg-139",
+        "seg-140"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1057.57,
+      "endTime": 1075.64,
+      "text": "Did you want to say something? Well, what if you don't feel as sure about the debate as this student? There's another type of conclusion that's valid when you're writing at this level.",
+      "segmentIds": [
+        "seg-141",
+        "seg-142",
+        "seg-143"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-048",
+      "part": 3,
+      "startTime": 1075.64,
+      "endTime": 1103.52,
+      "text": "People don't have to come down strongly on a particular side. They can say in the essay that the process of researching a particular topic has identified the importance of a range of studies that support different viewpoints. And then they return to the title of the assignment. Yes?",
+      "segmentIds": [
+        "seg-144",
+        "seg-145",
+        "seg-146"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-049",
+      "part": 3,
+      "startTime": 1103.52,
+      "endTime": 1124.66,
+      "text": "And I'd say that it's a good idea to use some of the actual words that are in the title. It shows the reader that you're still on track. OK? Yes. Tony, can I just ask you something about the bibliography? Of course.",
+      "segmentIds": [
+        "seg-147",
+        "seg-148",
+        "seg-149"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-050",
+      "part": 3,
+      "startTime": 1124.66,
+      "endTime": 1148.77,
+      "text": "This person's used italics when he refers to book titles in the reference section, but I thought we had to underline them. Actually, he's done it in the way we set out in the University Study Guide. That is the appropriate convention for titles.",
+      "segmentIds": [
+        "seg-150",
+        "seg-151",
+        "seg-152"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-051",
+      "part": 3,
+      "startTime": 1148.77,
+      "endTime": 1175.17,
+      "text": "You might think it's trivial, but presenting references appropriately is one of the requirements of a degree at this level, so I wouldn't be doing my job properly if I didn't stress that. And once people are used to it, they don't generally have a big problem with it.",
+      "segmentIds": [
+        "seg-153",
+        "seg-154",
+        "seg-155"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-052",
+      "part": 3,
+      "startTime": 1175.17,
+      "endTime": 1197.4,
+      "text": "Yes, Katie? You mentioned the University Study Guide. I looked in there to see what it said about quotations. The essays got a lot of quite long ones, and I was a bit surprised by that. I thought we weren't supposed to do that.",
+      "segmentIds": [
+        "seg-156",
+        "seg-157",
+        "seg-158",
+        "seg-159"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-053",
+      "part": 3,
+      "startTime": 1197.4,
+      "endTime": 1219.43,
+      "text": "But using a range of quotations is a way of showing that you have actually read quite widely, isn't it? Well, not really. Unfortunately, some students just pick out extracts to quote without actually reading the whole thing.",
+      "segmentIds": [
+        "seg-160",
+        "seg-161",
+        "seg-162"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-054",
+      "part": 3,
+      "startTime": 1219.43,
+      "endTime": 1250.89,
+      "text": "It's really a matter of using quotations appropriately. I've marked essays in the past where literally every fourth or fifth sentence has been a quote, and that definitely isn't acceptable. You have to read widely, but you should be assimilating what you've read, and in general, presenting the ideas in your own words.",
+      "segmentIds": [
+        "seg-163",
+        "seg-164",
+        "seg-165"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-055",
+      "part": 3,
+      "startTime": 1250.89,
+      "endTime": 1276.3,
+      "text": "So, when exactly should we use quotes? Particularly where there are definitions involved, as there are here. Generally speaking, I'd say that you need to be aware of words within the essay title itself that are possibly contentious, terms that need defining.",
+      "segmentIds": [
+        "seg-166",
+        "seg-167",
+        "seg-168"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-056",
+      "part": 3,
+      "startTime": 1276.3,
+      "endTime": 1301.31,
+      "text": "For instance, this one here has the word culture in it. Now, although you probably have a rough idea of what that term means, you might not be able to articulate it very well. So, why not cite someone else's definition, rather than dream one up yourself?",
+      "segmentIds": [
+        "seg-169",
+        "seg-170",
+        "seg-171"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-057",
+      "part": 3,
+      "startTime": 1301.31,
+      "endTime": 1320.17,
+      "text": "OK, any other comments on this first essay? What about the way the writer discusses research findings? One thing that struck me was the approach of the student to some of the things he'd read.",
+      "segmentIds": [
+        "seg-172",
+        "seg-173",
+        "seg-174"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-058",
+      "part": 3,
+      "startTime": 1320.17,
+      "endTime": 1349.94,
+      "text": "He says things like, we aren't given enough evidence, or we don't know how he got his results. When you're reading about someone's research at second hand, you often don't get told how many people were studied, or exactly what kind of questionnaires were used, or how exactly the results were analysed.",
+      "segmentIds": [
+        "seg-175",
+        "seg-176",
+        "seg-177"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-059",
+      "part": 3,
+      "startTime": 1349.94,
+      "endTime": 1374.15,
+      "text": "But I've always felt that it's just up to me to go to the primary sources and find out. It is important that you feel free to say if there are reasons why you can't make a clear judgement about something. But you don't have to, not at this level.",
+      "segmentIds": [
+        "seg-178",
+        "seg-179",
+        "seg-180"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-060",
+      "part": 3,
+      "startTime": 1374.15,
+      "endTime": 1397.97,
+      "text": "It's almost as if we just take things for granted. OK? Before you hear the rest of the discussion, you have some time to look at questions 26 to 30 on page 6. Now listen and answer questions 26 to 30. Now, let's look at the second essay then.",
+      "segmentIds": [
+        "seg-181",
+        "seg-182",
+        "seg-183"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-061",
+      "part": 3,
+      "startTime": 1397.97,
+      "endTime": 1420.41,
+      "text": "First of all, this essay title is in the form of a question, isn't it? Did you think this student answered the question? Yes. Good, because really that's the bottom line. The minimum criterion for an assignment is relevance. Yes?",
+      "segmentIds": [
+        "seg-184",
+        "seg-185",
+        "seg-186",
+        "seg-187"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-062",
+      "part": 3,
+      "startTime": 1420.41,
+      "endTime": 1439.76,
+      "text": "Sometimes people don't seem to see the words on the page, but you have to be very focused. Secondly, what about the overall structure? Would you say that the essay is well-structured? Yes, I would.",
+      "segmentIds": [
+        "seg-188",
+        "seg-189",
+        "seg-190"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-063",
+      "part": 3,
+      "startTime": 1439.76,
+      "endTime": 1466.54,
+      "text": "I mean, sometimes writers mix different subtopics up, so it's quite difficult to follow the logic of the essay. But here I think they're separated very clearly. Do you agree, John? Yes. I mean, it is very clear. But is it OK to use subheadings and bullet points like this?",
+      "segmentIds": [
+        "seg-191",
+        "seg-192",
+        "seg-193"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-064",
+      "part": 3,
+      "startTime": 1466.54,
+      "endTime": 1487.18,
+      "text": "I mean, in things like reports, they can be very useful, I know. But is it all right to use them in academic essays? Well, my general feeling is that it's best just to use paragraphs to signal changes of topic.",
+      "segmentIds": [
+        "seg-194",
+        "seg-195",
+        "seg-196"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-065",
+      "part": 3,
+      "startTime": 1487.18,
+      "endTime": 1517.94,
+      "text": "The beginning of a paragraph should signal what you're going to say in general, and then as you get to the end of the paragraph, you should be signalling what you're going to move on to next. One thing I thought was really good about this essay was the way the writer always gives examples to support statements.",
+      "segmentIds": [
+        "seg-197",
+        "seg-198",
+        "seg-199"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-066",
+      "part": 3,
+      "startTime": 1517.94,
+      "endTime": 1543.24,
+      "text": "He never just assumes that explanations are enough. Yes. I'm glad you brought that up. I was going to mention it myself. As you say, it's very helpful for the reader. Another thing that helps the reader is the way he uses words and phrases to connect ideas.",
+      "segmentIds": [
+        "seg-200",
+        "seg-201",
+        "seg-202"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-067",
+      "part": 3,
+      "startTime": 1543.24,
+      "endTime": 1571.53,
+      "text": "You mean things like however and on the other hand? Yes. And finally, in addition… Yes. That really is one of the hallmarks of a good essay. The content is the most important thing, of course, but there's no doubt that language can make the content clearer, or otherwise, for the reader.",
+      "segmentIds": [
+        "seg-203",
+        "seg-204",
+        "seg-205"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-068",
+      "part": 3,
+      "startTime": 1571.53,
+      "endTime": 1600.11,
+      "text": "Now, you may feel at this early stage that your writing skills are rusty, but reading is the key, I think. As you read more and more extensively, you'll find that your own use of academic language will improve, and it'll get much easier to form your own ideas. That is the end of Section 3.",
+      "segmentIds": [
+        "seg-206",
+        "seg-207",
+        "seg-208"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-069",
+      "part": 3,
+      "startTime": 1600.11,
+      "endTime": 1604.92,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-209"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-070",
+      "part": 4,
+      "startTime": 1604.92,
+      "endTime": 1624.56,
+      "text": "Now turn to Section 4 on page 7. Section 4 You will hear part of a linguistics lecture about attempts to invent a universal language. First, you have some time to look at questions 31 to 40 on page 7.",
+      "segmentIds": [
+        "seg-210",
+        "seg-211",
+        "seg-212"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-071",
+      "part": 4,
+      "startTime": 1624.56,
+      "endTime": 1643.51,
+      "text": "Now listen carefully and answer questions 31 to 40. Good morning. Welcome back to this series of linguistics lectures. Today, I will be talking about the idea of inventing a universal language.",
+      "segmentIds": [
+        "seg-213",
+        "seg-214",
+        "seg-215"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-072",
+      "part": 4,
+      "startTime": 1643.51,
+      "endTime": 1660.36,
+      "text": "What does that mean? Well, most human languages were never invented. Instead, they evolved over time. And the result is, you know, they're irregular and difficult to learn.",
+      "segmentIds": [
+        "seg-216",
+        "seg-217",
+        "seg-218"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-073",
+      "part": 4,
+      "startTime": 1660.36,
+      "endTime": 1685.36,
+      "text": "So for centuries, people have dreamed of inventing a perfect universal language. The early invented languages that did exist were either created by priests to be used for religious purposes, or developed to help establish trade between different nations.",
+      "segmentIds": [
+        "seg-219",
+        "seg-220",
+        "seg-221"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-074",
+      "part": 4,
+      "startTime": 1685.36,
+      "endTime": 1713.23,
+      "text": "Scholars have found evidence that around 900 languages have been invented over the centuries in various parts of the world. But the linguist Erika Ockrent believes that the exact figure is unclear because she suspects many of these languages are now lost. No record of them survives.",
+      "segmentIds": [
+        "seg-222",
+        "seg-223",
+        "seg-224"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-075",
+      "part": 4,
+      "startTime": 1713.23,
+      "endTime": 1739.02,
+      "text": "The first really serious attempt to invent a language was made by William Spencer in the 17th century. Like so many others, he was frustrated by the irregularities in all existing languages. Accuracy was particularly important for Spencer because he wrote books.",
+      "segmentIds": [
+        "seg-225",
+        "seg-226",
+        "seg-227"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-076",
+      "part": 4,
+      "startTime": 1739.02,
+      "endTime": 1764.61,
+      "text": "His subject was science. As a result, he wanted to create a language where words had only one meaning, so everyone would understand precisely what they meant. At first, he thought the only way to do this was, instead of using the usual letters of the alphabet,",
+      "segmentIds": [
+        "seg-228",
+        "seg-229",
+        "seg-230"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-077",
+      "part": 4,
+      "startTime": 1764.61,
+      "endTime": 1788.91,
+      "text": "A, B, C, and so on, he tried to substitute numbers for them. However, this attempt failed, mostly because he couldn't describe complex ideas in this way. So Spencer went back to using the alphabet, but he grouped words together in a different way.",
+      "segmentIds": [
+        "seg-231",
+        "seg-232",
+        "seg-233"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-078",
+      "part": 4,
+      "startTime": 1788.91,
+      "endTime": 1819.95,
+      "text": "When his dictionary was published in 1668, the words weren't classified in alphabetical order. What he'd done was, he'd used the same system with which plants were divided up into groups based on their type. Another important attempt to invent a universal language was made by Ludwig Zamenhof, who was born in 1859.",
+      "segmentIds": [
+        "seg-234",
+        "seg-235",
+        "seg-236"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-079",
+      "part": 4,
+      "startTime": 1819.95,
+      "endTime": 1841.87,
+      "text": "Zamenhof's language reflects his own background. He grew up speaking Polish, English, French, German, and Russian. So, rather than create a completely new language, he mixed together five or six existing European languages.",
+      "segmentIds": [
+        "seg-237",
+        "seg-238",
+        "seg-239"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-080",
+      "part": 4,
+      "startTime": 1841.87,
+      "endTime": 1871.62,
+      "text": "Then, Zamenhof used an interesting technique to help him develop his new language, he used it to write quite a few different songs, and this made his work more enjoyable. He also thought that most European languages were too complicated, which meant that it was very difficult for people to learn them.",
+      "segmentIds": [
+        "seg-240",
+        "seg-241",
+        "seg-242"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-081",
+      "part": 4,
+      "startTime": 1871.62,
+      "endTime": 1899.19,
+      "text": "Zamenhof wanted to create a more simple language. So, for example, he had a single prefix that was used before adjectives or verbs to make them negative, which is obviously much easier than English. Then, finally, he published a book introducing his language to the world in 1887.",
+      "segmentIds": [
+        "seg-243",
+        "seg-244",
+        "seg-245"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-082",
+      "part": 4,
+      "startTime": 1899.19,
+      "endTime": 1925.97,
+      "text": "Unfortunately, like other invented languages, no one was very interested at first. So, again, Zamenhof used an interesting approach. In order to publicise the completed language, he made a list of everyone he knew and posted a letter to all of them using the new language.",
+      "segmentIds": [
+        "seg-246",
+        "seg-247",
+        "seg-248"
+      ],
+      "timestampSource": "estimated"
+    },
+    {
+      "id": "long-083",
+      "part": 4,
+      "startTime": 1925.97,
+      "endTime": 1928.67,
+      "text": "Many people were surprised.",
+      "segmentIds": [
+        "seg-249"
+      ],
+      "timestampSource": "estimated"
+    }
+  ]
+}

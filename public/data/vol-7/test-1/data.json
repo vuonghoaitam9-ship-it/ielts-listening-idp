@@ -1,0 +1,3568 @@
+{
+  "id": "vol-7-test-1",
+  "vol": 7,
+  "testNumber": 1,
+  "title": "Vol 7 — Test 1",
+  "pdfUrl": "./data/vol-7/test-1/exam.pdf",
+  "pdfPages": 7,
+  "questionPageRange": [
+    1,
+    7
+  ],
+  "audioUrl": "./data/vol-7/test-1/audio.mp3",
+  "audioDurationSec": 1505.52,
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 0.0,
+      "endTime": 451.0,
+      "topicHint": "You will hear a telephone conversation between a hotel manager and a woman who is inquiring about wedding arrangements."
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 451.0,
+      "endTime": 873.0,
+      "topicHint": "You will hear a tour guide talking to a group of visitors about a farmers' and growers' market in a small New Zealand village. First, you have some time to look at questions 11 to "
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 873.0,
+      "endTime": 1290.0,
+      "topicHint": "You will hear two graduate students called Jen and Bill discussing the write-up of their group project."
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1290.0,
+      "endTime": 1505.52,
+      "topicHint": "You will hear a lecture on the influence of the car on urban development."
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "LISTENING VOL 7 TEST 1 Read the text and answer questions 1–10 Questions 1–10 Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Wedding arrangements - Clarence House Hotel Available date: 1st June The Oxford Suite has:  a dining room with a good view of the",
+      "answerRaw": "city",
+      "canonicalAnswer": "city",
+      "acceptedAnswers": [
+        "city"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You could see right across the city. That's it. And you'd have exclusive access to the garden.",
+      "evidenceStartTime": 104.64,
+      "evidenceEndTime": 111.76,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"city\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "om with a good view of the 1_________  a private garden for 2_________ and for the wedding ceremony  an area suitable for dancing The wedding package includes:  use of the Oxford Suite  a three-course meal + room arranged with 3_________ tables + table 4_________ included + white tablecloths and chairs + personalised",
+      "answerRaw": "photos",
+      "canonicalAnswer": "photos",
+      "acceptedAnswers": [
+        "photos"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It'll be at its best in June. So, we could have the photos there? Sure.",
+      "evidenceStartTime": 111.76,
+      "evidenceEndTime": 117.14,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"photos\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "the Oxford Suite  a three-course meal + room arranged with 3_________ tables + table 4_________ included + white tablecloths and chairs + personalised printed 5_________  a late-evening buffet with a choice of 6_________ and hot drinks Music: hotel will organise a band (not included in price) Total cost of package: £",
+      "answerRaw": "round",
+      "canonicalAnswer": "round",
+      "acceptedAnswers": [
+        "round"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And how's the room arranged? I seem to remember you have round tables? That's right.",
+      "evidenceStartTime": 158.83,
+      "evidenceEndTime": 164.85,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"round\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "e-course meal + room arranged with 3_________ tables + table 4_________ included + white tablecloths and chairs + personalised printed 5_________  a late-evening buffet with a choice of 6_________ and hot drinks Music: hotel will organise a band (not included in price) Total cost of package: £ 7_________ Can also recomm",
+      "answerRaw": "decorations",
+      "canonicalAnswer": "decorations",
+      "acceptedAnswers": [
+        "decorations"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And what about decorations on the tables? They're included in the package.",
+      "evidenceStartTime": 171.3,
+      "evidenceEndTime": 176.6,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"decorations\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "cluded + white tablecloths and chairs + personalised printed 5_________  a late-evening buffet with a choice of 6_________ and hot drinks Music: hotel will organise a band (not included in price) Total cost of package: £ 7_________ Can also recommend a 8_________ supplier (new company) Wedding coordinator Sarah 9_______",
+      "answerRaw": "menu",
+      "canonicalAnswer": "menu",
+      "acceptedAnswers": [
+        "menu"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And we also include an individually designed menu specially printed for you.",
+      "evidenceStartTime": 180.83,
+      "evidenceEndTime": 186.28,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"menu\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "printed 5_________  a late-evening buffet with a choice of 6_________ and hot drinks Music: hotel will organise a band (not included in price) Total cost of package: £ 7_________ Can also recommend a 8_________ supplier (new company) Wedding coordinator Sarah 9_________ Date arranged for visit: 10_________ at 11.30 a.m",
+      "answerRaw": "sandwiches",
+      "canonicalAnswer": "sandwiches",
+      "acceptedAnswers": [
+        "sandwiches"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Nothing too complicated, just a selection of sandwiches together with tea or coffee.",
+      "evidenceStartTime": 228.23,
+      "evidenceEndTime": 237.92,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"sandwiches\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "LISTENING VOL 7 TEST 1 Read the text and answer questions 1–10 Questions 1–10 Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Wedding arrangements - Clarence House Hotel Available date: 1st June The Oxford Suite has:  a dining room with a good view",
+      "answerRaw": "5995",
+      "canonicalAnswer": "5995",
+      "acceptedAnswers": [
+        "5995"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "That's a bit more than the package they quoted for me at the Stanley Hotel.",
+      "evidenceStartTime": 283.86,
+      "evidenceEndTime": 289.57,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"5995\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "ce) Total cost of package: £ 7_________ Can also recommend a 8_________ supplier (new company) Wedding coordinator Sarah 9_________ Date arranged for visit: 10_________ at 11.30 a.m",
+      "answerRaw": "cake",
+      "canonicalAnswer": "cake",
+      "acceptedAnswers": [
+        "cake"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'm looking for someone who can make me a really special cake. Can you suggest one? Certainly.",
+      "evidenceStartTime": 305.72,
+      "evidenceEndTime": 312.45,
+      "paraphrases": [
+        {
+          "questionTerm": "recommend",
+          "audioTerm": "suggest"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"cake\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'recommend' ↔ 'suggest'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "8_________ supplier (new company) Wedding coordinator Sarah 9_________ Date arranged for visit: 10_________ at 11.30 a.m",
+      "answerRaw": "izard",
+      "canonicalAnswer": "izard",
+      "acceptedAnswers": [
+        "izard"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Right. Well, the coordinator's name is Sarah Izard. That's I-Z-A-R-D.",
+      "evidenceStartTime": 331.0,
+      "evidenceEndTime": 340.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"izard\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "edding coordinator Sarah 9_________ Date arranged for visit: 10_________ at 11.30 a.m",
+      "answerRaw": "15th October",
+      "canonicalAnswer": "15th October",
+      "acceptedAnswers": [
+        "15th October"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'm free on the 12th of October, in the morning sometime, or the 15th of October.",
+      "evidenceStartTime": 373.15,
+      "evidenceEndTime": 394.67,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"15th October\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "t letters, A-l, next to questions 11-16. Products hand cream 11_________ jam 12_________ soaps 13_________ candles 14_________ ice cream 15_________ shampoo 16_________ Information A pure B expensive C perfumed D best value for money E imported F made in the village G popular overseas H prize-winning I coloured Questions",
+      "answerRaw": "G (popular)",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G",
+        "G popular",
+        "popular"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "not perfumed or coloured, just simple soap through and through, made by hand the old-fashioned way with nothing artificial added.",
+      "evidenceStartTime": 565.71,
+      "evidenceEndTime": 575.0,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án G (popular). Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "next to questions 11-16. Products hand cream 11_________ jam 12_________ soaps 13_________ candles 14_________ ice cream 15_________ shampoo 16_________ Information A pure B expensive C perfumed D best value for money E imported F made in the village G popular overseas H prize-winning I coloured Questions 17–20 Label the",
+      "answerRaw": "B (expensive)",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B",
+        "B expensive",
+        "expensive"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "not perfumed or coloured, just simple soap through and through, made by hand the old-fashioned way with nothing artificial added.",
+      "evidenceStartTime": 565.71,
+      "evidenceEndTime": 575.0,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án B (expensive). Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "11-16. Products hand cream 11_________ jam 12_________ soaps 13_________ candles 14_________ ice cream 15_________ shampoo 16_________ Information A pure B expensive C perfumed D best value for money E imported F made in the village G popular overseas H prize-winning I coloured Questions 17–20 Label the map below. Choose",
+      "answerRaw": "A (pure)",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A",
+        "A pure",
+        "pure"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "not perfumed or coloured, just simple soap through and through, made by hand the old-fashioned way with nothing artificial added.",
+      "evidenceStartTime": 565.71,
+      "evidenceEndTime": 575.0,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án A (pure). Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "cream 11_________ jam 12_________ soaps 13_________ candles 14_________ ice cream 15_________ shampoo 16_________ Information A pure B expensive C perfumed D best value for money E imported F made in the village G popular overseas H prize-winning I coloured Questions 17–20 Label the map below. Choose the correct letter,",
+      "answerRaw": "D (best value)",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D",
+        "D best value",
+        "best value"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "not perfumed or coloured, just simple soap through and through, made by hand the old-fashioned way with nothing artificial added.",
+      "evidenceStartTime": 565.71,
+      "evidenceEndTime": 575.0,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án D (best value). Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "12_________ soaps 13_________ candles 14_________ ice cream 15_________ shampoo 16_________ Information A pure B expensive C perfumed D best value for money E imported F made in the village G popular overseas H prize-winning I coloured Questions 17–20 Label the map below. Choose the correct letter, A-H, next to the quest",
+      "answerRaw": "H (prize-winning)",
+      "canonicalAnswer": "H",
+      "acceptedAnswers": [
+        "H",
+        "H prize-winning",
+        "prize-winning"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "not perfumed or coloured, just simple soap through and through, made by hand the old-fashioned way with nothing artificial added.",
+      "evidenceStartTime": 565.71,
+      "evidenceEndTime": 575.0,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án H (prize-winning). Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "3_________ candles 14_________ ice cream 15_________ shampoo 16_________ Information A pure B expensive C perfumed D best value for money E imported F made in the village G popular overseas H prize-winning I coloured Questions 17–20 Label the map below. Choose the correct letter, A-H, next to the questions 17-20. 17 Wood",
+      "answerRaw": "F (village-made)",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F",
+        "F village-made",
+        "village-made"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "not perfumed or coloured, just simple soap through and through, made by hand the old-fashioned way with nothing artificial added.",
+      "evidenceStartTime": 565.71,
+      "evidenceEndTime": 575.0,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án F (village-made). Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I know a few of you are interested in buying wooden handicrafts,",
+      "evidenceStartTime": 695.0,
+      "evidenceEndTime": 710.89,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "he correct letter, A-H, next to the questions 17-20. 17 Wood 18 China 19 Wool 20 Drinks",
+      "answerRaw": "H",
+      "canonicalAnswer": "H",
+      "acceptedAnswers": [
+        "H"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "is the china stall, where there's an interesting display of old, second-hand or antique teacups and saucers.",
+      "evidenceStartTime": 781.89,
+      "evidenceEndTime": 808.7,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"H\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "t letter, A-H, next to the questions 17-20. 17 Wood 18 China 19 Wool 20 Drinks",
+      "answerRaw": "E",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "is the china stall, where there's an interesting display of old, second-hand or antique teacups and saucers.",
+      "evidenceStartTime": 781.89,
+      "evidenceEndTime": 808.7,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": ", A-H, next to the questions 17-20. 17 Wood 18 China 19 Wool 20 Drinks",
+      "answerRaw": "G",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "What else? Oh yes, the wool shop. For those of you who are wanting to take home a New Zealand sheepskin rug or a woolly jersey for the winter,",
+      "evidenceStartTime": 808.7,
+      "evidenceEndTime": 843.7,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"G\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "–30 Questions 21–25 Choose the correct answer. Group Project 21 Jen states that Irene has recently A finished planting the experiment. B taken an extended break. C spent a lot of time in the laboratory. 22 What is Bill's attitude toward Kim? A He is grateful for her contribution. B He thinks she is stylish. C He resents h",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Anyway, Kim hasn't actually run the stats for the project yet, since she still has to wait for the rest of the experiment data.",
+      "evidenceStartTime": 919.28,
+      "evidenceEndTime": 927.81,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "an extended break. C spent a lot of time in the laboratory. 22 What is Bill's attitude toward Kim? A He is grateful for her contribution. B He thinks she is stylish. C He resents her avoiding lab work. 23 Jen believes that their project A would be easier for boys good at maths. B would fail without Kim and Irene's input.",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Anyway, Kim hasn't actually run the stats for the project yet, since she still has to wait for the rest of the experiment data.",
+      "evidenceStartTime": 919.28,
+      "evidenceEndTime": 927.81,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "e thinks she is stylish. C He resents her avoiding lab work. 23 Jen believes that their project A would be easier for boys good at maths. B would fail without Kim and Irene's input. C is almost done because Kim has finished the data analysis. 24 Bill and Jen are irritated with Linda because A she is always late with her w",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Anyway, Kim hasn't actually run the stats for the project yet, since she still has to wait for the rest of the experiment data.",
+      "evidenceStartTime": 919.28,
+      "evidenceEndTime": 927.81,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "C is almost done because Kim has finished the data analysis. 24 Bill and Jen are irritated with Linda because A she is always late with her work. B she fails to keep in touch enough. C she thinks the project is an easy grade. 25 Jen was asked to join the team because she A is popular with everyone on the team. B always re",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Anyway, Kim hasn't actually run the stats for the project yet, since she still has to wait for the rest of the experiment data.",
+      "evidenceStartTime": 919.28,
+      "evidenceEndTime": 927.81,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "in touch enough. C she thinks the project is an easy grade. 25 Jen was asked to join the team because she A is popular with everyone on the team. B always reads all of her assignments. C enjoys talking to Professor Cooper. Questions 26–30 Which section will each of the following group members write up? Choose FIVE correc",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'm worried that Professor Cooper is not going to give us a passing grade.",
+      "evidenceStartTime": 957.02,
+      "evidenceEndTime": 961.72,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "t letters, A-G, next to questions 26-30. Group members Irene 26_________ Kim 27_________ Jen 28_________ Bill 29_________ Linda 30_________ Sections A Abstract B Acknowledgements C Bibliography D Discussion E Literature review F Methodology G Results",
+      "answerRaw": "F (Methodology)",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F",
+        "F Methodology",
+        "Methodology"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Irene can do the methodology section. Do you want to do the results? Not at all.",
+      "evidenceStartTime": 1064.98,
+      "evidenceEndTime": 1072.25,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án F (Methodology). Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "next to questions 26-30. Group members Irene 26_________ Kim 27_________ Jen 28_________ Bill 29_________ Linda 30_________ Sections A Abstract B Acknowledgements C Bibliography D Discussion E Literature review F Methodology G Results",
+      "answerRaw": "G (Results)",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G",
+        "G Results",
+        "Results"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, all the same, I think it'll be easiest if she does the results section.",
+      "evidenceStartTime": 1084.89,
+      "evidenceEndTime": 1089.34,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án G (Results). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "s 26-30. Group members Irene 26_________ Kim 27_________ Jen 28_________ Bill 29_________ Linda 30_________ Sections A Abstract B Acknowledgements C Bibliography D Discussion E Literature review F Methodology G Results",
+      "answerRaw": "E (Literature)",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E Literature",
+        "Literature"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'm sure you'll give us the best literature review, Jen. We're all counting on you for that.",
+      "evidenceStartTime": 1099.04,
+      "evidenceEndTime": 1104.35,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E (Literature). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "mbers Irene 26_________ Kim 27_________ Jen 28_________ Bill 29_________ Linda 30_________ Sections A Abstract B Acknowledgements C Bibliography D Discussion E Literature review F Methodology G Results",
+      "answerRaw": "C (Bibliography)",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C",
+        "C Bibliography",
+        "Bibliography"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I guess that leaves the discussion section and the bibliography.",
+      "evidenceStartTime": 1104.35,
+      "evidenceEndTime": 1108.05,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án C (Bibliography). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "_____ Kim 27_________ Jen 28_________ Bill 29_________ Linda 30_________ Sections A Abstract B Acknowledgements C Bibliography D Discussion E Literature review F Methodology G Results",
+      "answerRaw": "D (Discussion)",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D",
+        "D Discussion",
+        "Discussion"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I guess Linda could handle the discussion section, even if she hasn't been around much.",
+      "evidenceStartTime": 1125.6,
+      "evidenceEndTime": 1131.0,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án D (Discussion). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "ia (1940s - 1990s) 1940s  One person in eight owned a car  31_________ transport was used for 60% of journeys  Buses: Problems – crowded and 32_________ Advantage – affordable  Cars were associated with 33_________  Problems of car ownerships i. cost ii. many spare parts were imported iii. restrictions on fuel iv. hi",
+      "answerRaw": "public",
+      "canonicalAnswer": "public",
+      "acceptedAnswers": [
+        "public"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Nearly 60% of journeys were still made by various means of public transport,",
+      "evidenceStartTime": 1305.07,
+      "evidenceEndTime": 1310.61,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"public\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "was used for 60% of journeys  Buses: Problems – crowded and 32_________ Advantage – affordable  Cars were associated with 33_________  Problems of car ownerships i. cost ii. many spare parts were imported iii. restrictions on fuel iv. high 34_________ on cars  Result of pressure form motorists – new 35_________ in Aus",
+      "answerRaw": "uncomfortable",
+      "canonicalAnswer": "uncomfortable",
+      "acceptedAnswers": [
+        "uncomfortable"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "and they were also considered to be uncomfortable, despite providing a cheap option that most people could afford.",
+      "evidenceStartTime": 1320.46,
+      "evidenceEndTime": 1328.79,
+      "paraphrases": [
+        {
+          "questionTerm": "affordable",
+          "audioTerm": "cheap"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"uncomfortable\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'affordable' ↔ 'cheap'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "_________ Advantage – affordable  Cars were associated with 33_________  Problems of car ownerships i. cost ii. many spare parts were imported iii. restrictions on fuel iv. high 34_________ on cars  Result of pressure form motorists – new 35_________ in Australia in 1949 1960s  Cars were cheaper and more reliable  Mo",
+      "answerRaw": "freedom",
+      "canonicalAnswer": "freedom",
+      "acceptedAnswers": [
+        "freedom"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "People were tired of living without things, of making do, and to them, cars represented freedom.",
+      "evidenceStartTime": 1332.74,
+      "evidenceEndTime": 1339.75,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"freedom\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "spare parts were imported iii. restrictions on fuel iv. high 34_________ on cars  Result of pressure form motorists – new 35_________ in Australia in 1949 1960s  Cars were cheaper and more reliable  More people lived in the suburbs  Main streets were congested and 36_________ (and usually straight)  New streets were",
+      "answerRaw": "taxes",
+      "canonicalAnswer": "taxes",
+      "acceptedAnswers": [
+        "taxes"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Another problem for car owners was that fuel was still rationed, and car taxes were very high.",
+      "evidenceStartTime": 1353.63,
+      "evidenceEndTime": 1360.5,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"taxes\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "4_________ on cars  Result of pressure form motorists – new 35_________ in Australia in 1949 1960s  Cars were cheaper and more reliable  More people lived in the suburbs  Main streets were congested and 36_________ (and usually straight)  New streets were built with curves to make drivers slow down 1970s  Roads had",
+      "answerRaw": "government",
+      "canonicalAnswer": "government",
+      "acceptedAnswers": [
+        "government"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Strong public feeling on issues like these from various pressure groups resulted in a change of government in Australia after the general election in 1949, which undoubtedly shaped the future of our nation.",
+      "evidenceStartTime": 1360.5,
+      "evidenceEndTime": 1375.55,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"government\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "eople lived in the suburbs  Main streets were congested and 36_________ (and usually straight)  New streets were built with curves to make drivers slow down 1970s  Roads had more 37_________  More commuters  Car use affected the 38_________ between people  New types of 39_________ were designed to attract motorists",
+      "answerRaw": "polluted",
+      "canonicalAnswer": "polluted",
+      "acceptedAnswers": [
+        "polluted"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "For the previous 150 years, the city centre had been a prestigious area, but the addition of cars made the main streets congested. This wasn't the only problem. Now they were polluted as well.",
+      "evidenceStartTime": 1391.98,
+      "evidenceEndTime": 1405.94,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"polluted\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "with curves to make drivers slow down 1970s  Roads had more 37_________  More commuters  Car use affected the 38_________ between people  New types of 39_________ were designed to attract motorists 1980s and 1990s  Less business in town centres because of introduction of 40_________  Introduction of drive-in facilit",
+      "answerRaw": "lanes",
+      "canonicalAnswer": "lanes",
+      "acceptedAnswers": [
+        "lanes"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "This meant they were longer, but this was not a problem because people rarely walked anymore. By the 1970s, the type of roads being built changed, with more lanes in each direction.",
+      "evidenceStartTime": 1427.86,
+      "evidenceEndTime": 1441.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"lanes\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "had more 37_________  More commuters  Car use affected the 38_________ between people  New types of 39_________ were designed to attract motorists 1980s and 1990s  Less business in town centres because of introduction of 40_________  Introduction of drive-in facilities, e.g. restaurants",
+      "answerRaw": "relationships",
+      "canonicalAnswer": "relationships",
+      "acceptedAnswers": [
+        "relationships"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It even, surprisingly, affected relationships. Before this, meeting anyone who lived beyond walking or cycling distance was impractical, if not impossible.",
+      "evidenceStartTime": 1453.55,
+      "evidenceEndTime": 1464.4,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"relationships\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "r use affected the 38_________ between people  New types of 39_________ were designed to attract motorists 1980s and 1990s  Less business in town centres because of introduction of 40_________  Introduction of drive-in facilities, e.g. restaurants",
+      "answerRaw": "advertisements",
+      "canonicalAnswer": "advertisements",
+      "acceptedAnswers": [
+        "advertisements"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Previously, advertisements had been designed to attract slow-moving pedestrians, so they were located at eye level and designed on a human scale.",
+      "evidenceStartTime": 1474.0,
+      "evidenceEndTime": 1483.64,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"advertisements\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "s  Less business in town centres because of introduction of 40_________  Introduction of drive-in facilities, e.g. restaurants",
+      "answerRaw": "shopping malls",
+      "canonicalAnswer": "shopping malls",
+      "acceptedAnswers": [
+        "shopping malls"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We built shopping malls out in the suburbs, which meant that old town centres did far less business.",
+      "evidenceStartTime": 1494.74,
+      "evidenceEndTime": 1501.39,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"shopping malls\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 0.27,
+      "text": "1.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 0.27,
+      "endTime": 16.36,
+      "text": "You will hear a telephone conversation between a hotel manager and a woman who is inquiring about wedding arrangements.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 16.36,
+      "endTime": 23.66,
+      "text": "First, you have some time to look at questions 1 to 5.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 23.66,
+      "endTime": 30.42,
+      "text": "Now, listen carefully and answer questions 1 to 5.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 30.42,
+      "endTime": 34.88,
+      "text": "Hello, Clarence House. Oh, hello.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 34.88,
+      "endTime": 48.0,
+      "text": "Um, I'm getting married next year and I understand you're licensed to hold weddings at the hotel?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 48.0,
+      "endTime": 55.3,
+      "text": "Yes, we are. Can I ask what date you were thinking of?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 55.3,
+      "endTime": 62.47,
+      "text": "Either the 1st or the 7th of June? Right, let me see.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 62.47,
+      "endTime": 76.0,
+      "text": "Oh, I'm afraid we already have a booking for the 7th but we still have availability on June the 1st.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 76.0,
+      "endTime": 81.98,
+      "text": "That would be fine. So, how many guests are you going to be inviting? About 80.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 81.98,
+      "endTime": 89.18,
+      "text": "So, for that number, we'd recommend the Oxford Suite. I don't know if you've been to the hotel?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 89.18,
+      "endTime": 96.3,
+      "text": "Yes, in fact, I went to a wedding there a few years ago and I was really impressed. Very good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 96.3,
+      "endTime": 99.41,
+      "text": "I think we were in the Oxford Suite then.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 99.41,
+      "endTime": 104.64,
+      "text": "The room where we were eating had big windows with really good views.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 104.64,
+      "endTime": 111.76,
+      "text": "You could see right across the city. That's it. And you'd have exclusive access to the garden.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 111.76,
+      "endTime": 117.14,
+      "text": "It'll be at its best in June. So, we could have the photos there? Sure.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 117.14,
+      "endTime": 123.81,
+      "text": "In fact, you can even have the ceremony there if you want. It makes a lovely background.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 123.81,
+      "endTime": 126.0,
+      "text": "Oh, I hadn't thought of that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 127.0,
+      "endTime": 131.73,
+      "text": "Yes, that's certainly an idea. And is there somewhere for dancing?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 131.73,
+      "endTime": 137.97,
+      "text": "Yes, there's plenty of space in the middle of the dining room. Oh yeah, I remember now.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 137.97,
+      "endTime": 144.71,
+      "text": "So, just to give you an idea, would you like me to tell you about our special wedding package?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 144.71,
+      "endTime": 145.57,
+      "text": "Sure. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 145.57,
+      "endTime": 152.45,
+      "text": "So, for 80 guests, you'd have the exclusive use of the Oxford Suite, as I said, and then a meal,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 152.45,
+      "endTime": 158.83,
+      "text": "so that would be in the dining room, and that would be a sit-down meal with free courses.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 158.83,
+      "endTime": 164.85,
+      "text": "And how's the room arranged? I seem to remember you have round tables? That's right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 164.85,
+      "endTime": 171.3,
+      "text": "Most people prefer them to long tables. Long tables aren't really very friendly, are they?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 171.3,
+      "endTime": 176.6,
+      "text": "And what about decorations on the tables? They're included in the package.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 176.6,
+      "endTime": 180.83,
+      "text": "And we have white linen tablecloths and white chair covers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 180.83,
+      "endTime": 186.28,
+      "text": "And we also include an individually designed menu specially printed for you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 186.28,
+      "endTime": 191.0,
+      "text": "It's something that people can take away to remember the occasion.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 192.0,
+      "endTime": 199.27,
+      "text": "That's something we've just started doing this year. Oh, right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 199.27,
+      "endTime": 210.46,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions six to ten.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 210.46,
+      "endTime": 215.42,
+      "text": "Now listen and answer questions six to ten.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 215.42,
+      "endTime": 228.23,
+      "text": "And then, towards the end of the evening, when everyone's beginning to run out of energy, we bring in a buffet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 228.23,
+      "endTime": 237.92,
+      "text": "Nothing too complicated, just a selection of sandwiches together with tea or coffee.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 237.92,
+      "endTime": 244.96,
+      "text": "That's always very popular. Right. And we'll want some music.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 244.96,
+      "endTime": 253.27,
+      "text": "Is that included in the package? No, but we could probably get you a DJ.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 253.27,
+      "endTime": 259.27,
+      "text": "Or we know of a very good band if you'd prefer that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 259.27,
+      "endTime": 267.58,
+      "text": "Yes, that'd be better actually. Something to get everyone on their feet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 267.58,
+      "endTime": 276.0,
+      "text": "Good. So, apart from the music, you said that's an all-inclusive package.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 277.0,
+      "endTime": 283.86,
+      "text": "So, how much does that package come to? Five thousand nine hundred and ninety-five pounds.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 283.86,
+      "endTime": 289.57,
+      "text": "That's a bit more than the package they quoted for me at the Stanley Hotel.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 289.57,
+      "endTime": 293.0,
+      "text": "Theirs was four thousand five hundred pounds.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 293.0,
+      "endTime": 293.28,
+      "text": "Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 293.28,
+      "endTime": 299.91,
+      "text": "But I think if you look at what you're getting for the money, you'll find we're the best value.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 299.91,
+      "endTime": 302.0,
+      "text": "And it is a big day after all.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 302.0,
+      "endTime": 305.72,
+      "text": "Yes, you're probably right. Oh, and I nearly forgot.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 305.72,
+      "endTime": 312.45,
+      "text": "I'm looking for someone who can make me a really special cake. Can you suggest one? Certainly.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 312.45,
+      "endTime": 317.18,
+      "text": "There's a new company that we've started using. They're very good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 317.18,
+      "endTime": 322.77,
+      "text": "In fact, our wedding coordinator will be able to give you all sorts of advice.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 322.77,
+      "endTime": 327.14,
+      "text": "We can offer you a free consultation and a tour of the venue.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 1,
+      "startTime": 327.14,
+      "endTime": 330.0,
+      "text": "Yes, well, I'd definitely be interested.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 1,
+      "startTime": 331.0,
+      "endTime": 337.75,
+      "text": "Right. Well, the coordinator's name is Sarah Izard.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 1,
+      "startTime": 337.75,
+      "endTime": 340.0,
+      "text": "That's I-Z-A-R-D.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 1,
+      "startTime": 341.0,
+      "endTime": 350.83,
+      "text": "Now, when would you like to meet her?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 1,
+      "startTime": 350.83,
+      "endTime": 373.15,
+      "text": "She's available from nine to five most weekdays, or later if that's more convenient.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 1,
+      "startTime": 373.15,
+      "endTime": 394.67,
+      "text": "I'm free on the 12th of October, in the morning sometime, or the 15th of October.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 1,
+      "startTime": 394.67,
+      "endTime": 402.38,
+      "text": "That would be better, thanks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 1,
+      "startTime": 402.38,
+      "endTime": 409.29,
+      "text": "Should we say 11.30? Fine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 1,
+      "startTime": 409.29,
+      "endTime": 422.84,
+      "text": "And can I just take your name and a contact number?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 1,
+      "startTime": 422.84,
+      "endTime": 428.15,
+      "text": "Sure. It's Debbie...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 1,
+      "startTime": 428.15,
+      "endTime": 435.59,
+      "text": "That is the end of Part One.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 1,
+      "startTime": 435.59,
+      "endTime": 451.0,
+      "text": "You now have one minute to check your answers to Part One.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 2,
+      "startTime": 451.0,
+      "endTime": 472.46,
+      "text": "You will hear a tour guide talking to a group of visitors about a farmers' and growers' market in a small New Zealand village.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 2,
+      "startTime": 472.46,
+      "endTime": 482.0,
+      "text": "First, you have some time to look at questions 11 to 16.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 2,
+      "startTime": 482.0,
+      "endTime": 486.36,
+      "text": "Now listen carefully and answer questions 11 to 16.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 2,
+      "startTime": 486.36,
+      "endTime": 494.48,
+      "text": "Welcome, everyone, to this farmers' and growers' market in the quiet village of Havelock North.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 2,
+      "startTime": 494.48,
+      "endTime": 499.0,
+      "text": "My name is Helen, and I'm your guide for the morning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 2,
+      "startTime": 500.0,
+      "endTime": 516.44,
+      "text": "Before I let you go off and explore, I'll just tell you a few things first, which will help you know both what sort of products you will find here – there's everything from fresh produce to handcrafts – and then how to find your way around.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 2,
+      "startTime": 516.44,
+      "endTime": 518.84,
+      "text": "Right, so what do people sell here?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 2,
+      "startTime": 518.84,
+      "endTime": 526.31,
+      "text": "Well, for a start, there's some very nice hand cream from the Far North, which is always a top seller abroad.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 2,
+      "startTime": 526.31,
+      "endTime": 540.0,
+      "text": "Those of you visitors who come from other countries may like to take it back home with you as presents because the packaging is branded New Zealand and has pretty pictures on it of our native flowers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 2,
+      "startTime": 542.0,
+      "endTime": 548.7,
+      "text": "Now, there's also some very tasty jam available, although because it's made from blueberries,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 548.7,
+      "endTime": 554.25,
+      "text": "this product is quite dear, so you'll have to spend a little more than usual.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 554.25,
+      "endTime": 556.34,
+      "text": "Still, very delicious though.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 556.34,
+      "endTime": 565.71,
+      "text": "And for those of you who like your bath products gentle and suitable for sensitive skin, there are some non-allergenic soaps here,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 565.71,
+      "endTime": 575.0,
+      "text": "not perfumed or coloured, just simple soap through and through, made by hand the old-fashioned way with nothing artificial added.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 576.0,
+      "endTime": 580.2,
+      "text": "Ah, now there are the candles for sale at a very reasonable price.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 580.2,
+      "endTime": 585.92,
+      "text": "They probably represent the top buy if you want your dollar to stretch as far as possible.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 585.92,
+      "endTime": 594.0,
+      "text": "They're just the colour of wax, so that's not too exciting, but they do come in all different sizes to suit different purposes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 596.0,
+      "endTime": 600.67,
+      "text": "Just a couple more items for me to tell you about.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 600.67,
+      "endTime": 604.69,
+      "text": "There's great flavoured ice cream on offer.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 604.69,
+      "endTime": 615.15,
+      "text": "In fact, it's so good that it's classified export grade and was awarded the gold medal at this year's food fair.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 615.15,
+      "endTime": 617.02,
+      "text": "You should try some.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 617.02,
+      "endTime": 628.04,
+      "text": "And finally, we've got shampoo, which comes in cute little blue, green and red bottles for three different hair types.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 628.04,
+      "endTime": 641.12,
+      "text": "The best thing about this product is that it's produced right here in Havelock North Village by a farmer's wife who started her own company.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 641.12,
+      "endTime": 649.25,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 17 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 649.25,
+      "endTime": 653.08,
+      "text": "Now listen and answer questions 17 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 653.08,
+      "endTime": 661.77,
+      "text": "Right, so that's given you an idea of the sorts of products which are on sale at this market.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 661.77,
+      "endTime": 668.22,
+      "text": "Now, let's just give you a quick rundown on where to find everything.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 668.22,
+      "endTime": 673.73,
+      "text": "Then I'll let you go for a walk around to do your shopping.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 673.73,
+      "endTime": 683.63,
+      "text": "As you enter the market, through the gate here in front of us, at the bottom of the map you've been given,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 683.63,
+      "endTime": 694.0,
+      "text": "you'll see immediately that the farmers have set up their stalls out in a square in the middle of the vineyard.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 695.0,
+      "endTime": 710.89,
+      "text": "I know a few of you are interested in buying wooden handicrafts,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 710.89,
+      "endTime": 737.95,
+      "text": "so just to let you know that the stall is located on the far side of the walking track opposite the entrance.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 737.95,
+      "endTime": 760.29,
+      "text": "There are some lovely toys for sale there, and also hand-carved wooden platters and bowls.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 760.29,
+      "endTime": 781.89,
+      "text": "Now the first one you'd see to your left after entering, tucked away there by the gate,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 2,
+      "startTime": 781.89,
+      "endTime": 808.7,
+      "text": "is the china stall, where there's an interesting display of old, second-hand or antique teacups and saucers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 2,
+      "startTime": 808.7,
+      "endTime": 816.89,
+      "text": "What else? Oh yes, the wool shop.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 2,
+      "startTime": 816.89,
+      "endTime": 843.7,
+      "text": "For those of you who are wanting to take home a New Zealand sheepskin rug or a woolly jersey for the winter,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 2,
+      "startTime": 843.7,
+      "endTime": 861.33,
+      "text": "can be found on your immediate right after you've gone in the entrance.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 2,
+      "startTime": 861.33,
+      "endTime": 873.0,
+      "text": "There are some nice scarves and hats there too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 3,
+      "startTime": 873.0,
+      "endTime": 873.8,
+      "text": ".",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 3,
+      "startTime": 873.8,
+      "endTime": 874.16,
+      "text": "You will hear two graduate students called Jen and Bill discussing the write-up of their group project.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 3,
+      "startTime": 874.16,
+      "endTime": 874.35,
+      "text": "First you have some time to look at questions 21 to 25.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 3,
+      "startTime": 874.35,
+      "endTime": 874.67,
+      "text": "Now listen carefully and answer questions 21 to 25. What's up Jen? How are you? Oh, hey Bill.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 3,
+      "startTime": 874.67,
+      "endTime": 875.47,
+      "text": "Where's everybody else? I don't know.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 3,
+      "startTime": 874.0,
+      "endTime": 878.0,
+      "text": "You're the first to get here. Well, I hope they don't take too long. I have a class at noon.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 3,
+      "startTime": 878.0,
+      "endTime": 884.24,
+      "text": "Why don't we at least discuss what we've completed and what's left to do? Sounds like a plan.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 3,
+      "startTime": 884.24,
+      "endTime": 890.28,
+      "text": "Have you heard anything from Irene? Yeah, Irene told me the experiment is just about done.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 3,
+      "startTime": 890.28,
+      "endTime": 896.39,
+      "text": "She's been practically living in the lab the past week. Wow, we owe her a favour, don't we?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 3,
+      "startTime": 896.39,
+      "endTime": 902.57,
+      "text": "You can say that again. Has Kim been helping her? I thought that lab work was not her style.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 3,
+      "startTime": 902.57,
+      "endTime": 908.34,
+      "text": "Well, not so much in the lab, but she has started compiling the data for the analysis.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 3,
+      "startTime": 908.34,
+      "endTime": 912.77,
+      "text": "Kim is terrific. I hate doing stats. I've always been bad at math.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 3,
+      "startTime": 912.77,
+      "endTime": 917.87,
+      "text": "I always thought there wasn't anything to that boys are good at math theory.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 3,
+      "startTime": 917.87,
+      "endTime": 919.28,
+      "text": "Yes, and I’m a proof.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 3,
+      "startTime": 919.28,
+      "endTime": 927.81,
+      "text": "Anyway, Kim hasn't actually run the stats for the project yet, since she still has to wait for the rest of the experiment data.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 3,
+      "startTime": 927.81,
+      "endTime": 932.04,
+      "text": "But she's ready to get started when we get the experiment done.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 3,
+      "startTime": 932.04,
+      "endTime": 937.68,
+      "text": "Seriously, without Irene and Kim, we'd be in trouble. Yeah, you're right about that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 3,
+      "startTime": 937.68,
+      "endTime": 944.0,
+      "text": "So what about Linda? What's she been up to? Who knows? All she ever talks about is her fiancé.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 944.0,
+      "endTime": 948.7,
+      "text": "I haven't seen or heard from her all week. Well, I hope she turns up soon.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 948.7,
+      "endTime": 952.51,
+      "text": "We'll need everyone if we're going to get this done on time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 952.51,
+      "endTime": 957.02,
+      "text": "Yeah, and she knows that Professor Cooper is a hard grader of projects.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 957.02,
+      "endTime": 961.72,
+      "text": "I'm worried that Professor Cooper is not going to give us a passing grade.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 961.72,
+      "endTime": 965.09,
+      "text": "Anyway, we haven't talked about the introduction yet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 965.09,
+      "endTime": 969.28,
+      "text": "Have you finished reading those articles Professor Cooper gave us?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 969.28,
+      "endTime": 974.0,
+      "text": "Bill, she gave us those two weeks ago. Hey, I've been busy. And I haven't.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 975.0,
+      "endTime": 980.36,
+      "text": "Come on, Bill. Jen, you know we all depend on you for that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 980.36,
+      "endTime": 987.63,
+      "text": "You're the only person I know that reads every assignment from beginning to end.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 987.63,
+      "endTime": 996.18,
+      "text": "You and Professor Cooper often have private discussions about readings in the middle of class.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 996.18,
+      "endTime": 1004.18,
+      "text": "But hey, I'm not complaining. That's why all the rest of us asked you to be on our team.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 1004.18,
+      "endTime": 1011.36,
+      "text": "Oh, so that's why. So it wasn't because I'm popular, huh? Hey, you're the best.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 1011.36,
+      "endTime": 1019.54,
+      "text": "No one's going to argue that. Hey, I'm thirsty. You want something to drink? No, I'm good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 1019.54,
+      "endTime": 1021.81,
+      "text": "Okay, I'll be right back.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 1021.81,
+      "endTime": 1030.26,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 26 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 1030.26,
+      "endTime": 1036.71,
+      "text": "Now listen and answer questions 26 to 30. They're still not here? Nope.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 1036.71,
+      "endTime": 1040.07,
+      "text": "And I've got a class I got to get to.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 1040.07,
+      "endTime": 1047.34,
+      "text": "Well, let's divide up responsibilities, like who's responsible for each section.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 1047.34,
+      "endTime": 1057.43,
+      "text": "It only makes sense that Irene writes up all the materials and methods since she spent the most time with that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 1057.43,
+      "endTime": 1064.98,
+      "text": "Oh, that's easy. Hey, didn't you just say we owe her one? Yeah, yeah, you're right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1064.98,
+      "endTime": 1072.25,
+      "text": "Irene can do the methodology section. Do you want to do the results? Not at all.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1072.25,
+      "endTime": 1074.8,
+      "text": "I thought Kim would do that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1074.8,
+      "endTime": 1082.0,
+      "text": "Just because she is good at stats doesn't mean she'll be good at writing it up.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1082.0,
+      "endTime": 1084.89,
+      "text": "And besides, you are the one good at copy editing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1084.89,
+      "endTime": 1089.34,
+      "text": "Well, all the same, I think it'll be easiest if she does the results section.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1089.34,
+      "endTime": 1093.04,
+      "text": "I'll edit the whole report. Come on, that's asking a lot of you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1093.04,
+      "endTime": 1096.56,
+      "text": "Well, what part are you going to do, Jen? Isn't that obvious?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1096.56,
+      "endTime": 1099.04,
+      "text": "Since I'm the one who does all the reading.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1099.04,
+      "endTime": 1104.35,
+      "text": "I'm sure you'll give us the best literature review, Jen. We're all counting on you for that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1104.35,
+      "endTime": 1108.05,
+      "text": "I guess that leaves the discussion section and the bibliography.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1108.05,
+      "endTime": 1110.36,
+      "text": "Yeah, can you make suggestions on these?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1110.36,
+      "endTime": 1115.1,
+      "text": "Okay, but seriously, wouldn't it make more sense if you do the list of references?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1115.1,
+      "endTime": 1120.0,
+      "text": "There are enough commas, capital letters, and parentheses to keep you happy in there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 3,
+      "startTime": 1121.0,
+      "endTime": 1125.6,
+      "text": "Yeah, you got a point. It sure does make sense that I do the bibliography.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 3,
+      "startTime": 1125.6,
+      "endTime": 1131.0,
+      "text": "I guess Linda could handle the discussion section, even if she hasn't been around much.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 3,
+      "startTime": 1131.0,
+      "endTime": 1147.46,
+      "text": "Yeah, but isn't that like the most important section?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 3,
+      "startTime": 1147.46,
+      "endTime": 1158.33,
+      "text": "Well, what else is she going to do?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 3,
+      "startTime": 1158.33,
+      "endTime": 1163.3,
+      "text": "The whole paper.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 3,
+      "startTime": 1163.3,
+      "endTime": 1170.13,
+      "text": "It'll serve her right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 3,
+      "startTime": 1170.13,
+      "endTime": 1176.03,
+      "text": "Then we'd all fail.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 3,
+      "startTime": 1176.03,
+      "endTime": 1200.56,
+      "text": "Okay, but I think we all should start messaging her to make sure she gets busy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 3,
+      "startTime": 1200.56,
+      "endTime": 1211.43,
+      "text": "The discussion section can be long.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 3,
+      "startTime": 1211.43,
+      "endTime": 1218.88,
+      "text": "What about the abstract?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 3,
+      "startTime": 1218.88,
+      "endTime": 1235.03,
+      "text": "You really don't want me to do the abstract, do you?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 3,
+      "startTime": 1235.03,
+      "endTime": 1241.55,
+      "text": "That's not the point.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 3,
+      "startTime": 1241.55,
+      "endTime": 1262.67,
+      "text": "I just think that the abstract should be for whoever finishes first.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 3,
+      "startTime": 1262.67,
+      "endTime": 1264.53,
+      "text": "Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 3,
+      "startTime": 1264.53,
+      "endTime": 1272.6,
+      "text": "That is the end of Part 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 3,
+      "startTime": 1272.6,
+      "endTime": 1290.0,
+      "text": "You now have 30 seconds to check your answers to Part 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 4,
+      "startTime": 1290.0,
+      "endTime": 1290.12,
+      "text": "You will hear a lecture on the influence of the car on urban development.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 4,
+      "startTime": 1290.12,
+      "endTime": 1290.21,
+      "text": "First, you have some time to look at questions 31 to 40.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 4,
+      "startTime": 1290.21,
+      "endTime": 1290.34,
+      "text": "Now listen carefully and answer questions 31 to 40. Good morning, everyone.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 4,
+      "startTime": 1290.34,
+      "endTime": 1290.48,
+      "text": "Today, in this second lecture of the series, we turn our attention to transportation.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 4,
+      "startTime": 1290.48,
+      "endTime": 1290.77,
+      "text": "In particular, we're going to take a look at the way the motor car influenced urban development in Australia and changed our lifestyle from the 1940s to the end of the 1990s.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 4,
+      "startTime": 1290.77,
+      "endTime": 1291.0,
+      "text": "The car is so common nowadays that we all take it for granted, and we barely think about the major effect it has had on our society.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 4,
+      "startTime": 1291.0,
+      "endTime": 1294.5,
+      "text": "But let's go back for a while to the late 1940s.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 4,
+      "startTime": 1294.5,
+      "endTime": 1305.07,
+      "text": "Although they had been around since the start of the 20th century, only one person in eight owned a car in Australia's major cities at that time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 4,
+      "startTime": 1305.07,
+      "endTime": 1310.61,
+      "text": "Nearly 60% of journeys were still made by various means of public transport,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 4,
+      "startTime": 1310.61,
+      "endTime": 1316.0,
+      "text": "and only 15% by car, which is clearly very few compared to statistics now.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 4,
+      "startTime": 1316.0,
+      "endTime": 1320.46,
+      "text": "Buses were very crowded in the days before extensive car use,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 4,
+      "startTime": 1320.46,
+      "endTime": 1328.79,
+      "text": "and they were also considered to be uncomfortable, despite providing a cheap option that most people could afford.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 4,
+      "startTime": 1328.79,
+      "endTime": 1332.74,
+      "text": "Remember, this wasn't long after the Second World War.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 1332.74,
+      "endTime": 1339.75,
+      "text": "People were tired of living without things, of making do, and to them, cars represented freedom.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 1339.75,
+      "endTime": 1346.54,
+      "text": "But even for the wealthy few who did have vehicles, it wasn't easy to run a car at this time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 4,
+      "startTime": 1346.54,
+      "endTime": 1353.63,
+      "text": "As well as the expense of buying a car, spare parts were difficult to get, as many were imported.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 4,
+      "startTime": 1353.63,
+      "endTime": 1360.5,
+      "text": "Another problem for car owners was that fuel was still rationed, and car taxes were very high.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 4,
+      "startTime": 1360.5,
+      "endTime": 1375.55,
+      "text": "Strong public feeling on issues like these from various pressure groups resulted in a change of government in Australia after the general election in 1949, which undoubtedly shaped the future of our nation.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 4,
+      "startTime": 1375.55,
+      "endTime": 1384.24,
+      "text": "In the 1960s, cheaper, more reliable cars became available, and this coincided with the rapid expansion of the suburbs.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 4,
+      "startTime": 1384.24,
+      "endTime": 1391.98,
+      "text": "The car enabled these to grow in all directions, far beyond the train lines laid down in the 19th century.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 4,
+      "startTime": 1391.98,
+      "endTime": 1401.48,
+      "text": "For the previous 150 years, the city centre had been a prestigious area, but the addition of cars made the main streets congested.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 4,
+      "startTime": 1401.48,
+      "endTime": 1405.94,
+      "text": "This wasn't the only problem. Now they were polluted as well.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 4,
+      "startTime": 1405.94,
+      "endTime": 1411.42,
+      "text": "Since these streets were usually straight, they tempted motorists to speed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-193",
+      "part": 4,
+      "startTime": 1411.42,
+      "endTime": 1417.63,
+      "text": "So the layout of newer streets was affected by this change towards private transport.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-194",
+      "part": 4,
+      "startTime": 1417.63,
+      "endTime": 1421.72,
+      "text": "In the newer areas, roads were no longer built straight.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-195",
+      "part": 4,
+      "startTime": 1421.72,
+      "endTime": 1427.86,
+      "text": "Instead, they had curves that were specially designed to force drivers to slow down.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-196",
+      "part": 4,
+      "startTime": 1427.86,
+      "endTime": 1434.65,
+      "text": "This meant they were longer, but this was not a problem because people rarely walked anymore.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-197",
+      "part": 4,
+      "startTime": 1434.65,
+      "endTime": 1441.0,
+      "text": "By the 1970s, the type of roads being built changed, with more lanes in each direction.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-198",
+      "part": 4,
+      "startTime": 1442.0,
+      "endTime": 1448.55,
+      "text": "There were more commuters, because now there was faster access to the city where they worked.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-199",
+      "part": 4,
+      "startTime": 1448.55,
+      "endTime": 1453.55,
+      "text": "By this time, the motor car was affecting many different areas of life.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-200",
+      "part": 4,
+      "startTime": 1453.55,
+      "endTime": 1456.79,
+      "text": "It even, surprisingly, affected relationships.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-201",
+      "part": 4,
+      "startTime": 1456.79,
+      "endTime": 1464.4,
+      "text": "Before this, meeting anyone who lived beyond walking or cycling distance was impractical, if not impossible.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-202",
+      "part": 4,
+      "startTime": 1464.4,
+      "endTime": 1469.26,
+      "text": "The car brought people together. What other effects did the car have?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-203",
+      "part": 4,
+      "startTime": 1469.26,
+      "endTime": 1473.0,
+      "text": "The increase in car use changed the way we advertise.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-204",
+      "part": 4,
+      "startTime": 1474.0,
+      "endTime": 1483.64,
+      "text": "Previously, advertisements had been designed to attract slow-moving pedestrians, so they were located at eye level and designed on a human scale.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-205",
+      "part": 4,
+      "startTime": 1483.64,
+      "endTime": 1490.42,
+      "text": "By the late 1970s, massive advertisements were designed to attract the notice of the passing motorist.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-206",
+      "part": 4,
+      "startTime": 1490.42,
+      "endTime": 1494.74,
+      "text": "In the 1980s and 90s, even the location of shops began to change.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-207",
+      "part": 4,
+      "startTime": 1494.74,
+      "endTime": 1501.39,
+      "text": "We built shopping malls out in the suburbs, which meant that old town centres did far less business.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-208",
+      "part": 4,
+      "startTime": 1501.39,
+      "endTime": 1505.52,
+      "text": "Next, we saw the development of drive-in shopping centres, theatres and even restaurants,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-209",
+      "part": 4,
+      "startTime": 1507.3,
+      "endTime": 1505.52,
+      "text": "which now ensure we get out of our cars as little as possible.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-210",
+      "part": 4,
+      "startTime": 1511.42,
+      "endTime": 1505.52,
+      "text": "Now, I'd like to turn your attention to a few statistics related to car ownership...",
+      "timestampSource": "exact",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 23.66,
+      "text": "1. You will hear a telephone conversation between a hotel manager and a woman who is inquiring about wedding arrangements. First, you have some time to look at questions 1 to 5.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 23.66,
+      "endTime": 48.0,
+      "text": "Now, listen carefully and answer questions 1 to 5. Hello, Clarence House. Oh, hello. Um, I'm getting married next year and I understand you're licensed to hold weddings at the hotel?",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 48.0,
+      "endTime": 76.0,
+      "text": "Yes, we are. Can I ask what date you were thinking of? Either the 1st or the 7th of June? Right, let me see. Oh, I'm afraid we already have a booking for the 7th but we still have availability on June the 1st.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008",
+        "seg-009"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 76.0,
+      "endTime": 99.41,
+      "text": "That would be fine. So, how many guests are you going to be inviting? About 80. So, for that number, we'd recommend the Oxford Suite. I don't know if you've been to the hotel? Yes, in fact, I went to a wedding there a few years ago and I was really impressed. Very good. I think we were in the Oxford Suite then.",
+      "segmentIds": [
+        "seg-010",
+        "seg-011",
+        "seg-012",
+        "seg-013"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 99.41,
+      "endTime": 117.14,
+      "text": "The room where we were eating had big windows with really good views. You could see right across the city. That's it. And you'd have exclusive access to the garden. It'll be at its best in June. So, we could have the photos there? Sure.",
+      "segmentIds": [
+        "seg-014",
+        "seg-015",
+        "seg-016"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 117.14,
+      "endTime": 137.97,
+      "text": "In fact, you can even have the ceremony there if you want. It makes a lovely background. Oh, I hadn't thought of that. Yes, that's certainly an idea. And is there somewhere for dancing? Yes, there's plenty of space in the middle of the dining room. Oh yeah, I remember now.",
+      "segmentIds": [
+        "seg-017",
+        "seg-018",
+        "seg-019",
+        "seg-020"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 137.97,
+      "endTime": 158.83,
+      "text": "So, just to give you an idea, would you like me to tell you about our special wedding package? Sure. Right. So, for 80 guests, you'd have the exclusive use of the Oxford Suite, as I said, and then a meal, so that would be in the dining room, and that would be a sit-down meal with free courses.",
+      "segmentIds": [
+        "seg-021",
+        "seg-022",
+        "seg-023",
+        "seg-024"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 158.83,
+      "endTime": 180.83,
+      "text": "And how's the room arranged? I seem to remember you have round tables? That's right. Most people prefer them to long tables. Long tables aren't really very friendly, are they? And what about decorations on the tables? They're included in the package. And we have white linen tablecloths and white chair covers.",
+      "segmentIds": [
+        "seg-025",
+        "seg-026",
+        "seg-027",
+        "seg-028"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 180.83,
+      "endTime": 199.27,
+      "text": "And we also include an individually designed menu specially printed for you. It's something that people can take away to remember the occasion. That's something we've just started doing this year. Oh, right.",
+      "segmentIds": [
+        "seg-029",
+        "seg-030",
+        "seg-031"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 199.27,
+      "endTime": 228.23,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions six to ten. Now listen and answer questions six to ten. And then, towards the end of the evening, when everyone's beginning to run out of energy, we bring in a buffet.",
+      "segmentIds": [
+        "seg-032",
+        "seg-033",
+        "seg-034"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 228.23,
+      "endTime": 253.27,
+      "text": "Nothing too complicated, just a selection of sandwiches together with tea or coffee. That's always very popular. Right. And we'll want some music. Is that included in the package? No, but we could probably get you a DJ.",
+      "segmentIds": [
+        "seg-035",
+        "seg-036",
+        "seg-037"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 253.27,
+      "endTime": 276.0,
+      "text": "Or we know of a very good band if you'd prefer that. Yes, that'd be better actually. Something to get everyone on their feet. Good. So, apart from the music, you said that's an all-inclusive package.",
+      "segmentIds": [
+        "seg-038",
+        "seg-039",
+        "seg-040"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 277.0,
+      "endTime": 299.91,
+      "text": "So, how much does that package come to? Five thousand nine hundred and ninety-five pounds. That's a bit more than the package they quoted for me at the Stanley Hotel. Theirs was four thousand five hundred pounds. Yes. But I think if you look at what you're getting for the money, you'll find we're the best value.",
+      "segmentIds": [
+        "seg-041",
+        "seg-042",
+        "seg-043",
+        "seg-044",
+        "seg-045"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 299.91,
+      "endTime": 322.77,
+      "text": "And it is a big day after all. Yes, you're probably right. Oh, and I nearly forgot. I'm looking for someone who can make me a really special cake. Can you suggest one? Certainly. There's a new company that we've started using. They're very good. In fact, our wedding coordinator will be able to give you all sorts of advice.",
+      "segmentIds": [
+        "seg-046",
+        "seg-047",
+        "seg-048",
+        "seg-049",
+        "seg-050"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 322.77,
+      "endTime": 340.0,
+      "text": "We can offer you a free consultation and a tour of the venue. Yes, well, I'd definitely be interested. Right. Well, the coordinator's name is Sarah Izard. That's I-Z-A-R-D.",
+      "segmentIds": [
+        "seg-051",
+        "seg-052",
+        "seg-053",
+        "seg-054"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 341.0,
+      "endTime": 373.15,
+      "text": "Now, when would you like to meet her? She's available from nine to five most weekdays, or later if that's more convenient.",
+      "segmentIds": [
+        "seg-055",
+        "seg-056"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 1,
+      "startTime": 373.15,
+      "endTime": 409.29,
+      "text": "I'm free on the 12th of October, in the morning sometime, or the 15th of October. That would be better, thanks. Should we say 11.30? Fine.",
+      "segmentIds": [
+        "seg-057",
+        "seg-058",
+        "seg-059"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 1,
+      "startTime": 409.29,
+      "endTime": 435.59,
+      "text": "And can I just take your name and a contact number? Sure. It's Debbie... That is the end of Part One.",
+      "segmentIds": [
+        "seg-060",
+        "seg-061",
+        "seg-062"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 1,
+      "startTime": 435.59,
+      "endTime": 451.0,
+      "text": "You now have one minute to check your answers to Part One.",
+      "segmentIds": [
+        "seg-063"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 451.0,
+      "endTime": 486.36,
+      "text": "You will hear a tour guide talking to a group of visitors about a farmers' and growers' market in a small New Zealand village. First, you have some time to look at questions 11 to 16. Now listen carefully and answer questions 11 to 16.",
+      "segmentIds": [
+        "seg-064",
+        "seg-065",
+        "seg-066"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-021",
+      "part": 2,
+      "startTime": 486.36,
+      "endTime": 516.44,
+      "text": "Welcome, everyone, to this farmers' and growers' market in the quiet village of Havelock North. My name is Helen, and I'm your guide for the morning. Before I let you go off and explore, I'll just tell you a few things first, which will help you know both what sort of products you will find here – there's everything from fresh produce to handcrafts – and then how to find your way around.",
+      "segmentIds": [
+        "seg-067",
+        "seg-068",
+        "seg-069"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 516.44,
+      "endTime": 540.0,
+      "text": "Right, so what do people sell here? Well, for a start, there's some very nice hand cream from the Far North, which is always a top seller abroad. Those of you visitors who come from other countries may like to take it back home with you as presents because the packaging is branded New Zealand and has pretty pictures on it of our native flowers.",
+      "segmentIds": [
+        "seg-070",
+        "seg-071",
+        "seg-072"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-023",
+      "part": 2,
+      "startTime": 542.0,
+      "endTime": 565.71,
+      "text": "Now, there's also some very tasty jam available, although because it's made from blueberries, this product is quite dear, so you'll have to spend a little more than usual. Still, very delicious though. And for those of you who like your bath products gentle and suitable for sensitive skin, there are some non-allergenic soaps here,",
+      "segmentIds": [
+        "seg-073",
+        "seg-074",
+        "seg-075",
+        "seg-076"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 2,
+      "startTime": 565.71,
+      "endTime": 585.92,
+      "text": "not perfumed or coloured, just simple soap through and through, made by hand the old-fashioned way with nothing artificial added. Ah, now there are the candles for sale at a very reasonable price. They probably represent the top buy if you want your dollar to stretch as far as possible.",
+      "segmentIds": [
+        "seg-077",
+        "seg-078",
+        "seg-079"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 585.92,
+      "endTime": 604.69,
+      "text": "They're just the colour of wax, so that's not too exciting, but they do come in all different sizes to suit different purposes. Just a couple more items for me to tell you about. There's great flavoured ice cream on offer.",
+      "segmentIds": [
+        "seg-080",
+        "seg-081",
+        "seg-082"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 604.69,
+      "endTime": 628.04,
+      "text": "In fact, it's so good that it's classified export grade and was awarded the gold medal at this year's food fair. You should try some. And finally, we've got shampoo, which comes in cute little blue, green and red bottles for three different hair types.",
+      "segmentIds": [
+        "seg-083",
+        "seg-084",
+        "seg-085"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 628.04,
+      "endTime": 653.08,
+      "text": "The best thing about this product is that it's produced right here in Havelock North Village by a farmer's wife who started her own company. Before you hear the rest of the talk, you have some time to look at questions 17 to 20. Now listen and answer questions 17 to 20.",
+      "segmentIds": [
+        "seg-086",
+        "seg-087",
+        "seg-088"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 653.08,
+      "endTime": 673.73,
+      "text": "Right, so that's given you an idea of the sorts of products which are on sale at this market. Now, let's just give you a quick rundown on where to find everything. Then I'll let you go for a walk around to do your shopping.",
+      "segmentIds": [
+        "seg-089",
+        "seg-090",
+        "seg-091"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 673.73,
+      "endTime": 710.89,
+      "text": "As you enter the market, through the gate here in front of us, at the bottom of the map you've been given, you'll see immediately that the farmers have set up their stalls out in a square in the middle of the vineyard. I know a few of you are interested in buying wooden handicrafts,",
+      "segmentIds": [
+        "seg-092",
+        "seg-093",
+        "seg-094"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 710.89,
+      "endTime": 737.95,
+      "text": "so just to let you know that the stall is located on the far side of the walking track opposite the entrance.",
+      "segmentIds": [
+        "seg-095"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 2,
+      "startTime": 737.95,
+      "endTime": 760.29,
+      "text": "There are some lovely toys for sale there, and also hand-carved wooden platters and bowls.",
+      "segmentIds": [
+        "seg-096"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 2,
+      "startTime": 760.29,
+      "endTime": 781.89,
+      "text": "Now the first one you'd see to your left after entering, tucked away there by the gate,",
+      "segmentIds": [
+        "seg-097"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 2,
+      "startTime": 781.89,
+      "endTime": 816.89,
+      "text": "is the china stall, where there's an interesting display of old, second-hand or antique teacups and saucers. What else? Oh yes, the wool shop.",
+      "segmentIds": [
+        "seg-098",
+        "seg-099"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 2,
+      "startTime": 816.89,
+      "endTime": 843.7,
+      "text": "For those of you who are wanting to take home a New Zealand sheepskin rug or a woolly jersey for the winter,",
+      "segmentIds": [
+        "seg-100"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 2,
+      "startTime": 843.7,
+      "endTime": 873.0,
+      "text": "can be found on your immediate right after you've gone in the entrance. There are some nice scarves and hats there too.",
+      "segmentIds": [
+        "seg-101",
+        "seg-102"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 3,
+      "startTime": 873.0,
+      "endTime": 875.47,
+      "text": ". You will hear two graduate students called Jen and Bill discussing the write-up of their group project. First you have some time to look at questions 21 to 25. Now listen carefully and answer questions 21 to 25. What's up Jen? How are you? Oh, hey Bill. Where's everybody else? I don't know.",
+      "segmentIds": [
+        "seg-103",
+        "seg-104",
+        "seg-105",
+        "seg-106",
+        "seg-107"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 874.0,
+      "endTime": 896.39,
+      "text": "You're the first to get here. Well, I hope they don't take too long. I have a class at noon. Why don't we at least discuss what we've completed and what's left to do? Sounds like a plan. Have you heard anything from Irene? Yeah, Irene told me the experiment is just about done. She's been practically living in the lab the past week. Wow, we owe her a favour, don't we?",
+      "segmentIds": [
+        "seg-108",
+        "seg-109",
+        "seg-110",
+        "seg-111"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 896.39,
+      "endTime": 919.28,
+      "text": "You can say that again. Has Kim been helping her? I thought that lab work was not her style. Well, not so much in the lab, but she has started compiling the data for the analysis. Kim is terrific. I hate doing stats. I've always been bad at math. I always thought there wasn't anything to that boys are good at math theory. Yes, and I’m a proof.",
+      "segmentIds": [
+        "seg-112",
+        "seg-113",
+        "seg-114",
+        "seg-115",
+        "seg-116"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 919.28,
+      "endTime": 937.68,
+      "text": "Anyway, Kim hasn't actually run the stats for the project yet, since she still has to wait for the rest of the experiment data. But she's ready to get started when we get the experiment done. Seriously, without Irene and Kim, we'd be in trouble. Yeah, you're right about that.",
+      "segmentIds": [
+        "seg-117",
+        "seg-118",
+        "seg-119"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 937.68,
+      "endTime": 957.02,
+      "text": "So what about Linda? What's she been up to? Who knows? All she ever talks about is her fiancé. I haven't seen or heard from her all week. Well, I hope she turns up soon. We'll need everyone if we're going to get this done on time. Yeah, and she knows that Professor Cooper is a hard grader of projects.",
+      "segmentIds": [
+        "seg-120",
+        "seg-121",
+        "seg-122",
+        "seg-123"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 3,
+      "startTime": 957.02,
+      "endTime": 980.36,
+      "text": "I'm worried that Professor Cooper is not going to give us a passing grade. Anyway, we haven't talked about the introduction yet. Have you finished reading those articles Professor Cooper gave us? Bill, she gave us those two weeks ago. Hey, I've been busy. And I haven't. Come on, Bill. Jen, you know we all depend on you for that.",
+      "segmentIds": [
+        "seg-124",
+        "seg-125",
+        "seg-126",
+        "seg-127",
+        "seg-128"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 980.36,
+      "endTime": 1004.18,
+      "text": "You're the only person I know that reads every assignment from beginning to end. You and Professor Cooper often have private discussions about readings in the middle of class. But hey, I'm not complaining. That's why all the rest of us asked you to be on our team.",
+      "segmentIds": [
+        "seg-129",
+        "seg-130",
+        "seg-131"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 1004.18,
+      "endTime": 1021.81,
+      "text": "Oh, so that's why. So it wasn't because I'm popular, huh? Hey, you're the best. No one's going to argue that. Hey, I'm thirsty. You want something to drink? No, I'm good. Okay, I'll be right back.",
+      "segmentIds": [
+        "seg-132",
+        "seg-133",
+        "seg-134"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 1021.81,
+      "endTime": 1040.07,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 26 to 30. Now listen and answer questions 26 to 30. They're still not here? Nope. And I've got a class I got to get to.",
+      "segmentIds": [
+        "seg-135",
+        "seg-136",
+        "seg-137"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1040.07,
+      "endTime": 1064.98,
+      "text": "Well, let's divide up responsibilities, like who's responsible for each section. It only makes sense that Irene writes up all the materials and methods since she spent the most time with that. Oh, that's easy. Hey, didn't you just say we owe her one? Yeah, yeah, you're right.",
+      "segmentIds": [
+        "seg-138",
+        "seg-139",
+        "seg-140"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1064.98,
+      "endTime": 1084.89,
+      "text": "Irene can do the methodology section. Do you want to do the results? Not at all. I thought Kim would do that. Just because she is good at stats doesn't mean she'll be good at writing it up. And besides, you are the one good at copy editing.",
+      "segmentIds": [
+        "seg-141",
+        "seg-142",
+        "seg-143",
+        "seg-144"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1084.89,
+      "endTime": 1104.35,
+      "text": "Well, all the same, I think it'll be easiest if she does the results section. I'll edit the whole report. Come on, that's asking a lot of you. Well, what part are you going to do, Jen? Isn't that obvious? Since I'm the one who does all the reading. I'm sure you'll give us the best literature review, Jen. We're all counting on you for that.",
+      "segmentIds": [
+        "seg-145",
+        "seg-146",
+        "seg-147",
+        "seg-148",
+        "seg-149"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 3,
+      "startTime": 1104.35,
+      "endTime": 1125.6,
+      "text": "I guess that leaves the discussion section and the bibliography. Yeah, can you make suggestions on these? Okay, but seriously, wouldn't it make more sense if you do the list of references? There are enough commas, capital letters, and parentheses to keep you happy in there. Yeah, you got a point. It sure does make sense that I do the bibliography.",
+      "segmentIds": [
+        "seg-150",
+        "seg-151",
+        "seg-152",
+        "seg-153",
+        "seg-154"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-049",
+      "part": 3,
+      "startTime": 1125.6,
+      "endTime": 1158.33,
+      "text": "I guess Linda could handle the discussion section, even if she hasn't been around much. Yeah, but isn't that like the most important section? Well, what else is she going to do?",
+      "segmentIds": [
+        "seg-155",
+        "seg-156",
+        "seg-157"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-050",
+      "part": 3,
+      "startTime": 1158.33,
+      "endTime": 1176.03,
+      "text": "The whole paper. It'll serve her right. Then we'd all fail.",
+      "segmentIds": [
+        "seg-158",
+        "seg-159",
+        "seg-160"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-051",
+      "part": 3,
+      "startTime": 1176.03,
+      "endTime": 1211.43,
+      "text": "Okay, but I think we all should start messaging her to make sure she gets busy. The discussion section can be long.",
+      "segmentIds": [
+        "seg-161",
+        "seg-162"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-052",
+      "part": 3,
+      "startTime": 1211.43,
+      "endTime": 1241.55,
+      "text": "What about the abstract? You really don't want me to do the abstract, do you? That's not the point.",
+      "segmentIds": [
+        "seg-163",
+        "seg-164",
+        "seg-165"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-053",
+      "part": 3,
+      "startTime": 1241.55,
+      "endTime": 1272.6,
+      "text": "I just think that the abstract should be for whoever finishes first. Right. That is the end of Part 3.",
+      "segmentIds": [
+        "seg-166",
+        "seg-167",
+        "seg-168"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-054",
+      "part": 3,
+      "startTime": 1272.6,
+      "endTime": 1290.0,
+      "text": "You now have 30 seconds to check your answers to Part 3.",
+      "segmentIds": [
+        "seg-169"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-055",
+      "part": 4,
+      "startTime": 1290.0,
+      "endTime": 1290.77,
+      "text": "You will hear a lecture on the influence of the car on urban development. First, you have some time to look at questions 31 to 40. Now listen carefully and answer questions 31 to 40. Good morning, everyone. Today, in this second lecture of the series, we turn our attention to transportation. In particular, we're going to take a look at the way the motor car influenced urban development in Australia and changed our lifestyle from the 1940s to the end of the 1990s.",
+      "segmentIds": [
+        "seg-170",
+        "seg-171",
+        "seg-172",
+        "seg-173",
+        "seg-174"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1290.77,
+      "endTime": 1310.61,
+      "text": "The car is so common nowadays that we all take it for granted, and we barely think about the major effect it has had on our society. But let's go back for a while to the late 1940s. Although they had been around since the start of the 20th century, only one person in eight owned a car in Australia's major cities at that time. Nearly 60% of journeys were still made by various means of public transport,",
+      "segmentIds": [
+        "seg-175",
+        "seg-176",
+        "seg-177",
+        "seg-178"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-057",
+      "part": 4,
+      "startTime": 1310.61,
+      "endTime": 1332.74,
+      "text": "and only 15% by car, which is clearly very few compared to statistics now. Buses were very crowded in the days before extensive car use, and they were also considered to be uncomfortable, despite providing a cheap option that most people could afford. Remember, this wasn't long after the Second World War.",
+      "segmentIds": [
+        "seg-179",
+        "seg-180",
+        "seg-181",
+        "seg-182"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-058",
+      "part": 4,
+      "startTime": 1332.74,
+      "endTime": 1353.63,
+      "text": "People were tired of living without things, of making do, and to them, cars represented freedom. But even for the wealthy few who did have vehicles, it wasn't easy to run a car at this time. As well as the expense of buying a car, spare parts were difficult to get, as many were imported.",
+      "segmentIds": [
+        "seg-183",
+        "seg-184",
+        "seg-185"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-059",
+      "part": 4,
+      "startTime": 1353.63,
+      "endTime": 1384.24,
+      "text": "Another problem for car owners was that fuel was still rationed, and car taxes were very high. Strong public feeling on issues like these from various pressure groups resulted in a change of government in Australia after the general election in 1949, which undoubtedly shaped the future of our nation. In the 1960s, cheaper, more reliable cars became available, and this coincided with the rapid expansion of the suburbs.",
+      "segmentIds": [
+        "seg-186",
+        "seg-187",
+        "seg-188"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-060",
+      "part": 4,
+      "startTime": 1384.24,
+      "endTime": 1405.94,
+      "text": "The car enabled these to grow in all directions, far beyond the train lines laid down in the 19th century. For the previous 150 years, the city centre had been a prestigious area, but the addition of cars made the main streets congested. This wasn't the only problem. Now they were polluted as well.",
+      "segmentIds": [
+        "seg-189",
+        "seg-190",
+        "seg-191"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-061",
+      "part": 4,
+      "startTime": 1405.94,
+      "endTime": 1427.86,
+      "text": "Since these streets were usually straight, they tempted motorists to speed. So the layout of newer streets was affected by this change towards private transport. In the newer areas, roads were no longer built straight. Instead, they had curves that were specially designed to force drivers to slow down.",
+      "segmentIds": [
+        "seg-192",
+        "seg-193",
+        "seg-194",
+        "seg-195"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-062",
+      "part": 4,
+      "startTime": 1427.86,
+      "endTime": 1448.55,
+      "text": "This meant they were longer, but this was not a problem because people rarely walked anymore. By the 1970s, the type of roads being built changed, with more lanes in each direction. There were more commuters, because now there was faster access to the city where they worked.",
+      "segmentIds": [
+        "seg-196",
+        "seg-197",
+        "seg-198"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-063",
+      "part": 4,
+      "startTime": 1448.55,
+      "endTime": 1469.26,
+      "text": "By this time, the motor car was affecting many different areas of life. It even, surprisingly, affected relationships. Before this, meeting anyone who lived beyond walking or cycling distance was impractical, if not impossible. The car brought people together. What other effects did the car have?",
+      "segmentIds": [
+        "seg-199",
+        "seg-200",
+        "seg-201",
+        "seg-202"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-064",
+      "part": 4,
+      "startTime": 1469.26,
+      "endTime": 1490.42,
+      "text": "The increase in car use changed the way we advertise. Previously, advertisements had been designed to attract slow-moving pedestrians, so they were located at eye level and designed on a human scale. By the late 1970s, massive advertisements were designed to attract the notice of the passing motorist.",
+      "segmentIds": [
+        "seg-203",
+        "seg-204",
+        "seg-205"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-065",
+      "part": 4,
+      "startTime": 1490.42,
+      "endTime": 1505.52,
+      "text": "In the 1980s and 90s, even the location of shops began to change. We built shopping malls out in the suburbs, which meant that old town centres did far less business. Next, we saw the development of drive-in shopping centres, theatres and even restaurants, which now ensure we get out of our cars as little as possible. Now, I'd like to turn your attention to a few statistics related to car ownership...",
+      "segmentIds": [
+        "seg-206",
+        "seg-207",
+        "seg-208",
+        "seg-209",
+        "seg-210"
+      ],
+      "timestampSource": "exact"
+    }
+  ]
+}

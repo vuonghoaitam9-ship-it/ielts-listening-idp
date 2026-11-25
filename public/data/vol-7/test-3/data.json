@@ -1,0 +1,3781 @@
+{
+  "id": "vol-7-test-3",
+  "vol": 7,
+  "testNumber": 3,
+  "title": "Vol 7 — Test 3",
+  "pdfUrl": "./data/vol-7/test-3/exam.pdf",
+  "pdfPages": 6,
+  "questionPageRange": [
+    1,
+    6
+  ],
+  "audioUrl": "./data/vol-7/test-3/audio.mp3",
+  "audioDurationSec": 1729.02,
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 0.0,
+      "endTime": 590.0,
+      "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 590.0,
+      "endTime": 909.0,
+      "topicHint": "You will hear a radio talk on horse riding for disabled people."
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 939.0,
+      "endTime": 1434.0,
+      "topicHint": "You will hear two trainee teachers called Dean and Hannah talking about their recent teaching practice in an elementary school."
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1434.0,
+      "endTime": 1729.02,
+      "topicHint": "You will hear a university lecturer talking to students about the world's oldest mechanical computer, which is called the Antikythera Mechanism."
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "DETAILS Event option: large surprise party Number of people: 1…….. Date: 2…….. Day of week: Friday Time: 6 – 10 p.m. Location: the 3……… Room Type of music 4……… FOOD Service option 5………. Flavour of cake: 6………. Message on cake: 7……… PAYMENT Reservation fee paid: $100 Credit card type: Mastercard Credit card number: 8……… Na",
+      "answerRaw": "80",
+      "canonicalAnswer": "80",
+      "acceptedAnswers": [
+        "80"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "So, let's say eighty, in case everyone wants to come. Okay. And do you still want October 6th? Actually, no. I need to change that.",
+      "evidenceStartTime": 209.15,
+      "evidenceEndTime": 218.65,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"80\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "t option: large surprise party Number of people: 1…….. Date: 2…….. Day of week: Friday Time: 6 – 10 p.m. Location: the 3……… Room Type of music 4……… FOOD Service option 5………. Flavour of cake: 6………. Message on cake: 7……… PAYMENT Reservation fee paid: $100 Credit card type: Mastercard Credit card number: 8……… Name: Brian 9…",
+      "answerRaw": "26 September",
+      "canonicalAnswer": "26 September",
+      "acceptedAnswers": [
+        "26 September"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Would the 26th of September work for you? No problem. That date's still open.",
+      "evidenceStartTime": 223.35,
+      "evidenceEndTime": 229.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"26 September\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "e: 2…….. Day of week: Friday Time: 6 – 10 p.m. Location: the 3……… Room Type of music 4……… FOOD Service option 5………. Flavour of cake: 6………. Message on cake: 7……… PAYMENT Reservation fee paid: $100 Credit card type: Mastercard Credit card number: 8……… Name: Brian 9………. Troy Additional fees: extra charge for 10……….",
+      "answerRaw": "King",
+      "canonicalAnswer": "King",
+      "acceptedAnswers": [
+        "King"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There's the Queen Room, the Royal Room, the Palace Room, and the... The King Room, right?",
+      "evidenceStartTime": 254.29,
+      "evidenceEndTime": 261.11,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"King\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "iday Time: 6 – 10 p.m. Location: the 3……… Room Type of music 4……… FOOD Service option 5………. Flavour of cake: 6………. Message on cake: 7……… PAYMENT Reservation fee paid: $100 Credit card type: Mastercard Credit card number: 8……… Name: Brian 9………. Troy Additional fees: extra charge for 10……….",
+      "answerRaw": "jazz",
+      "canonicalAnswer": "jazz",
+      "acceptedAnswers": [
+        "jazz"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Um, I hadn't thought about it, but it would be nice. Well, you have some choices. We can arrange for a group to play jazz, or one to play the latest pop.",
+      "evidenceStartTime": 280.88,
+      "evidenceEndTime": 292.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"jazz\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "cation: the 3……… Room Type of music 4……… FOOD Service option 5………. Flavour of cake: 6………. Message on cake: 7……… PAYMENT Reservation fee paid: $100 Credit card type: Mastercard Credit card number: 8……… Name: Brian 9………. Troy Additional fees: extra charge for 10……….",
+      "answerRaw": "table",
+      "canonicalAnswer": "table",
+      "acceptedAnswers": [
+        "table"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We have two options. A self-service buffet or table. Let's go with the last choice.",
+      "evidenceStartTime": 361.0,
+      "evidenceEndTime": 368.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"table\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "umber of people: 1…….. Date: 2…….. Day of week: Friday Time: 6 – 10 p.m. Location: the 3……… Room Type of music 4……… FOOD Service option 5………. Flavour of cake: 6………. Message on cake: 7……… PAYMENT Reservation fee paid: $100 Credit card type: Mastercard Credit card number: 8……… Name: Brian 9………. Troy Additional fees: extra charg",
+      "answerRaw": "lemon",
+      "canonicalAnswer": "lemon",
+      "acceptedAnswers": [
+        "lemon"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "What flavor would you like? Well, it would have to be lemon.",
+      "evidenceStartTime": 393.64,
+      "evidenceEndTime": 398.27,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"lemon\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "Service option 5………. Flavour of cake: 6………. Message on cake: 7……… PAYMENT Reservation fee paid: $100 Credit card type: Mastercard Credit card number: 8……… Name: Brian 9………. Troy Additional fees: extra charge for 10……….",
+      "answerRaw": "congratulations",
+      "canonicalAnswer": "congratulations",
+      "acceptedAnswers": [
+        "congratulations"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But let's keep it simple. How about congratulations? Okay.",
+      "evidenceStartTime": 424.0,
+      "evidenceEndTime": 428.17,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"congratulations\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "paid: $100 Credit card type: Mastercard Credit card number: 8……… Name: Brian 9………. Troy Additional fees: extra charge for 10……….",
+      "answerRaw": "5544120043268887",
+      "canonicalAnswer": "5544120043268887",
+      "acceptedAnswers": [
+        "5544120043268887"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Is there another name on the card beside Brian Troy? A middle name or initial?",
+      "evidenceStartTime": 469.08,
+      "evidenceEndTime": 477.26,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"5544120043268887\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "t card type: Mastercard Credit card number: 8……… Name: Brian 9………. Troy Additional fees: extra charge for 10……….",
+      "answerRaw": "SEBASTIAN",
+      "canonicalAnswer": "SEBASTIAN",
+      "acceptedAnswers": [
+        "SEBASTIAN"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, Sebastian. I will spell it for you. S-E-B-A-S-T-I-A-N.",
+      "evidenceStartTime": 477.26,
+      "evidenceEndTime": 483.45,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"SEBASTIAN\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "r of people: 1…….. Date: 2…….. Day of week: Friday Time: 6 – 10 p.m. Location: the 3……… Room Type of music 4……… FOOD Service option 5………. Flavour of cake: 6………. Message on cake: 7……… PAYMENT Reservation fee paid: $100 Credit card type: Mastercard Credit card number: 8……… Name: Brian 9………. Troy Additional fees: extra charg",
+      "answerRaw": "service",
+      "canonicalAnswer": "service",
+      "acceptedAnswers": [
+        "service"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "However, you need to be aware of an additional fee. For large groups, there is an extra charge which covers service, but I think that that's all for now.",
+      "evidenceStartTime": 488.28,
+      "evidenceEndTime": 504.23,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "đảo chiều thông tin bằng 'however'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"service\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "r questions 11–20 Questions 11–12 Choose the correct answer. 11 Joan normally gets up at A 5.30 a.m B 6.30 a.m C 7.30 a.m 12 Joan’s first task of the day is to A clean the horses. B organise her son. C do farm work. Questions 13–14 Complete the summary below Write ONE WORD AND/OR A NUMBER for each answer. Joan’s official",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "This week our slot is A Life in the Day of Joan Gilbert, local organiser for Riding for the Disabled.",
+      "evidenceStartTime": 593.0,
+      "evidenceEndTime": 600.74,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "11 Joan normally gets up at A 5.30 a.m B 6.30 a.m C 7.30 a.m 12 Joan’s first task of the day is to A clean the horses. B organise her son. C do farm work. Questions 13–14 Complete the summary below Write ONE WORD AND/OR A NUMBER for each answer. Joan’s official title in Riding for the Disabled (RDA) is chairperson. In her",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "This week our slot is A Life in the Day of Joan Gilbert, local organiser for Riding for the Disabled.",
+      "evidenceStartTime": 593.0,
+      "evidenceEndTime": 600.74,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "er local district there are at present twenty-two riders and 13…….. helpers on the volunteer list, out of whom 14……… come regularly. Questions 15–18 How much does Joan like doing each of the following activities? Choose the correct letter, A, B or C, next to questions 15 – 18. A She really likes it. B She doesn’t mind it.",
+      "answerRaw": "40",
+      "canonicalAnswer": "40",
+      "acceptedAnswers": [
+        "40"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "In our immediate district, we have had as many as 30 riders, but currently we've only got 22. The number of helpers who have volunteered is actually 40, but we can rely on 25 to come regularly to help in the different groups.",
+      "evidenceStartTime": 699.79,
+      "evidenceEndTime": 716.0,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"40\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "riders and 13…….. helpers on the volunteer list, out of whom 14……… come regularly. Questions 15–18 How much does Joan like doing each of the following activities? Choose the correct letter, A, B or C, next to questions 15 – 18. A She really likes it. B She doesn’t mind it. C She hates it. Activities 15 correspondence 16 f",
+      "answerRaw": "25",
+      "canonicalAnswer": "25",
+      "acceptedAnswers": [
+        "25"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "In our immediate district, we have had as many as 30 riders, but currently we've only got 22. The number of helpers who have volunteered is actually 40, but we can rely on 25 to come regularly to help in the different groups.",
+      "evidenceStartTime": 699.79,
+      "evidenceEndTime": 716.0,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"25\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "likes it. B She doesn’t mind it. C She hates it. Activities 15 correspondence 16 fund-raising 17 calling riders 18 organising accounts Questions 19 ,20 Choose TWO correct answers. 19-20 Joan says the TWO ways the RDA needs to improve are by A giving special training. B making fund-raising more effective. C opening more R",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "but like lots of shy people, I find the fundraising horrendous. Other regular RDA duties, such as ringing round the riders to fix times etc., is one of the pleasantest aspects of the work.",
+      "evidenceStartTime": 802.8,
+      "evidenceEndTime": 816.23,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "oesn’t mind it. C She hates it. Activities 15 correspondence 16 fund-raising 17 calling riders 18 organising accounts Questions 19 ,20 Choose TWO correct answers. 19-20 Joan says the TWO ways the RDA needs to improve are by A giving special training. B making fund-raising more effective. C opening more RDA centres. D prov",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "but like lots of shy people, I find the fundraising horrendous. Other regular RDA duties, such as ringing round the riders to fix times etc., is one of the pleasantest aspects of the work.",
+      "evidenceStartTime": 802.8,
+      "evidenceEndTime": 816.23,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "C She hates it. Activities 15 correspondence 16 fund-raising 17 calling riders 18 organising accounts Questions 19 ,20 Choose TWO correct answers. 19-20 Joan says the TWO ways the RDA needs to improve are by A giving special training. B making fund-raising more effective. C opening more RDA centres. D providing more helpe",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "but like lots of shy people, I find the fundraising horrendous. Other regular RDA duties, such as ringing round the riders to fix times etc., is one of the pleasantest aspects of the work.",
+      "evidenceStartTime": 802.8,
+      "evidenceEndTime": 816.23,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "tivities 15 correspondence 16 fund-raising 17 calling riders 18 organising accounts Questions 19 ,20 Choose TWO correct answers. 19-20 Joan says the TWO ways the RDA needs to improve are by A giving special training. B making fund-raising more effective. C opening more RDA centres. D providing more helpers. E recognising",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "but like lots of shy people, I find the fundraising horrendous. Other regular RDA duties, such as ringing round the riders to fix times etc., is one of the pleasantest aspects of the work.",
+      "evidenceStartTime": 802.8,
+      "evidenceEndTime": 816.23,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "nising accounts Questions 19 ,20 Choose TWO correct answers. 19-20 Joan says the TWO ways the RDA needs to improve are by A giving special training. B making fund-raising more effective. C opening more RDA centres. D providing more helpers. E recognising difficulties of disabled riders",
+      "answerRaw": "B, E",
+      "canonicalAnswer": "B, E",
+      "acceptedAnswers": [
+        "B",
+        "E"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t3-q19-20",
+        "questionNumbers": [
+          19,
+          20
+        ],
+        "poolAnswers": [
+          "B",
+          "E"
+        ]
+      },
+      "evidenceQuote": "In terms of the RDA organisation itself, I feel it works very well, but we're always striving to make it better. I wish, for example, our helpers and the organisers in the various centres could really rationalise the fundraising efforts,",
+      "evidenceStartTime": 859.0,
+      "evidenceEndTime": 875.9,
+      "paraphrases": [
+        {
+          "questionTerm": "improve",
+          "audioTerm": "better"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'improve' ↔ 'better'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "",
+      "answerRaw": "B, E",
+      "canonicalAnswer": "B, E",
+      "acceptedAnswers": [
+        "B",
+        "E"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t3-q19-20",
+        "questionNumbers": [
+          19,
+          20
+        ],
+        "poolAnswers": [
+          "B",
+          "E"
+        ]
+      },
+      "evidenceQuote": "And it also saddens me how unaware some of the stables can be about the difficulties faced by people who are disabled.",
+      "evidenceStartTime": 878.55,
+      "evidenceEndTime": 887.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "questions 21–30 Questions 21–22 Choose TWO correct answers. 21-22 Which TWO topics were the aims of the geography lesson related to? A global interdependency B manufacturing method C the environmental impact of trade D transport systems E the development of writing tools Questions 23–24 Choose TWO correct answers. 23-24 Whi",
+      "answerRaw": "A, D",
+      "canonicalAnswer": "A, D",
+      "acceptedAnswers": [
+        "A",
+        "D"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t3-q21-22",
+        "questionNumbers": [
+          21,
+          22
+        ],
+        "poolAnswers": [
+          "A",
+          "D"
+        ]
+      },
+      "evidenceQuote": "Anyway, are you okay to talk about the report we've got to write on the geography lesson we taught together?",
+      "evidenceStartTime": 1002.7,
+      "evidenceEndTime": 1009.99,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "",
+      "answerRaw": "A, D",
+      "canonicalAnswer": "A, D",
+      "acceptedAnswers": [
+        "A",
+        "D"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t3-q21-22",
+        "questionNumbers": [
+          21,
+          22
+        ],
+        "poolAnswers": [
+          "A",
+          "D"
+        ]
+      },
+      "evidenceQuote": "Anyway, are you okay to talk about the report we've got to write on the geography lesson we taught together?",
+      "evidenceStartTime": 1002.7,
+      "evidenceEndTime": 1009.99,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "of writing tools Questions 23–24 Choose TWO correct answers. 23-24 Which TWO problems do Dean and Hannah identify in their lesson? A the materials B the student grouping C the lesson structure D the teacher coordination E the timing Questions 25–30 Complete the flow - chart below. Choose SIX correct answers, A-H, next to que",
+      "answerRaw": "B, E",
+      "canonicalAnswer": "B, E",
+      "acceptedAnswers": [
+        "B",
+        "E"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t3-q23-24",
+        "questionNumbers": [
+          23,
+          24
+        ],
+        "poolAnswers": [
+          "B",
+          "E"
+        ]
+      },
+      "evidenceQuote": "We have to mention any problems we identified in our lesson when we taught it. So, any ideas?",
+      "evidenceStartTime": 1069.24,
+      "evidenceEndTime": 1075.49,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "",
+      "answerRaw": "B, E",
+      "canonicalAnswer": "B, E",
+      "acceptedAnswers": [
+        "B",
+        "E"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t3-q23-24",
+        "questionNumbers": [
+          23,
+          24
+        ],
+        "poolAnswers": [
+          "B",
+          "E"
+        ]
+      },
+      "evidenceQuote": "We have to mention any problems we identified in our lesson when we taught it. So, any ideas?",
+      "evidenceStartTime": 1069.24,
+      "evidenceEndTime": 1075.49,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "uss where the component materials come from ↓ Locate the top 25…….. on a world map ↓ Discuss the pros and cons of different 26……. ↓ In groups, discuss countries' possible 27…….. to the USA ↓ Complete a 28…….. about pencil distribute a within the USA. ↓ Share ideas about the 29…….. of pencils. ↓ Prepare a 30…….. A expo",
+      "answerRaw": "G producers",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G",
+        "G producers",
+        "producers"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And we got volunteers to come to the front and mark the location of those on a map of the world.",
+      "evidenceStartTime": 1212.55,
+      "evidenceEndTime": 1219.14,
+      "paraphrases": [
+        {
+          "questionTerm": "map",
+          "audioTerm": "location"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án G producers. Diễn đạt tương đương (paraphrase) giữa đề và audio: 'map' ↔ 'location'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "….. on a world map ↓ Discuss the pros and cons of different 26……. ↓ In groups, discuss countries' possible 27…….. to the USA ↓ Complete a 28…….. about pencil distribute a within the USA. ↓ Share ideas about the 29…….. of pencils. ↓ Prepare a 30…….. A export routes B future C talk D homework E worksheet F history G pro",
+      "answerRaw": "H methods",
+      "canonicalAnswer": "H",
+      "acceptedAnswers": [
+        "H",
+        "H methods",
+        "methods"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And after the break, they had to imagine they were pencil manufacturers in Chicago and fill in details on a worksheet about how they'd dispatch their pencils to different parts of the country.",
+      "evidenceStartTime": 1268.0,
+      "evidenceEndTime": 1280.12,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án H methods. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "of different 26……. ↓ In groups, discuss countries' possible 27…….. to the USA ↓ Complete a 28…….. about pencil distribute a within the USA. ↓ Share ideas about the 29…….. of pencils. ↓ Prepare a 30…….. A export routes B future C talk D homework E worksheet F history G producers H methods of transport",
+      "answerRaw": "A export routes",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A",
+        "A export routes",
+        "export routes"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And after the break, they had to imagine they were pencil manufacturers in Chicago and fill in details on a worksheet about how they'd dispatch their pencils to different parts of the country.",
+      "evidenceStartTime": 1268.0,
+      "evidenceEndTime": 1280.12,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án A export routes. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "discuss countries' possible 27…….. to the USA ↓ Complete a 28…….. about pencil distribute a within the USA. ↓ Share ideas about the 29…….. of pencils. ↓ Prepare a 30…….. A export routes B future C talk D homework E worksheet F history G producers H methods of transport",
+      "answerRaw": "E worksheet",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E worksheet",
+        "worksheet"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And after the break, they had to imagine they were pencil manufacturers in Chicago and fill in details on a worksheet about how they'd dispatch their pencils to different parts of the country.",
+      "evidenceStartTime": 1268.0,
+      "evidenceEndTime": 1280.12,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E worksheet. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "pencil distribute a within the USA. ↓ Share ideas about the 29…….. of pencils. ↓ Prepare a 30…….. A export routes B future C talk D homework E worksheet F history G producers H methods of transport",
+      "answerRaw": "B future",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B",
+        "B future",
+        "future"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And after the break, they had to imagine they were pencil manufacturers in Chicago and fill in details on a worksheet about how they'd dispatch their pencils to different parts of the country.",
+      "evidenceStartTime": 1268.0,
+      "evidenceEndTime": 1280.12,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án B future. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "USA. ↓ Share ideas about the 29…….. of pencils. ↓ Prepare a 30…….. A export routes B future C talk D homework E worksheet F history G producers H methods of transport",
+      "answerRaw": "C talk",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C",
+        "C talk",
+        "talk"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And after the break, they had to imagine they were pencil manufacturers in Chicago and fill in details on a worksheet about how they'd dispatch their pencils to different parts of the country.",
+      "evidenceStartTime": 1268.0,
+      "evidenceEndTime": 1280.12,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án C talk. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "",
+      "answerRaw": "cargo",
+      "canonicalAnswer": "cargo",
+      "acceptedAnswers": [
+        "cargo"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It was in the cargo of a ship that sank about 2,100 years ago.",
+      "evidenceStartTime": 1461.4,
+      "evidenceEndTime": 1466.1,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"cargo\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "ikythera, in Greece. It was wrongly thought to be a piece of 32……. . It was later found to be a mechanism that had broken into pieces. Equipment used for analysis of the mechanism “Dome” - produces photographs which make the 33…….. clearer “BladeRunner” - produces X-prays - originally used to identify 34…….. in engines De",
+      "answerRaw": "rock",
+      "canonicalAnswer": "rock",
+      "acceptedAnswers": [
+        "rock"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "One item was assumed to be a lump of rock. However, a few months later the object started splitting and a museum curator realised that it was actually something man-made,",
+      "evidenceStartTime": 1473.08,
+      "evidenceEndTime": 1485.91,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "đảo chiều thông tin bằng 'however'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"rock\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "f the mechanism “Dome” - produces photographs which make the 33…….. clearer “BladeRunner” - produces X-prays - originally used to identify 34…….. in engines Description The mechanism consisted of: - 30 or more gear wheels made of 35……….. - models of the sun, moon and planets - a framework made of 36………… How the mechanism",
+      "answerRaw": "inscriptions",
+      "canonicalAnswer": "inscriptions",
+      "acceptedAnswers": [
+        "inscriptions"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "This has made far more of the inscriptions on the mechanism legible, even though they're faded and worn.",
+      "evidenceStartTime": 1527.83,
+      "evidenceEndTime": 1535.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"inscriptions\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "ladeRunner” - produces X-prays - originally used to identify 34…….. in engines Description The mechanism consisted of: - 30 or more gear wheels made of 35……….. - models of the sun, moon and planets - a framework made of 36………… How the mechanism was used The operator turned a 37……… to move the gear wheels. The sun, moon an",
+      "answerRaw": "cracks",
+      "canonicalAnswer": "cracks",
+      "acceptedAnswers": [
+        "cracks"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The Blade Runner was originally designed to examine engines for cracks and it can work at an accuracy of less than a tenth of a millimetre.",
+      "evidenceStartTime": 1556.31,
+      "evidenceEndTime": 1565.0,
+      "paraphrases": [],
+      "distractors": [
+        "kế hoạch ban đầu ('originally'), sau đó đã thay đổi"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"cracks\". Lưu ý bẫy gây nhiễu (distractor): kế hoạch ban đầu ('originally'), sau đó đã thay đổi."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "The mechanism consisted of: - 30 or more gear wheels made of 35……….. - models of the sun, moon and planets - a framework made of 36………… How the mechanism was used The operator turned a 37……… to move the gear wheels. The sun, moon and planets could be moved into their correct positions for any date. Most surprisingly, the",
+      "answerRaw": "metal",
+      "canonicalAnswer": "metal",
+      "acceptedAnswers": [
+        "metal"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It consisted of at least 30 metal gear wheels, that is, wheels which interlocked with each other.",
+      "evidenceStartTime": 1573.07,
+      "evidenceEndTime": 1579.54,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"metal\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "- models of the sun, moon and planets - a framework made of 36………… How the mechanism was used The operator turned a 37……… to move the gear wheels. The sun, moon and planets could be moved into their correct positions for any date. Most surprisingly, the mechanism could calculate when an 38……. would occur. It may have bee",
+      "answerRaw": "wood",
+      "canonicalAnswer": "wood",
+      "acceptedAnswers": [
+        "wood"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The mechanism is thought to have been mounted in a frame for which wood was used.",
+      "evidenceStartTime": 1604.5,
+      "evidenceEndTime": 1611.45,
+      "paraphrases": [],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"wood\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "e of 36………… How the mechanism was used The operator turned a 37……… to move the gear wheels. The sun, moon and planets could be moved into their correct positions for any date. Most surprisingly, the mechanism could calculate when an 38……. would occur. It may have been used as a 39……… when planning festivals. Later use of",
+      "answerRaw": "handle",
+      "canonicalAnswer": "handle",
+      "acceptedAnswers": [
+        "handle"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The person using the device simply rotated a handle to operate the gear wheels.",
+      "evidenceStartTime": 1620.0,
+      "evidenceEndTime": 1624.88,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"handle\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "te. Most surprisingly, the mechanism could calculate when an 38……. would occur. It may have been used as a 39……… when planning festivals. Later use of similar technology 13th – 14th centuries: used for making 40…….. in Western Europe.",
+      "answerRaw": "eclipse",
+      "canonicalAnswer": "eclipse",
+      "acceptedAnswers": [
+        "eclipse"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Perhaps most astonishing of all, the mechanism also showed when an eclipse was going to take place.",
+      "evidenceStartTime": 1648.0,
+      "evidenceEndTime": 1654.67,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"eclipse\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "culate when an 38……. would occur. It may have been used as a 39……… when planning festivals. Later use of similar technology 13th – 14th centuries: used for making 40…….. in Western Europe.",
+      "answerRaw": "calendar",
+      "canonicalAnswer": "calendar",
+      "acceptedAnswers": [
+        "calendar"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The mechanism probably also helped in planning the timing of festivals, both agricultural and religious, by acting as a kind of calendar of events.",
+      "evidenceStartTime": 1663.09,
+      "evidenceEndTime": 1673.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"calendar\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "of similar technology 13th – 14th centuries: used for making 40…….. in Western Europe.",
+      "answerRaw": "clocks",
+      "canonicalAnswer": "clocks",
+      "acceptedAnswers": [
+        "clocks"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The ideas seem to have survived in some form, however, particularly in the Byzantine Empire of the Eastern Mediterranean. Around the 13th or 14th century, knowledge of the technology seems to have reached Western Europe and a large number of clocks were made,",
+      "evidenceStartTime": 1684.33,
+      "evidenceEndTime": 1700.59,
+      "paraphrases": [],
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"clocks\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 11.01,
+      "text": "IELTS Listening Version 58099 You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 11.01,
+      "endTime": 20.36,
+      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 20.36,
+      "endTime": 24.0,
+      "text": "All the recordings will be played once only.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 25.0,
+      "endTime": 32.05,
+      "text": "The test is in four sections. Write all your answers in the Listening Question Booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 32.05,
+      "endTime": 40.0,
+      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 42.0,
+      "endTime": 50.48,
+      "text": "Now turn to Section 1 on page 2 of your Question Booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 50.48,
+      "endTime": 73.82,
+      "text": "Section 1 You will hear a telephone conversation between a man who is planning a party for his wife and a woman who organizes special events at a restaurant.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 73.82,
+      "endTime": 83.34,
+      "text": "First, you have some time to look at questions 1 to 4 on page 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 83.34,
+      "endTime": 93.0,
+      "text": "You will see that there is an example that has been done for you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 93.0,
+      "endTime": 100.46,
+      "text": "On this occasion only, the conversation relating to this will be played first.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 100.46,
+      "endTime": 104.0,
+      "text": "Good afternoon. Good time restaurant.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 105.0,
+      "endTime": 109.26,
+      "text": "Hi. Is this Michelle? Yes, speaking. This is Brian Troy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 109.26,
+      "endTime": 114.97,
+      "text": "We spoke last week about planning a party to celebrate my wife's promotion.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 114.97,
+      "endTime": 123.27,
+      "text": "Well, I would like to go ahead with it, and I have a list of things that I would like to go through with you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 123.27,
+      "endTime": 127.0,
+      "text": "The reason for the event is his wife's promotion.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 127.0,
+      "endTime": 132.04,
+      "text": "So, promotion has been written in the space. Now we shall begin.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 132.04,
+      "endTime": 140.0,
+      "text": "You should answer the questions as you listen, because you will not hear the recording a second time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 141.0,
+      "endTime": 148.72,
+      "text": "Listen carefully and answer questions 1 to 4. Good afternoon. Good time restaurant. Hi.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 148.72,
+      "endTime": 153.34,
+      "text": "Is this Michelle? Yes, speaking. This is Brian Troy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 153.34,
+      "endTime": 160.0,
+      "text": "We spoke last week about planning a party to celebrate my wife's promotion.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 161.0,
+      "endTime": 168.3,
+      "text": "Well, I would like to go ahead with it, and I have a list of things that I would like to go through with you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 168.3,
+      "endTime": 169.37,
+      "text": "Yes, I remember.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 169.37,
+      "endTime": 176.0,
+      "text": "We'd spoken about a few dinner options, like a romantic dinner for two or a small group for dinner.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 177.0,
+      "endTime": 183.33,
+      "text": "Have you decided yet? Well, I think I would like to surprise my wife with a huge party.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 183.33,
+      "endTime": 192.28,
+      "text": "In fact, I've already started to contact a few of our friends and family, as well as some of the people my wife works with.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 192.28,
+      "endTime": 198.75,
+      "text": "All right. So, let's get the party details confirmed. So, how many guests would you like?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 198.75,
+      "endTime": 201.3,
+      "text": "Are you thinking of over a hundred?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 201.3,
+      "endTime": 209.15,
+      "text": "No, I was thinking of more like fifty, but then I realized that we have friends that are living out of town.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 209.15,
+      "endTime": 213.0,
+      "text": "So, let's say eighty, in case everyone wants to come.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 213.0,
+      "endTime": 218.65,
+      "text": "Okay. And do you still want October 6th? Actually, no. I need to change that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 218.65,
+      "endTime": 223.35,
+      "text": "My daughter can't make it then, because she has a piano recital.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 223.35,
+      "endTime": 229.0,
+      "text": "Would the 26th of September work for you? No problem. That date's still open.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 230.0,
+      "endTime": 235.9,
+      "text": "Now, do you realize that's not a Saturday? Are you okay with that? Yes, I am.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 235.9,
+      "endTime": 241.65,
+      "text": "When I look at my schedule, Friday is a better choice for all of us. Great.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 241.65,
+      "endTime": 248.62,
+      "text": "Now we need to decide on the times. How does six o'clock to ten o'clock sound? That's fine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 248.62,
+      "endTime": 254.29,
+      "text": "So, now let's talk about the room. I have several options that might work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 254.29,
+      "endTime": 261.11,
+      "text": "There's the Queen Room, the Royal Room, the Palace Room, and the... The King Room, right?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 261.11,
+      "endTime": 262.87,
+      "text": "I've been there before.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 262.87,
+      "endTime": 270.0,
+      "text": "Actually, we recently renovated that room, and I think that it would be great for your party.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 271.0,
+      "endTime": 276.0,
+      "text": "You'll be very happy with it. Shall I book it for you? Sure. That would be fine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 277.0,
+      "endTime": 280.88,
+      "text": "Have you planned on having music while you're eating?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 280.88,
+      "endTime": 286.81,
+      "text": "Um, I hadn't thought about it, but it would be nice. Well, you have some choices.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 286.81,
+      "endTime": 292.0,
+      "text": "We can arrange for a group to play jazz, or one to play the latest pop.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 292.0,
+      "endTime": 300.44,
+      "text": "I suspect my kids would prefer to have the pop music, but my wife is a jazz fan, so let's book that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 300.44,
+      "endTime": 308.21,
+      "text": "Okay, then. I'll book that today. They're very good, and they might even sing at your table.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 308.21,
+      "endTime": 308.72,
+      "text": "Great.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 308.72,
+      "endTime": 318.0,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions five to ten on page two.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 348.0,
+      "endTime": 353.0,
+      "text": "Now listen and answer questions five to ten. Okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 353.0,
+      "endTime": 360.0,
+      "text": "Now we need to talk about the type of service you want for the dinner.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 361.0,
+      "endTime": 368.0,
+      "text": "We have two options. A self-service buffet or table. Let's go with the last choice.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 368.0,
+      "endTime": 373.88,
+      "text": "Just so you know, the price is the same for either chicken or a vegetarian plate.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 1,
+      "startTime": 373.88,
+      "endTime": 379.47,
+      "text": "One last thing to decide on. Are you planning anything special for your wife?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 1,
+      "startTime": 379.47,
+      "endTime": 386.0,
+      "text": "Well, I was thinking that at eight o'clock or so, I would like to have a cake brought out.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 1,
+      "startTime": 386.0,
+      "endTime": 386.77,
+      "text": "Very nice.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 1,
+      "startTime": 386.77,
+      "endTime": 393.64,
+      "text": "And because you're making reservations for such a large group, the cake is complimentary.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 1,
+      "startTime": 393.64,
+      "endTime": 398.27,
+      "text": "What flavor would you like? Well, it would have to be lemon.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 1,
+      "startTime": 398.27,
+      "endTime": 405.14,
+      "text": "I really love chocolate, but it is her day, so let's go with her favorite. Good decision.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 1,
+      "startTime": 405.14,
+      "endTime": 408.0,
+      "text": "Now, let me tell you about the cakes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 1,
+      "startTime": 409.0,
+      "endTime": 415.86,
+      "text": "We have a square cake, which would easily serve all of your guests, or you could have two cheesecakes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 1,
+      "startTime": 415.86,
+      "endTime": 418.08,
+      "text": "They're really popular right now.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 1,
+      "startTime": 418.08,
+      "endTime": 424.0,
+      "text": "I prefer the first option, because I would like to have something special written on it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 1,
+      "startTime": 424.0,
+      "endTime": 428.17,
+      "text": "But let's keep it simple. How about congratulations? Okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 1,
+      "startTime": 428.17,
+      "endTime": 430.98,
+      "text": "I can have our baker take care of that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 1,
+      "startTime": 430.98,
+      "endTime": 437.31,
+      "text": "He's happy to show you what it would look like if you wish. Now, is there anything else?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 1,
+      "startTime": 437.31,
+      "endTime": 443.0,
+      "text": "No, I don't think so. I think that we have pretty well talked about everything.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 1,
+      "startTime": 444.0,
+      "endTime": 452.29,
+      "text": "So let's look after the reservation detail. I'll need to have a deposit of $50.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 1,
+      "startTime": 452.29,
+      "endTime": 460.37,
+      "text": "Let's make it for $100, and I'll put it on my MasterCard. Is that okay? Sure.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 1,
+      "startTime": 460.37,
+      "endTime": 464.04,
+      "text": "What's the 16-digit account number?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 1,
+      "startTime": 464.04,
+      "endTime": 469.08,
+      "text": "5544-1200-4326-8887, and it expires in November.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 1,
+      "startTime": 469.08,
+      "endTime": 477.26,
+      "text": "Is there another name on the card beside Brian Troy? A middle name or initial?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 1,
+      "startTime": 477.26,
+      "endTime": 483.45,
+      "text": "Yes, Sebastian. I will spell it for you. S-E-B-A-S-T-I-A-N.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 1,
+      "startTime": 483.45,
+      "endTime": 488.28,
+      "text": "Is there anything else? No, I think that's it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 1,
+      "startTime": 488.28,
+      "endTime": 493.63,
+      "text": "However, you need to be aware of an additional fee.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 1,
+      "startTime": 493.63,
+      "endTime": 504.23,
+      "text": "For large groups, there is an extra charge which covers service, but I think that that's all for now.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 1,
+      "startTime": 504.23,
+      "endTime": 510.0,
+      "text": "We look forward to having your celebration dinner here.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 1,
+      "startTime": 513.0,
+      "endTime": 541.63,
+      "text": "That is the end of Section 1.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 1,
+      "startTime": 541.63,
+      "endTime": 590.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 590.0,
+      "endTime": 590.43,
+      "text": "Now turn to Section 2 on page 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 590.43,
+      "endTime": 591.42,
+      "text": "Section 2 You will hear a radio talk on horse riding for disabled people.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 591.42,
+      "endTime": 592.31,
+      "text": "First, you have some time to look at questions 11 to 14 on page 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 592.31,
+      "endTime": 593.0,
+      "text": "Now listen carefully and answer questions 11 to 14.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 593.0,
+      "endTime": 600.74,
+      "text": "This week our slot is A Life in the Day of Joan Gilbert, local organiser for Riding for the Disabled.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 600.74,
+      "endTime": 604.03,
+      "text": "Joan, would you like to tell us about this?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 604.03,
+      "endTime": 612.84,
+      "text": "Well, I always have the very best intentions of starting the day at 5.30 to give the horses a really good muck out.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 612.84,
+      "endTime": 617.13,
+      "text": "But reality intervenes and I finally wake at about 6.30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 617.13,
+      "endTime": 628.0,
+      "text": "That probably still sounds very early to you, but for a farm worker, which is what my son is at the moment, that's cutting things pretty fine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 629.0,
+      "endTime": 638.8,
+      "text": "Once I've managed to get him safely on his way, at about 7am, I can start turning my attention to the other important tasks of the day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 638.8,
+      "endTime": 649.69,
+      "text": "For about 5 years, we've been taking overseas students from the International Centre at our local college, and I have to give them a proper breakfast.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 649.69,
+      "endTime": 658.33,
+      "text": "Most of our students used to be from the Middle East, but they're no longer coming, so we tend to have Malaysian girls,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 658.33,
+      "endTime": 668.0,
+      "text": "and they like to have a cooked breakfast, much more than any Europeans we've had, including me, and I don't have anything these days.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 669.0,
+      "endTime": 672.99,
+      "text": "After cooking, I finally get round to the poor horses.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 672.99,
+      "endTime": 682.46,
+      "text": "It's only after this that I can start thinking about what I regard as my most important task – work for Riding for the Disabled.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 682.46,
+      "endTime": 692.0,
+      "text": "I've been involved with this organisation, on and off, for over 20 years, but I've only recently taken on the job of chairperson.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 694.0,
+      "endTime": 699.79,
+      "text": "Most of the work seems more secretarial, but that's how charities get organised.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 699.79,
+      "endTime": 706.52,
+      "text": "In our immediate district, we have had as many as 30 riders, but currently we've only got 22.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 706.52,
+      "endTime": 716.0,
+      "text": "The number of helpers who have volunteered is actually 40, but we can rely on 25 to come regularly to help in the different groups.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 716.0,
+      "endTime": 737.75,
+      "text": "We now have four separate groups which cater for disabled children and adults from 6 to 40 years old.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 2,
+      "startTime": 737.75,
+      "endTime": 762.95,
+      "text": "As I say, I feel that although I no longer have any proper full-time paid employment, I do have a full and busy life.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 2,
+      "startTime": 762.95,
+      "endTime": 786.0,
+      "text": "I'm a housewife, which I don't mind because I don't really object to doing things like washing and cooking.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 2,
+      "startTime": 787.0,
+      "endTime": 793.6,
+      "text": "Then there's my own horses, which I adore – even the revolting stuff like cleaning out the stables.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 2,
+      "startTime": 793.6,
+      "endTime": 796.67,
+      "text": "The official RDA stuff is a mixed bag, really.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 2,
+      "startTime": 796.67,
+      "endTime": 802.8,
+      "text": "I don't have major problems with all the letter-writing and correspondence which it entails,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 2,
+      "startTime": 802.8,
+      "endTime": 807.0,
+      "text": "but like lots of shy people, I find the fundraising horrendous.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 2,
+      "startTime": 807.0,
+      "endTime": 816.23,
+      "text": "Other regular RDA duties, such as ringing round the riders to fix times etc., is one of the pleasantest aspects of the work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 2,
+      "startTime": 816.23,
+      "endTime": 822.11,
+      "text": "After all, that's why I'm involved with charity work – the contact with people.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 2,
+      "startTime": 822.11,
+      "endTime": 828.0,
+      "text": "My working day ends with the least enjoyable job of all – sorting the accounts.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 2,
+      "startTime": 830.0,
+      "endTime": 837.25,
+      "text": "I got involved with RDA because I've always loved horses and I can see disabled people gaining so much.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 2,
+      "startTime": 837.25,
+      "endTime": 845.27,
+      "text": "I know all the medical evidence that shows that it does wonders for muscle building and so on, which is important.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 2,
+      "startTime": 845.27,
+      "endTime": 858.0,
+      "text": "But from talking to the riders, they say it is the confidence they gain and also the opportunity to be part of a new and exciting environment, which gives them the greatest benefit.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 2,
+      "startTime": 859.0,
+      "endTime": 867.02,
+      "text": "In terms of the RDA organisation itself, I feel it works very well, but we're always striving to make it better.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 2,
+      "startTime": 867.02,
+      "endTime": 875.9,
+      "text": "I wish, for example, our helpers and the organisers in the various centres could really rationalise the fundraising efforts,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 2,
+      "startTime": 875.9,
+      "endTime": 878.55,
+      "text": "which sometimes are very inefficient.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 2,
+      "startTime": 878.55,
+      "endTime": 887.0,
+      "text": "And it also saddens me how unaware some of the stables can be about the difficulties faced by people who are disabled.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 2,
+      "startTime": 888.0,
+      "endTime": 895.13,
+      "text": "Anyway, I feel very privileged to work with our riders and to see such tangible benefits.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 2,
+      "startTime": 895.13,
+      "endTime": 902.66,
+      "text": "It sends me to sleep with a feeling that though the day has been hard, it has been worthwhile.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 2,
+      "startTime": 902.66,
+      "endTime": 909.0,
+      "text": "That is the end of Section 2. You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 3,
+      "startTime": 939.0,
+      "endTime": 945.1,
+      "text": "Now turn to Section 3 on page 5. Section 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 3,
+      "startTime": 945.1,
+      "endTime": 963.12,
+      "text": "You will hear two trainee teachers called Dean and Hannah talking about their recent teaching practice in an elementary school.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 3,
+      "startTime": 963.12,
+      "endTime": 972.48,
+      "text": "First, you have some time to look at questions 21 to 24 on page 5.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 3,
+      "startTime": 972.48,
+      "endTime": 979.71,
+      "text": "Now listen carefully and answer questions 21 to 24.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 979.71,
+      "endTime": 985.81,
+      "text": "Hi, Dean. Did you have a good weekend? Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 985.81,
+      "endTime": 994.46,
+      "text": "It was good to relax after a whole week of teaching practice.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 994.46,
+      "endTime": 1000.0,
+      "text": "I really enjoyed the experience though.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 1000.0,
+      "endTime": 1002.7,
+      "text": "Yes, so did I. And I think it went well.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 1002.7,
+      "endTime": 1009.99,
+      "text": "Anyway, are you okay to talk about the report we've got to write on the geography lesson we taught together?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 1009.99,
+      "endTime": 1016.34,
+      "text": "I was thinking we could make notes now and then divide the actual writing up between us. Sure.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 1016.34,
+      "endTime": 1020.46,
+      "text": "Good idea. Let's begin with our lesson aims, shall we? Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 1020.46,
+      "endTime": 1032.0,
+      "text": "Well, I know the main one was getting the class to think about how people in different parts of the world are connected to each other through the things they buy and sell.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 1032.0,
+      "endTime": 1032.24,
+      "text": "Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 1032.24,
+      "endTime": 1043.63,
+      "text": "We took that from the syllabus for Grade 4 and then we decided to use pencils as our example because they're relatively simple in design and everyone's used a pencil at some time or other.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 1043.63,
+      "endTime": 1046.0,
+      "text": "We should include that information too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 1046.0,
+      "endTime": 1046.4,
+      "text": "Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 1046.4,
+      "endTime": 1053.59,
+      "text": "And we also wanted to get the class thinking about how things are moved around the world in different ways,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 1053.59,
+      "endTime": 1058.02,
+      "text": "from the farms and the mines to the factories and then the stores.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 1058.02,
+      "endTime": 1064.27,
+      "text": "That wasn't in the core syllabus. I think we added that ourselves. Yes, I think you're right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 1064.27,
+      "endTime": 1069.24,
+      "text": "Okay. Then the last section of the report contains a post-lesson analysis.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 1069.24,
+      "endTime": 1075.49,
+      "text": "We have to mention any problems we identified in our lesson when we taught it. So, any ideas?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 1075.49,
+      "endTime": 1080.26,
+      "text": "Well, I know we were really satisfied with our handouts and worksheets.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 1080.26,
+      "endTime": 1084.69,
+      "text": "We both thought they'd been at just the right level for the class.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 1084.69,
+      "endTime": 1089.86,
+      "text": "And I don't know about you, but I think we worked well as a team. Absolutely.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1089.86,
+      "endTime": 1093.82,
+      "text": "Neither of us was too dominant and we supported each other.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1093.82,
+      "endTime": 1099.06,
+      "text": "Personally, the thing I think we didn't get right was the way we paced things.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1099.06,
+      "endTime": 1103.83,
+      "text": "Some things seemed to be rushed and others seemed to drag out too long.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1103.83,
+      "endTime": 1107.46,
+      "text": "I don't know how you feel about that. The same as you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1107.46,
+      "endTime": 1115.0,
+      "text": "If we did the same lesson again, I'd want to make some adjustments to that, but keep the same basic lesson plan.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1115.0,
+      "endTime": 1118.94,
+      "text": "Okay. We see eye to eye on that. But there's one other thing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1118.94,
+      "endTime": 1133.41,
+      "text": "At the time, I seem to remember we both thought that organizing the children in sets of six didn't work very well and that pairs would have been better for certain tasks, so that the shyer kids got more chance to contribute.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1133.41,
+      "endTime": 1138.0,
+      "text": "Yes, I remember that too. And we should put it into our report as well.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1141.0,
+      "endTime": 1154.54,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30 on page 6.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1154.54,
+      "endTime": 1159.93,
+      "text": "Now listen and answer questions 25 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1159.93,
+      "endTime": 1169.79,
+      "text": "Now, should we go over our lesson plan together before we write the report?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1169.79,
+      "endTime": 1173.47,
+      "text": "It seems ages ago now. Fine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1173.47,
+      "endTime": 1183.86,
+      "text": "Well, the whole lesson was based on the production and distribution of pencils.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 3,
+      "startTime": 1183.86,
+      "endTime": 1194.77,
+      "text": "First, we gave out the pencils and got the students to decide what they're made of.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 3,
+      "startTime": 1194.77,
+      "endTime": 1212.0,
+      "text": "Then when they'd come up with all five of the component materials, we talked about which countries produce most of these materials.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 3,
+      "startTime": 1212.0,
+      "endTime": 1212.55,
+      "text": "Oh, yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 3,
+      "startTime": 1212.55,
+      "endTime": 1219.14,
+      "text": "And we got volunteers to come to the front and mark the location of those on a map of the world.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 3,
+      "startTime": 1219.14,
+      "endTime": 1222.3,
+      "text": "I remember they were really keen to volunteer.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 3,
+      "startTime": 1222.3,
+      "endTime": 1226.49,
+      "text": "We had to stop them from calling the answers out loud. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 3,
+      "startTime": 1226.49,
+      "endTime": 1236.78,
+      "text": "Then we brainstormed all the different ways of getting goods from one place to another and what the advantages and disadvantages of each one would be.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 3,
+      "startTime": 1236.78,
+      "endTime": 1240.97,
+      "text": "I remember one girl talking about using horses. That's right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 3,
+      "startTime": 1240.97,
+      "endTime": 1245.91,
+      "text": "She seemed to be a bit stuck in the past. It was hard not to smile. Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 3,
+      "startTime": 1245.91,
+      "endTime": 1252.84,
+      "text": "After that, we put them in small groups, and each group represented each of the countries on the map.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 3,
+      "startTime": 1252.84,
+      "endTime": 1259.43,
+      "text": "They had to use their atlases to decide an itinerary for sending their raw materials to the USA,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 3,
+      "startTime": 1259.43,
+      "endTime": 1264.44,
+      "text": "specifying the different ports and places on the way there. That's right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 3,
+      "startTime": 1264.44,
+      "endTime": 1268.0,
+      "text": "And by the time they'd done that, it was break time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 3,
+      "startTime": 1268.0,
+      "endTime": 1280.12,
+      "text": "And after the break, they had to imagine they were pencil manufacturers in Chicago and fill in details on a worksheet about how they'd dispatch their pencils to different parts of the country.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 3,
+      "startTime": 1280.12,
+      "endTime": 1281.0,
+      "text": "Oh, yes. Okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 3,
+      "startTime": 1281.0,
+      "endTime": 1291.71,
+      "text": "And then we had a class discussion about whether people will still be using pencils in 2050, and whether the design of pencils is likely to change.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 3,
+      "startTime": 1291.71,
+      "endTime": 1301.84,
+      "text": "And to round the lesson off, the kids had to spend ten minutes planning a short presentation for another class about possible developments.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 3,
+      "startTime": 1301.84,
+      "endTime": 1303.0,
+      "text": "And that was it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 3,
+      "startTime": 1303.0,
+      "endTime": 1308.95,
+      "text": "Good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 3,
+      "startTime": 1308.95,
+      "endTime": 1341.1,
+      "text": "So I'll write up that part.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 3,
+      "startTime": 1341.1,
+      "endTime": 1375.64,
+      "text": "That is the end of Section 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 3,
+      "startTime": 1375.64,
+      "endTime": 1434.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 4,
+      "startTime": 1434.0,
+      "endTime": 1434.07,
+      "text": "Now turn to Section 4 on page 7.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 4,
+      "startTime": 1434.07,
+      "endTime": 1434.33,
+      "text": "Section 4 You will hear a university lecturer talking to students about the world's oldest mechanical computer,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 4,
+      "startTime": 1434.33,
+      "endTime": 1434.43,
+      "text": "which is called the Antikythera Mechanism.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 4,
+      "startTime": 1434.43,
+      "endTime": 1434.58,
+      "text": "First you have some time to look at questions 31 to 40 on page 7.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 4,
+      "startTime": 1434.58,
+      "endTime": 1434.7,
+      "text": "Now listen carefully and answer questions 31 to 40.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 4,
+      "startTime": 1434.7,
+      "endTime": 1435.0,
+      "text": "Today I'm going to talk about what is sometimes described as the world's oldest mechanical computer, the Antikythera Mechanism.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 4,
+      "startTime": 1434.0,
+      "endTime": 1443.11,
+      "text": "This device was able to calculate where the sun, moon and planets would be in the sky on any date in the past or future.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 1443.11,
+      "endTime": 1450.93,
+      "text": "It has transformed our understanding both of the world of ancient Greece and of the history of science.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 1450.93,
+      "endTime": 1461.4,
+      "text": "The mechanism was discovered in 1900 at the bottom of the sea off the Greek island of Antikythera, hence the name by which it's now known.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 4,
+      "startTime": 1461.4,
+      "endTime": 1466.1,
+      "text": "It was in the cargo of a ship that sank about 2,100 years ago.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 4,
+      "startTime": 1466.1,
+      "endTime": 1473.08,
+      "text": "Divers brought various items to the surface and they were taken to a museum for examination.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 4,
+      "startTime": 1473.08,
+      "endTime": 1476.27,
+      "text": "One item was assumed to be a lump of rock.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 4,
+      "startTime": 1476.27,
+      "endTime": 1485.91,
+      "text": "However, a few months later the object started splitting and a museum curator realised that it was actually something man-made,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 4,
+      "startTime": 1485.91,
+      "endTime": 1489.78,
+      "text": "covered with shells and other objects from the sea.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 4,
+      "startTime": 1489.78,
+      "endTime": 1499.49,
+      "text": "Further investigation revealed that it was in fact some sort of mechanism and they decided to call it the Antikythera Mechanism.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 4,
+      "startTime": 1499.49,
+      "endTime": 1507.0,
+      "text": "Although it was badly damaged, it had survived in three main parts and around 80 smaller fragments.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 4,
+      "startTime": 1507.0,
+      "endTime": 1519.28,
+      "text": "The Antikythera Mechanism has been studied a great deal since its discovery and particularly in recent years when highly sophisticated equipment has been available to analyse it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-193",
+      "part": 4,
+      "startTime": 1519.28,
+      "endTime": 1527.83,
+      "text": "One machine, called a dome, can surround a sample and take photographs with the light coming from slightly different angles.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-194",
+      "part": 4,
+      "startTime": 1527.83,
+      "endTime": 1535.0,
+      "text": "This has made far more of the inscriptions on the mechanism legible, even though they're faded and worn.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-195",
+      "part": 4,
+      "startTime": 1537.0,
+      "endTime": 1546.31,
+      "text": "Another state-of-the-art machine, the Blade Runner, has been used to take x-rays which show parts of the mechanism that would otherwise be invisible.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-196",
+      "part": 4,
+      "startTime": 1546.31,
+      "endTime": 1556.31,
+      "text": "Despite weighing nearly 8 tonnes, it was transported from its place of manufacture to Greece as the Antikythera Mechanism is too fragile to be moved from there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-197",
+      "part": 4,
+      "startTime": 1556.31,
+      "endTime": 1565.0,
+      "text": "The Blade Runner was originally designed to examine engines for cracks and it can work at an accuracy of less than a tenth of a millimetre.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-198",
+      "part": 4,
+      "startTime": 1566.0,
+      "endTime": 1573.07,
+      "text": "It seems the device was originally about 33 centimetres high, 17 centimetres wide and 9 centimetres thick.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-199",
+      "part": 4,
+      "startTime": 1573.07,
+      "endTime": 1579.54,
+      "text": "It consisted of at least 30 metal gear wheels, that is, wheels which interlocked with each other.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-200",
+      "part": 4,
+      "startTime": 1579.54,
+      "endTime": 1584.61,
+      "text": "The surfaces of the gear wheels were inscribed with the names of the months,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-201",
+      "part": 4,
+      "startTime": 1584.61,
+      "endTime": 1591.0,
+      "text": "explanations of how the different parts of the device were to be operated and other information.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-202",
+      "part": 4,
+      "startTime": 1593.0,
+      "endTime": 1604.5,
+      "text": "These gear wheels, in turn, operated small movable models of the Sun, Moon and the five planets that were known to the ancient Greeks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-203",
+      "part": 4,
+      "startTime": 1604.5,
+      "endTime": 1611.45,
+      "text": "The mechanism is thought to have been mounted in a frame for which wood was used.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-204",
+      "part": 4,
+      "startTime": 1611.45,
+      "endTime": 1619.0,
+      "text": "So what was the Antikythera Mechanism used for? It clearly had an astronomical function.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-205",
+      "part": 4,
+      "startTime": 1620.0,
+      "endTime": 1624.88,
+      "text": "The person using the device simply rotated a handle to operate the gear wheels.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-206",
+      "part": 4,
+      "startTime": 1624.88,
+      "endTime": 1637.73,
+      "text": "These engaged with each other to move the Sun, Moon and planets around the Earth to show how they would appear on whatever particular date the operator was interested in, which could be years into the future.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-207",
+      "part": 4,
+      "startTime": 1637.73,
+      "endTime": 1643.85,
+      "text": "Bearing in mind that the ancient Greeks believed the Sun and planets all revolved around the Earth,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-208",
+      "part": 4,
+      "startTime": 1643.85,
+      "endTime": 1647.0,
+      "text": "their movements are shown with remarkable accuracy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-209",
+      "part": 4,
+      "startTime": 1648.0,
+      "endTime": 1654.67,
+      "text": "Perhaps most astonishing of all, the mechanism also showed when an eclipse was going to take place.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-210",
+      "part": 4,
+      "startTime": 1654.67,
+      "endTime": 1663.09,
+      "text": "This was very important in the ancient world and being able to predict this accurately would have given the user great power.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-211",
+      "part": 4,
+      "startTime": 1663.09,
+      "endTime": 1673.0,
+      "text": "The mechanism probably also helped in planning the timing of festivals, both agricultural and religious, by acting as a kind of calendar of events.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-212",
+      "part": 4,
+      "startTime": 1675.0,
+      "endTime": 1684.33,
+      "text": "Surprisingly, to the best of our knowledge, no device equalled the complexity of the Antikythera Mechanism for at least a thousand years afterwards.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-213",
+      "part": 4,
+      "startTime": 1684.33,
+      "endTime": 1691.96,
+      "text": "The ideas seem to have survived in some form, however, particularly in the Byzantine Empire of the Eastern Mediterranean.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-214",
+      "part": 4,
+      "startTime": 1691.96,
+      "endTime": 1700.59,
+      "text": "Around the 13th or 14th century, knowledge of the technology seems to have reached Western Europe and a large number of clocks were made,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-215",
+      "part": 4,
+      "startTime": 1700.59,
+      "endTime": 1705.0,
+      "text": "providing astronomical information as well as showing the time of day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-216",
+      "part": 4,
+      "startTime": 1707.0,
+      "endTime": 1715.47,
+      "text": "It's hard to believe that nothing reached the sophistication of the Antikythera Mechanism for a thousand years.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-217",
+      "part": 4,
+      "startTime": 1715.47,
+      "endTime": 1724.55,
+      "text": "Yet that might well be the case and that has implications for our understanding of how scientific knowledge progresses.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-218",
+      "part": 4,
+      "startTime": 1724.55,
+      "endTime": 1727.0,
+      "text": "That is the end of section four.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-219",
+      "part": 4,
+      "startTime": 1727.0,
+      "endTime": 1729.02,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-220",
+      "part": 4,
+      "startTime": 1739.32,
+      "endTime": 1729.02,
+      "text": "That is the end of the listening test.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-221",
+      "part": 4,
+      "startTime": 1748.88,
+      "endTime": 1729.02,
+      "text": "You now have ten minutes to transfer your answers to the listening answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 24.0,
+      "text": "IELTS Listening Version 58099 You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 25.0,
+      "endTime": 50.48,
+      "text": "The test is in four sections. Write all your answers in the Listening Question Booklet. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to Section 1 on page 2 of your Question Booklet.",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 50.48,
+      "endTime": 83.34,
+      "text": "Section 1 You will hear a telephone conversation between a man who is planning a party for his wife and a woman who organizes special events at a restaurant. First, you have some time to look at questions 1 to 4 on page 2.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 83.34,
+      "endTime": 104.0,
+      "text": "You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first. Good afternoon. Good time restaurant.",
+      "segmentIds": [
+        "seg-009",
+        "seg-010",
+        "seg-011"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 105.0,
+      "endTime": 127.0,
+      "text": "Hi. Is this Michelle? Yes, speaking. This is Brian Troy. We spoke last week about planning a party to celebrate my wife's promotion. Well, I would like to go ahead with it, and I have a list of things that I would like to go through with you. The reason for the event is his wife's promotion.",
+      "segmentIds": [
+        "seg-012",
+        "seg-013",
+        "seg-014",
+        "seg-015"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 127.0,
+      "endTime": 148.72,
+      "text": "So, promotion has been written in the space. Now we shall begin. You should answer the questions as you listen, because you will not hear the recording a second time. Listen carefully and answer questions 1 to 4. Good afternoon. Good time restaurant. Hi.",
+      "segmentIds": [
+        "seg-016",
+        "seg-017",
+        "seg-018"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 148.72,
+      "endTime": 169.37,
+      "text": "Is this Michelle? Yes, speaking. This is Brian Troy. We spoke last week about planning a party to celebrate my wife's promotion. Well, I would like to go ahead with it, and I have a list of things that I would like to go through with you. Yes, I remember.",
+      "segmentIds": [
+        "seg-019",
+        "seg-020",
+        "seg-021",
+        "seg-022"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 169.37,
+      "endTime": 192.28,
+      "text": "We'd spoken about a few dinner options, like a romantic dinner for two or a small group for dinner. Have you decided yet? Well, I think I would like to surprise my wife with a huge party. In fact, I've already started to contact a few of our friends and family, as well as some of the people my wife works with.",
+      "segmentIds": [
+        "seg-023",
+        "seg-024",
+        "seg-025"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 192.28,
+      "endTime": 213.0,
+      "text": "All right. So, let's get the party details confirmed. So, how many guests would you like? Are you thinking of over a hundred? No, I was thinking of more like fifty, but then I realized that we have friends that are living out of town. So, let's say eighty, in case everyone wants to come.",
+      "segmentIds": [
+        "seg-026",
+        "seg-027",
+        "seg-028",
+        "seg-029"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 213.0,
+      "endTime": 235.9,
+      "text": "Okay. And do you still want October 6th? Actually, no. I need to change that. My daughter can't make it then, because she has a piano recital. Would the 26th of September work for you? No problem. That date's still open. Now, do you realize that's not a Saturday? Are you okay with that? Yes, I am.",
+      "segmentIds": [
+        "seg-030",
+        "seg-031",
+        "seg-032",
+        "seg-033"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 235.9,
+      "endTime": 254.29,
+      "text": "When I look at my schedule, Friday is a better choice for all of us. Great. Now we need to decide on the times. How does six o'clock to ten o'clock sound? That's fine. So, now let's talk about the room. I have several options that might work.",
+      "segmentIds": [
+        "seg-034",
+        "seg-035",
+        "seg-036"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 254.29,
+      "endTime": 276.0,
+      "text": "There's the Queen Room, the Royal Room, the Palace Room, and the... The King Room, right? I've been there before. Actually, we recently renovated that room, and I think that it would be great for your party. You'll be very happy with it. Shall I book it for you? Sure. That would be fine.",
+      "segmentIds": [
+        "seg-037",
+        "seg-038",
+        "seg-039",
+        "seg-040"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 277.0,
+      "endTime": 300.44,
+      "text": "Have you planned on having music while you're eating? Um, I hadn't thought about it, but it would be nice. Well, you have some choices. We can arrange for a group to play jazz, or one to play the latest pop. I suspect my kids would prefer to have the pop music, but my wife is a jazz fan, so let's book that.",
+      "segmentIds": [
+        "seg-041",
+        "seg-042",
+        "seg-043",
+        "seg-044"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 300.44,
+      "endTime": 318.0,
+      "text": "Okay, then. I'll book that today. They're very good, and they might even sing at your table. Great. Before you hear the rest of the conversation, you have some time to look at questions five to ten on page two.",
+      "segmentIds": [
+        "seg-045",
+        "seg-046",
+        "seg-047"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 348.0,
+      "endTime": 368.0,
+      "text": "Now listen and answer questions five to ten. Okay. Now we need to talk about the type of service you want for the dinner. We have two options. A self-service buffet or table. Let's go with the last choice.",
+      "segmentIds": [
+        "seg-048",
+        "seg-049",
+        "seg-050"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 368.0,
+      "endTime": 386.77,
+      "text": "Just so you know, the price is the same for either chicken or a vegetarian plate. One last thing to decide on. Are you planning anything special for your wife? Well, I was thinking that at eight o'clock or so, I would like to have a cake brought out. Very nice.",
+      "segmentIds": [
+        "seg-051",
+        "seg-052",
+        "seg-053",
+        "seg-054"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 1,
+      "startTime": 386.77,
+      "endTime": 408.0,
+      "text": "And because you're making reservations for such a large group, the cake is complimentary. What flavor would you like? Well, it would have to be lemon. I really love chocolate, but it is her day, so let's go with her favorite. Good decision. Now, let me tell you about the cakes.",
+      "segmentIds": [
+        "seg-055",
+        "seg-056",
+        "seg-057",
+        "seg-058"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 1,
+      "startTime": 409.0,
+      "endTime": 430.98,
+      "text": "We have a square cake, which would easily serve all of your guests, or you could have two cheesecakes. They're really popular right now. I prefer the first option, because I would like to have something special written on it. But let's keep it simple. How about congratulations? Okay. I can have our baker take care of that.",
+      "segmentIds": [
+        "seg-059",
+        "seg-060",
+        "seg-061",
+        "seg-062",
+        "seg-063"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 1,
+      "startTime": 430.98,
+      "endTime": 452.29,
+      "text": "He's happy to show you what it would look like if you wish. Now, is there anything else? No, I don't think so. I think that we have pretty well talked about everything. So let's look after the reservation detail. I'll need to have a deposit of $50.",
+      "segmentIds": [
+        "seg-064",
+        "seg-065",
+        "seg-066"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 1,
+      "startTime": 452.29,
+      "endTime": 469.08,
+      "text": "Let's make it for $100, and I'll put it on my MasterCard. Is that okay? Sure. What's the 16-digit account number? 5544-1200-4326-8887, and it expires in November.",
+      "segmentIds": [
+        "seg-067",
+        "seg-068",
+        "seg-069"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-021",
+      "part": 1,
+      "startTime": 469.08,
+      "endTime": 488.28,
+      "text": "Is there another name on the card beside Brian Troy? A middle name or initial? Yes, Sebastian. I will spell it for you. S-E-B-A-S-T-I-A-N. Is there anything else? No, I think that's it.",
+      "segmentIds": [
+        "seg-070",
+        "seg-071",
+        "seg-072"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 1,
+      "startTime": 488.28,
+      "endTime": 510.0,
+      "text": "However, you need to be aware of an additional fee. For large groups, there is an extra charge which covers service, but I think that that's all for now. We look forward to having your celebration dinner here.",
+      "segmentIds": [
+        "seg-073",
+        "seg-074",
+        "seg-075"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-023",
+      "part": 1,
+      "startTime": 513.0,
+      "endTime": 541.63,
+      "text": "That is the end of Section 1.",
+      "segmentIds": [
+        "seg-076"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 1,
+      "startTime": 541.63,
+      "endTime": 590.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-077"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 590.0,
+      "endTime": 600.74,
+      "text": "Now turn to Section 2 on page 3. Section 2 You will hear a radio talk on horse riding for disabled people. First, you have some time to look at questions 11 to 14 on page 3. Now listen carefully and answer questions 11 to 14. This week our slot is A Life in the Day of Joan Gilbert, local organiser for Riding for the Disabled.",
+      "segmentIds": [
+        "seg-078",
+        "seg-079",
+        "seg-080",
+        "seg-081",
+        "seg-082"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 600.74,
+      "endTime": 617.13,
+      "text": "Joan, would you like to tell us about this? Well, I always have the very best intentions of starting the day at 5.30 to give the horses a really good muck out. But reality intervenes and I finally wake at about 6.30.",
+      "segmentIds": [
+        "seg-083",
+        "seg-084",
+        "seg-085"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 617.13,
+      "endTime": 649.69,
+      "text": "That probably still sounds very early to you, but for a farm worker, which is what my son is at the moment, that's cutting things pretty fine. Once I've managed to get him safely on his way, at about 7am, I can start turning my attention to the other important tasks of the day. For about 5 years, we've been taking overseas students from the International Centre at our local college, and I have to give them a proper breakfast.",
+      "segmentIds": [
+        "seg-086",
+        "seg-087",
+        "seg-088"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 649.69,
+      "endTime": 672.99,
+      "text": "Most of our students used to be from the Middle East, but they're no longer coming, so we tend to have Malaysian girls, and they like to have a cooked breakfast, much more than any Europeans we've had, including me, and I don't have anything these days. After cooking, I finally get round to the poor horses.",
+      "segmentIds": [
+        "seg-089",
+        "seg-090",
+        "seg-091"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 672.99,
+      "endTime": 699.79,
+      "text": "It's only after this that I can start thinking about what I regard as my most important task – work for Riding for the Disabled. I've been involved with this organisation, on and off, for over 20 years, but I've only recently taken on the job of chairperson. Most of the work seems more secretarial, but that's how charities get organised.",
+      "segmentIds": [
+        "seg-092",
+        "seg-093",
+        "seg-094"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 699.79,
+      "endTime": 737.75,
+      "text": "In our immediate district, we have had as many as 30 riders, but currently we've only got 22. The number of helpers who have volunteered is actually 40, but we can rely on 25 to come regularly to help in the different groups. We now have four separate groups which cater for disabled children and adults from 6 to 40 years old.",
+      "segmentIds": [
+        "seg-095",
+        "seg-096",
+        "seg-097"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 2,
+      "startTime": 737.75,
+      "endTime": 762.95,
+      "text": "As I say, I feel that although I no longer have any proper full-time paid employment, I do have a full and busy life.",
+      "segmentIds": [
+        "seg-098"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 2,
+      "startTime": 762.95,
+      "endTime": 796.67,
+      "text": "I'm a housewife, which I don't mind because I don't really object to doing things like washing and cooking. Then there's my own horses, which I adore – even the revolting stuff like cleaning out the stables. The official RDA stuff is a mixed bag, really.",
+      "segmentIds": [
+        "seg-099",
+        "seg-100",
+        "seg-101"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 2,
+      "startTime": 796.67,
+      "endTime": 816.23,
+      "text": "I don't have major problems with all the letter-writing and correspondence which it entails, but like lots of shy people, I find the fundraising horrendous. Other regular RDA duties, such as ringing round the riders to fix times etc., is one of the pleasantest aspects of the work.",
+      "segmentIds": [
+        "seg-102",
+        "seg-103",
+        "seg-104"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 2,
+      "startTime": 816.23,
+      "endTime": 837.25,
+      "text": "After all, that's why I'm involved with charity work – the contact with people. My working day ends with the least enjoyable job of all – sorting the accounts. I got involved with RDA because I've always loved horses and I can see disabled people gaining so much.",
+      "segmentIds": [
+        "seg-105",
+        "seg-106",
+        "seg-107"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 2,
+      "startTime": 837.25,
+      "endTime": 867.02,
+      "text": "I know all the medical evidence that shows that it does wonders for muscle building and so on, which is important. But from talking to the riders, they say it is the confidence they gain and also the opportunity to be part of a new and exciting environment, which gives them the greatest benefit. In terms of the RDA organisation itself, I feel it works very well, but we're always striving to make it better.",
+      "segmentIds": [
+        "seg-108",
+        "seg-109",
+        "seg-110"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 2,
+      "startTime": 867.02,
+      "endTime": 887.0,
+      "text": "I wish, for example, our helpers and the organisers in the various centres could really rationalise the fundraising efforts, which sometimes are very inefficient. And it also saddens me how unaware some of the stables can be about the difficulties faced by people who are disabled.",
+      "segmentIds": [
+        "seg-111",
+        "seg-112",
+        "seg-113"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 2,
+      "startTime": 888.0,
+      "endTime": 909.0,
+      "text": "Anyway, I feel very privileged to work with our riders and to see such tangible benefits. It sends me to sleep with a feeling that though the day has been hard, it has been worthwhile. That is the end of Section 2. You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-114",
+        "seg-115",
+        "seg-116"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 939.0,
+      "endTime": 972.48,
+      "text": "Now turn to Section 3 on page 5. Section 3. You will hear two trainee teachers called Dean and Hannah talking about their recent teaching practice in an elementary school. First, you have some time to look at questions 21 to 24 on page 5.",
+      "segmentIds": [
+        "seg-117",
+        "seg-118",
+        "seg-119"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 972.48,
+      "endTime": 994.46,
+      "text": "Now listen carefully and answer questions 21 to 24. Hi, Dean. Did you have a good weekend? Yes. It was good to relax after a whole week of teaching practice.",
+      "segmentIds": [
+        "seg-120",
+        "seg-121",
+        "seg-122"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 994.46,
+      "endTime": 1016.34,
+      "text": "I really enjoyed the experience though. Yes, so did I. And I think it went well. Anyway, are you okay to talk about the report we've got to write on the geography lesson we taught together? I was thinking we could make notes now and then divide the actual writing up between us. Sure.",
+      "segmentIds": [
+        "seg-123",
+        "seg-124",
+        "seg-125",
+        "seg-126"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 3,
+      "startTime": 1016.34,
+      "endTime": 1032.24,
+      "text": "Good idea. Let's begin with our lesson aims, shall we? Right. Well, I know the main one was getting the class to think about how people in different parts of the world are connected to each other through the things they buy and sell. Yes.",
+      "segmentIds": [
+        "seg-127",
+        "seg-128",
+        "seg-129"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 1032.24,
+      "endTime": 1053.59,
+      "text": "We took that from the syllabus for Grade 4 and then we decided to use pencils as our example because they're relatively simple in design and everyone's used a pencil at some time or other. We should include that information too. Right. And we also wanted to get the class thinking about how things are moved around the world in different ways,",
+      "segmentIds": [
+        "seg-130",
+        "seg-131",
+        "seg-132",
+        "seg-133"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 1053.59,
+      "endTime": 1075.49,
+      "text": "from the farms and the mines to the factories and then the stores. That wasn't in the core syllabus. I think we added that ourselves. Yes, I think you're right. Okay. Then the last section of the report contains a post-lesson analysis. We have to mention any problems we identified in our lesson when we taught it. So, any ideas?",
+      "segmentIds": [
+        "seg-134",
+        "seg-135",
+        "seg-136",
+        "seg-137"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 1075.49,
+      "endTime": 1099.06,
+      "text": "Well, I know we were really satisfied with our handouts and worksheets. We both thought they'd been at just the right level for the class. And I don't know about you, but I think we worked well as a team. Absolutely. Neither of us was too dominant and we supported each other. Personally, the thing I think we didn't get right was the way we paced things.",
+      "segmentIds": [
+        "seg-138",
+        "seg-139",
+        "seg-140",
+        "seg-141",
+        "seg-142"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1099.06,
+      "endTime": 1118.94,
+      "text": "Some things seemed to be rushed and others seemed to drag out too long. I don't know how you feel about that. The same as you. If we did the same lesson again, I'd want to make some adjustments to that, but keep the same basic lesson plan. Okay. We see eye to eye on that. But there's one other thing.",
+      "segmentIds": [
+        "seg-143",
+        "seg-144",
+        "seg-145",
+        "seg-146"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1118.94,
+      "endTime": 1154.54,
+      "text": "At the time, I seem to remember we both thought that organizing the children in sets of six didn't work very well and that pairs would have been better for certain tasks, so that the shyer kids got more chance to contribute. Yes, I remember that too. And we should put it into our report as well. Before you hear the rest of the discussion, you have some time to look at questions 25 to 30 on page 6.",
+      "segmentIds": [
+        "seg-147",
+        "seg-148",
+        "seg-149"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1154.54,
+      "endTime": 1173.47,
+      "text": "Now listen and answer questions 25 to 30. Now, should we go over our lesson plan together before we write the report? It seems ages ago now. Fine.",
+      "segmentIds": [
+        "seg-150",
+        "seg-151",
+        "seg-152"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 3,
+      "startTime": 1173.47,
+      "endTime": 1212.0,
+      "text": "Well, the whole lesson was based on the production and distribution of pencils. First, we gave out the pencils and got the students to decide what they're made of. Then when they'd come up with all five of the component materials, we talked about which countries produce most of these materials.",
+      "segmentIds": [
+        "seg-153",
+        "seg-154",
+        "seg-155"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-049",
+      "part": 3,
+      "startTime": 1212.0,
+      "endTime": 1226.49,
+      "text": "Oh, yes. And we got volunteers to come to the front and mark the location of those on a map of the world. I remember they were really keen to volunteer. We had to stop them from calling the answers out loud. Right.",
+      "segmentIds": [
+        "seg-156",
+        "seg-157",
+        "seg-158",
+        "seg-159"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-050",
+      "part": 3,
+      "startTime": 1226.49,
+      "endTime": 1245.91,
+      "text": "Then we brainstormed all the different ways of getting goods from one place to another and what the advantages and disadvantages of each one would be. I remember one girl talking about using horses. That's right. She seemed to be a bit stuck in the past. It was hard not to smile. Yes.",
+      "segmentIds": [
+        "seg-160",
+        "seg-161",
+        "seg-162"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-051",
+      "part": 3,
+      "startTime": 1245.91,
+      "endTime": 1268.0,
+      "text": "After that, we put them in small groups, and each group represented each of the countries on the map. They had to use their atlases to decide an itinerary for sending their raw materials to the USA, specifying the different ports and places on the way there. That's right. And by the time they'd done that, it was break time.",
+      "segmentIds": [
+        "seg-163",
+        "seg-164",
+        "seg-165",
+        "seg-166"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-052",
+      "part": 3,
+      "startTime": 1268.0,
+      "endTime": 1291.71,
+      "text": "And after the break, they had to imagine they were pencil manufacturers in Chicago and fill in details on a worksheet about how they'd dispatch their pencils to different parts of the country. Oh, yes. Okay. And then we had a class discussion about whether people will still be using pencils in 2050, and whether the design of pencils is likely to change.",
+      "segmentIds": [
+        "seg-167",
+        "seg-168",
+        "seg-169"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-053",
+      "part": 3,
+      "startTime": 1291.71,
+      "endTime": 1308.95,
+      "text": "And to round the lesson off, the kids had to spend ten minutes planning a short presentation for another class about possible developments. And that was it. Good.",
+      "segmentIds": [
+        "seg-170",
+        "seg-171",
+        "seg-172"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-054",
+      "part": 3,
+      "startTime": 1308.95,
+      "endTime": 1341.1,
+      "text": "So I'll write up that part.",
+      "segmentIds": [
+        "seg-173"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-055",
+      "part": 3,
+      "startTime": 1341.1,
+      "endTime": 1375.64,
+      "text": "That is the end of Section 3.",
+      "segmentIds": [
+        "seg-174"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-056",
+      "part": 3,
+      "startTime": 1375.64,
+      "endTime": 1434.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-175"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-057",
+      "part": 4,
+      "startTime": 1434.0,
+      "endTime": 1434.7,
+      "text": "Now turn to Section 4 on page 7. Section 4 You will hear a university lecturer talking to students about the world's oldest mechanical computer, which is called the Antikythera Mechanism. First you have some time to look at questions 31 to 40 on page 7. Now listen carefully and answer questions 31 to 40.",
+      "segmentIds": [
+        "seg-176",
+        "seg-177",
+        "seg-178",
+        "seg-179",
+        "seg-180"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-058",
+      "part": 4,
+      "startTime": 1434.7,
+      "endTime": 1450.93,
+      "text": "Today I'm going to talk about what is sometimes described as the world's oldest mechanical computer, the Antikythera Mechanism. This device was able to calculate where the sun, moon and planets would be in the sky on any date in the past or future. It has transformed our understanding both of the world of ancient Greece and of the history of science.",
+      "segmentIds": [
+        "seg-181",
+        "seg-182",
+        "seg-183"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-059",
+      "part": 4,
+      "startTime": 1450.93,
+      "endTime": 1473.08,
+      "text": "The mechanism was discovered in 1900 at the bottom of the sea off the Greek island of Antikythera, hence the name by which it's now known. It was in the cargo of a ship that sank about 2,100 years ago. Divers brought various items to the surface and they were taken to a museum for examination.",
+      "segmentIds": [
+        "seg-184",
+        "seg-185",
+        "seg-186"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-060",
+      "part": 4,
+      "startTime": 1473.08,
+      "endTime": 1489.78,
+      "text": "One item was assumed to be a lump of rock. However, a few months later the object started splitting and a museum curator realised that it was actually something man-made, covered with shells and other objects from the sea.",
+      "segmentIds": [
+        "seg-187",
+        "seg-188",
+        "seg-189"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-061",
+      "part": 4,
+      "startTime": 1489.78,
+      "endTime": 1519.28,
+      "text": "Further investigation revealed that it was in fact some sort of mechanism and they decided to call it the Antikythera Mechanism. Although it was badly damaged, it had survived in three main parts and around 80 smaller fragments. The Antikythera Mechanism has been studied a great deal since its discovery and particularly in recent years when highly sophisticated equipment has been available to analyse it.",
+      "segmentIds": [
+        "seg-190",
+        "seg-191",
+        "seg-192"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-062",
+      "part": 4,
+      "startTime": 1519.28,
+      "endTime": 1546.31,
+      "text": "One machine, called a dome, can surround a sample and take photographs with the light coming from slightly different angles. This has made far more of the inscriptions on the mechanism legible, even though they're faded and worn. Another state-of-the-art machine, the Blade Runner, has been used to take x-rays which show parts of the mechanism that would otherwise be invisible.",
+      "segmentIds": [
+        "seg-193",
+        "seg-194",
+        "seg-195"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-063",
+      "part": 4,
+      "startTime": 1546.31,
+      "endTime": 1573.07,
+      "text": "Despite weighing nearly 8 tonnes, it was transported from its place of manufacture to Greece as the Antikythera Mechanism is too fragile to be moved from there. The Blade Runner was originally designed to examine engines for cracks and it can work at an accuracy of less than a tenth of a millimetre. It seems the device was originally about 33 centimetres high, 17 centimetres wide and 9 centimetres thick.",
+      "segmentIds": [
+        "seg-196",
+        "seg-197",
+        "seg-198"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-064",
+      "part": 4,
+      "startTime": 1573.07,
+      "endTime": 1591.0,
+      "text": "It consisted of at least 30 metal gear wheels, that is, wheels which interlocked with each other. The surfaces of the gear wheels were inscribed with the names of the months, explanations of how the different parts of the device were to be operated and other information.",
+      "segmentIds": [
+        "seg-199",
+        "seg-200",
+        "seg-201"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-065",
+      "part": 4,
+      "startTime": 1593.0,
+      "endTime": 1619.0,
+      "text": "These gear wheels, in turn, operated small movable models of the Sun, Moon and the five planets that were known to the ancient Greeks. The mechanism is thought to have been mounted in a frame for which wood was used. So what was the Antikythera Mechanism used for? It clearly had an astronomical function.",
+      "segmentIds": [
+        "seg-202",
+        "seg-203",
+        "seg-204"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-066",
+      "part": 4,
+      "startTime": 1620.0,
+      "endTime": 1643.85,
+      "text": "The person using the device simply rotated a handle to operate the gear wheels. These engaged with each other to move the Sun, Moon and planets around the Earth to show how they would appear on whatever particular date the operator was interested in, which could be years into the future. Bearing in mind that the ancient Greeks believed the Sun and planets all revolved around the Earth,",
+      "segmentIds": [
+        "seg-205",
+        "seg-206",
+        "seg-207"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-067",
+      "part": 4,
+      "startTime": 1643.85,
+      "endTime": 1663.09,
+      "text": "their movements are shown with remarkable accuracy. Perhaps most astonishing of all, the mechanism also showed when an eclipse was going to take place. This was very important in the ancient world and being able to predict this accurately would have given the user great power.",
+      "segmentIds": [
+        "seg-208",
+        "seg-209",
+        "seg-210"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-068",
+      "part": 4,
+      "startTime": 1663.09,
+      "endTime": 1691.96,
+      "text": "The mechanism probably also helped in planning the timing of festivals, both agricultural and religious, by acting as a kind of calendar of events. Surprisingly, to the best of our knowledge, no device equalled the complexity of the Antikythera Mechanism for at least a thousand years afterwards. The ideas seem to have survived in some form, however, particularly in the Byzantine Empire of the Eastern Mediterranean.",
+      "segmentIds": [
+        "seg-211",
+        "seg-212",
+        "seg-213"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-069",
+      "part": 4,
+      "startTime": 1691.96,
+      "endTime": 1715.47,
+      "text": "Around the 13th or 14th century, knowledge of the technology seems to have reached Western Europe and a large number of clocks were made, providing astronomical information as well as showing the time of day. It's hard to believe that nothing reached the sophistication of the Antikythera Mechanism for a thousand years.",
+      "segmentIds": [
+        "seg-214",
+        "seg-215",
+        "seg-216"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-070",
+      "part": 4,
+      "startTime": 1715.47,
+      "endTime": 1729.02,
+      "text": "Yet that might well be the case and that has implications for our understanding of how scientific knowledge progresses. That is the end of section four. You now have half a minute to check your answers. That is the end of the listening test. You now have ten minutes to transfer your answers to the listening answer sheet.",
+      "segmentIds": [
+        "seg-217",
+        "seg-218",
+        "seg-219",
+        "seg-220",
+        "seg-221"
+      ],
+      "timestampSource": "exact"
+    }
+  ]
+}

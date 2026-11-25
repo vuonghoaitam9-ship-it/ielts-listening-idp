@@ -1,0 +1,3293 @@
+{
+  "id": "vol-7-test-9",
+  "vol": 7,
+  "testNumber": 9,
+  "title": "Vol 7 — Test 9",
+  "pdfUrl": "./data/vol-7/test-9/exam.pdf",
+  "pdfPages": 7,
+  "questionPageRange": [
+    1,
+    7
+  ],
+  "audioUrl": "./data/vol-7/test-9/audio.mp3",
+  "audioDurationSec": 1453.58,
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 0.0,
+      "endTime": 286.0,
+      "topicHint": "You will hear a telephone conversation between a customer and a representative of an agency that arranges cleaning services for people's houses."
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 286.0,
+      "endTime": 853.0,
+      "topicHint": "You have some time to look at questions 11 to 16."
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 853.0,
+      "endTime": 1292.0,
+      "topicHint": "Section 3 (Questions 21-30)"
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1292.0,
+      "endTime": 1453.58,
+      "topicHint": "Section 4 (Questions 31-40)"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "Home Details Customers referred by: friend Location: in the 1 …….. Type of cleaning: regular Rooms: o two 2……… bedrooms (third bedroom used as 3…….. ) o kitchen/diner o 4………….. o family room o two bathrooms Questions 5–7 Choose the correct answer. 5 Which extra service does agency agree to provide? A changing the bed li",
+      "answerRaw": "Southwest",
+      "canonicalAnswer": "Southwest",
+      "acceptedAnswers": [
+        "Southwest"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Now, let's just get a bit of information about the house. How many bedrooms does it have?",
+      "evidenceStartTime": 82.54,
+      "evidenceEndTime": 89.58,
+      "paraphrases": [
+        {
+          "questionTerm": "details",
+          "audioTerm": "information"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Southwest\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'details' ↔ 'information'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "cation: in the 1 …….. Type of cleaning: regular Rooms: o two 2……… bedrooms (third bedroom used as 3…….. ) o kitchen/diner o 4………….. o family room o two bathrooms Questions 5–7 Choose the correct answer. 5 Which extra service does agency agree to provide? A changing the bed linen B washing the windows C cleaning the fridg",
+      "answerRaw": "double",
+      "canonicalAnswer": "double",
+      "acceptedAnswers": [
+        "double"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, one of the bedrooms is quite small, so it's probably really two double rooms.",
+      "evidenceStartTime": 92.43,
+      "evidenceEndTime": 99.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"double\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "g: regular Rooms: o two 2……… bedrooms (third bedroom used as 3…….. ) o kitchen/diner o 4………….. o family room o two bathrooms Questions 5–7 Choose the correct answer. 5 Which extra service does agency agree to provide? A changing the bed linen B washing the windows C cleaning the fridge 6 What will be cleaned more thoroug",
+      "answerRaw": "an office",
+      "canonicalAnswer": "an office",
+      "acceptedAnswers": [
+        "an office"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Right. We have the small bedroom set up as an office. Okay.",
+      "evidenceStartTime": 99.0,
+      "evidenceEndTime": 103.84,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"an office\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "…… bedrooms (third bedroom used as 3…….. ) o kitchen/diner o 4………….. o family room o two bathrooms Questions 5–7 Choose the correct answer. 5 Which extra service does agency agree to provide? A changing the bed linen B washing the windows C cleaning the fridge 6 What will be cleaned more thoroughly every three months? A",
+      "answerRaw": "lounge",
+      "canonicalAnswer": "lounge",
+      "acceptedAnswers": [
+        "lounge"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, actually, we don't have a separate dining room. It's a kitchen-diner. Then there's the lounge, and as well as that, we have a family room. Oh, and two bathrooms.",
+      "evidenceStartTime": 108.93,
+      "evidenceEndTime": 122.55,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"lounge\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "oom o two bathrooms Questions 5–7 Choose the correct answer. 5 Which extra service does agency agree to provide? A changing the bed linen B washing the windows C cleaning the fridge 6 What will be cleaned more thoroughly every three months? A the children’s room B the carpet C the bathroom 7 The woman would like the clea",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Now, what we do is we offer a basic cleaning service and then you let us know about anything extra you'd like cleaned.",
+      "evidenceStartTime": 182.0,
+      "evidenceEndTime": 190.46,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "ng the bed linen B washing the windows C cleaning the fridge 6 What will be cleaned more thoroughly every three months? A the children’s room B the carpet C the bathroom 7 The woman would like the cleaners to A do the washing B iron the clothes C put the clothes away Questions 8–10 Complete the form below Write NO MORE T",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But I would like to have the ironing done. That's fine. And would you like the washing put away in drawers or wardrobes? No, it's okay.",
+      "evidenceStartTime": 263.09,
+      "evidenceEndTime": 271.22,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "ee months? A the children’s room B the carpet C the bathroom 7 The woman would like the cleaners to A do the washing B iron the clothes C put the clothes away Questions 8–10 Complete the form below Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. HOMECARE CLEANING AGENCY Customer Details Name: Rose Kelly Add",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But I would like to have the ironing done. That's fine. And would you like the washing put away in drawers or wardrobes? No, it's okay.",
+      "evidenceStartTime": 263.09,
+      "evidenceEndTime": 271.22,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "LEANING AGENCY Customer Details Name: Rose Kelly Address: 48 8……… Road Mount Eden Day of job: 9………. Time: 9.30 am. Cost per hour: $25 Maximum length of job: 10………..",
+      "answerRaw": "AMYES",
+      "canonicalAnswer": "AMYES",
+      "acceptedAnswers": [
+        "AMYES"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "First of all, what's your full name? It's Rose Killey.",
+      "evidenceStartTime": 281.62,
+      "evidenceEndTime": 286.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"AMYES\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "ame: Rose Kelly Address: 48 8……… Road Mount Eden Day of job: 9………. Time: 9.30 am. Cost per hour: $25 Maximum length of job: 10………..",
+      "answerRaw": "Thursday",
+      "canonicalAnswer": "Thursday",
+      "acceptedAnswers": [
+        "Thursday"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "First of all, what's your full name? It's Rose Killey.",
+      "evidenceStartTime": 281.62,
+      "evidenceEndTime": 286.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Thursday\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "……. Time: 9.30 am. Cost per hour: $25 Maximum length of job: 10………..",
+      "answerRaw": "3 hours",
+      "canonicalAnswer": "3 hours",
+      "acceptedAnswers": [
+        "3 hours"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "First of all, what's your full name? It's Rose Killey.",
+      "evidenceStartTime": 281.62,
+      "evidenceEndTime": 286.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"3 hours\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "11–20 Questions 11–16 Choose the correct answer. Museum tour 11 What does the tour guide advise the visitors to do in the museum today? A see the most popular exhibits first B pay a brief visit to each gallery C go to the photography gallery last 12 The museum was designed by William Craven, who also designed A a textile",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "That was designed by another architect, but William Craven did also provide the plans for the town hall, which was built just a few years later.",
+      "evidenceStartTime": 517.12,
+      "evidenceEndTime": 526.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "f visit to each gallery C go to the photography gallery last 12 The museum was designed by William Craven, who also designed A a textile factory B a town hall C a railway station 13 The museum won an award for the preservation of the A staircase B floor C windows 14 Most of the money for the project came from A the public",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "That was designed by another architect, but William Craven did also provide the plans for the town hall, which was built just a few years later.",
+      "evidenceStartTime": 517.12,
+      "evidenceEndTime": 526.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "signed A a textile factory B a town hall C a railway station 13 The museum won an award for the preservation of the A staircase B floor C windows 14 Most of the money for the project came from A the public B the government C local business 15 Over the next five years, the museum will invest mainly in A restoring existing",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "However, we do also depend on donations from people living in the area for the ongoing maintenance of the building. So, how will the museum mainly be spending its money in the next five years?",
+      "evidenceStartTime": 580.54,
+      "evidenceEndTime": 591.37,
+      "paraphrases": [],
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "rd for the preservation of the A staircase B floor C windows 14 Most of the money for the project came from A the public B the government C local business 15 Over the next five years, the museum will invest mainly in A restoring existing collections. B developing educational programmes. C purchasing new objects for displa",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "However, we do also depend on donations from people living in the area for the ongoing maintenance of the building. So, how will the museum mainly be spending its money in the next five years?",
+      "evidenceStartTime": 580.54,
+      "evidenceEndTime": 591.37,
+      "paraphrases": [],
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "ect came from A the public B the government C local business 15 Over the next five years, the museum will invest mainly in A restoring existing collections. B developing educational programmes. C purchasing new objects for display. 16 Visitors who are interested in learning more about the exhibits should A visit the museu",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "However, we do also depend on donations from people living in the area for the ongoing maintenance of the building. So, how will the museum mainly be spending its money in the next five years?",
+      "evidenceStartTime": 580.54,
+      "evidenceEndTime": 591.37,
+      "paraphrases": [],
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "ducational programmes. C purchasing new objects for display. 16 Visitors who are interested in learning more about the exhibits should A visit the museum’s website B read the leaflet on display C attend the monthly lecture Questions 17–20 What information does the guide give about each of the following collections? Choose",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Of course, it would be wonderful to purchase new objects for the museum, but we simply don't have the space at the moment.",
+      "evidenceStartTime": 610.49,
+      "evidenceEndTime": 617.23,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "stions 17-20. Information Collections 18th-century paintings 17…….. Farnley collection 18…….. Kitchen appliances 19……. Fashion gallery 20……… A has been shown in different museums B consist of work by a local resident C has exhibits from various countries D in only on temporary display E shows things that are no longer com",
+      "answerRaw": "C exhibits various",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C",
+        "C exhibits various",
+        "exhibits various"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Of course, it would be wonderful to purchase new objects for the museum, but we simply don't have the space at the moment. Well, we do hope you enjoy your day today, but if you would like to learn more about our exhibits on display here,",
+      "evidenceStartTime": 610.49,
+      "evidenceEndTime": 623.53,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án C exhibits various. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "swers, A-F, next to questions 17-20. Information Collections 18th-century paintings 17…….. Farnley collection 18…….. Kitchen appliances 19……. Fashion gallery 20……… A has been shown in different museums B consist of work by a local resident C has exhibits from various countries D in only on temporary display E shows things",
+      "answerRaw": "B local resident",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B",
+        "B local resident",
+        "local resident"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, we're very well known for our collection of 18th century paintings, both oils and watercolours.",
+      "evidenceStartTime": 688.12,
+      "evidenceEndTime": 694.33,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án B local resident. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "aintings 17…….. Farnley collection 18…….. Kitchen appliances 19……. Fashion gallery 20……… A has been shown in different museums B consist of work by a local resident C has exhibits from various countries D in only on temporary display E shows things that are no longer common F is on loan from foreign museum",
+      "answerRaw": "E no longer common",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E no longer common",
+        "no longer common"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "He worked in a factory but spent his spare time drawing the buildings and urban landscape of the city and his work has now been collected and displayed here. On a more practical note, we have a display of kitchen appliances which might interest you.",
+      "evidenceStartTime": 718.18,
+      "evidenceEndTime": 734.89,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án E no longer common. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "y collection 18…….. Kitchen appliances 19……. Fashion gallery 20……… A has been shown in different museums B consist of work by a local resident C has exhibits from various countries D in only on temporary display E shows things that are no longer common F is on loan from foreign museum",
+      "answerRaw": "D temporary display",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D",
+        "D temporary display",
+        "temporary display"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "He worked in a factory but spent his spare time drawing the buildings and urban landscape of the city and his work has now been collected and displayed here. On a more practical note, we have a display of kitchen appliances which might interest you.",
+      "evidenceStartTime": 718.18,
+      "evidenceEndTime": 734.89,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án D temporary display. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "letters, A-G, next to questions 21-25. Analysis methods PEST 21…. Drill Down 22…… PMI 23…… Pareto 24…… SWOT 25…….. A it will save a lot of business time and effort B it is visualized C it does not fit our company D it will take too long E it is easy to use F it is difficult to apply G it is suitable to almost all sized co",
+      "answerRaw": "C it does not fit our company",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C",
+        "C it does not fit our company",
+        "it does not fit our company"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It was interesting and made us really focus on which tool was best to use when analysing a business.",
+      "evidenceStartTime": 861.98,
+      "evidenceEndTime": 869.11,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án C it does not fit our company. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "xt to questions 21-25. Analysis methods PEST 21…. Drill Down 22…… PMI 23…… Pareto 24…… SWOT 25…….. A it will save a lot of business time and effort B it is visualized C it does not fit our company D it will take too long E it is easy to use F it is difficult to apply G it is suitable to almost all sized companies Question",
+      "answerRaw": "D it will take too long",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D",
+        "D it will take too long",
+        "it will take too long"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It was interesting and made us really focus on which tool was best to use when analysing a business.",
+      "evidenceStartTime": 861.98,
+      "evidenceEndTime": 869.11,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án D it will take too long. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "stions 21-25. Analysis methods PEST 21…. Drill Down 22…… PMI 23…… Pareto 24…… SWOT 25…….. A it will save a lot of business time and effort B it is visualized C it does not fit our company D it will take too long E it is easy to use F it is difficult to apply G it is suitable to almost all sized companies Questions 26–30 C",
+      "answerRaw": "E it is easy to use",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E it is easy to use",
+        "it is easy to use"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Some of the other groups had studies for which it worked really well and they said it was easy to use.",
+      "evidenceStartTime": 884.0,
+      "evidenceEndTime": 890.32,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E it is easy to use. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": ". Analysis methods PEST 21…. Drill Down 22…… PMI 23…… Pareto 24…… SWOT 25…….. A it will save a lot of business time and effort B it is visualized C it does not fit our company D it will take too long E it is easy to use F it is difficult to apply G it is suitable to almost all sized companies Questions 26–30 Choose the co",
+      "answerRaw": "A it will save a lot of time",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A",
+        "A it will save a lot of time",
+        "it will save a lot of time"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And the company has quite a lot of staff who have previously worked for distribution companies, so the knowledge is already there.",
+      "evidenceStartTime": 1068.29,
+      "evidenceEndTime": 1074.61,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án A it will save a lot of time. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "methods PEST 21…. Drill Down 22…… PMI 23…… Pareto 24…… SWOT 25…….. A it will save a lot of business time and effort B it is visualized C it does not fit our company D it will take too long E it is easy to use F it is difficult to apply G it is suitable to almost all sized companies Questions 26–30 Choose the correct answ",
+      "answerRaw": "G suitable to most companies",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G",
+        "G suitable to most companies",
+        "suitable to most companies"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And the company has quite a lot of staff who have previously worked for distribution companies, so the knowledge is already there.",
+      "evidenceStartTime": 1068.29,
+      "evidenceEndTime": 1074.61,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án G suitable to most companies. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "l sized companies Questions 26–30 Choose the correct answer. 26 What does Frances consider as the best strength of the company? A reputation B experienced employees C management 27 What factor did Sam overlooked for the future growth of the company? A seek for cheaper suppliers B set up an overseas office C compete with m",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I did think you missed something quite pertinent to their future growth, however.",
+      "evidenceStartTime": 1083.86,
+      "evidenceEndTime": 1088.75,
+      "paraphrases": [],
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "e company? A reputation B experienced employees C management 27 What factor did Sam overlooked for the future growth of the company? A seek for cheaper suppliers B set up an overseas office C compete with major competitors 28 Which of the following can be the threat to a company? A increasing competition B outdated techno",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I did think you missed something quite pertinent to their future growth, however.",
+      "evidenceStartTime": 1083.86,
+      "evidenceEndTime": 1088.75,
+      "paraphrases": [],
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "B set up an overseas office C compete with major competitors 28 Which of the following can be the threat to a company? A increasing competition B outdated technology C new legislation 29 What has Sam learned from the research? A using better tools B cost of a success business C gap between reality and theory 30 What is th",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "With this law being introduced next year, they might need to find new ways of using their existing technology.",
+      "evidenceStartTime": 1126.32,
+      "evidenceEndTime": 1133.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "creasing competition B outdated technology C new legislation 29 What has Sam learned from the research? A using better tools B cost of a success business C gap between reality and theory 30 What is the professor’s suggestion for the report? A give a final determination B reorganize a clear structure C add more detailed in",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "With this law being introduced next year, they might need to find new ways of using their existing technology.",
+      "evidenceStartTime": 1126.32,
+      "evidenceEndTime": 1133.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "cost of a success business C gap between reality and theory 30 What is the professor’s suggestion for the report? A give a final determination B reorganize a clear structure C add more detailed information",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'm basically happy with your report. You've got the format correct with the necessary headings, etc., and you've got sufficient details under the different headings.",
+      "evidenceStartTime": 1161.88,
+      "evidenceEndTime": 1170.77,
+      "paraphrases": [
+        {
+          "questionTerm": "information",
+          "audioTerm": "details"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'information' ↔ 'details'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "urvey on Graduates Overview o interviews from which subject: 31…….. o two research methods: email questionnaires and 32……… Findings o 32% of students tended to acquire another 33……… o only 4% were unemployed o most of students work in the 34……. sector o majority are happy with: 35…….. Feedback Useful skills learned in col",
+      "answerRaw": "business management",
+      "canonicalAnswer": "business management",
+      "acceptedAnswers": [
+        "business management"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We focused on graduates from the course in Business Management, since this is one of the most popular and long-established courses.",
+      "evidenceStartTime": 1308.86,
+      "evidenceEndTime": 1316.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"business management\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "",
+      "answerRaw": "phone interviews",
+      "canonicalAnswer": "phone interviews",
+      "acceptedAnswers": [
+        "phone interviews"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "and then we selected a number of those who had replied, and with them we carried out phone interviews.",
+      "evidenceStartTime": 1324.86,
+      "evidenceEndTime": 1330.89,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"phone interviews\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "d 32……… Findings o 32% of students tended to acquire another 33……… o only 4% were unemployed o most of students work in the 34……. sector o majority are happy with: 35…….. Feedback Useful skills learned in college: o working as a 36 ……. member o personal organization o 37………. ability Useless skills: o 38…………(lack of traini",
+      "answerRaw": "qualification",
+      "canonicalAnswer": "qualification",
+      "acceptedAnswers": [
+        "qualification"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, I suppose our most surprising finding was just how many graduates had gone on to work towards an additional qualification,",
+      "evidenceStartTime": 1345.4,
+      "evidenceEndTime": 1353.91,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"qualification\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "……… o only 4% were unemployed o most of students work in the 34……. sector o majority are happy with: 35…….. Feedback Useful skills learned in college: o working as a 36 ……. member o personal organization o 37………. ability Useless skills: o 38…………(lack of training) o advice on 39 …………(unnecessary) o advice on finding a 40 …",
+      "answerRaw": "public",
+      "canonicalAnswer": "public",
+      "acceptedAnswers": [
+        "public"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "More than half of them were in the public sector, with a sizeable minority in the private sector, and a small number in the not-for-profit sector.",
+      "evidenceStartTime": 1366.0,
+      "evidenceEndTime": 1373.95,
+      "paraphrases": [
+        {
+          "questionTerm": "personal",
+          "audioTerm": "private"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"public\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'personal' ↔ 'private'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "students work in the 34……. sector o majority are happy with: 35…….. Feedback Useful skills learned in college: o working as a 36 ……. member o personal organization o 37………. ability Useless skills: o 38…………(lack of training) o advice on 39 …………(unnecessary) o advice on finding a 40 ………….(not enough)",
+      "answerRaw": "expectations",
+      "canonicalAnswer": "expectations",
+      "acceptedAnswers": [
+        "expectations"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The majority said that their expectations had been fulfilled.",
+      "evidenceStartTime": 1378.68,
+      "evidenceEndTime": 1382.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"expectations\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": ".. Feedback Useful skills learned in college: o working as a 36 ……. member o personal organization o 37………. ability Useless skills: o 38…………(lack of training) o advice on 39 …………(unnecessary) o advice on finding a 40 ………….(not enough)",
+      "answerRaw": "team",
+      "canonicalAnswer": "team",
+      "acceptedAnswers": [
+        "team"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They highlighted the fact that they developed the ability to work as members of a team.",
+      "evidenceStartTime": 1414.0,
+      "evidenceEndTime": 1418.65,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"team\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "lege: o working as a 36 ……. member o personal organization o 37………. ability Useless skills: o 38…………(lack of training) o advice on 39 …………(unnecessary) o advice on finding a 40 ………….(not enough)",
+      "answerRaw": "prsolving",
+      "canonicalAnswer": "problem-solving",
+      "acceptedAnswers": [
+        "problem-solving",
+        "problem solving"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And finally, a lot of them said that what they'd learned about approaches to problem-solving had been very useful.",
+      "evidenceStartTime": 1425.91,
+      "evidenceEndTime": 1432.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"problem-solving\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "r o personal organization o 37………. ability Useless skills: o 38…………(lack of training) o advice on 39 …………(unnecessary) o advice on finding a 40 ………….(not enough)",
+      "answerRaw": "presentations",
+      "canonicalAnswer": "presentations",
+      "acceptedAnswers": [
+        "presentations"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "To our surprise, the thing that was mentioned most often here was presentations.",
+      "evidenceStartTime": 1437.34,
+      "evidenceEndTime": 1441.38,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"presentations\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "ility Useless skills: o 38…………(lack of training) o advice on 39 …………(unnecessary) o advice on finding a 40 ………….(not enough)",
+      "answerRaw": "essay writing",
+      "canonicalAnswer": "essay writing",
+      "acceptedAnswers": [
+        "essay writing"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And the second thing that got very negative feedback was work on essay writing.",
+      "evidenceStartTime": 1454.89,
+      "evidenceEndTime": 1453.58,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"essay writing\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "ning) o advice on 39 …………(unnecessary) o advice on finding a 40 ………….(not enough)",
+      "answerRaw": "job",
+      "canonicalAnswer": "job",
+      "acceptedAnswers": [
+        "job"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And finally, some respondents said that they would have liked more guidance on the best way to go about looking for a job,",
+      "evidenceStartTime": 1466.0,
+      "evidenceEndTime": 1453.58,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"job\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 17.11,
+      "text": "You will hear a telephone conversation between a customer and a representative of an agency that arranges cleaning services for people's houses.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 17.11,
+      "endTime": 23.53,
+      "text": "First, you have some time to look at questions 1 to 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 23.53,
+      "endTime": 29.35,
+      "text": "Now listen carefully and answer questions 1 to 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 29.35,
+      "endTime": 35.41,
+      "text": "Good morning, Home Care Cleaning Agency. Oh, hello.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 35.41,
+      "endTime": 43.25,
+      "text": "I'd like to arrange to have some cleaning done, please. Certainly.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 43.25,
+      "endTime": 47.29,
+      "text": "Have you used our services before?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 47.29,
+      "endTime": 58.0,
+      "text": "No, I haven't, but a friend of mine has often used your company and suggested I phone you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 59.0,
+      "endTime": 59.98,
+      "text": "Oh, that's great.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 59.98,
+      "endTime": 65.71,
+      "text": "I'll just take some details from you and then you can let me know exactly what you would like done.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 65.71,
+      "endTime": 66.0,
+      "text": "Okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 66.0,
+      "endTime": 70.59,
+      "text": "First of all, what area are you in? I'm in the South West.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 70.59,
+      "endTime": 77.24,
+      "text": "Okay, and are you interested in having a regular cleaner or is this a one-off clean?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 77.24,
+      "endTime": 82.54,
+      "text": "No, I'd like to arrange to have someone come in once a week. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 82.54,
+      "endTime": 89.58,
+      "text": "Now, let's just get a bit of information about the house. How many bedrooms does it have?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 89.58,
+      "endTime": 92.43,
+      "text": "Three. Are they all double bedrooms?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 92.43,
+      "endTime": 99.0,
+      "text": "Well, one of the bedrooms is quite small, so it's probably really two double rooms.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 99.0,
+      "endTime": 103.84,
+      "text": "Right. We have the small bedroom set up as an office. Okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 103.84,
+      "endTime": 108.93,
+      "text": "And just a standard kitchen, lounge, dining room and bathroom?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 108.93,
+      "endTime": 115.08,
+      "text": "Well, actually, we don't have a separate dining room. It's a kitchen-diner.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 115.08,
+      "endTime": 122.55,
+      "text": "Then there's the lounge, and as well as that, we have a family room. Oh, and two bathrooms.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 122.55,
+      "endTime": 122.96,
+      "text": "Okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 122.96,
+      "endTime": 131.0,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions five to ten.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 172.0,
+      "endTime": 177.1,
+      "text": "Now listen and answer questions five to ten. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 177.1,
+      "endTime": 182.0,
+      "text": "That's all I need to know about the house itself.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 182.0,
+      "endTime": 190.46,
+      "text": "Now, what we do is we offer a basic cleaning service and then you let us know about anything extra you'd like cleaned.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 190.46,
+      "endTime": 193.83,
+      "text": "Right. And what does the basic service include?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 193.83,
+      "endTime": 200.0,
+      "text": "We clean all the floors and surfaces and do a basic clean in the kitchen and bathroom.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 201.0,
+      "endTime": 206.57,
+      "text": "Okay, that sounds good. And do you clean windows? Well, I'm afraid we don't do that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 206.57,
+      "endTime": 211.21,
+      "text": "Health and safety regulations. But we do offer other special services.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 211.21,
+      "endTime": 215.0,
+      "text": "We can put clean sheets on the beds, for example. Uh-huh.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 216.0,
+      "endTime": 219.91,
+      "text": "Or we can clean out your fridge. A lot of people like that done.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 219.91,
+      "endTime": 224.0,
+      "text": "I'm not so worried about that, but I would like the sheets changed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 224.0,
+      "endTime": 227.83,
+      "text": "That's no problem. We can do that. What about the carpet?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 227.83,
+      "endTime": 232.0,
+      "text": "As well as the standard vacuum, we can shampoo it if you want.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 232.0,
+      "endTime": 238.58,
+      "text": "Right. We've got young children, so it gets pretty dirty. I haven't had it done for six months.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 238.58,
+      "endTime": 241.56,
+      "text": "It really needs doing more often than that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 241.56,
+      "endTime": 247.93,
+      "text": "You can have it done every month if you like, but three months is what we usually recommend.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 247.93,
+      "endTime": 254.16,
+      "text": "That sounds good. The only other thing is the washing. Do you do laundry work? Yes, we do.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 254.16,
+      "endTime": 257.76,
+      "text": "That's no problem. What exactly would you like done?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 257.76,
+      "endTime": 263.09,
+      "text": "Well, it's no problem to put a load of washing in the machine. I can do that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 263.09,
+      "endTime": 266.0,
+      "text": "But I would like to have the ironing done.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 266.0,
+      "endTime": 271.22,
+      "text": "That's fine. And would you like the washing put away in drawers or wardrobes? No, it's okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 271.22,
+      "endTime": 274.0,
+      "text": "You can just leave everything out and fold it up.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 274.0,
+      "endTime": 281.62,
+      "text": "Okay, right. Now, I'll just set up an account for you and I'll take down some of your details.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 281.62,
+      "endTime": 286.0,
+      "text": "First of all, what's your full name? It's Rose Killey.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 2,
+      "startTime": 286.0,
+      "endTime": 458.0,
+      "text": "You have some time to look at questions 11 to 16.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 2,
+      "startTime": 458.0,
+      "endTime": 462.67,
+      "text": "Now listen carefully and answer questions 11 to 16. Okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 2,
+      "startTime": 462.67,
+      "endTime": 472.0,
+      "text": "Well, first of all, I'll give you a bit of background to the museum and then tell you about some of the galleries.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 2,
+      "startTime": 472.0,
+      "endTime": 478.54,
+      "text": "You probably won't have time to see everything today, so what I recommend you do is go to the Egyptian room first,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 2,
+      "startTime": 478.54,
+      "endTime": 484.62,
+      "text": "because it's everyone's favourite place and it gets very crowded with the school parties later in the day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 2,
+      "startTime": 484.62,
+      "endTime": 490.13,
+      "text": "Oh, and I should mention that the photography gallery is undergoing refurbishment at the moment,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 2,
+      "startTime": 490.13,
+      "endTime": 494.55,
+      "text": "so while that's definitely worth seeing, it'll have to wait for another time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 2,
+      "startTime": 494.55,
+      "endTime": 498.0,
+      "text": "Now, the actual museum building itself is quite interesting.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 2,
+      "startTime": 498.0,
+      "endTime": 502.87,
+      "text": "It was designed by a local architect called William Craven in the 19th century,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 2,
+      "startTime": 502.87,
+      "endTime": 510.15,
+      "text": "at a time when the city was developing rapidly, with new factories to cope with the expansion of the textile industry.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 2,
+      "startTime": 510.15,
+      "endTime": 517.12,
+      "text": "The museum's built in a very similar style to the railway station, which was constructed at around the same time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 2,
+      "startTime": 517.12,
+      "endTime": 526.0,
+      "text": "That was designed by another architect, but William Craven did also provide the plans for the town hall, which was built just a few years later.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 2,
+      "startTime": 527.0,
+      "endTime": 533.7,
+      "text": "Construction of the museum began in 1888 with a large team of carpenters, stonemasons and builders.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 2,
+      "startTime": 533.7,
+      "endTime": 537.56,
+      "text": "Then, in recent years, it's been extensively refurbished.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 2,
+      "startTime": 537.56,
+      "endTime": 542.37,
+      "text": "The lovely big windows have been retained to let the daylight flood in,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 2,
+      "startTime": 542.37,
+      "endTime": 549.0,
+      "text": "but the award-winning part of the project was the restoration of the area around the central hall.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 2,
+      "startTime": 550.0,
+      "endTime": 555.81,
+      "text": "In particular, the beautiful wrought iron staircase, which was brought back to its former glory.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 2,
+      "startTime": 555.81,
+      "endTime": 562.04,
+      "text": "Unfortunately, the museum's original tiled floor had to be replaced with new tiles of a similar design.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 2,
+      "startTime": 562.04,
+      "endTime": 569.0,
+      "text": "It was a very expensive project, and since we don't charge admission fees, we had to find other ways of funding it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 2,
+      "startTime": 570.0,
+      "endTime": 574.02,
+      "text": "We did get some money from the Department of Culture at national level,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 2,
+      "startTime": 574.02,
+      "endTime": 580.54,
+      "text": "but we had even more generous support from companies and industries here in the city who were our main benefactors.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 2,
+      "startTime": 580.54,
+      "endTime": 587.06,
+      "text": "However, we do also depend on donations from people living in the area for the ongoing maintenance of the building.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 2,
+      "startTime": 587.06,
+      "endTime": 591.37,
+      "text": "So, how will the museum mainly be spending its money in the next five years?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 2,
+      "startTime": 591.37,
+      "endTime": 598.0,
+      "text": "We already work with schools and colleges, helping people get a better understanding of all the creative disciplines.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 2,
+      "startTime": 599.0,
+      "endTime": 606.9,
+      "text": "We consider the most important part of our work the restoration of the valuable historical objects we are lucky enough to have in our position,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 2,
+      "startTime": 606.9,
+      "endTime": 610.49,
+      "text": "and this will continue to be where the most funding is allocated.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 2,
+      "startTime": 610.49,
+      "endTime": 617.23,
+      "text": "Of course, it would be wonderful to purchase new objects for the museum, but we simply don't have the space at the moment.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 2,
+      "startTime": 617.23,
+      "endTime": 623.53,
+      "text": "Well, we do hope you enjoy your day today, but if you would like to learn more about our exhibits on display here,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 623.53,
+      "endTime": 630.0,
+      "text": "I suggest you come to one of the Saturday morning lectures which are given every month by one of our team of experts.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 631.0,
+      "endTime": 647.79,
+      "text": "Of course, you can pick up leaflets about the exhibits in most of the galleries too, but you'll only get a basic introduction from those.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 647.79,
+      "endTime": 664.09,
+      "text": "We're also working to update our website so that it provides more background on the exhibits, but that's still at the planning stage.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 664.09,
+      "endTime": 675.98,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 17 to 20 on page 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 675.98,
+      "endTime": 681.0,
+      "text": "Now listen and answer questions 17 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 684.0,
+      "endTime": 688.12,
+      "text": "Okay, now let me just tell you a bit about what's on at the moment.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 688.12,
+      "endTime": 694.33,
+      "text": "Well, we're very well known for our collection of 18th century paintings, both oils and watercolours.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 694.33,
+      "endTime": 703.0,
+      "text": "Some of these are English landscapes and portraits, but we also have paintings by other European artists who were working during this period.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 704.0,
+      "endTime": 711.12,
+      "text": "If you're interested in art that's a bit nearer home, the Farnley Collection is a set of drawings by Paul Farnley.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 711.12,
+      "endTime": 718.18,
+      "text": "He was born in Ireland, but he came to work here in the city in the early 20th century and then made it his home.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 718.18,
+      "endTime": 728.0,
+      "text": "He worked in a factory but spent his spare time drawing the buildings and urban landscape of the city and his work has now been collected and displayed here.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 730.0,
+      "endTime": 734.89,
+      "text": "On a more practical note, we have a display of kitchen appliances which might interest you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 734.89,
+      "endTime": 739.08,
+      "text": "These are the sorts of things you wouldn't normally expect to see in a museum.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 739.08,
+      "endTime": 745.0,
+      "text": "There's an electric potato peeler from the 1970s which sold really well at the time, but no one's got one now.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 746.0,
+      "endTime": 753.43,
+      "text": "There are lots of other similar appliances which must have seemed like great ideas at the time, but which never took off.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 753.43,
+      "endTime": 756.44,
+      "text": "You might also like to visit the Fashion Gallery.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 756.44,
+      "endTime": 763.87,
+      "text": "This is an exhibition which is running for the next few weeks only and shows men's and women's fashion from 1900 to 2000,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 763.87,
+      "endTime": 767.0,
+      "text": "including some of the famous designers of the time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 768.0,
+      "endTime": 797.29,
+      "text": "Okay, so if anyone's got any questions...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 797.29,
+      "endTime": 818.0,
+      "text": "That is the end of Section 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 818.0,
+      "endTime": 853.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 3,
+      "startTime": 853.0,
+      "endTime": 853.61,
+      "text": "Now turn to Section 3. First, you have some time to look at questions 21 to 25.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 3,
+      "startTime": 853.61,
+      "endTime": 854.0,
+      "text": "Now listen carefully and answer questions 21 to 25.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 3,
+      "startTime": 853.0,
+      "endTime": 854.14,
+      "text": "Hi Francis, Sam.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 3,
+      "startTime": 854.14,
+      "endTime": 861.98,
+      "text": "So, how did you go with applying the different theoretical business tools for the report I asked you to write?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 3,
+      "startTime": 861.98,
+      "endTime": 869.11,
+      "text": "It was interesting and made us really focus on which tool was best to use when analysing a business.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 3,
+      "startTime": 869.11,
+      "endTime": 874.74,
+      "text": "Good. So, tell me what you found out. We liked the theory behind pest analysis.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 3,
+      "startTime": 874.74,
+      "endTime": 883.0,
+      "text": "That's political, economic, social and technological, although we're not sure if it was very applicable to our case.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 3,
+      "startTime": 884.0,
+      "endTime": 890.32,
+      "text": "Some of the other groups had studies for which it worked really well and they said it was easy to use.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 3,
+      "startTime": 890.32,
+      "endTime": 896.14,
+      "text": "But I felt it focused too much on the big picture and was unsuitable for our company. I agree.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 3,
+      "startTime": 896.14,
+      "endTime": 899.67,
+      "text": "On the other hand, I enjoyed using the drill-down method.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 3,
+      "startTime": 899.67,
+      "endTime": 906.36,
+      "text": "It was painstaking to do and we seemed to be working on it for ages, but the results were worth waiting for.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 3,
+      "startTime": 906.36,
+      "endTime": 910.57,
+      "text": "Yes. I liked the way it eventually broke down complex problems. Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 3,
+      "startTime": 910.57,
+      "endTime": 913.05,
+      "text": "I much preferred doing the PMI analysis.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 3,
+      "startTime": 913.05,
+      "endTime": 919.8,
+      "text": "It was so straightforward to break down into its three components – plus, minus and interesting implications.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 3,
+      "startTime": 919.8,
+      "endTime": 925.37,
+      "text": "You just needed to brainstorm these components and then write them up. Fast and effective.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 3,
+      "startTime": 925.37,
+      "endTime": 928.65,
+      "text": "And it didn't make your brain hurt doing it. I agree.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 3,
+      "startTime": 928.65,
+      "endTime": 933.05,
+      "text": "And you don't need any special training at all. Anyone can use it. Hmm.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 3,
+      "startTime": 933.05,
+      "endTime": 937.2,
+      "text": "So, was there any tool that you thought was superior to the others?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 3,
+      "startTime": 937.2,
+      "endTime": 944.0,
+      "text": "In my opinion, the one tool that is critical to business, especially for larger companies, is Pareto analysis.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 3,
+      "startTime": 944.0,
+      "endTime": 952.44,
+      "text": "If they applied Pareto analysis, they would see that by focusing on the critical 20% of their problems, they could generate 80% of the benefits.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 3,
+      "startTime": 952.44,
+      "endTime": 956.66,
+      "text": "This would allow them to work faster and it also reduces their workload.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 3,
+      "startTime": 956.66,
+      "endTime": 960.0,
+      "text": "It's all about finding out what their basic problems are.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 3,
+      "startTime": 960.0,
+      "endTime": 971.01,
+      "text": "I agree with Francis about Pareto, but my favourite was the SWOT analysis.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 3,
+      "startTime": 971.01,
+      "endTime": 991.1,
+      "text": "You know, looking at the company's strengths, weaknesses, opportunities and threats, as it can be used in so many different situations.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 3,
+      "startTime": 991.1,
+      "endTime": 1002.11,
+      "text": "It works in large and small companies and even down to departmental level.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 3,
+      "startTime": 1002.11,
+      "endTime": 1009.55,
+      "text": "It was great for our case study. Yes, that's true.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 1009.55,
+      "endTime": 1024.88,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 26 to 30 on page 6.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 1024.88,
+      "endTime": 1031.0,
+      "text": "Now listen and answer questions 26 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 1034.0,
+      "endTime": 1034.19,
+      "text": "OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 1034.19,
+      "endTime": 1040.05,
+      "text": "I've read your draft report, but can you tell me a bit more about that company you focused on?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 1040.05,
+      "endTime": 1048.59,
+      "text": "Well, the company we used in our study was a manufacturing company who have relied on distributors to take their product to the end user.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 1048.59,
+      "endTime": 1054.0,
+      "text": "We did some analysis examining the possibility of them distributing their own products.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 1054.0,
+      "endTime": 1056.11,
+      "text": "We initially looked at their strengths.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 1056.11,
+      "endTime": 1060.44,
+      "text": "The company, although it is small, is well known and has a very good reputation.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 1060.44,
+      "endTime": 1067.0,
+      "text": "The management are very committed to increasing the company profits and they are confident this move would be successful.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 1068.0,
+      "endTime": 1068.29,
+      "text": "Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 1068.29,
+      "endTime": 1074.61,
+      "text": "And the company has quite a lot of staff who have previously worked for distribution companies, so the knowledge is already there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 1074.61,
+      "endTime": 1080.0,
+      "text": "That was something we didn't expect to find and is probably going to help them the most to achieve their goals.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 1080.0,
+      "endTime": 1083.86,
+      "text": "I was quite impressed by some of the opportunities you detailed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 1083.86,
+      "endTime": 1088.75,
+      "text": "I did think you missed something quite pertinent to their future growth, however.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 1088.75,
+      "endTime": 1094.0,
+      "text": "What was that? You didn't consider the potential for establishing an offshore division.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 1095.0,
+      "endTime": 1099.43,
+      "text": "You talked about the company negotiating better terms with its suppliers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 1099.43,
+      "endTime": 1105.93,
+      "text": "Most of these are based abroad, and so if the company had a way of actually distributing the product there,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 1105.93,
+      "endTime": 1111.03,
+      "text": "this could be a tremendous opportunity and give them an edge over their competitors.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 1111.03,
+      "endTime": 1115.58,
+      "text": "That's a good point. So what did you think about the threats we identified?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 1115.58,
+      "endTime": 1117.34,
+      "text": "I thought you did a good job.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1117.34,
+      "endTime": 1126.32,
+      "text": "I was really pleased to see that you considered how the government's planned environmental policy could really affect the viability of this venture.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1126.32,
+      "endTime": 1133.0,
+      "text": "With this law being introduced next year, they might need to find new ways of using their existing technology.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1134.0,
+      "endTime": 1140.69,
+      "text": "It's easy to identify what your competitors are doing, but it's the bigger picture that often gets ignored.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1140.69,
+      "endTime": 1144.19,
+      "text": "So, Sam, what did you learn from this assignment? Heaps.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1144.19,
+      "endTime": 1150.0,
+      "text": "I guess I hadn't realised how much time it takes to ensure your company survives and profits.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1151.0,
+      "endTime": 1157.41,
+      "text": "It was great to study the different tools in books, but applying them in the real world was much harder than I thought.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1157.41,
+      "endTime": 1161.88,
+      "text": "It was a great learning experience. I'm glad I could make your assignment relevant.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1161.88,
+      "endTime": 1163.87,
+      "text": "I'm basically happy with your report.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1163.87,
+      "endTime": 1170.77,
+      "text": "You've got the format correct with the necessary headings, etc., and you've got sufficient details under the different headings.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1170.77,
+      "endTime": 1176.0,
+      "text": "Just remember to state whether or not you think the company should go ahead with the new venture.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1177.0,
+      "endTime": 1211.91,
+      "text": "But you've done a good job so far.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1211.91,
+      "endTime": 1241.69,
+      "text": "That is the end of Section 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1241.69,
+      "endTime": 1292.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 4,
+      "startTime": 1292.0,
+      "endTime": 1292.45,
+      "text": "Now turn to Section 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 4,
+      "startTime": 1292.45,
+      "endTime": 1293.97,
+      "text": "Section 4 First you have some time to look at questions 31 to 40 on page 8.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 4,
+      "startTime": 1293.97,
+      "endTime": 1295.0,
+      "text": "Now listen carefully and answer questions 31 to 40.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 4,
+      "startTime": 1295.0,
+      "endTime": 1300.84,
+      "text": "I'd like to give you a brief overview of a research project I've been working on as part of a team of four.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 4,
+      "startTime": 1300.84,
+      "endTime": 1308.86,
+      "text": "We wanted to get some data on what happens to students after they graduate, and also find out how useful they felt their degree course was to them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 4,
+      "startTime": 1308.86,
+      "endTime": 1316.0,
+      "text": "We focused on graduates from the course in Business Management, since this is one of the most popular and long-established courses.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 4,
+      "startTime": 1316.0,
+      "endTime": 1319.25,
+      "text": "We decided to use two different data-gathering methods.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 4,
+      "startTime": 1319.25,
+      "endTime": 1324.86,
+      "text": "We started off by emailing a brief questionnaire to all last year's graduates from that course,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 4,
+      "startTime": 1324.86,
+      "endTime": 1330.89,
+      "text": "and then we selected a number of those who had replied, and with them we carried out phone interviews.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 4,
+      "startTime": 1330.89,
+      "endTime": 1336.62,
+      "text": "We'd originally intended to use face-to-face interviews, but didn't feel that would be practical,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 4,
+      "startTime": 1336.62,
+      "endTime": 1343.0,
+      "text": "and in fact we found this method provided a combination of wide coverage and depth, which is what we wanted.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 4,
+      "startTime": 1344.0,
+      "endTime": 1345.4,
+      "text": "So, what did we find?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 4,
+      "startTime": 1345.4,
+      "endTime": 1353.91,
+      "text": "Well, I suppose our most surprising finding was just how many graduates had gone on to work towards an additional qualification,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 4,
+      "startTime": 1353.91,
+      "endTime": 1358.43,
+      "text": "rather than getting a job immediately. That was 32%, almost a third.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 4,
+      "startTime": 1358.43,
+      "endTime": 1365.0,
+      "text": "Of the rest, a very small proportion were unemployed, just 4%, and all the rest were in employment.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 4,
+      "startTime": 1366.0,
+      "endTime": 1373.95,
+      "text": "More than half of them were in the public sector, with a sizeable minority in the private sector, and a small number in the not-for-profit sector.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 4,
+      "startTime": 1373.95,
+      "endTime": 1378.68,
+      "text": "We were also interested in the attitudes of those who were employed towards their work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 4,
+      "startTime": 1378.68,
+      "endTime": 1382.0,
+      "text": "The majority said that their expectations had been fulfilled.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 4,
+      "startTime": 1382.0,
+      "endTime": 1388.94,
+      "text": "They were generally satisfied in terms of their salary, and also happy with their prospects for career development,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 4,
+      "startTime": 1388.94,
+      "endTime": 1394.61,
+      "text": "with very few of them feeling that they were in a dead-end job with no prospects of promotion.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 4,
+      "startTime": 1394.61,
+      "endTime": 1397.08,
+      "text": "For the second main part of our research,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 4,
+      "startTime": 1397.08,
+      "endTime": 1403.77,
+      "text": "we wanted to get some feedback from the graduates on how useful they felt their degree course had been to them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 4,
+      "startTime": 1403.77,
+      "endTime": 1409.62,
+      "text": "There were really three main skills which the graduates felt they'd gained from doing the course,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 4,
+      "startTime": 1409.62,
+      "endTime": 1413.0,
+      "text": "and identified as having been the most valuable to them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 4,
+      "startTime": 1414.0,
+      "endTime": 1418.65,
+      "text": "They highlighted the fact that they developed the ability to work as members of a team.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 4,
+      "startTime": 1418.65,
+      "endTime": 1425.91,
+      "text": "Another skill which they cited as valuable was that of personal organisation, things like meeting deadlines, time management, and so on.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 4,
+      "startTime": 1425.91,
+      "endTime": 1432.0,
+      "text": "And finally, a lot of them said that what they'd learned about approaches to problem-solving had been very useful.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 4,
+      "startTime": 1433.0,
+      "endTime": 1437.34,
+      "text": "We also asked them about which elements of the course had been least valuable to them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 4,
+      "startTime": 1437.34,
+      "endTime": 1441.38,
+      "text": "To our surprise, the thing that was mentioned most often here was presentations.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 1441.38,
+      "endTime": 1444.66,
+      "text": "They hadn't enjoyed having to give these as part of their course,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 1444.66,
+      "endTime": 1449.0,
+      "text": "nor had they found it useful having to listen to those given by their fellow students.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 4,
+      "startTime": 1450.0,
+      "endTime": 1453.58,
+      "text": "The reason given for this was that they felt they weren't trained how to do it properly.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 4,
+      "startTime": 1454.89,
+      "endTime": 1453.58,
+      "text": "And the second thing that got very negative feedback was work on essay writing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 4,
+      "startTime": 1459.28,
+      "endTime": 1453.58,
+      "text": "Most people thought this was unnecessary, and that it would have been better to work on report writing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 4,
+      "startTime": 1466.0,
+      "endTime": 1453.58,
+      "text": "And finally, some respondents said that they would have liked more guidance on the best way to go about looking for a job,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 4,
+      "startTime": 1474.57,
+      "endTime": 1453.58,
+      "text": "that the course could have done more to help them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 4,
+      "startTime": 1478.08,
+      "endTime": 1453.58,
+      "text": "Finally, we asked if there were any skills... That is the end of section four.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 4,
+      "startTime": 1483.56,
+      "endTime": 1453.58,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 4,
+      "startTime": 1517.0,
+      "endTime": 1453.58,
+      "text": "That is the end of the listening test. You now have ten minutes to transfer your answers to the listening answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 29.35,
+      "text": "You will hear a telephone conversation between a customer and a representative of an agency that arranges cleaning services for people's houses. First, you have some time to look at questions 1 to 4. Now listen carefully and answer questions 1 to 4.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 29.35,
+      "endTime": 47.29,
+      "text": "Good morning, Home Care Cleaning Agency. Oh, hello. I'd like to arrange to have some cleaning done, please. Certainly. Have you used our services before?",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 47.29,
+      "endTime": 70.59,
+      "text": "No, I haven't, but a friend of mine has often used your company and suggested I phone you. Oh, that's great. I'll just take some details from you and then you can let me know exactly what you would like done. Okay. First of all, what area are you in? I'm in the South West.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008",
+        "seg-009",
+        "seg-010",
+        "seg-011"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 70.59,
+      "endTime": 92.43,
+      "text": "Okay, and are you interested in having a regular cleaner or is this a one-off clean? No, I'd like to arrange to have someone come in once a week. Right. Now, let's just get a bit of information about the house. How many bedrooms does it have? Three. Are they all double bedrooms?",
+      "segmentIds": [
+        "seg-012",
+        "seg-013",
+        "seg-014",
+        "seg-015"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 92.43,
+      "endTime": 115.08,
+      "text": "Well, one of the bedrooms is quite small, so it's probably really two double rooms. Right. We have the small bedroom set up as an office. Okay. And just a standard kitchen, lounge, dining room and bathroom? Well, actually, we don't have a separate dining room. It's a kitchen-diner.",
+      "segmentIds": [
+        "seg-016",
+        "seg-017",
+        "seg-018",
+        "seg-019"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 115.08,
+      "endTime": 131.0,
+      "text": "Then there's the lounge, and as well as that, we have a family room. Oh, and two bathrooms. Okay. Before you hear the rest of the conversation, you have some time to look at questions five to ten.",
+      "segmentIds": [
+        "seg-020",
+        "seg-021",
+        "seg-022"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 172.0,
+      "endTime": 193.83,
+      "text": "Now listen and answer questions five to ten. Right. That's all I need to know about the house itself. Now, what we do is we offer a basic cleaning service and then you let us know about anything extra you'd like cleaned. Right. And what does the basic service include?",
+      "segmentIds": [
+        "seg-023",
+        "seg-024",
+        "seg-025",
+        "seg-026"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 193.83,
+      "endTime": 215.0,
+      "text": "We clean all the floors and surfaces and do a basic clean in the kitchen and bathroom. Okay, that sounds good. And do you clean windows? Well, I'm afraid we don't do that. Health and safety regulations. But we do offer other special services. We can put clean sheets on the beds, for example. Uh-huh.",
+      "segmentIds": [
+        "seg-027",
+        "seg-028",
+        "seg-029",
+        "seg-030"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 216.0,
+      "endTime": 238.58,
+      "text": "Or we can clean out your fridge. A lot of people like that done. I'm not so worried about that, but I would like the sheets changed. That's no problem. We can do that. What about the carpet? As well as the standard vacuum, we can shampoo it if you want. Right. We've got young children, so it gets pretty dirty. I haven't had it done for six months.",
+      "segmentIds": [
+        "seg-031",
+        "seg-032",
+        "seg-033",
+        "seg-034",
+        "seg-035"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 238.58,
+      "endTime": 257.76,
+      "text": "It really needs doing more often than that. You can have it done every month if you like, but three months is what we usually recommend. That sounds good. The only other thing is the washing. Do you do laundry work? Yes, we do. That's no problem. What exactly would you like done?",
+      "segmentIds": [
+        "seg-036",
+        "seg-037",
+        "seg-038",
+        "seg-039"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 257.76,
+      "endTime": 281.62,
+      "text": "Well, it's no problem to put a load of washing in the machine. I can do that. But I would like to have the ironing done. That's fine. And would you like the washing put away in drawers or wardrobes? No, it's okay. You can just leave everything out and fold it up. Okay, right. Now, I'll just set up an account for you and I'll take down some of your details.",
+      "segmentIds": [
+        "seg-040",
+        "seg-041",
+        "seg-042",
+        "seg-043",
+        "seg-044"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 281.62,
+      "endTime": 286.0,
+      "text": "First of all, what's your full name? It's Rose Killey.",
+      "segmentIds": [
+        "seg-045"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 2,
+      "startTime": 286.0,
+      "endTime": 458.0,
+      "text": "You have some time to look at questions 11 to 16.",
+      "segmentIds": [
+        "seg-046"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 2,
+      "startTime": 458.0,
+      "endTime": 478.54,
+      "text": "Now listen carefully and answer questions 11 to 16. Okay. Well, first of all, I'll give you a bit of background to the museum and then tell you about some of the galleries. You probably won't have time to see everything today, so what I recommend you do is go to the Egyptian room first,",
+      "segmentIds": [
+        "seg-047",
+        "seg-048",
+        "seg-049"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 2,
+      "startTime": 478.54,
+      "endTime": 498.0,
+      "text": "because it's everyone's favourite place and it gets very crowded with the school parties later in the day. Oh, and I should mention that the photography gallery is undergoing refurbishment at the moment, so while that's definitely worth seeing, it'll have to wait for another time. Now, the actual museum building itself is quite interesting.",
+      "segmentIds": [
+        "seg-050",
+        "seg-051",
+        "seg-052",
+        "seg-053"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 2,
+      "startTime": 498.0,
+      "endTime": 517.12,
+      "text": "It was designed by a local architect called William Craven in the 19th century, at a time when the city was developing rapidly, with new factories to cope with the expansion of the textile industry. The museum's built in a very similar style to the railway station, which was constructed at around the same time.",
+      "segmentIds": [
+        "seg-054",
+        "seg-055",
+        "seg-056"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 2,
+      "startTime": 517.12,
+      "endTime": 537.56,
+      "text": "That was designed by another architect, but William Craven did also provide the plans for the town hall, which was built just a few years later. Construction of the museum began in 1888 with a large team of carpenters, stonemasons and builders. Then, in recent years, it's been extensively refurbished.",
+      "segmentIds": [
+        "seg-057",
+        "seg-058",
+        "seg-059"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 2,
+      "startTime": 537.56,
+      "endTime": 555.81,
+      "text": "The lovely big windows have been retained to let the daylight flood in, but the award-winning part of the project was the restoration of the area around the central hall. In particular, the beautiful wrought iron staircase, which was brought back to its former glory.",
+      "segmentIds": [
+        "seg-060",
+        "seg-061",
+        "seg-062"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 2,
+      "startTime": 555.81,
+      "endTime": 574.02,
+      "text": "Unfortunately, the museum's original tiled floor had to be replaced with new tiles of a similar design. It was a very expensive project, and since we don't charge admission fees, we had to find other ways of funding it. We did get some money from the Department of Culture at national level,",
+      "segmentIds": [
+        "seg-063",
+        "seg-064",
+        "seg-065"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 574.02,
+      "endTime": 598.0,
+      "text": "but we had even more generous support from companies and industries here in the city who were our main benefactors. However, we do also depend on donations from people living in the area for the ongoing maintenance of the building. So, how will the museum mainly be spending its money in the next five years? We already work with schools and colleges, helping people get a better understanding of all the creative disciplines.",
+      "segmentIds": [
+        "seg-066",
+        "seg-067",
+        "seg-068",
+        "seg-069"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-021",
+      "part": 2,
+      "startTime": 599.0,
+      "endTime": 617.23,
+      "text": "We consider the most important part of our work the restoration of the valuable historical objects we are lucky enough to have in our position, and this will continue to be where the most funding is allocated. Of course, it would be wonderful to purchase new objects for the museum, but we simply don't have the space at the moment.",
+      "segmentIds": [
+        "seg-070",
+        "seg-071",
+        "seg-072"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 617.23,
+      "endTime": 647.79,
+      "text": "Well, we do hope you enjoy your day today, but if you would like to learn more about our exhibits on display here, I suggest you come to one of the Saturday morning lectures which are given every month by one of our team of experts. Of course, you can pick up leaflets about the exhibits in most of the galleries too, but you'll only get a basic introduction from those.",
+      "segmentIds": [
+        "seg-073",
+        "seg-074",
+        "seg-075"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-023",
+      "part": 2,
+      "startTime": 647.79,
+      "endTime": 681.0,
+      "text": "We're also working to update our website so that it provides more background on the exhibits, but that's still at the planning stage. Before you hear the rest of the talk, you have some time to look at questions 17 to 20 on page 4. Now listen and answer questions 17 to 20.",
+      "segmentIds": [
+        "seg-076",
+        "seg-077",
+        "seg-078"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 2,
+      "startTime": 684.0,
+      "endTime": 703.0,
+      "text": "Okay, now let me just tell you a bit about what's on at the moment. Well, we're very well known for our collection of 18th century paintings, both oils and watercolours. Some of these are English landscapes and portraits, but we also have paintings by other European artists who were working during this period.",
+      "segmentIds": [
+        "seg-079",
+        "seg-080",
+        "seg-081"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 704.0,
+      "endTime": 728.0,
+      "text": "If you're interested in art that's a bit nearer home, the Farnley Collection is a set of drawings by Paul Farnley. He was born in Ireland, but he came to work here in the city in the early 20th century and then made it his home. He worked in a factory but spent his spare time drawing the buildings and urban landscape of the city and his work has now been collected and displayed here.",
+      "segmentIds": [
+        "seg-082",
+        "seg-083",
+        "seg-084"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 730.0,
+      "endTime": 753.43,
+      "text": "On a more practical note, we have a display of kitchen appliances which might interest you. These are the sorts of things you wouldn't normally expect to see in a museum. There's an electric potato peeler from the 1970s which sold really well at the time, but no one's got one now. There are lots of other similar appliances which must have seemed like great ideas at the time, but which never took off.",
+      "segmentIds": [
+        "seg-085",
+        "seg-086",
+        "seg-087",
+        "seg-088"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 753.43,
+      "endTime": 767.0,
+      "text": "You might also like to visit the Fashion Gallery. This is an exhibition which is running for the next few weeks only and shows men's and women's fashion from 1900 to 2000, including some of the famous designers of the time.",
+      "segmentIds": [
+        "seg-089",
+        "seg-090",
+        "seg-091"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 768.0,
+      "endTime": 797.29,
+      "text": "Okay, so if anyone's got any questions...",
+      "segmentIds": [
+        "seg-092"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 797.29,
+      "endTime": 818.0,
+      "text": "That is the end of Section 2.",
+      "segmentIds": [
+        "seg-093"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 818.0,
+      "endTime": 853.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-094"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 3,
+      "startTime": 853.0,
+      "endTime": 869.11,
+      "text": "Now turn to Section 3. First, you have some time to look at questions 21 to 25. Now listen carefully and answer questions 21 to 25. Hi Francis, Sam. So, how did you go with applying the different theoretical business tools for the report I asked you to write? It was interesting and made us really focus on which tool was best to use when analysing a business.",
+      "segmentIds": [
+        "seg-095",
+        "seg-096",
+        "seg-097",
+        "seg-098",
+        "seg-099"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 3,
+      "startTime": 869.11,
+      "endTime": 890.32,
+      "text": "Good. So, tell me what you found out. We liked the theory behind pest analysis. That's political, economic, social and technological, although we're not sure if it was very applicable to our case. Some of the other groups had studies for which it worked really well and they said it was easy to use.",
+      "segmentIds": [
+        "seg-100",
+        "seg-101",
+        "seg-102"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 3,
+      "startTime": 890.32,
+      "endTime": 913.05,
+      "text": "But I felt it focused too much on the big picture and was unsuitable for our company. I agree. On the other hand, I enjoyed using the drill-down method. It was painstaking to do and we seemed to be working on it for ages, but the results were worth waiting for. Yes. I liked the way it eventually broke down complex problems. Yes. I much preferred doing the PMI analysis.",
+      "segmentIds": [
+        "seg-103",
+        "seg-104",
+        "seg-105",
+        "seg-106",
+        "seg-107"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 3,
+      "startTime": 913.05,
+      "endTime": 933.05,
+      "text": "It was so straightforward to break down into its three components – plus, minus and interesting implications. You just needed to brainstorm these components and then write them up. Fast and effective. And it didn't make your brain hurt doing it. I agree. And you don't need any special training at all. Anyone can use it. Hmm.",
+      "segmentIds": [
+        "seg-108",
+        "seg-109",
+        "seg-110",
+        "seg-111"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 3,
+      "startTime": 933.05,
+      "endTime": 956.66,
+      "text": "So, was there any tool that you thought was superior to the others? In my opinion, the one tool that is critical to business, especially for larger companies, is Pareto analysis. If they applied Pareto analysis, they would see that by focusing on the critical 20% of their problems, they could generate 80% of the benefits. This would allow them to work faster and it also reduces their workload.",
+      "segmentIds": [
+        "seg-112",
+        "seg-113",
+        "seg-114",
+        "seg-115"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 3,
+      "startTime": 956.66,
+      "endTime": 991.1,
+      "text": "It's all about finding out what their basic problems are. I agree with Francis about Pareto, but my favourite was the SWOT analysis. You know, looking at the company's strengths, weaknesses, opportunities and threats, as it can be used in so many different situations.",
+      "segmentIds": [
+        "seg-116",
+        "seg-117",
+        "seg-118"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 991.1,
+      "endTime": 1024.88,
+      "text": "It works in large and small companies and even down to departmental level. It was great for our case study. Yes, that's true. Before you hear the rest of the discussion, you have some time to look at questions 26 to 30 on page 6.",
+      "segmentIds": [
+        "seg-119",
+        "seg-120",
+        "seg-121"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 1024.88,
+      "endTime": 1048.59,
+      "text": "Now listen and answer questions 26 to 30. OK. I've read your draft report, but can you tell me a bit more about that company you focused on? Well, the company we used in our study was a manufacturing company who have relied on distributors to take their product to the end user.",
+      "segmentIds": [
+        "seg-122",
+        "seg-123",
+        "seg-124",
+        "seg-125"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 1048.59,
+      "endTime": 1068.29,
+      "text": "We did some analysis examining the possibility of them distributing their own products. We initially looked at their strengths. The company, although it is small, is well known and has a very good reputation. The management are very committed to increasing the company profits and they are confident this move would be successful. Right.",
+      "segmentIds": [
+        "seg-126",
+        "seg-127",
+        "seg-128",
+        "seg-129",
+        "seg-130"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 1068.29,
+      "endTime": 1088.75,
+      "text": "And the company has quite a lot of staff who have previously worked for distribution companies, so the knowledge is already there. That was something we didn't expect to find and is probably going to help them the most to achieve their goals. I was quite impressed by some of the opportunities you detailed. I did think you missed something quite pertinent to their future growth, however.",
+      "segmentIds": [
+        "seg-131",
+        "seg-132",
+        "seg-133",
+        "seg-134"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 3,
+      "startTime": 1088.75,
+      "endTime": 1111.03,
+      "text": "What was that? You didn't consider the potential for establishing an offshore division. You talked about the company negotiating better terms with its suppliers. Most of these are based abroad, and so if the company had a way of actually distributing the product there, this could be a tremendous opportunity and give them an edge over their competitors.",
+      "segmentIds": [
+        "seg-135",
+        "seg-136",
+        "seg-137",
+        "seg-138"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 1111.03,
+      "endTime": 1133.0,
+      "text": "That's a good point. So what did you think about the threats we identified? I thought you did a good job. I was really pleased to see that you considered how the government's planned environmental policy could really affect the viability of this venture. With this law being introduced next year, they might need to find new ways of using their existing technology.",
+      "segmentIds": [
+        "seg-139",
+        "seg-140",
+        "seg-141",
+        "seg-142"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 1134.0,
+      "endTime": 1157.41,
+      "text": "It's easy to identify what your competitors are doing, but it's the bigger picture that often gets ignored. So, Sam, what did you learn from this assignment? Heaps. I guess I hadn't realised how much time it takes to ensure your company survives and profits. It was great to study the different tools in books, but applying them in the real world was much harder than I thought.",
+      "segmentIds": [
+        "seg-143",
+        "seg-144",
+        "seg-145",
+        "seg-146"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 1157.41,
+      "endTime": 1176.0,
+      "text": "It was a great learning experience. I'm glad I could make your assignment relevant. I'm basically happy with your report. You've got the format correct with the necessary headings, etc., and you've got sufficient details under the different headings. Just remember to state whether or not you think the company should go ahead with the new venture.",
+      "segmentIds": [
+        "seg-147",
+        "seg-148",
+        "seg-149",
+        "seg-150"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1177.0,
+      "endTime": 1211.91,
+      "text": "But you've done a good job so far.",
+      "segmentIds": [
+        "seg-151"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1211.91,
+      "endTime": 1241.69,
+      "text": "That is the end of Section 3.",
+      "segmentIds": [
+        "seg-152"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1241.69,
+      "endTime": 1292.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-153"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 4,
+      "startTime": 1292.0,
+      "endTime": 1308.86,
+      "text": "Now turn to Section 4. Section 4 First you have some time to look at questions 31 to 40 on page 8. Now listen carefully and answer questions 31 to 40. I'd like to give you a brief overview of a research project I've been working on as part of a team of four. We wanted to get some data on what happens to students after they graduate, and also find out how useful they felt their degree course was to them.",
+      "segmentIds": [
+        "seg-154",
+        "seg-155",
+        "seg-156",
+        "seg-157",
+        "seg-158"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-049",
+      "part": 4,
+      "startTime": 1308.86,
+      "endTime": 1330.89,
+      "text": "We focused on graduates from the course in Business Management, since this is one of the most popular and long-established courses. We decided to use two different data-gathering methods. We started off by emailing a brief questionnaire to all last year's graduates from that course, and then we selected a number of those who had replied, and with them we carried out phone interviews.",
+      "segmentIds": [
+        "seg-159",
+        "seg-160",
+        "seg-161",
+        "seg-162"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-050",
+      "part": 4,
+      "startTime": 1330.89,
+      "endTime": 1353.91,
+      "text": "We'd originally intended to use face-to-face interviews, but didn't feel that would be practical, and in fact we found this method provided a combination of wide coverage and depth, which is what we wanted. So, what did we find? Well, I suppose our most surprising finding was just how many graduates had gone on to work towards an additional qualification,",
+      "segmentIds": [
+        "seg-163",
+        "seg-164",
+        "seg-165",
+        "seg-166"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-051",
+      "part": 4,
+      "startTime": 1353.91,
+      "endTime": 1373.95,
+      "text": "rather than getting a job immediately. That was 32%, almost a third. Of the rest, a very small proportion were unemployed, just 4%, and all the rest were in employment. More than half of them were in the public sector, with a sizeable minority in the private sector, and a small number in the not-for-profit sector.",
+      "segmentIds": [
+        "seg-167",
+        "seg-168",
+        "seg-169"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-052",
+      "part": 4,
+      "startTime": 1373.95,
+      "endTime": 1397.08,
+      "text": "We were also interested in the attitudes of those who were employed towards their work. The majority said that their expectations had been fulfilled. They were generally satisfied in terms of their salary, and also happy with their prospects for career development, with very few of them feeling that they were in a dead-end job with no prospects of promotion. For the second main part of our research,",
+      "segmentIds": [
+        "seg-170",
+        "seg-171",
+        "seg-172",
+        "seg-173",
+        "seg-174"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-053",
+      "part": 4,
+      "startTime": 1397.08,
+      "endTime": 1418.65,
+      "text": "we wanted to get some feedback from the graduates on how useful they felt their degree course had been to them. There were really three main skills which the graduates felt they'd gained from doing the course, and identified as having been the most valuable to them. They highlighted the fact that they developed the ability to work as members of a team.",
+      "segmentIds": [
+        "seg-175",
+        "seg-176",
+        "seg-177",
+        "seg-178"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-054",
+      "part": 4,
+      "startTime": 1418.65,
+      "endTime": 1441.38,
+      "text": "Another skill which they cited as valuable was that of personal organisation, things like meeting deadlines, time management, and so on. And finally, a lot of them said that what they'd learned about approaches to problem-solving had been very useful. We also asked them about which elements of the course had been least valuable to them. To our surprise, the thing that was mentioned most often here was presentations.",
+      "segmentIds": [
+        "seg-179",
+        "seg-180",
+        "seg-181",
+        "seg-182"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-055",
+      "part": 4,
+      "startTime": 1441.38,
+      "endTime": 1453.58,
+      "text": "They hadn't enjoyed having to give these as part of their course, nor had they found it useful having to listen to those given by their fellow students. The reason given for this was that they felt they weren't trained how to do it properly. And the second thing that got very negative feedback was work on essay writing. Most people thought this was unnecessary, and that it would have been better to work on report writing.",
+      "segmentIds": [
+        "seg-183",
+        "seg-184",
+        "seg-185",
+        "seg-186",
+        "seg-187"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1466.0,
+      "endTime": 1453.58,
+      "text": "And finally, some respondents said that they would have liked more guidance on the best way to go about looking for a job, that the course could have done more to help them. Finally, we asked if there were any skills... That is the end of section four. You now have half a minute to check your answers. That is the end of the listening test. You now have ten minutes to transfer your answers to the listening answer sheet.",
+      "segmentIds": [
+        "seg-188",
+        "seg-189",
+        "seg-190",
+        "seg-191",
+        "seg-192"
+      ],
+      "timestampSource": "exact"
+    }
+  ]
+}

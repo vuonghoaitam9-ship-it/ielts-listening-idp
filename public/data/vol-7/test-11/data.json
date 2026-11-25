@@ -1,0 +1,3629 @@
+{
+  "id": "vol-7-test-11",
+  "vol": 7,
+  "testNumber": 11,
+  "title": "Vol 7 — Test 11",
+  "pdfUrl": "./data/vol-7/test-11/exam.pdf",
+  "pdfPages": 9,
+  "questionPageRange": [
+    1,
+    6
+  ],
+  "audioUrl": "./data/vol-7/test-11/audio.mp3",
+  "audioDurationSec": 1561.36,
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 0.0,
+      "endTime": 263.72,
+      "topicHint": "Section 1 (Questions 1-10)"
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 264.47,
+      "endTime": 528.2,
+      "topicHint": "You will hear a talk about a summer sports camp for people who are interested in working"
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 528.2,
+      "endTime": 821.14,
+      "topicHint": "You will hear a discussion between a student called Mike and his tutor about Mike's"
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 821.14,
+      "endTime": 1561.36,
+      "topicHint": "You'll hear a medical science student summing up a presentation about ideas for"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "days Best month to go: September Might see large numbers of 1……………. Type of accommodation: a 2…………. Day one Final destination: 3………………… Evening activity: chance to have a 4……………. Day two Explore the valley and have lunch by a 5……………… Afternoon trip to a 6…………… Tips for the holiday · unsuitable if you have 7……….problems",
+      "answerRaw": "Birds",
+      "canonicalAnswer": "Birds",
+      "acceptedAnswers": [
+        "Birds"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And also, at one point when we stopped for a picnic, I was lying in a field, looking up, and saw a huge flock of birds.",
+      "evidenceStartTime": 101.14,
+      "evidenceEndTime": 106.52,
+      "paraphrases": [
+        {
+          "questionTerm": "large",
+          "audioTerm": "huge"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Birds\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'large' ↔ 'huge'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "Read the text and answer questions 1–10 Write NO MORE THAN 2 WORDS for each answer. Length of trip: two days Best month to go: September Might see large numbers of 1……………. Type of accommodation: a 2…………. Day one Final destination: 3………………… Evening activity: chance to have a 4……………. Day two Explore the valley and have",
+      "answerRaw": "Tent",
+      "canonicalAnswer": "Tent",
+      "acceptedAnswers": [
+        "Tent"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You stay in a tent, so you don't have to come back to town in the evening.",
+      "evidenceStartTime": 113.15,
+      "evidenceEndTime": 116.88,
+      "paraphrases": [
+        {
+          "questionTerm": "accommodation",
+          "audioTerm": "stay"
+        }
+      ],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Tent\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'accommodation' ↔ 'stay'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": ". Type of accommodation: a 2…………. Day one Final destination: 3………………… Evening activity: chance to have a 4……………. Day two Explore the valley and have lunch by a 5……………… Afternoon trip to a 6…………… Tips for the holiday · unsuitable if you have 7……….problems · rocky paths so take 8……………. Booking details Book online to get a",
+      "answerRaw": "Mountains",
+      "canonicalAnswer": "Mountains",
+      "acceptedAnswers": [
+        "Mountains"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But that's just the morning. Where you're really heading for is the mountains, and when you set out, you can only see them in the far distance.",
+      "evidenceStartTime": 124.35,
+      "evidenceEndTime": 132.5,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "giới hạn phạm vi bằng 'only'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Mountains\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "nal destination: 3………………… Evening activity: chance to have a 4……………. Day two Explore the valley and have lunch by a 5……………… Afternoon trip to a 6…………… Tips for the holiday · unsuitable if you have 7……….problems · rocky paths so take 8……………. Booking details Book online to get a 9………….. Inform your 10…………company about the",
+      "answerRaw": "Swim",
+      "canonicalAnswer": "Swim",
+      "acceptedAnswers": [
+        "Swim"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But on that first evening, when you've been riding all day, you get the opportunity to go for a swim, and you really enjoy that.",
+      "evidenceStartTime": 141.12,
+      "evidenceEndTime": 147.72,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Swim\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "ave a 4……………. Day two Explore the valley and have lunch by a 5……………… Afternoon trip to a 6…………… Tips for the holiday · unsuitable if you have 7……….problems · rocky paths so take 8……………. Booking details Book online to get a 9………….. Inform your 10…………company about the type of holiday booked",
+      "answerRaw": "Waterfall",
+      "canonicalAnswer": "Waterfall",
+      "acceptedAnswers": [
+        "Waterfall"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Day two, you go up this incredible valley. At the end of it, there's a waterfall.",
+      "evidenceStartTime": 152.16,
+      "evidenceEndTime": 156.59,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Waterfall\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "e the valley and have lunch by a 5……………… Afternoon trip to a 6…………… Tips for the holiday · unsuitable if you have 7……….problems · rocky paths so take 8……………. Booking details Book online to get a 9………….. Inform your 10…………company about the type of holiday booked",
+      "answerRaw": "Cave",
+      "canonicalAnswer": "Cave",
+      "acceptedAnswers": [
+        "Cave"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And in the afternoon, there's a trip that goes to a cave. You can even ride into it.",
+      "evidenceStartTime": 162.24,
+      "evidenceEndTime": 166.63,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Cave\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "ip to a 6…………… Tips for the holiday · unsuitable if you have 7……….problems · rocky paths so take 8……………. Booking details Book online to get a 9………….. Inform your 10…………company about the type of holiday booked",
+      "answerRaw": "Back",
+      "canonicalAnswer": "Back",
+      "acceptedAnswers": [
+        "Back"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It was okay, actually, but what you've got to watch for is that you don't have any trouble with your back.",
+      "evidenceStartTime": 204.54,
+      "evidenceEndTime": 209.82,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Back\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "· unsuitable if you have 7……….problems · rocky paths so take 8……………. Booking details Book online to get a 9………….. Inform your 10…………company about the type of holiday booked",
+      "answerRaw": "Walking boots",
+      "canonicalAnswer": "Walking boots",
+      "acceptedAnswers": [
+        "Walking boots"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yeah, but another thing I hadn't realized is that you actually walk the horses down some pretty steep and uneven paths. So make sure you have walking boots, not just normal riding boots.",
+      "evidenceStartTime": 214.05,
+      "evidenceEndTime": 223.27,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Walking boots\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "y paths so take 8……………. Booking details Book online to get a 9………….. Inform your 10…………company about the type of holiday booked",
+      "answerRaw": "Discount",
+      "canonicalAnswer": "Discount",
+      "acceptedAnswers": [
+        "Discount"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "When I was looking at the website, I saw that if I register online, I can get a discount.",
+      "evidenceStartTime": 232.14,
+      "evidenceEndTime": 237.0,
+      "paraphrases": [
+        {
+          "questionTerm": "book",
+          "audioTerm": "register"
+        },
+        {
+          "questionTerm": "online",
+          "audioTerm": "website"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Discount\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'book' ↔ 'register'; 'online' ↔ 'website'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "……. Booking details Book online to get a 9………….. Inform your 10…………company about the type of holiday booked",
+      "answerRaw": "Insurance",
+      "canonicalAnswer": "Insurance",
+      "acceptedAnswers": [
+        "Insurance"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And then the other important thing I read was that you have to make sure that your insurance company know that you're going on an adventure trip to make sure that you're covered in case anything happens.",
+      "evidenceStartTime": 245.35,
+      "evidenceEndTime": 256.48,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Insurance\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "r questions 11–20 Questions 11–16 Choose the correct answer. 11 The speaker says that he is happy to answer questions during his talk about A.the general operation of the camp B.the children who attend C.the job responsibilities 12 Why do parents send their children to the camp again and again? A.They like the fact that i",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Feel free to interrupt if there's anything you don't understand about the way the camp is administered,",
+      "evidenceStartTime": 328.16,
+      "evidenceEndTime": 333.33,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "he camp B.the children who attend C.the job responsibilities 12 Why do parents send their children to the camp again and again? A.They like the fact that it is cheaper than other camps. B.They are pleased with the wide range of facilities on offer. C.They know their children will be looked after at the camp. 13 One specia",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The reason we're successful is because parents trust us and send their children to us summer after summer.",
+      "evidenceStartTime": 346.59,
+      "evidenceEndTime": 351.91,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "C.They know their children will be looked after at the camp. 13 One special thing about this summer camp is A.the number of international students B.the preparation for professional sports C.the inclusion of non-sports activities 14 The speaker says that this year, the camp particularly needs people A.who would like to wo",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We run all the activities you'd expect in a summer camp, arts and music as well as sports,",
+      "evidenceStartTime": 371.35,
+      "evidenceEndTime": 375.87,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "professional sports C.the inclusion of non-sports activities 14 The speaker says that this year, the camp particularly needs people A.who would like to work in the ofﬁce B.who have experience of cooking C.who young children can talk to 15 What should the new cameraperson have? A.artistic talents B.good camera equipment C.",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We need lots of people who are willing to teach the activities, but we also have non-coaching roles. What we particularly like this summer are people who are willing to be in charge of looking after our younger kids,",
+      "evidenceStartTime": 383.8,
+      "evidenceEndTime": 395.79,
+      "paraphrases": [
+        {
+          "questionTerm": "children",
+          "audioTerm": "kids"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'children' ↔ 'kids'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "have experience of cooking C.who young children can talk to 15 What should the new cameraperson have? A.artistic talents B.good camera equipment C.a qualiﬁcation in photography 16 What does the speaker say about working conditions? A.Sports coaches earn the most. B.Kitchen staff work the longest hours. C.Cleaners work in",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We need someone with great video and photography skills to record the fun everyone has.",
+      "evidenceStartTime": 411.01,
+      "evidenceEndTime": 416.27,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "ents B.good camera equipment C.a qualiﬁcation in photography 16 What does the speaker say about working conditions? A.Sports coaches earn the most. B.Kitchen staff work the longest hours. C.Cleaners work in the mornings and evenings. Questions 17–18 Choose TWO correct answers. 17-18 Which TWO beneﬁts are provided free of",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Daytime coaching roles pay the highest wages because of the sports skills required and the longer hours.",
+      "evidenceStartTime": 434.58,
+      "evidenceEndTime": 440.86,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "gs and evenings. Questions 17–18 Choose TWO correct answers. 17-18 Which TWO beneﬁts are provided free of charge to camp workers? A.a sports bag B.a T-shirt C.use of sports facilities D.meals E.internet access Questions 19–20 Choose TWO correct answers. 19-20 Which TWO things do applicants need in order to get a job at the c",
+      "answerRaw": "B, C",
+      "canonicalAnswer": "B, C",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t11-q17-18",
+        "questionNumbers": [
+          17,
+          18
+        ],
+        "poolAnswers": [
+          "B",
+          "C"
+        ]
+      },
+      "evidenceQuote": "Whether you're teaching a sport or not, you'll be given access to all our facilities,",
+      "evidenceStartTime": 465.27,
+      "evidenceEndTime": 470.4,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "",
+      "answerRaw": "B, C",
+      "canonicalAnswer": "B, C",
+      "acceptedAnswers": [
+        "B",
+        "C"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t11-q17-18",
+        "questionNumbers": [
+          17,
+          18
+        ],
+        "poolAnswers": [
+          "B",
+          "C"
+        ]
+      },
+      "evidenceQuote": "We'll give everyone UK summer camp t-shirts, which we'll expect you to wear when working.",
+      "evidenceStartTime": 482.79,
+      "evidenceEndTime": 488.17,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": ".internet access Questions 19–20 Choose TWO correct answers. 19-20 Which TWO things do applicants need in order to get a job at the camp? A.experience of working with children B.an ability to make decisions on their own C.a friendly personality D.relevant qualiﬁcations E.to be over a certain age",
+      "answerRaw": "C, E",
+      "canonicalAnswer": "C, E",
+      "acceptedAnswers": [
+        "C",
+        "E"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t11-q19-20",
+        "questionNumbers": [
+          19,
+          20
+        ],
+        "poolAnswers": [
+          "C",
+          "E"
+        ]
+      },
+      "evidenceQuote": "If you've worked with kids before, that would be an advantage, but it isn't essential. Of course, you need to be sociable and enjoy meeting people.",
+      "evidenceStartTime": 499.16,
+      "evidenceEndTime": 507.98,
+      "paraphrases": [
+        {
+          "questionTerm": "children",
+          "audioTerm": "kids"
+        },
+        {
+          "questionTerm": "need",
+          "audioTerm": "essential"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'children' ↔ 'kids'; 'need' ↔ 'essential'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "",
+      "answerRaw": "C, E",
+      "canonicalAnswer": "C, E",
+      "acceptedAnswers": [
+        "C",
+        "E"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t11-q19-20",
+        "questionNumbers": [
+          19,
+          20
+        ],
+        "poolAnswers": [
+          "C",
+          "E"
+        ]
+      },
+      "evidenceQuote": "We can't accept applications from people under the age of 18, I'm afraid, but if you haven't got there yet, don't worry.",
+      "evidenceStartTime": 514.2,
+      "evidenceEndTime": 521.45,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "từ chối hoặc báo không khả dụng ('I'm afraid')"
+      ],
+      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But first, how do you define oral history? Well, in fact, I used the definition you gave us last year in our research methodology class.",
+      "evidenceStartTime": 585.25,
+      "evidenceEndTime": 592.14,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "a history textbook B.an academic article C.a lecture handout 22 According to Mike and his tutor, what is the most important contribution of the internet to oral history? A.the permanent preservation of recordings B.an increase in student interest C.wide access to the interviews by the public 23 Mike says he chose his part",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But from what I've read, the real contribution of the internet is that the recording of the interviews will be preserved forever.",
+      "evidenceStartTime": 643.68,
+      "evidenceEndTime": 649.57,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "udent interest C.wide access to the interviews by the public 23 Mike says he chose his particular topic because A.he is a football fan. B.his father loves football. C.his friends encouraged him. 24 What does Mike say was his best source of information about the team? A.doing research in the local newspaper archives B.spea",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, actually, I don't even like football very much and some of my friends think I'm crazy to go for that subject,",
+      "evidenceStartTime": 660.53,
+      "evidenceEndTime": 665.94,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": ". B.his father loves football. C.his friends encouraged him. 24 What does Mike say was his best source of information about the team? A.doing research in the local newspaper archives B.speaking to the team manager C.looking at materials in the local library 25 How did Mike find the former players he has arranged to interv",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, I did manage to track him down and I looked at all the old news stories about the team in the town newspaper office.",
+      "evidenceStartTime": 672.99,
+      "evidenceEndTime": 678.68,
+      "paraphrases": [
+        {
+          "questionTerm": "former",
+          "audioTerm": "old"
+        },
+        {
+          "questionTerm": "local",
+          "audioTerm": "town"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'former' ↔ 'old'; 'local' ↔ 'town'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "the team manager C.looking at materials in the local library 25 How did Mike find the former players he has arranged to interview? A.on the internet B.in the team records C.in the phone book Questions 26–30 What problems with the following aspects of the proposed interviews do the speakers identify? Choose FIVE correct le",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I had high hopes that the local library would have lots of stuff, but they don't keep many records for more than 10 years. I know that you managed to locate 10 of the original 18 members of the team using an old-fashioned method, didn't you?",
+      "evidenceStartTime": 681.78,
+      "evidenceEndTime": 692.01,
+      "paraphrases": [
+        {
+          "questionTerm": "former",
+          "audioTerm": "old"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'former' ↔ 'old'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "ted H. too vague Problems Aspects of the proposed interviews 26.Questions drafted 27.Time allotted 28.Recording equipment used 29.Subjects chosen 30.Proposed report",
+      "answerRaw": "G too complicated",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G",
+        "G too complicated",
+        "too complicated"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I felt most of them are rather complex to be processed as oral questions.",
+      "evidenceStartTime": 729.6,
+      "evidenceEndTime": 736.49,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án G too complicated. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "",
+      "answerRaw": "D too long",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D",
+        "D too long",
+        "too long"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Actually, I think you may have scheduled too much time for each.",
+      "evidenceStartTime": 750.79,
+      "evidenceEndTime": 753.9,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')"
+      ],
+      "explanationVi": "Đáp án đúng là phương án D too long. Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "he proposed interviews 26.Questions drafted 27.Time allotted 28.Recording equipment used 29.Subjects chosen 30.Proposed report",
+      "answerRaw": "A too unreliable",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A",
+        "A too unreliable",
+        "too unreliable"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It runs without making too much noise and it isn't complicated, but it sometimes just doesn't seem to work.",
+      "evidenceStartTime": 763.05,
+      "evidenceEndTime": 767.76,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án đúng là phương án A too unreliable. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "estions drafted 27.Time allotted 28.Recording equipment used 29.Subjects chosen 30.Proposed report",
+      "answerRaw": "H too vague",
+      "canonicalAnswer": "H",
+      "acceptedAnswers": [
+        "H",
+        "H too vague",
+        "too vague"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The topics seem quite general, not very specific. For example, why did they like playing for this team?",
+      "evidenceStartTime": 779.18,
+      "evidenceEndTime": 784.91,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án H too vague. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "Time allotted 28.Recording equipment used 29.Subjects chosen 30.Proposed report",
+      "answerRaw": "F too factual",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F",
+        "F too factual",
+        "too factual"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes. Although your outline seems long enough, change it to indicate that you plan to include your own evaluation of the data you get from your interviewees.",
+      "evidenceStartTime": 800.91,
+      "evidenceEndTime": 810.3,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án F too factual. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "tionnaire Main reasons for choosing a hospital: o convenient 31………….. services o the hospital building should be 32………………. o staff providing 33…………… prior to hospital treatment Intended action over the next year o develop web pages for local 34………. and for hospital staff o a 35…………. may be given as a reward to some staff",
+      "answerRaw": "Transport",
+      "canonicalAnswer": "Transport",
+      "acceptedAnswers": [
+        "Transport"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "For instance, people felt it was really important, not the distance the hospital was from their homes, but how easy it was to get transport there.",
+      "evidenceStartTime": 895.88,
+      "evidenceEndTime": 902.05,
+      "paraphrases": [
+        {
+          "questionTerm": "main",
+          "audioTerm": "important"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Transport\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'main' ↔ 'important'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "nvenient 31………….. services o the hospital building should be 32………………. o staff providing 33…………… prior to hospital treatment Intended action over the next year o develop web pages for local 34………. and for hospital staff o a 35…………. may be given as a reward to some staff for success and effort o 36………….. will be asked to g",
+      "answerRaw": "Clean",
+      "canonicalAnswer": "Clean",
+      "acceptedAnswers": [
+        "Clean"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "How clean it was, however, certainly was. One in two people surveyed listed this as a major concern.",
+      "evidenceStartTime": 913.77,
+      "evidenceEndTime": 918.31,
+      "paraphrases": [],
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Clean\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "the hospital building should be 32………………. o staff providing 33…………… prior to hospital treatment Intended action over the next year o develop web pages for local 34………. and for hospital staff o a 35…………. may be given as a reward to some staff for success and effort o 36………….. will be asked to give their opinions of the ho",
+      "answerRaw": "Information",
+      "canonicalAnswer": "Information",
+      "acceptedAnswers": [
+        "Information"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "People also said it was important for them to know that a member of the hospital staff would be prepared to give them information they needed about their treatment before they had it too.",
+      "evidenceStartTime": 918.31,
+      "evidenceEndTime": 926.87,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Information\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "nded action over the next year o develop web pages for local 34………. and for hospital staff o a 35…………. may be given as a reward to some staff for success and effort o 36………….. will be asked to give their opinions of the hospital o effectiveness of 37……….. will be assessed at all levels Recommendations o new units should b",
+      "answerRaw": "Doctors",
+      "canonicalAnswer": "Doctors",
+      "acceptedAnswers": [
+        "Doctors"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I interviewed two key hospital management staff and they said that there is a plan to add to the existing hospital website to advise doctors who practise in the area, as well as on-site staff, of changes and developments in hospital services.",
+      "evidenceStartTime": 937.17,
+      "evidenceEndTime": 948.5,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Doctors\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "evelop web pages for local 34………. and for hospital staff o a 35…………. may be given as a reward to some staff for success and effort o 36………….. will be asked to give their opinions of the hospital o effectiveness of 37……….. will be assessed at all levels Recommendations o new units should be opened, e.g. for patients that s",
+      "answerRaw": "Bonus",
+      "canonicalAnswer": "Bonus",
+      "acceptedAnswers": [
+        "Bonus"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It hasn't been decided yet what form this will take, but it's likely to be a bonus of some kind, I think.",
+      "evidenceStartTime": 955.64,
+      "evidenceEndTime": 960.86,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Bonus\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "be given as a reward to some staff for success and effort o 36………….. will be asked to give their opinions of the hospital o effectiveness of 37……….. will be assessed at all levels Recommendations o new units should be opened, e.g. for patients that suffer from 38………. disturbance or who need 39…………. surgery o the hospital",
+      "answerRaw": "Visitors",
+      "canonicalAnswer": "Visitors",
+      "acceptedAnswers": [
+        "Visitors"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Another idea that the hospital management want to introduce is to find a way to assess the views of visitors to the hospital.",
+      "evidenceStartTime": 964.24,
+      "evidenceEndTime": 969.69,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Visitors\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "ed to give their opinions of the hospital o effectiveness of 37……….. will be assessed at all levels Recommendations o new units should be opened, e.g. for patients that suffer from 38………. disturbance or who need 39…………. surgery o the hospital has adequate equipment and space but needs improved 40…………. to maximize use of i",
+      "answerRaw": "Communication",
+      "canonicalAnswer": "Communication",
+      "acceptedAnswers": [
+        "Communication"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And the hospital will be looking at how good the communication is between managers and staff and, in turn, that between staff and patients.",
+      "evidenceStartTime": 980.72,
+      "evidenceEndTime": 987.15,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Communication\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "w units should be opened, e.g. for patients that suffer from 38………. disturbance or who need 39…………. surgery o the hospital has adequate equipment and space but needs improved 40…………. to maximize use of its facilities",
+      "answerRaw": "Sleep",
+      "canonicalAnswer": "Sleep",
+      "acceptedAnswers": [
+        "Sleep"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "At the moment, people have to travel to another hospital that's 60 miles away for treatment of illnesses associated with interrupted sleep.",
+      "evidenceStartTime": 1006.67,
+      "evidenceEndTime": 1014.22,
+      "paraphrases": [
+        {
+          "questionTerm": "need",
+          "audioTerm": "have to"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Sleep\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'need' ↔ 'have to'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "for patients that suffer from 38………. disturbance or who need 39…………. surgery o the hospital has adequate equipment and space but needs improved 40…………. to maximize use of its facilities",
+      "answerRaw": "Plastic",
+      "canonicalAnswer": "Plastic",
+      "acceptedAnswers": [
+        "Plastic"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'd also suggest investigating the possibility of funding a new plastic surgery unit,",
+      "evidenceStartTime": 1018.18,
+      "evidenceEndTime": 1022.17,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Plastic\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "hospital has adequate equipment and space but needs improved 40…………. to maximize use of its facilities",
+      "answerRaw": "Planning",
+      "canonicalAnswer": "Planning",
+      "acceptedAnswers": [
+        "Planning"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But many of them are empty for long periods of time. If better planning was implemented, these and other facilities could be in use 24 hours a day.",
+      "evidenceStartTime": 1037.66,
+      "evidenceEndTime": 1068.01,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Planning\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 1.69,
+      "text": "IELTS Listening, version 53942.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 1.69,
+      "endTime": 7.32,
+      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 7.32,
+      "endTime": 13.49,
+      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 14.24,
+      "endTime": 19.23,
+      "text": "All the recordings will be played once only. The test is in four parts.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 19.23,
+      "endTime": 23.23,
+      "text": "Write all your answers in the listening question booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 23.97,
+      "endTime": 31.49,
+      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 31.49,
+      "endTime": 36.71,
+      "text": "Now turn to part one on page two of your question booklet. Part one.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 38.21,
+      "endTime": 56.13,
+      "text": "You will hear two friends called Greg and Jenny talking about a horseback riding trip that Jenny is planning to do.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 56.13,
+      "endTime": 65.17,
+      "text": "First, you have some time to look at questions one to six.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 65.17,
+      "endTime": 73.42,
+      "text": "Now listen carefully and answer questions one to six.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 76.42,
+      "endTime": 77.68,
+      "text": "Hi Greg, great to see you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 77.68,
+      "endTime": 81.79,
+      "text": "And thanks for emailing me with the details of the horseback riding trip you went on.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 81.79,
+      "endTime": 83.91,
+      "text": "I looked at the website, and it looks great.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 83.91,
+      "endTime": 87.88,
+      "text": "Yeah, I went on the two-day mini-break. Is that what you're thinking about?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 87.88,
+      "endTime": 92.38,
+      "text": "Yes, that's the one. Do you think they'd have places now in July, or will it be full?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 92.38,
+      "endTime": 97.31,
+      "text": "If you can, hang on till September. That's when I went, and it was a really great time to go.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 97.31,
+      "endTime": 100.39,
+      "text": "It's not so hot for a start. That'd suit me better anyway.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 101.14,
+      "endTime": 106.52,
+      "text": "And also, at one point when we stopped for a picnic, I was lying in a field, looking up, and saw a huge flock of birds.",
+      "timestampSource": "exact",
+      "qTags": [
+        1
+      ]
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 106.52,
+      "endTime": 110.13,
+      "text": "They were obviously migrating. That's another reason why it's a good time to go.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 110.13,
+      "endTime": 113.15,
+      "text": "Oh, great. Oh, and another thing? You don't stay in a hotel.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 113.15,
+      "endTime": 116.88,
+      "text": "You stay in a tent, so you don't have to come back to town in the evening.",
+      "timestampSource": "exact",
+      "qTags": [
+        2
+      ]
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 117.63,
+      "endTime": 120.56,
+      "text": "I'm up for that. So, where do you go on the first day?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 120.56,
+      "endTime": 124.35,
+      "text": "Through some amazing wooded valleys, full of chestnut and beech trees.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 124.35,
+      "endTime": 125.87,
+      "text": "But that's just the morning.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 126.62,
+      "endTime": 132.5,
+      "text": "Where you're really heading for is the mountains, and when you set out, you can only see them in the far distance.",
+      "timestampSource": "exact",
+      "qTags": [
+        3
+      ]
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 132.5,
+      "endTime": 136.58,
+      "text": "You don't actually get there until sunset. Is it hard work, riding all day? No.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 136.58,
+      "endTime": 141.12,
+      "text": "The pace is easy, and there are plenty of breaks built in for picnics and even a snooze.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 141.12,
+      "endTime": 147.72,
+      "text": "But on that first evening, when you've been riding all day, you get the opportunity to go for a swim, and you really enjoy that.",
+      "timestampSource": "exact",
+      "qTags": [
+        4
+      ]
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 147.72,
+      "endTime": 148.34,
+      "text": "So relaxing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 148.34,
+      "endTime": 152.16,
+      "text": "And what's on day two? You said something about the national park? No.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 152.16,
+      "endTime": 156.59,
+      "text": "Day two, you go up this incredible valley. At the end of it, there's a waterfall.",
+      "timestampSource": "exact",
+      "qTags": [
+        5
+      ]
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 157.33,
+      "endTime": 162.24,
+      "text": "It's an amazing place to stop for lunch. We even spotted an eagle while we were sitting there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 162.24,
+      "endTime": 166.63,
+      "text": "And in the afternoon, there's a trip that goes to a cave. You can even ride into it.",
+      "timestampSource": "exact",
+      "qTags": [
+        6
+      ]
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 166.63,
+      "endTime": 168.57,
+      "text": "Wow, that sounds great. I can't wait.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 170.82,
+      "endTime": 182.48,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions seven to ten.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 182.48,
+      "endTime": 187.78,
+      "text": "Now listen and answer questions seven to ten.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 187.78,
+      "endTime": 194.73,
+      "text": "Okay, so what are your tips for a horseback riding weekend?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 194.73,
+      "endTime": 203.79,
+      "text": "Well, I'd had a sore knee before I went, and I was pretty worried about that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 204.54,
+      "endTime": 209.82,
+      "text": "It was okay, actually, but what you've got to watch for is that you don't have any trouble with your back.",
+      "timestampSource": "exact",
+      "qTags": [
+        7
+      ]
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 209.82,
+      "endTime": 214.05,
+      "text": "Riding can really aggravate that. No problem there. And comfortable clothes, I guess.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 214.05,
+      "endTime": 219.98,
+      "text": "Yeah, but another thing I hadn't realized is that you actually walk the horses down some pretty steep and uneven paths.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 219.98,
+      "endTime": 223.27,
+      "text": "So make sure you have walking boots, not just normal riding boots.",
+      "timestampSource": "exact",
+      "qTags": [
+        8
+      ]
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 224.01,
+      "endTime": 227.53,
+      "text": "And even if you're going in the autumn, make sure you don't get sunburned.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 227.53,
+      "endTime": 230.01,
+      "text": "Even if it looks cloudy, take sunscreen. Lots of it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 230.01,
+      "endTime": 232.14,
+      "text": "I think you've convinced me to sign up.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 232.14,
+      "endTime": 237.0,
+      "text": "When I was looking at the website, I saw that if I register online, I can get a discount.",
+      "timestampSource": "exact",
+      "qTags": [
+        9
+      ]
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 237.0,
+      "endTime": 241.25,
+      "text": "Did you do that or go through a travel agency? I registered online, of course.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 242.0,
+      "endTime": 245.35,
+      "text": "I just have to let my boss know when I want to take time off.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 245.35,
+      "endTime": 256.48,
+      "text": "And then the other important thing I read was that you have to make sure that your insurance company know that you're going on an adventure trip to make sure that you're covered in case anything happens.",
+      "timestampSource": "exact",
+      "qTags": [
+        10
+      ]
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 256.48,
+      "endTime": 260.65,
+      "text": "I'm sure it won't. But better be safe than sorry. That is the end of Part 1.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 260.65,
+      "endTime": 263.72,
+      "text": "You now have one minute to check your answers to Part 1.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 2,
+      "startTime": 264.47,
+      "endTime": 277.53,
+      "text": "You will hear a talk about a summer sports camp for people who are interested in working there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 2,
+      "startTime": 277.53,
+      "endTime": 285.09,
+      "text": "First you have some time to look at questions 11 to 16.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 2,
+      "startTime": 285.09,
+      "endTime": 292.1,
+      "text": "Now listen carefully and answer questions 11 to 16.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 2,
+      "startTime": 292.1,
+      "endTime": 299.38,
+      "text": "Welcome to this talk about the UK summer sports camp.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 2,
+      "startTime": 299.38,
+      "endTime": 313.95,
+      "text": "I'm going to tell you about our summer sports camp for children and something about the children who come.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 2,
+      "startTime": 313.95,
+      "endTime": 327.41,
+      "text": "Later on I'll tell you how to apply if you'd like to work with us this year, so please be patient.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 2,
+      "startTime": 328.16,
+      "endTime": 333.33,
+      "text": "Feel free to interrupt if there's anything you don't understand about the way the camp is administered,",
+      "timestampSource": "exact",
+      "qTags": [
+        11
+      ]
+    },
+    {
+      "id": "seg-059",
+      "part": 2,
+      "startTime": 333.33,
+      "endTime": 338.05,
+      "text": "though if you could save any questions about the work itself until the end that would be good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 2,
+      "startTime": 338.05,
+      "endTime": 343.93,
+      "text": "The UK summer sports camp offers courses for kids aged 6 to 16, which focus on a wide range of sports and activities.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 2,
+      "startTime": 343.93,
+      "endTime": 346.59,
+      "text": "Our aim is to provide a fun safe experience for kids.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 2,
+      "startTime": 346.59,
+      "endTime": 351.91,
+      "text": "The reason we're successful is because parents trust us and send their children to us summer after summer.",
+      "timestampSource": "exact",
+      "qTags": [
+        12
+      ]
+    },
+    {
+      "id": "seg-063",
+      "part": 2,
+      "startTime": 351.91,
+      "endTime": 365.12,
+      "text": "We aren't the cheapest camp around, which might put some people off, but we make sure our team are caring and enthusiastic and that's why parents want their children to keep coming back, rather than because of the facilities on offer, great as they are of course.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 2,
+      "startTime": 365.12,
+      "endTime": 367.93,
+      "text": "We think our summer camp is special in a number of ways.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 2,
+      "startTime": 367.93,
+      "endTime": 371.35,
+      "text": "We have students from all over the country, not just the local area.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 2,
+      "startTime": 371.35,
+      "endTime": 375.87,
+      "text": "We run all the activities you'd expect in a summer camp, arts and music as well as sports,",
+      "timestampSource": "exact",
+      "qTags": [
+        13
+      ]
+    },
+    {
+      "id": "seg-067",
+      "part": 2,
+      "startTime": 375.87,
+      "endTime": 380.94,
+      "text": "but we also have special coaching for those who might be able to make a career in their chosen sport.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 2,
+      "startTime": 380.94,
+      "endTime": 383.8,
+      "text": "What will your role be if you come and work with us then?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 2,
+      "startTime": 383.8,
+      "endTime": 388.84,
+      "text": "We need lots of people who are willing to teach the activities, but we also have non-coaching roles.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 2,
+      "startTime": 388.84,
+      "endTime": 395.79,
+      "text": "What we particularly like this summer are people who are willing to be in charge of looking after our younger kids,",
+      "timestampSource": "exact",
+      "qTags": [
+        14
+      ]
+    },
+    {
+      "id": "seg-071",
+      "part": 2,
+      "startTime": 395.79,
+      "endTime": 400.5,
+      "text": "making sure they're happy and have someone to go to if they have any problems.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 2,
+      "startTime": 400.5,
+      "endTime": 406.3,
+      "text": "We usually need a few cooks too, though we don't need anyone extra for our office at the moment.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 2,
+      "startTime": 406.3,
+      "endTime": 411.01,
+      "text": "This year I'm very pleased to introduce a new role at the camp, camera person.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 411.01,
+      "endTime": 416.27,
+      "text": "We need someone with great video and photography skills to record the fun everyone has.",
+      "timestampSource": "exact",
+      "qTags": [
+        15
+      ]
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 416.27,
+      "endTime": 421.47,
+      "text": "We'll supply first class equipment, but we need you to supply your creative abilities.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 421.47,
+      "endTime": 425.46,
+      "text": "If you're interested in this role, come and talk to me at the end.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 425.46,
+      "endTime": 429.69,
+      "text": "Now you probably want to know about working conditions, hours and pay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 429.69,
+      "endTime": 434.58,
+      "text": "This depends on your role. You can choose to work daytimes, evenings or weekends.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 434.58,
+      "endTime": 440.86,
+      "text": "Daytime coaching roles pay the highest wages because of the sports skills required and the longer hours.",
+      "timestampSource": "exact",
+      "qTags": [
+        16
+      ]
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 440.86,
+      "endTime": 447.38,
+      "text": "If you choose to work in the kitchen, your hours of work will be either at breakfast and lunch or at dinner.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 447.38,
+      "endTime": 452.94,
+      "text": "Cleaners work in the mornings before the camp activities start at 10 a.m., so not too early.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 452.94,
+      "endTime": 458.2,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 17 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 458.2,
+      "endTime": 460.68,
+      "text": "Now listen and answer questions 17 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 460.68,
+      "endTime": 465.27,
+      "text": "If you do work with us, there are lots of benefits in addition to the money.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 465.27,
+      "endTime": 470.4,
+      "text": "Whether you're teaching a sport or not, you'll be given access to all our facilities,",
+      "timestampSource": "exact",
+      "qTags": [
+        17
+      ]
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 470.4,
+      "endTime": 475.72,
+      "text": "which means you can have a swim or play a football match without having to pay anything.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 475.72,
+      "endTime": 482.79,
+      "text": "We have an internet cafe where there's a small charge for access and we also provide discounted meals in our canteen.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 482.79,
+      "endTime": 488.17,
+      "text": "We'll give everyone UK summer camp t-shirts, which we'll expect you to wear when working.",
+      "timestampSource": "exact",
+      "qTags": [
+        18
+      ]
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 488.17,
+      "endTime": 492.88,
+      "text": "And if you wish, we also have some cool sports bags which are for a small fee.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 492.88,
+      "endTime": 494.75,
+      "text": "So, what do we expect from you?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 494.75,
+      "endTime": 499.16,
+      "text": "You'll be glad to hear that we don't need to see any formal certificates.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 499.16,
+      "endTime": 504.36,
+      "text": "If you've worked with kids before, that would be an advantage, but it isn't essential.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 504.36,
+      "endTime": 507.98,
+      "text": "Of course, you need to be sociable and enjoy meeting people.",
+      "timestampSource": "exact",
+      "qTags": [
+        19
+      ]
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 507.98,
+      "endTime": 514.2,
+      "text": "There'll always be a supervisor available who you should talk to before making any important decisions.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 514.2,
+      "endTime": 521.45,
+      "text": "We can't accept applications from people under the age of 18, I'm afraid, but if you haven't got there yet, don't worry.",
+      "timestampSource": "exact",
+      "qTags": [
+        20
+      ]
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 521.45,
+      "endTime": 524.71,
+      "text": "There's always next time. That is the end of part two.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 524.71,
+      "endTime": 528.2,
+      "text": "You now have 30 seconds to check your answers to part two.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 3,
+      "startTime": 528.2,
+      "endTime": 551.29,
+      "text": "You will hear a discussion between a student called Mike and his tutor about Mike's proposed project on oral history.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 3,
+      "startTime": 551.29,
+      "endTime": 562.34,
+      "text": "First, you have some time to look at questions 21 to 25.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 3,
+      "startTime": 562.34,
+      "endTime": 572.4,
+      "text": "Now listen carefully and answer questions 21 to 25.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 3,
+      "startTime": 575.4,
+      "endTime": 576.83,
+      "text": "Thanks Mike for dropping by.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 3,
+      "startTime": 576.83,
+      "endTime": 581.58,
+      "text": "I've read the proposal for your project, which is an oral history of the local football team,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 3,
+      "startTime": 581.58,
+      "endTime": 585.25,
+      "text": "particularly the time around 1983 when they won the league championship.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 3,
+      "startTime": 585.25,
+      "endTime": 587.39,
+      "text": "But first, how do you define oral history?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 3,
+      "startTime": 587.39,
+      "endTime": 592.14,
+      "text": "Well, in fact, I used the definition you gave us last year in our research methodology class.",
+      "timestampSource": "exact",
+      "qTags": [
+        21
+      ]
+    },
+    {
+      "id": "seg-106",
+      "part": 3,
+      "startTime": 592.14,
+      "endTime": 593.72,
+      "text": "I found the handout in my file.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 3,
+      "startTime": 593.72,
+      "endTime": 599.33,
+      "text": "The definition says that oral histories are planned interviews or conversations about some aspect of the past,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 3,
+      "startTime": 599.33,
+      "endTime": 602.14,
+      "text": "which is considered historically or socially important.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 3,
+      "startTime": 602.14,
+      "endTime": 605.61,
+      "text": "The interviews are with people who took part in whatever it's about,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 3,
+      "startTime": 605.61,
+      "endTime": 610.61,
+      "text": "so there'll be a record which historians can use later for all those academic articles they write.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 3,
+      "startTime": 611.36,
+      "endTime": 618.6,
+      "text": "And although history textbooks are mostly about famous people and important events, oral history can be about ordinary people doing ordinary things.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 3,
+      "startTime": 618.6,
+      "endTime": 622.02,
+      "text": "Oral history really seems to have started in the States. You're right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 3,
+      "startTime": 622.02,
+      "endTime": 626.28,
+      "text": "In fact, the first modern oral history interviews were done by a historian in New York.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 3,
+      "startTime": 626.28,
+      "endTime": 631.32,
+      "text": "By that time, audio technology had improved so much that it was fairly easy to record those interviews.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 3,
+      "startTime": 631.32,
+      "endTime": 635.33,
+      "text": "I was also interested in how the internet has contributed to oral history studies.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 3,
+      "startTime": 635.33,
+      "endTime": 638.75,
+      "text": "Yes, it means that lots of people can access the material and that's great.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 3,
+      "startTime": 638.75,
+      "endTime": 643.68,
+      "text": "Also, the interactive nature of the better websites means that more students get interested in oral history.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 3,
+      "startTime": 643.68,
+      "endTime": 649.57,
+      "text": "But from what I've read, the real contribution of the internet is that the recording of the interviews will be preserved forever.",
+      "timestampSource": "exact",
+      "qTags": [
+        22
+      ]
+    },
+    {
+      "id": "seg-119",
+      "part": 3,
+      "startTime": 650.32,
+      "endTime": 655.14,
+      "text": "In the old days, the tapes would just wear out and after some years you couldn't really use them, but not now.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 3,
+      "startTime": 655.14,
+      "endTime": 658.56,
+      "text": "You're right, of course. Anyhow, let's move on to the subject of your project.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 658.56,
+      "endTime": 660.53,
+      "text": "Why did you decide to study a sports team?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 660.53,
+      "endTime": 665.94,
+      "text": "Well, actually, I don't even like football very much and some of my friends think I'm crazy to go for that subject,",
+      "timestampSource": "exact",
+      "qTags": [
+        23
+      ]
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 665.94,
+      "endTime": 668.62,
+      "text": "but my dad is a huge fan and he might be able to help me.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 668.62,
+      "endTime": 672.99,
+      "text": "And how did you find out background about the team? You talked to the team manager, I assume?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 672.99,
+      "endTime": 678.68,
+      "text": "Yes, I did manage to track him down and I looked at all the old news stories about the team in the town newspaper office.",
+      "timestampSource": "exact",
+      "qTags": [
+        24
+      ]
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 678.68,
+      "endTime": 681.03,
+      "text": "That was where I got the most helpful information.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 681.78,
+      "endTime": 686.98,
+      "text": "I had high hopes that the local library would have lots of stuff, but they don't keep many records for more than 10 years.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 686.98,
+      "endTime": 692.01,
+      "text": "I know that you managed to locate 10 of the original 18 members of the team using an old-fashioned method, didn't you?",
+      "timestampSource": "exact",
+      "qTags": [
+        25
+      ]
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 692.01,
+      "endTime": 694.39,
+      "text": "Not a website or anything, just the telephone directory.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 694.39,
+      "endTime": 696.77,
+      "text": "Yes, I didn't even need to use the local team's records.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 699.02,
+      "endTime": 707.8,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 26 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 707.8,
+      "endTime": 715.73,
+      "text": "Now listen and answer questions 26 to 30. OK, now I've read your proposal carefully.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 715.73,
+      "endTime": 723.75,
+      "text": "Overall, your plans seem excellent, but I want to discuss how you might improve them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 723.75,
+      "endTime": 729.6,
+      "text": "Great. I've read through the list of questions you've drafted.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 729.6,
+      "endTime": 736.49,
+      "text": "I felt most of them are rather complex to be processed as oral questions.",
+      "timestampSource": "exact",
+      "qTags": [
+        26
+      ]
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 736.49,
+      "endTime": 745.36,
+      "text": "You don't have too many, which is good, but you should try to do something about that problem.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 745.36,
+      "endTime": 747.71,
+      "text": "Right, I'll work on them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 748.46,
+      "endTime": 750.79,
+      "text": "And the time you've allotted for each interview.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 750.79,
+      "endTime": 753.9,
+      "text": "Actually, I think you may have scheduled too much time for each.",
+      "timestampSource": "exact",
+      "qTags": [
+        27
+      ]
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 753.9,
+      "endTime": 757.68,
+      "text": "You want them to be tight, not going on and on. That makes for better results.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 757.68,
+      "endTime": 761.95,
+      "text": "I can change the schedule. One thing I'm nervous about is the recording equipment I use.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 761.95,
+      "endTime": 763.05,
+      "text": "I've got an old recorder.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 763.05,
+      "endTime": 767.76,
+      "text": "It runs without making too much noise and it isn't complicated, but it sometimes just doesn't seem to work.",
+      "timestampSource": "exact",
+      "qTags": [
+        28
+      ]
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 767.76,
+      "endTime": 770.19,
+      "text": "It stopped during an interview I tried out with my dad.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 770.19,
+      "endTime": 773.07,
+      "text": "The important thing is just be ready if anything happens.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 773.07,
+      "endTime": 775.7,
+      "text": "Take some spare batteries or even an extra recorder.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 775.7,
+      "endTime": 779.18,
+      "text": "Now, I'm a little concerned with the subjects you've chosen to cover.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 779.18,
+      "endTime": 781.93,
+      "text": "The topics seem quite general, not very specific.",
+      "timestampSource": "exact",
+      "qTags": [
+        29
+      ]
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 781.93,
+      "endTime": 784.91,
+      "text": "For example, why did they like playing for this team?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 784.91,
+      "endTime": 787.94,
+      "text": "You need to talk about more exact things and feelings.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 787.94,
+      "endTime": 790.42,
+      "text": "That way your results will be more valuable.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 791.17,
+      "endTime": 792.21,
+      "text": "I'll try to refine them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 792.21,
+      "endTime": 796.73,
+      "text": "And, you know, the plan for my report seems to be just to report back more or less what the players say,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 3,
+      "startTime": 796.73,
+      "endTime": 800.16,
+      "text": "what happened, when, what they each did and so on. But I'm not sure about that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 3,
+      "startTime": 800.91,
+      "endTime": 803.64,
+      "text": "Yes. Although your outline seems long enough,",
+      "timestampSource": "exact",
+      "qTags": [
+        30
+      ]
+    },
+    {
+      "id": "seg-156",
+      "part": 3,
+      "startTime": 803.64,
+      "endTime": 810.3,
+      "text": "change it to indicate that you plan to include your own evaluation of the data you get from your interviewees.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 3,
+      "startTime": 810.3,
+      "endTime": 814.84,
+      "text": "Anyhow, best of luck on your project. I look forward to seeing the results.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 3,
+      "startTime": 814.84,
+      "endTime": 817.75,
+      "text": "Thanks for your help. That is the end of Part 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 3,
+      "startTime": 817.75,
+      "endTime": 821.14,
+      "text": "You now have 30 seconds to check your answers to Part 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 4,
+      "startTime": 821.14,
+      "endTime": 849.27,
+      "text": "You'll hear a medical science student summing up a presentation about ideas for improving services at a local hospital.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 4,
+      "startTime": 849.27,
+      "endTime": 862.27,
+      "text": "First you have some time to look at questions 31 to 40.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 4,
+      "startTime": 862.27,
+      "endTime": 874.33,
+      "text": "Now listen carefully and answer questions 31 to 40.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 4,
+      "startTime": 877.33,
+      "endTime": 879.93,
+      "text": "So that brings me now to my key concluding points.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 4,
+      "startTime": 879.93,
+      "endTime": 883.15,
+      "text": "I'll begin with one section of feedback from my questionnaire.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 4,
+      "startTime": 883.15,
+      "endTime": 887.82,
+      "text": "As I said, I asked 200 local people several questions about the hospital and its services.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 4,
+      "startTime": 888.57,
+      "endTime": 893.85,
+      "text": "Amongst other questions I asked which things would influence their choice of which hospital they would want to be treated in.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 4,
+      "startTime": 893.85,
+      "endTime": 895.88,
+      "text": "The results were quite surprising in some cases.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 4,
+      "startTime": 895.88,
+      "endTime": 902.05,
+      "text": "For instance, people felt it was really important, not the distance the hospital was from their homes, but how easy it was to get transport there.",
+      "timestampSource": "exact",
+      "qTags": [
+        31
+      ]
+    },
+    {
+      "id": "seg-169",
+      "part": 4,
+      "startTime": 902.05,
+      "endTime": 906.54,
+      "text": "But this might be reflective of the advanced age of many of the people who took part in my survey.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 4,
+      "startTime": 906.54,
+      "endTime": 911.07,
+      "text": "How modern and safe the hospital building was, was something that some people were concerned about,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 4,
+      "startTime": 911.07,
+      "endTime": 913.77,
+      "text": "but this wasn't quoted often enough to make it significant.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 4,
+      "startTime": 913.77,
+      "endTime": 915.65,
+      "text": "How clean it was, however, certainly was.",
+      "timestampSource": "exact",
+      "qTags": [
+        32
+      ]
+    },
+    {
+      "id": "seg-173",
+      "part": 4,
+      "startTime": 915.65,
+      "endTime": 918.31,
+      "text": "One in two people surveyed listed this as a major concern.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 4,
+      "startTime": 918.31,
+      "endTime": 926.87,
+      "text": "People also said it was important for them to know that a member of the hospital staff would be prepared to give them information they needed about their treatment before they had it too.",
+      "timestampSource": "exact",
+      "qTags": [
+        33
+      ]
+    },
+    {
+      "id": "seg-175",
+      "part": 4,
+      "startTime": 926.87,
+      "endTime": 932.77,
+      "text": "I think the hospital should make every effort to address these issues and I've agreed to report them to the hospital authorities.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 4,
+      "startTime": 933.52,
+      "endTime": 937.17,
+      "text": "OK, now for some changes that are going to take place over the next 12 months.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 4,
+      "startTime": 937.17,
+      "endTime": 948.5,
+      "text": "I interviewed two key hospital management staff and they said that there is a plan to add to the existing hospital website to advise doctors who practise in the area, as well as on-site staff, of changes and developments in hospital services.",
+      "timestampSource": "exact",
+      "qTags": [
+        34
+      ]
+    },
+    {
+      "id": "seg-178",
+      "part": 4,
+      "startTime": 948.5,
+      "endTime": 953.75,
+      "text": "They also said that a scheme to celebrate success and recognise effort for particular staff is being introduced.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 4,
+      "startTime": 953.75,
+      "endTime": 955.64,
+      "text": "I thought this was a really good idea.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 4,
+      "startTime": 955.64,
+      "endTime": 960.86,
+      "text": "It hasn't been decided yet what form this will take, but it's likely to be a bonus of some kind, I think.",
+      "timestampSource": "exact",
+      "qTags": [
+        35
+      ]
+    },
+    {
+      "id": "seg-181",
+      "part": 4,
+      "startTime": 960.86,
+      "endTime": 963.49,
+      "text": "Wage rises for all are always welcome too, of course.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 4,
+      "startTime": 964.24,
+      "endTime": 969.69,
+      "text": "Another idea that the hospital management want to introduce is to find a way to assess the views of visitors to the hospital.",
+      "timestampSource": "exact",
+      "qTags": [
+        36
+      ]
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 969.69,
+      "endTime": 972.91,
+      "text": "People coming in to see their friends or relatives who are patients there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 972.91,
+      "endTime": 977.79,
+      "text": "They'll be asked to comment on all kinds of topics from the layout of the hospital to the friendliness of staff,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 4,
+      "startTime": 977.79,
+      "endTime": 979.97,
+      "text": "so, in theory at least, the hospital is listening.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 4,
+      "startTime": 980.72,
+      "endTime": 987.15,
+      "text": "And the hospital will be looking at how good the communication is between managers and staff and, in turn, that between staff and patients.",
+      "timestampSource": "exact",
+      "qTags": [
+        37
+      ]
+    },
+    {
+      "id": "seg-187",
+      "part": 4,
+      "startTime": 987.15,
+      "endTime": 989.93,
+      "text": "Necessary actions will be fed into future development plans.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 4,
+      "startTime": 989.93,
+      "endTime": 991.96,
+      "text": "I thought this was really good practise too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 4,
+      "startTime": 991.96,
+      "endTime": 998.31,
+      "text": "If you can't take proper professional care of your staff, how can they take proper professional care of the patients?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 4,
+      "startTime": 998.31,
+      "endTime": 1003.03,
+      "text": "So, after analysing the completed questionnaires and talking to hospital staff members,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 4,
+      "startTime": 1003.03,
+      "endTime": 1006.67,
+      "text": "I'd like to end my presentation with the following recommendations.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 4,
+      "startTime": 1006.67,
+      "endTime": 1014.22,
+      "text": "At the moment, people have to travel to another hospital that's 60 miles away for treatment of illnesses associated with interrupted sleep.",
+      "timestampSource": "exact",
+      "qTags": [
+        38
+      ]
+    },
+    {
+      "id": "seg-193",
+      "part": 4,
+      "startTime": 1014.22,
+      "endTime": 1017.43,
+      "text": "So, a unit to support that would be really useful, I think.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-194",
+      "part": 4,
+      "startTime": 1018.18,
+      "endTime": 1022.17,
+      "text": "I'd also suggest investigating the possibility of funding a new plastic surgery unit,",
+      "timestampSource": "exact",
+      "qTags": [
+        39
+      ]
+    },
+    {
+      "id": "seg-195",
+      "part": 4,
+      "startTime": 1022.17,
+      "endTime": 1025.36,
+      "text": "because that's another service that patients cannot receive locally.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-196",
+      "part": 4,
+      "startTime": 1025.36,
+      "endTime": 1029.4,
+      "text": "There is already a new eye unit, which staff told me is very welcome in the community.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-197",
+      "part": 4,
+      "startTime": 1029.4,
+      "endTime": 1035.08,
+      "text": "And lastly, the hospital is adequately equipped with operating theatres in ratio to the number of patients treated there,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-198",
+      "part": 4,
+      "startTime": 1035.08,
+      "endTime": 1036.91,
+      "text": "so equipment and space isn't a problem.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-199",
+      "part": 4,
+      "startTime": 1037.66,
+      "endTime": 1048.47,
+      "text": "But many of them are empty for long periods of time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-200",
+      "part": 4,
+      "startTime": 1048.47,
+      "endTime": 1068.01,
+      "text": "If better planning was implemented, these and other facilities could be in use 24 hours a day.",
+      "timestampSource": "exact",
+      "qTags": [
+        40
+      ]
+    },
+    {
+      "id": "seg-201",
+      "part": 4,
+      "startTime": 1068.01,
+      "endTime": 1077.57,
+      "text": "Right, if anyone wants to ask me a question...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-202",
+      "part": 4,
+      "startTime": 1077.57,
+      "endTime": 1082.97,
+      "text": "That is the end of Part 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-203",
+      "part": 4,
+      "startTime": 1082.97,
+      "endTime": 1094.19,
+      "text": "You now have 1 minute to check your answers to Part 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-204",
+      "part": 4,
+      "startTime": 1094.19,
+      "endTime": 1102.09,
+      "text": "That is the end of the listening test.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-205",
+      "part": 4,
+      "startTime": 1102.09,
+      "endTime": 1359.98,
+      "text": "You now have 10 minutes to transfer your answers to the listening answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-206",
+      "part": 4,
+      "startTime": 1359.98,
+      "endTime": 1438.33,
+      "text": "You have 2 minutes left.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-207",
+      "part": 4,
+      "startTime": 1438.33,
+      "endTime": 1513.41,
+      "text": "You have 1 minute left.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-208",
+      "part": 4,
+      "startTime": 1558.36,
+      "endTime": 1561.36,
+      "text": "Please stop writing and wait for your question booklet to be collected.",
+      "timestampSource": "exact",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 23.23,
+      "text": "IELTS Listening, version 53942. You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only. The test is in four parts. Write all your answers in the listening question booklet.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003",
+        "seg-004",
+        "seg-005"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 23.97,
+      "endTime": 56.13,
+      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to part one on page two of your question booklet. Part one. You will hear two friends called Greg and Jenny talking about a horseback riding trip that Jenny is planning to do.",
+      "segmentIds": [
+        "seg-006",
+        "seg-007",
+        "seg-008"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 56.13,
+      "endTime": 77.68,
+      "text": "First, you have some time to look at questions one to six. Now listen carefully and answer questions one to six. Hi Greg, great to see you.",
+      "segmentIds": [
+        "seg-009",
+        "seg-010",
+        "seg-011"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 77.68,
+      "endTime": 97.31,
+      "text": "And thanks for emailing me with the details of the horseback riding trip you went on. I looked at the website, and it looks great. Yeah, I went on the two-day mini-break. Is that what you're thinking about? Yes, that's the one. Do you think they'd have places now in July, or will it be full? If you can, hang on till September. That's when I went, and it was a really great time to go.",
+      "segmentIds": [
+        "seg-012",
+        "seg-013",
+        "seg-014",
+        "seg-015",
+        "seg-016"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 97.31,
+      "endTime": 116.88,
+      "text": "It's not so hot for a start. That'd suit me better anyway. And also, at one point when we stopped for a picnic, I was lying in a field, looking up, and saw a huge flock of birds. They were obviously migrating. That's another reason why it's a good time to go. Oh, great. Oh, and another thing? You don't stay in a hotel. You stay in a tent, so you don't have to come back to town in the evening.",
+      "segmentIds": [
+        "seg-017",
+        "seg-018",
+        "seg-019",
+        "seg-020",
+        "seg-021"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 117.63,
+      "endTime": 136.58,
+      "text": "I'm up for that. So, where do you go on the first day? Through some amazing wooded valleys, full of chestnut and beech trees. But that's just the morning. Where you're really heading for is the mountains, and when you set out, you can only see them in the far distance. You don't actually get there until sunset. Is it hard work, riding all day? No.",
+      "segmentIds": [
+        "seg-022",
+        "seg-023",
+        "seg-024",
+        "seg-025",
+        "seg-026"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 136.58,
+      "endTime": 156.59,
+      "text": "The pace is easy, and there are plenty of breaks built in for picnics and even a snooze. But on that first evening, when you've been riding all day, you get the opportunity to go for a swim, and you really enjoy that. So relaxing. And what's on day two? You said something about the national park? No. Day two, you go up this incredible valley. At the end of it, there's a waterfall.",
+      "segmentIds": [
+        "seg-027",
+        "seg-028",
+        "seg-029",
+        "seg-030",
+        "seg-031"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 157.33,
+      "endTime": 168.57,
+      "text": "It's an amazing place to stop for lunch. We even spotted an eagle while we were sitting there. And in the afternoon, there's a trip that goes to a cave. You can even ride into it. Wow, that sounds great. I can't wait.",
+      "segmentIds": [
+        "seg-032",
+        "seg-033",
+        "seg-034"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 170.82,
+      "endTime": 194.73,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions seven to ten. Now listen and answer questions seven to ten. Okay, so what are your tips for a horseback riding weekend?",
+      "segmentIds": [
+        "seg-035",
+        "seg-036",
+        "seg-037"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 194.73,
+      "endTime": 214.05,
+      "text": "Well, I'd had a sore knee before I went, and I was pretty worried about that. It was okay, actually, but what you've got to watch for is that you don't have any trouble with your back. Riding can really aggravate that. No problem there. And comfortable clothes, I guess.",
+      "segmentIds": [
+        "seg-038",
+        "seg-039",
+        "seg-040"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 214.05,
+      "endTime": 232.14,
+      "text": "Yeah, but another thing I hadn't realized is that you actually walk the horses down some pretty steep and uneven paths. So make sure you have walking boots, not just normal riding boots. And even if you're going in the autumn, make sure you don't get sunburned. Even if it looks cloudy, take sunscreen. Lots of it. I think you've convinced me to sign up.",
+      "segmentIds": [
+        "seg-041",
+        "seg-042",
+        "seg-043",
+        "seg-044",
+        "seg-045"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 232.14,
+      "endTime": 245.35,
+      "text": "When I was looking at the website, I saw that if I register online, I can get a discount. Did you do that or go through a travel agency? I registered online, of course. I just have to let my boss know when I want to take time off.",
+      "segmentIds": [
+        "seg-046",
+        "seg-047",
+        "seg-048"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 245.35,
+      "endTime": 263.72,
+      "text": "And then the other important thing I read was that you have to make sure that your insurance company know that you're going on an adventure trip to make sure that you're covered in case anything happens. I'm sure it won't. But better be safe than sorry. That is the end of Part 1. You now have one minute to check your answers to Part 1.",
+      "segmentIds": [
+        "seg-049",
+        "seg-050",
+        "seg-051"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 2,
+      "startTime": 264.47,
+      "endTime": 292.1,
+      "text": "You will hear a talk about a summer sports camp for people who are interested in working there. First you have some time to look at questions 11 to 16. Now listen carefully and answer questions 11 to 16.",
+      "segmentIds": [
+        "seg-052",
+        "seg-053",
+        "seg-054"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 2,
+      "startTime": 292.1,
+      "endTime": 327.41,
+      "text": "Welcome to this talk about the UK summer sports camp. I'm going to tell you about our summer sports camp for children and something about the children who come. Later on I'll tell you how to apply if you'd like to work with us this year, so please be patient.",
+      "segmentIds": [
+        "seg-055",
+        "seg-056",
+        "seg-057"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 2,
+      "startTime": 328.16,
+      "endTime": 351.91,
+      "text": "Feel free to interrupt if there's anything you don't understand about the way the camp is administered, though if you could save any questions about the work itself until the end that would be good. The UK summer sports camp offers courses for kids aged 6 to 16, which focus on a wide range of sports and activities. Our aim is to provide a fun safe experience for kids. The reason we're successful is because parents trust us and send their children to us summer after summer.",
+      "segmentIds": [
+        "seg-058",
+        "seg-059",
+        "seg-060",
+        "seg-061",
+        "seg-062"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 2,
+      "startTime": 351.91,
+      "endTime": 375.87,
+      "text": "We aren't the cheapest camp around, which might put some people off, but we make sure our team are caring and enthusiastic and that's why parents want their children to keep coming back, rather than because of the facilities on offer, great as they are of course. We think our summer camp is special in a number of ways. We have students from all over the country, not just the local area. We run all the activities you'd expect in a summer camp, arts and music as well as sports,",
+      "segmentIds": [
+        "seg-063",
+        "seg-064",
+        "seg-065",
+        "seg-066"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 2,
+      "startTime": 375.87,
+      "endTime": 395.79,
+      "text": "but we also have special coaching for those who might be able to make a career in their chosen sport. What will your role be if you come and work with us then? We need lots of people who are willing to teach the activities, but we also have non-coaching roles. What we particularly like this summer are people who are willing to be in charge of looking after our younger kids,",
+      "segmentIds": [
+        "seg-067",
+        "seg-068",
+        "seg-069",
+        "seg-070"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 2,
+      "startTime": 395.79,
+      "endTime": 416.27,
+      "text": "making sure they're happy and have someone to go to if they have any problems. We usually need a few cooks too, though we don't need anyone extra for our office at the moment. This year I'm very pleased to introduce a new role at the camp, camera person. We need someone with great video and photography skills to record the fun everyone has.",
+      "segmentIds": [
+        "seg-071",
+        "seg-072",
+        "seg-073",
+        "seg-074"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 416.27,
+      "endTime": 434.58,
+      "text": "We'll supply first class equipment, but we need you to supply your creative abilities. If you're interested in this role, come and talk to me at the end. Now you probably want to know about working conditions, hours and pay. This depends on your role. You can choose to work daytimes, evenings or weekends.",
+      "segmentIds": [
+        "seg-075",
+        "seg-076",
+        "seg-077",
+        "seg-078"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-021",
+      "part": 2,
+      "startTime": 434.58,
+      "endTime": 458.2,
+      "text": "Daytime coaching roles pay the highest wages because of the sports skills required and the longer hours. If you choose to work in the kitchen, your hours of work will be either at breakfast and lunch or at dinner. Cleaners work in the mornings before the camp activities start at 10 a.m., so not too early. Before you hear the rest of the talk, you have some time to look at questions 17 to 20.",
+      "segmentIds": [
+        "seg-079",
+        "seg-080",
+        "seg-081",
+        "seg-082"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 458.2,
+      "endTime": 475.72,
+      "text": "Now listen and answer questions 17 to 20. If you do work with us, there are lots of benefits in addition to the money. Whether you're teaching a sport or not, you'll be given access to all our facilities, which means you can have a swim or play a football match without having to pay anything.",
+      "segmentIds": [
+        "seg-083",
+        "seg-084",
+        "seg-085",
+        "seg-086"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-023",
+      "part": 2,
+      "startTime": 475.72,
+      "endTime": 499.16,
+      "text": "We have an internet cafe where there's a small charge for access and we also provide discounted meals in our canteen. We'll give everyone UK summer camp t-shirts, which we'll expect you to wear when working. And if you wish, we also have some cool sports bags which are for a small fee. So, what do we expect from you? You'll be glad to hear that we don't need to see any formal certificates.",
+      "segmentIds": [
+        "seg-087",
+        "seg-088",
+        "seg-089",
+        "seg-090",
+        "seg-091"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 2,
+      "startTime": 499.16,
+      "endTime": 521.45,
+      "text": "If you've worked with kids before, that would be an advantage, but it isn't essential. Of course, you need to be sociable and enjoy meeting people. There'll always be a supervisor available who you should talk to before making any important decisions. We can't accept applications from people under the age of 18, I'm afraid, but if you haven't got there yet, don't worry.",
+      "segmentIds": [
+        "seg-092",
+        "seg-093",
+        "seg-094",
+        "seg-095"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 521.45,
+      "endTime": 528.2,
+      "text": "There's always next time. That is the end of part two. You now have 30 seconds to check your answers to part two.",
+      "segmentIds": [
+        "seg-096",
+        "seg-097"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 3,
+      "startTime": 528.2,
+      "endTime": 562.34,
+      "text": "You will hear a discussion between a student called Mike and his tutor about Mike's proposed project on oral history. First, you have some time to look at questions 21 to 25.",
+      "segmentIds": [
+        "seg-098",
+        "seg-099"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 3,
+      "startTime": 562.34,
+      "endTime": 585.25,
+      "text": "Now listen carefully and answer questions 21 to 25. Thanks Mike for dropping by. I've read the proposal for your project, which is an oral history of the local football team, particularly the time around 1983 when they won the league championship.",
+      "segmentIds": [
+        "seg-100",
+        "seg-101",
+        "seg-102",
+        "seg-103"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 3,
+      "startTime": 585.25,
+      "endTime": 602.14,
+      "text": "But first, how do you define oral history? Well, in fact, I used the definition you gave us last year in our research methodology class. I found the handout in my file. The definition says that oral histories are planned interviews or conversations about some aspect of the past, which is considered historically or socially important.",
+      "segmentIds": [
+        "seg-104",
+        "seg-105",
+        "seg-106",
+        "seg-107",
+        "seg-108"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 3,
+      "startTime": 602.14,
+      "endTime": 622.02,
+      "text": "The interviews are with people who took part in whatever it's about, so there'll be a record which historians can use later for all those academic articles they write. And although history textbooks are mostly about famous people and important events, oral history can be about ordinary people doing ordinary things. Oral history really seems to have started in the States. You're right.",
+      "segmentIds": [
+        "seg-109",
+        "seg-110",
+        "seg-111",
+        "seg-112"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-030",
+      "part": 3,
+      "startTime": 622.02,
+      "endTime": 643.68,
+      "text": "In fact, the first modern oral history interviews were done by a historian in New York. By that time, audio technology had improved so much that it was fairly easy to record those interviews. I was also interested in how the internet has contributed to oral history studies. Yes, it means that lots of people can access the material and that's great. Also, the interactive nature of the better websites means that more students get interested in oral history.",
+      "segmentIds": [
+        "seg-113",
+        "seg-114",
+        "seg-115",
+        "seg-116",
+        "seg-117"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 3,
+      "startTime": 643.68,
+      "endTime": 665.94,
+      "text": "But from what I've read, the real contribution of the internet is that the recording of the interviews will be preserved forever. In the old days, the tapes would just wear out and after some years you couldn't really use them, but not now. You're right, of course. Anyhow, let's move on to the subject of your project. Why did you decide to study a sports team? Well, actually, I don't even like football very much and some of my friends think I'm crazy to go for that subject,",
+      "segmentIds": [
+        "seg-118",
+        "seg-119",
+        "seg-120",
+        "seg-121",
+        "seg-122"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 3,
+      "startTime": 665.94,
+      "endTime": 686.98,
+      "text": "but my dad is a huge fan and he might be able to help me. And how did you find out background about the team? You talked to the team manager, I assume? Yes, I did manage to track him down and I looked at all the old news stories about the team in the town newspaper office. That was where I got the most helpful information. I had high hopes that the local library would have lots of stuff, but they don't keep many records for more than 10 years.",
+      "segmentIds": [
+        "seg-123",
+        "seg-124",
+        "seg-125",
+        "seg-126",
+        "seg-127"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 3,
+      "startTime": 686.98,
+      "endTime": 707.8,
+      "text": "I know that you managed to locate 10 of the original 18 members of the team using an old-fashioned method, didn't you? Not a website or anything, just the telephone directory. Yes, I didn't even need to use the local team's records. Before you hear the rest of the discussion, you have some time to look at questions 26 to 30.",
+      "segmentIds": [
+        "seg-128",
+        "seg-129",
+        "seg-130",
+        "seg-131"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 3,
+      "startTime": 707.8,
+      "endTime": 729.6,
+      "text": "Now listen and answer questions 26 to 30. OK, now I've read your proposal carefully. Overall, your plans seem excellent, but I want to discuss how you might improve them. Great. I've read through the list of questions you've drafted.",
+      "segmentIds": [
+        "seg-132",
+        "seg-133",
+        "seg-134"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 3,
+      "startTime": 729.6,
+      "endTime": 750.79,
+      "text": "I felt most of them are rather complex to be processed as oral questions. You don't have too many, which is good, but you should try to do something about that problem. Right, I'll work on them. And the time you've allotted for each interview.",
+      "segmentIds": [
+        "seg-135",
+        "seg-136",
+        "seg-137",
+        "seg-138"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 3,
+      "startTime": 750.79,
+      "endTime": 767.76,
+      "text": "Actually, I think you may have scheduled too much time for each. You want them to be tight, not going on and on. That makes for better results. I can change the schedule. One thing I'm nervous about is the recording equipment I use. I've got an old recorder. It runs without making too much noise and it isn't complicated, but it sometimes just doesn't seem to work.",
+      "segmentIds": [
+        "seg-139",
+        "seg-140",
+        "seg-141",
+        "seg-142",
+        "seg-143"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 767.76,
+      "endTime": 781.93,
+      "text": "It stopped during an interview I tried out with my dad. The important thing is just be ready if anything happens. Take some spare batteries or even an extra recorder. Now, I'm a little concerned with the subjects you've chosen to cover. The topics seem quite general, not very specific.",
+      "segmentIds": [
+        "seg-144",
+        "seg-145",
+        "seg-146",
+        "seg-147",
+        "seg-148"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 781.93,
+      "endTime": 796.73,
+      "text": "For example, why did they like playing for this team? You need to talk about more exact things and feelings. That way your results will be more valuable. I'll try to refine them. And, you know, the plan for my report seems to be just to report back more or less what the players say,",
+      "segmentIds": [
+        "seg-149",
+        "seg-150",
+        "seg-151",
+        "seg-152",
+        "seg-153"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 796.73,
+      "endTime": 817.75,
+      "text": "what happened, when, what they each did and so on. But I'm not sure about that. Yes. Although your outline seems long enough, change it to indicate that you plan to include your own evaluation of the data you get from your interviewees. Anyhow, best of luck on your project. I look forward to seeing the results. Thanks for your help. That is the end of Part 3.",
+      "segmentIds": [
+        "seg-154",
+        "seg-155",
+        "seg-156",
+        "seg-157",
+        "seg-158"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 817.75,
+      "endTime": 821.14,
+      "text": "You now have 30 seconds to check your answers to Part 3.",
+      "segmentIds": [
+        "seg-159"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 4,
+      "startTime": 821.14,
+      "endTime": 862.27,
+      "text": "You'll hear a medical science student summing up a presentation about ideas for improving services at a local hospital. First you have some time to look at questions 31 to 40.",
+      "segmentIds": [
+        "seg-160",
+        "seg-161"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 4,
+      "startTime": 862.27,
+      "endTime": 883.15,
+      "text": "Now listen carefully and answer questions 31 to 40. So that brings me now to my key concluding points. I'll begin with one section of feedback from my questionnaire.",
+      "segmentIds": [
+        "seg-162",
+        "seg-163",
+        "seg-164"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-043",
+      "part": 4,
+      "startTime": 883.15,
+      "endTime": 906.54,
+      "text": "As I said, I asked 200 local people several questions about the hospital and its services. Amongst other questions I asked which things would influence their choice of which hospital they would want to be treated in. The results were quite surprising in some cases. For instance, people felt it was really important, not the distance the hospital was from their homes, but how easy it was to get transport there. But this might be reflective of the advanced age of many of the people who took part in my survey.",
+      "segmentIds": [
+        "seg-165",
+        "seg-166",
+        "seg-167",
+        "seg-168",
+        "seg-169"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 4,
+      "startTime": 906.54,
+      "endTime": 926.87,
+      "text": "How modern and safe the hospital building was, was something that some people were concerned about, but this wasn't quoted often enough to make it significant. How clean it was, however, certainly was. One in two people surveyed listed this as a major concern. People also said it was important for them to know that a member of the hospital staff would be prepared to give them information they needed about their treatment before they had it too.",
+      "segmentIds": [
+        "seg-170",
+        "seg-171",
+        "seg-172",
+        "seg-173",
+        "seg-174"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 4,
+      "startTime": 926.87,
+      "endTime": 948.5,
+      "text": "I think the hospital should make every effort to address these issues and I've agreed to report them to the hospital authorities. OK, now for some changes that are going to take place over the next 12 months. I interviewed two key hospital management staff and they said that there is a plan to add to the existing hospital website to advise doctors who practise in the area, as well as on-site staff, of changes and developments in hospital services.",
+      "segmentIds": [
+        "seg-175",
+        "seg-176",
+        "seg-177"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-046",
+      "part": 4,
+      "startTime": 948.5,
+      "endTime": 969.69,
+      "text": "They also said that a scheme to celebrate success and recognise effort for particular staff is being introduced. I thought this was a really good idea. It hasn't been decided yet what form this will take, but it's likely to be a bonus of some kind, I think. Wage rises for all are always welcome too, of course. Another idea that the hospital management want to introduce is to find a way to assess the views of visitors to the hospital.",
+      "segmentIds": [
+        "seg-178",
+        "seg-179",
+        "seg-180",
+        "seg-181",
+        "seg-182"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 4,
+      "startTime": 969.69,
+      "endTime": 989.93,
+      "text": "People coming in to see their friends or relatives who are patients there. They'll be asked to comment on all kinds of topics from the layout of the hospital to the friendliness of staff, so, in theory at least, the hospital is listening. And the hospital will be looking at how good the communication is between managers and staff and, in turn, that between staff and patients. Necessary actions will be fed into future development plans.",
+      "segmentIds": [
+        "seg-183",
+        "seg-184",
+        "seg-185",
+        "seg-186",
+        "seg-187"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 4,
+      "startTime": 989.93,
+      "endTime": 1006.67,
+      "text": "I thought this was really good practise too. If you can't take proper professional care of your staff, how can they take proper professional care of the patients? So, after analysing the completed questionnaires and talking to hospital staff members, I'd like to end my presentation with the following recommendations.",
+      "segmentIds": [
+        "seg-188",
+        "seg-189",
+        "seg-190",
+        "seg-191"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-049",
+      "part": 4,
+      "startTime": 1006.67,
+      "endTime": 1029.4,
+      "text": "At the moment, people have to travel to another hospital that's 60 miles away for treatment of illnesses associated with interrupted sleep. So, a unit to support that would be really useful, I think. I'd also suggest investigating the possibility of funding a new plastic surgery unit, because that's another service that patients cannot receive locally. There is already a new eye unit, which staff told me is very welcome in the community.",
+      "segmentIds": [
+        "seg-192",
+        "seg-193",
+        "seg-194",
+        "seg-195",
+        "seg-196"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-050",
+      "part": 4,
+      "startTime": 1029.4,
+      "endTime": 1048.47,
+      "text": "And lastly, the hospital is adequately equipped with operating theatres in ratio to the number of patients treated there, so equipment and space isn't a problem. But many of them are empty for long periods of time.",
+      "segmentIds": [
+        "seg-197",
+        "seg-198",
+        "seg-199"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-051",
+      "part": 4,
+      "startTime": 1048.47,
+      "endTime": 1082.97,
+      "text": "If better planning was implemented, these and other facilities could be in use 24 hours a day. Right, if anyone wants to ask me a question... That is the end of Part 4.",
+      "segmentIds": [
+        "seg-200",
+        "seg-201",
+        "seg-202"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-052",
+      "part": 4,
+      "startTime": 1082.97,
+      "endTime": 1102.09,
+      "text": "You now have 1 minute to check your answers to Part 4. That is the end of the listening test.",
+      "segmentIds": [
+        "seg-203",
+        "seg-204"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-053",
+      "part": 4,
+      "startTime": 1102.09,
+      "endTime": 1359.98,
+      "text": "You now have 10 minutes to transfer your answers to the listening answer sheet.",
+      "segmentIds": [
+        "seg-205"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-054",
+      "part": 4,
+      "startTime": 1359.98,
+      "endTime": 1438.33,
+      "text": "You have 2 minutes left.",
+      "segmentIds": [
+        "seg-206"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-055",
+      "part": 4,
+      "startTime": 1438.33,
+      "endTime": 1513.41,
+      "text": "You have 1 minute left.",
+      "segmentIds": [
+        "seg-207"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1558.36,
+      "endTime": 1561.36,
+      "text": "Please stop writing and wait for your question booklet to be collected.",
+      "segmentIds": [
+        "seg-208"
+      ],
+      "timestampSource": "exact"
+    }
+  ]
+}

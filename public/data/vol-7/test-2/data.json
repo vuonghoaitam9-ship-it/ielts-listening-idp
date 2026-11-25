@@ -1,0 +1,3823 @@
+{
+  "id": "vol-7-test-2",
+  "vol": 7,
+  "testNumber": 2,
+  "title": "Vol 7 — Test 2",
+  "pdfUrl": "./data/vol-7/test-2/exam.pdf",
+  "pdfPages": 6,
+  "questionPageRange": [
+    1,
+    6
+  ],
+  "audioUrl": "./data/vol-7/test-2/audio.mp3",
+  "audioDurationSec": 1601.85,
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 0.0,
+      "endTime": 504.0,
+      "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 504.0,
+      "endTime": 898.0,
+      "topicHint": "You will hear a radio talk by Peter Gentle, the organizer of an annual walk called the Tavie Point Walk."
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 898.0,
+      "endTime": 1347.0,
+      "topicHint": "You will hear two students, called Charlie and Delia, discussing a joint assignment for their Human Geography course."
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1347.0,
+      "endTime": 1601.85,
+      "topicHint": "You will hear a university lecturer talking to his students about an architectural studies assignment."
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "E WORD AND/OR A NUMBER for each answer. Holiday Job Location 1…….. Island Start date 2…….. Available jobs Vacancy 1: Calypso Bistro ○ working as a 3…………….. ○ no experience needed Vacancy 2: Guest Liaison ○ must be able to 4…………. Vacancy 3: Activities staff ○ help with games and water sports ○ need experience with 5……… Va",
+      "answerRaw": "Jamieson",
+      "canonicalAnswer": "Jamieson",
+      "acceptedAnswers": [
+        "Jamieson"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I saw an advert for holiday staff on the notice board and I'm very interested.",
+      "evidenceStartTime": 108.78,
+      "evidenceEndTime": 115.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Jamieson\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "or each answer. Holiday Job Location 1…….. Island Start date 2…….. Available jobs Vacancy 1: Calypso Bistro ○ working as a 3…………….. ○ no experience needed Vacancy 2: Guest Liaison ○ must be able to 4…………. Vacancy 3: Activities staff ○ help with games and water sports ○ need experience with 5……… Vacancy 4: In reception ○",
+      "answerRaw": "11 July...",
+      "canonicalAnswer": "11 July",
+      "acceptedAnswers": [
+        "11 July",
+        "11th July",
+        "July 11",
+        "July 11th",
+        "11th of July"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It looks like the applications close by the 12th of May and they would need you to begin from the 11th of July.",
+      "evidenceStartTime": 194.48,
+      "evidenceEndTime": 201.73,
+      "paraphrases": [
+        {
+          "questionTerm": "must",
+          "audioTerm": "need"
+        },
+        {
+          "questionTerm": "start",
+          "audioTerm": "begin"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"11 July\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'must' ↔ 'need'; 'start' ↔ 'begin'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "…….. Available jobs Vacancy 1: Calypso Bistro ○ working as a 3…………….. ○ no experience needed Vacancy 2: Guest Liaison ○ must be able to 4…………. Vacancy 3: Activities staff ○ help with games and water sports ○ need experience with 5……… Vacancy 4: In reception ○ as a porter ○ must be able to 6………. Benefits For all jobs, ○ t",
+      "answerRaw": "waiter",
+      "canonicalAnswer": "waiter",
+      "acceptedAnswers": [
+        "waiter"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, first of all, there is a vacancy in the Calypso Bistro. That's for a waiter.",
+      "evidenceStartTime": 208.0,
+      "evidenceEndTime": 213.35,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"waiter\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "experience needed Vacancy 2: Guest Liaison ○ must be able to 4…………. Vacancy 3: Activities staff ○ help with games and water sports ○ need experience with 5……… Vacancy 4: In reception ○ as a porter ○ must be able to 6………. Benefits For all jobs, ○ there is free 7………. ○ 8 are provided Interview ○ to be held on 9 ………at 2pm ○",
+      "answerRaw": "sing",
+      "canonicalAnswer": "sing",
+      "acceptedAnswers": [
+        "sing"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They definitely need people who can sing. What's your voice like?",
+      "evidenceStartTime": 233.66,
+      "evidenceEndTime": 237.95,
+      "paraphrases": [
+        {
+          "questionTerm": "must",
+          "audioTerm": "need"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"sing\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'must' ↔ 'need'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "ff ○ help with games and water sports ○ need experience with 5……… Vacancy 4: In reception ○ as a porter ○ must be able to 6………. Benefits For all jobs, ○ there is free 7………. ○ 8 are provided Interview ○ to be held on 9 ………at 2pm ○ bring a CV and a 10……….",
+      "answerRaw": "children",
+      "canonicalAnswer": "children",
+      "acceptedAnswers": [
+        "children"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "surfing and cricket, but they definitely need people who have worked with children for that vacancy.",
+      "evidenceStartTime": 261.3,
+      "evidenceEndTime": 267.9,
+      "paraphrases": [
+        {
+          "questionTerm": "must",
+          "audioTerm": "need"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"children\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'must' ↔ 'need'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "5……… Vacancy 4: In reception ○ as a porter ○ must be able to 6………. Benefits For all jobs, ○ there is free 7………. ○ 8 are provided Interview ○ to be held on 9 ………at 2pm ○ bring a CV and a 10……….",
+      "answerRaw": "drive",
+      "canonicalAnswer": "drive",
+      "acceptedAnswers": [
+        "drive"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "A requirement for this role is that you can drive. That might seem strange, but some of the villas are quite far away from the resort hub,",
+      "evidenceStartTime": 282.0,
+      "evidenceEndTime": 300.32,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"drive\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "must be able to 6………. Benefits For all jobs, ○ there is free 7………. ○ 8 are provided Interview ○ to be held on 9 ………at 2pm ○ bring a CV and a 10……….",
+      "answerRaw": "transport",
+      "canonicalAnswer": "transport",
+      "acceptedAnswers": [
+        "transport"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It looks like they only provide it to permanent employees, but staff don't have to pay for transport to and from the island,",
+      "evidenceStartTime": 339.7,
+      "evidenceEndTime": 347.75,
+      "paraphrases": [
+        {
+          "questionTerm": "bring",
+          "audioTerm": "provide"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"transport\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'bring' ↔ 'provide'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "able to 6………. Benefits For all jobs, ○ there is free 7………. ○ 8 are provided Interview ○ to be held on 9 ………at 2pm ○ bring a CV and a 10……….",
+      "answerRaw": "meals",
+      "canonicalAnswer": "meals",
+      "acceptedAnswers": [
+        "meals"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "What about meals? Yes, they're provided when you're on duty, so you would save money on groceries.",
+      "evidenceStartTime": 354.0,
+      "evidenceEndTime": 360.67,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"meals\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "ere is free 7………. ○ 8 are provided Interview ○ to be held on 9 ………at 2pm ○ bring a CV and a 10……….",
+      "answerRaw": "Thursday",
+      "canonicalAnswer": "Thursday",
+      "acceptedAnswers": [
+        "Thursday"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I know the resort personnel manager wants interviews on Wednesday, Thursday and Friday here at the college.",
+      "evidenceStartTime": 364.65,
+      "evidenceEndTime": 372.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Thursday\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "ded Interview ○ to be held on 9 ………at 2pm ○ bring a CV and a 10……….",
+      "answerRaw": "photo",
+      "canonicalAnswer": "photo",
+      "acceptedAnswers": [
+        "photo"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "they've asked everyone to provide a photo as well, so they can remember who is who.",
+      "evidenceStartTime": 396.29,
+      "evidenceEndTime": 402.0,
+      "paraphrases": [
+        {
+          "questionTerm": "bring",
+          "audioTerm": "provide"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"photo\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'bring' ↔ 'provide'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "ions 11–20 Questions 11–15 ObjectsChoose the correct answer. 11 The walk is organised specfically for A.extremely fit people. B.parents with their children. C.tourists unfamiliar with the local area. 12 The maximum number of people on the walk will be A.220. B.250. C.280. 13 The organisers will stop walkers taking part if",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "but we have lots of volunteer stewards who are posted at regular intervals along the way to offer help if needed. The walk is mainly aimed at families. We want to help people to walk with their children.",
+      "evidenceStartTime": 528.58,
+      "evidenceEndTime": 541.86,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "h their children. C.tourists unfamiliar with the local area. 12 The maximum number of people on the walk will be A.220. B.250. C.280. 13 The organisers will stop walkers taking part if they A.arrive without a waterproof coat. B.are causing a lot of trouble. C.are unable to answer basic safety questions. 14 The walk was ca",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We also spend a lot of time fielding walkers questions about safety, both before the walk and while it's going on.",
+      "evidenceStartTime": 602.0,
+      "evidenceEndTime": 609.16,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "um number of people on the walk will be A.220. B.250. C.280. 13 The organisers will stop walkers taking part if they A.arrive without a waterproof coat. B.are causing a lot of trouble. C.are unable to answer basic safety questions. 14 The walk was cancelled two years previously because of A.illness in the organising team.",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We also spend a lot of time fielding walkers questions about safety, both before the walk and while it's going on.",
+      "evidenceStartTime": 602.0,
+      "evidenceEndTime": 609.16,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We also spend a lot of time fielding walkers questions about safety, both before the walk and while it's going on.",
+      "evidenceStartTime": 602.0,
+      "evidenceEndTime": 609.16,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "m. B.very stormy weather. C.problems getting people to help. 15 Badges can be obtained A.only when they have been ordered before the walk. B.immediately people have completed the whole walk. C.one week after the walk has finished. Questions 16–20 What advice does Peter give about the following objects? Choose the correct",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "If you want one, you have to order it one week before the walk and you'll get it by post two weeks after the walk, as long as you finish, of course.",
+      "evidenceStartTime": 682.23,
+      "evidenceEndTime": 691.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": ", if they wish C. Walkers are advised NOT to have this A B C 16 a pair of thick trousers 17 a mobile phone 18 a torch 19 something to drink 20 a rucksack",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "When you register for the walk, we send you a booklet with all the key information, but basically, we do say that you should be properly dressed. Now, it must be emphasised that this doesn't mean that you wear thick trousers like jeans.",
+      "evidenceStartTime": 745.0,
+      "evidenceEndTime": 759.63,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "e advised NOT to have this A B C 16 a pair of thick trousers 17 a mobile phone 18 a torch 19 something to drink 20 a rucksack",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "When you register for the walk, we send you a booklet with all the key information, but basically, we do say that you should be properly dressed. Now, it must be emphasised that this doesn't mean that you wear thick trousers like jeans.",
+      "evidenceStartTime": 745.0,
+      "evidenceEndTime": 759.63,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "ave this A B C 16 a pair of thick trousers 17 a mobile phone 18 a torch 19 something to drink 20 a rucksack",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "When you register for the walk, we send you a booklet with all the key information, but basically, we do say that you should be properly dressed. Now, it must be emphasised that this doesn't mean that you wear thick trousers like jeans.",
+      "evidenceStartTime": 745.0,
+      "evidenceEndTime": 759.63,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "B C 16 a pair of thick trousers 17 a mobile phone 18 a torch 19 something to drink 20 a rucksack",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "When you register for the walk, we send you a booklet with all the key information, but basically, we do say that you should be properly dressed. Now, it must be emphasised that this doesn't mean that you wear thick trousers like jeans.",
+      "evidenceStartTime": 745.0,
+      "evidenceEndTime": 759.63,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "trousers 17 a mobile phone 18 a torch 19 something to drink 20 a rucksack",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And finally, we say it's a very good idea to bring a rucksack, but what size is up to the individual.",
+      "evidenceStartTime": 790.0,
+      "evidenceEndTime": 796.66,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "H useful historical information Websites National Geographic 21 ………… United Nations 22 …………….. Energy Information Administration 23 …………. British Petroleum 24 …………………. Central Intelligence Agency 25 ……………… World Bank 26……………… Questions 27–28 Choose TWO correct answers. 27-28 Which TWO decisions do the students reach about",
+      "answerRaw": "C (useful tool)",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C",
+        "C useful tool",
+        "useful tool"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "That one had masses of useful stuff, only I couldn't get at it.",
+      "evidenceStartTime": 953.68,
+      "evidenceEndTime": 958.0,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu",
+        "giới hạn phạm vi bằng 'only'"
+      ],
+      "explanationVi": "Đáp án đúng là phương án C (useful tool). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "ormation Websites National Geographic 21 ………… United Nations 22 …………….. Energy Information Administration 23 …………. British Petroleum 24 …………………. Central Intelligence Agency 25 ……………… World Bank 26……………… Questions 27–28 Choose TWO correct answers. 27-28 Which TWO decisions do the students reach about the subject matter of",
+      "answerRaw": "A (not free)",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A",
+        "A not free",
+        "not free"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I looked at the website of an agency called the Energy Information Administration.",
+      "evidenceStartTime": 967.82,
+      "evidenceEndTime": 972.98,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án A (not free). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "United Nations 22 …………….. Energy Information Administration 23 …………. British Petroleum 24 …………………. Central Intelligence Agency 25 ……………… World Bank 26……………… Questions 27–28 Choose TWO correct answers. 27-28 Which TWO decisions do the students reach about the subject matter of their assignment? A.They will keep the assess",
+      "answerRaw": "G (missing info)",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G",
+        "G missing info",
+        "missing info"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I looked at the website of an agency called the Energy Information Administration.",
+      "evidenceStartTime": 967.82,
+      "evidenceEndTime": 972.98,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án G (missing info). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "Energy Information Administration 23 …………. British Petroleum 24 …………………. Central Intelligence Agency 25 ……………… World Bank 26……………… Questions 27–28 Choose TWO correct answers. 27-28 Which TWO decisions do the students reach about the subject matter of their assignment? A.They will keep the assessment criteria in mind. B.Th",
+      "answerRaw": "B (too detailed)",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B",
+        "B too detailed",
+        "too detailed"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I thought the British Petroleum website might be a good place to get information about energy use.",
+      "evidenceStartTime": 986.0,
+      "evidenceEndTime": 991.88,
+      "paraphrases": [],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án đúng là phương án B (too detailed). Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "…. British Petroleum 24 …………………. Central Intelligence Agency 25 ……………… World Bank 26……………… Questions 27–28 Choose TWO correct answers. 27-28 Which TWO decisions do the students reach about the subject matter of their assignment? A.They will keep the assessment criteria in mind. B.They will limit the scale of their investi",
+      "answerRaw": "E (up-to-date)",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E up-to-date",
+        "up-to-date"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I also looked on the Central Intelligence Agency website.",
+      "evidenceStartTime": 1009.11,
+      "evidenceEndTime": 1013.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E (up-to-date). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "24 …………………. Central Intelligence Agency 25 ……………… World Bank 26……………… Questions 27–28 Choose TWO correct answers. 27-28 Which TWO decisions do the students reach about the subject matter of their assignment? A.They will keep the assessment criteria in mind. B.They will limit the scale of their investigation. C.They will s",
+      "answerRaw": "H (historical)",
+      "canonicalAnswer": "H",
+      "acceptedAnswers": [
+        "H",
+        "H historical",
+        "historical"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I also looked on the Central Intelligence Agency website.",
+      "evidenceStartTime": 1009.11,
+      "evidenceEndTime": 1013.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án H (historical). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "ld Bank 26……………… Questions 27–28 Choose TWO correct answers. 27-28 Which TWO decisions do the students reach about the subject matter of their assignment? A.They will keep the assessment criteria in mind. B.They will limit the scale of their investigation. C.They will select countries from all over the world. D.They will col",
+      "answerRaw": "B, D",
+      "canonicalAnswer": "B, D",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t2-q27-28",
+        "questionNumbers": [
+          27,
+          28
+        ],
+        "poolAnswers": [
+          "B",
+          "D"
+        ]
+      },
+      "evidenceQuote": "So, shall we just limit it to data about population size and energy consumption?",
+      "evidenceStartTime": 1088.97,
+      "evidenceEndTime": 1094.49,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "",
+      "answerRaw": "B, D",
+      "canonicalAnswer": "B, D",
+      "acceptedAnswers": [
+        "B",
+        "D"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t2-q27-28",
+        "questionNumbers": [
+          27,
+          28
+        ],
+        "poolAnswers": [
+          "B",
+          "D"
+        ]
+      },
+      "evidenceQuote": "But we did just agree to restrict our data. I know. And then, what about the way we present our data?",
+      "evidenceStartTime": 1144.0,
+      "evidenceEndTime": 1150.5,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, D). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "d nuclear power. Questions 29–30 Choose TWO correct answers. 29-30 Which TWO tasks will Charley be responsible for? A.reviewing the final draft B.collecting basic figures C.producing the graphics D.processing the raw data E.drafting the written sections",
+      "answerRaw": "B, E",
+      "canonicalAnswer": "B, E",
+      "acceptedAnswers": [
+        "B",
+        "E"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t2-q29-30",
+        "questionNumbers": [
+          29,
+          30
+        ],
+        "poolAnswers": [
+          "B",
+          "E"
+        ]
+      },
+      "evidenceQuote": "Don't you think a bar chart would be more effective than a set of tables with figures?",
+      "evidenceStartTime": 1158.0,
+      "evidenceEndTime": 1163.13,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "",
+      "answerRaw": "B, E",
+      "canonicalAnswer": "B, E",
+      "acceptedAnswers": [
+        "B",
+        "E"
+      ],
+      "sharedGroup": {
+        "groupId": "v7-t2-q29-30",
+        "questionNumbers": [
+          29,
+          30
+        ],
+        "poolAnswers": [
+          "B",
+          "E"
+        ]
+      },
+      "evidenceQuote": "But do you mind doing the text? You've got a better way with words than I have.",
+      "evidenceStartTime": 1196.5,
+      "evidenceEndTime": 1202.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "identify the monument and justify your choice Comment on the 31 ……….of the monument Add information about its: • geographical location • 32………….. significance • historical context Illustrate assignment with: • 33…………. • photos (with captions) End with: record of architect's achievements Section two: Design and constructio",
+      "answerRaw": "success",
+      "canonicalAnswer": "success",
+      "acceptedAnswers": [
+        "success"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Include a comment on whether you think the monument works. By that, I mean its success.",
+      "evidenceStartTime": 1354.7,
+      "evidenceEndTime": 1360.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"success\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "onument Add information about its: • geographical location • 32………….. significance • historical context Illustrate assignment with: • 33…………. • photos (with captions) End with: record of architect's achievements Section two: Design and construction Include information about • The 34……….. of any particular style on the des",
+      "answerRaw": "social",
+      "canonicalAnswer": "social",
+      "acceptedAnswers": [
+        "social"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "and also a discussion of its social importance, how relevant it was for the people of the time.",
+      "evidenceStartTime": 1375.08,
+      "evidenceEndTime": 1381.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"social\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "nificance • historical context Illustrate assignment with: • 33…………. • photos (with captions) End with: record of architect's achievements Section two: Design and construction Include information about • The 34……….. of any particular style on the design • The 35…………. used in construction • Specialist 36 ………….required Sect",
+      "answerRaw": "plans",
+      "canonicalAnswer": "plans",
+      "acceptedAnswers": [
+        "plans"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Insert any plans you can find, and make sure any photographs you use have captions and are clearly referred to in the text, or they will be meaningless.",
+      "evidenceStartTime": 1393.02,
+      "evidenceEndTime": 1403.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"plans\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "two: Design and construction Include information about • The 34……….. of any particular style on the design • The 35…………. used in construction • Specialist 36 ………….required Section three: Assessment of design Content should include: • personal assessment • results of your survey Use personal assessment and survey to consid",
+      "answerRaw": "influence",
+      "canonicalAnswer": "influence",
+      "acceptedAnswers": [
+        "influence"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Firstly, I'll want to read about any particular influence you think is apparent in the design.",
+      "evidenceStartTime": 1426.0,
+      "evidenceEndTime": 1432.21,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"influence\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "ut • The 34……….. of any particular style on the design • The 35…………. used in construction • Specialist 36 ………….required Section three: Assessment of design Content should include: • personal assessment • results of your survey Use personal assessment and survey to consider: • the 37………….. for building the monument • the m",
+      "answerRaw": "materials",
+      "canonicalAnswer": "materials",
+      "acceptedAnswers": [
+        "materials"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Secondly, I want information about the choice of materials.",
+      "evidenceStartTime": 1444.92,
+      "evidenceEndTime": 1449.06,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"materials\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "n the design • The 35…………. used in construction • Specialist 36 ………….required Section three: Assessment of design Content should include: • personal assessment • results of your survey Use personal assessment and survey to consider: • the 37………….. for building the monument • the monument's 38 ………..effect on members of the",
+      "answerRaw": "skills",
+      "canonicalAnswer": "skills",
+      "acceptedAnswers": [
+        "skills"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Next, I'll want to mention of any particular skills that were necessary in the construction, too.",
+      "evidenceStartTime": 1460.44,
+      "evidenceEndTime": 1467.25,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"skills\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "survey Use personal assessment and survey to consider: • the 37………….. for building the monument • the monument's 38 ………..effect on members of the public • how well the monument suits its 39………… Remember! Credit given for good 40………..",
+      "answerRaw": "reason",
+      "canonicalAnswer": "reason",
+      "acceptedAnswers": [
+        "reason"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Firstly, was the reason for erecting the monument a valid one?",
+      "evidenceStartTime": 1486.0,
+      "evidenceEndTime": 1490.51,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"reason\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "r: • the 37………….. for building the monument • the monument's 38 ………..effect on members of the public • how well the monument suits its 39………… Remember! Credit given for good 40………..",
+      "answerRaw": "emotional",
+      "canonicalAnswer": "emotional",
+      "acceptedAnswers": [
+        "emotional"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Then, think about its emotional impact. When someone looks at it, how do they feel? Angry? Sad?",
+      "evidenceStartTime": 1507.15,
+      "evidenceEndTime": 1514.05,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"emotional\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "t on members of the public • how well the monument suits its 39………… Remember! Credit given for good 40………..",
+      "answerRaw": "environment",
+      "canonicalAnswer": "environment",
+      "acceptedAnswers": [
+        "environment"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Indifferent? And don't forget to consider how well the monument sits in its environment.",
+      "evidenceStartTime": 1514.05,
+      "evidenceEndTime": 1520.44,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"environment\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "he monument suits its 39………… Remember! Credit given for good 40………..",
+      "answerRaw": "analysis",
+      "canonicalAnswer": "analysis",
+      "acceptedAnswers": [
+        "analysis"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You get those for a well-constructed analysis. That's what counts, and that needs to be based on your personal opinion.",
+      "evidenceStartTime": 1546.09,
+      "evidenceEndTime": 1568.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"analysis\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 11.47,
+      "text": "IELTS Listening Version 55598 You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 11.47,
+      "endTime": 21.21,
+      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 21.21,
+      "endTime": 25.0,
+      "text": "All the recordings will be played once only.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 26.0,
+      "endTime": 33.09,
+      "text": "The test is in four sections. Write all your answers in the Listening Question Booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 33.09,
+      "endTime": 41.0,
+      "text": "At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 44.0,
+      "endTime": 55.4,
+      "text": "Now turn to section 1 on page 2 of your question booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 55.4,
+      "endTime": 75.2,
+      "text": "Section 1 You will hear a student phoning a student careers office about a job at a holiday resort.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 75.2,
+      "endTime": 88.0,
+      "text": "First, you have some time to look at questions 1 to 6 on page 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 88.0,
+      "endTime": 101.0,
+      "text": "You will see that there is an example that has been done for you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 102.0,
+      "endTime": 108.78,
+      "text": "On this occasion only, the conversation relating to this will be played first. Hello.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 108.78,
+      "endTime": 115.0,
+      "text": "I saw an advert for holiday staff on the notice board and I'm very interested.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 115.0,
+      "endTime": 118.69,
+      "text": "Can you tell me something about the resort? Let me see.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 118.69,
+      "endTime": 121.84,
+      "text": "Yes, those jobs are at the Sandy Shores Resort.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 121.84,
+      "endTime": 126.0,
+      "text": "You may have heard of it as it's quite well known in the area.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 129.0,
+      "endTime": 134.98,
+      "text": "The name of the resort is Sandy Shores, so Sandy has been written in the space.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 134.98,
+      "endTime": 136.42,
+      "text": "Now we shall begin.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 136.42,
+      "endTime": 144.0,
+      "text": "You should answer the questions as you listen because you will not hear the recording a second time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 145.0,
+      "endTime": 149.21,
+      "text": "Listen carefully and answer questions 1 to 6. Hello.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 149.21,
+      "endTime": 155.53,
+      "text": "I saw an advert for holiday staff on the notice board and I'm very interested.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 155.53,
+      "endTime": 159.99,
+      "text": "Can you tell me something about the resort? Let me see.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 159.99,
+      "endTime": 163.8,
+      "text": "Yes, those jobs are at the Sandy Shores Resort.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 163.8,
+      "endTime": 169.96,
+      "text": "You may have heard of it as it's quite well known in the area. I'm not sure.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 169.96,
+      "endTime": 177.58,
+      "text": "Where exactly is it? It's on Jameson Island. I haven't heard of that one. How do you spell it?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 177.58,
+      "endTime": 183.9,
+      "text": "J-A-M-I-E-S-O-N. It was named after a famous explorer. Oh, sounds interesting.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 183.9,
+      "endTime": 192.0,
+      "text": "Yes, it's a beautiful place and as it's a large resort they have vacancies in a few different areas.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 192.0,
+      "endTime": 194.48,
+      "text": "When would they want someone to start?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 194.48,
+      "endTime": 201.73,
+      "text": "It looks like the applications close by the 12th of May and they would need you to begin from the 11th of July.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 201.73,
+      "endTime": 205.32,
+      "text": "Oh, that's perfect. My exams finish on the 5th of July.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 205.32,
+      "endTime": 208.0,
+      "text": "Can you tell me something about the jobs?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 208.0,
+      "endTime": 213.35,
+      "text": "Well, first of all, there is a vacancy in the Calypso Bistro. That's for a waiter.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 213.35,
+      "endTime": 217.0,
+      "text": "The work is quite easy, taking orders and serving meals.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 217.0,
+      "endTime": 221.52,
+      "text": "You don't need any experience as they will train you. That's good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 221.52,
+      "endTime": 227.0,
+      "text": "They've also got a few vacancies in what is called the Guest Liaison Department.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 227.0,
+      "endTime": 233.66,
+      "text": "They are involved with the entertainment in the resort, especially the daily music shows and parades.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 233.66,
+      "endTime": 237.95,
+      "text": "They definitely need people who can sing. What's your voice like?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 237.95,
+      "endTime": 242.96,
+      "text": "It's shocking, but I can play piano. Would that be useful? I don't think so.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 242.96,
+      "endTime": 246.39,
+      "text": "They already have a band. OK. So what else is there?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 246.39,
+      "endTime": 255.69,
+      "text": "Among the most popular things for guests are the games and water sports activities, which take place on the beach that belongs to the resort.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 255.69,
+      "endTime": 261.3,
+      "text": "They are always looking for fit young people to help out with things like volleyball,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 261.3,
+      "endTime": 267.9,
+      "text": "surfing and cricket, but they definitely need people who have worked with children for that vacancy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 267.9,
+      "endTime": 270.0,
+      "text": "Well, I coach junior basketball.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 270.0,
+      "endTime": 274.93,
+      "text": "Sounds great. Finally, there are vacancies in the reception area.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 274.93,
+      "endTime": 281.0,
+      "text": "You'd work as part of the concierge department, carrying bags to and from rooms.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 282.0,
+      "endTime": 288.69,
+      "text": "A requirement for this role is that you can drive.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 288.69,
+      "endTime": 300.32,
+      "text": "That might seem strange, but some of the villas are quite far away from the resort hub,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 300.32,
+      "endTime": 308.74,
+      "text": "so they have little golf buggies to take the bags over to them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 308.74,
+      "endTime": 322.65,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 7 to 10 on page 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 322.65,
+      "endTime": 328.0,
+      "text": "Now listen and answer questions 7 to 10.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 331.0,
+      "endTime": 336.78,
+      "text": "I expect you'd like to know a bit more about the general benefits for staff. Yes, please.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 336.78,
+      "endTime": 339.7,
+      "text": "Do they provide free accommodation for staff?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 339.7,
+      "endTime": 347.75,
+      "text": "It looks like they only provide it to permanent employees, but staff don't have to pay for transport to and from the island,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 1,
+      "startTime": 347.75,
+      "endTime": 353.0,
+      "text": "so you'd have to stay in Port Thomas, but there are plenty of cheap places there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 1,
+      "startTime": 354.0,
+      "endTime": 355.17,
+      "text": "What about meals?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 1,
+      "startTime": 355.17,
+      "endTime": 360.67,
+      "text": "Yes, they're provided when you're on duty, so you would save money on groceries.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 1,
+      "startTime": 360.67,
+      "endTime": 364.65,
+      "text": "If you are interested, we can set up an interview for you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 1,
+      "startTime": 364.65,
+      "endTime": 372.0,
+      "text": "I know the resort personnel manager wants interviews on Wednesday, Thursday and Friday here at the college.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 1,
+      "startTime": 372.0,
+      "endTime": 377.59,
+      "text": "Which day would suit you? Can we do it on Thursday as I work on Wednesdays? Fine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 1,
+      "startTime": 377.59,
+      "endTime": 381.73,
+      "text": "Is two o'clock OK? Perfect. OK. I've booked you in for then.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 1,
+      "startTime": 381.73,
+      "endTime": 386.01,
+      "text": "Is there anything I need to take to the interview? Let me see.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 1,
+      "startTime": 386.01,
+      "endTime": 396.29,
+      "text": "Yes, you need to bring a CV giving details of your work experience and qualifications, and because they are planning on interviewing a lot of people,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 1,
+      "startTime": 396.29,
+      "endTime": 402.0,
+      "text": "they've asked everyone to provide a photo as well, so they can remember who is who.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 1,
+      "startTime": 403.0,
+      "endTime": 450.75,
+      "text": "Do you have any questions?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 1,
+      "startTime": 450.75,
+      "endTime": 504.0,
+      "text": "That is the end of Section 1.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 2,
+      "startTime": 504.0,
+      "endTime": 504.79,
+      "text": "You now have half a minute to check your answers. Now turn to Section 2 on page 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 2,
+      "startTime": 504.79,
+      "endTime": 505.89,
+      "text": "Section 2 You will hear a radio talk by Peter Gentle, the organizer of an annual walk called the Tavie Point Walk.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 2,
+      "startTime": 505.89,
+      "endTime": 506.51,
+      "text": "First you have some time to look at questions 11 to 15 on page 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 2,
+      "startTime": 506.51,
+      "endTime": 507.0,
+      "text": "Now listen carefully and answer questions 11 to 15.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 2,
+      "startTime": 507.0,
+      "endTime": 513.56,
+      "text": "Today we are pleased to welcome Peter Gentle, who is organizing this year's famous Tavie Point Walk.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 2,
+      "startTime": 513.56,
+      "endTime": 516.05,
+      "text": "Can you tell us about the walk, Peter?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 2,
+      "startTime": 516.05,
+      "endTime": 525.43,
+      "text": "Well, it's an organized group walk which takes place every year on one day in October across some of the most beautiful scenery in the country.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 2,
+      "startTime": 525.43,
+      "endTime": 528.58,
+      "text": "Just about anyone with normal fitness can do it,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 2,
+      "startTime": 528.58,
+      "endTime": 536.0,
+      "text": "but we have lots of volunteer stewards who are posted at regular intervals along the way to offer help if needed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 2,
+      "startTime": 536.0,
+      "endTime": 541.86,
+      "text": "The walk is mainly aimed at families. We want to help people to walk with their children.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 541.86,
+      "endTime": 547.0,
+      "text": "It's healthy exercise and it helps people get to know their local area better.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 547.0,
+      "endTime": 556.1,
+      "text": "Now for those of your listeners who might be interested in doing the walk, it takes place this year on Sunday the 27th of October.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 556.1,
+      "endTime": 562.33,
+      "text": "It's 18 miles in length, so quite long, but we ensure walkers are very well looked after.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 562.33,
+      "endTime": 568.0,
+      "text": "We like to involve as many people as possible and it's getting busier every year.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 568.0,
+      "endTime": 572.67,
+      "text": "For most of the walk's history we set a maximum of 220 walkers,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 572.67,
+      "endTime": 580.16,
+      "text": "but this year we've been able to expand to 280 because we've got a total of 50 volunteers to help us.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 580.16,
+      "endTime": 582.68,
+      "text": "You provide a lot of support then.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 582.68,
+      "endTime": 589.0,
+      "text": "We have to be pretty strict about arrangements, but we do what we can to help people.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 589.0,
+      "endTime": 595.3,
+      "text": "If someone arrives without proper clothing, we can help out from our stocks of waterproofs, for example.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 595.3,
+      "endTime": 601.0,
+      "text": "We don't just turn them away. The only time we do that is if people behave badly at the start.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 602.0,
+      "endTime": 609.16,
+      "text": "We also spend a lot of time fielding walkers questions about safety, both before the walk and while it's going on.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 609.16,
+      "endTime": 612.24,
+      "text": "Do you ever cancel the walk for very bad weather?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 612.24,
+      "endTime": 615.13,
+      "text": "Yes, but it hasn't happened for several years.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 615.13,
+      "endTime": 625.0,
+      "text": "However, a couple of years ago the organisers made a decision to cancel because we didn't get as many volunteers as we needed to act as stewards on the walk.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 626.0,
+      "endTime": 630.76,
+      "text": "The team felt really awful about it, but these things happen.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 630.76,
+      "endTime": 636.46,
+      "text": "If something does go amiss, we try to inform all walkers well in advance.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 636.46,
+      "endTime": 647.0,
+      "text": "If any of your listeners are interested in joining the walk, they should go to our website at www.tvwalk.org and give us their details.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 648.0,
+      "endTime": 652.8,
+      "text": "It costs £4.50 each to enter, and that covers a bottle of juice and a hot pie.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 652.8,
+      "endTime": 658.4,
+      "text": "It also helps towards maintaining the 12 staff checkpoints at different parts on the route.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 658.4,
+      "endTime": 665.67,
+      "text": "About 90% of our walkers do complete the whole 18-mile route, but if you're not well or feel you can't go any further,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 665.67,
+      "endTime": 673.0,
+      "text": "just inform the stewards when you get to the checkpoint and they'll organise transport to get you where you need to go.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 674.0,
+      "endTime": 677.97,
+      "text": "If you do complete the course, you are entitled to receive a badge.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 677.97,
+      "endTime": 682.23,
+      "text": "Now, unfortunately, we can't give those to you immediately on finishing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 682.23,
+      "endTime": 691.0,
+      "text": "If you want one, you have to order it one week before the walk and you'll get it by post two weeks after the walk, as long as you finish, of course.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 2,
+      "startTime": 691.0,
+      "endTime": 710.48,
+      "text": "It may seem a strange system, but we found it works because only those walkers who really want a badge get one.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 2,
+      "startTime": 710.48,
+      "endTime": 727.5,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20 on page 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 2,
+      "startTime": 727.5,
+      "endTime": 734.7,
+      "text": "Now listen and answer questions 16 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 2,
+      "startTime": 734.7,
+      "endTime": 741.54,
+      "text": "What do walkers need to take with them?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 2,
+      "startTime": 741.54,
+      "endTime": 744.0,
+      "text": "Good question.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 2,
+      "startTime": 745.0,
+      "endTime": 754.03,
+      "text": "When you register for the walk, we send you a booklet with all the key information, but basically, we do say that you should be properly dressed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 2,
+      "startTime": 754.03,
+      "endTime": 759.63,
+      "text": "Now, it must be emphasised that this doesn't mean that you wear thick trousers like jeans.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 2,
+      "startTime": 759.63,
+      "endTime": 762.0,
+      "text": "Lighter, waterproof apparel is better.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 2,
+      "startTime": 763.0,
+      "endTime": 767.96,
+      "text": "Some people like to bring their mobile phones, but there isn't always a good signal.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 2,
+      "startTime": 767.96,
+      "endTime": 772.27,
+      "text": "And remember, the checkpoints are there, so you can always rely on those.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 2,
+      "startTime": 772.27,
+      "endTime": 778.0,
+      "text": "Some people asked if they should bring a torch, but frankly, they're a waste of space and weight.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 2,
+      "startTime": 778.0,
+      "endTime": 784.66,
+      "text": "It's a relatively gentle, straightforward walk. Another thing people ask about is refreshments.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 2,
+      "startTime": 784.66,
+      "endTime": 789.0,
+      "text": "Whether you carry things like high-energy drinks is up to you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 2,
+      "startTime": 790.0,
+      "endTime": 796.66,
+      "text": "And finally, we say it's a very good idea to bring a rucksack, but what size is up to the individual.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 2,
+      "startTime": 796.66,
+      "endTime": 800.82,
+      "text": "But as I say, there's full information in the walker's booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 2,
+      "startTime": 800.82,
+      "endTime": 803.0,
+      "text": "Well, thank you very much, Peter.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 2,
+      "startTime": 806.0,
+      "endTime": 840.21,
+      "text": "That is the end of section 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 2,
+      "startTime": 840.21,
+      "endTime": 898.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 3,
+      "startTime": 898.0,
+      "endTime": 898.48,
+      "text": "Now turn to section 3 on page 5.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 3,
+      "startTime": 898.48,
+      "endTime": 900.24,
+      "text": "You will hear two students, called Charlie and Delia, discussing a joint assignment for their Human Geography course.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 3,
+      "startTime": 900.24,
+      "endTime": 901.23,
+      "text": "First, you have some time to look at questions 21 to 26 on page 5.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 3,
+      "startTime": 901.23,
+      "endTime": 902.0,
+      "text": "Now listen carefully and answer questions 21 to 26.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 3,
+      "startTime": 902.0,
+      "endTime": 905.92,
+      "text": "Hi, Delia. Shall we get down to planning our assignment?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 905.92,
+      "endTime": 912.15,
+      "text": "We haven't got long now before the deadline. I know. And it's quite open-ended, isn't it?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 912.15,
+      "endTime": 917.33,
+      "text": "Just research and analyze data about energy consumption in a given region.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 917.33,
+      "endTime": 921.95,
+      "text": "Yes, and all we've done so far is check out a few likely websites.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 921.95,
+      "endTime": 926.0,
+      "text": "Shall we exchange ideas about those first? Hmm, good idea.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 926.0,
+      "endTime": 933.25,
+      "text": "Let me look at my notes. Okay, I had a preliminary look at one or two websites.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 933.25,
+      "endTime": 936.0,
+      "text": "There was National Geographic.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 936.0,
+      "endTime": 941.23,
+      "text": "The thing there that struck me was a facility for creating tailor-made maps.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 941.23,
+      "endTime": 946.32,
+      "text": "We might like to use that when it comes to presenting our findings. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 946.32,
+      "endTime": 950.45,
+      "text": "That would make some types of data instantly clear, I guess.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 950.45,
+      "endTime": 953.68,
+      "text": "Also, I checked out the United Nations website.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 953.68,
+      "endTime": 958.0,
+      "text": "That one had masses of useful stuff, only I couldn't get at it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 959.0,
+      "endTime": 964.06,
+      "text": "I know. It was for subscribers only, right? And we don't want to get into that sort of thing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 964.06,
+      "endTime": 967.0,
+      "text": "After all, it's not a major piece of work we're doing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 967.0,
+      "endTime": 967.82,
+      "text": "Yes, I agree.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 967.82,
+      "endTime": 972.98,
+      "text": "I looked at the website of an agency called the Energy Information Administration.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 972.98,
+      "endTime": 980.41,
+      "text": "There were some population statistics there that we could use, but there didn't seem to be any figures for energy use,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 980.41,
+      "endTime": 985.0,
+      "text": "so that site would only be suitable to a limited extent for our purposes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 986.0,
+      "endTime": 991.88,
+      "text": "I thought the British Petroleum website might be a good place to get information about energy use.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 991.88,
+      "endTime": 995.0,
+      "text": "Oh, good thinking. There was lots of data, actually.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 995.0,
+      "endTime": 1000.45,
+      "text": "The only thing is it went into more depth than was necessary for our assignment,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1000.45,
+      "endTime": 1005.29,
+      "text": "and we'd have to collate a lot of the figures to arrive at an overview.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1005.29,
+      "endTime": 1009.11,
+      "text": "So I didn't think it was quite what we were looking for.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1009.11,
+      "endTime": 1013.0,
+      "text": "I also looked on the Central Intelligence Agency website.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1013.0,
+      "endTime": 1015.78,
+      "text": "I never had thought of that. Something worth noting.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1015.78,
+      "endTime": 1020.0,
+      "text": "It seemed to be the only place I looked at that had data for this current year.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1021.0,
+      "endTime": 1024.47,
+      "text": "Oh, right. I'm not sure about the websites I looked at.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1024.47,
+      "endTime": 1027.0,
+      "text": "I didn't look carefully enough, I guess.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1027.0,
+      "endTime": 1043.07,
+      "text": "And I also found stuff on the World Bank site, and that had figures going back quite a long way.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1043.07,
+      "endTime": 1043.91,
+      "text": "Okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1043.91,
+      "endTime": 1061.15,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 27 to 30 on page 6.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1061.15,
+      "endTime": 1068.0,
+      "text": "Now listen and answer questions 27 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1071.0,
+      "endTime": 1073.45,
+      "text": "Fine. We know roughly what we're doing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1073.45,
+      "endTime": 1078.73,
+      "text": "But have you got any more definite thoughts about what our subject matter should be?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 3,
+      "startTime": 1078.73,
+      "endTime": 1084.0,
+      "text": "I think one thing we've got to be careful about is biting off more than we can chew.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 3,
+      "startTime": 1084.0,
+      "endTime": 1088.97,
+      "text": "Yes, especially as it doesn't count towards our final assessment anyway.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 3,
+      "startTime": 1088.97,
+      "endTime": 1094.49,
+      "text": "So, shall we just limit it to data about population size and energy consumption?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 3,
+      "startTime": 1094.49,
+      "endTime": 1098.49,
+      "text": "How about if we add in one other factor, carbon emissions?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 3,
+      "startTime": 1098.49,
+      "endTime": 1104.83,
+      "text": "I think it'd be interesting to see what the interaction between those three factors is like.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 3,
+      "startTime": 1104.83,
+      "endTime": 1111.38,
+      "text": "Okay. But in that case, we originally planned to stick to countries in North and South America.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 3,
+      "startTime": 1111.38,
+      "endTime": 1115.79,
+      "text": "But what if we narrowed it down further? I'd be happy with that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 3,
+      "startTime": 1115.79,
+      "endTime": 1123.51,
+      "text": "How about, let's say, 20 countries in all, the top 10 consumers of energy in the region, and also the bottom 10?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 3,
+      "startTime": 1123.51,
+      "endTime": 1124.34,
+      "text": "Sounds good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 3,
+      "startTime": 1124.34,
+      "endTime": 1130.96,
+      "text": "And we can calculate per capita consumption and per capita emissions to allow valid comparisons.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 3,
+      "startTime": 1130.96,
+      "endTime": 1138.48,
+      "text": "Actually, it would be interesting to look at a breakdown of the types of energy each of those countries uses.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 3,
+      "startTime": 1138.48,
+      "endTime": 1144.0,
+      "text": "You know, how much coal, how much wind power, how much nuclear power, and so on.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 3,
+      "startTime": 1144.0,
+      "endTime": 1147.32,
+      "text": "But we did just agree to restrict our data. I know.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 3,
+      "startTime": 1147.32,
+      "endTime": 1150.5,
+      "text": "And then, what about the way we present our data?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 3,
+      "startTime": 1150.5,
+      "endTime": 1157.0,
+      "text": "Our tutor said that's one of the things she'll be looking at in particular, especially our graphics.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 3,
+      "startTime": 1158.0,
+      "endTime": 1163.13,
+      "text": "Don't you think a bar chart would be more effective than a set of tables with figures?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 3,
+      "startTime": 1163.13,
+      "endTime": 1168.08,
+      "text": "It might, but I've got another idea. I'm keen to display our data on a map instead.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 3,
+      "startTime": 1168.08,
+      "endTime": 1171.0,
+      "text": "We can easily find a software program to do that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 3,
+      "startTime": 1171.0,
+      "endTime": 1176.27,
+      "text": "Brilliant. Thanks. One last thing, Charlie, and then we better go away and get started.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 3,
+      "startTime": 1176.27,
+      "endTime": 1177.66,
+      "text": "Who's going to do what?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 3,
+      "startTime": 1177.66,
+      "endTime": 1186.57,
+      "text": "Your math is better than mine, so I'll volunteer to search out all of the raw data we need if you're prepared to do the necessary number crunching.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 3,
+      "startTime": 1186.57,
+      "endTime": 1191.0,
+      "text": "Okay. But can you get them to me as soon as possible? I'll do it tonight.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 3,
+      "startTime": 1191.0,
+      "endTime": 1196.5,
+      "text": "Okay. And I tell you what, since the graphics were my idea, I'll take those on.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 3,
+      "startTime": 1196.5,
+      "endTime": 1202.0,
+      "text": "But do you mind doing the text? You've got a better way with words than I have.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 3,
+      "startTime": 1202.0,
+      "endTime": 1269.34,
+      "text": "That's okay with me, as long as you'll agree to look over everything and give it the finishing touches before we hand it in.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 3,
+      "startTime": 1269.34,
+      "endTime": 1275.86,
+      "text": "It's a deal.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 3,
+      "startTime": 1275.86,
+      "endTime": 1304.64,
+      "text": "Shall we meet at the same time tomorrow, or do you...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 3,
+      "startTime": 1304.64,
+      "endTime": 1320.39,
+      "text": "That is the end of Section 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 3,
+      "startTime": 1320.39,
+      "endTime": 1347.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 1347.0,
+      "endTime": 1347.05,
+      "text": "Now turn to Section 4 on page 7.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 1347.05,
+      "endTime": 1347.23,
+      "text": "Section 4 You will hear a university lecturer talking to his students about an architectural studies assignment.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 4,
+      "startTime": 1347.23,
+      "endTime": 1347.35,
+      "text": "First, you have some time to look at questions 31 to 40 on pages 7 and 8.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 4,
+      "startTime": 1347.35,
+      "endTime": 1347.44,
+      "text": "Now listen carefully and answer questions 31 to 40. Okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 4,
+      "startTime": 1347.44,
+      "endTime": 1347.65,
+      "text": "Before this morning's lecture on successful design of public buildings, I want to draw your attention to your next assignment.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 4,
+      "startTime": 1347.65,
+      "endTime": 1347.91,
+      "text": "So, your assignment is on public monuments, and by that I mean any structure or statue that is built to remind us of important events or of historic figures.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 4,
+      "startTime": 1347.91,
+      "endTime": 1348.0,
+      "text": "The assignment should be divided into three sections.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 4,
+      "startTime": 1348.0,
+      "endTime": 1354.7,
+      "text": "At the beginning of Section 1, you should identify the monument you're examining and say why you've chosen it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 4,
+      "startTime": 1354.7,
+      "endTime": 1360.0,
+      "text": "Include a comment on whether you think the monument works. By that, I mean its success.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 4,
+      "startTime": 1361.0,
+      "endTime": 1362.81,
+      "text": "You may think it's wonderful.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-193",
+      "part": 4,
+      "startTime": 1362.81,
+      "endTime": 1367.48,
+      "text": "You may think it's a public eyesore, something that people hate looking at.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-194",
+      "part": 4,
+      "startTime": 1367.48,
+      "endTime": 1375.08,
+      "text": "Next, you should also include in this first section information about where the monument was built, its geographical site,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-195",
+      "part": 4,
+      "startTime": 1375.08,
+      "endTime": 1381.0,
+      "text": "and also a discussion of its social importance, how relevant it was for the people of the time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-196",
+      "part": 4,
+      "startTime": 1382.0,
+      "endTime": 1391.71,
+      "text": "You should also include information on when it was built, its historical background, and make sure you illustrate the assignment appropriately, too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-197",
+      "part": 4,
+      "startTime": 1391.71,
+      "endTime": 1393.02,
+      "text": "I shall expect that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-198",
+      "part": 4,
+      "startTime": 1393.02,
+      "endTime": 1403.0,
+      "text": "Insert any plans you can find, and make sure any photographs you use have captions and are clearly referred to in the text, or they will be meaningless.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-199",
+      "part": 4,
+      "startTime": 1404.0,
+      "endTime": 1412.12,
+      "text": "To end this section, you should include something about the record of the person who designed the monument,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-200",
+      "part": 4,
+      "startTime": 1412.12,
+      "endTime": 1417.05,
+      "text": "showing how the monument relates to his or her other work. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-201",
+      "part": 4,
+      "startTime": 1417.05,
+      "endTime": 1426.0,
+      "text": "In Section 2 of the assignment, you'll need to give a detailed account of the design and construction of the monument.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-202",
+      "part": 4,
+      "startTime": 1426.0,
+      "endTime": 1432.21,
+      "text": "Firstly, I'll want to read about any particular influence you think is apparent in the design.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-203",
+      "part": 4,
+      "startTime": 1432.21,
+      "endTime": 1438.09,
+      "text": "More often than not, there will be something in it that links it to an established style.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-204",
+      "part": 4,
+      "startTime": 1438.09,
+      "endTime": 1440.0,
+      "text": "Classical Greek, for example.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-205",
+      "part": 4,
+      "startTime": 1440.0,
+      "endTime": 1444.92,
+      "text": "Or it may reflect a movement, like Bauhaus or Art Nouveau. You decide.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-206",
+      "part": 4,
+      "startTime": 1444.92,
+      "endTime": 1449.06,
+      "text": "Secondly, I want information about the choice of materials.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-207",
+      "part": 4,
+      "startTime": 1449.06,
+      "endTime": 1457.49,
+      "text": "Not only those which were used, but reasons why they may have been selected from others that were available at the time,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-208",
+      "part": 4,
+      "startTime": 1457.49,
+      "endTime": 1460.44,
+      "text": "and in the area where the designer worked.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-209",
+      "part": 4,
+      "startTime": 1460.44,
+      "endTime": 1467.25,
+      "text": "Next, I'll want to mention of any particular skills that were necessary in the construction, too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-210",
+      "part": 4,
+      "startTime": 1467.25,
+      "endTime": 1473.71,
+      "text": "The third section is the most important one. Here, you'll go into much more critical detail.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-211",
+      "part": 4,
+      "startTime": 1473.71,
+      "endTime": 1482.63,
+      "text": "To add to your own comments, you'll need to carry out a survey for this section to be as comprehensive and rounded as possible.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-212",
+      "part": 4,
+      "startTime": 1482.63,
+      "endTime": 1486.0,
+      "text": "Ask yourself and others the following questions.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-213",
+      "part": 4,
+      "startTime": 1486.0,
+      "endTime": 1490.51,
+      "text": "Firstly, was the reason for erecting the monument a valid one?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-214",
+      "part": 4,
+      "startTime": 1490.51,
+      "endTime": 1497.2,
+      "text": "For example, was it one that ordinary members of the public, the man or woman on the street,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-215",
+      "part": 4,
+      "startTime": 1497.2,
+      "endTime": 1502.43,
+      "text": "can readily relate to, and did it justify how much public money it cost?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-216",
+      "part": 4,
+      "startTime": 1502.43,
+      "endTime": 1507.15,
+      "text": "Was it a waste, or does it represent a sound cultural investment?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-217",
+      "part": 4,
+      "startTime": 1507.15,
+      "endTime": 1514.05,
+      "text": "Then, think about its emotional impact. When someone looks at it, how do they feel? Angry? Sad?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-218",
+      "part": 4,
+      "startTime": 1514.05,
+      "endTime": 1520.44,
+      "text": "Indifferent? And don't forget to consider how well the monument sits in its environment.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-219",
+      "part": 4,
+      "startTime": 1520.44,
+      "endTime": 1525.89,
+      "text": "Does it harmonize with it, or does it clash with it? And is that important?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-220",
+      "part": 4,
+      "startTime": 1525.89,
+      "endTime": 1532.0,
+      "text": "Does it add to the effect or take away from it? Right, those guidelines should help.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-221",
+      "part": 4,
+      "startTime": 1533.0,
+      "endTime": 1542.42,
+      "text": "Oh, and remember, it is important to weigh up carefully how to make the maximum impact in this kind of critique within the number of words allowable.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-222",
+      "part": 4,
+      "startTime": 1542.42,
+      "endTime": 1546.09,
+      "text": "You don't get extra marks for lots of factual information.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-223",
+      "part": 4,
+      "startTime": 1546.09,
+      "endTime": 1549.0,
+      "text": "You get those for a well-constructed analysis.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-224",
+      "part": 4,
+      "startTime": 1550.0,
+      "endTime": 1568.0,
+      "text": "That's what counts, and that needs to be based on your personal opinion.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-225",
+      "part": 4,
+      "startTime": 1568.0,
+      "endTime": 1575.25,
+      "text": "That is the end of Section 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-226",
+      "part": 4,
+      "startTime": 1575.25,
+      "endTime": 1587.5,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-227",
+      "part": 4,
+      "startTime": 1587.5,
+      "endTime": 1597.0,
+      "text": "That is the end of the listening test.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-228",
+      "part": 4,
+      "startTime": 1597.0,
+      "endTime": 1601.85,
+      "text": "You now have ten minutes to transfer your answers to the listening answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 0.0,
+      "endTime": 25.0,
+      "text": "IELTS Listening Version 55598 You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 26.0,
+      "endTime": 55.4,
+      "text": "The test is in four sections. Write all your answers in the Listening Question Booklet. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to section 1 on page 2 of your question booklet.",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 55.4,
+      "endTime": 88.0,
+      "text": "Section 1 You will hear a student phoning a student careers office about a job at a holiday resort. First, you have some time to look at questions 1 to 6 on page 2.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 88.0,
+      "endTime": 115.0,
+      "text": "You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first. Hello. I saw an advert for holiday staff on the notice board and I'm very interested.",
+      "segmentIds": [
+        "seg-009",
+        "seg-010",
+        "seg-011"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 115.0,
+      "endTime": 136.42,
+      "text": "Can you tell me something about the resort? Let me see. Yes, those jobs are at the Sandy Shores Resort. You may have heard of it as it's quite well known in the area. The name of the resort is Sandy Shores, so Sandy has been written in the space. Now we shall begin.",
+      "segmentIds": [
+        "seg-012",
+        "seg-013",
+        "seg-014",
+        "seg-015",
+        "seg-016"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 136.42,
+      "endTime": 159.99,
+      "text": "You should answer the questions as you listen because you will not hear the recording a second time. Listen carefully and answer questions 1 to 6. Hello. I saw an advert for holiday staff on the notice board and I'm very interested. Can you tell me something about the resort? Let me see.",
+      "segmentIds": [
+        "seg-017",
+        "seg-018",
+        "seg-019",
+        "seg-020"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 159.99,
+      "endTime": 183.9,
+      "text": "Yes, those jobs are at the Sandy Shores Resort. You may have heard of it as it's quite well known in the area. I'm not sure. Where exactly is it? It's on Jameson Island. I haven't heard of that one. How do you spell it? J-A-M-I-E-S-O-N. It was named after a famous explorer. Oh, sounds interesting.",
+      "segmentIds": [
+        "seg-021",
+        "seg-022",
+        "seg-023",
+        "seg-024"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 183.9,
+      "endTime": 205.32,
+      "text": "Yes, it's a beautiful place and as it's a large resort they have vacancies in a few different areas. When would they want someone to start? It looks like the applications close by the 12th of May and they would need you to begin from the 11th of July. Oh, that's perfect. My exams finish on the 5th of July.",
+      "segmentIds": [
+        "seg-025",
+        "seg-026",
+        "seg-027",
+        "seg-028"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 205.32,
+      "endTime": 227.0,
+      "text": "Can you tell me something about the jobs? Well, first of all, there is a vacancy in the Calypso Bistro. That's for a waiter. The work is quite easy, taking orders and serving meals. You don't need any experience as they will train you. That's good. They've also got a few vacancies in what is called the Guest Liaison Department.",
+      "segmentIds": [
+        "seg-029",
+        "seg-030",
+        "seg-031",
+        "seg-032",
+        "seg-033"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 227.0,
+      "endTime": 246.39,
+      "text": "They are involved with the entertainment in the resort, especially the daily music shows and parades. They definitely need people who can sing. What's your voice like? It's shocking, but I can play piano. Would that be useful? I don't think so. They already have a band. OK. So what else is there?",
+      "segmentIds": [
+        "seg-034",
+        "seg-035",
+        "seg-036",
+        "seg-037"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 246.39,
+      "endTime": 270.0,
+      "text": "Among the most popular things for guests are the games and water sports activities, which take place on the beach that belongs to the resort. They are always looking for fit young people to help out with things like volleyball, surfing and cricket, but they definitely need people who have worked with children for that vacancy. Well, I coach junior basketball.",
+      "segmentIds": [
+        "seg-038",
+        "seg-039",
+        "seg-040",
+        "seg-041"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 270.0,
+      "endTime": 288.69,
+      "text": "Sounds great. Finally, there are vacancies in the reception area. You'd work as part of the concierge department, carrying bags to and from rooms. A requirement for this role is that you can drive.",
+      "segmentIds": [
+        "seg-042",
+        "seg-043",
+        "seg-044"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 288.69,
+      "endTime": 322.65,
+      "text": "That might seem strange, but some of the villas are quite far away from the resort hub, so they have little golf buggies to take the bags over to them. Before you hear the rest of the conversation, you have some time to look at questions 7 to 10 on page 2.",
+      "segmentIds": [
+        "seg-045",
+        "seg-046",
+        "seg-047"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 322.65,
+      "endTime": 339.7,
+      "text": "Now listen and answer questions 7 to 10. I expect you'd like to know a bit more about the general benefits for staff. Yes, please. Do they provide free accommodation for staff?",
+      "segmentIds": [
+        "seg-048",
+        "seg-049",
+        "seg-050"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 339.7,
+      "endTime": 360.67,
+      "text": "It looks like they only provide it to permanent employees, but staff don't have to pay for transport to and from the island, so you'd have to stay in Port Thomas, but there are plenty of cheap places there. What about meals? Yes, they're provided when you're on duty, so you would save money on groceries.",
+      "segmentIds": [
+        "seg-051",
+        "seg-052",
+        "seg-053",
+        "seg-054"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 360.67,
+      "endTime": 381.73,
+      "text": "If you are interested, we can set up an interview for you. I know the resort personnel manager wants interviews on Wednesday, Thursday and Friday here at the college. Which day would suit you? Can we do it on Thursday as I work on Wednesdays? Fine. Is two o'clock OK? Perfect. OK. I've booked you in for then.",
+      "segmentIds": [
+        "seg-055",
+        "seg-056",
+        "seg-057",
+        "seg-058"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 1,
+      "startTime": 381.73,
+      "endTime": 402.0,
+      "text": "Is there anything I need to take to the interview? Let me see. Yes, you need to bring a CV giving details of your work experience and qualifications, and because they are planning on interviewing a lot of people, they've asked everyone to provide a photo as well, so they can remember who is who.",
+      "segmentIds": [
+        "seg-059",
+        "seg-060",
+        "seg-061"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 1,
+      "startTime": 403.0,
+      "endTime": 450.75,
+      "text": "Do you have any questions?",
+      "segmentIds": [
+        "seg-062"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 1,
+      "startTime": 450.75,
+      "endTime": 504.0,
+      "text": "That is the end of Section 1.",
+      "segmentIds": [
+        "seg-063"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 504.0,
+      "endTime": 513.56,
+      "text": "You now have half a minute to check your answers. Now turn to Section 2 on page 3. Section 2 You will hear a radio talk by Peter Gentle, the organizer of an annual walk called the Tavie Point Walk. First you have some time to look at questions 11 to 15 on page 3. Now listen carefully and answer questions 11 to 15. Today we are pleased to welcome Peter Gentle, who is organizing this year's famous Tavie Point Walk.",
+      "segmentIds": [
+        "seg-064",
+        "seg-065",
+        "seg-066",
+        "seg-067",
+        "seg-068"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-021",
+      "part": 2,
+      "startTime": 513.56,
+      "endTime": 536.0,
+      "text": "Can you tell us about the walk, Peter? Well, it's an organized group walk which takes place every year on one day in October across some of the most beautiful scenery in the country. Just about anyone with normal fitness can do it, but we have lots of volunteer stewards who are posted at regular intervals along the way to offer help if needed.",
+      "segmentIds": [
+        "seg-069",
+        "seg-070",
+        "seg-071",
+        "seg-072"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 536.0,
+      "endTime": 556.1,
+      "text": "The walk is mainly aimed at families. We want to help people to walk with their children. It's healthy exercise and it helps people get to know their local area better. Now for those of your listeners who might be interested in doing the walk, it takes place this year on Sunday the 27th of October.",
+      "segmentIds": [
+        "seg-073",
+        "seg-074",
+        "seg-075"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-023",
+      "part": 2,
+      "startTime": 556.1,
+      "endTime": 572.67,
+      "text": "It's 18 miles in length, so quite long, but we ensure walkers are very well looked after. We like to involve as many people as possible and it's getting busier every year. For most of the walk's history we set a maximum of 220 walkers,",
+      "segmentIds": [
+        "seg-076",
+        "seg-077",
+        "seg-078"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 2,
+      "startTime": 572.67,
+      "endTime": 595.3,
+      "text": "but this year we've been able to expand to 280 because we've got a total of 50 volunteers to help us. You provide a lot of support then. We have to be pretty strict about arrangements, but we do what we can to help people. If someone arrives without proper clothing, we can help out from our stocks of waterproofs, for example.",
+      "segmentIds": [
+        "seg-079",
+        "seg-080",
+        "seg-081",
+        "seg-082"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 595.3,
+      "endTime": 615.13,
+      "text": "We don't just turn them away. The only time we do that is if people behave badly at the start. We also spend a lot of time fielding walkers questions about safety, both before the walk and while it's going on. Do you ever cancel the walk for very bad weather? Yes, but it hasn't happened for several years.",
+      "segmentIds": [
+        "seg-083",
+        "seg-084",
+        "seg-085",
+        "seg-086"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 615.13,
+      "endTime": 636.46,
+      "text": "However, a couple of years ago the organisers made a decision to cancel because we didn't get as many volunteers as we needed to act as stewards on the walk. The team felt really awful about it, but these things happen. If something does go amiss, we try to inform all walkers well in advance.",
+      "segmentIds": [
+        "seg-087",
+        "seg-088",
+        "seg-089"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 636.46,
+      "endTime": 658.4,
+      "text": "If any of your listeners are interested in joining the walk, they should go to our website at www.tvwalk.org and give us their details. It costs £4.50 each to enter, and that covers a bottle of juice and a hot pie. It also helps towards maintaining the 12 staff checkpoints at different parts on the route.",
+      "segmentIds": [
+        "seg-090",
+        "seg-091",
+        "seg-092"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 658.4,
+      "endTime": 682.23,
+      "text": "About 90% of our walkers do complete the whole 18-mile route, but if you're not well or feel you can't go any further, just inform the stewards when you get to the checkpoint and they'll organise transport to get you where you need to go. If you do complete the course, you are entitled to receive a badge. Now, unfortunately, we can't give those to you immediately on finishing.",
+      "segmentIds": [
+        "seg-093",
+        "seg-094",
+        "seg-095",
+        "seg-096"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 682.23,
+      "endTime": 710.48,
+      "text": "If you want one, you have to order it one week before the walk and you'll get it by post two weeks after the walk, as long as you finish, of course. It may seem a strange system, but we found it works because only those walkers who really want a badge get one.",
+      "segmentIds": [
+        "seg-097",
+        "seg-098"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 710.48,
+      "endTime": 741.54,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20 on page 4. Now listen and answer questions 16 to 20. What do walkers need to take with them?",
+      "segmentIds": [
+        "seg-099",
+        "seg-100",
+        "seg-101"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 2,
+      "startTime": 741.54,
+      "endTime": 762.0,
+      "text": "Good question. When you register for the walk, we send you a booklet with all the key information, but basically, we do say that you should be properly dressed. Now, it must be emphasised that this doesn't mean that you wear thick trousers like jeans. Lighter, waterproof apparel is better.",
+      "segmentIds": [
+        "seg-102",
+        "seg-103",
+        "seg-104",
+        "seg-105"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 2,
+      "startTime": 763.0,
+      "endTime": 784.66,
+      "text": "Some people like to bring their mobile phones, but there isn't always a good signal. And remember, the checkpoints are there, so you can always rely on those. Some people asked if they should bring a torch, but frankly, they're a waste of space and weight. It's a relatively gentle, straightforward walk. Another thing people ask about is refreshments.",
+      "segmentIds": [
+        "seg-106",
+        "seg-107",
+        "seg-108",
+        "seg-109"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 2,
+      "startTime": 784.66,
+      "endTime": 803.0,
+      "text": "Whether you carry things like high-energy drinks is up to you. And finally, we say it's a very good idea to bring a rucksack, but what size is up to the individual. But as I say, there's full information in the walker's booklet. Well, thank you very much, Peter.",
+      "segmentIds": [
+        "seg-110",
+        "seg-111",
+        "seg-112",
+        "seg-113"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 2,
+      "startTime": 806.0,
+      "endTime": 840.21,
+      "text": "That is the end of section 2.",
+      "segmentIds": [
+        "seg-114"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 2,
+      "startTime": 840.21,
+      "endTime": 898.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-115"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 3,
+      "startTime": 898.0,
+      "endTime": 905.92,
+      "text": "Now turn to section 3 on page 5. You will hear two students, called Charlie and Delia, discussing a joint assignment for their Human Geography course. First, you have some time to look at questions 21 to 26 on page 5. Now listen carefully and answer questions 21 to 26. Hi, Delia. Shall we get down to planning our assignment?",
+      "segmentIds": [
+        "seg-116",
+        "seg-117",
+        "seg-118",
+        "seg-119",
+        "seg-120"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 905.92,
+      "endTime": 926.0,
+      "text": "We haven't got long now before the deadline. I know. And it's quite open-ended, isn't it? Just research and analyze data about energy consumption in a given region. Yes, and all we've done so far is check out a few likely websites. Shall we exchange ideas about those first? Hmm, good idea.",
+      "segmentIds": [
+        "seg-121",
+        "seg-122",
+        "seg-123",
+        "seg-124"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 926.0,
+      "endTime": 946.32,
+      "text": "Let me look at my notes. Okay, I had a preliminary look at one or two websites. There was National Geographic. The thing there that struck me was a facility for creating tailor-made maps. We might like to use that when it comes to presenting our findings. Right.",
+      "segmentIds": [
+        "seg-125",
+        "seg-126",
+        "seg-127",
+        "seg-128"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 946.32,
+      "endTime": 967.0,
+      "text": "That would make some types of data instantly clear, I guess. Also, I checked out the United Nations website. That one had masses of useful stuff, only I couldn't get at it. I know. It was for subscribers only, right? And we don't want to get into that sort of thing. After all, it's not a major piece of work we're doing.",
+      "segmentIds": [
+        "seg-129",
+        "seg-130",
+        "seg-131",
+        "seg-132",
+        "seg-133"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 967.0,
+      "endTime": 985.0,
+      "text": "Yes, I agree. I looked at the website of an agency called the Energy Information Administration. There were some population statistics there that we could use, but there didn't seem to be any figures for energy use, so that site would only be suitable to a limited extent for our purposes.",
+      "segmentIds": [
+        "seg-134",
+        "seg-135",
+        "seg-136",
+        "seg-137"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 3,
+      "startTime": 986.0,
+      "endTime": 1009.11,
+      "text": "I thought the British Petroleum website might be a good place to get information about energy use. Oh, good thinking. There was lots of data, actually. The only thing is it went into more depth than was necessary for our assignment, and we'd have to collate a lot of the figures to arrive at an overview. So I didn't think it was quite what we were looking for.",
+      "segmentIds": [
+        "seg-138",
+        "seg-139",
+        "seg-140",
+        "seg-141",
+        "seg-142"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 1009.11,
+      "endTime": 1027.0,
+      "text": "I also looked on the Central Intelligence Agency website. I never had thought of that. Something worth noting. It seemed to be the only place I looked at that had data for this current year. Oh, right. I'm not sure about the websites I looked at. I didn't look carefully enough, I guess.",
+      "segmentIds": [
+        "seg-143",
+        "seg-144",
+        "seg-145",
+        "seg-146",
+        "seg-147"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 1027.0,
+      "endTime": 1061.15,
+      "text": "And I also found stuff on the World Bank site, and that had figures going back quite a long way. Okay. Before you hear the rest of the discussion, you have some time to look at questions 27 to 30 on page 6.",
+      "segmentIds": [
+        "seg-148",
+        "seg-149",
+        "seg-150"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 1061.15,
+      "endTime": 1084.0,
+      "text": "Now listen and answer questions 27 to 30. Fine. We know roughly what we're doing. But have you got any more definite thoughts about what our subject matter should be? I think one thing we've got to be careful about is biting off more than we can chew.",
+      "segmentIds": [
+        "seg-151",
+        "seg-152",
+        "seg-153",
+        "seg-154"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1084.0,
+      "endTime": 1104.83,
+      "text": "Yes, especially as it doesn't count towards our final assessment anyway. So, shall we just limit it to data about population size and energy consumption? How about if we add in one other factor, carbon emissions? I think it'd be interesting to see what the interaction between those three factors is like.",
+      "segmentIds": [
+        "seg-155",
+        "seg-156",
+        "seg-157",
+        "seg-158"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1104.83,
+      "endTime": 1124.34,
+      "text": "Okay. But in that case, we originally planned to stick to countries in North and South America. But what if we narrowed it down further? I'd be happy with that. How about, let's say, 20 countries in all, the top 10 consumers of energy in the region, and also the bottom 10? Sounds good.",
+      "segmentIds": [
+        "seg-159",
+        "seg-160",
+        "seg-161",
+        "seg-162"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1124.34,
+      "endTime": 1147.32,
+      "text": "And we can calculate per capita consumption and per capita emissions to allow valid comparisons. Actually, it would be interesting to look at a breakdown of the types of energy each of those countries uses. You know, how much coal, how much wind power, how much nuclear power, and so on. But we did just agree to restrict our data. I know.",
+      "segmentIds": [
+        "seg-163",
+        "seg-164",
+        "seg-165",
+        "seg-166"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 3,
+      "startTime": 1147.32,
+      "endTime": 1171.0,
+      "text": "And then, what about the way we present our data? Our tutor said that's one of the things she'll be looking at in particular, especially our graphics. Don't you think a bar chart would be more effective than a set of tables with figures? It might, but I've got another idea. I'm keen to display our data on a map instead. We can easily find a software program to do that.",
+      "segmentIds": [
+        "seg-167",
+        "seg-168",
+        "seg-169",
+        "seg-170",
+        "seg-171"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-049",
+      "part": 3,
+      "startTime": 1171.0,
+      "endTime": 1191.0,
+      "text": "Brilliant. Thanks. One last thing, Charlie, and then we better go away and get started. Who's going to do what? Your math is better than mine, so I'll volunteer to search out all of the raw data we need if you're prepared to do the necessary number crunching. Okay. But can you get them to me as soon as possible? I'll do it tonight.",
+      "segmentIds": [
+        "seg-172",
+        "seg-173",
+        "seg-174",
+        "seg-175"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-050",
+      "part": 3,
+      "startTime": 1191.0,
+      "endTime": 1202.0,
+      "text": "Okay. And I tell you what, since the graphics were my idea, I'll take those on. But do you mind doing the text? You've got a better way with words than I have.",
+      "segmentIds": [
+        "seg-176",
+        "seg-177"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-051",
+      "part": 3,
+      "startTime": 1202.0,
+      "endTime": 1269.34,
+      "text": "That's okay with me, as long as you'll agree to look over everything and give it the finishing touches before we hand it in.",
+      "segmentIds": [
+        "seg-178"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-052",
+      "part": 3,
+      "startTime": 1269.34,
+      "endTime": 1304.64,
+      "text": "It's a deal. Shall we meet at the same time tomorrow, or do you...",
+      "segmentIds": [
+        "seg-179",
+        "seg-180"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-053",
+      "part": 3,
+      "startTime": 1304.64,
+      "endTime": 1320.39,
+      "text": "That is the end of Section 3.",
+      "segmentIds": [
+        "seg-181"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-054",
+      "part": 3,
+      "startTime": 1320.39,
+      "endTime": 1347.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-182"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-055",
+      "part": 4,
+      "startTime": 1347.0,
+      "endTime": 1347.65,
+      "text": "Now turn to Section 4 on page 7. Section 4 You will hear a university lecturer talking to his students about an architectural studies assignment. First, you have some time to look at questions 31 to 40 on pages 7 and 8. Now listen carefully and answer questions 31 to 40. Okay. Before this morning's lecture on successful design of public buildings, I want to draw your attention to your next assignment.",
+      "segmentIds": [
+        "seg-183",
+        "seg-184",
+        "seg-185",
+        "seg-186",
+        "seg-187"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1347.65,
+      "endTime": 1362.81,
+      "text": "So, your assignment is on public monuments, and by that I mean any structure or statue that is built to remind us of important events or of historic figures. The assignment should be divided into three sections. At the beginning of Section 1, you should identify the monument you're examining and say why you've chosen it. Include a comment on whether you think the monument works. By that, I mean its success. You may think it's wonderful.",
+      "segmentIds": [
+        "seg-188",
+        "seg-189",
+        "seg-190",
+        "seg-191",
+        "seg-192"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-057",
+      "part": 4,
+      "startTime": 1362.81,
+      "endTime": 1381.0,
+      "text": "You may think it's a public eyesore, something that people hate looking at. Next, you should also include in this first section information about where the monument was built, its geographical site, and also a discussion of its social importance, how relevant it was for the people of the time.",
+      "segmentIds": [
+        "seg-193",
+        "seg-194",
+        "seg-195"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-058",
+      "part": 4,
+      "startTime": 1382.0,
+      "endTime": 1403.0,
+      "text": "You should also include information on when it was built, its historical background, and make sure you illustrate the assignment appropriately, too. I shall expect that. Insert any plans you can find, and make sure any photographs you use have captions and are clearly referred to in the text, or they will be meaningless.",
+      "segmentIds": [
+        "seg-196",
+        "seg-197",
+        "seg-198"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-059",
+      "part": 4,
+      "startTime": 1404.0,
+      "endTime": 1426.0,
+      "text": "To end this section, you should include something about the record of the person who designed the monument, showing how the monument relates to his or her other work. Right. In Section 2 of the assignment, you'll need to give a detailed account of the design and construction of the monument.",
+      "segmentIds": [
+        "seg-199",
+        "seg-200",
+        "seg-201"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-060",
+      "part": 4,
+      "startTime": 1426.0,
+      "endTime": 1449.06,
+      "text": "Firstly, I'll want to read about any particular influence you think is apparent in the design. More often than not, there will be something in it that links it to an established style. Classical Greek, for example. Or it may reflect a movement, like Bauhaus or Art Nouveau. You decide. Secondly, I want information about the choice of materials.",
+      "segmentIds": [
+        "seg-202",
+        "seg-203",
+        "seg-204",
+        "seg-205",
+        "seg-206"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-061",
+      "part": 4,
+      "startTime": 1449.06,
+      "endTime": 1467.25,
+      "text": "Not only those which were used, but reasons why they may have been selected from others that were available at the time, and in the area where the designer worked. Next, I'll want to mention of any particular skills that were necessary in the construction, too.",
+      "segmentIds": [
+        "seg-207",
+        "seg-208",
+        "seg-209"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-062",
+      "part": 4,
+      "startTime": 1467.25,
+      "endTime": 1490.51,
+      "text": "The third section is the most important one. Here, you'll go into much more critical detail. To add to your own comments, you'll need to carry out a survey for this section to be as comprehensive and rounded as possible. Ask yourself and others the following questions. Firstly, was the reason for erecting the monument a valid one?",
+      "segmentIds": [
+        "seg-210",
+        "seg-211",
+        "seg-212",
+        "seg-213"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-063",
+      "part": 4,
+      "startTime": 1490.51,
+      "endTime": 1514.05,
+      "text": "For example, was it one that ordinary members of the public, the man or woman on the street, can readily relate to, and did it justify how much public money it cost? Was it a waste, or does it represent a sound cultural investment? Then, think about its emotional impact. When someone looks at it, how do they feel? Angry? Sad?",
+      "segmentIds": [
+        "seg-214",
+        "seg-215",
+        "seg-216",
+        "seg-217"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-064",
+      "part": 4,
+      "startTime": 1514.05,
+      "endTime": 1532.0,
+      "text": "Indifferent? And don't forget to consider how well the monument sits in its environment. Does it harmonize with it, or does it clash with it? And is that important? Does it add to the effect or take away from it? Right, those guidelines should help.",
+      "segmentIds": [
+        "seg-218",
+        "seg-219",
+        "seg-220"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-065",
+      "part": 4,
+      "startTime": 1533.0,
+      "endTime": 1549.0,
+      "text": "Oh, and remember, it is important to weigh up carefully how to make the maximum impact in this kind of critique within the number of words allowable. You don't get extra marks for lots of factual information. You get those for a well-constructed analysis.",
+      "segmentIds": [
+        "seg-221",
+        "seg-222",
+        "seg-223"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-066",
+      "part": 4,
+      "startTime": 1550.0,
+      "endTime": 1587.5,
+      "text": "That's what counts, and that needs to be based on your personal opinion. That is the end of Section 4. You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-224",
+        "seg-225",
+        "seg-226"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-067",
+      "part": 4,
+      "startTime": 1587.5,
+      "endTime": 1601.85,
+      "text": "That is the end of the listening test. You now have ten minutes to transfer your answers to the listening answer sheet.",
+      "segmentIds": [
+        "seg-227",
+        "seg-228"
+      ],
+      "timestampSource": "exact"
+    }
+  ]
+}

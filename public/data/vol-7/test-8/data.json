@@ -1,0 +1,3858 @@
+{
+  "id": "vol-7-test-8",
+  "vol": 7,
+  "testNumber": 8,
+  "title": "Vol 7 — Test 8",
+  "pdfUrl": "./data/vol-7/test-8/exam.pdf",
+  "pdfPages": 7,
+  "questionPageRange": [
+    1,
+    7
+  ],
+  "audioUrl": "./data/vol-7/test-8/audio.mp3",
+  "audioDurationSec": 1708.49,
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 1.0,
+      "endTime": 583.0,
+      "topicHint": "You will hear a number of different recordings and you will have to answer questions on what you hear."
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 583.0,
+      "endTime": 1006.0,
+      "topicHint": "You will hear a programme on a student radio station. It describes the findings of a survey on vacation jobs taken by students the previous year."
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 1006.0,
+      "endTime": 1237.0,
+      "topicHint": "You will hear three geology students, Andy, Bob and Helen, talking about forming a study syndicate for their forthcoming examinations. First, you have some time to look at question"
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1268.0,
+      "endTime": 1708.49,
+      "topicHint": "Section 4 (Questions 31-40)"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "swer questions 1–10 Questions 1–8 Choose the correct answer. 1 The centre has enough accommodation for A 18 people. B 20 people. C 38 people. 2 The meeting room is currently A unavailable. B flooded. C booked. 3 Visitors must tell the centre in advance if they want to A use the centre’s kitchen. B have meals cooked for t",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There's a large dining room and a large meeting room, which can be booked by groups in advance,",
+      "evidenceStartTime": 178.97,
+      "evidenceEndTime": 187.08,
+      "paraphrases": [
+        {
+          "questionTerm": "accommodation",
+          "audioTerm": "room"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'accommodation' ↔ 'room'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "ugh accommodation for A 18 people. B 20 people. C 38 people. 2 The meeting room is currently A unavailable. B flooded. C booked. 3 Visitors must tell the centre in advance if they want to A use the centre’s kitchen. B have meals cooked for them. C eat at restaurants outside. 4 All visitors on the farm can A get informati",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There's a large dining room and a large meeting room, which can be booked by groups in advance,",
+      "evidenceStartTime": 178.97,
+      "evidenceEndTime": 187.08,
+      "paraphrases": [
+        {
+          "questionTerm": "accommodation",
+          "audioTerm": "room"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'accommodation' ↔ 'room'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "eeting room is currently A unavailable. B flooded. C booked. 3 Visitors must tell the centre in advance if they want to A use the centre’s kitchen. B have meals cooked for them. C eat at restaurants outside. 4 All visitors on the farm can A get information about organic farming. B help to feed the animals. C watch a trac",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And for any visitors who are really keen, you let them drive a tractor or feed the animals and so on, with supervision, of course.",
+      "evidenceStartTime": 288.92,
+      "evidenceEndTime": 300.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "B have meals cooked for them. C eat at restaurants outside. 4 All visitors on the farm can A get information about organic farming. B help to feed the animals. C watch a tractor demonstration. 5 On the survival course people have to A learn to use map. B find their own food. C run through woodland. 6 From the centre it",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And for any visitors who are really keen, you let them drive a tractor or feed the animals and so on, with supervision, of course.",
+      "evidenceStartTime": 288.92,
+      "evidenceEndTime": 300.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "B help to feed the animals. C watch a tractor demonstration. 5 On the survival course people have to A learn to use map. B find their own food. C run through woodland. 6 From the centre it is easy to walk to A Exmoor National Park. B the beach. C a cycling route. 7 If the weather is bad visitors can go to a A cinema. B t",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And for any visitors who are really keen, you let them drive a tractor or feed the animals and so on, with supervision, of course.",
+      "evidenceStartTime": 288.92,
+      "evidenceEndTime": 300.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "n to use map. B find their own food. C run through woodland. 6 From the centre it is easy to walk to A Exmoor National Park. B the beach. C a cycling route. 7 If the weather is bad visitors can go to a A cinema. B theatre. C museum. 8 Group who wish to stay at the centre must pay A part of the cost in advance. B all the",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, they're both a bit far, unless you're very fit, but they're only about 30 minutes by road and there's also a cycle path which starts quite near here, about 10 minutes walk away. You can hire bikes at the starting point. What is there to do if the weather's bad?",
+      "evidenceStartTime": 419.31,
+      "evidenceEndTime": 442.61,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "giới hạn phạm vi bằng 'only'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "k to A Exmoor National Park. B the beach. C a cycling route. 7 If the weather is bad visitors can go to a A cinema. B theatre. C museum. 8 Group who wish to stay at the centre must pay A part of the cost in advance. B all the cost in advance. C all of the cost on arrival. Questions 9–10 Complete the notes below. Write ON",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, they're both a bit far, unless you're very fit, but they're only about 30 minutes by road and there's also a cycle path which starts quite near here, about 10 minutes walk away. You can hire bikes at the starting point. What is there to do if the weather's bad?",
+      "evidenceStartTime": 419.31,
+      "evidenceEndTime": 442.61,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "giới hạn phạm vi bằng 'only'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "r is bad visitors can go to a A cinema. B theatre. C museum. 8 Group who wish to stay at the centre must pay A part of the cost in advance. B all the cost in advance. C all of the cost on arrival. Questions 9–10 Complete the notes below. Write ONE WORD AND/OR NUMBERS for each answer. Address: Winsham Farm 9……… Road Near",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's Winsham Farm, Cotile Road, that's C-O-T-E-H-E-L-E, near Sherbourne.",
+      "evidenceStartTime": 531.34,
+      "evidenceEndTime": 537.33,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "E WORD AND/OR NUMBERS for each answer. Address: Winsham Farm 9……… Road Near Sherbone 10………..",
+      "answerRaw": "COTEHELE",
+      "canonicalAnswer": "COTEHELE",
+      "acceptedAnswers": [
+        "COTEHELE"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's Winsham Farm, Cotile Road, that's C-O-T-E-H-E-L-E, near Sherbourne.",
+      "evidenceStartTime": 531.34,
+      "evidenceEndTime": 537.33,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"COTEHELE\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "r each answer. Address: Winsham Farm 9……… Road Near Sherbone 10………..",
+      "answerRaw": "SH121LQ",
+      "canonicalAnswer": "SH121LQ",
+      "acceptedAnswers": [
+        "SH121LQ"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's Winsham Farm, Cotile Road, that's C-O-T-E-H-E-L-E, near Sherbourne.",
+      "evidenceStartTime": 531.34,
+      "evidenceEndTime": 537.33,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"SH121LQ\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "Main advantage Main disadvantage Recommondation Stocktaking 11…….. tiring 12………. Office work air conditioning 13………. choose a 14……… Theme park attendant 15……… rude customers 16………. Questions 17–20 Choose the correct answer. 17 Peter learned about the job A from a collenge friend. B on the computer. C from a student job c",
+      "answerRaw": "travelling",
+      "canonicalAnswer": "travelling",
+      "acceptedAnswers": [
+        "travelling"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The thing that students said they enjoyed most about this job was the travelling.",
+      "evidenceStartTime": 663.53,
+      "evidenceEndTime": 668.29,
+      "paraphrases": [
+        {
+          "questionTerm": "work",
+          "audioTerm": "job"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"travelling\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "e Main disadvantage Recommondation Stocktaking 11…….. tiring 12………. Office work air conditioning 13………. choose a 14……… Theme park attendant 15……… rude customers 16………. Questions 17–20 Choose the correct answer. 17 Peter learned about the job A from a collenge friend. B on the computer. C from a student job centre. 18 Pete",
+      "answerRaw": "get good shoes",
+      "canonicalAnswer": "get good shoes",
+      "acceptedAnswers": [
+        "get good shoes"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The main negative, however, was that they tended to find the job tiring with long hours spent on their feet and climbing high shelves. Now, one thing we did ask the students in our survey was whether they had any recommendations for other people taking on their job and they said, perhaps not surprisingly, get good shoes.",
+      "evidenceStartTime": 674.87,
+      "evidenceEndTime": 693.72,
+      "paraphrases": [
+        {
+          "questionTerm": "disadvantage",
+          "audioTerm": "negative"
+        },
+        {
+          "questionTerm": "work",
+          "audioTerm": "job"
+        }
+      ],
+      "distractors": [
+        "đảo chiều thông tin bằng 'however'",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"get good shoes\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'disadvantage' ↔ 'negative'; 'work' ↔ 'job'. Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "tocktaking 11…….. tiring 12………. Office work air conditioning 13………. choose a 14……… Theme park attendant 15……… rude customers 16………. Questions 17–20 Choose the correct answer. 17 Peter learned about the job A from a collenge friend. B on the computer. C from a student job centre. 18 Peter mainly enjoyed the job because it",
+      "answerRaw": "wearing formal",
+      "canonicalAnswer": "wearing formal",
+      "acceptedAnswers": [
+        "wearing formal"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The downside, which many talked about, was wearing formal clothes.",
+      "evidenceStartTime": 713.38,
+      "evidenceEndTime": 717.76,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"wearing formal\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": ". tiring 12………. Office work air conditioning 13………. choose a 14……… Theme park attendant 15……… rude customers 16………. Questions 17–20 Choose the correct answer. 17 Peter learned about the job A from a collenge friend. B on the computer. C from a student job centre. 18 Peter mainly enjoyed the job because it was A easy. B ch",
+      "answerRaw": "large office",
+      "canonicalAnswer": "large office",
+      "acceptedAnswers": [
+        "large office"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The advice most people gave was to select a large office.",
+      "evidenceStartTime": 721.34,
+      "evidenceEndTime": 725.12,
+      "paraphrases": [
+        {
+          "questionTerm": "choose",
+          "audioTerm": "select"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"large office\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'choose' ↔ 'select'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "air conditioning 13………. choose a 14……… Theme park attendant 15……… rude customers 16………. Questions 17–20 Choose the correct answer. 17 Peter learned about the job A from a collenge friend. B on the computer. C from a student job centre. 18 Peter mainly enjoyed the job because it was A easy. B challenging. C unusual. 19 Th",
+      "answerRaw": "good pay",
+      "canonicalAnswer": "good pay",
+      "acceptedAnswers": [
+        "good pay"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "again, I got a surprise here because the big plus people talked about was good pay.",
+      "evidenceStartTime": 737.38,
+      "evidenceEndTime": 742.88,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"good pay\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "……. choose a 14……… Theme park attendant 15……… rude customers 16………. Questions 17–20 Choose the correct answer. 17 Peter learned about the job A from a collenge friend. B on the computer. C from a student job centre. 18 Peter mainly enjoyed the job because it was A easy. B challenging. C unusual. 19 The job’s most interest",
+      "answerRaw": "live nearby",
+      "canonicalAnswer": "live nearby",
+      "acceptedAnswers": [
+        "live nearby"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "again, I got a surprise here because the big plus people talked about was good pay.",
+      "evidenceStartTime": 737.38,
+      "evidenceEndTime": 742.88,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"live nearby\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "customers 16………. Questions 17–20 Choose the correct answer. 17 Peter learned about the job A from a collenge friend. B on the computer. C from a student job centre. 18 Peter mainly enjoyed the job because it was A easy. B challenging. C unusual. 19 The job’s most interesting aspect was A learning about the environment. B",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "again, I got a surprise here because the big plus people talked about was good pay.",
+      "evidenceStartTime": 737.38,
+      "evidenceEndTime": 742.88,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "enge friend. B on the computer. C from a student job centre. 18 Peter mainly enjoyed the job because it was A easy. B challenging. C unusual. 19 The job’s most interesting aspect was A learning about the environment. B working with children. C caring for the animals. 20 Peter has decided that next vacation he A won’t take",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "again, I got a surprise here because the big plus people talked about was good pay.",
+      "evidenceStartTime": 737.38,
+      "evidenceEndTime": 742.88,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "yed the job because it was A easy. B challenging. C unusual. 19 The job’s most interesting aspect was A learning about the environment. B working with children. C caring for the animals. 20 Peter has decided that next vacation he A won’t take a job. B will work at the zoo. C will work elsewhere.",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "again, I got a surprise here because the big plus people talked about was good pay.",
+      "evidenceStartTime": 737.38,
+      "evidenceEndTime": 742.88,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "ironment. B working with children. C caring for the animals. 20 Peter has decided that next vacation he A won’t take a job. B will work at the zoo. C will work elsewhere.",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It must have improved since my day, I must say. Anyway, the downside I did recognise, having to deal with difficult customers, especially in the heat when tempers get frayed.",
+      "evidenceStartTime": 742.88,
+      "evidenceEndTime": 765.62,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "another is a good way to learn o It gives the opportunity to 21…… o Shared reading means fuller notes o You can do 22…….. Questions 23–25 Complete the table below Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. PLAN FOR STUDY SYNDICATE Date Geology Topic Name of Presenter 9th May 23 …….. Bob 24……. Glaciate",
+      "answerRaw": "share ideas",
+      "canonicalAnswer": "share ideas",
+      "acceptedAnswers": [
+        "share ideas"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And presumably it gives us the chance to share ideas as well.",
+      "evidenceStartTime": 1009.06,
+      "evidenceEndTime": 1012.65,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"share ideas\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "ity to 21…… o Shared reading means fuller notes o You can do 22…….. Questions 23–25 Complete the table below Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. PLAN FOR STUDY SYNDICATE Date Geology Topic Name of Presenter 9th May 23 …….. Bob 24……. Glaciated areas Andy 23rd May Rock information Helen and John",
+      "answerRaw": "deeper research",
+      "canonicalAnswer": "deeper research",
+      "acceptedAnswers": [
+        "deeper research"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And as well as that, because of that, really, you can do, you know, much deeper research.",
+      "evidenceStartTime": 1017.74,
+      "evidenceEndTime": 1022.84,
+      "paraphrases": [
+        {
+          "questionTerm": "study",
+          "audioTerm": "research"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"deeper research\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'study' ↔ 'research'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "STUDY SYNDICATE Date Geology Topic Name of Presenter 9th May 23 …….. Bob 24……. Glaciated areas Andy 23rd May Rock information Helen and John 25…….. Volcanoes John Questions 26–30 Complete the notes below Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. o Presentation should last for 26……. (plan time for 27…",
+      "answerRaw": "Mountain building",
+      "canonicalAnswer": "Mountain building",
+      "acceptedAnswers": [
+        "Mountain building"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yeah, sure. Actually, would you mind if I did that? I'm quite interested in it. Right. Right. So is May 9th OK for that? Yeah. I'll just write that down. And it's Bob for mountain building.",
+      "evidenceStartTime": 1057.45,
+      "evidenceEndTime": 1070.61,
+      "paraphrases": [],
+      "distractors": [
+        "người nói tự đính chính thông tin vừa nêu ('actually')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Mountain building\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "ATE Date Geology Topic Name of Presenter 9th May 23 …….. Bob 24……. Glaciated areas Andy 23rd May Rock information Helen and John 25…….. Volcanoes John Questions 26–30 Complete the notes below Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. o Presentation should last for 26……. (plan time for 27…………..) o Sou",
+      "answerRaw": "17 May",
+      "canonicalAnswer": "17 May",
+      "acceptedAnswers": [
+        "17 May"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "May 23rd would be best. Rock formation, Helen and John. Right.",
+      "evidenceStartTime": 1101.69,
+      "evidenceEndTime": 1105.81,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"17 May\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "laciated areas Andy 23rd May Rock information Helen and John 25…….. Volcanoes John Questions 26–30 Complete the notes below Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. o Presentation should last for 26……. (plan time for 27…………..) o Sources of information Bibliography Library books 28…….. 29…….. o For t",
+      "answerRaw": "29 May",
+      "canonicalAnswer": "29 May",
+      "acceptedAnswers": [
+        "29 May"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "May 23rd would be best. Rock formation, Helen and John. Right.",
+      "evidenceStartTime": 1101.69,
+      "evidenceEndTime": 1105.81,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"29 May\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "/OR A NUMBER for each answer. o Presentation should last for 26……. (plan time for 27…………..) o Sources of information Bibliography Library books 28…….. 29…….. o For the presentations, use: Overahead projector Whiteboard 30……..",
+      "answerRaw": "30–40 minutes",
+      "canonicalAnswer": "30–40 minutes",
+      "acceptedAnswers": [
+        "30–40 minutes"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, shall we say 30 to 40 minutes? OK. And presumably time for questions? And discussion.",
+      "evidenceStartTime": 1177.18,
+      "evidenceEndTime": 1182.7,
+      "paraphrases": [
+        {
+          "questionTerm": "time",
+          "audioTerm": "minutes"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"30–40 minutes\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'time' ↔ 'minutes'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "answer. o Presentation should last for 26……. (plan time for 27…………..) o Sources of information Bibliography Library books 28…….. 29…….. o For the presentations, use: Overahead projector Whiteboard 30……..",
+      "answerRaw": "questions and discussion",
+      "canonicalAnswer": "questions and discussion",
+      "acceptedAnswers": [
+        "questions and discussion"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, shall we say 30 to 40 minutes? OK. And presumably time for questions? And discussion.",
+      "evidenceStartTime": 1177.18,
+      "evidenceEndTime": 1182.7,
+      "paraphrases": [
+        {
+          "questionTerm": "time",
+          "audioTerm": "minutes"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"questions and discussion\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'time' ↔ 'minutes'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "7…………..) o Sources of information Bibliography Library books 28…….. 29…….. o For the presentations, use: Overahead projector Whiteboard 30……..",
+      "answerRaw": "articles",
+      "canonicalAnswer": "articles",
+      "acceptedAnswers": [
+        "articles"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And articles, you know, from the journals. And then, of course, there's lots of stuff on the internet. Yes, that's the sort of thing.",
+      "evidenceStartTime": 1203.0,
+      "evidenceEndTime": 1212.21,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"articles\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": ") o Sources of information Bibliography Library books 28…….. 29…….. o For the presentations, use: Overahead projector Whiteboard 30……..",
+      "answerRaw": "internet",
+      "canonicalAnswer": "internet",
+      "acceptedAnswers": [
+        "internet"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And then, of course, there's lots of stuff on the internet. Yes, that's the sort of thing.",
+      "evidenceStartTime": 1205.93,
+      "evidenceEndTime": 1212.21,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"internet\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "o For the presentations, use: Overahead projector Whiteboard 30……..",
+      "answerRaw": "photocopies",
+      "canonicalAnswer": "photocopies",
+      "acceptedAnswers": [
+        "photocopies"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It'd be a bit difficult, but we can use the OHP. And the whiteboard, of course. And we can make photocopies of our notes so everyone can have a copy. Yes, great.",
+      "evidenceStartTime": 1218.49,
+      "evidenceEndTime": 1229.67,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"photocopies\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "he Africa clawed frog (Xenopus laevis) Description ∙ Skin is 31……… and can vary in colour ∙ Skin is coated with a slippery film for 32……… ∙ Males are 33……… the size of females Habitats ∙ Native to Africa ∙ Live in fresh water – prefered water that is 34……. ∙ Can survive high levels of 35…….. in water ∙ Cannot survive if t",
+      "answerRaw": "smooth",
+      "canonicalAnswer": "smooth",
+      "acceptedAnswers": [
+        "smooth"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Like most other frogs, the African Clawed Frogs have a smooth skin.",
+      "evidenceStartTime": 1372.94,
+      "evidenceEndTime": 1385.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"smooth\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "can vary in colour ∙ Skin is coated with a slippery film for 32……… ∙ Males are 33……… the size of females Habitats ∙ Native to Africa ∙ Live in fresh water – prefered water that is 34……. ∙ Can survive high levels of 35…….. in water ∙ Cannot survive if there is any metal in water ∙ In drought conditions, may live in 36……….",
+      "answerRaw": "protection",
+      "canonicalAnswer": "protection",
+      "acceptedAnswers": [
+        "protection"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "This makes it hard for other creatures to pick them up, and so it provides protection against predators.",
+      "evidenceStartTime": 1406.88,
+      "evidenceEndTime": 1415.93,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"protection\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "∙ Skin is coated with a slippery film for 32……… ∙ Males are 33……… the size of females Habitats ∙ Native to Africa ∙ Live in fresh water – prefered water that is 34……. ∙ Can survive high levels of 35…….. in water ∙ Cannot survive if there is any metal in water ∙ In drought conditions, may live in 36………. for up to a year D",
+      "answerRaw": "half",
+      "canonicalAnswer": "half",
+      "acceptedAnswers": [
+        "half"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "A large-sized female may be 8 inches long, while the males are about half that size.",
+      "evidenceStartTime": 1428.29,
+      "evidenceEndTime": 1435.6,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"half\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "ive to Africa ∙ Live in fresh water – prefered water that is 34……. ∙ Can survive high levels of 35…….. in water ∙ Cannot survive if there is any metal in water ∙ In drought conditions, may live in 36………. for up to a year Diet ∙ Eat living or dead water creatures ∙ Find food using their sense of 37………., their fingers, and",
+      "answerRaw": "still",
+      "canonicalAnswer": "still",
+      "acceptedAnswers": [
+        "still"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They make their houses in fresh water, but they're rarely found in running streams. They like still water. As far as the temperature of the water goes, they're not too fussy.",
+      "evidenceStartTime": 1453.0,
+      "evidenceEndTime": 1468.57,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"still\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "– prefered water that is 34……. ∙ Can survive high levels of 35…….. in water ∙ Cannot survive if there is any metal in water ∙ In drought conditions, may live in 36………. for up to a year Diet ∙ Eat living or dead water creatures ∙ Find food using their sense of 37………., their fingers, and their lateral lines ∙ Take food int",
+      "answerRaw": "salt",
+      "canonicalAnswer": "salt",
+      "acceptedAnswers": [
+        "salt"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They don't need to be in water where there are plants growing, and they can live in water that has quite a lot of salt in it.",
+      "evidenceStartTime": 1470.64,
+      "evidenceEndTime": 1481.89,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"salt\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "e is any metal in water ∙ In drought conditions, may live in 36………. for up to a year Diet ∙ Eat living or dead water creatures ∙ Find food using their sense of 37………., their fingers, and their lateral lines ∙ Take food into their mouths using from legs and a 38……… system Other information ∙ Now popular as a pet in the US",
+      "answerRaw": "mud",
+      "canonicalAnswer": "mud",
+      "acceptedAnswers": [
+        "mud"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But in unfavorable conditions, such as drought, they can burrow into the mud and survive there for up to a year until conditions improve.",
+      "evidenceStartTime": 1523.91,
+      "evidenceEndTime": 1536.23,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"mud\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "ing or dead water creatures ∙ Find food using their sense of 37………., their fingers, and their lateral lines ∙ Take food into their mouths using from legs and a 38……… system Other information ∙ Now popular as a pet in the US ∙ In some US states they are identified as a 39………. ∙ Used in laboratories for developmental resear",
+      "answerRaw": "smell",
+      "canonicalAnswer": "smell",
+      "acceptedAnswers": [
+        "smell"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Instead, they use smell and also the sensitive fingers on their front legs.",
+      "evidenceStartTime": 1567.27,
+      "evidenceEndTime": 1574.0,
+      "paraphrases": [],
+      "distractors": [
+        "thay thế phương án ban đầu bằng lựa chọn khác ('instead')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"smell\". Lưu ý bẫy gây nhiễu (distractor): thay thế phương án ban đầu bằng lựa chọn khác ('instead')."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "al lines ∙ Take food into their mouths using from legs and a 38……… system Other information ∙ Now popular as a pet in the US ∙ In some US states they are identified as a 39………. ∙ Used in laboratories for developmental research ∙ Mucus from the skin was 40………. properties",
+      "answerRaw": "pump",
+      "canonicalAnswer": "pump",
+      "acceptedAnswers": [
+        "pump"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "together with a type of pump arrangement that sucks the food into the mouth and down into their stomach.",
+      "evidenceStartTime": 1589.33,
+      "evidenceEndTime": 1597.13,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"pump\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "a pet in the US ∙ In some US states they are identified as a 39………. ∙ Used in laboratories for developmental research ∙ Mucus from the skin was 40………. properties",
+      "answerRaw": "pest",
+      "canonicalAnswer": "pest",
+      "acceptedAnswers": [
+        "pest"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "So, they've been classified as a pest in these areas. But another very important use for the frogs is for research in laboratories.",
+      "evidenceStartTime": 1640.57,
+      "evidenceEndTime": 1652.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"pest\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "atories for developmental research ∙ Mucus from the skin was 40………. properties",
+      "answerRaw": "antibiotic",
+      "canonicalAnswer": "antibiotic",
+      "acceptedAnswers": [
+        "antibiotic"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But also, the slippery mucus that covers their skin acts as an antibiotic, killing parasites and bacteria.",
+      "evidenceStartTime": 1669.17,
+      "evidenceEndTime": 1679.12,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"antibiotic\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 1.0,
+      "endTime": 11.63,
+      "text": "IELTS Listening Version K0009 You will hear a number of different recordings and you will have to answer questions on what you hear.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 11.63,
+      "endTime": 20.65,
+      "text": "There will be time for you to read the instructions and questions and you will have a chance to check your work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 20.65,
+      "endTime": 26.61,
+      "text": "All the recordings will be played once only. The test is in four sections.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 26.61,
+      "endTime": 31.2,
+      "text": "Write all your answers in the listening question booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 31.2,
+      "endTime": 39.0,
+      "text": "At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 41.0,
+      "endTime": 50.37,
+      "text": "Now turn to section 1 on page 2 of your question booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 50.37,
+      "endTime": 66.8,
+      "text": "Section 1 You will hear a telephone conversation about Winsham Farm, a residential education centre.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 66.8,
+      "endTime": 77.32,
+      "text": "First, you have some time to look at questions 1 to 4 on page 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 77.32,
+      "endTime": 88.0,
+      "text": "You will see that there is an example that has been done for you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 89.0,
+      "endTime": 107.44,
+      "text": "On this occasion only, the conversation relating to this will be played first.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 107.44,
+      "endTime": 132.5,
+      "text": "The caller wishes to arrange a weekend away for himself and some colleagues, so option C has been circled.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 132.5,
+      "endTime": 137.0,
+      "text": "Now we shall begin.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 138.0,
+      "endTime": 146.54,
+      "text": "You should answer the questions as you listen because you will not hear the recording a second time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 146.54,
+      "endTime": 153.28,
+      "text": "Listen carefully and answer questions 1 to 4. What else would you like to know?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 153.28,
+      "endTime": 157.97,
+      "text": "Well, firstly, what kind of accommodation have you got?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 157.97,
+      "endTime": 163.86,
+      "text": "We've got eight rooms altogether and we can sleep 38 at any one time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 163.86,
+      "endTime": 170.26,
+      "text": "Three of the rooms have got six bunks and five of them have got four bunks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 170.26,
+      "endTime": 173.93,
+      "text": "Right, and what other facilities are there?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 173.93,
+      "endTime": 178.97,
+      "text": "We have separate toilets and showers for each of the rooms.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 178.97,
+      "endTime": 187.08,
+      "text": "There's a large dining room and a large meeting room, which can be booked by groups in advance,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 187.08,
+      "endTime": 198.01,
+      "text": "but I'm afraid we had a flood in there last month and the floor was slightly damaged, so unfortunately it's out of use just now.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 198.01,
+      "endTime": 204.24,
+      "text": "We've got workmen coming in next week. When were you thinking of staying?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 204.24,
+      "endTime": 210.47,
+      "text": "In three weeks' time, the 28th of September. Oh, it should be OK by then.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 210.47,
+      "endTime": 218.24,
+      "text": "Oh, well, that's OK then. And what about food? Do you provide meals or is it self-catering?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 218.24,
+      "endTime": 219.95,
+      "text": "We're very flexible.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 219.95,
+      "endTime": 232.07,
+      "text": "As long as you give us enough notice, we can cater for you, or if you prefer, you can just bring your own food and use the kitchen facilities.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 232.07,
+      "endTime": 237.19,
+      "text": "And some people prefer to eat out, which is also fine. Fine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 237.19,
+      "endTime": 245.21,
+      "text": "And I heard that your farm is organic. Does that mean that you only have crops and no animals?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 245.21,
+      "endTime": 247.0,
+      "text": "It doesn't, actually.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 247.0,
+      "endTime": 256.05,
+      "text": "A lot of people seem to think that, but we do rear livestock as well, and so we have a wide range of food.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 256.05,
+      "endTime": 264.16,
+      "text": "Organic means it's all produced without the use of artificial fertilisers or pesticides. I see.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 264.16,
+      "endTime": 265.61,
+      "text": "That sounds good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 265.61,
+      "endTime": 274.66,
+      "text": "Could you tell me what sort of recreational activities are available, either at the centre or in the area?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 274.66,
+      "endTime": 280.38,
+      "text": "Yes. Here at the centre, we offer farm tours. They're very popular.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 280.38,
+      "endTime": 288.92,
+      "text": "One of the farm managers shows people around and explains some of the principles of organic farming.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 288.92,
+      "endTime": 300.0,
+      "text": "And for any visitors who are really keen, you let them drive a tractor or feed the animals and so on, with supervision, of course.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 300.0,
+      "endTime": 306.25,
+      "text": "I think a lot of our group would be interested in that. It'd make a change from factory work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 306.25,
+      "endTime": 309.68,
+      "text": "Well, if they fancy it, tell them to come prepared.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 309.68,
+      "endTime": 316.0,
+      "text": "Plenty of old clothing, especially footwear. It can be very messy and wet. OK, I'll warn them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 320.0,
+      "endTime": 330.83,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions five to ten on page three.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 330.83,
+      "endTime": 335.08,
+      "text": "Now listen and answer questions five to ten.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 335.08,
+      "endTime": 348.23,
+      "text": "And another type of activity we do is survival courses, but that's only for groups of five or more, and they've got to be acquaintances.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 348.23,
+      "endTime": 351.23,
+      "text": "They have to cooperate closely.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 351.23,
+      "endTime": 360.61,
+      "text": "These courses are very popular, especially with school groups, but adults seem to enjoy them too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 360.61,
+      "endTime": 366.9,
+      "text": "What do they involve? Things like map reading? Well, not exactly.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 366.9,
+      "endTime": 375.41,
+      "text": "What it is, we've got a large area of woodland on the farm and we run this course there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 375.41,
+      "endTime": 385.37,
+      "text": "It's mainly about collecting food and water, lighting a fire without any equipment, that kind of thing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 385.37,
+      "endTime": 392.72,
+      "text": "Hmm, this weekend could be hard work. What about the area around the centre?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 392.72,
+      "endTime": 394.65,
+      "text": "What is there to do?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 394.65,
+      "endTime": 401.23,
+      "text": "If you look at a map, you'll see that we're very well situated here.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 401.23,
+      "endTime": 415.64,
+      "text": "Our centre's about midway between the Exmoor National Park, which is very popular for hill walking, and the south coast, which has very good beaches.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 1,
+      "startTime": 415.64,
+      "endTime": 419.31,
+      "text": "Are they both within walking distance?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 1,
+      "startTime": 419.31,
+      "endTime": 437.0,
+      "text": "Well, they're both a bit far, unless you're very fit, but they're only about 30 minutes by road and there's also a cycle path which starts quite near here, about 10 minutes walk away.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 1,
+      "startTime": 437.0,
+      "endTime": 442.61,
+      "text": "You can hire bikes at the starting point. What is there to do if the weather's bad?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 1,
+      "startTime": 442.61,
+      "endTime": 446.53,
+      "text": "I hope it won't be, but you never know. Yes, that's right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 1,
+      "startTime": 446.53,
+      "endTime": 455.25,
+      "text": "Well, on most Saturday evenings we show films here and then once a month a group of local musicians performs in our meeting room.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 1,
+      "startTime": 455.25,
+      "endTime": 458.09,
+      "text": "And then Sherbourne is only 14 miles away.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 1,
+      "startTime": 458.09,
+      "endTime": 465.0,
+      "text": "It's only a small town, but it's got a very good museum and an old abbey, which is well worth a visit.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 1,
+      "startTime": 465.0,
+      "endTime": 470.97,
+      "text": "Well, it sounds perfect for our purposes. One last thing, what about prices?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 1,
+      "startTime": 470.97,
+      "endTime": 475.52,
+      "text": "I'm not sure yet, but there'll probably be about 15 of us.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 1,
+      "startTime": 475.52,
+      "endTime": 483.13,
+      "text": "We charge a standard £14 a head for accommodation, whether there are 10 or 20 of you or whatever,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 1,
+      "startTime": 483.13,
+      "endTime": 488.0,
+      "text": "and about £7 for cooked meals, depending on the menu you want.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 1,
+      "startTime": 489.0,
+      "endTime": 495.24,
+      "text": "Use of the kitchen facilities is extra, as is the hire of the meeting room.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 1,
+      "startTime": 495.24,
+      "endTime": 501.31,
+      "text": "It depends, really, what exactly you want and for how many people. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 1,
+      "startTime": 501.31,
+      "endTime": 508.13,
+      "text": "Well, I've made a note of all that and I'll discuss it with the rest of the group.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 1,
+      "startTime": 508.13,
+      "endTime": 513.95,
+      "text": "Then I'll get back to you with a firm booking. Can I do that by phone?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 1,
+      "startTime": 513.95,
+      "endTime": 522.19,
+      "text": "Yes, you can, but once you've made a booking we would need a deposit within five days to secure it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 1,
+      "startTime": 522.19,
+      "endTime": 527.76,
+      "text": "Then you just pay the balance when you're here. Oh, yes, of course.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 1,
+      "startTime": 527.76,
+      "endTime": 531.34,
+      "text": "Could you give me the address, please? Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 1,
+      "startTime": 531.34,
+      "endTime": 537.33,
+      "text": "It's Winsham Farm, Cotile Road, that's C-O-T-E-H-E-L-E, near Sherbourne.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 1,
+      "startTime": 537.33,
+      "endTime": 541.0,
+      "text": "And the postcode is S-H-12-1-L-Q. Thank you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 1,
+      "startTime": 545.0,
+      "endTime": 559.73,
+      "text": "That is the end of section one.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 1,
+      "startTime": 559.73,
+      "endTime": 583.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 583.0,
+      "endTime": 586.0,
+      "text": "Now turn to section two on page four.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 586.0,
+      "endTime": 590.05,
+      "text": "You will hear a programme on a student radio station.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 590.05,
+      "endTime": 597.0,
+      "text": "It describes the findings of a survey on vacation jobs taken by students the previous year.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 598.0,
+      "endTime": 607.66,
+      "text": "First, you have some time to look at questions 11 to 16 on page four.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 607.66,
+      "endTime": 614.8,
+      "text": "Now listen carefully and answer questions 11 to 16.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 614.8,
+      "endTime": 618.16,
+      "text": "Welcome to Student Life.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 618.16,
+      "endTime": 630.34,
+      "text": "It's spring and many of you may be thinking about arranging work for the long vacation.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 630.34,
+      "endTime": 647.15,
+      "text": "So on today's programme, Roger Anwell reports on a survey we conducted into the pleasures and problems of vacation jobs.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 647.15,
+      "endTime": 648.0,
+      "text": "Roger.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 649.0,
+      "endTime": 649.99,
+      "text": "Thank you, Sarah.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 649.99,
+      "endTime": 656.39,
+      "text": "Well, the first thing to say is that by far the majority of students we surveyed did just three types of jobs.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 656.39,
+      "endTime": 660.0,
+      "text": "All of these obviously had their advantages and disadvantages.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 661.0,
+      "endTime": 663.53,
+      "text": "Starting with stock-taking in supermarkets.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 663.53,
+      "endTime": 668.29,
+      "text": "The thing that students said they enjoyed most about this job was the travelling.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 668.29,
+      "endTime": 674.87,
+      "text": "They were often required to go to branches to do their stock takes and this was regarded as an interesting plus.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 674.87,
+      "endTime": 682.74,
+      "text": "The main negative, however, was that they tended to find the job tiring with long hours spent on their feet and climbing high shelves.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 682.74,
+      "endTime": 693.72,
+      "text": "Now, one thing we did ask the students in our survey was whether they had any recommendations for other people taking on their job and they said, perhaps not surprisingly, get good shoes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 693.72,
+      "endTime": 696.0,
+      "text": "That's the only way you can keep going.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 697.0,
+      "endTime": 708.34,
+      "text": "Another job which lots of students did was office work and the positive feature of this actually rather surprised me until I remembered what a hot summer it was last year.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 708.34,
+      "endTime": 713.38,
+      "text": "Lots of students named air conditioning as the best thing about office work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 713.38,
+      "endTime": 717.76,
+      "text": "The downside, which many talked about, was wearing formal clothes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 717.76,
+      "endTime": 721.34,
+      "text": "Obviously, this didn't go down too well with students.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 721.34,
+      "endTime": 725.12,
+      "text": "The advice most people gave was to select a large office.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 725.12,
+      "endTime": 731.15,
+      "text": "That way you have more variety of social contacts. Otherwise, the work can get very boring.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 2,
+      "startTime": 731.15,
+      "endTime": 737.38,
+      "text": "The third job which had attracted large numbers of students was as a theme park attendant and,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 2,
+      "startTime": 737.38,
+      "endTime": 742.88,
+      "text": "again, I got a surprise here because the big plus people talked about was good pay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 2,
+      "startTime": 742.88,
+      "endTime": 746.0,
+      "text": "It must have improved since my day, I must say.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 2,
+      "startTime": 747.0,
+      "endTime": 765.62,
+      "text": "Anyway, the downside I did recognise, having to deal with difficult customers, especially in the heat when tempers get frayed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 2,
+      "startTime": 765.62,
+      "endTime": 766.95,
+      "text": "Not easy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 2,
+      "startTime": 766.95,
+      "endTime": 791.33,
+      "text": "And people said that it was a good idea to live nearby because there's a lot of shift work and you don't have to worry about transport at difficult times of the day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 2,
+      "startTime": 791.33,
+      "endTime": 806.84,
+      "text": "Before you hear the rest of the programme, you have some time to look at questions 17 to 20 on page five.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 2,
+      "startTime": 806.84,
+      "endTime": 812.9,
+      "text": "Now listen and answer questions 17 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 2,
+      "startTime": 812.9,
+      "endTime": 824.13,
+      "text": "So, those were the findings from the survey on the most common student jobs.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 2,
+      "startTime": 824.13,
+      "endTime": 832.26,
+      "text": "But not all student jobs have to be mundane and boring.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 2,
+      "startTime": 832.26,
+      "endTime": 847.77,
+      "text": "One of the students who responded in our survey spoke at length about his amazing job as a zoo attendant.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 2,
+      "startTime": 847.77,
+      "endTime": 867.57,
+      "text": "Peter Marshall had read about work opportunities on the zoo website and just went along with a friend to talk to someone in personnel.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 2,
+      "startTime": 867.57,
+      "endTime": 875.4,
+      "text": "He was offered a job there and then, as easy as that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 2,
+      "startTime": 875.4,
+      "endTime": 892.54,
+      "text": "In previous years, he'd done singularly unexciting shop work, so he was very pleased to be doing such original work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 2,
+      "startTime": 892.54,
+      "endTime": 899.63,
+      "text": "He ended up working for just under three months,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 2,
+      "startTime": 899.63,
+      "endTime": 916.47,
+      "text": "which was actually slightly more than he'd anticipated and meant that he had to miss part of university term time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 2,
+      "startTime": 916.47,
+      "endTime": 933.61,
+      "text": "But he said it was well worth it because he thinks he's found his future career path as a result of this experience.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 2,
+      "startTime": 933.61,
+      "endTime": 953.26,
+      "text": "He loved working on the educational side, in particular helping young kids understand about the animals in their natural environment.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 2,
+      "startTime": 953.26,
+      "endTime": 961.53,
+      "text": "He said it was the most intriguing thing he'd ever done.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 2,
+      "startTime": 961.53,
+      "endTime": 981.33,
+      "text": "He tells us though that with final exams coming up, he won't be able to do any paid work this coming vacation, so why don't you apply?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 2,
+      "startTime": 981.33,
+      "endTime": 994.18,
+      "text": "If you're interested in getting further information about the findings of the survey...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 2,
+      "startTime": 994.18,
+      "endTime": 998.76,
+      "text": "That is the end of section two.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 2,
+      "startTime": 998.76,
+      "endTime": 1006.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 1006.0,
+      "endTime": 1006.04,
+      "text": "Now turn to section three on page six.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 1006.04,
+      "endTime": 1006.19,
+      "text": "You will hear three geology students, Andy, Bob and Helen, talking about forming a study syndicate for their forthcoming examinations.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 1006.19,
+      "endTime": 1006.27,
+      "text": "First, you have some time to look at questions 21 to 25 on page six.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 1006.27,
+      "endTime": 1006.38,
+      "text": "Now listen carefully and answer questions 21 to 25. Right then, are we ready? Bob, Helen? Yeah.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 1006.38,
+      "endTime": 1006.46,
+      "text": "And is someone taking notes for John? He's at a tutorial, isn't he?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 1006.46,
+      "endTime": 1006.51,
+      "text": "Yeah, I'll let him know what we agree. Good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 1006.51,
+      "endTime": 1006.62,
+      "text": "Okay, well first thing is, has anyone apart from me actually been in a study syndicate before?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 1006.62,
+      "endTime": 1006.67,
+      "text": "No. What does it actually involve, Andy?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 1006.67,
+      "endTime": 1006.77,
+      "text": "Well, the idea is that it's a way for us, for students to study together without a teacher.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 1006.77,
+      "endTime": 1006.79,
+      "text": "Oh yeah, right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 1006.79,
+      "endTime": 1006.94,
+      "text": "When I did it last time, I found it helpful because, well, as I said, there's no teacher, so it means we're teaching one another.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 1006.94,
+      "endTime": 1007.0,
+      "text": "And I found I really learned a lot through having to teach it myself.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 1007.0,
+      "endTime": 1009.06,
+      "text": "It seemed a very good way to learn.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 1009.06,
+      "endTime": 1012.65,
+      "text": "And presumably it gives us the chance to share ideas as well.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 1012.65,
+      "endTime": 1016.0,
+      "text": "And you get fuller notes if you're all doing the reading.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 1017.0,
+      "endTime": 1017.74,
+      "text": "That's right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 1017.74,
+      "endTime": 1022.84,
+      "text": "And as well as that, because of that, really, you can do, you know, much deeper research.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 1022.84,
+      "endTime": 1027.25,
+      "text": "So I thought we could try it to revise what we've done on the geology course,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 1027.25,
+      "endTime": 1032.0,
+      "text": "because I know this is the one that most of us are worried about, the geology exam.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 1034.0,
+      "endTime": 1043.73,
+      "text": "So the idea is we all look at a different topic, a different topic from the geology course, and then give a presentation and talk about it?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1043.73,
+      "endTime": 1048.98,
+      "text": "That's right. I've drawn up the framework of a table which might be useful.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1048.98,
+      "endTime": 1051.43,
+      "text": "Here, I've made a copy. Oh, thanks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1051.43,
+      "endTime": 1057.45,
+      "text": "For the first topic, I thought we could maybe do mountain building. Is that all right?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1057.45,
+      "endTime": 1063.96,
+      "text": "Yeah, sure. Actually, would you mind if I did that? I'm quite interested in it. Right. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1063.96,
+      "endTime": 1070.61,
+      "text": "So is May 9th OK for that? Yeah. I'll just write that down. And it's Bob for mountain building.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1070.61,
+      "endTime": 1077.19,
+      "text": "And the following week, it can't be May 16th because of our tutorial. But what about the 17th?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1077.19,
+      "endTime": 1081.88,
+      "text": "OK. And what about the next topic? What would be the next priority?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1081.88,
+      "endTime": 1086.0,
+      "text": "Well, there's glaciated areas, but I don't want to do that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1086.0,
+      "endTime": 1091.25,
+      "text": "Fair enough. Actually, I don't mind having a bash. I did an assignment on them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1091.25,
+      "endTime": 1096.7,
+      "text": "Glaciated areas, Andy. Then we need someone to do rock formation. Helen? Yeah, OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1096.7,
+      "endTime": 1101.69,
+      "text": "And John said he'd like to too, so you can put us both down for that. When?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1101.69,
+      "endTime": 1105.81,
+      "text": "May 23rd would be best. Rock formation, Helen and John. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1105.81,
+      "endTime": 1111.13,
+      "text": "That really only leaves one week before the exams. Shall we make it on the 30th?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 3,
+      "startTime": 1111.13,
+      "endTime": 1113.0,
+      "text": "I can't make it, I'm afraid.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 3,
+      "startTime": 1113.0,
+      "endTime": 1118.0,
+      "text": "29th of May? The exam's on June 3rd. Have to be. OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 3,
+      "startTime": 1119.0,
+      "endTime": 1122.15,
+      "text": "Any ideas for a topic?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 3,
+      "startTime": 1122.15,
+      "endTime": 1130.17,
+      "text": "John said he wouldn't mind doing something on volcanoes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 3,
+      "startTime": 1130.17,
+      "endTime": 1134.18,
+      "text": "Great. That's everyone then.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 3,
+      "startTime": 1134.18,
+      "endTime": 1149.22,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 26 to 30 on page 7.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 3,
+      "startTime": 1149.22,
+      "endTime": 1155.09,
+      "text": "Now listen and answer questions 26 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 3,
+      "startTime": 1155.09,
+      "endTime": 1161.25,
+      "text": "And how long should these presentations be?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 3,
+      "startTime": 1161.25,
+      "endTime": 1165.55,
+      "text": "Well, it's obviously up to us.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 3,
+      "startTime": 1165.55,
+      "endTime": 1172.0,
+      "text": "In my experience, 30 minutes is about enough.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 3,
+      "startTime": 1173.0,
+      "endTime": 1177.18,
+      "text": "Maybe a bit short. I'd have thought 40 minutes would be more like it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 3,
+      "startTime": 1177.18,
+      "endTime": 1182.7,
+      "text": "Well, shall we say 30 to 40 minutes? OK. And presumably time for questions? And discussion.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 3,
+      "startTime": 1182.7,
+      "endTime": 1188.15,
+      "text": "Yes, together they usually take about 20 minutes. Where shall we get the information from?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 3,
+      "startTime": 1188.15,
+      "endTime": 1189.79,
+      "text": "Is it mainly lecture notes?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 3,
+      "startTime": 1189.79,
+      "endTime": 1195.0,
+      "text": "Well, actually, I suggest we avoid those because we already have all that information.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 3,
+      "startTime": 1196.0,
+      "endTime": 1199.26,
+      "text": "I think it's better to go more deeply. We could use the bibliography.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 3,
+      "startTime": 1199.26,
+      "endTime": 1202.0,
+      "text": "And anything else we find in the library, any other books.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 3,
+      "startTime": 1203.0,
+      "endTime": 1205.93,
+      "text": "And articles, you know, from the journals.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 3,
+      "startTime": 1205.93,
+      "endTime": 1212.21,
+      "text": "And then, of course, there's lots of stuff on the internet. Yes, that's the sort of thing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 3,
+      "startTime": 1212.21,
+      "endTime": 1218.49,
+      "text": "And what about the presentations? Will we just be talking? Presumably we can't use slides.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 3,
+      "startTime": 1218.49,
+      "endTime": 1224.01,
+      "text": "It'd be a bit difficult, but we can use the OHP. And the whiteboard, of course.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 3,
+      "startTime": 1224.01,
+      "endTime": 1229.67,
+      "text": "And we can make photocopies of our notes so everyone can have a copy. Yes, great.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 3,
+      "startTime": 1229.67,
+      "endTime": 1233.58,
+      "text": "So is there anything else? That is the end of section 3.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 3,
+      "startTime": 1233.58,
+      "endTime": 1237.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 4,
+      "startTime": 1268.0,
+      "endTime": 1275.74,
+      "text": "Now turn to section 4 on page 8. Section 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 4,
+      "startTime": 1275.74,
+      "endTime": 1292.84,
+      "text": "You'll hear part of a student presentation about a type of frog called the African Clawed Frog.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 4,
+      "startTime": 1292.84,
+      "endTime": 1304.72,
+      "text": "First, you have some time to look at questions 31 to 40 on page 7.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 4,
+      "startTime": 1304.72,
+      "endTime": 1313.9,
+      "text": "Now listen carefully and answer questions 31 to 40.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 4,
+      "startTime": 1313.9,
+      "endTime": 1332.44,
+      "text": "The aim of our study was to look at how naturally occurring substances can be used to treat infections.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 1332.44,
+      "endTime": 1355.48,
+      "text": "And we carried out a laboratory study using a frog called the African Clawed Frog, which has the scientific name Xenopus laevis.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 1355.48,
+      "endTime": 1372.94,
+      "text": "So, before I describe our study in detail, let me give you a general description about this frog.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 4,
+      "startTime": 1372.94,
+      "endTime": 1385.0,
+      "text": "Like most other frogs, the African Clawed Frogs have a smooth skin.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 4,
+      "startTime": 1386.0,
+      "endTime": 1392.35,
+      "text": "This is one way you can distinguish them from toads, whose skin is rough.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 4,
+      "startTime": 1392.35,
+      "endTime": 1399.31,
+      "text": "And they can change the color of their skin to blend in with their surroundings.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 4,
+      "startTime": 1399.31,
+      "endTime": 1406.88,
+      "text": "The surface of their skin also has another feature. It's covered with a layer of mucus.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 4,
+      "startTime": 1406.88,
+      "endTime": 1415.93,
+      "text": "This makes it hard for other creatures to pick them up, and so it provides protection against predators.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 4,
+      "startTime": 1415.93,
+      "endTime": 1417.41,
+      "text": "How big are they?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 4,
+      "startTime": 1417.41,
+      "endTime": 1428.29,
+      "text": "Well, it depends on whether they're male or female, because the females, in this case, are a whole lot bigger than the males.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 4,
+      "startTime": 1428.29,
+      "endTime": 1435.6,
+      "text": "A large-sized female may be 8 inches long, while the males are about half that size.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-193",
+      "part": 4,
+      "startTime": 1435.6,
+      "endTime": 1441.86,
+      "text": "So they're pretty small in comparison. What about their natural habitat?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-194",
+      "part": 4,
+      "startTime": 1441.86,
+      "endTime": 1453.0,
+      "text": "As their name suggests, these frogs are native to Africa, and they're found in most parts of Africa, south of the Sahara Desert.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-195",
+      "part": 4,
+      "startTime": 1453.0,
+      "endTime": 1460.47,
+      "text": "They make their houses in fresh water, but they're rarely found in running streams.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-196",
+      "part": 4,
+      "startTime": 1460.47,
+      "endTime": 1468.57,
+      "text": "They like still water. As far as the temperature of the water goes, they're not too fussy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-197",
+      "part": 4,
+      "startTime": 1468.57,
+      "endTime": 1470.64,
+      "text": "It can be warm or cool.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-198",
+      "part": 4,
+      "startTime": 1470.64,
+      "endTime": 1481.89,
+      "text": "They don't need to be in water where there are plants growing, and they can live in water that has quite a lot of salt in it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-199",
+      "part": 4,
+      "startTime": 1481.89,
+      "endTime": 1487.83,
+      "text": "So they can live in brackish areas, such as marshes and estuaries.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-200",
+      "part": 4,
+      "startTime": 1487.83,
+      "endTime": 1500.51,
+      "text": "However, although they can live in a wide range of conditions, one thing that they are unable to tolerate is even very small traces of metal.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-201",
+      "part": 4,
+      "startTime": 1500.51,
+      "endTime": 1503.48,
+      "text": "That's immediately fatal to them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-202",
+      "part": 4,
+      "startTime": 1503.48,
+      "endTime": 1509.78,
+      "text": "And that's important to remember when they're being kept in captivity.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-203",
+      "part": 4,
+      "startTime": 1509.78,
+      "endTime": 1517.25,
+      "text": "You've got to be careful what kind of tank you use and what you put into the water.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-204",
+      "part": 4,
+      "startTime": 1517.25,
+      "endTime": 1523.91,
+      "text": "In their natural habitat, the frogs normally live in water the whole time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-205",
+      "part": 4,
+      "startTime": 1523.91,
+      "endTime": 1536.23,
+      "text": "But in unfavorable conditions, such as drought, they can burrow into the mud and survive there for up to a year until conditions improve.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-206",
+      "part": 4,
+      "startTime": 1536.23,
+      "endTime": 1541.18,
+      "text": "As far as their diet is concerned, they're carnivorous.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-207",
+      "part": 4,
+      "startTime": 1541.18,
+      "endTime": 1545.5,
+      "text": "They eat other creatures they find in the water.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-208",
+      "part": 4,
+      "startTime": 1545.5,
+      "endTime": 1552.7,
+      "text": "And they're scavengers, which means they'll eat almost anything, living or dead.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-209",
+      "part": 4,
+      "startTime": 1552.7,
+      "endTime": 1555.13,
+      "text": "They've got huge appetites.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-210",
+      "part": 4,
+      "startTime": 1555.13,
+      "endTime": 1567.27,
+      "text": "Because the water they live in is often quite dirty and visibility is limited, they can't locate their food using their sense of sight.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-211",
+      "part": 4,
+      "startTime": 1567.27,
+      "endTime": 1574.0,
+      "text": "Instead, they use smell and also the sensitive fingers on their front legs.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-212",
+      "part": 4,
+      "startTime": 1575.0,
+      "endTime": 1584.83,
+      "text": "And they also have what's called a lateral line system on the sides of their bodies, which is sensitive to vibrations in the water.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-213",
+      "part": 4,
+      "startTime": 1584.83,
+      "endTime": 1589.33,
+      "text": "They use their front legs to get the food into their mouths,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-214",
+      "part": 4,
+      "startTime": 1589.33,
+      "endTime": 1597.13,
+      "text": "together with a type of pump arrangement that sucks the food into the mouth and down into their stomach.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-215",
+      "part": 4,
+      "startTime": 1597.13,
+      "endTime": 1602.0,
+      "text": "They don't have any teeth, so everything just goes straight down.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-216",
+      "part": 4,
+      "startTime": 1604.0,
+      "endTime": 1611.12,
+      "text": "Okay, well, although Xenopus started off in Africa, they're now quite widespread.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-217",
+      "part": 4,
+      "startTime": 1611.12,
+      "endTime": 1619.82,
+      "text": "One of the reasons for this is that a lot of people in the U.S. like keeping them at home as a pet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-218",
+      "part": 4,
+      "startTime": 1619.82,
+      "endTime": 1625.97,
+      "text": "They're quite easy to look after and they can live for up to 20 years.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-219",
+      "part": 4,
+      "startTime": 1625.97,
+      "endTime": 1631.6,
+      "text": "But in some states of the U.S., such as California and Virginia,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-220",
+      "part": 4,
+      "startTime": 1631.6,
+      "endTime": 1640.57,
+      "text": "they have escaped from captivity and are reproducing in the wild and threatening native species there.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-221",
+      "part": 4,
+      "startTime": 1640.57,
+      "endTime": 1645.23,
+      "text": "So, they've been classified as a pest in these areas.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-222",
+      "part": 4,
+      "startTime": 1645.23,
+      "endTime": 1652.0,
+      "text": "But another very important use for the frogs is for research in laboratories.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-223",
+      "part": 4,
+      "startTime": 1652.0,
+      "endTime": 1659.32,
+      "text": "Because the females lay large numbers of eggs and the embryos are transparent,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-224",
+      "part": 4,
+      "startTime": 1659.32,
+      "endTime": 1669.17,
+      "text": "it's easy to see how they are developing, and so they're used for research into genetics and development.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-225",
+      "part": 4,
+      "startTime": 1669.17,
+      "endTime": 1679.12,
+      "text": "But also, the slippery mucus that covers their skin acts as an antibiotic, killing parasites and bacteria.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-226",
+      "part": 4,
+      "startTime": 1679.12,
+      "endTime": 1684.0,
+      "text": "And this is why we chose this frog for our research.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-227",
+      "part": 4,
+      "startTime": 1684.0,
+      "endTime": 1693.38,
+      "text": "So, let me describe the aim of our study.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-228",
+      "part": 4,
+      "startTime": 1693.38,
+      "endTime": 1700.02,
+      "text": "That is the end of Section 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-229",
+      "part": 4,
+      "startTime": 1700.02,
+      "endTime": 1708.49,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-230",
+      "part": 4,
+      "startTime": 1711.23,
+      "endTime": 1708.49,
+      "text": "That is the end of the listening test.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-231",
+      "part": 4,
+      "startTime": 1719.92,
+      "endTime": 1708.49,
+      "text": "You now have 10 minutes to transfer your answers to the listening answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 1.0,
+      "endTime": 26.61,
+      "text": "IELTS Listening Version K0009 You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work. All the recordings will be played once only. The test is in four sections.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 26.61,
+      "endTime": 50.37,
+      "text": "Write all your answers in the listening question booklet. At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet. Now turn to section 1 on page 2 of your question booklet.",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 50.37,
+      "endTime": 88.0,
+      "text": "Section 1 You will hear a telephone conversation about Winsham Farm, a residential education centre. First, you have some time to look at questions 1 to 4 on page 2. You will see that there is an example that has been done for you.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008",
+        "seg-009"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 89.0,
+      "endTime": 107.44,
+      "text": "On this occasion only, the conversation relating to this will be played first.",
+      "segmentIds": [
+        "seg-010"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 107.44,
+      "endTime": 146.54,
+      "text": "The caller wishes to arrange a weekend away for himself and some colleagues, so option C has been circled. Now we shall begin. You should answer the questions as you listen because you will not hear the recording a second time.",
+      "segmentIds": [
+        "seg-011",
+        "seg-012",
+        "seg-013"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 146.54,
+      "endTime": 170.26,
+      "text": "Listen carefully and answer questions 1 to 4. What else would you like to know? Well, firstly, what kind of accommodation have you got? We've got eight rooms altogether and we can sleep 38 at any one time. Three of the rooms have got six bunks and five of them have got four bunks.",
+      "segmentIds": [
+        "seg-014",
+        "seg-015",
+        "seg-016",
+        "seg-017"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 170.26,
+      "endTime": 187.08,
+      "text": "Right, and what other facilities are there? We have separate toilets and showers for each of the rooms. There's a large dining room and a large meeting room, which can be booked by groups in advance,",
+      "segmentIds": [
+        "seg-018",
+        "seg-019",
+        "seg-020"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 187.08,
+      "endTime": 210.47,
+      "text": "but I'm afraid we had a flood in there last month and the floor was slightly damaged, so unfortunately it's out of use just now. We've got workmen coming in next week. When were you thinking of staying? In three weeks' time, the 28th of September. Oh, it should be OK by then.",
+      "segmentIds": [
+        "seg-021",
+        "seg-022",
+        "seg-023"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 210.47,
+      "endTime": 232.07,
+      "text": "Oh, well, that's OK then. And what about food? Do you provide meals or is it self-catering? We're very flexible. As long as you give us enough notice, we can cater for you, or if you prefer, you can just bring your own food and use the kitchen facilities.",
+      "segmentIds": [
+        "seg-024",
+        "seg-025",
+        "seg-026"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 232.07,
+      "endTime": 256.05,
+      "text": "And some people prefer to eat out, which is also fine. Fine. And I heard that your farm is organic. Does that mean that you only have crops and no animals? It doesn't, actually. A lot of people seem to think that, but we do rear livestock as well, and so we have a wide range of food.",
+      "segmentIds": [
+        "seg-027",
+        "seg-028",
+        "seg-029",
+        "seg-030"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 256.05,
+      "endTime": 274.66,
+      "text": "Organic means it's all produced without the use of artificial fertilisers or pesticides. I see. That sounds good. Could you tell me what sort of recreational activities are available, either at the centre or in the area?",
+      "segmentIds": [
+        "seg-031",
+        "seg-032",
+        "seg-033"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 274.66,
+      "endTime": 300.0,
+      "text": "Yes. Here at the centre, we offer farm tours. They're very popular. One of the farm managers shows people around and explains some of the principles of organic farming. And for any visitors who are really keen, you let them drive a tractor or feed the animals and so on, with supervision, of course.",
+      "segmentIds": [
+        "seg-034",
+        "seg-035",
+        "seg-036"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 300.0,
+      "endTime": 316.0,
+      "text": "I think a lot of our group would be interested in that. It'd make a change from factory work. Well, if they fancy it, tell them to come prepared. Plenty of old clothing, especially footwear. It can be very messy and wet. OK, I'll warn them.",
+      "segmentIds": [
+        "seg-037",
+        "seg-038",
+        "seg-039"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 320.0,
+      "endTime": 348.23,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions five to ten on page three. Now listen and answer questions five to ten. And another type of activity we do is survival courses, but that's only for groups of five or more, and they've got to be acquaintances.",
+      "segmentIds": [
+        "seg-040",
+        "seg-041",
+        "seg-042"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 348.23,
+      "endTime": 366.9,
+      "text": "They have to cooperate closely. These courses are very popular, especially with school groups, but adults seem to enjoy them too. What do they involve? Things like map reading? Well, not exactly.",
+      "segmentIds": [
+        "seg-043",
+        "seg-044",
+        "seg-045"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 366.9,
+      "endTime": 392.72,
+      "text": "What it is, we've got a large area of woodland on the farm and we run this course there. It's mainly about collecting food and water, lighting a fire without any equipment, that kind of thing. Hmm, this weekend could be hard work. What about the area around the centre?",
+      "segmentIds": [
+        "seg-046",
+        "seg-047",
+        "seg-048"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 1,
+      "startTime": 392.72,
+      "endTime": 415.64,
+      "text": "What is there to do? If you look at a map, you'll see that we're very well situated here. Our centre's about midway between the Exmoor National Park, which is very popular for hill walking, and the south coast, which has very good beaches.",
+      "segmentIds": [
+        "seg-049",
+        "seg-050",
+        "seg-051"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 1,
+      "startTime": 415.64,
+      "endTime": 442.61,
+      "text": "Are they both within walking distance? Well, they're both a bit far, unless you're very fit, but they're only about 30 minutes by road and there's also a cycle path which starts quite near here, about 10 minutes walk away. You can hire bikes at the starting point. What is there to do if the weather's bad?",
+      "segmentIds": [
+        "seg-052",
+        "seg-053",
+        "seg-054"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 1,
+      "startTime": 442.61,
+      "endTime": 465.0,
+      "text": "I hope it won't be, but you never know. Yes, that's right. Well, on most Saturday evenings we show films here and then once a month a group of local musicians performs in our meeting room. And then Sherbourne is only 14 miles away. It's only a small town, but it's got a very good museum and an old abbey, which is well worth a visit.",
+      "segmentIds": [
+        "seg-055",
+        "seg-056",
+        "seg-057",
+        "seg-058"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 1,
+      "startTime": 465.0,
+      "endTime": 488.0,
+      "text": "Well, it sounds perfect for our purposes. One last thing, what about prices? I'm not sure yet, but there'll probably be about 15 of us. We charge a standard £14 a head for accommodation, whether there are 10 or 20 of you or whatever, and about £7 for cooked meals, depending on the menu you want.",
+      "segmentIds": [
+        "seg-059",
+        "seg-060",
+        "seg-061",
+        "seg-062"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-021",
+      "part": 1,
+      "startTime": 489.0,
+      "endTime": 508.13,
+      "text": "Use of the kitchen facilities is extra, as is the hire of the meeting room. It depends, really, what exactly you want and for how many people. Right. Well, I've made a note of all that and I'll discuss it with the rest of the group.",
+      "segmentIds": [
+        "seg-063",
+        "seg-064",
+        "seg-065"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 1,
+      "startTime": 508.13,
+      "endTime": 531.34,
+      "text": "Then I'll get back to you with a firm booking. Can I do that by phone? Yes, you can, but once you've made a booking we would need a deposit within five days to secure it. Then you just pay the balance when you're here. Oh, yes, of course. Could you give me the address, please? Yes.",
+      "segmentIds": [
+        "seg-066",
+        "seg-067",
+        "seg-068",
+        "seg-069"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-023",
+      "part": 1,
+      "startTime": 531.34,
+      "endTime": 559.73,
+      "text": "It's Winsham Farm, Cotile Road, that's C-O-T-E-H-E-L-E, near Sherbourne. And the postcode is S-H-12-1-L-Q. Thank you. That is the end of section one.",
+      "segmentIds": [
+        "seg-070",
+        "seg-071",
+        "seg-072"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 1,
+      "startTime": 559.73,
+      "endTime": 583.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-073"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 583.0,
+      "endTime": 597.0,
+      "text": "Now turn to section two on page four. You will hear a programme on a student radio station. It describes the findings of a survey on vacation jobs taken by students the previous year.",
+      "segmentIds": [
+        "seg-074",
+        "seg-075",
+        "seg-076"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 598.0,
+      "endTime": 618.16,
+      "text": "First, you have some time to look at questions 11 to 16 on page four. Now listen carefully and answer questions 11 to 16. Welcome to Student Life.",
+      "segmentIds": [
+        "seg-077",
+        "seg-078",
+        "seg-079"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 618.16,
+      "endTime": 648.0,
+      "text": "It's spring and many of you may be thinking about arranging work for the long vacation. So on today's programme, Roger Anwell reports on a survey we conducted into the pleasures and problems of vacation jobs. Roger.",
+      "segmentIds": [
+        "seg-080",
+        "seg-081",
+        "seg-082"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 649.0,
+      "endTime": 668.29,
+      "text": "Thank you, Sarah. Well, the first thing to say is that by far the majority of students we surveyed did just three types of jobs. All of these obviously had their advantages and disadvantages. Starting with stock-taking in supermarkets. The thing that students said they enjoyed most about this job was the travelling.",
+      "segmentIds": [
+        "seg-083",
+        "seg-084",
+        "seg-085",
+        "seg-086",
+        "seg-087"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 668.29,
+      "endTime": 693.72,
+      "text": "They were often required to go to branches to do their stock takes and this was regarded as an interesting plus. The main negative, however, was that they tended to find the job tiring with long hours spent on their feet and climbing high shelves. Now, one thing we did ask the students in our survey was whether they had any recommendations for other people taking on their job and they said, perhaps not surprisingly, get good shoes.",
+      "segmentIds": [
+        "seg-088",
+        "seg-089",
+        "seg-090"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 693.72,
+      "endTime": 713.38,
+      "text": "That's the only way you can keep going. Another job which lots of students did was office work and the positive feature of this actually rather surprised me until I remembered what a hot summer it was last year. Lots of students named air conditioning as the best thing about office work.",
+      "segmentIds": [
+        "seg-091",
+        "seg-092",
+        "seg-093"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 2,
+      "startTime": 713.38,
+      "endTime": 731.15,
+      "text": "The downside, which many talked about, was wearing formal clothes. Obviously, this didn't go down too well with students. The advice most people gave was to select a large office. That way you have more variety of social contacts. Otherwise, the work can get very boring.",
+      "segmentIds": [
+        "seg-094",
+        "seg-095",
+        "seg-096",
+        "seg-097"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 2,
+      "startTime": 731.15,
+      "endTime": 746.0,
+      "text": "The third job which had attracted large numbers of students was as a theme park attendant and, again, I got a surprise here because the big plus people talked about was good pay. It must have improved since my day, I must say.",
+      "segmentIds": [
+        "seg-098",
+        "seg-099",
+        "seg-100"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 2,
+      "startTime": 747.0,
+      "endTime": 766.95,
+      "text": "Anyway, the downside I did recognise, having to deal with difficult customers, especially in the heat when tempers get frayed. Not easy.",
+      "segmentIds": [
+        "seg-101",
+        "seg-102"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 2,
+      "startTime": 766.95,
+      "endTime": 806.84,
+      "text": "And people said that it was a good idea to live nearby because there's a lot of shift work and you don't have to worry about transport at difficult times of the day. Before you hear the rest of the programme, you have some time to look at questions 17 to 20 on page five.",
+      "segmentIds": [
+        "seg-103",
+        "seg-104"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 2,
+      "startTime": 806.84,
+      "endTime": 832.26,
+      "text": "Now listen and answer questions 17 to 20. So, those were the findings from the survey on the most common student jobs. But not all student jobs have to be mundane and boring.",
+      "segmentIds": [
+        "seg-105",
+        "seg-106",
+        "seg-107"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 2,
+      "startTime": 832.26,
+      "endTime": 867.57,
+      "text": "One of the students who responded in our survey spoke at length about his amazing job as a zoo attendant. Peter Marshall had read about work opportunities on the zoo website and just went along with a friend to talk to someone in personnel.",
+      "segmentIds": [
+        "seg-108",
+        "seg-109"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 2,
+      "startTime": 867.57,
+      "endTime": 899.63,
+      "text": "He was offered a job there and then, as easy as that. In previous years, he'd done singularly unexciting shop work, so he was very pleased to be doing such original work. He ended up working for just under three months,",
+      "segmentIds": [
+        "seg-110",
+        "seg-111",
+        "seg-112"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 2,
+      "startTime": 899.63,
+      "endTime": 933.61,
+      "text": "which was actually slightly more than he'd anticipated and meant that he had to miss part of university term time. But he said it was well worth it because he thinks he's found his future career path as a result of this experience.",
+      "segmentIds": [
+        "seg-113",
+        "seg-114"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 2,
+      "startTime": 933.61,
+      "endTime": 961.53,
+      "text": "He loved working on the educational side, in particular helping young kids understand about the animals in their natural environment. He said it was the most intriguing thing he'd ever done.",
+      "segmentIds": [
+        "seg-115",
+        "seg-116"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 2,
+      "startTime": 961.53,
+      "endTime": 998.76,
+      "text": "He tells us though that with final exams coming up, he won't be able to do any paid work this coming vacation, so why don't you apply? If you're interested in getting further information about the findings of the survey... That is the end of section two.",
+      "segmentIds": [
+        "seg-117",
+        "seg-118",
+        "seg-119"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 2,
+      "startTime": 998.76,
+      "endTime": 1006.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-120"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 1006.0,
+      "endTime": 1006.46,
+      "text": "Now turn to section three on page six. You will hear three geology students, Andy, Bob and Helen, talking about forming a study syndicate for their forthcoming examinations. First, you have some time to look at questions 21 to 25 on page six. Now listen carefully and answer questions 21 to 25. Right then, are we ready? Bob, Helen? Yeah. And is someone taking notes for John? He's at a tutorial, isn't he?",
+      "segmentIds": [
+        "seg-121",
+        "seg-122",
+        "seg-123",
+        "seg-124",
+        "seg-125"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 1006.46,
+      "endTime": 1006.79,
+      "text": "Yeah, I'll let him know what we agree. Good. Okay, well first thing is, has anyone apart from me actually been in a study syndicate before? No. What does it actually involve, Andy? Well, the idea is that it's a way for us, for students to study together without a teacher. Oh yeah, right.",
+      "segmentIds": [
+        "seg-126",
+        "seg-127",
+        "seg-128",
+        "seg-129",
+        "seg-130"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 1006.79,
+      "endTime": 1016.0,
+      "text": "When I did it last time, I found it helpful because, well, as I said, there's no teacher, so it means we're teaching one another. And I found I really learned a lot through having to teach it myself. It seemed a very good way to learn. And presumably it gives us the chance to share ideas as well. And you get fuller notes if you're all doing the reading.",
+      "segmentIds": [
+        "seg-131",
+        "seg-132",
+        "seg-133",
+        "seg-134",
+        "seg-135"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1017.0,
+      "endTime": 1032.0,
+      "text": "That's right. And as well as that, because of that, really, you can do, you know, much deeper research. So I thought we could try it to revise what we've done on the geology course, because I know this is the one that most of us are worried about, the geology exam.",
+      "segmentIds": [
+        "seg-136",
+        "seg-137",
+        "seg-138",
+        "seg-139"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1034.0,
+      "endTime": 1057.45,
+      "text": "So the idea is we all look at a different topic, a different topic from the geology course, and then give a presentation and talk about it? That's right. I've drawn up the framework of a table which might be useful. Here, I've made a copy. Oh, thanks. For the first topic, I thought we could maybe do mountain building. Is that all right?",
+      "segmentIds": [
+        "seg-140",
+        "seg-141",
+        "seg-142",
+        "seg-143"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1057.45,
+      "endTime": 1077.19,
+      "text": "Yeah, sure. Actually, would you mind if I did that? I'm quite interested in it. Right. Right. So is May 9th OK for that? Yeah. I'll just write that down. And it's Bob for mountain building. And the following week, it can't be May 16th because of our tutorial. But what about the 17th?",
+      "segmentIds": [
+        "seg-144",
+        "seg-145",
+        "seg-146"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 3,
+      "startTime": 1077.19,
+      "endTime": 1096.7,
+      "text": "OK. And what about the next topic? What would be the next priority? Well, there's glaciated areas, but I don't want to do that. Fair enough. Actually, I don't mind having a bash. I did an assignment on them. Glaciated areas, Andy. Then we need someone to do rock formation. Helen? Yeah, OK.",
+      "segmentIds": [
+        "seg-147",
+        "seg-148",
+        "seg-149",
+        "seg-150"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-049",
+      "part": 3,
+      "startTime": 1096.7,
+      "endTime": 1118.0,
+      "text": "And John said he'd like to too, so you can put us both down for that. When? May 23rd would be best. Rock formation, Helen and John. Right. That really only leaves one week before the exams. Shall we make it on the 30th? I can't make it, I'm afraid. 29th of May? The exam's on June 3rd. Have to be. OK.",
+      "segmentIds": [
+        "seg-151",
+        "seg-152",
+        "seg-153",
+        "seg-154",
+        "seg-155"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-050",
+      "part": 3,
+      "startTime": 1119.0,
+      "endTime": 1134.18,
+      "text": "Any ideas for a topic? John said he wouldn't mind doing something on volcanoes. Great. That's everyone then.",
+      "segmentIds": [
+        "seg-156",
+        "seg-157",
+        "seg-158"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-051",
+      "part": 3,
+      "startTime": 1134.18,
+      "endTime": 1161.25,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 26 to 30 on page 7. Now listen and answer questions 26 to 30. And how long should these presentations be?",
+      "segmentIds": [
+        "seg-159",
+        "seg-160",
+        "seg-161"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-052",
+      "part": 3,
+      "startTime": 1161.25,
+      "endTime": 1182.7,
+      "text": "Well, it's obviously up to us. In my experience, 30 minutes is about enough. Maybe a bit short. I'd have thought 40 minutes would be more like it. Well, shall we say 30 to 40 minutes? OK. And presumably time for questions? And discussion.",
+      "segmentIds": [
+        "seg-162",
+        "seg-163",
+        "seg-164",
+        "seg-165"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-053",
+      "part": 3,
+      "startTime": 1182.7,
+      "endTime": 1202.0,
+      "text": "Yes, together they usually take about 20 minutes. Where shall we get the information from? Is it mainly lecture notes? Well, actually, I suggest we avoid those because we already have all that information. I think it's better to go more deeply. We could use the bibliography. And anything else we find in the library, any other books.",
+      "segmentIds": [
+        "seg-166",
+        "seg-167",
+        "seg-168",
+        "seg-169",
+        "seg-170"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-054",
+      "part": 3,
+      "startTime": 1203.0,
+      "endTime": 1224.01,
+      "text": "And articles, you know, from the journals. And then, of course, there's lots of stuff on the internet. Yes, that's the sort of thing. And what about the presentations? Will we just be talking? Presumably we can't use slides. It'd be a bit difficult, but we can use the OHP. And the whiteboard, of course.",
+      "segmentIds": [
+        "seg-171",
+        "seg-172",
+        "seg-173",
+        "seg-174"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-055",
+      "part": 3,
+      "startTime": 1224.01,
+      "endTime": 1237.0,
+      "text": "And we can make photocopies of our notes so everyone can have a copy. Yes, great. So is there anything else? That is the end of section 3. You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-175",
+        "seg-176",
+        "seg-177"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1268.0,
+      "endTime": 1304.72,
+      "text": "Now turn to section 4 on page 8. Section 4. You'll hear part of a student presentation about a type of frog called the African Clawed Frog. First, you have some time to look at questions 31 to 40 on page 7.",
+      "segmentIds": [
+        "seg-178",
+        "seg-179",
+        "seg-180"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-057",
+      "part": 4,
+      "startTime": 1304.72,
+      "endTime": 1332.44,
+      "text": "Now listen carefully and answer questions 31 to 40. The aim of our study was to look at how naturally occurring substances can be used to treat infections.",
+      "segmentIds": [
+        "seg-181",
+        "seg-182"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-058",
+      "part": 4,
+      "startTime": 1332.44,
+      "endTime": 1372.94,
+      "text": "And we carried out a laboratory study using a frog called the African Clawed Frog, which has the scientific name Xenopus laevis. So, before I describe our study in detail, let me give you a general description about this frog.",
+      "segmentIds": [
+        "seg-183",
+        "seg-184"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-059",
+      "part": 4,
+      "startTime": 1372.94,
+      "endTime": 1399.31,
+      "text": "Like most other frogs, the African Clawed Frogs have a smooth skin. This is one way you can distinguish them from toads, whose skin is rough. And they can change the color of their skin to blend in with their surroundings.",
+      "segmentIds": [
+        "seg-185",
+        "seg-186",
+        "seg-187"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-060",
+      "part": 4,
+      "startTime": 1399.31,
+      "endTime": 1417.41,
+      "text": "The surface of their skin also has another feature. It's covered with a layer of mucus. This makes it hard for other creatures to pick them up, and so it provides protection against predators. How big are they?",
+      "segmentIds": [
+        "seg-188",
+        "seg-189",
+        "seg-190"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-061",
+      "part": 4,
+      "startTime": 1417.41,
+      "endTime": 1441.86,
+      "text": "Well, it depends on whether they're male or female, because the females, in this case, are a whole lot bigger than the males. A large-sized female may be 8 inches long, while the males are about half that size. So they're pretty small in comparison. What about their natural habitat?",
+      "segmentIds": [
+        "seg-191",
+        "seg-192",
+        "seg-193"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-062",
+      "part": 4,
+      "startTime": 1441.86,
+      "endTime": 1468.57,
+      "text": "As their name suggests, these frogs are native to Africa, and they're found in most parts of Africa, south of the Sahara Desert. They make their houses in fresh water, but they're rarely found in running streams. They like still water. As far as the temperature of the water goes, they're not too fussy.",
+      "segmentIds": [
+        "seg-194",
+        "seg-195",
+        "seg-196"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-063",
+      "part": 4,
+      "startTime": 1468.57,
+      "endTime": 1487.83,
+      "text": "It can be warm or cool. They don't need to be in water where there are plants growing, and they can live in water that has quite a lot of salt in it. So they can live in brackish areas, such as marshes and estuaries.",
+      "segmentIds": [
+        "seg-197",
+        "seg-198",
+        "seg-199"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-064",
+      "part": 4,
+      "startTime": 1487.83,
+      "endTime": 1509.78,
+      "text": "However, although they can live in a wide range of conditions, one thing that they are unable to tolerate is even very small traces of metal. That's immediately fatal to them. And that's important to remember when they're being kept in captivity.",
+      "segmentIds": [
+        "seg-200",
+        "seg-201",
+        "seg-202"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-065",
+      "part": 4,
+      "startTime": 1509.78,
+      "endTime": 1536.23,
+      "text": "You've got to be careful what kind of tank you use and what you put into the water. In their natural habitat, the frogs normally live in water the whole time. But in unfavorable conditions, such as drought, they can burrow into the mud and survive there for up to a year until conditions improve.",
+      "segmentIds": [
+        "seg-203",
+        "seg-204",
+        "seg-205"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-066",
+      "part": 4,
+      "startTime": 1536.23,
+      "endTime": 1555.13,
+      "text": "As far as their diet is concerned, they're carnivorous. They eat other creatures they find in the water. And they're scavengers, which means they'll eat almost anything, living or dead. They've got huge appetites.",
+      "segmentIds": [
+        "seg-206",
+        "seg-207",
+        "seg-208",
+        "seg-209"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-067",
+      "part": 4,
+      "startTime": 1555.13,
+      "endTime": 1584.83,
+      "text": "Because the water they live in is often quite dirty and visibility is limited, they can't locate their food using their sense of sight. Instead, they use smell and also the sensitive fingers on their front legs. And they also have what's called a lateral line system on the sides of their bodies, which is sensitive to vibrations in the water.",
+      "segmentIds": [
+        "seg-210",
+        "seg-211",
+        "seg-212"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-068",
+      "part": 4,
+      "startTime": 1584.83,
+      "endTime": 1602.0,
+      "text": "They use their front legs to get the food into their mouths, together with a type of pump arrangement that sucks the food into the mouth and down into their stomach. They don't have any teeth, so everything just goes straight down.",
+      "segmentIds": [
+        "seg-213",
+        "seg-214",
+        "seg-215"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-069",
+      "part": 4,
+      "startTime": 1604.0,
+      "endTime": 1625.97,
+      "text": "Okay, well, although Xenopus started off in Africa, they're now quite widespread. One of the reasons for this is that a lot of people in the U.S. like keeping them at home as a pet. They're quite easy to look after and they can live for up to 20 years.",
+      "segmentIds": [
+        "seg-216",
+        "seg-217",
+        "seg-218"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-070",
+      "part": 4,
+      "startTime": 1625.97,
+      "endTime": 1645.23,
+      "text": "But in some states of the U.S., such as California and Virginia, they have escaped from captivity and are reproducing in the wild and threatening native species there. So, they've been classified as a pest in these areas.",
+      "segmentIds": [
+        "seg-219",
+        "seg-220",
+        "seg-221"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-071",
+      "part": 4,
+      "startTime": 1645.23,
+      "endTime": 1669.17,
+      "text": "But another very important use for the frogs is for research in laboratories. Because the females lay large numbers of eggs and the embryos are transparent, it's easy to see how they are developing, and so they're used for research into genetics and development.",
+      "segmentIds": [
+        "seg-222",
+        "seg-223",
+        "seg-224"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-072",
+      "part": 4,
+      "startTime": 1669.17,
+      "endTime": 1693.38,
+      "text": "But also, the slippery mucus that covers their skin acts as an antibiotic, killing parasites and bacteria. And this is why we chose this frog for our research. So, let me describe the aim of our study.",
+      "segmentIds": [
+        "seg-225",
+        "seg-226",
+        "seg-227"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-073",
+      "part": 4,
+      "startTime": 1693.38,
+      "endTime": 1708.49,
+      "text": "That is the end of Section 4. You now have half a minute to check your answers. That is the end of the listening test. You now have 10 minutes to transfer your answers to the listening answer sheet.",
+      "segmentIds": [
+        "seg-228",
+        "seg-229",
+        "seg-230",
+        "seg-231"
+      ],
+      "timestampSource": "exact"
+    }
+  ]
+}

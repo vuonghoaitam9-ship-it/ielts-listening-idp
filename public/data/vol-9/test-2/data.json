@@ -1,0 +1,3940 @@
+{
+  "id": "vol-9-test-2",
+  "vol": 9,
+  "testNumber": 2,
+  "title": "Vol 9 — Test 2",
+  "pdfUrl": "./data/vol-9/test-2/exam.pdf",
+  "pdfPages": 6,
+  "questionPageRange": [
+    1,
+    6
+  ],
+  "audioUrl": "./data/vol-9/test-2/audio.mp3",
+  "audioDurationSec": 1829.67,
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 1.0,
+      "endTime": 453.0,
+      "topicHint": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 453.0,
+      "endTime": 880.0,
+      "topicHint": "You will hear a talk by a volunteer who has been taking part in a project to find out what everyday life was like 2,500 years ago in Britain during the time known as the Iron Age. "
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 881.0,
+      "endTime": 1291.0,
+      "topicHint": "You will hear two business students called Emma and Nick preparing for their presentation on the topic of how jobs might change in the future."
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1291.0,
+      "endTime": 1704.0,
+      "topicHint": "You will hear an extract from a talk entitled Health on the Night Shift."
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "eserve • The poppies will be at their best at the end of the 1 ………….. . • The poppies on the hills are 2 …………. in colour. The reserve is located to the 3 ……………. of Lakeside. • The best time for photography is mid-afternoon. • Wear 4 ……….. because of rattlesnakes. • The reserve is a 5 …………. park. Questions 6–10 Complet",
+      "answerRaw": "month",
+      "canonicalAnswer": "month",
+      "acceptedAnswers": [
+        "month"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They started to bloom last week and are already beautiful, but they should peak and be in full bloom at the end of the month.",
+      "evidenceStartTime": 102.59,
+      "evidenceEndTime": 110.5,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"month\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "t the end of the 1 ………….. . • The poppies on the hills are 2 …………. in colour. The reserve is located to the 3 ……………. of Lakeside. • The best time for photography is mid-afternoon. • Wear 4 ……….. because of rattlesnakes. • The reserve is a 5 …………. park. Questions 6–10 Complete the table below. Write ONE WORD AND/OR A N",
+      "answerRaw": "orange",
+      "canonicalAnswer": "orange",
+      "acceptedAnswers": [
+        "orange"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The hills are already covered with orange poppies. I thought poppies were red.",
+      "evidenceStartTime": 116.07,
+      "evidenceEndTime": 121.0,
+      "paraphrases": [],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"orange\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "e hills are 2 …………. in colour. The reserve is located to the 3 ……………. of Lakeside. • The best time for photography is mid-afternoon. • Wear 4 ……….. because of rattlesnakes. • The reserve is a 5 …………. park. Questions 6–10 Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer. Tour Start time Duration H",
+      "answerRaw": "east",
+      "canonicalAnswer": "east",
+      "acceptedAnswers": [
+        "east"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "From Lakeside, you'll need to drive about an hour east. What time does the reserve open?",
+      "evidenceStartTime": 128.16,
+      "evidenceEndTime": 133.43,
+      "paraphrases": [
+        {
+          "questionTerm": "duration",
+          "audioTerm": "time"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"east\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'duration' ↔ 'time'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "de. • The best time for photography is mid-afternoon. • Wear 4 ……….. because of rattlesnakes. • The reserve is a 5 …………. park. Questions 6–10 Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer. Tour Start time Duration Highlights Photography The 6 …….. tour Every hour from 7:30 a.m. 30 minutes Viewp",
+      "answerRaw": "trousers",
+      "canonicalAnswer": "trousers",
+      "acceptedAnswers": [
+        "trousers"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "There are very few people bitten by rattlesnakes, so we do recommend wearing trousers just to be on the safe side.",
+      "evidenceStartTime": 153.63,
+      "evidenceEndTime": 161.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"trousers\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": ". • Wear 4 ……….. because of rattlesnakes. • The reserve is a 5 …………. park. Questions 6–10 Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer. Tour Start time Duration Highlights Photography The 6 …….. tour Every hour from 7:30 a.m. 30 minutes Viewpoints, film and the 7 ……... Panoramic pictures The",
+      "answerRaw": "state",
+      "canonicalAnswer": "state",
+      "acceptedAnswers": [
+        "state"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Unfortunately not, since it is a state park, not a national park. All right.",
+      "evidenceStartTime": 174.65,
+      "evidenceEndTime": 179.88,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"state\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "answer. Tour Start time Duration Highlights Photography The 6 …….. tour Every hour from 7:30 a.m. 30 minutes Viewpoints, film and the 7 ……... Panoramic pictures The wildflower tour Every two hours from 8:00 a.m. 8 ……… Poppy, cream cup, and stage Close- up tips The wildlife tour 9 ……… a.m. or 7:00 p.m. 1.5 hours Coyote,",
+      "answerRaw": "general",
+      "canonicalAnswer": "general",
+      "acceptedAnswers": [
+        "general"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "We have the general tour, which is the one your friend may have taken, but we also have two more specialised tours.",
+      "evidenceStartTime": 243.0,
+      "evidenceEndTime": 250.08,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"general\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "ery hour from 7:30 a.m. 30 minutes Viewpoints, film and the 7 ……... Panoramic pictures The wildflower tour Every two hours from 8:00 a.m. 8 ……… Poppy, cream cup, and stage Close- up tips The wildlife tour 9 ……… a.m. or 7:00 p.m. 1.5 hours Coyote, quail, roadrunners Bring tripod and a 10 …….. lens",
+      "answerRaw": "museum",
+      "canonicalAnswer": "museum",
+      "acceptedAnswers": [
+        "museum"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You're welcome to tour the museum at your leisure. It's a great tour for those who just want to take panoramic pictures with automatic cameras.",
+      "evidenceStartTime": 269.0,
+      "evidenceEndTime": 277.12,
+      "paraphrases": [
+        {
+          "questionTerm": "bring",
+          "audioTerm": "take"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"museum\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'bring' ↔ 'take'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "pictures The wildflower tour Every two hours from 8:00 a.m. 8 ……… Poppy, cream cup, and stage Close- up tips The wildlife tour 9 ……… a.m. or 7:00 p.m. 1.5 hours Coyote, quail, roadrunners Bring tripod and a 10 …….. lens",
+      "answerRaw": "one hour,1 hour",
+      "canonicalAnswer": "one hour",
+      "acceptedAnswers": [
+        "one hour",
+        "1 hour"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It lasts one hour, and the volunteer will give you information about many of the flowers on the reserve.",
+      "evidenceStartTime": 286.88,
+      "evidenceEndTime": 293.45,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"one hour\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "Poppy, cream cup, and stage Close- up tips The wildlife tour 9 ……… a.m. or 7:00 p.m. 1.5 hours Coyote, quail, roadrunners Bring tripod and a 10 …….. lens",
+      "answerRaw": "5.30,5:30",
+      "canonicalAnswer": "5.30",
+      "acceptedAnswers": [
+        "5.30",
+        "5:30"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, so we offer this tour only two times, 5.30 a.m. or 7 p.m. Wow, that early?",
+      "evidenceStartTime": 316.21,
+      "evidenceEndTime": 321.85,
+      "paraphrases": [],
+      "distractors": [
+        "giới hạn phạm vi bằng 'only'"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"5.30\". Lưu ý bẫy gây nhiễu (distractor): giới hạn phạm vi bằng 'only'."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "p.m. 1.5 hours Coyote, quail, roadrunners Bring tripod and a 10 …….. lens",
+      "answerRaw": "zoom",
+      "canonicalAnswer": "zoom",
+      "acceptedAnswers": [
+        "zoom"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "More like a lot of standing, but most of the time you will be at one or two locations, so we recommend bringing a tripod and zoom lens if you want to take pictures.",
+      "evidenceStartTime": 346.09,
+      "evidenceEndTime": 356.39,
+      "paraphrases": [
+        {
+          "questionTerm": "bring",
+          "audioTerm": "take"
+        },
+        {
+          "questionTerm": "hours",
+          "audioTerm": "time"
+        }
+      ],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"zoom\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'bring' ↔ 'take'; 'hours' ↔ 'time'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "the correct answer. Re-creating life in an Iron Age village 11 Jim says that in the Iron Age village A he is sometimes cold at night. B he always gets up early. C he has time to himself. 12 What does Jim say about the food they eat in the village? A It takes time to prepare. B It is difficult to get used to. C It has to",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Jim Stevens has been taking part in an experiment to find out what everyday life was like in Britain over 2,500 years ago in the period of history we call the Iron Age.",
+      "evidenceStartTime": 492.24,
+      "evidenceEndTime": 506.21,
+      "paraphrases": [
+        {
+          "questionTerm": "time",
+          "audioTerm": "period"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'time' ↔ 'period'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "night. B he always gets up early. C he has time to himself. 12 What does Jim say about the food they eat in the village? A It takes time to prepare. B It is difficult to get used to. C It has to be eaten quickly. 13 Jim says that at the evening meal A they are sometimes too tired to eat. B they mainly have fruit and berr",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "A lot of time is spent just trying to get enough to eat, looking for berries and fruit and things like that.",
+      "evidenceStartTime": 596.98,
+      "evidenceEndTime": 603.87,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "t is difficult to get used to. C It has to be eaten quickly. 13 Jim says that at the evening meal A they are sometimes too tired to eat. B they mainly have fruit and berries. C they talk about what they've done. 14 The most important job for the blacksmiths is A to mend broken tools and implements. B to maintain a good so",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "A lot of time is spent just trying to get enough to eat, looking for berries and fruit and things like that.",
+      "evidenceStartTime": 596.98,
+      "evidenceEndTime": 603.87,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "have fruit and berries. C they talk about what they've done. 14 The most important job for the blacksmiths is A to mend broken tools and implements. B to maintain a good source of heat. C to collect sufficient firewood. 15 Jim likes the fact that in the village, people A do varied activities. B share their knowledge. C ge",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They've got various things to make, tools, cooking implements and so on.",
+      "evidenceStartTime": 620.24,
+      "evidenceEndTime": 624.99,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "ain a good source of heat. C to collect sufficient firewood. 15 Jim likes the fact that in the village, people A do varied activities. B share their knowledge. C get a lot of exercise. Questions 16–20 Complete the flow-chart below. Choose FIVE correct answers from the box, A-I, next to questions 16-20. MAKING AN IRON AGE",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Round houses built in just the same way that archaeologists think that Iron Age people constructed them.",
+      "evidenceStartTime": 706.0,
+      "evidenceEndTime": 712.93,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "G AN IRON AGE ROUNDHOUSE Mark centre of planned house with a 16 ………… ↓ Mark out circle for outer boundary ↓ Dig ground using tools made from 17 ……….. ↓ Insert wall posts (Iron Age builders preferred wood from oak trees) ↓ Slot more stakes into upright posts ↓ Insert centre post and build a wooden 18 ………… around it ↓ Add",
+      "answerRaw": "G peg",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G",
+        "G peg",
+        "peg"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You mark the centre of your house with a wooden peg. What you do then is loop a length of rope around it and mark out the circle to give you the outer boundary of your building.",
+      "evidenceStartTime": 724.0,
+      "evidenceEndTime": 735.82,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án G peg. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "circle for outer boundary ↓ Dig ground using tools made from 17 ……….. ↓ Insert wall posts (Iron Age builders preferred wood from oak trees) ↓ Slot more stakes into upright posts ↓ Insert centre post and build a wooden 18 ………… around it ↓ Add main supporting beams and ring beams ↓ Complete roof framework using 19 ………… wo",
+      "answerRaw": "A bone",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A",
+        "A bone",
+        "bone"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And in Iron Age times, people didn't have shovels or diggers like we do today, but used tools which they fashioned from animal bone.",
+      "evidenceStartTime": 742.0,
+      "evidenceEndTime": 751.1,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "thông tin cũ trong quá khứ ('used to'), không phải hiện tại"
+      ],
+      "explanationVi": "Đáp án đúng là phương án A bone. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "s into upright posts ↓ Insert centre post and build a wooden 18 ………… around it ↓ Add main supporting beams and ring beams ↓ Complete roof framework using 19 ………… wood rods ↓ Cover roof with reed bundles of 20 ………… lengths ↓ Daub with mixture of clay, dung and straw A bone B different C equal D elm E hazel F iron G",
+      "answerRaw": "I scaffold",
+      "canonicalAnswer": "I",
+      "acceptedAnswers": [
+        "I",
+        "I scaffold",
+        "scaffold"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But it's not only this which is relied upon to hold up the roof, so the next thing you have to do is build around the post a timber scaffold tower, similar to the metal ones used in Britain today.",
+      "evidenceStartTime": 806.7,
+      "evidenceEndTime": 819.75,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án đúng là phương án I scaffold. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "porting beams and ring beams ↓ Complete roof framework using 19 ………… wood rods ↓ Cover roof with reed bundles of 20 ………… lengths ↓ Daub with mixture of clay, dung and straw A bone B different C equal D elm E hazel F iron G peg H roof I scaffold",
+      "answerRaw": "E hazel",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E hazel",
+        "hazel"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Rather like weaving a basket using rods from the willow tree, hazel wood rods are linked to the beams in parallel hoops.",
+      "evidenceStartTime": 842.4,
+      "evidenceEndTime": 851.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E hazel. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "k using 19 ………… wood rods ↓ Cover roof with reed bundles of 20 ………… lengths ↓ Daub with mixture of clay, dung and straw A bone B different C equal D elm E hazel F iron G peg H roof I scaffold",
+      "answerRaw": "C equal",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C",
+        "C equal",
+        "equal"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "First you take reed bundles and cut them so that each is of equal length.",
+      "evidenceStartTime": 864.0,
+      "evidenceEndTime": 867.34,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án C equal. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "answer. Presentation on how jobs might change in the future 21 What do the students find surprising about the way that complaints were dealt with at the call centre? A the way that customers responded to it B the employees’s lack of enthusiasm for it C the kind of questions employees were obliged to ask 22 What does Emma",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "OK Nick, the title of our presentation is How Jobs Might Change in the Future.",
+      "evidenceStartTime": 982.27,
+      "evidenceEndTime": 988.8,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "for it C the kind of questions employees were obliged to ask 22 What does Emma say about the report by Jerry Kaplan? A It shows how machines will respond to human needs. B It emphasises the variety of roles that machines will have. C It explains the limitations of machines. 23 What is Nick's reaction to the article The Hu",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "What about Gerry Kaplan's report? He argues there'll be plenty of jobs not suitable for machines.",
+      "evidenceStartTime": 1030.0,
+      "evidenceEndTime": 1036.42,
+      "paraphrases": [
+        {
+          "questionTerm": "article",
+          "audioTerm": "report"
+        }
+      ],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'article' ↔ 'report'. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "chines will have. C It explains the limitations of machines. 23 What is Nick's reaction to the article The Human Cloud? A He agrees that companies should focus on making savings. B He supports the concept of greater flexibility for employees. C He approves of businesses spending more on recruiting experts. 24 What do the",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I suppose it's something to do with the fact that a human can empathise, but a machine can't. Right. Now, there's that article called The Human Cloud.",
+      "evidenceStartTime": 1044.78,
+      "evidenceEndTime": 1055.15,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "approves of businesses spending more on recruiting experts. 24 What do the students agree about the use of technology to collect information about employees? A Cameras are an effective means of maintaining security. B Sometimes productivity is more important than individual privacy. C Employees may object to certain type",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Another article was the one looking at how employers will use technology to record what their employees are doing.",
+      "evidenceStartTime": 1084.75,
+      "evidenceEndTime": 1092.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "tions 25-30. Issues Aspects of the presentation Introduction 25 ………….. Researcher profiles 26 …………. Section on automation 27 ………… Section on workplace structure 28 …………. Section on tracking technology 29 ………….. Interview with company manager 30 ………… A at which point of the presentation it should come B whether it should",
+      "answerRaw": "H which of them will present it",
+      "canonicalAnswer": "H",
+      "acceptedAnswers": [
+        "H",
+        "H which of them will present it",
+        "which of them will present it"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I doubt we'll have time to look at them properly during the presentation.",
+      "evidenceStartTime": 1195.02,
+      "evidenceEndTime": 1199.65,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án H which of them will present it. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "the presentation Introduction 25 ………….. Researcher profiles 26 …………. Section on automation 27 ………… Section on workplace structure 28 …………. Section on tracking technology 29 ………….. Interview with company manager 30 ………… A at which point of the presentation it should come B whether it should be removed completely C wheth",
+      "answerRaw": "B whether it should be removed completely",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B",
+        "B whether it should be removed completely",
+        "whether it should be removed completely"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I reckon we should just attach that bit to the written report we've given to the tutor.",
+      "evidenceStartTime": 1199.65,
+      "evidenceEndTime": 1205.17,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án B whether it should be removed completely. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "25 ………….. Researcher profiles 26 …………. Section on automation 27 ………… Section on workplace structure 28 …………. Section on tracking technology 29 ………….. Interview with company manager 30 ………… A at which point of the presentation it should come B whether it should be removed completely C whether it is clear enough D if it",
+      "answerRaw": "D if it needs to be completely re-written",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D",
+        "D if it needs to be completely re-written",
+        "if it needs to be completely re-written"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I reckon we should just attach that bit to the written report we've given to the tutor.",
+      "evidenceStartTime": 1199.65,
+      "evidenceEndTime": 1205.17,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án D if it needs to be completely re-written. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "Section on automation 27 ………… Section on workplace structure 28 …………. Section on tracking technology 29 ………….. Interview with company manager 30 ………… A at which point of the presentation it should come B whether it should be removed completely C whether it is clear enough D if it needs to be completely re-written E if",
+      "answerRaw": "G which further examples should be included",
+      "canonicalAnswer": "G",
+      "acceptedAnswers": [
+        "G",
+        "G which further examples should be included",
+        "which further examples should be included"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I reckon we should just attach that bit to the written report we've given to the tutor.",
+      "evidenceStartTime": 1199.65,
+      "evidenceEndTime": 1205.17,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án G which further examples should be included. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "workplace structure 28 …………. Section on tracking technology 29 ………….. Interview with company manager 30 ………… A at which point of the presentation it should come B whether it should be removed completely C whether it is clear enough D if it needs to be completely re-written E if visuals will help or not F if the info",
+      "answerRaw": "E if visuals will help or not",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E if visuals will help or not",
+        "if visuals will help or not"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And the section on tracking technology. Are we happy with that?",
+      "evidenceStartTime": 1249.0,
+      "evidenceEndTime": 1253.14,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E if visuals will help or not. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "tracking technology 29 ………….. Interview with company manager 30 ………… A at which point of the presentation it should come B whether it should be removed completely C whether it is clear enough D if it needs to be completely re-written E if visuals will help or not F if the information needs to be checked G which furt",
+      "answerRaw": "F if the information needs to be checked",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F",
+        "F if the information needs to be checked",
+        "if the information needs to be checked"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And that interview we did with the company manager. Yes, we were lucky she gave us her time.",
+      "evidenceStartTime": 1267.94,
+      "evidenceEndTime": 1274.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án F if the information needs to be checked. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "SHIFT Background: • in number of night workers because of 31 …………. 24-hour shopping/services • need to examine effects of changing work and sleep habits US and British research found these lead to health problems Main Causes: A 32 ………… • regulates daily life • connected to behavioural patterns and cycles of",
+      "answerRaw": "the number of",
+      "canonicalAnswer": "the number of",
+      "acceptedAnswers": [
+        "the number of"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'm sure you're all aware that there has been a huge increase in the number of workers doing regular night shifts in recent years,",
+      "evidenceStartTime": 1357.0,
+      "evidenceEndTime": 1365.49,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"the number of\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "esearch found these lead to health problems Main Causes: A 32 ………… • regulates daily life • connected to behavioural patterns and cycles of 33 ………… • programmes us to be awake and asleep at certain times B Sleep Debt • impossible to get enough sleep during daytime C 34 …………. • different working/sleep",
+      "answerRaw": "internal clock,the internal clock",
+      "canonicalAnswer": "internal clock",
+      "acceptedAnswers": [
+        "internal clock",
+        "the internal clock"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The first one is what they call the internal clock. And this is a basic sort of programme in our brains.",
+      "evidenceStartTime": 1394.2,
+      "evidenceEndTime": 1401.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"internal clock\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "ly life • connected to behavioural patterns and cycles of 33 ………… • programmes us to be awake and asleep at certain times B Sleep Debt • impossible to get enough sleep during daytime C 34 …………. • different working/sleeping times, ‘dislocation’ Effects: A Physical • higher incidence of heart and 35",
+      "answerRaw": "light and dark",
+      "canonicalAnswer": "light and dark",
+      "acceptedAnswers": [
+        "light and dark"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And it seems to be generally accepted by all the experts in the field that this clock is linked to not just our behavioural habits, but to cycles of light and dark.",
+      "evidenceStartTime": 1411.05,
+      "evidenceEndTime": 1422.82,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"light and dark\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "Debt • impossible to get enough sleep during daytime C 34 …………. • different working/sleeping times, ‘dislocation’ Effects: A Physical • higher incidence of heart and 35 ……………… problems • more minor illnesses, suggesting that immunity of shift workers is affected B Psychological • most common: 36",
+      "answerRaw": "unsocial hours",
+      "canonicalAnswer": "unsocial hours",
+      "acceptedAnswers": [
+        "unsocial hours"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The third cause of these problems is the unsocial hours that night workers have to keep.",
+      "evidenceStartTime": 1466.24,
+      "evidenceEndTime": 1471.42,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"unsocial hours\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "’ Effects: A Physical • higher incidence of heart and 35 ……………… problems • more minor illnesses, suggesting that immunity of shift workers is affected B Psychological • most common: 36 ……………. • 37 ……………… affected, e.g. decision-making, planning, which regulate our 38 …………... C Social Night shift wor",
+      "answerRaw": "stomach",
+      "canonicalAnswer": "stomach",
+      "acceptedAnswers": [
+        "stomach"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "In addition, there seems to be a very high incidence of stomach problems, for example, ulcers among night shift workers.",
+      "evidenceStartTime": 1505.0,
+      "evidenceEndTime": 1513.66,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"stomach\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "ift workers is affected B Psychological • most common: 36 ……………. • 37 ……………… affected, e.g. decision-making, planning, which regulate our 38 …………... C Social Night shift work can lead to: • destruction of 39 …………. and other relationships, e.g. 40 ………….. • eventually, for individuals: social isolation",
+      "answerRaw": "depression",
+      "canonicalAnswer": "depression",
+      "acceptedAnswers": [
+        "depression"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And the most common problem is depression. This seems to be the inevitable result of the constant feeling of tiredness and a lack of energy that night workers universally complain of.",
+      "evidenceStartTime": 1558.0,
+      "evidenceEndTime": 1570.79,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"depression\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "affected B Psychological • most common: 36 ……………. • 37 ……………… affected, e.g. decision-making, planning, which regulate our 38 …………... C Social Night shift work can lead to: • destruction of 39 …………. and other relationships, e.g. 40 ………….. • eventually, for individuals: social isolation",
+      "answerRaw": "mental abilities",
+      "canonicalAnswer": "mental abilities",
+      "acceptedAnswers": [
+        "mental abilities"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Secondly, there is a lot of evidence from accident statistics to suggest that mental abilities are badly affected,",
+      "evidenceStartTime": 1570.79,
+      "evidenceEndTime": 1578.8,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"mental abilities\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "affected, e.g. decision-making, planning, which regulate our 38 …………... C Social Night shift work can lead to: • destruction of 39 …………. and other relationships, e.g. 40 ………….. • eventually, for individuals: social isolation",
+      "answerRaw": "performance",
+      "canonicalAnswer": "performance",
+      "acceptedAnswers": [
+        "performance"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And these are what control our performance. For example, we can see that the highest number of errors on the roads occur between 3 a.m. and 5 a.m.,",
+      "evidenceStartTime": 1584.0,
+      "evidenceEndTime": 1595.27,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"performance\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "Social Night shift work can lead to: • destruction of 39 …………. and other relationships, e.g. 40 ………….. • eventually, for individuals: social isolation",
+      "answerRaw": "family life",
+      "canonicalAnswer": "family life",
+      "acceptedAnswers": [
+        "family life"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "The first one is obviously the breakup of family life, and here we can see from the divorce statistics that this occurs more frequently in the case of night workers.",
+      "evidenceStartTime": 1609.0,
+      "evidenceEndTime": 1620.48,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"family life\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "• destruction of 39 …………. and other relationships, e.g. 40 ………….. • eventually, for individuals: social isolation",
+      "answerRaw": "peer group",
+      "canonicalAnswer": "peer group",
+      "acceptedAnswers": [
+        "peer group"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But there's also the breakdown of other relationships, not just within the family, but among the peer group.",
+      "evidenceStartTime": 1620.48,
+      "evidenceEndTime": 1628.04,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"peer group\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 1.0,
+      "endTime": 8.13,
+      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 8.13,
+      "endTime": 15.95,
+      "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 15.95,
+      "endTime": 19.0,
+      "text": "All the recordings will be played once only.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 20.0,
+      "endTime": 26.46,
+      "text": "The test is in four parts. Write all your answers in the listening question booklet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 26.46,
+      "endTime": 34.0,
+      "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 36.0,
+      "endTime": 43.23,
+      "text": "Now turn to part one on page two of your question booklet. Part one.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 43.23,
+      "endTime": 51.0,
+      "text": "You will hear a telephone conversation between a woman and a park ranger.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 53.0,
+      "endTime": 62.56,
+      "text": "First you have some time to look at questions one to five.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 62.56,
+      "endTime": 71.47,
+      "text": "Now listen carefully and answer questions one to five.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 71.47,
+      "endTime": 78.73,
+      "text": "Almond Valley Poppy Reserve, may I help you?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 78.73,
+      "endTime": 83.84,
+      "text": "Is the Nature Reserve open now?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 83.84,
+      "endTime": 100.0,
+      "text": "Yes, we are actually open all year, although this is the best time of year to see the wildflowers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 100.0,
+      "endTime": 102.59,
+      "text": "Are the poppies blooming yet? Absolutely.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 102.59,
+      "endTime": 110.5,
+      "text": "They started to bloom last week and are already beautiful, but they should peak and be in full bloom at the end of the month.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 110.5,
+      "endTime": 116.07,
+      "text": "Oh, I was planning on coming at the end of this week. Is that too early? No, not at all.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 116.07,
+      "endTime": 121.0,
+      "text": "The hills are already covered with orange poppies. I thought poppies were red.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 122.0,
+      "endTime": 125.11,
+      "text": "Not in California. I've never seen a red poppy here.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 125.11,
+      "endTime": 128.16,
+      "text": "The poppy reserve is in Ocean County, right? Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 128.16,
+      "endTime": 133.43,
+      "text": "From Lakeside, you'll need to drive about an hour east. What time does the reserve open?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 133.43,
+      "endTime": 136.01,
+      "text": "The reserve is open from sunrise to sunset.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 136.01,
+      "endTime": 141.28,
+      "text": "It's best to come early in the morning to beat the crowds, but for the best photography,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 141.28,
+      "endTime": 145.0,
+      "text": "you might want to consider a mid-afternoon visit on a weekday.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 146.0,
+      "endTime": 151.82,
+      "text": "I heard that there are a lot of rattlesnakes in the desert. Is it dangerous to walk about?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 151.82,
+      "endTime": 153.63,
+      "text": "Most wildlife is quite safe.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 153.63,
+      "endTime": 161.0,
+      "text": "There are very few people bitten by rattlesnakes, so we do recommend wearing trousers just to be on the safe side.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 161.0,
+      "endTime": 166.32,
+      "text": "All right. I was hoping that I might have the chance to see some wildlife too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 166.32,
+      "endTime": 170.0,
+      "text": "Oh, how much is the admission to the reserve? It's $5.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 171.0,
+      "endTime": 174.65,
+      "text": "Can I use my National Park Pass to enter the reserve?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 174.65,
+      "endTime": 179.88,
+      "text": "Unfortunately not, since it is a state park, not a national park. All right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 179.88,
+      "endTime": 184.0,
+      "text": "I heard from a friend that there is a nature tour available.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 185.0,
+      "endTime": 192.62,
+      "text": "Can you tell me about it? Certainly, but can you excuse me just a sec? I'll be right back.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 192.62,
+      "endTime": 193.04,
+      "text": "Okay.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 193.04,
+      "endTime": 201.0,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 6 to 10.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 201.0,
+      "endTime": 212.01,
+      "text": "Now listen and answer questions 6 to 10.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 212.01,
+      "endTime": 219.44,
+      "text": "Hello? Yes, I'm still here.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 219.44,
+      "endTime": 233.47,
+      "text": "Now, you are interested in the nature tours, right?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 233.47,
+      "endTime": 242.0,
+      "text": "Oh, there's more than one? Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 243.0,
+      "endTime": 250.08,
+      "text": "We have the general tour, which is the one your friend may have taken, but we also have two more specialised tours.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 250.08,
+      "endTime": 255.0,
+      "text": "Starting at 7.30 a.m. is our general tour. That's early for some people, I know.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 255.0,
+      "endTime": 259.72,
+      "text": "It's offered every hour too. But it's a great time, and it only lasts 30 minutes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 259.72,
+      "endTime": 262.75,
+      "text": "Is that the tour that takes you to the vista points?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 262.75,
+      "endTime": 268.0,
+      "text": "Yes, that is one of the highlights, along with a film introducing the park and the museum.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 269.0,
+      "endTime": 271.86,
+      "text": "You're welcome to tour the museum at your leisure.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 271.86,
+      "endTime": 277.12,
+      "text": "It's a great tour for those who just want to take panoramic pictures with automatic cameras.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 277.12,
+      "endTime": 281.0,
+      "text": "Well, if I come all that way, I'd like to have a more detailed tour.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 281.0,
+      "endTime": 286.88,
+      "text": "Then you are in luck, because we have a wonderful wildflower tour every two hours from 8 a.m.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 286.88,
+      "endTime": 293.45,
+      "text": "It lasts one hour, and the volunteer will give you information about many of the flowers on the reserve.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 293.45,
+      "endTime": 299.07,
+      "text": "Besides the poppies, will cream cups be in bloom? Yes, and you will see lots of sage too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 299.07,
+      "endTime": 304.0,
+      "text": "We have a volunteer who is really good at giving tips on close-up photography.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 305.0,
+      "endTime": 306.93,
+      "text": "You mentioned another tour.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 306.93,
+      "endTime": 312.64,
+      "text": "Yes, the last one is the wildlife tour, but it is offered at very limited times.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 1,
+      "startTime": 312.64,
+      "endTime": 316.21,
+      "text": "Is that because most of the wildlife is nocturnal?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 1,
+      "startTime": 316.21,
+      "endTime": 321.85,
+      "text": "Yes, so we offer this tour only two times, 5.30 a.m. or 7 p.m. Wow, that early?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 1,
+      "startTime": 321.85,
+      "endTime": 325.64,
+      "text": "But don't the snakes and lizards like the sun? Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 1,
+      "startTime": 325.64,
+      "endTime": 336.07,
+      "text": "First, let me say it takes about an hour and a half, but you will have the opportunity to see other animals, like coyotes, quail, and roadrunners.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 1,
+      "startTime": 336.07,
+      "endTime": 341.36,
+      "text": "You have to get here before the crowds arrive or after most of them leave.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 1,
+      "startTime": 341.36,
+      "endTime": 343.0,
+      "text": "Well, that makes sense.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 1,
+      "startTime": 344.0,
+      "endTime": 346.09,
+      "text": "Does it require a lot of walking?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 1,
+      "startTime": 346.09,
+      "endTime": 351.52,
+      "text": "More like a lot of standing, but most of the time you will be at one or two locations,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 1,
+      "startTime": 351.52,
+      "endTime": 356.39,
+      "text": "so we recommend bringing a tripod and zoom lens if you want to take pictures.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 1,
+      "startTime": 356.39,
+      "endTime": 361.0,
+      "text": "Well, thank you very much. You've been extremely helpful and informative.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 1,
+      "startTime": 362.0,
+      "endTime": 364.0,
+      "text": "You're welcome. Glad I could be of service. Goodbye.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 1,
+      "startTime": 365.0,
+      "endTime": 372.82,
+      "text": "Goodbye.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 1,
+      "startTime": 372.82,
+      "endTime": 398.24,
+      "text": "That is the end of Part 1.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 1,
+      "startTime": 398.24,
+      "endTime": 453.0,
+      "text": "You now have one minute to check your answers to Part 1.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 2,
+      "startTime": 453.0,
+      "endTime": 479.66,
+      "text": "You will hear a talk by a volunteer who has been taking part in a project to find out what everyday life was like 2,500 years ago in Britain during the time known as the Iron Age.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 2,
+      "startTime": 479.66,
+      "endTime": 488.0,
+      "text": "First, you have some time to look at questions 11 to 15.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 2,
+      "startTime": 488.0,
+      "endTime": 492.24,
+      "text": "Now listen carefully and answer questions 11 to 15.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 2,
+      "startTime": 492.24,
+      "endTime": 506.21,
+      "text": "Jim Stevens has been taking part in an experiment to find out what everyday life was like in Britain over 2,500 years ago in the period of history we call the Iron Age.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 2,
+      "startTime": 506.21,
+      "endTime": 524.0,
+      "text": "He is one of a group of volunteers who have been living for the last six months in the sort of village that people inhabited in those days and following the sort of daily routine that ordinary people followed them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 2,
+      "startTime": 524.0,
+      "endTime": 527.43,
+      "text": "So Jim, tell us what you do on a typical day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 2,
+      "startTime": 527.43,
+      "endTime": 532.92,
+      "text": "A typical day in the Iron Age village begins with rising at first light.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 2,
+      "startTime": 532.92,
+      "endTime": 541.0,
+      "text": "I occasionally did that when I was at home because I loved having time to myself before the family got up.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 542.0,
+      "endTime": 545.28,
+      "text": "But here I do it every day because it's so light.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 545.28,
+      "endTime": 549.97,
+      "text": "Others also get up early because they find the straw beds rather cold.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 549.97,
+      "endTime": 556.0,
+      "text": "We start work immediately, usually tending to our fires which have died down in the night.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 557.0,
+      "endTime": 564.8,
+      "text": "I feed the cattle before starting to get breakfast ready, usually porridge that's been soaked the night before.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 564.8,
+      "endTime": 568.31,
+      "text": "It sounds horrid, doesn't it? But it's not so bad.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 568.31,
+      "endTime": 574.0,
+      "text": "As it takes such a long time to cook anything, we end up eating only twice a day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 575.0,
+      "endTime": 582.0,
+      "text": "We have a late breakfast after a morning's work and then in the evening we gather together as a community.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 582.0,
+      "endTime": 590.32,
+      "text": "Although the evening meal provides a chance for us to chat about the day, it can be quite chilly so we go to bed pretty early.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 590.32,
+      "endTime": 595.0,
+      "text": "I think we're always hungry because we use much more energy than usual.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 595.0,
+      "endTime": 596.98,
+      "text": "It's all the physical exertion.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 596.98,
+      "endTime": 603.87,
+      "text": "A lot of time is spent just trying to get enough to eat, looking for berries and fruit and things like that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 603.87,
+      "endTime": 610.0,
+      "text": "There are lots of other jobs to be done, like cooking, finding wood and keeping the fires going.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 611.0,
+      "endTime": 620.24,
+      "text": "The biggest priority for the blacksmiths working the forge is to tend the fire and to get it nice and hot so they can carry out their tasks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 620.24,
+      "endTime": 624.99,
+      "text": "They've got various things to make, tools, cooking implements and so on.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 624.99,
+      "endTime": 630.0,
+      "text": "So life here is about looking after the animals and looking after ourselves.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 632.0,
+      "endTime": 635.35,
+      "text": "Everybody's always doing something round the fire as well.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 635.35,
+      "endTime": 638.18,
+      "text": "It's not as if we're just sitting there chatting.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 638.18,
+      "endTime": 641.0,
+      "text": "Just living, surviving takes up most of our time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 642.0,
+      "endTime": 646.17,
+      "text": "And actually it's quite difficult to fit in other things around it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 646.17,
+      "endTime": 652.77,
+      "text": "For example, you might be breaking hazelnuts, spinning some wool or just doing things like straining milk.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 652.77,
+      "endTime": 660.0,
+      "text": "Here you're finding out how to do different things every day, which keeps you on your toes and keeps you interested.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 664.0,
+      "endTime": 683.03,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 683.03,
+      "endTime": 692.0,
+      "text": "Now listen and answer questions 16 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 692.0,
+      "endTime": 706.0,
+      "text": "And I understand that you even built your own houses to live in.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 2,
+      "startTime": 706.0,
+      "endTime": 712.93,
+      "text": "Round houses built in just the same way that archaeologists think that Iron Age people constructed them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 2,
+      "startTime": 712.93,
+      "endTime": 716.73,
+      "text": "So tell us exactly how you build an Iron Age round house.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 2,
+      "startTime": 716.73,
+      "endTime": 723.0,
+      "text": "It's a bit like putting up a tent at first, but without the benefit of ready-made metal poles.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 2,
+      "startTime": 724.0,
+      "endTime": 727.49,
+      "text": "You mark the centre of your house with a wooden peg.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 2,
+      "startTime": 727.49,
+      "endTime": 735.82,
+      "text": "What you do then is loop a length of rope around it and mark out the circle to give you the outer boundary of your building.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 2,
+      "startTime": 735.82,
+      "endTime": 741.0,
+      "text": "Once you've got this, you then have to dig out the ground ready for the wall.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 2,
+      "startTime": 742.0,
+      "endTime": 751.1,
+      "text": "And in Iron Age times, people didn't have shovels or diggers like we do today, but used tools which they fashioned from animal bone.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 2,
+      "startTime": 751.1,
+      "endTime": 756.0,
+      "text": "It must have been quite hard work. Next, you have to start on the wall.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 2,
+      "startTime": 757.0,
+      "endTime": 761.83,
+      "text": "Although there were several native trees around, like the ash and the elm,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 2,
+      "startTime": 761.83,
+      "endTime": 768.03,
+      "text": "the ancients preferred oak for the wall posts, which they knocked into the circle they had dug.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 2,
+      "startTime": 768.03,
+      "endTime": 774.23,
+      "text": "Don't forget to leave room for the entrance, otherwise you won't be able to get into the house.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 2,
+      "startTime": 774.23,
+      "endTime": 778.0,
+      "text": "Now you can begin to see the wall of the house developing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 2,
+      "startTime": 779.0,
+      "endTime": 787.08,
+      "text": "To create the framework for the final wall, the stakes were not nailed or glued onto each other as they might be today.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 2,
+      "startTime": 787.08,
+      "endTime": 794.95,
+      "text": "Instead, ones with holes cut into each end are slotted over the upright posts, making what to us looks like a fence.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 2,
+      "startTime": 794.95,
+      "endTime": 798.0,
+      "text": "This procedure creates a very firm structure.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 2,
+      "startTime": 799.0,
+      "endTime": 806.7,
+      "text": "To support the large roof, first you need to put up a good-sized centre post, which is secured with ropes and pegs.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 2,
+      "startTime": 806.7,
+      "endTime": 810.98,
+      "text": "But it's not only this which is relied upon to hold up the roof,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 2,
+      "startTime": 810.98,
+      "endTime": 819.75,
+      "text": "so the next thing you have to do is build around the post a timber scaffold tower, similar to the metal ones used in Britain today.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 2,
+      "startTime": 819.75,
+      "endTime": 825.71,
+      "text": "This temporary structure of wooden poles enables you to put up the main supporting beams,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 2,
+      "startTime": 825.71,
+      "endTime": 832.0,
+      "text": "which are then tied together with rope and fixed to the wall plate at the bottom of the fence.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 2,
+      "startTime": 833.0,
+      "endTime": 838.74,
+      "text": "The top part of this tent-like construction is strengthened with two ring beams.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 2,
+      "startTime": 838.74,
+      "endTime": 842.4,
+      "text": "Now the framework for the roof has to be completed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 2,
+      "startTime": 842.4,
+      "endTime": 851.0,
+      "text": "Rather like weaving a basket using rods from the willow tree, hazel wood rods are linked to the beams in parallel hoops.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 2,
+      "startTime": 852.0,
+      "endTime": 855.4,
+      "text": "Now you can see the house in skeletal form.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 2,
+      "startTime": 855.4,
+      "endTime": 860.86,
+      "text": "The tricky bit is thatching the roof because it requires great skill.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 2,
+      "startTime": 860.86,
+      "endTime": 863.0,
+      "text": "I find this very difficult.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 2,
+      "startTime": 864.0,
+      "endTime": 867.34,
+      "text": "First you take reed bundles and cut them so that each is of equal length.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 2,
+      "startTime": 867.34,
+      "endTime": 870.49,
+      "text": "Then you must fix them firmly so they won't blow away in heavy winds.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 2,
+      "startTime": 870.49,
+      "endTime": 874.7,
+      "text": "The final part of the process is the daubing, which in effect is like modern day plastering.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 2,
+      "startTime": 874.7,
+      "endTime": 877.44,
+      "text": "Sounds like a plan. OK, and we... That is the end of Part 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 2,
+      "startTime": 877.44,
+      "endTime": 880.0,
+      "text": "You now have 30 seconds to check your answers to Part 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 881.0,
+      "endTime": 896.83,
+      "text": "Whereas today we use plaster and paint or wallpaper, the Iron Age people had a mixture of clay,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 896.83,
+      "endTime": 914.16,
+      "text": "cow dung and straw, which they daubed all over the inside and outside to give the house a smooth finish.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 914.16,
+      "endTime": 937.83,
+      "text": "You will hear two business students called Emma and Nick preparing for their presentation on the topic of how jobs might change in the future.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 937.83,
+      "endTime": 947.0,
+      "text": "First you have some time to look at questions 21 to 24.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 978.0,
+      "endTime": 982.27,
+      "text": "Now listen carefully and answer questions 21 to 24.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 982.27,
+      "endTime": 988.8,
+      "text": "OK Nick, the title of our presentation is How Jobs Might Change in the Future.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 988.8,
+      "endTime": 992.82,
+      "text": "Shall we look at the research we've done so far?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 992.82,
+      "endTime": 997.0,
+      "text": "I was just watching an interview with Alex Coburn.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 998.0,
+      "endTime": 1003.02,
+      "text": "Go on. He talked about a company with a call centre for dealing with complaints.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 1003.02,
+      "endTime": 1007.47,
+      "text": "Instead of following a script with a list of questions they had to ask,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 1007.47,
+      "endTime": 1015.0,
+      "text": "the call centre employees were told they could deal with complaints however they wanted, which went down well with them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 1015.0,
+      "endTime": 1019.2,
+      "text": "That's not a common approach these days. But apparently it worked.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 1019.2,
+      "endTime": 1022.0,
+      "text": "Customers were happier with the new methods.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 1023.0,
+      "endTime": 1026.12,
+      "text": "Really? That's certainly not the result you'd expect.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 1026.12,
+      "endTime": 1029.0,
+      "text": "We'll definitely have to use that example. Maybe.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 1030.0,
+      "endTime": 1032.21,
+      "text": "What about Gerry Kaplan's report?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 1032.21,
+      "endTime": 1036.42,
+      "text": "He argues there'll be plenty of jobs not suitable for machines.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1036.42,
+      "endTime": 1044.78,
+      "text": "Like, a machine might be able to diagnose your disease, but patients will always want to talk face to face with their doctor.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1044.78,
+      "endTime": 1051.0,
+      "text": "I suppose it's something to do with the fact that a human can empathise, but a machine can't.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1051.0,
+      "endTime": 1055.15,
+      "text": "Right. Now, there's that article called The Human Cloud.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1055.15,
+      "endTime": 1063.0,
+      "text": "It describes the growing numbers of people being employed as contractors to do online tasks at a distance.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1064.0,
+      "endTime": 1066.96,
+      "text": "Well, that could be good for the companies.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1066.96,
+      "endTime": 1073.98,
+      "text": "They can choose the most expert people available, and they get cheap labour and no costs except wages.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1073.98,
+      "endTime": 1077.0,
+      "text": "But for the workers, it may mean less money.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1078.0,
+      "endTime": 1082.9,
+      "text": "On the other hand, I love the idea of working from home in a time that suits.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 3,
+      "startTime": 1082.9,
+      "endTime": 1084.75,
+      "text": "It's certainly controversial.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 3,
+      "startTime": 1084.75,
+      "endTime": 1092.0,
+      "text": "Another article was the one looking at how employers will use technology to record what their employees are doing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 3,
+      "startTime": 1092.0,
+      "endTime": 1092.57,
+      "text": "So awful.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 3,
+      "startTime": 1092.57,
+      "endTime": 1099.36,
+      "text": "Cameras in the workplace checking on where you are, software that tells your boss who you've been emailing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 3,
+      "startTime": 1099.36,
+      "endTime": 1105.0,
+      "text": "When we talk about this, I want to make clear how this affects people's personal privacy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 3,
+      "startTime": 1105.0,
+      "endTime": 1110.13,
+      "text": "Did you read how some companies are tracking the health of their employees?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 3,
+      "startTime": 1110.13,
+      "endTime": 1115.81,
+      "text": "Surely workers won't accept that. Yes, I'd be very surprised if this became common.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 3,
+      "startTime": 1115.81,
+      "endTime": 1118.0,
+      "text": "Too many employees would refuse.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 3,
+      "startTime": 1121.0,
+      "endTime": 1150.87,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 3,
+      "startTime": 1150.87,
+      "endTime": 1164.04,
+      "text": "Now listen and answer questions 25 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 3,
+      "startTime": 1164.04,
+      "endTime": 1165.0,
+      "text": "OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 3,
+      "startTime": 1166.0,
+      "endTime": 1170.24,
+      "text": "There's some aspects of the presentation we still need to think about.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 3,
+      "startTime": 1170.24,
+      "endTime": 1174.0,
+      "text": "Yes, there are a few issues. Let's go through them one by one.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 3,
+      "startTime": 1174.0,
+      "endTime": 1180.02,
+      "text": "OK. What about the introduction then? Well, we've sorted out the content.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 3,
+      "startTime": 1180.02,
+      "endTime": 1182.0,
+      "text": "Your editing has helped.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 3,
+      "startTime": 1182.0,
+      "endTime": 1187.42,
+      "text": "But don't you think you ought to deliver it rather than me? It's mainly your work.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 3,
+      "startTime": 1187.42,
+      "endTime": 1190.0,
+      "text": "OK, so let's do it that way then. Good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 3,
+      "startTime": 1190.0,
+      "endTime": 1195.02,
+      "text": "What about the researcher profiles? Kathy Bryson and Alex Coburn's backgrounds?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 3,
+      "startTime": 1195.02,
+      "endTime": 1199.65,
+      "text": "I doubt we'll have time to look at them properly during the presentation.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 3,
+      "startTime": 1199.65,
+      "endTime": 1205.17,
+      "text": "I reckon we should just attach that bit to the written report we've given to the tutor.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 3,
+      "startTime": 1205.17,
+      "endTime": 1210.0,
+      "text": "So, cut it? Let's rehearse the whole presentation and see if it's necessary.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 3,
+      "startTime": 1211.0,
+      "endTime": 1215.28,
+      "text": "What about the section on automation? Aren't you happy with it?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 3,
+      "startTime": 1215.28,
+      "endTime": 1221.74,
+      "text": "I'm thinking I haven't really given equal attention to the pros and cons. I should start again.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 3,
+      "startTime": 1221.74,
+      "endTime": 1225.0,
+      "text": "Well, let's have a bit more of a think about it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 3,
+      "startTime": 1225.0,
+      "endTime": 1228.38,
+      "text": "You don't want to rush into a big job like that.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 3,
+      "startTime": 1228.38,
+      "endTime": 1235.06,
+      "text": "Another thing is the section on workplace structure. I think we've got some good points, but...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 3,
+      "startTime": 1235.06,
+      "endTime": 1239.0,
+      "text": "We're only using one particular company as a case study.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 3,
+      "startTime": 1239.0,
+      "endTime": 1243.01,
+      "text": "We need to source some other situations as supporting material.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 3,
+      "startTime": 1243.01,
+      "endTime": 1249.0,
+      "text": "So perhaps we could both do a search and compare notes. And choose the most interesting cases.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 3,
+      "startTime": 1249.0,
+      "endTime": 1253.14,
+      "text": "And the section on tracking technology. Are we happy with that?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 3,
+      "startTime": 1253.14,
+      "endTime": 1256.69,
+      "text": "It would definitely benefit from some photos. Hang on.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 3,
+      "startTime": 1256.69,
+      "endTime": 1259.98,
+      "text": "There's no point using images just for decoration.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 3,
+      "startTime": 1259.98,
+      "endTime": 1264.85,
+      "text": "We need to think about whether they'd serve any real purpose. Fair enough.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 3,
+      "startTime": 1264.85,
+      "endTime": 1267.94,
+      "text": "Let's make a decision on that at a later stage.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 3,
+      "startTime": 1267.94,
+      "endTime": 1274.0,
+      "text": "And that interview we did with the company manager. Yes, we were lucky she gave us her time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 3,
+      "startTime": 1274.0,
+      "endTime": 1278.72,
+      "text": "But I just want to be sure we wrote everything down accurately.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 3,
+      "startTime": 1278.72,
+      "endTime": 1281.87,
+      "text": "I wouldn't like to misrepresent her views.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 3,
+      "startTime": 1281.87,
+      "endTime": 1286.0,
+      "text": "Maybe I should type up that section and send it to her.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 3,
+      "startTime": 1286.0,
+      "endTime": 1291.0,
+      "text": "So she can confirm whether or not it's correct. Yes, that's a good idea. Go ahead.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-193",
+      "part": 4,
+      "startTime": 1291.0,
+      "endTime": 1309.83,
+      "text": "You will hear an extract from a talk entitled Health on the Night Shift.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-194",
+      "part": 4,
+      "startTime": 1309.83,
+      "endTime": 1328.66,
+      "text": "First you have some time to look at questions 31 to 40 on pages 8 and 9.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-195",
+      "part": 4,
+      "startTime": 1328.66,
+      "endTime": 1342.0,
+      "text": "Now listen carefully and answer questions 31 to 40.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-196",
+      "part": 4,
+      "startTime": 1342.0,
+      "endTime": 1343.68,
+      "text": "Good afternoon, everybody.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-197",
+      "part": 4,
+      "startTime": 1343.68,
+      "endTime": 1349.24,
+      "text": "In this session I want to continue looking at health issues relating to the workplace.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-198",
+      "part": 4,
+      "startTime": 1349.24,
+      "endTime": 1357.0,
+      "text": "And I'd like to focus today on night shift workers and the health problems that are associated with their working hours.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-199",
+      "part": 4,
+      "startTime": 1357.0,
+      "endTime": 1365.49,
+      "text": "I'm sure you're all aware that there has been a huge increase in the number of workers doing regular night shifts in recent years,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-200",
+      "part": 4,
+      "startTime": 1365.49,
+      "endTime": 1370.98,
+      "text": "mainly because of the number of shops and services now open 24 hours, 7 days a week.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-201",
+      "part": 4,
+      "startTime": 1370.98,
+      "endTime": 1377.45,
+      "text": "And we need to look more closely at the consequences of changing work and sleep patterns like this.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-202",
+      "part": 4,
+      "startTime": 1377.45,
+      "endTime": 1380.0,
+      "text": "So that's what I'd like us to do today.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-203",
+      "part": 4,
+      "startTime": 1381.0,
+      "endTime": 1394.2,
+      "text": "Now, research that has been carried out in both the U.S. and Britain on night working suggests that it leads to a lot of health problems for the workers, and they point to three main reasons for this.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-204",
+      "part": 4,
+      "startTime": 1394.2,
+      "endTime": 1397.57,
+      "text": "The first one is what they call the internal clock.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-205",
+      "part": 4,
+      "startTime": 1397.57,
+      "endTime": 1401.0,
+      "text": "And this is a basic sort of programme in our brains.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-206",
+      "part": 4,
+      "startTime": 1401.0,
+      "endTime": 1411.05,
+      "text": "This tells us that at certain times we should feel hungry, at other times we should be awake, at other times we should be asleep, and so on.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-207",
+      "part": 4,
+      "startTime": 1411.05,
+      "endTime": 1422.82,
+      "text": "And it seems to be generally accepted by all the experts in the field that this clock is linked to not just our behavioural habits, but to cycles of light and dark.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-208",
+      "part": 4,
+      "startTime": 1422.82,
+      "endTime": 1431.0,
+      "text": "And that means that we're programmed to be awake when it's light, i.e., during the day, and asleep when it's dark.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-209",
+      "part": 4,
+      "startTime": 1431.0,
+      "endTime": 1438.5,
+      "text": "The second thing is that night workers are continually fighting against what is termed a sleep debt.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-210",
+      "part": 4,
+      "startTime": 1438.5,
+      "endTime": 1448.62,
+      "text": "And by this, the researchers mean that it's just practically impossible for them to get a sufficient amount of sleep in daylight hours.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-211",
+      "part": 4,
+      "startTime": 1448.62,
+      "endTime": 1458.0,
+      "text": "In fact, studies suggest that on average, night workers only get between 5 and 6 hours of sleep, rather than the 8 they need.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-212",
+      "part": 4,
+      "startTime": 1459.0,
+      "endTime": 1466.24,
+      "text": "And the effects of not getting enough sleep can also lead to all sorts of problems, and we'll talk about those in a minute.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-213",
+      "part": 4,
+      "startTime": 1466.24,
+      "endTime": 1471.42,
+      "text": "The third cause of these problems is the unsocial hours that night workers have to keep.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-214",
+      "part": 4,
+      "startTime": 1471.42,
+      "endTime": 1477.0,
+      "text": "The fact that they are working when their families, their friends are sleeping, and vice versa.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-215",
+      "part": 4,
+      "startTime": 1477.0,
+      "endTime": 1483.38,
+      "text": "And that kind of dislocation from their social group can be very damaging.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-216",
+      "part": 4,
+      "startTime": 1483.38,
+      "endTime": 1488.47,
+      "text": "Okay, so let's take a closer look at some of these effects.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-217",
+      "part": 4,
+      "startTime": 1488.47,
+      "endTime": 1492.96,
+      "text": "And if we have a look at the physical effects first,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-218",
+      "part": 4,
+      "startTime": 1492.96,
+      "endTime": 1504.0,
+      "text": "we can see that studies on long-term shift workers found that they were much more likely to get heart problems than day workers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-219",
+      "part": 4,
+      "startTime": 1505.0,
+      "endTime": 1513.66,
+      "text": "In addition, there seems to be a very high incidence of stomach problems, for example, ulcers among night shift workers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-220",
+      "part": 4,
+      "startTime": 1513.66,
+      "endTime": 1523.76,
+      "text": "And although this may be partly due to the wrong sort of diet, you know, snacking on fast food, it can't be just explained by eating habits.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-221",
+      "part": 4,
+      "startTime": 1523.76,
+      "endTime": 1534.0,
+      "text": "And finally, there is evidence to suggest that night shift workers also get ill more frequently with minor problems like colds and infections.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-222",
+      "part": 4,
+      "startTime": 1534.0,
+      "endTime": 1544.1,
+      "text": "The frequency of these illnesses is much higher than among day workers, and this indicates that night working can damage immunity to illness.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-223",
+      "part": 4,
+      "startTime": 1544.1,
+      "endTime": 1548.4,
+      "text": "And of course, this leads to a lot of absence from work too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-224",
+      "part": 4,
+      "startTime": 1548.4,
+      "endTime": 1557.0,
+      "text": "However, although the physical impact of working nights can be severe, perhaps the real problems are psychological ones.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-225",
+      "part": 4,
+      "startTime": 1558.0,
+      "endTime": 1560.95,
+      "text": "And the most common problem is depression.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-226",
+      "part": 4,
+      "startTime": 1560.95,
+      "endTime": 1570.79,
+      "text": "This seems to be the inevitable result of the constant feeling of tiredness and a lack of energy that night workers universally complain of.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-227",
+      "part": 4,
+      "startTime": 1570.79,
+      "endTime": 1578.8,
+      "text": "Secondly, there is a lot of evidence from accident statistics to suggest that mental abilities are badly affected,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-228",
+      "part": 4,
+      "startTime": 1578.8,
+      "endTime": 1584.0,
+      "text": "and that means, for example, decision-making ability and planning ability.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-229",
+      "part": 4,
+      "startTime": 1584.0,
+      "endTime": 1587.32,
+      "text": "And these are what control our performance.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-230",
+      "part": 4,
+      "startTime": 1587.32,
+      "endTime": 1595.27,
+      "text": "For example, we can see that the highest number of errors on the roads occur between 3 a.m. and 5 a.m.,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-231",
+      "part": 4,
+      "startTime": 1595.27,
+      "endTime": 1599.67,
+      "text": "the point in our internal clock when we feel most sleepy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-232",
+      "part": 4,
+      "startTime": 1599.67,
+      "endTime": 1609.0,
+      "text": "Okay, finally, there are the social problems, where night working impacts on the family and social life of the employees.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-233",
+      "part": 4,
+      "startTime": 1609.0,
+      "endTime": 1612.78,
+      "text": "The first one is obviously the breakup of family life,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-234",
+      "part": 4,
+      "startTime": 1612.78,
+      "endTime": 1620.48,
+      "text": "and here we can see from the divorce statistics that this occurs more frequently in the case of night workers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-235",
+      "part": 4,
+      "startTime": 1620.48,
+      "endTime": 1628.04,
+      "text": "But there's also the breakdown of other relationships, not just within the family, but among the peer group.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-236",
+      "part": 4,
+      "startTime": 1628.04,
+      "endTime": 1636.09,
+      "text": "Night workers tend to lose touch with friends, and these relationships, especially for the long-term night workers,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-237",
+      "part": 4,
+      "startTime": 1636.09,
+      "endTime": 1643.0,
+      "text": "are very difficult to rebuild, and so this eventually leads to social isolation for the individual.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-238",
+      "part": 4,
+      "startTime": 1644.0,
+      "endTime": 1649.85,
+      "text": "And, of course, that has consequences for the whole community too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-239",
+      "part": 4,
+      "startTime": 1649.85,
+      "endTime": 1658.0,
+      "text": "So, we can begin to see the real cost of night working. What we need to do now is to look...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-240",
+      "part": 4,
+      "startTime": 1658.0,
+      "endTime": 1665.0,
+      "text": "That is the end of Section 4. You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-241",
+      "part": 4,
+      "startTime": 1696.0,
+      "endTime": 1704.0,
+      "text": "That is the end of the listening test. You now have 10 minutes to transfer your answers to the listening answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 1.0,
+      "endTime": 19.0,
+      "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions, and you will have a chance to check your work. All the recordings will be played once only.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 20.0,
+      "endTime": 43.23,
+      "text": "The test is in four parts. Write all your answers in the listening question booklet. At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet. Now turn to part one on page two of your question booklet. Part one.",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 43.23,
+      "endTime": 71.47,
+      "text": "You will hear a telephone conversation between a woman and a park ranger. First you have some time to look at questions one to five. Now listen carefully and answer questions one to five.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008",
+        "seg-009"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 71.47,
+      "endTime": 100.0,
+      "text": "Almond Valley Poppy Reserve, may I help you? Is the Nature Reserve open now? Yes, we are actually open all year, although this is the best time of year to see the wildflowers.",
+      "segmentIds": [
+        "seg-010",
+        "seg-011",
+        "seg-012"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 100.0,
+      "endTime": 121.0,
+      "text": "Are the poppies blooming yet? Absolutely. They started to bloom last week and are already beautiful, but they should peak and be in full bloom at the end of the month. Oh, I was planning on coming at the end of this week. Is that too early? No, not at all. The hills are already covered with orange poppies. I thought poppies were red.",
+      "segmentIds": [
+        "seg-013",
+        "seg-014",
+        "seg-015",
+        "seg-016"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 122.0,
+      "endTime": 141.28,
+      "text": "Not in California. I've never seen a red poppy here. The poppy reserve is in Ocean County, right? Right. From Lakeside, you'll need to drive about an hour east. What time does the reserve open? The reserve is open from sunrise to sunset. It's best to come early in the morning to beat the crowds, but for the best photography,",
+      "segmentIds": [
+        "seg-017",
+        "seg-018",
+        "seg-019",
+        "seg-020",
+        "seg-021"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 141.28,
+      "endTime": 161.0,
+      "text": "you might want to consider a mid-afternoon visit on a weekday. I heard that there are a lot of rattlesnakes in the desert. Is it dangerous to walk about? Most wildlife is quite safe. There are very few people bitten by rattlesnakes, so we do recommend wearing trousers just to be on the safe side.",
+      "segmentIds": [
+        "seg-022",
+        "seg-023",
+        "seg-024",
+        "seg-025"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 161.0,
+      "endTime": 184.0,
+      "text": "All right. I was hoping that I might have the chance to see some wildlife too. Oh, how much is the admission to the reserve? It's $5. Can I use my National Park Pass to enter the reserve? Unfortunately not, since it is a state park, not a national park. All right. I heard from a friend that there is a nature tour available.",
+      "segmentIds": [
+        "seg-026",
+        "seg-027",
+        "seg-028",
+        "seg-029",
+        "seg-030"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 185.0,
+      "endTime": 201.0,
+      "text": "Can you tell me about it? Certainly, but can you excuse me just a sec? I'll be right back. Okay. Before you hear the rest of the conversation, you have some time to look at questions 6 to 10.",
+      "segmentIds": [
+        "seg-031",
+        "seg-032",
+        "seg-033"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 201.0,
+      "endTime": 233.47,
+      "text": "Now listen and answer questions 6 to 10. Hello? Yes, I'm still here. Now, you are interested in the nature tours, right?",
+      "segmentIds": [
+        "seg-034",
+        "seg-035",
+        "seg-036"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 233.47,
+      "endTime": 255.0,
+      "text": "Oh, there's more than one? Yes. We have the general tour, which is the one your friend may have taken, but we also have two more specialised tours. Starting at 7.30 a.m. is our general tour. That's early for some people, I know.",
+      "segmentIds": [
+        "seg-037",
+        "seg-038",
+        "seg-039"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 255.0,
+      "endTime": 277.12,
+      "text": "It's offered every hour too. But it's a great time, and it only lasts 30 minutes. Is that the tour that takes you to the vista points? Yes, that is one of the highlights, along with a film introducing the park and the museum. You're welcome to tour the museum at your leisure. It's a great tour for those who just want to take panoramic pictures with automatic cameras.",
+      "segmentIds": [
+        "seg-040",
+        "seg-041",
+        "seg-042",
+        "seg-043",
+        "seg-044"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 277.12,
+      "endTime": 299.07,
+      "text": "Well, if I come all that way, I'd like to have a more detailed tour. Then you are in luck, because we have a wonderful wildflower tour every two hours from 8 a.m. It lasts one hour, and the volunteer will give you information about many of the flowers on the reserve. Besides the poppies, will cream cups be in bloom? Yes, and you will see lots of sage too.",
+      "segmentIds": [
+        "seg-045",
+        "seg-046",
+        "seg-047",
+        "seg-048"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 299.07,
+      "endTime": 321.85,
+      "text": "We have a volunteer who is really good at giving tips on close-up photography. You mentioned another tour. Yes, the last one is the wildlife tour, but it is offered at very limited times. Is that because most of the wildlife is nocturnal? Yes, so we offer this tour only two times, 5.30 a.m. or 7 p.m. Wow, that early?",
+      "segmentIds": [
+        "seg-049",
+        "seg-050",
+        "seg-051",
+        "seg-052",
+        "seg-053"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 321.85,
+      "endTime": 343.0,
+      "text": "But don't the snakes and lizards like the sun? Right. First, let me say it takes about an hour and a half, but you will have the opportunity to see other animals, like coyotes, quail, and roadrunners. You have to get here before the crowds arrive or after most of them leave. Well, that makes sense.",
+      "segmentIds": [
+        "seg-054",
+        "seg-055",
+        "seg-056",
+        "seg-057"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 344.0,
+      "endTime": 364.0,
+      "text": "Does it require a lot of walking? More like a lot of standing, but most of the time you will be at one or two locations, so we recommend bringing a tripod and zoom lens if you want to take pictures. Well, thank you very much. You've been extremely helpful and informative. You're welcome. Glad I could be of service. Goodbye.",
+      "segmentIds": [
+        "seg-058",
+        "seg-059",
+        "seg-060",
+        "seg-061",
+        "seg-062"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 1,
+      "startTime": 365.0,
+      "endTime": 398.24,
+      "text": "Goodbye. That is the end of Part 1.",
+      "segmentIds": [
+        "seg-063",
+        "seg-064"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 1,
+      "startTime": 398.24,
+      "endTime": 453.0,
+      "text": "You now have one minute to check your answers to Part 1.",
+      "segmentIds": [
+        "seg-065"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 2,
+      "startTime": 453.0,
+      "endTime": 492.24,
+      "text": "You will hear a talk by a volunteer who has been taking part in a project to find out what everyday life was like 2,500 years ago in Britain during the time known as the Iron Age. First, you have some time to look at questions 11 to 15. Now listen carefully and answer questions 11 to 15.",
+      "segmentIds": [
+        "seg-066",
+        "seg-067",
+        "seg-068"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 492.24,
+      "endTime": 527.43,
+      "text": "Jim Stevens has been taking part in an experiment to find out what everyday life was like in Britain over 2,500 years ago in the period of history we call the Iron Age. He is one of a group of volunteers who have been living for the last six months in the sort of village that people inhabited in those days and following the sort of daily routine that ordinary people followed them. So Jim, tell us what you do on a typical day.",
+      "segmentIds": [
+        "seg-069",
+        "seg-070",
+        "seg-071"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-021",
+      "part": 2,
+      "startTime": 527.43,
+      "endTime": 549.97,
+      "text": "A typical day in the Iron Age village begins with rising at first light. I occasionally did that when I was at home because I loved having time to myself before the family got up. But here I do it every day because it's so light. Others also get up early because they find the straw beds rather cold.",
+      "segmentIds": [
+        "seg-072",
+        "seg-073",
+        "seg-074",
+        "seg-075"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 549.97,
+      "endTime": 568.31,
+      "text": "We start work immediately, usually tending to our fires which have died down in the night. I feed the cattle before starting to get breakfast ready, usually porridge that's been soaked the night before. It sounds horrid, doesn't it? But it's not so bad.",
+      "segmentIds": [
+        "seg-076",
+        "seg-077",
+        "seg-078"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-023",
+      "part": 2,
+      "startTime": 568.31,
+      "endTime": 590.32,
+      "text": "As it takes such a long time to cook anything, we end up eating only twice a day. We have a late breakfast after a morning's work and then in the evening we gather together as a community. Although the evening meal provides a chance for us to chat about the day, it can be quite chilly so we go to bed pretty early.",
+      "segmentIds": [
+        "seg-079",
+        "seg-080",
+        "seg-081"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 2,
+      "startTime": 590.32,
+      "endTime": 610.0,
+      "text": "I think we're always hungry because we use much more energy than usual. It's all the physical exertion. A lot of time is spent just trying to get enough to eat, looking for berries and fruit and things like that. There are lots of other jobs to be done, like cooking, finding wood and keeping the fires going.",
+      "segmentIds": [
+        "seg-082",
+        "seg-083",
+        "seg-084",
+        "seg-085"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 611.0,
+      "endTime": 630.0,
+      "text": "The biggest priority for the blacksmiths working the forge is to tend the fire and to get it nice and hot so they can carry out their tasks. They've got various things to make, tools, cooking implements and so on. So life here is about looking after the animals and looking after ourselves.",
+      "segmentIds": [
+        "seg-086",
+        "seg-087",
+        "seg-088"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 632.0,
+      "endTime": 652.77,
+      "text": "Everybody's always doing something round the fire as well. It's not as if we're just sitting there chatting. Just living, surviving takes up most of our time. And actually it's quite difficult to fit in other things around it. For example, you might be breaking hazelnuts, spinning some wool or just doing things like straining milk.",
+      "segmentIds": [
+        "seg-089",
+        "seg-090",
+        "seg-091",
+        "seg-092",
+        "seg-093"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 652.77,
+      "endTime": 692.0,
+      "text": "Here you're finding out how to do different things every day, which keeps you on your toes and keeps you interested. Before you hear the rest of the talk, you have some time to look at questions 16 to 20. Now listen and answer questions 16 to 20.",
+      "segmentIds": [
+        "seg-094",
+        "seg-095",
+        "seg-096"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 692.0,
+      "endTime": 716.73,
+      "text": "And I understand that you even built your own houses to live in. Round houses built in just the same way that archaeologists think that Iron Age people constructed them. So tell us exactly how you build an Iron Age round house.",
+      "segmentIds": [
+        "seg-097",
+        "seg-098",
+        "seg-099"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 716.73,
+      "endTime": 735.82,
+      "text": "It's a bit like putting up a tent at first, but without the benefit of ready-made metal poles. You mark the centre of your house with a wooden peg. What you do then is loop a length of rope around it and mark out the circle to give you the outer boundary of your building.",
+      "segmentIds": [
+        "seg-100",
+        "seg-101",
+        "seg-102"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 735.82,
+      "endTime": 756.0,
+      "text": "Once you've got this, you then have to dig out the ground ready for the wall. And in Iron Age times, people didn't have shovels or diggers like we do today, but used tools which they fashioned from animal bone. It must have been quite hard work. Next, you have to start on the wall.",
+      "segmentIds": [
+        "seg-103",
+        "seg-104",
+        "seg-105"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 2,
+      "startTime": 757.0,
+      "endTime": 778.0,
+      "text": "Although there were several native trees around, like the ash and the elm, the ancients preferred oak for the wall posts, which they knocked into the circle they had dug. Don't forget to leave room for the entrance, otherwise you won't be able to get into the house. Now you can begin to see the wall of the house developing.",
+      "segmentIds": [
+        "seg-106",
+        "seg-107",
+        "seg-108",
+        "seg-109"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 2,
+      "startTime": 779.0,
+      "endTime": 798.0,
+      "text": "To create the framework for the final wall, the stakes were not nailed or glued onto each other as they might be today. Instead, ones with holes cut into each end are slotted over the upright posts, making what to us looks like a fence. This procedure creates a very firm structure.",
+      "segmentIds": [
+        "seg-110",
+        "seg-111",
+        "seg-112"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 2,
+      "startTime": 799.0,
+      "endTime": 819.75,
+      "text": "To support the large roof, first you need to put up a good-sized centre post, which is secured with ropes and pegs. But it's not only this which is relied upon to hold up the roof, so the next thing you have to do is build around the post a timber scaffold tower, similar to the metal ones used in Britain today.",
+      "segmentIds": [
+        "seg-113",
+        "seg-114",
+        "seg-115"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 2,
+      "startTime": 819.75,
+      "endTime": 842.4,
+      "text": "This temporary structure of wooden poles enables you to put up the main supporting beams, which are then tied together with rope and fixed to the wall plate at the bottom of the fence. The top part of this tent-like construction is strengthened with two ring beams. Now the framework for the roof has to be completed.",
+      "segmentIds": [
+        "seg-116",
+        "seg-117",
+        "seg-118",
+        "seg-119"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 2,
+      "startTime": 842.4,
+      "endTime": 863.0,
+      "text": "Rather like weaving a basket using rods from the willow tree, hazel wood rods are linked to the beams in parallel hoops. Now you can see the house in skeletal form. The tricky bit is thatching the roof because it requires great skill. I find this very difficult.",
+      "segmentIds": [
+        "seg-120",
+        "seg-121",
+        "seg-122",
+        "seg-123"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 2,
+      "startTime": 864.0,
+      "endTime": 880.0,
+      "text": "First you take reed bundles and cut them so that each is of equal length. Then you must fix them firmly so they won't blow away in heavy winds. The final part of the process is the daubing, which in effect is like modern day plastering. Sounds like a plan. OK, and we... That is the end of Part 2. You now have 30 seconds to check your answers to Part 2.",
+      "segmentIds": [
+        "seg-124",
+        "seg-125",
+        "seg-126",
+        "seg-127",
+        "seg-128"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 881.0,
+      "endTime": 914.16,
+      "text": "Whereas today we use plaster and paint or wallpaper, the Iron Age people had a mixture of clay, cow dung and straw, which they daubed all over the inside and outside to give the house a smooth finish.",
+      "segmentIds": [
+        "seg-129",
+        "seg-130"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 914.16,
+      "endTime": 947.0,
+      "text": "You will hear two business students called Emma and Nick preparing for their presentation on the topic of how jobs might change in the future. First you have some time to look at questions 21 to 24.",
+      "segmentIds": [
+        "seg-131",
+        "seg-132"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 978.0,
+      "endTime": 997.0,
+      "text": "Now listen carefully and answer questions 21 to 24. OK Nick, the title of our presentation is How Jobs Might Change in the Future. Shall we look at the research we've done so far? I was just watching an interview with Alex Coburn.",
+      "segmentIds": [
+        "seg-133",
+        "seg-134",
+        "seg-135",
+        "seg-136"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 998.0,
+      "endTime": 1019.2,
+      "text": "Go on. He talked about a company with a call centre for dealing with complaints. Instead of following a script with a list of questions they had to ask, the call centre employees were told they could deal with complaints however they wanted, which went down well with them. That's not a common approach these days. But apparently it worked.",
+      "segmentIds": [
+        "seg-137",
+        "seg-138",
+        "seg-139",
+        "seg-140"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 3,
+      "startTime": 1019.2,
+      "endTime": 1036.42,
+      "text": "Customers were happier with the new methods. Really? That's certainly not the result you'd expect. We'll definitely have to use that example. Maybe. What about Gerry Kaplan's report? He argues there'll be plenty of jobs not suitable for machines.",
+      "segmentIds": [
+        "seg-141",
+        "seg-142",
+        "seg-143",
+        "seg-144",
+        "seg-145"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 1036.42,
+      "endTime": 1055.15,
+      "text": "Like, a machine might be able to diagnose your disease, but patients will always want to talk face to face with their doctor. I suppose it's something to do with the fact that a human can empathise, but a machine can't. Right. Now, there's that article called The Human Cloud.",
+      "segmentIds": [
+        "seg-146",
+        "seg-147",
+        "seg-148"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-043",
+      "part": 3,
+      "startTime": 1055.15,
+      "endTime": 1077.0,
+      "text": "It describes the growing numbers of people being employed as contractors to do online tasks at a distance. Well, that could be good for the companies. They can choose the most expert people available, and they get cheap labour and no costs except wages. But for the workers, it may mean less money.",
+      "segmentIds": [
+        "seg-149",
+        "seg-150",
+        "seg-151",
+        "seg-152"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 3,
+      "startTime": 1078.0,
+      "endTime": 1099.36,
+      "text": "On the other hand, I love the idea of working from home in a time that suits. It's certainly controversial. Another article was the one looking at how employers will use technology to record what their employees are doing. So awful. Cameras in the workplace checking on where you are, software that tells your boss who you've been emailing.",
+      "segmentIds": [
+        "seg-153",
+        "seg-154",
+        "seg-155",
+        "seg-156",
+        "seg-157"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 3,
+      "startTime": 1099.36,
+      "endTime": 1118.0,
+      "text": "When we talk about this, I want to make clear how this affects people's personal privacy. Did you read how some companies are tracking the health of their employees? Surely workers won't accept that. Yes, I'd be very surprised if this became common. Too many employees would refuse.",
+      "segmentIds": [
+        "seg-158",
+        "seg-159",
+        "seg-160",
+        "seg-161"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-046",
+      "part": 3,
+      "startTime": 1121.0,
+      "endTime": 1150.87,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30.",
+      "segmentIds": [
+        "seg-162"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 3,
+      "startTime": 1150.87,
+      "endTime": 1174.0,
+      "text": "Now listen and answer questions 25 to 30. OK. There's some aspects of the presentation we still need to think about. Yes, there are a few issues. Let's go through them one by one.",
+      "segmentIds": [
+        "seg-163",
+        "seg-164",
+        "seg-165",
+        "seg-166"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 3,
+      "startTime": 1174.0,
+      "endTime": 1195.02,
+      "text": "OK. What about the introduction then? Well, we've sorted out the content. Your editing has helped. But don't you think you ought to deliver it rather than me? It's mainly your work. OK, so let's do it that way then. Good. What about the researcher profiles? Kathy Bryson and Alex Coburn's backgrounds?",
+      "segmentIds": [
+        "seg-167",
+        "seg-168",
+        "seg-169",
+        "seg-170",
+        "seg-171"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-049",
+      "part": 3,
+      "startTime": 1195.02,
+      "endTime": 1215.28,
+      "text": "I doubt we'll have time to look at them properly during the presentation. I reckon we should just attach that bit to the written report we've given to the tutor. So, cut it? Let's rehearse the whole presentation and see if it's necessary. What about the section on automation? Aren't you happy with it?",
+      "segmentIds": [
+        "seg-172",
+        "seg-173",
+        "seg-174",
+        "seg-175"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-050",
+      "part": 3,
+      "startTime": 1215.28,
+      "endTime": 1239.0,
+      "text": "I'm thinking I haven't really given equal attention to the pros and cons. I should start again. Well, let's have a bit more of a think about it. You don't want to rush into a big job like that. Another thing is the section on workplace structure. I think we've got some good points, but... We're only using one particular company as a case study.",
+      "segmentIds": [
+        "seg-176",
+        "seg-177",
+        "seg-178",
+        "seg-179",
+        "seg-180"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-051",
+      "part": 3,
+      "startTime": 1239.0,
+      "endTime": 1259.98,
+      "text": "We need to source some other situations as supporting material. So perhaps we could both do a search and compare notes. And choose the most interesting cases. And the section on tracking technology. Are we happy with that? It would definitely benefit from some photos. Hang on. There's no point using images just for decoration.",
+      "segmentIds": [
+        "seg-181",
+        "seg-182",
+        "seg-183",
+        "seg-184",
+        "seg-185"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-052",
+      "part": 3,
+      "startTime": 1259.98,
+      "endTime": 1281.87,
+      "text": "We need to think about whether they'd serve any real purpose. Fair enough. Let's make a decision on that at a later stage. And that interview we did with the company manager. Yes, we were lucky she gave us her time. But I just want to be sure we wrote everything down accurately. I wouldn't like to misrepresent her views.",
+      "segmentIds": [
+        "seg-186",
+        "seg-187",
+        "seg-188",
+        "seg-189",
+        "seg-190"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-053",
+      "part": 3,
+      "startTime": 1281.87,
+      "endTime": 1291.0,
+      "text": "Maybe I should type up that section and send it to her. So she can confirm whether or not it's correct. Yes, that's a good idea. Go ahead.",
+      "segmentIds": [
+        "seg-191",
+        "seg-192"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-054",
+      "part": 4,
+      "startTime": 1291.0,
+      "endTime": 1328.66,
+      "text": "You will hear an extract from a talk entitled Health on the Night Shift. First you have some time to look at questions 31 to 40 on pages 8 and 9.",
+      "segmentIds": [
+        "seg-193",
+        "seg-194"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-055",
+      "part": 4,
+      "startTime": 1328.66,
+      "endTime": 1349.24,
+      "text": "Now listen carefully and answer questions 31 to 40. Good afternoon, everybody. In this session I want to continue looking at health issues relating to the workplace.",
+      "segmentIds": [
+        "seg-195",
+        "seg-196",
+        "seg-197"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1349.24,
+      "endTime": 1370.98,
+      "text": "And I'd like to focus today on night shift workers and the health problems that are associated with their working hours. I'm sure you're all aware that there has been a huge increase in the number of workers doing regular night shifts in recent years, mainly because of the number of shops and services now open 24 hours, 7 days a week.",
+      "segmentIds": [
+        "seg-198",
+        "seg-199",
+        "seg-200"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-057",
+      "part": 4,
+      "startTime": 1370.98,
+      "endTime": 1394.2,
+      "text": "And we need to look more closely at the consequences of changing work and sleep patterns like this. So that's what I'd like us to do today. Now, research that has been carried out in both the U.S. and Britain on night working suggests that it leads to a lot of health problems for the workers, and they point to three main reasons for this.",
+      "segmentIds": [
+        "seg-201",
+        "seg-202",
+        "seg-203"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-058",
+      "part": 4,
+      "startTime": 1394.2,
+      "endTime": 1411.05,
+      "text": "The first one is what they call the internal clock. And this is a basic sort of programme in our brains. This tells us that at certain times we should feel hungry, at other times we should be awake, at other times we should be asleep, and so on.",
+      "segmentIds": [
+        "seg-204",
+        "seg-205",
+        "seg-206"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-059",
+      "part": 4,
+      "startTime": 1411.05,
+      "endTime": 1438.5,
+      "text": "And it seems to be generally accepted by all the experts in the field that this clock is linked to not just our behavioural habits, but to cycles of light and dark. And that means that we're programmed to be awake when it's light, i.e., during the day, and asleep when it's dark. The second thing is that night workers are continually fighting against what is termed a sleep debt.",
+      "segmentIds": [
+        "seg-207",
+        "seg-208",
+        "seg-209"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-060",
+      "part": 4,
+      "startTime": 1438.5,
+      "endTime": 1466.24,
+      "text": "And by this, the researchers mean that it's just practically impossible for them to get a sufficient amount of sleep in daylight hours. In fact, studies suggest that on average, night workers only get between 5 and 6 hours of sleep, rather than the 8 they need. And the effects of not getting enough sleep can also lead to all sorts of problems, and we'll talk about those in a minute.",
+      "segmentIds": [
+        "seg-210",
+        "seg-211",
+        "seg-212"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-061",
+      "part": 4,
+      "startTime": 1466.24,
+      "endTime": 1488.47,
+      "text": "The third cause of these problems is the unsocial hours that night workers have to keep. The fact that they are working when their families, their friends are sleeping, and vice versa. And that kind of dislocation from their social group can be very damaging. Okay, so let's take a closer look at some of these effects.",
+      "segmentIds": [
+        "seg-213",
+        "seg-214",
+        "seg-215",
+        "seg-216"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-062",
+      "part": 4,
+      "startTime": 1488.47,
+      "endTime": 1513.66,
+      "text": "And if we have a look at the physical effects first, we can see that studies on long-term shift workers found that they were much more likely to get heart problems than day workers. In addition, there seems to be a very high incidence of stomach problems, for example, ulcers among night shift workers.",
+      "segmentIds": [
+        "seg-217",
+        "seg-218",
+        "seg-219"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-063",
+      "part": 4,
+      "startTime": 1513.66,
+      "endTime": 1544.1,
+      "text": "And although this may be partly due to the wrong sort of diet, you know, snacking on fast food, it can't be just explained by eating habits. And finally, there is evidence to suggest that night shift workers also get ill more frequently with minor problems like colds and infections. The frequency of these illnesses is much higher than among day workers, and this indicates that night working can damage immunity to illness.",
+      "segmentIds": [
+        "seg-220",
+        "seg-221",
+        "seg-222"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-064",
+      "part": 4,
+      "startTime": 1544.1,
+      "endTime": 1560.95,
+      "text": "And of course, this leads to a lot of absence from work too. However, although the physical impact of working nights can be severe, perhaps the real problems are psychological ones. And the most common problem is depression.",
+      "segmentIds": [
+        "seg-223",
+        "seg-224",
+        "seg-225"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-065",
+      "part": 4,
+      "startTime": 1560.95,
+      "endTime": 1584.0,
+      "text": "This seems to be the inevitable result of the constant feeling of tiredness and a lack of energy that night workers universally complain of. Secondly, there is a lot of evidence from accident statistics to suggest that mental abilities are badly affected, and that means, for example, decision-making ability and planning ability.",
+      "segmentIds": [
+        "seg-226",
+        "seg-227",
+        "seg-228"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-066",
+      "part": 4,
+      "startTime": 1584.0,
+      "endTime": 1599.67,
+      "text": "And these are what control our performance. For example, we can see that the highest number of errors on the roads occur between 3 a.m. and 5 a.m., the point in our internal clock when we feel most sleepy.",
+      "segmentIds": [
+        "seg-229",
+        "seg-230",
+        "seg-231"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-067",
+      "part": 4,
+      "startTime": 1599.67,
+      "endTime": 1620.48,
+      "text": "Okay, finally, there are the social problems, where night working impacts on the family and social life of the employees. The first one is obviously the breakup of family life, and here we can see from the divorce statistics that this occurs more frequently in the case of night workers.",
+      "segmentIds": [
+        "seg-232",
+        "seg-233",
+        "seg-234"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-068",
+      "part": 4,
+      "startTime": 1620.48,
+      "endTime": 1643.0,
+      "text": "But there's also the breakdown of other relationships, not just within the family, but among the peer group. Night workers tend to lose touch with friends, and these relationships, especially for the long-term night workers, are very difficult to rebuild, and so this eventually leads to social isolation for the individual.",
+      "segmentIds": [
+        "seg-235",
+        "seg-236",
+        "seg-237"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-069",
+      "part": 4,
+      "startTime": 1644.0,
+      "endTime": 1665.0,
+      "text": "And, of course, that has consequences for the whole community too. So, we can begin to see the real cost of night working. What we need to do now is to look... That is the end of Section 4. You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-238",
+        "seg-239",
+        "seg-240"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-070",
+      "part": 4,
+      "startTime": 1696.0,
+      "endTime": 1704.0,
+      "text": "That is the end of the listening test. You now have 10 minutes to transfer your answers to the listening answer sheet.",
+      "segmentIds": [
+        "seg-241"
+      ],
+      "timestampSource": "exact"
+    }
+  ]
+}

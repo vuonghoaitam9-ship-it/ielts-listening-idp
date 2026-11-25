@@ -1,0 +1,3476 @@
+{
+  "id": "vol-9-test-8",
+  "vol": 9,
+  "testNumber": 8,
+  "title": "Vol 9 — Test 8",
+  "pdfUrl": "./data/vol-9/test-8/exam.pdf",
+  "pdfPages": 6,
+  "questionPageRange": [
+    1,
+    6
+  ],
+  "audioUrl": "./data/vol-9/test-8/audio.mp3",
+  "audioDurationSec": 1506.43,
+  "hasExactTimestamps": true,
+  "timestampNote": "Mốc thời gian trích xuất trực tiếp từ transcript gốc.",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Part 1",
+      "questionRange": [
+        1,
+        10
+      ],
+      "startTime": 3.0,
+      "endTime": 386.0,
+      "topicHint": "Section 1 (Questions 1-10)"
+    },
+    {
+      "partNumber": 2,
+      "title": "Part 2",
+      "questionRange": [
+        11,
+        20
+      ],
+      "startTime": 386.0,
+      "endTime": 706.0,
+      "topicHint": "You will hear a principal of a school talking to a group of parents about a three-day trip for pupils to an outdoor education centre."
+    },
+    {
+      "partNumber": 3,
+      "title": "Part 3",
+      "questionRange": [
+        21,
+        30
+      ],
+      "startTime": 761.0,
+      "endTime": 1042.0,
+      "topicHint": "Section 3 (Questions 21-30)"
+    },
+    {
+      "partNumber": 4,
+      "title": "Part 4",
+      "questionRange": [
+        31,
+        40
+      ],
+      "startTime": 1087.0,
+      "endTime": 1506.43,
+      "topicHint": "You will hear part of a lecture on rural development."
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "promptContext": "86 439251 Caller’s name: Robert 1 …………. Address: 27 2 …………. Moortown Postcode: DP17 5HJ Date of birth: 3 ………. , 1975 Doctor’s name: Dr Craven Doctor’s addres",
+      "answerRaw": "Ridyard",
+      "canonicalAnswer": "Ridyard",
+      "acceptedAnswers": [
+        "Ridyard"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And your surname? Ridyard. That's R-I-D-Y-A-R-D. And now your address, please?",
+      "evidenceStartTime": 114.7,
+      "evidenceEndTime": 123.26,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Ridyard\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "promptContext": "rt 1 …………. Address: 27 2 …………. Moortown Postcode: DP17 5HJ Date of birth: 3 ………. , 1975 Doctor’s name: Dr Craven Doctor’s address: Moortown Health Centre Reason",
+      "answerRaw": "Station Road",
+      "canonicalAnswer": "Station Road",
+      "acceptedAnswers": [
+        "Station Road"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's 27 Station Road. OK. Moortown. And do you need the postcode? Yes, please. D-P-17-5-H-J.",
+      "evidenceStartTime": 123.26,
+      "evidenceEndTime": 134.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Station Road\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "promptContext": "DP17 5HJ Date of birth: 3 ………. , 1975 Doctor’s name: Dr Craven Doctor’s address: Moortown Health Centre Reason for call: Pain in his 4 ………… back Previous history: Similar back p",
+      "answerRaw": "25th February,25 February,February 25th,February 25",
+      "canonicalAnswer": "25th February",
+      "acceptedAnswers": [
+        "25th February",
+        "25 February",
+        "February 25th",
+        "February 25"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And your date of birth? The 25th of February, 1975. Fine.",
+      "evidenceStartTime": 134.0,
+      "evidenceEndTime": 139.48,
+      "paraphrases": [],
+      "distractors": [
+        "Có số gây nhiễu (1975) xuất hiện sát đáp án chuẩn '25th February'."
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"25th February\". Lưu ý bẫy gây nhiễu (distractor): Có số gây nhiễu (1975) xuất hiện sát đáp án chuẩn '25th February'.."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "promptContext": "tre Reason for call: Pain in his 4 ………… back Previous history: Similar back problem in June last year Details of present problem: Started 5 …………. ago Got worse this 6 …………. No abdominal pain Possible cause: Lifting up a heavy 7",
+      "answerRaw": "Lower",
+      "canonicalAnswer": "Lower",
+      "acceptedAnswers": [
+        "Lower"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Can you tell me which part of the back? Lower. And have you had any problems with your back before? Yes.",
+      "evidenceStartTime": 156.62,
+      "evidenceEndTime": 163.65,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"Lower\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "promptContext": "Moortown Postcode: DP17 5HJ Date of birth: 3 ………. , 1975 Doctor’s name: Dr Craven Doctor’s address: Moortown Health Centre Reason for call: Pain in his 4 ………… back Previou",
+      "answerRaw": "three days,3 days",
+      "canonicalAnswer": "three days",
+      "acceptedAnswers": [
+        "three days",
+        "3 days"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "No, I've had it, let's see, since Monday, so that's three days now.",
+      "evidenceStartTime": 176.75,
+      "evidenceEndTime": 181.49,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"three days\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "promptContext": "esent problem: Started 5 …………. ago Got worse this 6 …………. No abdominal pain Possible cause: Lifting up a heavy 7 ………… Treatment already applied: Has applied heat Has taken 8 ………… Advice given: Try using 9 ……………. Go to doctor tomorrow Ask f",
+      "answerRaw": "afternoon",
+      "canonicalAnswer": "afternoon",
+      "acceptedAnswers": [
+        "afternoon"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Then this afternoon, the pain suddenly got so bad that I went to bed.",
+      "evidenceStartTime": 189.42,
+      "evidenceEndTime": 193.93,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"afternoon\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "promptContext": "ible cause: Lifting up a heavy 7 ………… Treatment already applied: Has applied heat Has taken 8 ………… Advice given: Try using 9 ……………. Go to doctor tomorrow Ask for information about 10 …………….",
+      "answerRaw": "box",
+      "canonicalAnswer": "box",
+      "acceptedAnswers": [
+        "box"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Well, I was tidying up my office, and I lifted a box up from the floor that was heavier than I thought, and I think that's what did it.",
+      "evidenceStartTime": 227.53,
+      "evidenceEndTime": 242.57,
+      "paraphrases": [],
+      "distractors": [
+        "suy đoán ban đầu ('thought') khác với thực tế"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"box\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "promptContext": "tment already applied: Has applied heat Has taken 8 ………… Advice given: Try using 9 ……………. Go to doctor tomorrow Ask for information about 10 …………….",
+      "answerRaw": "painkillers",
+      "canonicalAnswer": "painkillers",
+      "acceptedAnswers": [
+        "painkillers"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "That's usually the first thing I try. And have you taken any painkillers?",
+      "evidenceStartTime": 257.51,
+      "evidenceEndTime": 265.65,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"painkillers\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "promptContext": "………… Advice given: Try using 9 ……………. Go to doctor tomorrow Ask for information about 10 …………….",
+      "answerRaw": "ice",
+      "canonicalAnswer": "ice",
+      "acceptedAnswers": [
+        "ice"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Right. Now, I can't diagnose or prescribe any medication, but I can offer you some advice. One thing you could do now is to see if ice makes any difference.",
+      "evidenceStartTime": 273.0,
+      "evidenceEndTime": 284.0,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"ice\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "promptContext": "ng 9 ……………. Go to doctor tomorrow Ask for information about 10 …………….",
+      "answerRaw": "exercise",
+      "canonicalAnswer": "exercise",
+      "acceptedAnswers": [
+        "exercise"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "And you might get some advice from her about exercise. That's often the best way of dealing with this sort of problem. OK, I'll ask her.",
+      "evidenceStartTime": 314.78,
+      "evidenceEndTime": 323.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"exercise\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "promptContext": "answer. Preparing for a trip to an outdoor education center 11 A trip to the outdoor education center will help the children A create good relationships B manage without adult supervision C react positively to new challenges 12 To prepare their children for the trip, parents should A let them try sleeping in a tent at ho",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "You will hear a principal of a school talking to a group of parents about a three-day trip for pupils to an outdoor education centre.",
+      "evidenceStartTime": 386.23,
+      "evidenceEndTime": 387.0,
+      "paraphrases": [
+        {
+          "questionTerm": "children",
+          "audioTerm": "pupils"
+        }
+      ],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'children' ↔ 'pupils'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "promptContext": "thout adult supervision C react positively to new challenges 12 To prepare their children for the trip, parents should A let them try sleeping in a tent at home B make sure they get enough sleep before they leave C tell them that they will be in a tent with their friends 13 What do parents need to put in their children's",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "For some children, this will be their first time in a tent and away from home, so please prepare them.",
+      "evidenceStartTime": 453.0,
+      "evidenceEndTime": 459.71,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "promptContext": "e C tell them that they will be in a tent with their friends 13 What do parents need to put in their children's backpack? A plastic bags B snacks and biscuits C a small amount of money 14 What are children allowed to bring on the trip? A electronic games B cell phones C penknives 15 How are parents selected to attend the",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Electronic games are banned, so rather than bring one of these children should bring quiet board games.",
+      "evidenceStartTime": 527.63,
+      "evidenceEndTime": 534.41,
+      "paraphrases": [],
+      "distractors": [
+        "loại trừ phương án đối chiếu ('rather than')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "promptContext": "plastic bags B snacks and biscuits C a small amount of money 14 What are children allowed to bring on the trip? A electronic games B cell phones C penknives 15 How are parents selected to attend the trip? A The first ten parents to sign up will be able to go B Parents' names will be chosen from a box C Preference will be",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Electronic games are banned, so rather than bring one of these children should bring quiet board games.",
+      "evidenceStartTime": 527.63,
+      "evidenceEndTime": 534.41,
+      "paraphrases": [],
+      "distractors": [
+        "loại trừ phương án đối chiếu ('rather than')"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "promptContext": "ng on the trip? A electronic games B cell phones C penknives 15 How are parents selected to attend the trip? A The first ten parents to sign up will be able to go B Parents' names will be chosen from a box C Preference will be given to parents with camping skills 16 Payment for the trip A must be handed to the child's tea",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But then some parents have changed their minds. So, if you're absolutely sure you can come, put your name down on the sign-up form and the first ten will be asked to come.",
+      "evidenceStartTime": 546.0,
+      "evidenceEndTime": 558.62,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "promptContext": "ox C Preference will be given to parents with camping skills 16 Payment for the trip A must be handed to the child's teacher B can be left at the school office C should be made directly to the outdoor education center Questions 17–20 Label the map below Choose the correct letter, A-G, next to the questions 17-20. A B C D",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Payment to the centre is made by school, not by parents.",
+      "evidenceStartTime": 568.21,
+      "evidenceEndTime": 571.78,
+      "paraphrases": [],
+      "distractors": [
+        "câu phủ định ('not') loại trừ phương án bẫy"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "promptContext": "rect letter, A-G, next to the questions 17-20. A B C D E F G 17 Woodcarving studio 18 Emergency meeting point 19 Conservation center 20 Arts and crafts room",
+      "answerRaw": "E",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's crucial that children know where the emergency meeting point is.",
+      "evidenceStartTime": 649.3,
+      "evidenceEndTime": 654.16,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "promptContext": "to the questions 17-20. A B C D E F G 17 Woodcarving studio 18 Emergency meeting point 19 Conservation center 20 Arts and crafts room",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's crucial that children know where the emergency meeting point is.",
+      "evidenceStartTime": 649.3,
+      "evidenceEndTime": 654.16,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "promptContext": "B C D E F G 17 Woodcarving studio 18 Emergency meeting point 19 Conservation center 20 Arts and crafts room",
+      "answerRaw": "F",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's crucial that children know where the emergency meeting point is.",
+      "evidenceStartTime": 649.3,
+      "evidenceEndTime": 654.16,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"F\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "promptContext": "ing studio 18 Emergency meeting point 19 Conservation center 20 Arts and crafts room",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "It's crucial that children know where the emergency meeting point is.",
+      "evidenceStartTime": 649.3,
+      "evidenceEndTime": 654.16,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "promptContext": "e correct answer. Stone Point: A New Zealand historical site 21 According to Liz, Stone Point played a key role in local history because A it was used for defence or attack purposes. B it was the landing point for the first Maori settlers. C it was developed as a commercial port. 22 Scott and Liz agree Maori originally ch",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yeah, the first settlers of New Zealand, the Maori, sailed to New Zealand thousands of years after these volcanoes erupted.",
+      "evidenceStartTime": 779.0,
+      "evidenceEndTime": 782.75,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "promptContext": "rst Maori settlers. C it was developed as a commercial port. 22 Scott and Liz agree Maori originally chose to inhabit Stone Point because of A its rich soil. B the supply of fish. C available building materials. 23 Scott and Liz agree that using Maori terminology in their presentation A will be of interest to internationa",
+      "answerRaw": "B",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "That's still part of its historical significance, but we need to keep most Maori terminology out of the presentation,",
+      "evidenceStartTime": 837.75,
+      "evidenceEndTime": 845.91,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "promptContext": "soil. B the supply of fish. C available building materials. 23 Scott and Liz agree that using Maori terminology in their presentation A will be of interest to international students. B is required as a component of their research. C would be best avoided. 24 When Scott mentions the engines at Stone Point, Liz advises him",
+      "answerRaw": "C",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "That's still part of its historical significance, but we need to keep most Maori terminology out of the presentation,",
+      "evidenceStartTime": 837.75,
+      "evidenceEndTime": 845.91,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "promptContext": "d as a component of their research. C would be best avoided. 24 When Scott mentions the engines at Stone Point, Liz advises him to A focus on the human aspect instead. B check the accuracy of specific dates. C explain complex technical language. Questions 25–30 What do Liz and Scott agree they must do for each of the foll",
+      "answerRaw": "A",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But, yeah, we wouldn't be able to explain it in the time allowed, so I guess we have to stick to English. Anyway, European migrants turned Stone Point into a lookout point for ships.",
+      "evidenceStartTime": 855.0,
+      "evidenceEndTime": 866.58,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "promptContext": "ctions of Presentation Early Maori inhibition of Stone Point 25 ……….. The use of Stone Point as a lookout point 26 ………… The reconstruction of the fort 27 ………….. Modernisation of the fort in the 1930s-40s 28 ………….. Uses of Stone Point from 1950s to the present day 29 …………. The use of Stone Point as public park 30 …………… A",
+      "answerRaw": "D check author’s details",
+      "canonicalAnswer": "D",
+      "acceptedAnswers": [
+        "D",
+        "D check author’s details",
+        "check author’s details"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'd prefer to devote more of the presentation to the military use of Stone Point.",
+      "evidenceStartTime": 876.34,
+      "evidenceEndTime": 881.21,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án D check author’s details. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "promptContext": "one Point 25 ……….. The use of Stone Point as a lookout point 26 ………… The reconstruction of the fort 27 ………….. Modernisation of the fort in the 1930s-40s 28 ………….. Uses of Stone Point from 1950s to the present day 29 …………. The use of Stone Point as public park 30 …………… A provide further description B find images C set u",
+      "answerRaw": "B find images",
+      "canonicalAnswer": "B",
+      "acceptedAnswers": [
+        "B",
+        "B find images",
+        "find images"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They lived there too. Yeah, I guess, if we can find some first-hand accounts.",
+      "evidenceStartTime": 908.66,
+      "evidenceEndTime": 914.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án B find images. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "promptContext": "nt as a lookout point 26 ………… The reconstruction of the fort 27 ………….. Modernisation of the fort in the 1930s-40s 28 ………….. Uses of Stone Point from 1950s to the present day 29 …………. The use of Stone Point as public park 30 …………… A provide further description B find images C set up an interview D check author’s detail",
+      "answerRaw": "A provide further description",
+      "canonicalAnswer": "A",
+      "acceptedAnswers": [
+        "A",
+        "A provide further description",
+        "provide further description"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Yes, that needs work. And for the part about Stone Point being used as a lookout point,",
+      "evidenceStartTime": 977.0,
+      "evidenceEndTime": 982.2,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án A provide further description. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "promptContext": "he fort 27 ………….. Modernisation of the fort in the 1930s-40s 28 ………….. Uses of Stone Point from 1950s to the present day 29 …………. The use of Stone Point as public park 30 …………… A provide further description B find images C set up an interview D check author’s details E check the exact location F obtain official perm",
+      "answerRaw": "F obtain official permission",
+      "canonicalAnswer": "F",
+      "acceptedAnswers": [
+        "F",
+        "F obtain official permission",
+        "obtain official permission"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'm sure we can locate some drawings of how Stone Point looked then and the kind of ships coming in.",
+      "evidenceStartTime": 982.2,
+      "evidenceEndTime": 988.17,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án F obtain official permission. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "promptContext": "28 ………….. Uses of Stone Point from 1950s to the present day 29 …………. The use of Stone Point as public park 30 …………… A provide further description B find images C set up an interview D check author’s details E check the exact location F obtain official permission G be more objective H reduce it in length",
+      "answerRaw": "C set up an interview",
+      "canonicalAnswer": "C",
+      "acceptedAnswers": [
+        "C",
+        "C set up an interview",
+        "set up an interview"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "I'm sure we can locate some drawings of how Stone Point looked then and the kind of ships coming in.",
+      "evidenceStartTime": 982.2,
+      "evidenceEndTime": 988.17,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án C set up an interview. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "promptContext": "e present day 29 …………. The use of Stone Point as public park 30 …………… A provide further description B find images C set up an interview D check author’s details E check the exact location F obtain official permission G be more objective H reduce it in length",
+      "answerRaw": "E check the exact location",
+      "canonicalAnswer": "E",
+      "acceptedAnswers": [
+        "E",
+        "E check the exact location",
+        "check the exact location"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Oh, and just about its use as a public park today. Where is the boundary exactly?",
+      "evidenceStartTime": 1032.0,
+      "evidenceEndTime": 1034.34,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án đúng là phương án E check the exact location. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "promptContext": "2th century ● began to lead a nomadic life, moving across 31 ……….. and mountains Different Berber Lifestyles ● some Berbers, known as 32 …………. nomads, moved twice a year ● some Berbers were completely nomadic ● some Berbers settled by oases, producing fruit, vegetables, and 33 ……………. to cook with ● peopl",
+      "answerRaw": "deserts",
+      "canonicalAnswer": "deserts",
+      "acceptedAnswers": [
+        "deserts"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "As a result, many Berbers left their settlements to lead a nomadic life by wandering with their animals through the deserts and across the different mountains.",
+      "evidenceStartTime": 1192.23,
+      "evidenceEndTime": 1202.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"deserts\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "promptContext": "ains Different Berber Lifestyles ● some Berbers, known as 32 …………. nomads, moved twice a year ● some Berbers were completely nomadic ● some Berbers settled by oases, producing fruit, vegetables, and 33 ……………. to cook with ● people and belongings were carried by 34 ………… ● settled Berbers lived in houses ●",
+      "answerRaw": "seasonal",
+      "canonicalAnswer": "seasonal",
+      "acceptedAnswers": [
+        "seasonal"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "They are called seasonal nomads. Some Berbers who led a completely nomadic life tended to move from one oasis to another.",
+      "evidenceStartTime": 1231.32,
+      "evidenceEndTime": 1239.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"seasonal\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "promptContext": "Berbers settled by oases, producing fruit, vegetables, and 33 ……………. to cook with ● people and belongings were carried by 34 ………… ● settled Berbers lived in houses ● nomadic Berbers used tents ● settled communities organised themselves by holding regular meetings in the 35 ……………. of the village The Tuaregs",
+      "answerRaw": "olive oil",
+      "canonicalAnswer": "olive oil",
+      "acceptedAnswers": [
+        "olive oil"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "A third group settled by the oases and grew fruit and vegetables like dates and eggplants as well as making olive oil which they used for cooking.",
+      "evidenceStartTime": 1240.0,
+      "evidenceEndTime": 1250.32,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"olive oil\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "promptContext": "…. to cook with ● people and belongings were carried by 34 ………… ● settled Berbers lived in houses ● nomadic Berbers used tents ● settled communities organised themselves by holding regular meetings in the 35 ……………. of the village The Tuaregs ● if goatskins were unavailable, tents were made from 36 …………… o",
+      "answerRaw": "camels",
+      "canonicalAnswer": "camels",
+      "acceptedAnswers": [
+        "camels"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "So the Berbers relied more and more on camels for transporting their families and their goods.",
+      "evidenceStartTime": 1267.0,
+      "evidenceEndTime": 1273.46,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"camels\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "promptContext": "ties organised themselves by holding regular meetings in the 35 ……………. of the village The Tuaregs ● if goatskins were unavailable, tents were made from 36 …………… or palm-leaf mats ● Tuareg labourers were the descendants of 37 ……………. ● adult men always wore a 38 …………. veil ● some Tuaregs moved to Burkina Faso",
+      "answerRaw": "square",
+      "canonicalAnswer": "square",
+      "acceptedAnswers": [
+        "square"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "settled Berbers developed various small-scale industries such as pottery making and weaving, but these tasks were generally left to the Berber women. As you might expect though, the life of a settled community was governed by the men who met regularly in the village square to discuss affairs and make decisions.",
+      "evidenceStartTime": 1293.75,
+      "evidenceEndTime": 1318.66,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"square\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "promptContext": "egs ● if goatskins were unavailable, tents were made from 36 …………… or palm-leaf mats ● Tuareg labourers were the descendants of 37 ……………. ● adult men always wore a 38 …………. veil ● some Tuaregs moved to Burkina Faso with their 39……………. Tuaregs and Timbuktu ● Timbuktu was settled by Tuaregs around 1000 year",
+      "answerRaw": "grass",
+      "canonicalAnswer": "grass",
+      "acceptedAnswers": [
+        "grass"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "If the skins weren't available, they wove mats made of grass or palm leaves and hung them over a frame so that the tent looked like a humped dome.",
+      "evidenceStartTime": 1346.34,
+      "evidenceEndTime": 1356.0,
+      "paraphrases": [],
+      "distractors": [
+        "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"grass\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "promptContext": "alm-leaf mats ● Tuareg labourers were the descendants of 37 ……………. ● adult men always wore a 38 …………. veil ● some Tuaregs moved to Burkina Faso with their 39……………. Tuaregs and Timbuktu ● Timbuktu was settled by Tuaregs around 1000 years ago ● the city built wealth on the salt and gold trades ● some Tua",
+      "answerRaw": "slaves",
+      "canonicalAnswer": "slaves",
+      "acceptedAnswers": [
+        "slaves"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Tuareg society was traditionally very feudal and organised as a strict hierarchy ranging from nobles or aristocrats downwards to labourers whose ancestors had once been slaves.",
+      "evidenceStartTime": 1357.0,
+      "evidenceEndTime": 1370.28,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"slaves\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "promptContext": "e the descendants of 37 ……………. ● adult men always wore a 38 …………. veil ● some Tuaregs moved to Burkina Faso with their 39……………. Tuaregs and Timbuktu ● Timbuktu was settled by Tuaregs around 1000 years ago ● the city built wealth on the salt and gold trades ● some Tuaregs now work as 40 ………….. for the Mall",
+      "answerRaw": "dark blue",
+      "canonicalAnswer": "dark blue",
+      "acceptedAnswers": [
+        "dark blue"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Tuareg men were sometimes called blue men as all adult males wore a dark blue veil in the presence of women, strangers and in-laws.",
+      "evidenceStartTime": 1386.0,
+      "evidenceEndTime": 1394.34,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"dark blue\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "promptContext": "……. veil ● some Tuaregs moved to Burkina Faso with their 39……………. Tuaregs and Timbuktu ● Timbuktu was settled by Tuaregs around 1000 years ago ● the city built wealth on the salt and gold trades ● some Tuaregs now work as 40 ………….. for the Mallian Department of Tourism",
+      "answerRaw": "herds",
+      "canonicalAnswer": "herds",
+      "acceptedAnswers": [
+        "herds"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "Those whose animals were fortunate enough to survive have moved away from the southern Sahara into Burkina Faso in order to find new grazing lands for their herds.",
+      "evidenceStartTime": 1419.95,
+      "evidenceEndTime": 1430.0,
+      "paraphrases": [],
+      "distractors": [],
+      "explanationVi": "Đáp án chuẩn cần điền là \"herds\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "promptContext": "th on the salt and gold trades ● some Tuaregs now work as 40 ………….. for the Mallian Department of Tourism",
+      "answerRaw": "guides",
+      "canonicalAnswer": "guides",
+      "acceptedAnswers": [
+        "guides"
+      ],
+      "sharedGroup": null,
+      "evidenceQuote": "But today what is left of the city attracts a small number of tourists. The tourism department of the Mali government employs some Tuaregs who act as guides.",
+      "evidenceStartTime": 1461.09,
+      "evidenceEndTime": 1473.69,
+      "paraphrases": [],
+      "distractors": [
+        "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
+      ],
+      "explanationVi": "Đáp án chuẩn cần điền là \"guides\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+    }
+  ],
+  "transcriptSegments": [
+    {
+      "id": "seg-001",
+      "part": 1,
+      "startTime": 3.0,
+      "endTime": 10.43,
+      "text": "You will see that there is an example that has been done for you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-002",
+      "part": 1,
+      "startTime": 10.43,
+      "endTime": 19.34,
+      "text": "On this occasion only, the conversation relating to this will be played first.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-003",
+      "part": 1,
+      "startTime": 19.34,
+      "endTime": 26.88,
+      "text": "Hello, this is Medical Help Direct. How can I help you? Oh, hello.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-004",
+      "part": 1,
+      "startTime": 26.88,
+      "endTime": 44.01,
+      "text": "I've got a problem with my back, and with it being the middle of the night, I can't go to the doctor, and I wondered if you could give me some advice.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-005",
+      "part": 1,
+      "startTime": 44.01,
+      "endTime": 51.21,
+      "text": "Certainly. But first, can I have your telephone number, please?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-006",
+      "part": 1,
+      "startTime": 51.21,
+      "endTime": 58.52,
+      "text": "It's 03786 439 251. The man's telephone number is 03786 439 251.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-007",
+      "part": 1,
+      "startTime": 58.52,
+      "endTime": 64.0,
+      "text": "So, 03786 439 251 has been written in the space.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-008",
+      "part": 1,
+      "startTime": 65.0,
+      "endTime": 66.83,
+      "text": "Now we shall begin.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-009",
+      "part": 1,
+      "startTime": 66.83,
+      "endTime": 75.2,
+      "text": "You should answer the questions as you listen, because you are recording a second time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-010",
+      "part": 1,
+      "startTime": 75.2,
+      "endTime": 80.0,
+      "text": "Listen carefully, and answer questions one by one.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-011",
+      "part": 1,
+      "startTime": 84.0,
+      "endTime": 92.03,
+      "text": "Hello, I've got a problem with my back, and with it being the middle of the night,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-012",
+      "part": 1,
+      "startTime": 92.03,
+      "endTime": 99.96,
+      "text": "I can't go to the doctor, and I wonder if you can give me some advice. Certainly.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-013",
+      "part": 1,
+      "startTime": 99.96,
+      "endTime": 107.0,
+      "text": "But first, can I have your telephone number, please? It's 03786 439 251.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-014",
+      "part": 1,
+      "startTime": 108.0,
+      "endTime": 114.7,
+      "text": "OK. And if you could give me your first name, please? Robert.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-015",
+      "part": 1,
+      "startTime": 114.7,
+      "endTime": 123.26,
+      "text": "And your surname? Ridyard. That's R-I-D-Y-A-R-D. And now your address, please?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-016",
+      "part": 1,
+      "startTime": 123.26,
+      "endTime": 126.0,
+      "text": "It's 27 Station Road. OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-017",
+      "part": 1,
+      "startTime": 126.0,
+      "endTime": 134.0,
+      "text": "Moortown. And do you need the postcode? Yes, please. D-P-17-5-H-J.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-018",
+      "part": 1,
+      "startTime": 134.0,
+      "endTime": 139.48,
+      "text": "And your date of birth? The 25th of February, 1975. Fine.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-019",
+      "part": 1,
+      "startTime": 139.48,
+      "endTime": 144.0,
+      "text": "Now I just need to take details of your doctor.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-020",
+      "part": 1,
+      "startTime": 144.0,
+      "endTime": 149.65,
+      "text": "She's called Dr Craven. And the surgery? It's Moortown Health Centre. Thanks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-021",
+      "part": 1,
+      "startTime": 149.65,
+      "endTime": 156.62,
+      "text": "Now, can you tell me a bit more about what the problem is? Well, like I said, it's my back. OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-022",
+      "part": 1,
+      "startTime": 156.62,
+      "endTime": 160.0,
+      "text": "Can you tell me which part of the back? Lower.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-023",
+      "part": 1,
+      "startTime": 160.0,
+      "endTime": 163.65,
+      "text": "And have you had any problems with your back before? Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-024",
+      "part": 1,
+      "startTime": 163.65,
+      "endTime": 167.94,
+      "text": "I had a bit of trouble last year, in June, I think. Or was it July?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-025",
+      "part": 1,
+      "startTime": 167.94,
+      "endTime": 173.0,
+      "text": "No, we went on holiday at the beginning of July, and it had cleared up by then.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-026",
+      "part": 1,
+      "startTime": 173.0,
+      "endTime": 176.75,
+      "text": "And when did it start this time? Has it just come on?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-027",
+      "part": 1,
+      "startTime": 176.75,
+      "endTime": 181.49,
+      "text": "No, I've had it, let's see, since Monday, so that's three days now.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-028",
+      "part": 1,
+      "startTime": 181.49,
+      "endTime": 187.0,
+      "text": "But it wasn't too bad at first. I mean, I could just about get around, though.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-029",
+      "part": 1,
+      "startTime": 187.0,
+      "endTime": 189.42,
+      "text": "I couldn't drive the car or anything.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-030",
+      "part": 1,
+      "startTime": 189.42,
+      "endTime": 193.93,
+      "text": "Then this afternoon, the pain suddenly got so bad that I went to bed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-031",
+      "part": 1,
+      "startTime": 193.93,
+      "endTime": 197.0,
+      "text": "I've been in bed since, but that hasn't helped.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-032",
+      "part": 1,
+      "startTime": 197.0,
+      "endTime": 205.47,
+      "text": "And do you have any pain elsewhere? In your stomach or abdomen, for example?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-033",
+      "part": 1,
+      "startTime": 205.47,
+      "endTime": 205.8,
+      "text": "No.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-034",
+      "part": 1,
+      "startTime": 205.8,
+      "endTime": 217.39,
+      "text": "Before you hear the rest of the conversation, you have some time to look at questions 7 to 10 on page 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-035",
+      "part": 1,
+      "startTime": 217.39,
+      "endTime": 222.29,
+      "text": "Now listen and answer questions 7 to 10. OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-036",
+      "part": 1,
+      "startTime": 222.29,
+      "endTime": 227.53,
+      "text": "Now, have you any idea what caused the problem?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-037",
+      "part": 1,
+      "startTime": 227.53,
+      "endTime": 242.57,
+      "text": "Well, I was tidying up my office, and I lifted a box up from the floor that was heavier than I thought, and I think that's what did it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-038",
+      "part": 1,
+      "startTime": 242.57,
+      "endTime": 249.15,
+      "text": "Yes, it's easily done, isn't it? So you're in bed now? Yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-039",
+      "part": 1,
+      "startTime": 249.15,
+      "endTime": 257.51,
+      "text": "Have you tried applying heat to the back? Yes, I've got a hot water bottle.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-040",
+      "part": 1,
+      "startTime": 257.51,
+      "endTime": 265.65,
+      "text": "That's usually the first thing I try. And have you taken any painkillers?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-041",
+      "part": 1,
+      "startTime": 265.65,
+      "endTime": 272.0,
+      "text": "Yes. And other than that, you feel quite well? I do, yes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-042",
+      "part": 1,
+      "startTime": 273.0,
+      "endTime": 279.39,
+      "text": "Right. Now, I can't diagnose or prescribe any medication, but I can offer you some advice.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-043",
+      "part": 1,
+      "startTime": 279.39,
+      "endTime": 284.0,
+      "text": "One thing you could do now is to see if ice makes any difference.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-044",
+      "part": 1,
+      "startTime": 284.0,
+      "endTime": 287.86,
+      "text": "That sometimes helps. But don't put it directly onto your skin.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-045",
+      "part": 1,
+      "startTime": 287.86,
+      "endTime": 290.0,
+      "text": "Wrap it up in a towel or something.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-046",
+      "part": 1,
+      "startTime": 290.0,
+      "endTime": 295.0,
+      "text": "And don't leave it on for longer than 20 minutes. Oh, right. I haven't tried that before.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-047",
+      "part": 1,
+      "startTime": 295.0,
+      "endTime": 299.21,
+      "text": "It can be useful sometimes. Now, have you seen your doctor about this?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-048",
+      "part": 1,
+      "startTime": 299.21,
+      "endTime": 304.86,
+      "text": "No, I just thought, well, everyone has back pain, but I've never had it as bad as this before.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-049",
+      "part": 1,
+      "startTime": 304.86,
+      "endTime": 311.0,
+      "text": "I think you should go and see your doctor tomorrow, and she may be able to give you something to help.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-050",
+      "part": 1,
+      "startTime": 311.0,
+      "endTime": 314.78,
+      "text": "OK, I'll do that. I'm actually feeling a bit better now. Good.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-051",
+      "part": 1,
+      "startTime": 314.78,
+      "endTime": 318.07,
+      "text": "And you might get some advice from her about exercise.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-052",
+      "part": 1,
+      "startTime": 318.07,
+      "endTime": 323.0,
+      "text": "That's often the best way of dealing with this sort of problem. OK, I'll ask her.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-053",
+      "part": 1,
+      "startTime": 323.0,
+      "endTime": 328.31,
+      "text": "Right. Now, if you're worried about anything before tomorrow, you can always phone back.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-054",
+      "part": 1,
+      "startTime": 328.31,
+      "endTime": 330.0,
+      "text": "Our lines are open 24 hours.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-055",
+      "part": 1,
+      "startTime": 331.0,
+      "endTime": 340.84,
+      "text": "Thanks very much.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-056",
+      "part": 1,
+      "startTime": 340.84,
+      "endTime": 357.63,
+      "text": "That is the end of Section 1.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-057",
+      "part": 1,
+      "startTime": 357.63,
+      "endTime": 386.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-058",
+      "part": 2,
+      "startTime": 386.0,
+      "endTime": 386.23,
+      "text": "Now turn to Section 2 on page 3. Part 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-059",
+      "part": 2,
+      "startTime": 386.23,
+      "endTime": 387.0,
+      "text": "You will hear a principal of a school talking to a group of parents about a three-day trip for pupils to an outdoor education centre.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-060",
+      "part": 2,
+      "startTime": 387.0,
+      "endTime": 394.13,
+      "text": "First, you have some time to look at questions 11 to 16.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-061",
+      "part": 2,
+      "startTime": 394.13,
+      "endTime": 402.41,
+      "text": "Now listen carefully and answer questions 11 to 16. Good evening.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-062",
+      "part": 2,
+      "startTime": 402.41,
+      "endTime": 407.25,
+      "text": "It's good to see so many parents here.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-063",
+      "part": 2,
+      "startTime": 407.25,
+      "endTime": 416.04,
+      "text": "Let me begin by explaining why we go to the outdoor education centre.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-064",
+      "part": 2,
+      "startTime": 416.04,
+      "endTime": 435.0,
+      "text": "Well, by age 10, we feel the children are ready for a trip away from home but still in a safe environment and under the guidance of a familiar adult.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-065",
+      "part": 2,
+      "startTime": 436.0,
+      "endTime": 444.9,
+      "text": "At the school, we strongly believe children should be encouraged to try different things and not give up when it gets difficult.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-066",
+      "part": 2,
+      "startTime": 444.9,
+      "endTime": 448.59,
+      "text": "And that's what the centre is all about, having a go.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-067",
+      "part": 2,
+      "startTime": 448.59,
+      "endTime": 452.0,
+      "text": "Anyway, to start with, the sleeping arrangements.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-068",
+      "part": 2,
+      "startTime": 453.0,
+      "endTime": 459.71,
+      "text": "For some children, this will be their first time in a tent and away from home, so please prepare them.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-069",
+      "part": 2,
+      "startTime": 459.71,
+      "endTime": 464.78,
+      "text": "You can do this just by making sure they have some early nights before we go.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-070",
+      "part": 2,
+      "startTime": 464.78,
+      "endTime": 473.0,
+      "text": "Another thing, there's space for three children per tent so we can't guarantee your child will be in with their best friends.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-071",
+      "part": 2,
+      "startTime": 474.0,
+      "endTime": 475.78,
+      "text": "So do make them aware of this.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-072",
+      "part": 2,
+      "startTime": 475.78,
+      "endTime": 481.46,
+      "text": "Now, you should have received a list with the clothing the children will need in their backpack.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-073",
+      "part": 2,
+      "startTime": 481.46,
+      "endTime": 483.0,
+      "text": "But there are some extras.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-074",
+      "part": 2,
+      "startTime": 484.0,
+      "endTime": 487.92,
+      "text": "Please provide a packet of biscuits or maybe fruit bars.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-075",
+      "part": 2,
+      "startTime": 487.92,
+      "endTime": 493.1,
+      "text": "But these need to go in the box in the school hall, not with the children.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-076",
+      "part": 2,
+      "startTime": 493.1,
+      "endTime": 501.0,
+      "text": "Actually, what we do need in the backpacks are bags for cleaning up and for wet clothing, so plastic ones please.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-077",
+      "part": 2,
+      "startTime": 501.0,
+      "endTime": 507.41,
+      "text": "A torch is a good idea, but don't worry about putting money in because there's nothing to buy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-078",
+      "part": 2,
+      "startTime": 507.41,
+      "endTime": 511.64,
+      "text": "While we're on the subject, let's talk about some other items.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-079",
+      "part": 2,
+      "startTime": 511.64,
+      "endTime": 519.0,
+      "text": "Cell phones are permitted, but they must be switched off at night and also off during the teaching sessions.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-080",
+      "part": 2,
+      "startTime": 520.0,
+      "endTime": 527.63,
+      "text": "Also, for wood carving activities, knives will be provided by the centre so children shouldn't bring them from home.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-081",
+      "part": 2,
+      "startTime": 527.63,
+      "endTime": 534.41,
+      "text": "Electronic games are banned, so rather than bring one of these children should bring quiet board games.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-082",
+      "part": 2,
+      "startTime": 534.41,
+      "endTime": 545.0,
+      "text": "Turning to the question of parent attendance, in the past we've had too many volunteers so we have written names on bits of paper and pulled them out of the box.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-083",
+      "part": 2,
+      "startTime": 546.0,
+      "endTime": 549.49,
+      "text": "But then some parents have changed their minds.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-084",
+      "part": 2,
+      "startTime": 549.49,
+      "endTime": 558.62,
+      "text": "So, if you're absolutely sure you can come, put your name down on the sign-up form and the first ten will be asked to come.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-085",
+      "part": 2,
+      "startTime": 558.62,
+      "endTime": 563.0,
+      "text": "Experience isn't required, we just want you to lend a hand.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-086",
+      "part": 2,
+      "startTime": 564.0,
+      "endTime": 568.21,
+      "text": "Now, I'm afraid the fee for the trip needs to be paid by the 15th.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-087",
+      "part": 2,
+      "startTime": 568.21,
+      "endTime": 571.78,
+      "text": "Payment to the centre is made by school, not by parents.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-088",
+      "part": 2,
+      "startTime": 571.78,
+      "endTime": 580.0,
+      "text": "And your teacher will be given your child a form with the school's bank account details if you want to use them to make payments.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-089",
+      "part": 2,
+      "startTime": 581.0,
+      "endTime": 593.98,
+      "text": "Otherwise, please leave payment in an envelope in the box at the school office.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-090",
+      "part": 2,
+      "startTime": 593.98,
+      "endTime": 608.27,
+      "text": "Before you hear the rest of the talk, you have some time to look at questions 17 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-091",
+      "part": 2,
+      "startTime": 608.27,
+      "endTime": 615.0,
+      "text": "Now listen and answer questions 17 to 20.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-092",
+      "part": 2,
+      "startTime": 615.0,
+      "endTime": 617.16,
+      "text": "Right. Let's have a look the centre.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-093",
+      "part": 2,
+      "startTime": 617.16,
+      "endTime": 624.0,
+      "text": "I hope you all have leaflet with a map on the back and we'd like you to show this to your children before they go.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-094",
+      "part": 2,
+      "startTime": 625.0,
+      "endTime": 630.34,
+      "text": "Now, if you look at the map, you will see the entrance at the bottom.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-095",
+      "part": 2,
+      "startTime": 630.34,
+      "endTime": 636.76,
+      "text": "OK, so just through the entrance you'll see Reception. Now the wood-carving studio.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-096",
+      "part": 2,
+      "startTime": 636.76,
+      "endTime": 640.0,
+      "text": "So you see where the main hall is located.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-097",
+      "part": 2,
+      "startTime": 640.0,
+      "endTime": 649.3,
+      "text": "Well, to the right of the hall and opposite the kitchen is the new barbecue area and it's right next to that overlooking Forts Road.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-098",
+      "part": 2,
+      "startTime": 649.3,
+      "endTime": 654.16,
+      "text": "It's crucial that children know where the emergency meeting point is.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-099",
+      "part": 2,
+      "startTime": 654.16,
+      "endTime": 660.0,
+      "text": "If you look to the top of the map and to north of Forest Road, that's the location.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-100",
+      "part": 2,
+      "startTime": 661.0,
+      "endTime": 664.31,
+      "text": "It is on the same side of river as the tents.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-101",
+      "part": 2,
+      "startTime": 664.31,
+      "endTime": 669.75,
+      "text": "There's a lot going on at the river, for example, the Conservation Centre.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-102",
+      "part": 2,
+      "startTime": 669.75,
+      "endTime": 673.79,
+      "text": "See the building marked Kayaks on right side riverbank?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-103",
+      "part": 2,
+      "startTime": 673.79,
+      "endTime": 679.0,
+      "text": "Well, the Conservation Centre is between the two bridges just below it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-104",
+      "part": 2,
+      "startTime": 679.0,
+      "endTime": 687.95,
+      "text": "I should also mention that if your child is not a confident swimmer, there are life jackets hanging all along the riverbank.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-105",
+      "part": 2,
+      "startTime": 687.95,
+      "endTime": 697.77,
+      "text": "If your children likes drawing and painting, the Arts and Crafts room is to the right of the river, a little further up from the kayaks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-106",
+      "part": 2,
+      "startTime": 697.77,
+      "endTime": 702.46,
+      "text": "OK, so are there any questions so far? That is the end of Part 2.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-107",
+      "part": 2,
+      "startTime": 702.46,
+      "endTime": 706.0,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-108",
+      "part": 3,
+      "startTime": 761.0,
+      "endTime": 765.59,
+      "text": "Hi Scott, here are my notes. Let's sort this presentation out then.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-109",
+      "part": 3,
+      "startTime": 765.59,
+      "endTime": 771.0,
+      "text": "The first thing I found out about Stone Point is it's an extinct volcanic cone.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-110",
+      "part": 3,
+      "startTime": 771.0,
+      "endTime": 773.78,
+      "text": "You probably know that already, being a New Zealander.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-111",
+      "part": 3,
+      "startTime": 773.78,
+      "endTime": 778.0,
+      "text": "Yes, and there are two other cones nearby, which also overlook the harbour. Right.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-112",
+      "part": 3,
+      "startTime": 779.0,
+      "endTime": 782.75,
+      "text": "Yeah, the first settlers of New Zealand, the Maori, sailed to New Zealand thousands of years after these volcanoes erupted.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-113",
+      "part": 3,
+      "startTime": 782.75,
+      "endTime": 785.92,
+      "text": "I think the tutor allocated us this topic, though, because of Stone Point's significant historical role.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-114",
+      "part": 3,
+      "startTime": 785.92,
+      "endTime": 790.19,
+      "text": "It's been used by both Maori and European settlers as a place to shelter from attack or launch an attack, for centuries.(13:22 - 13:40)Yeah,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-115",
+      "part": 3,
+      "startTime": 790.19,
+      "endTime": 793.27,
+      "text": "and the fact it was an ideal place for building a village, it would have been quite a sheltered spot.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-116",
+      "part": 3,
+      "startTime": 793.27,
+      "endTime": 796.35,
+      "text": "I suppose the Maori settled there because they thought the volcanic soil would help their crops grow.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-117",
+      "part": 3,
+      "startTime": 796.35,
+      "endTime": 798.85,
+      "text": "Well, they would have realised the benefits of the soil after a few good harvests,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-118",
+      "part": 3,
+      "startTime": 798.85,
+      "endTime": 801.0,
+      "text": "but initially the fishing opportunities would have been the attraction.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-119",
+      "part": 3,
+      "startTime": 821.0,
+      "endTime": 826.95,
+      "text": "You're right. Actually, I also read that Maori regard Stone Point as taonga.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-120",
+      "part": 3,
+      "startTime": 826.95,
+      "endTime": 830.0,
+      "text": "I believe that means a treasured thing.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-121",
+      "part": 3,
+      "startTime": 830.0,
+      "endTime": 833.35,
+      "text": "Wow, your Maori vocabulary is improving, Scotch.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-122",
+      "part": 3,
+      "startTime": 833.35,
+      "endTime": 837.75,
+      "text": "We do have to deal with Stone Point's cultural value for Maori.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-123",
+      "part": 3,
+      "startTime": 837.75,
+      "endTime": 845.91,
+      "text": "That's still part of its historical significance, but we need to keep most Maori terminology out of the presentation,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-124",
+      "part": 3,
+      "startTime": 845.91,
+      "endTime": 851.0,
+      "text": "otherwise a lot of the international students won't be able to follow us.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-125",
+      "part": 3,
+      "startTime": 851.0,
+      "endTime": 854.0,
+      "text": "That's a shame. I'm sure they'd be interested. I mean, I am.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-126",
+      "part": 3,
+      "startTime": 855.0,
+      "endTime": 861.72,
+      "text": "But, yeah, we wouldn't be able to explain it in the time allowed, so I guess we have to stick to English.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-127",
+      "part": 3,
+      "startTime": 861.72,
+      "endTime": 866.58,
+      "text": "Anyway, European migrants turned Stone Point into a lookout point for ships.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-128",
+      "part": 3,
+      "startTime": 866.58,
+      "endTime": 874.0,
+      "text": "Then it became a fort, an army base in the late 1880s, and then during the World Wars the fort was modernised again.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-129",
+      "part": 3,
+      "startTime": 874.0,
+      "endTime": 876.34,
+      "text": "It's also been a public park sometimes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-130",
+      "part": 3,
+      "startTime": 876.34,
+      "endTime": 881.21,
+      "text": "I'd prefer to devote more of the presentation to the military use of Stone Point.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-131",
+      "part": 3,
+      "startTime": 881.21,
+      "endTime": 885.0,
+      "text": "There are some great websites about the engines they installed.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-132",
+      "part": 3,
+      "startTime": 886.0,
+      "endTime": 889.39,
+      "text": "Sorry, I wouldn't go into the technical side if I were you.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-133",
+      "part": 3,
+      "startTime": 889.39,
+      "endTime": 893.13,
+      "text": "If you start describing mechanical stuff, people will switch off.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-134",
+      "part": 3,
+      "startTime": 893.13,
+      "endTime": 899.0,
+      "text": "I think it's more interesting to look at the impact Stone Point had on the people's lives at the time.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-135",
+      "part": 3,
+      "startTime": 900.0,
+      "endTime": 908.66,
+      "text": "I mean, for example, there were about 25 years when they used local prisoners to build the tunnels and the underground rooms.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-136",
+      "part": 3,
+      "startTime": 908.66,
+      "endTime": 914.0,
+      "text": "They lived there too. Yeah, I guess, if we can find some first-hand accounts.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-137",
+      "part": 3,
+      "startTime": 917.0,
+      "endTime": 934.51,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30 on page 6.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-138",
+      "part": 3,
+      "startTime": 934.51,
+      "endTime": 941.48,
+      "text": "Now listen and answer questions 25 to 30.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-139",
+      "part": 3,
+      "startTime": 941.48,
+      "endTime": 949.3,
+      "text": "OK, so let's make a checklist of things to do.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-140",
+      "part": 3,
+      "startTime": 949.3,
+      "endTime": 976.0,
+      "text": "For the Early Maori Inhabitation section, we have to look at the material we've used again and make sure we know who the writers were and when they wrote it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-141",
+      "part": 3,
+      "startTime": 977.0,
+      "endTime": 982.2,
+      "text": "Yes, that needs work. And for the part about Stone Point being used as a lookout point,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-142",
+      "part": 3,
+      "startTime": 982.2,
+      "endTime": 988.17,
+      "text": "I'm sure we can locate some drawings of how Stone Point looked then and the kind of ships coming in.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-143",
+      "part": 3,
+      "startTime": 988.17,
+      "endTime": 993.37,
+      "text": "Nice. And what else? We haven't got a lot of detail for the reconstruction of the fort.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-144",
+      "part": 3,
+      "startTime": 993.37,
+      "endTime": 998.51,
+      "text": "We should add some more information about what it was the prisoners were adding to it.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-145",
+      "part": 3,
+      "startTime": 998.51,
+      "endTime": 1000.0,
+      "text": "OK, I'll do that bit too.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-146",
+      "part": 3,
+      "startTime": 1000.0,
+      "endTime": 1006.25,
+      "text": "So I'll deal with the section regarding the modernisation that happened in the 1930s and 40s.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-147",
+      "part": 3,
+      "startTime": 1006.25,
+      "endTime": 1011.96,
+      "text": "I mean, that's the bit where we have the most visible evidence of historic buildings.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-148",
+      "part": 3,
+      "startTime": 1011.96,
+      "endTime": 1018.0,
+      "text": "I'll ring the Department of Conservation and see if they'll agree to let me film the site.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-149",
+      "part": 3,
+      "startTime": 1019.0,
+      "endTime": 1022.68,
+      "text": "Maybe allow me access to some of the tunnels the public don't see. OK.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-150",
+      "part": 3,
+      "startTime": 1022.68,
+      "endTime": 1030.36,
+      "text": "For the 1950s onwards, could you also arrange a meeting with someone from the Department of Conservation to ask them about their restoration work?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-151",
+      "part": 3,
+      "startTime": 1030.36,
+      "endTime": 1031.0,
+      "text": "I could try.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-152",
+      "part": 3,
+      "startTime": 1032.0,
+      "endTime": 1034.34,
+      "text": "Oh, and just about its use as a public park today. Where is the boundary exactly?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-153",
+      "part": 3,
+      "startTime": 1034.34,
+      "endTime": 1036.88,
+      "text": "Does it go all the way to the beach? Not sure. I'll check that out.(17:22 - 17:38)Great.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-154",
+      "part": 3,
+      "startTime": 1036.88,
+      "endTime": 1039.71,
+      "text": "I suppose it would finish off the presentation nicely if we explain the future plans for the site.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-155",
+      "part": 3,
+      "startTime": 1039.71,
+      "endTime": 1042.0,
+      "text": "That is the end of section 3. You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-156",
+      "part": 4,
+      "startTime": 1087.0,
+      "endTime": 1096.12,
+      "text": "Now turn to section 4 on page 7.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-157",
+      "part": 4,
+      "startTime": 1096.12,
+      "endTime": 1098.97,
+      "text": "Section 4.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-158",
+      "part": 4,
+      "startTime": 1098.97,
+      "endTime": 1114.08,
+      "text": "You will hear part of a lecture on rural development.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-159",
+      "part": 4,
+      "startTime": 1114.08,
+      "endTime": 1132.9,
+      "text": "First, you have some time to look at questions 31 to 40 on page 7.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-160",
+      "part": 4,
+      "startTime": 1132.9,
+      "endTime": 1147.44,
+      "text": "Now listen carefully and answer questions 31 to 40.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-161",
+      "part": 4,
+      "startTime": 1147.44,
+      "endTime": 1154.0,
+      "text": "Good morning, everyone.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-162",
+      "part": 4,
+      "startTime": 1155.0,
+      "endTime": 1165.55,
+      "text": "Now, you'll remember that last week we looked at the migration of people from the interior of West Africa to various coastal towns with special reference to Ghana.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-163",
+      "part": 4,
+      "startTime": 1165.55,
+      "endTime": 1171.18,
+      "text": "Today we're going to focus on the people known as the Berbers who live in North Africa.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-164",
+      "part": 4,
+      "startTime": 1171.18,
+      "endTime": 1184.0,
+      "text": "The Berbers inhabited this part of Africa as long ago as the 7th century and their society was based on tribes which were scattered throughout a number of countries Algeria, Morocco, Libya and Mali.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-165",
+      "part": 4,
+      "startTime": 1184.0,
+      "endTime": 1189.04,
+      "text": "However, at some point in the 12th century, the area was invaded by Bedouin Arabs.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-166",
+      "part": 4,
+      "startTime": 1189.04,
+      "endTime": 1192.23,
+      "text": "These people destroyed the Berbers' peasant economy.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-167",
+      "part": 4,
+      "startTime": 1192.23,
+      "endTime": 1202.0,
+      "text": "As a result, many Berbers left their settlements to lead a nomadic life by wandering with their animals through the deserts and across the different mountains.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-168",
+      "part": 4,
+      "startTime": 1204.0,
+      "endTime": 1210.69,
+      "text": "Over the centuries, many Berbers migrated to other countries like Spain and France to work as labourers,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-169",
+      "part": 4,
+      "startTime": 1210.69,
+      "endTime": 1216.86,
+      "text": "taking with them their culture and traditions and their descendants remain there until this day.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-170",
+      "part": 4,
+      "startTime": 1216.86,
+      "endTime": 1222.0,
+      "text": "Not all the Berbers led a fully nomadic life. There were three different groups.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-171",
+      "part": 4,
+      "startTime": 1223.0,
+      "endTime": 1231.32,
+      "text": "Some became farmers cultivating the lowlands in the winter and grazing their flocks of animals in the mountains during the summer.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-172",
+      "part": 4,
+      "startTime": 1231.32,
+      "endTime": 1233.37,
+      "text": "They are called seasonal nomads.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-173",
+      "part": 4,
+      "startTime": 1233.37,
+      "endTime": 1239.0,
+      "text": "Some Berbers who led a completely nomadic life tended to move from one oasis to another.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-174",
+      "part": 4,
+      "startTime": 1240.0,
+      "endTime": 1250.32,
+      "text": "A third group settled by the oases and grew fruit and vegetables like dates and eggplants as well as making olive oil which they used for cooking.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-175",
+      "part": 4,
+      "startTime": 1250.32,
+      "endTime": 1256.61,
+      "text": "Traditionally, Berbers kept cattle, sheep and goats together with oxen, mules and horses.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-176",
+      "part": 4,
+      "startTime": 1256.61,
+      "endTime": 1267.0,
+      "text": "In the Sahel region of North Africa, that's the area south of the Sahara desert, the region became and still is becoming increasingly dry and arid.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-177",
+      "part": 4,
+      "startTime": 1267.0,
+      "endTime": 1273.46,
+      "text": "So the Berbers relied more and more on camels for transporting their families and their goods.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-178",
+      "part": 4,
+      "startTime": 1273.46,
+      "endTime": 1279.99,
+      "text": "How did these different groups of people survive in such harsh conditions? Where did they live?",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-179",
+      "part": 4,
+      "startTime": 1279.99,
+      "endTime": 1288.11,
+      "text": "Well, Berbers who stayed put in one place built single-storey stone houses for protection by quarrying the local rock.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-180",
+      "part": 4,
+      "startTime": 1288.11,
+      "endTime": 1293.75,
+      "text": "Whereas nomadic Berbers carried their homes with them and erected temporary tents,",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-181",
+      "part": 4,
+      "startTime": 1293.75,
+      "endTime": 1304.0,
+      "text": "settled Berbers developed various small-scale industries such as pottery making and weaving, but these tasks were generally left to the Berber women.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-182",
+      "part": 4,
+      "startTime": 1306.0,
+      "endTime": 1318.66,
+      "text": "As you might expect though, the life of a settled community was governed by the men who met regularly in the village square to discuss affairs and make decisions.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-183",
+      "part": 4,
+      "startTime": 1318.66,
+      "endTime": 1330.61,
+      "text": "Now let's turn to the Tuaregs who belonged to a nomadic Berber group and moved mainly in the central and western Sahara desert, north of the river Niger.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-184",
+      "part": 4,
+      "startTime": 1330.61,
+      "endTime": 1336.0,
+      "text": "The word Tuareg comes from the Arabic Tawareq and means God-forsaken.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-185",
+      "part": 4,
+      "startTime": 1338.0,
+      "endTime": 1342.63,
+      "text": "Desert Tuareg carried tents made of strips of goatskins sewn together.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-186",
+      "part": 4,
+      "startTime": 1342.63,
+      "endTime": 1346.34,
+      "text": "As many as 40 skins were needed to make a complete tent.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-187",
+      "part": 4,
+      "startTime": 1346.34,
+      "endTime": 1356.0,
+      "text": "If the skins weren't available, they wove mats made of grass or palm leaves and hung them over a frame so that the tent looked like a humped dome.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-188",
+      "part": 4,
+      "startTime": 1357.0,
+      "endTime": 1370.28,
+      "text": "Tuareg society was traditionally very feudal and organised as a strict hierarchy ranging from nobles or aristocrats downwards to labourers whose ancestors had once been slaves.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-189",
+      "part": 4,
+      "startTime": 1370.28,
+      "endTime": 1375.71,
+      "text": "Tuaregs were famous for their warlike qualities and fierce independence.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-190",
+      "part": 4,
+      "startTime": 1375.71,
+      "endTime": 1385.0,
+      "text": "In fact, one of the greatest insults was to suggest to a Tuareg that his father had died in his bed and not while fighting.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-191",
+      "part": 4,
+      "startTime": 1386.0,
+      "endTime": 1394.34,
+      "text": "Tuareg men were sometimes called blue men as all adult males wore a dark blue veil in the presence of women, strangers and in-laws.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-192",
+      "part": 4,
+      "startTime": 1394.34,
+      "endTime": 1399.88,
+      "text": "Legend had it that a Tuareg man couldn't be recognised unless he was wearing this veil.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-193",
+      "part": 4,
+      "startTime": 1399.88,
+      "endTime": 1407.0,
+      "text": "But this custom of the veil began to disappear as more and more Tuaregs became urbanised and moved to the towns.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-194",
+      "part": 4,
+      "startTime": 1408.0,
+      "endTime": 1415.39,
+      "text": "I mentioned earlier how dry the Sahel region has become and there have been very severe droughts over the past 30 years.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-195",
+      "part": 4,
+      "startTime": 1415.39,
+      "endTime": 1419.95,
+      "text": "This has meant that the number of Tuaregs living in the area has declined.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-196",
+      "part": 4,
+      "startTime": 1419.95,
+      "endTime": 1430.0,
+      "text": "Those whose animals were fortunate enough to survive have moved away from the southern Sahara into Burkina Faso in order to find new grazing lands for their herds.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-197",
+      "part": 4,
+      "startTime": 1431.0,
+      "endTime": 1437.43,
+      "text": "If there's one city which people associate with the Sahara desert it's probably Timbuktu.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-198",
+      "part": 4,
+      "startTime": 1437.43,
+      "endTime": 1445.09,
+      "text": "But what most people don't know is that Timbuktu was founded by Tuareg nomads almost a thousand years ago.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-199",
+      "part": 4,
+      "startTime": 1445.09,
+      "endTime": 1450.0,
+      "text": "The city became the focal point of the trans-Saharan caravan routes.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-200",
+      "part": 4,
+      "startTime": 1451.0,
+      "endTime": 1457.43,
+      "text": "North African merchants flocked there to do business and trading in gold and salt flourished.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-201",
+      "part": 4,
+      "startTime": 1457.43,
+      "endTime": 1461.09,
+      "text": "For many years, Timbuktu was considered inaccessible.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-202",
+      "part": 4,
+      "startTime": 1461.09,
+      "endTime": 1466.0,
+      "text": "But today what is left of the city attracts a small number of tourists.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-203",
+      "part": 4,
+      "startTime": 1467.0,
+      "endTime": 1473.69,
+      "text": "The tourism department of the Mali government employs some Tuaregs who act as guides.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-204",
+      "part": 4,
+      "startTime": 1473.69,
+      "endTime": 1484.55,
+      "text": "Essential, really, when you realise that it's only the Tuaregs who can find their way around the desert using the sand dunes as landmarks.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-205",
+      "part": 4,
+      "startTime": 1484.55,
+      "endTime": 1495.49,
+      "text": "Right, I'll take questions now before I go on to discuss Tamasheq, the language spoken by the Tuaregs, which also has an alphabet called...",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-206",
+      "part": 4,
+      "startTime": 1495.49,
+      "endTime": 1498.0,
+      "text": "That is the end of section four.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-207",
+      "part": 4,
+      "startTime": 1498.0,
+      "endTime": 1506.43,
+      "text": "You now have half a minute to check your answers.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-208",
+      "part": 4,
+      "startTime": 1510.32,
+      "endTime": 1506.43,
+      "text": "That is the end of the listening test.",
+      "timestampSource": "exact",
+      "qTags": []
+    },
+    {
+      "id": "seg-209",
+      "part": 4,
+      "startTime": 1519.88,
+      "endTime": 1506.43,
+      "text": "You now have ten minutes to transfer your answers to the listening answer sheet.",
+      "timestampSource": "exact",
+      "qTags": []
+    }
+  ],
+  "longSegments": [
+    {
+      "id": "long-001",
+      "part": 1,
+      "startTime": 3.0,
+      "endTime": 26.88,
+      "text": "You will see that there is an example that has been done for you. On this occasion only, the conversation relating to this will be played first. Hello, this is Medical Help Direct. How can I help you? Oh, hello.",
+      "segmentIds": [
+        "seg-001",
+        "seg-002",
+        "seg-003"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-002",
+      "part": 1,
+      "startTime": 26.88,
+      "endTime": 58.52,
+      "text": "I've got a problem with my back, and with it being the middle of the night, I can't go to the doctor, and I wondered if you could give me some advice. Certainly. But first, can I have your telephone number, please? It's 03786 439 251. The man's telephone number is 03786 439 251.",
+      "segmentIds": [
+        "seg-004",
+        "seg-005",
+        "seg-006"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-003",
+      "part": 1,
+      "startTime": 58.52,
+      "endTime": 80.0,
+      "text": "So, 03786 439 251 has been written in the space. Now we shall begin. You should answer the questions as you listen, because you are recording a second time. Listen carefully, and answer questions one by one.",
+      "segmentIds": [
+        "seg-007",
+        "seg-008",
+        "seg-009",
+        "seg-010"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-004",
+      "part": 1,
+      "startTime": 84.0,
+      "endTime": 107.0,
+      "text": "Hello, I've got a problem with my back, and with it being the middle of the night, I can't go to the doctor, and I wonder if you can give me some advice. Certainly. But first, can I have your telephone number, please? It's 03786 439 251.",
+      "segmentIds": [
+        "seg-011",
+        "seg-012",
+        "seg-013"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-005",
+      "part": 1,
+      "startTime": 108.0,
+      "endTime": 126.0,
+      "text": "OK. And if you could give me your first name, please? Robert. And your surname? Ridyard. That's R-I-D-Y-A-R-D. And now your address, please? It's 27 Station Road. OK.",
+      "segmentIds": [
+        "seg-014",
+        "seg-015",
+        "seg-016"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-006",
+      "part": 1,
+      "startTime": 126.0,
+      "endTime": 149.65,
+      "text": "Moortown. And do you need the postcode? Yes, please. D-P-17-5-H-J. And your date of birth? The 25th of February, 1975. Fine. Now I just need to take details of your doctor. She's called Dr Craven. And the surgery? It's Moortown Health Centre. Thanks.",
+      "segmentIds": [
+        "seg-017",
+        "seg-018",
+        "seg-019",
+        "seg-020"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-007",
+      "part": 1,
+      "startTime": 149.65,
+      "endTime": 173.0,
+      "text": "Now, can you tell me a bit more about what the problem is? Well, like I said, it's my back. OK. Can you tell me which part of the back? Lower. And have you had any problems with your back before? Yes. I had a bit of trouble last year, in June, I think. Or was it July? No, we went on holiday at the beginning of July, and it had cleared up by then.",
+      "segmentIds": [
+        "seg-021",
+        "seg-022",
+        "seg-023",
+        "seg-024",
+        "seg-025"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-008",
+      "part": 1,
+      "startTime": 173.0,
+      "endTime": 193.93,
+      "text": "And when did it start this time? Has it just come on? No, I've had it, let's see, since Monday, so that's three days now. But it wasn't too bad at first. I mean, I could just about get around, though. I couldn't drive the car or anything. Then this afternoon, the pain suddenly got so bad that I went to bed.",
+      "segmentIds": [
+        "seg-026",
+        "seg-027",
+        "seg-028",
+        "seg-029",
+        "seg-030"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-009",
+      "part": 1,
+      "startTime": 193.93,
+      "endTime": 217.39,
+      "text": "I've been in bed since, but that hasn't helped. And do you have any pain elsewhere? In your stomach or abdomen, for example? No. Before you hear the rest of the conversation, you have some time to look at questions 7 to 10 on page 2.",
+      "segmentIds": [
+        "seg-031",
+        "seg-032",
+        "seg-033",
+        "seg-034"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-010",
+      "part": 1,
+      "startTime": 217.39,
+      "endTime": 242.57,
+      "text": "Now listen and answer questions 7 to 10. OK. Now, have you any idea what caused the problem? Well, I was tidying up my office, and I lifted a box up from the floor that was heavier than I thought, and I think that's what did it.",
+      "segmentIds": [
+        "seg-035",
+        "seg-036",
+        "seg-037"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-011",
+      "part": 1,
+      "startTime": 242.57,
+      "endTime": 265.65,
+      "text": "Yes, it's easily done, isn't it? So you're in bed now? Yes. Have you tried applying heat to the back? Yes, I've got a hot water bottle. That's usually the first thing I try. And have you taken any painkillers?",
+      "segmentIds": [
+        "seg-038",
+        "seg-039",
+        "seg-040"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-012",
+      "part": 1,
+      "startTime": 265.65,
+      "endTime": 287.86,
+      "text": "Yes. And other than that, you feel quite well? I do, yes. Right. Now, I can't diagnose or prescribe any medication, but I can offer you some advice. One thing you could do now is to see if ice makes any difference. That sometimes helps. But don't put it directly onto your skin.",
+      "segmentIds": [
+        "seg-041",
+        "seg-042",
+        "seg-043",
+        "seg-044"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-013",
+      "part": 1,
+      "startTime": 287.86,
+      "endTime": 311.0,
+      "text": "Wrap it up in a towel or something. And don't leave it on for longer than 20 minutes. Oh, right. I haven't tried that before. It can be useful sometimes. Now, have you seen your doctor about this? No, I just thought, well, everyone has back pain, but I've never had it as bad as this before. I think you should go and see your doctor tomorrow, and she may be able to give you something to help.",
+      "segmentIds": [
+        "seg-045",
+        "seg-046",
+        "seg-047",
+        "seg-048",
+        "seg-049"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-014",
+      "part": 1,
+      "startTime": 311.0,
+      "endTime": 330.0,
+      "text": "OK, I'll do that. I'm actually feeling a bit better now. Good. And you might get some advice from her about exercise. That's often the best way of dealing with this sort of problem. OK, I'll ask her. Right. Now, if you're worried about anything before tomorrow, you can always phone back. Our lines are open 24 hours.",
+      "segmentIds": [
+        "seg-050",
+        "seg-051",
+        "seg-052",
+        "seg-053",
+        "seg-054"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-015",
+      "part": 1,
+      "startTime": 331.0,
+      "endTime": 357.63,
+      "text": "Thanks very much. That is the end of Section 1.",
+      "segmentIds": [
+        "seg-055",
+        "seg-056"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-016",
+      "part": 1,
+      "startTime": 357.63,
+      "endTime": 386.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-057"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-017",
+      "part": 2,
+      "startTime": 386.0,
+      "endTime": 407.25,
+      "text": "Now turn to Section 2 on page 3. Part 2. You will hear a principal of a school talking to a group of parents about a three-day trip for pupils to an outdoor education centre. First, you have some time to look at questions 11 to 16. Now listen carefully and answer questions 11 to 16. Good evening. It's good to see so many parents here.",
+      "segmentIds": [
+        "seg-058",
+        "seg-059",
+        "seg-060",
+        "seg-061",
+        "seg-062"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-018",
+      "part": 2,
+      "startTime": 407.25,
+      "endTime": 444.9,
+      "text": "Let me begin by explaining why we go to the outdoor education centre. Well, by age 10, we feel the children are ready for a trip away from home but still in a safe environment and under the guidance of a familiar adult. At the school, we strongly believe children should be encouraged to try different things and not give up when it gets difficult.",
+      "segmentIds": [
+        "seg-063",
+        "seg-064",
+        "seg-065"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-019",
+      "part": 2,
+      "startTime": 444.9,
+      "endTime": 464.78,
+      "text": "And that's what the centre is all about, having a go. Anyway, to start with, the sleeping arrangements. For some children, this will be their first time in a tent and away from home, so please prepare them. You can do this just by making sure they have some early nights before we go.",
+      "segmentIds": [
+        "seg-066",
+        "seg-067",
+        "seg-068",
+        "seg-069"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-020",
+      "part": 2,
+      "startTime": 464.78,
+      "endTime": 487.92,
+      "text": "Another thing, there's space for three children per tent so we can't guarantee your child will be in with their best friends. So do make them aware of this. Now, you should have received a list with the clothing the children will need in their backpack. But there are some extras. Please provide a packet of biscuits or maybe fruit bars.",
+      "segmentIds": [
+        "seg-070",
+        "seg-071",
+        "seg-072",
+        "seg-073",
+        "seg-074"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-021",
+      "part": 2,
+      "startTime": 487.92,
+      "endTime": 511.64,
+      "text": "But these need to go in the box in the school hall, not with the children. Actually, what we do need in the backpacks are bags for cleaning up and for wet clothing, so plastic ones please. A torch is a good idea, but don't worry about putting money in because there's nothing to buy. While we're on the subject, let's talk about some other items.",
+      "segmentIds": [
+        "seg-075",
+        "seg-076",
+        "seg-077",
+        "seg-078"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-022",
+      "part": 2,
+      "startTime": 511.64,
+      "endTime": 534.41,
+      "text": "Cell phones are permitted, but they must be switched off at night and also off during the teaching sessions. Also, for wood carving activities, knives will be provided by the centre so children shouldn't bring them from home. Electronic games are banned, so rather than bring one of these children should bring quiet board games.",
+      "segmentIds": [
+        "seg-079",
+        "seg-080",
+        "seg-081"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-023",
+      "part": 2,
+      "startTime": 534.41,
+      "endTime": 558.62,
+      "text": "Turning to the question of parent attendance, in the past we've had too many volunteers so we have written names on bits of paper and pulled them out of the box. But then some parents have changed their minds. So, if you're absolutely sure you can come, put your name down on the sign-up form and the first ten will be asked to come.",
+      "segmentIds": [
+        "seg-082",
+        "seg-083",
+        "seg-084"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-024",
+      "part": 2,
+      "startTime": 558.62,
+      "endTime": 580.0,
+      "text": "Experience isn't required, we just want you to lend a hand. Now, I'm afraid the fee for the trip needs to be paid by the 15th. Payment to the centre is made by school, not by parents. And your teacher will be given your child a form with the school's bank account details if you want to use them to make payments.",
+      "segmentIds": [
+        "seg-085",
+        "seg-086",
+        "seg-087",
+        "seg-088"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-025",
+      "part": 2,
+      "startTime": 581.0,
+      "endTime": 615.0,
+      "text": "Otherwise, please leave payment in an envelope in the box at the school office. Before you hear the rest of the talk, you have some time to look at questions 17 to 20. Now listen and answer questions 17 to 20.",
+      "segmentIds": [
+        "seg-089",
+        "seg-090",
+        "seg-091"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-026",
+      "part": 2,
+      "startTime": 615.0,
+      "endTime": 636.76,
+      "text": "Right. Let's have a look the centre. I hope you all have leaflet with a map on the back and we'd like you to show this to your children before they go. Now, if you look at the map, you will see the entrance at the bottom. OK, so just through the entrance you'll see Reception. Now the wood-carving studio.",
+      "segmentIds": [
+        "seg-092",
+        "seg-093",
+        "seg-094",
+        "seg-095"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-027",
+      "part": 2,
+      "startTime": 636.76,
+      "endTime": 660.0,
+      "text": "So you see where the main hall is located. Well, to the right of the hall and opposite the kitchen is the new barbecue area and it's right next to that overlooking Forts Road. It's crucial that children know where the emergency meeting point is. If you look to the top of the map and to north of Forest Road, that's the location.",
+      "segmentIds": [
+        "seg-096",
+        "seg-097",
+        "seg-098",
+        "seg-099"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-028",
+      "part": 2,
+      "startTime": 661.0,
+      "endTime": 679.0,
+      "text": "It is on the same side of river as the tents. There's a lot going on at the river, for example, the Conservation Centre. See the building marked Kayaks on right side riverbank? Well, the Conservation Centre is between the two bridges just below it.",
+      "segmentIds": [
+        "seg-100",
+        "seg-101",
+        "seg-102",
+        "seg-103"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-029",
+      "part": 2,
+      "startTime": 679.0,
+      "endTime": 702.46,
+      "text": "I should also mention that if your child is not a confident swimmer, there are life jackets hanging all along the riverbank. If your children likes drawing and painting, the Arts and Crafts room is to the right of the river, a little further up from the kayaks. OK, so are there any questions so far? That is the end of Part 2.",
+      "segmentIds": [
+        "seg-104",
+        "seg-105",
+        "seg-106"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-030",
+      "part": 2,
+      "startTime": 702.46,
+      "endTime": 706.0,
+      "text": "You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-107"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-031",
+      "part": 3,
+      "startTime": 761.0,
+      "endTime": 782.75,
+      "text": "Hi Scott, here are my notes. Let's sort this presentation out then. The first thing I found out about Stone Point is it's an extinct volcanic cone. You probably know that already, being a New Zealander. Yes, and there are two other cones nearby, which also overlook the harbour. Right. Yeah, the first settlers of New Zealand, the Maori, sailed to New Zealand thousands of years after these volcanoes erupted.",
+      "segmentIds": [
+        "seg-108",
+        "seg-109",
+        "seg-110",
+        "seg-111",
+        "seg-112"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-032",
+      "part": 3,
+      "startTime": 782.75,
+      "endTime": 798.85,
+      "text": "I think the tutor allocated us this topic, though, because of Stone Point's significant historical role. It's been used by both Maori and European settlers as a place to shelter from attack or launch an attack, for centuries.(13:22 - 13:40)Yeah, and the fact it was an ideal place for building a village, it would have been quite a sheltered spot. I suppose the Maori settled there because they thought the volcanic soil would help their crops grow. Well, they would have realised the benefits of the soil after a few good harvests,",
+      "segmentIds": [
+        "seg-113",
+        "seg-114",
+        "seg-115",
+        "seg-116",
+        "seg-117"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-033",
+      "part": 3,
+      "startTime": 798.85,
+      "endTime": 830.0,
+      "text": "but initially the fishing opportunities would have been the attraction. You're right. Actually, I also read that Maori regard Stone Point as taonga. I believe that means a treasured thing.",
+      "segmentIds": [
+        "seg-118",
+        "seg-119",
+        "seg-120"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-034",
+      "part": 3,
+      "startTime": 830.0,
+      "endTime": 851.0,
+      "text": "Wow, your Maori vocabulary is improving, Scotch. We do have to deal with Stone Point's cultural value for Maori. That's still part of its historical significance, but we need to keep most Maori terminology out of the presentation, otherwise a lot of the international students won't be able to follow us.",
+      "segmentIds": [
+        "seg-121",
+        "seg-122",
+        "seg-123",
+        "seg-124"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-035",
+      "part": 3,
+      "startTime": 851.0,
+      "endTime": 874.0,
+      "text": "That's a shame. I'm sure they'd be interested. I mean, I am. But, yeah, we wouldn't be able to explain it in the time allowed, so I guess we have to stick to English. Anyway, European migrants turned Stone Point into a lookout point for ships. Then it became a fort, an army base in the late 1880s, and then during the World Wars the fort was modernised again.",
+      "segmentIds": [
+        "seg-125",
+        "seg-126",
+        "seg-127",
+        "seg-128"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-036",
+      "part": 3,
+      "startTime": 874.0,
+      "endTime": 893.13,
+      "text": "It's also been a public park sometimes. I'd prefer to devote more of the presentation to the military use of Stone Point. There are some great websites about the engines they installed. Sorry, I wouldn't go into the technical side if I were you. If you start describing mechanical stuff, people will switch off.",
+      "segmentIds": [
+        "seg-129",
+        "seg-130",
+        "seg-131",
+        "seg-132",
+        "seg-133"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-037",
+      "part": 3,
+      "startTime": 893.13,
+      "endTime": 914.0,
+      "text": "I think it's more interesting to look at the impact Stone Point had on the people's lives at the time. I mean, for example, there were about 25 years when they used local prisoners to build the tunnels and the underground rooms. They lived there too. Yeah, I guess, if we can find some first-hand accounts.",
+      "segmentIds": [
+        "seg-134",
+        "seg-135",
+        "seg-136"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-038",
+      "part": 3,
+      "startTime": 917.0,
+      "endTime": 949.3,
+      "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30 on page 6. Now listen and answer questions 25 to 30. OK, so let's make a checklist of things to do.",
+      "segmentIds": [
+        "seg-137",
+        "seg-138",
+        "seg-139"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-039",
+      "part": 3,
+      "startTime": 949.3,
+      "endTime": 988.17,
+      "text": "For the Early Maori Inhabitation section, we have to look at the material we've used again and make sure we know who the writers were and when they wrote it. Yes, that needs work. And for the part about Stone Point being used as a lookout point, I'm sure we can locate some drawings of how Stone Point looked then and the kind of ships coming in.",
+      "segmentIds": [
+        "seg-140",
+        "seg-141",
+        "seg-142"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-040",
+      "part": 3,
+      "startTime": 988.17,
+      "endTime": 1011.96,
+      "text": "Nice. And what else? We haven't got a lot of detail for the reconstruction of the fort. We should add some more information about what it was the prisoners were adding to it. OK, I'll do that bit too. So I'll deal with the section regarding the modernisation that happened in the 1930s and 40s. I mean, that's the bit where we have the most visible evidence of historic buildings.",
+      "segmentIds": [
+        "seg-143",
+        "seg-144",
+        "seg-145",
+        "seg-146",
+        "seg-147"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-041",
+      "part": 3,
+      "startTime": 1011.96,
+      "endTime": 1034.34,
+      "text": "I'll ring the Department of Conservation and see if they'll agree to let me film the site. Maybe allow me access to some of the tunnels the public don't see. OK. For the 1950s onwards, could you also arrange a meeting with someone from the Department of Conservation to ask them about their restoration work? I could try. Oh, and just about its use as a public park today. Where is the boundary exactly?",
+      "segmentIds": [
+        "seg-148",
+        "seg-149",
+        "seg-150",
+        "seg-151",
+        "seg-152"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-042",
+      "part": 3,
+      "startTime": 1034.34,
+      "endTime": 1042.0,
+      "text": "Does it go all the way to the beach? Not sure. I'll check that out.(17:22 - 17:38)Great. I suppose it would finish off the presentation nicely if we explain the future plans for the site. That is the end of section 3. You now have half a minute to check your answers.",
+      "segmentIds": [
+        "seg-153",
+        "seg-154",
+        "seg-155"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-043",
+      "part": 4,
+      "startTime": 1087.0,
+      "endTime": 1114.08,
+      "text": "Now turn to section 4 on page 7. Section 4. You will hear part of a lecture on rural development.",
+      "segmentIds": [
+        "seg-156",
+        "seg-157",
+        "seg-158"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-044",
+      "part": 4,
+      "startTime": 1114.08,
+      "endTime": 1154.0,
+      "text": "First, you have some time to look at questions 31 to 40 on page 7. Now listen carefully and answer questions 31 to 40. Good morning, everyone.",
+      "segmentIds": [
+        "seg-159",
+        "seg-160",
+        "seg-161"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-045",
+      "part": 4,
+      "startTime": 1155.0,
+      "endTime": 1184.0,
+      "text": "Now, you'll remember that last week we looked at the migration of people from the interior of West Africa to various coastal towns with special reference to Ghana. Today we're going to focus on the people known as the Berbers who live in North Africa. The Berbers inhabited this part of Africa as long ago as the 7th century and their society was based on tribes which were scattered throughout a number of countries Algeria, Morocco, Libya and Mali.",
+      "segmentIds": [
+        "seg-162",
+        "seg-163",
+        "seg-164"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-046",
+      "part": 4,
+      "startTime": 1184.0,
+      "endTime": 1202.0,
+      "text": "However, at some point in the 12th century, the area was invaded by Bedouin Arabs. These people destroyed the Berbers' peasant economy. As a result, many Berbers left their settlements to lead a nomadic life by wandering with their animals through the deserts and across the different mountains.",
+      "segmentIds": [
+        "seg-165",
+        "seg-166",
+        "seg-167"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-047",
+      "part": 4,
+      "startTime": 1204.0,
+      "endTime": 1222.0,
+      "text": "Over the centuries, many Berbers migrated to other countries like Spain and France to work as labourers, taking with them their culture and traditions and their descendants remain there until this day. Not all the Berbers led a fully nomadic life. There were three different groups.",
+      "segmentIds": [
+        "seg-168",
+        "seg-169",
+        "seg-170"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-048",
+      "part": 4,
+      "startTime": 1223.0,
+      "endTime": 1239.0,
+      "text": "Some became farmers cultivating the lowlands in the winter and grazing their flocks of animals in the mountains during the summer. They are called seasonal nomads. Some Berbers who led a completely nomadic life tended to move from one oasis to another.",
+      "segmentIds": [
+        "seg-171",
+        "seg-172",
+        "seg-173"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-049",
+      "part": 4,
+      "startTime": 1240.0,
+      "endTime": 1267.0,
+      "text": "A third group settled by the oases and grew fruit and vegetables like dates and eggplants as well as making olive oil which they used for cooking. Traditionally, Berbers kept cattle, sheep and goats together with oxen, mules and horses. In the Sahel region of North Africa, that's the area south of the Sahara desert, the region became and still is becoming increasingly dry and arid.",
+      "segmentIds": [
+        "seg-174",
+        "seg-175",
+        "seg-176"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-050",
+      "part": 4,
+      "startTime": 1267.0,
+      "endTime": 1288.11,
+      "text": "So the Berbers relied more and more on camels for transporting their families and their goods. How did these different groups of people survive in such harsh conditions? Where did they live? Well, Berbers who stayed put in one place built single-storey stone houses for protection by quarrying the local rock.",
+      "segmentIds": [
+        "seg-177",
+        "seg-178",
+        "seg-179"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-051",
+      "part": 4,
+      "startTime": 1288.11,
+      "endTime": 1318.66,
+      "text": "Whereas nomadic Berbers carried their homes with them and erected temporary tents, settled Berbers developed various small-scale industries such as pottery making and weaving, but these tasks were generally left to the Berber women. As you might expect though, the life of a settled community was governed by the men who met regularly in the village square to discuss affairs and make decisions.",
+      "segmentIds": [
+        "seg-180",
+        "seg-181",
+        "seg-182"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-052",
+      "part": 4,
+      "startTime": 1318.66,
+      "endTime": 1342.63,
+      "text": "Now let's turn to the Tuaregs who belonged to a nomadic Berber group and moved mainly in the central and western Sahara desert, north of the river Niger. The word Tuareg comes from the Arabic Tawareq and means God-forsaken. Desert Tuareg carried tents made of strips of goatskins sewn together.",
+      "segmentIds": [
+        "seg-183",
+        "seg-184",
+        "seg-185"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-053",
+      "part": 4,
+      "startTime": 1342.63,
+      "endTime": 1370.28,
+      "text": "As many as 40 skins were needed to make a complete tent. If the skins weren't available, they wove mats made of grass or palm leaves and hung them over a frame so that the tent looked like a humped dome. Tuareg society was traditionally very feudal and organised as a strict hierarchy ranging from nobles or aristocrats downwards to labourers whose ancestors had once been slaves.",
+      "segmentIds": [
+        "seg-186",
+        "seg-187",
+        "seg-188"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-054",
+      "part": 4,
+      "startTime": 1370.28,
+      "endTime": 1394.34,
+      "text": "Tuaregs were famous for their warlike qualities and fierce independence. In fact, one of the greatest insults was to suggest to a Tuareg that his father had died in his bed and not while fighting. Tuareg men were sometimes called blue men as all adult males wore a dark blue veil in the presence of women, strangers and in-laws.",
+      "segmentIds": [
+        "seg-189",
+        "seg-190",
+        "seg-191"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-055",
+      "part": 4,
+      "startTime": 1394.34,
+      "endTime": 1415.39,
+      "text": "Legend had it that a Tuareg man couldn't be recognised unless he was wearing this veil. But this custom of the veil began to disappear as more and more Tuaregs became urbanised and moved to the towns. I mentioned earlier how dry the Sahel region has become and there have been very severe droughts over the past 30 years.",
+      "segmentIds": [
+        "seg-192",
+        "seg-193",
+        "seg-194"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-056",
+      "part": 4,
+      "startTime": 1415.39,
+      "endTime": 1437.43,
+      "text": "This has meant that the number of Tuaregs living in the area has declined. Those whose animals were fortunate enough to survive have moved away from the southern Sahara into Burkina Faso in order to find new grazing lands for their herds. If there's one city which people associate with the Sahara desert it's probably Timbuktu.",
+      "segmentIds": [
+        "seg-195",
+        "seg-196",
+        "seg-197"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-057",
+      "part": 4,
+      "startTime": 1437.43,
+      "endTime": 1461.09,
+      "text": "But what most people don't know is that Timbuktu was founded by Tuareg nomads almost a thousand years ago. The city became the focal point of the trans-Saharan caravan routes. North African merchants flocked there to do business and trading in gold and salt flourished. For many years, Timbuktu was considered inaccessible.",
+      "segmentIds": [
+        "seg-198",
+        "seg-199",
+        "seg-200",
+        "seg-201"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-058",
+      "part": 4,
+      "startTime": 1461.09,
+      "endTime": 1484.55,
+      "text": "But today what is left of the city attracts a small number of tourists. The tourism department of the Mali government employs some Tuaregs who act as guides. Essential, really, when you realise that it's only the Tuaregs who can find their way around the desert using the sand dunes as landmarks.",
+      "segmentIds": [
+        "seg-202",
+        "seg-203",
+        "seg-204"
+      ],
+      "timestampSource": "exact"
+    },
+    {
+      "id": "long-059",
+      "part": 4,
+      "startTime": 1484.55,
+      "endTime": 1506.43,
+      "text": "Right, I'll take questions now before I go on to discuss Tamasheq, the language spoken by the Tuaregs, which also has an alphabet called... That is the end of section four. You now have half a minute to check your answers. That is the end of the listening test. You now have ten minutes to transfer your answers to the listening answer sheet.",
+      "segmentIds": [
+        "seg-205",
+        "seg-206",
+        "seg-207",
+        "seg-208",
+        "seg-209"
+      ],
+      "timestampSource": "exact"
+    }
+  ]
+}
