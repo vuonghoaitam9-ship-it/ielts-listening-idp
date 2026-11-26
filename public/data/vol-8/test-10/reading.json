@@ -1,0 +1,1345 @@
+{
+  "vol": 8,
+  "test": 10,
+  "testId": "vol-8-test-10",
+  "title": "IELTS Reading Vol 8 - Test 10",
+  "sourceName": "VOL 8 - ORIGINAL EXAMS/READING/Test 10.pdf",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "The Whale Goes to Court",
+      "subtitle": "A remarkable legal drama in the U.S.A.",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "In 1818 a whale became the subject of a controversial court case in New York City. The case involved an old law requiring those who sold fish oil to pay a fee in order to have their barrels inspected by city officials, and certified. However, an oil merchant named Samuel Judd refused to pay the inspection fee on three barrels of oil, claiming that no inspection was necessary because it was whale oil, and whales were not fish. The state disagreed, and so a date was set for a court to decide not a point of law, but the answer to a more fundamental question: is a whale a fish?"
+        },
+        {
+          "id": "P2",
+          "text": "As simple as that question may appear today, the answer was far from obvious in the early nineteenth century. Indeed, the public debate in New York sparked off by the trial was sensational. At stake was nothing less than what most regarded as the order of nature. According to the commonly accepted scheme of things, if an animal was not a beast or a bird, it was a fish, regardless of whether it breathed air or suckled its young. For as long as anyone could remember, all non-human creatures had been organised according to the categories of birds, beasts and fish. For the average person the answer seemed perfectly obvious: whales swam in the sea and therefore they were fish."
+        },
+        {
+          "id": "P3",
+          "text": "Against this traditional framework stood the new Linnaean system of classification, which sought to introduce more scientific values into the classification of living things. Barely half a century old in 1818, the Linnaean system controversially classified whales as mammals because they shared two mammalian characteristics: they were warm-blooded and breathed air."
+        },
+        {
+          "id": "P4",
+          "text": "So the trial began in December 1818. Judd’s defence lawyers chose as their star witness one of New York’s most prominent figures, the congressman Samuel Mitchill. Referred to as a ‘living encyclopaedia’ and a ‘walking library’, Mitchill was a renowned natural history lecturer at the College of Physicians and Surgeons who liked to dare his students to test his knowledge of the natural world. ‘Show me the fin, and I will name the fish,’ he boasted. Scientifically, it was an open-and-shut case, and Judd’s defence lawyers believed they only had to do one simple thing to win the trial: insist that it be decided by biology alone. Mitchill seemed fully qualified for this role."
+        },
+        {
+          "id": "P5",
+          "text": "But this is where the case becomes interesting, and is the reason why the trial of the whale is not some dusty nineteenth-century obscurity. For rather than debate Mitchill on his area of expertise, lawyers for the New York City fish-oil inspectors chose a different tack. Lead counsel William Sampson turned the trial into a contest between scientific learning and common sense, by asking plain-spoken whalers to make their case before the jury."
+        },
+        {
+          "id": "P6",
+          "text": "The crux of Sampson’s case was the trial’s implication with regard to humans, should Judd be found not guilty. Sampson told jury members that if they accepted Mitchill’s testimony on whales, they were obliged to accept a lower place for their own kind in the natural order. As a result, Mitchill’s day in court did not go smoothly, not least because he was forced to acknowledge serious disputes among his peers regarding exactly how to classify biological organisms. Sampson then took aim at Mitchill himself and what he represented: privileged aristocrats from the scientific community who had lost touch with reality. The smooth-talking Sampson then claimed Mitchill’s beliefs had their origin in Europe – something he rightly judged would infuriate the citizens of always-independent New York. This revolutionary new thinking, Sampson argued, was something that honest working New Yorkers could do without. No longer was this a case about barrels of oil, but the proper place of scientific knowledge in the U.S.A."
+        },
+        {
+          "id": "P7",
+          "text": "Ultimately, what won the case for Samuel Judd were not Mitchill’s scientific arguments, but testimony from a different sphere altogether. In New York’s markets, the merchants implicitly understood that whale oil and fish oil were not the same: whale oil could be used as a fuel for lamps because it could be burned without giving off smoke; fish oil, on the other hand, was nasty, impure stuff used primarily in tanning leather. In the end it was this testimony that led to Judd’s victory."
+        },
+        {
+          "id": "P8",
+          "text": "The trial of the whale still has relevance today, when the court of public opinion remains easily swayed by sceptics. The 1818 trial was really about this question: who gets to decide on the place of the natural world in the human world – scientific experts or public opinion? Whether the issue today is the effects of human activity on the climate of this planet, or one of many other contemporary topics, the legacy of Judd’s case continues to be of relevance."
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t10-p1-g1",
+          "questionRange": [
+            1,
+            7
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "An inspection fee on fish oil was introduced in New York in 1818.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "In 1818 a whale became the subject of a controversial court case in New York City.",
+              "evidenceTranslationVi": "Năm 1818, một con cá voi trở thành chủ đề của một vụ án gây tranh cãi ở thành phố New York.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn 1, câu 1 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 2,
+              "prompt": "Samuel Judd argued that the inspection fee should exclude whale oil.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 3",
+              "evidenceQuote": "However, an oil merchant named Samuel Judd refused to pay the inspection fee on three barrels of oil, claiming that no inspection was necessary because it was whale oil, and whales were not fish.",
+              "evidenceTranslationVi": "Tuy nhiên, một thương gia buôn dầu tên là Samuel Judd đã từ chối trả phí kiểm định cho ba thùng dầu, cho rằng không cần thiết phải kiểm tra vì đó là dầu cá voi, còn cá voi không phải là cá.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 1, câu 3 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 3,
+              "prompt": "Judd had been in trouble with city officials before the inspection fee disagreement.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 3",
+              "evidenceQuote": "However, an oil merchant named Samuel Judd refused to pay the inspection fee on three barrels of oil, claiming that no inspection was necessary because it was whale oil, and whales were not fish.",
+              "evidenceTranslationVi": "Tuy nhiên, một thương gia buôn dầu tên là Samuel Judd đã từ chối trả phí kiểm định cho ba thùng dầu, cho rằng không cần thiết phải kiểm tra vì đó là dầu cá voi, còn cá voi không phải là cá.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn 1, câu 3 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 4,
+              "prompt": "Many New Yorkers were interested in the court case at the time.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 2",
+              "evidenceQuote": "Indeed, the public debate in New York sparked off by the trial was sensational.",
+              "evidenceTranslationVi": "Quả thực, cuộc tranh luận công khai ở New York do phiên tòa gây ra đã rất giật gân.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 2, câu 2 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 5,
+              "prompt": "Traditionally, non-human creatures had been classified in one of three groups.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 5",
+              "evidenceQuote": "For as long as anyone could remember, all non-human creatures had been organised according to the categories of birds, beasts and fish.",
+              "evidenceTranslationVi": "Theo những gì mà bất cứ ai có thể nhớ được, tất cả các sinh vật không phải con người đều được tổ chức theo các loại chim, thú và cá.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 2, câu 5 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 6,
+              "prompt": "Generally speaking, ordinary people thought fish were the lowest form of life.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 2",
+              "evidenceQuote": "In New York’s markets, the merchants implicitly understood that whale oil and fish oil were not the same: whale oil could be used as a fuel for lamps because it could be burned without giving off smoke; fish oil, on the other hand, was nasty, impure stuff used primarily in tanning leather.",
+              "evidenceTranslationVi": "Tại các khu chợ ở New York, giới buôn ngầm hiểu rằng dầu cá voi và dầu cá không giống nhau: dầu cá voi có thể dùng làm nhiên liệu cho đèn vì đốt được mà không sinh ra khói; Mặt khác, dầu cá là thứ không tinh khiết, khó chịu được sử dụng chủ yếu trong thuộc da.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn 7, câu 2 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 7,
+              "prompt": "Whales were excluded from the Linnaean system in 1818.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 2",
+              "evidenceQuote": "Barely half a century old in 1818, the Linnaean system controversially classified whales as mammals because they shared two mammalian characteristics: they were warm-blooded and breathed air.",
+              "evidenceTranslationVi": "Mới tồn tại được nửa thế kỷ vào năm 1818, hệ thống Linnaean đã gây tranh cãi khi phân loại cá voi là động vật có vú vì chúng có chung hai đặc điểm của động vật có vú: chúng là loài máu nóng và thở không khí.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn 3, câu 2 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            }
+          ]
+        },
+        {
+          "id": "v8-t10-p1-g2",
+          "questionRange": [
+            8,
+            13
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY from the text for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "The Trial of December 1818\nThe Personalities\n• Samuel Mitchill worked as a congressman and a {{blank:8}}.\n• The defence wanted Mitchill to present the biology of the case.\n• William Sampson called {{blank:9}} as witnesses in order to appeal to\nthe common sense of the jury.\nThe Arguments\n• Sampson’s case was based on the consequences for humans if Judd won.\n• Mitchill admitted that scientists had disputes about classification.\n• New Yorkers disliked Mitchill because his ideas came from",
+          "questions": [
+            {
+              "number": 8,
+              "prompt": "The Trial of December 1818\nThe Personalities\n• Samuel Mitchill worked as a congressman and a {{blank:8}}.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "lecturer"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 3",
+              "evidenceQuote": "Referred to as a ‘living encyclopaedia’ and a ‘walking library’, Mitchill was a renowned natural history lecturer at the College of Physicians and Surgeons who liked to dare his students to test his knowledge of the natural world.",
+              "evidenceTranslationVi": "Được coi là 'bộ bách khoa toàn thư sống' và 'thư viện đi bộ', Mitchhill là giảng viên lịch sử tự nhiên nổi tiếng tại Trường Cao đẳng Bác sĩ và Bác sĩ phẫu thuật, người thích thách thức sinh viên của mình kiểm tra kiến ​​thức của mình về thế giới tự nhiên.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 4, câu 3 để điền \"lecturer\"."
+            },
+            {
+              "number": 9,
+              "prompt": "• William Sampson called {{blank:9}} as witnesses in order to appeal to\nthe common sense of the jury.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "whalers"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 3",
+              "evidenceQuote": "Lead counsel William Sampson turned the trial into a contest between scientific learning and common sense, by asking plain-spoken whalers to make their case before the jury.",
+              "evidenceTranslationVi": "Luật sư trưởng William Sampson đã biến phiên tòa thành một cuộc thi giữa kiến ​​thức khoa học và lẽ thường, bằng cách yêu cầu những người săn cá voi có lối nói thẳng thắn trình bày vụ việc của họ trước bồi thẩm đoàn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 5, câu 3 để điền \"whalers\"."
+            },
+            {
+              "number": 10,
+              "prompt": "Question 10",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "Europe"
+              ],
+              "evidenceParagraphId": "P6",
+              "evidenceLocation": "Đoạn 6, câu 5",
+              "evidenceQuote": "The smooth-talking Sampson then claimed Mitchill’s beliefs had their origin in Europe – something he rightly judged would infuriate the citizens of always-independent New York.",
+              "evidenceTranslationVi": "Sau đó, Sampson có giọng nói trôi chảy khẳng định niềm tin của Mitchhill có nguồn gốc từ Châu Âu - điều mà ông đánh giá đúng sẽ khiến người dân của New York luôn độc lập tức giận.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 6, câu 5 để điền \"Europe\"."
+            },
+            {
+              "number": 11,
+              "prompt": "Question 11",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "merchants"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 2",
+              "evidenceQuote": "In New York’s markets, the merchants implicitly understood that whale oil and fish oil were not the same: whale oil could be used as a fuel for lamps because it could be burned without giving off smoke; fish oil, on the other hand, was nasty, impure stuff used primarily in tanning leather.",
+              "evidenceTranslationVi": "Tại các khu chợ ở New York, giới buôn ngầm hiểu rằng dầu cá voi và dầu cá không giống nhau: dầu cá voi có thể dùng làm nhiên liệu cho đèn vì đốt được mà không sinh ra khói; Mặt khác, dầu cá là thứ không tinh khiết, khó chịu được sử dụng chủ yếu trong thuộc da.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 7, câu 2 để điền \"merchants\"."
+            },
+            {
+              "number": 12,
+              "prompt": "Question 12",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "fuel"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 2",
+              "evidenceQuote": "In New York’s markets, the merchants implicitly understood that whale oil and fish oil were not the same: whale oil could be used as a fuel for lamps because it could be burned without giving off smoke; fish oil, on the other hand, was nasty, impure stuff used primarily in tanning leather.",
+              "evidenceTranslationVi": "Tại các khu chợ ở New York, giới buôn ngầm hiểu rằng dầu cá voi và dầu cá không giống nhau: dầu cá voi có thể dùng làm nhiên liệu cho đèn vì đốt được mà không sinh ra khói; Mặt khác, dầu cá là thứ không tinh khiết, khó chịu được sử dụng chủ yếu trong thuộc da.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 7, câu 2 để điền \"fuel\"."
+            },
+            {
+              "number": 13,
+              "prompt": "Question 13",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "climate"
+              ],
+              "evidenceParagraphId": "P8",
+              "evidenceLocation": "Đoạn 8, câu 3",
+              "evidenceQuote": "Whether the issue today is the effects of human activity on the climate of this planet, or one of many other contemporary topics, the legacy of Judd’s case continues to be of relevance.",
+              "evidenceTranslationVi": "Cho dù vấn đề ngày nay là tác động của hoạt động của con người đến khí hậu của hành tinh này hay một trong nhiều chủ đề đương đại khác, thì di sản của vụ án Judd vẫn tiếp tục có giá trị.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 8, câu 3 để điền \"climate\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "Reading Passage 2",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "Q10",
+          "text": "Conclusions • In the end it was statements from local (11)_____________________, not Mitchill’s testimony, which helped Judd win. • Whale oil made a good (12)_____________________ because it was clean. • Judd’s case is relevant today, e.g. in the debate about Earth’s",
+          "label": "Q10"
+        },
+        {
+          "id": "Q13",
+          "text": "Herbal Medicine A There is an age-old practice of harvesting plants and herbs in their natural environment for use as medicines. And today there is huge potential for New Zealand to develop a herb industry based on the excellent growing conditions and expertise there, according to Phil Rasmussen, a pharmacist and medical herbalist. Take arnica for example, a popular pharmaceutical herb used to treat bruises and joint problems. Traditionally collected by Romanian communities in Europe, it is now in high demand worldwide as interest develops in the capabilities of the small alpine plant. A 2008 report for the Plant and Food Research organization concluded that New Zealand has a good opportunity to cultivate arnica flowers and roots for the international markets. However, the initiative was stopped in its tracks when the government abruptly halted funding for the research programmer. It was an unjustified move, according to agronomist Malcolm Douglas, based on a number of inaccurate views about weed invasion.",
+          "label": "Q13"
+        },
+        {
+          "id": "B",
+          "text": "The history of herbal medicines in New Zealand has long featured disagreements of this sort. For the early Maori people the original inhabitants of New Zealand the forest was well stocked with edible plants that were an obvious source of nutrition, but that were taken for the relief of pain as well. While the earliest European doctors in New Zealand relied on imported dried herbs, many were keen to include native plants in their practices: in his book published in 1891, herbalist James Neil described manuka and koromiko as among New Zealand's most valuable herbs. Despite its popularity among some, however, herbalism continued to have its detractor. In 1907 Neil, president of the then very young New Zealand Association of Medical Herbalists (NZAMH), petitioned parliament for legal status for herbalists, but he was unsuccessful. The Evening Post newspaper perhaps summed up the opposing position by claiming that herbalism 'is obsolete'.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "In fact, traditional Maori medicine faced a more determined challenge. In 1908 the government passed a controversial law that had the effect of restricting traditional herbal practice, or pushing it underground. Then for a brief period in the mid-20th century, herbal medicine was largely ignored, shunned by the majority of the medical profession, and absent from medical school curricula. But a centuries-old tradition was not going to disappear so easily, and in the 1980s the NZAMH was revived, and it became possible to complete a course in herbal medicine at several polytechnics around the country. However, the problem remained of how to connect the culture of plant-based medicine with conventional scientific thinking in order to promote herbal use within the general population. For many years, the limited evidence there was that herbal medicines worked was undermined by lack of interest among general practitioners and within the scientific community.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Today, the ideas of herbalists in the 1980s-eat a varied diet, include lots of fresh fruit and vegetables, recognise stress - are completely accepted by the medical establishment and widely practiced in society as a whole. Natural health products are big sellers in pharmacies, and global pharmaceutical companies are buying up natural supplement brands or developing their own.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "What’s more, according to Rasmussen, robust clinical trials show that herbal medicine is generally safe-safer than most drugs. ‘It doesn’t do everything,’he says, ‘but there’s a lot it does do, particularly in terms of preventative health care.’One significant issue for today’s export-oriented herbal medicine producers is the question of how to guarantee standards for consumers in different countries. In other words, there is the need for some form of globally recognised system of documentation. Rasmussen's range of extracts are produced under the Good Manufacturing Practice (GMP) scheme, which is respected around the world. So too is the range produced by Sandra Clair, who says that such assurance is expensive but necessary if you want to export herbal remedies to the rest of the world. Moves to launch a joint Australia-New Zealand agency to regulate herbal remedies under a single, streamlined licensing process have recently been revived, after being abandoned in 2007 through lack of support in parliament.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "There are those in the industry who support further regulation still. According to Rasmussen, some herbs should require a prescription from a suitably qualified medical herbalist or doctor. For example, consumers shouldn't be able to go to their local supermarket and buy St John's Wort, according to Rasmussen, because it can interact in harmful ways with at least ten pharmaceutical drugs. Isla Burgess, who is part of the International Research Group for the Conservation of Medicinal Plants, agrees that tighter regulation is necessary,' but for a different reason. 'More than 400,000 tones of medicinal and aromatic plants are trade in the world each year,' says Burgess. 'The great majority of these are harvested from the wild, so they each have an impact on their local ecosystem.' She gives the example of elm trees in the USA ringbarked and stripped for the growing market for a product called 'slippery elm': this endangered tree should be protected. But others argue that more regulation would be prohibitively expensive for all but the largest manufacturers - a change, cautions Clair, that would probably put some local companies out of business[24.1]. So, for the time being at least, it seems that the topic of herbal medicines will continue to provoke debate.",
+          "label": "F"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t10-p2-g1",
+          "questionRange": [
+            14,
+            17
+          ],
+          "type": "matching_info",
+          "instruction": "Which paragraph contains the following information? NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "key": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "key": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "key": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "a reference to the interest shown by large corporations in herbal remedies",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 2",
+              "evidenceQuote": "Natural health products are big sellers in pharmacies, and global pharmaceutical companies are buying up natural supplement brands or developing their own.",
+              "evidenceTranslationVi": "Các sản phẩm sức khỏe tự nhiên được bán chạy ở các hiệu thuốc và các công ty dược phẩm toàn cầu đang mua lại các nhãn hiệu thực phẩm bổ sung tự nhiên hoặc phát triển nhãn hiệu riêng của họ.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn D (Đoạn D, câu 2)."
+            },
+            {
+              "number": 15,
+              "prompt": "examples of the uses of one particular herbal medicine",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "Q13",
+              "evidenceLocation": "Đoạn Q13, câu 3",
+              "evidenceQuote": "Take arnica for example, a popular pharmaceutical herb used to treat bruises and joint problems.",
+              "evidenceTranslationVi": "Lấy kim sa làm ví dụ, một loại dược thảo phổ biến dùng để điều trị vết bầm tím và các vấn đề về khớp.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn A (Đoạn Q13, câu 3)."
+            },
+            {
+              "number": 16,
+              "prompt": "a warning that small companies cannot afford stricter controls of the herbal medicine industry",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 7",
+              "evidenceQuote": "But others argue that more regulation would be prohibitively expensive for all but the largest manufacturers - a change, cautions Clair, that would probably put some local companies out of business[24.1].",
+              "evidenceTranslationVi": "Nhưng những người khác cho rằng việc ban hành nhiều quy định hơn sẽ gây tốn kém cho tất cả mọi người, trừ những nhà sản xuất lớn nhất - một sự thay đổi, Clair cảnh báo, có thể sẽ khiến một số công ty địa phương phá sản[24.1].",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn F (Đoạn F, câu 7)."
+            },
+            {
+              "number": 17,
+              "prompt": "a statement by one expert about the effectiveness and limitations of herbal medicines",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 2",
+              "evidenceQuote": "‘It doesn’t do everything,’he says, ‘but there’s a lot it does do, particularly in terms of preventative health care.’One significant issue for today’s export-oriented herbal medicine producers is the question of how to guarantee standards for consumers in different countries.",
+              "evidenceTranslationVi": "“Nó không làm được mọi thứ,” ông nói, “nhưng nó làm được rất nhiều thứ, đặc biệt là về mặt chăm sóc sức khỏe phòng ngừa”. Một vấn đề quan trọng đối với các nhà sản xuất thuốc thảo dược định hướng xuất khẩu ngày nay là câu hỏi làm thế nào để đảm bảo tiêu chuẩn cho người tiêu dùng ở các quốc gia khác nhau.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn E (Đoạn E, câu 2)."
+            }
+          ]
+        },
+        {
+          "id": "v8-t10-p2-g2",
+          "questionRange": [
+            18,
+            21
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the summary below: Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "The history of herbal medicines in New Zealand\nOriginally, the Maori people consumed plants to help deal with {{blank:18}}\nand also as food. When Europeans settled in the country, a {{blank:19}} by\nJames Neil showed that some of them also recognized the medicinal value of native plants.\nHowever, criticism of herbal medicine appeared in one newspaper in 1907. The following\nyear, the use of herbal medicines was made more difficult because of a new\n{{blank:20}}, and for a time in the mid-20th century, they were largely ignored.\nThen, in the 1980s, a number of institutions started offering a {{blank:21}} in\nthe subject, although for many years there was still little evidence to support their use\nbecause doctors and academics were not interested.",
+          "questions": [
+            {
+              "number": 18,
+              "prompt": "The history of herbal medicines in New Zealand\nOriginally, the Maori people consumed plants to help deal with {{blank:18}}\nand also as food.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "pain"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 2",
+              "evidenceQuote": "For the early Maori people the original inhabitants of New Zealand the forest was well stocked with edible plants that were an obvious source of nutrition, but that were taken for the relief of pain as well.",
+              "evidenceTranslationVi": "Đối với những người Maori đầu tiên, những cư dân nguyên thủy của New Zealand, rừng có rất nhiều loại cây ăn được, là nguồn dinh dưỡng rõ ràng, nhưng chúng cũng được sử dụng để giảm đau.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 2 để điền \"pain\"."
+            },
+            {
+              "number": 19,
+              "prompt": "When Europeans settled in the country, a {{blank:19}} by\nJames Neil showed that some of them also recognized the medicinal value of native plants.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "book"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 3",
+              "evidenceQuote": "While the earliest European doctors in New Zealand relied on imported dried herbs, many were keen to include native plants in their practices: in his book published in 1891, herbalist James Neil described manuka and koromiko as among New Zealand's most valuable herbs.",
+              "evidenceTranslationVi": "Trong khi các bác sĩ châu Âu đầu tiên ở New Zealand dựa vào các loại thảo mộc khô nhập khẩu, nhiều người lại muốn đưa các loại cây bản địa vào thực hành của họ: trong cuốn sách xuất bản năm 1891, nhà thảo dược học James Neil đã mô tả manuka và koromiko là một trong những loại thảo mộc có giá trị nhất của New Zealand.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 3 để điền \"book\"."
+            },
+            {
+              "number": 20,
+              "prompt": "The following\nyear, the use of herbal medicines was made more difficult because of a new\n{{blank:20}}, and for a time in the mid-20th century, they were largely ignored.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "law"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 2",
+              "evidenceQuote": "In 1908 the government passed a controversial law that had the effect of restricting traditional herbal practice, or pushing it underground.",
+              "evidenceTranslationVi": "Năm 1908, chính phủ đã thông qua một đạo luật gây tranh cãi có tác dụng hạn chế việc thực hành thảo dược truyền thống hoặc đẩy nó vào hoạt động ngầm.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn C, câu 2 để điền \"law\"."
+            },
+            {
+              "number": 21,
+              "prompt": "Then, in the 1980s, a number of institutions started offering a {{blank:21}} in\nthe subject, although for many years there was still little evidence to support their use\nbecause doctors and academics were not interested.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "counsel"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 4",
+              "evidenceQuote": "But a centuries-old tradition was not going to disappear so easily, and in the 1980s the NZAMH was revived, and it became possible to complete a course in herbal medicine at several polytechnics around the country.",
+              "evidenceTranslationVi": "Nhưng truyền thống hàng thế kỷ sẽ không biến mất dễ dàng như vậy, và vào những năm 1980, NZAMH đã được hồi sinh và người ta có thể hoàn thành khóa học về thuốc thảo dược tại một số trường bách khoa trên khắp đất nước.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn C, câu 4 để điền \"counsel\"."
+            }
+          ]
+        },
+        {
+          "id": "v8-t10-p2-g3",
+          "questionRange": [
+            22,
+            26
+          ],
+          "type": "matching_features",
+          "instruction": "Look at the following statements (Questions 22-26) and the list of people below. Match each statement with the correct person, A, B, C or D. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Phil Rasmussen"
+            },
+            {
+              "key": "B",
+              "text": "Malcolm Douglas"
+            },
+            {
+              "key": "C",
+              "text": "Sandra Clair"
+            },
+            {
+              "key": "D",
+              "text": "Isla Burgess A B C D"
+            }
+          ],
+          "questions": [
+            {
+              "number": 22,
+              "prompt": "There ought to be restrictions on where you can buy some herbal medicines.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Phil Rasmussen"
+                },
+                {
+                  "key": "B",
+                  "text": "Malcolm Douglas"
+                },
+                {
+                  "key": "C",
+                  "text": "Sandra Clair"
+                },
+                {
+                  "key": "D",
+                  "text": "Isla Burgess A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 2",
+              "evidenceQuote": "According to Rasmussen, some herbs should require a prescription from a suitably qualified medical herbalist or doctor.",
+              "evidenceTranslationVi": "Theo Rasmussen, một số loại thảo mộc cần có đơn thuốc của bác sĩ hoặc nhà thảo dược y tế có trình độ phù hợp.",
+              "explanationVi": "Thông tin tại Đoạn F, câu 2 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 23,
+              "prompt": "The authorities stopped supporting one project without a good reason.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Phil Rasmussen"
+                },
+                {
+                  "key": "B",
+                  "text": "Malcolm Douglas"
+                },
+                {
+                  "key": "C",
+                  "text": "Sandra Clair"
+                },
+                {
+                  "key": "D",
+                  "text": "Isla Burgess A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "Q13",
+              "evidenceLocation": "Đoạn Q13, câu 7",
+              "evidenceQuote": "It was an unjustified move, according to agronomist Malcolm Douglas, based on a number of inaccurate views about weed invasion.",
+              "evidenceTranslationVi": "Theo nhà nông học Malcolm Douglas, đó là một động thái không chính đáng, dựa trên một số quan điểm không chính xác về sự xâm lấn của cỏ dại.",
+              "explanationVi": "Thông tin tại Đoạn Q13, câu 7 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 24,
+              "prompt": "The herbal medicine industry has an effect on the environment where some plant-based medicines are found.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Phil Rasmussen"
+                },
+                {
+                  "key": "B",
+                  "text": "Malcolm Douglas"
+                },
+                {
+                  "key": "C",
+                  "text": "Sandra Clair"
+                },
+                {
+                  "key": "D",
+                  "text": "Isla Burgess A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 6",
+              "evidenceQuote": "'The great majority of these are harvested from the wild, so they each have an impact on their local ecosystem.' She gives the example of elm trees in the USA ringbarked and stripped for the growing market for a product called 'slippery elm': this endangered tree should be protected.",
+              "evidenceTranslationVi": "'Phần lớn trong số này được thu hoạch từ tự nhiên, vì vậy mỗi loại đều có tác động đến hệ sinh thái địa phương.' Cô đưa ra ví dụ về cây du ở Hoa Kỳ được bóc vỏ và tước vỏ để phục vụ thị trường đang phát triển cho một sản phẩm có tên là 'cây du trơn': loại cây có nguy cơ tuyệt chủng này cần được bảo vệ.",
+              "explanationVi": "Thông tin tại Đoạn F, câu 6 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 25,
+              "prompt": "New Zealand has the human resources and natural environment to grow herbs commercially.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Phil Rasmussen"
+                },
+                {
+                  "key": "B",
+                  "text": "Malcolm Douglas"
+                },
+                {
+                  "key": "C",
+                  "text": "Sandra Clair"
+                },
+                {
+                  "key": "D",
+                  "text": "Isla Burgess A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "Q13",
+              "evidenceLocation": "Đoạn Q13, câu 2",
+              "evidenceQuote": "And today there is huge potential for New Zealand to develop a herb industry based on the excellent growing conditions and expertise there, according to Phil Rasmussen, a pharmacist and medical herbalist.",
+              "evidenceTranslationVi": "Và ngày nay, New Zealand có tiềm năng rất lớn để phát triển ngành công nghiệp thảo mộc dựa trên điều kiện phát triển tuyệt vời và chuyên môn ở đó, theo Phil Rasmussen, một dược sĩ và nhà thảo dược y học.",
+              "explanationVi": "Thông tin tại Đoạn Q13, câu 2 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 26,
+              "prompt": "It is essential for herbal medicines to have international certification, despite the cost.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Phil Rasmussen"
+                },
+                {
+                  "key": "B",
+                  "text": "Malcolm Douglas"
+                },
+                {
+                  "key": "C",
+                  "text": "Sandra Clair"
+                },
+                {
+                  "key": "D",
+                  "text": "Isla Burgess A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 5",
+              "evidenceQuote": "So too is the range produced by Sandra Clair, who says that such assurance is expensive but necessary if you want to export herbal remedies to the rest of the world.",
+              "evidenceTranslationVi": "Dòng sản phẩm do Sandra Clair sản xuất cũng vậy, người nói rằng sự đảm bảo như vậy là tốn kém nhưng cần thiết nếu bạn muốn xuất khẩu các phương thuốc thảo dược sang phần còn lại của thế giới.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 5 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "Science in the kitchen",
+      "subtitle": "Chefs are bringing a new standard of experimentation and precision to their cooking.",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "There is a recent movement in the world of food, in which chefs are collaborating with scientists to teach themselves the chemistry and physics of cuisine. Even academics are getting excited about the results. Colin Osborne of the Royal Society of Chemistry in London is enthusiastic: “Chefs are using unusual methods to produce exciting dishes that would be impossible without modern science,” he says. You may wonder what’s wrong with long established culinary traditions. The fact is, many culturally ingrained cooking methods are less than perfect. Osborne gives the example of the common belief that frying meat seals in moisture, while researchers who weighed the meat actually found that moisture is lost in the process. Another example is the age old technique of adding salt when boiling vegetables to raise the water’s boiling point, thus cooking the vegetables faster. In fact, the amount of salt typically added does not raise the temperature significantly – or improve the flavour, since only a minuscule amount is absorbed."
+        },
+        {
+          "id": "P2",
+          "text": "Hervé This, director of the Molecular Gastronomy team at the French National Institute for Agricultural Research, spends much of his time trying to disprove culinary old wives’ tales. He is empirically testing traditional beliefs about cooking and disproving the more absurd, tackling such questions as whether it’s better to add vinaigrette to potato salad while the potatoes are still hot. “The first modern chemists used kitchen equipment to do their experiments,” Hervé This explains. “Since then, chemistry has undergone massive changes – but cooking methods have remained largely as they were in the Middle Ages.”"
+        },
+        {
+          "id": "P3",
+          "text": "“It’s seriously important work,” says Peter Barham, a physicist at Bristol University. “If you understand what’s going on in cooking, you’ll be better equipped to improve it.” Barham contends that it’s difficult to get consistent results from cookery books, because recipes are typically poorly written. In stark contrast, he notes, scientific papers are subject to peer review, whereby experts pore over experiments to ensure they can be accurately reproduced."
+        },
+        {
+          "id": "P4",
+          "text": "Barham also collaborates with leading British chef Heston Blumenthal, proprietor of The Fat Duck, a restaurant in the south of England. The restaurant is widely regarded as one of the best in the world, serving delightfully unexpected dishes such as nitro scrambled egg and bacon ice cream."
+        },
+        {
+          "id": "P5",
+          "text": "When Simon Campbell of the Royal Society of Chemistry bestowed an honorary fellowship on Blumenthal for creative applications of science to cooking, he said: “The scientific community admires and respects the research that Mr Blumenthal has performed to harness cuisine to science. Through his inquisitive and innovative approach to food he has underlined spectacularly how chemistry permeates all aspects of texture, taste and smell.”"
+        },
+        {
+          "id": "P6",
+          "text": "Although some dishes sound gimmicky, this innovative approach to cooking is paying off. El Bulli in Catalonia, Spain – directed by chef Ferran Adrià – is another leading restaurant thus enthusiastically engaging with scientific techniques. It closes for six months of the year (to allow six months for research and development), yet is rumoured to be booked out for an entire year in advance."
+        },
+        {
+          "id": "P7",
+          "text": "Such restaurants are part of the movement known as ‘molecular gastronomy’, an expression coined by physicist Nicholas Kurti, working in collaboration with Hervé This. Kurti once quipped that “it is a sad reflection that we know the temperature inside the stars better than the temperature inside a soufflé*.” Kurti and Hervé This devised the expression ‘molecular gastronomy’ during the 1980s to denote the science of culinary transformations and eating phenomena, and differentiate it from food science."
+        },
+        {
+          "id": "P8",
+          "text": "“Twenty years ago the worlds of science and cooking were neatly compartmentalised,” agrees author Harold McGee, a top food science writer. “There was food science: an applied science mainly concerned with understanding the materials and processes of industrial manufacturing. And there was the world of domestic and restaurant cooking, traditional crafts that had never attracted much scientific attention.”"
+        },
+        {
+          "id": "P9",
+          "text": "A lot has changed in the two decades since he published his influential book on the topic. In a revised edition, McGee says the book was “riding a rising wave of general interest in food, a wave that grew and grew, and knocked down the barriers between science and cooking, especially in the last decade. Science has found its way into the kitchen, and cooking into laboratories.”"
+        },
+        {
+          "id": "P10",
+          "text": "So what does the future hold? Rachel Edwards Stuart is a graduate PhD student who is studying some remarkable food additives, including modified cellulose gels that solidify on heating and melt again as they are cooled. The idea is to make dishes that develop different flavours as they are eaten. Her other project is creating drinks that change flavour."
+        },
+        {
+          "id": "P11",
+          "text": "“The concept came from Roald Dahl’s children’s book Charlie and the Chocolate Factory, where Willy Wonka makes a bubble gum that is a whole meal in one sweet,” she says. Unfortunately, Edwards Stuart was unable to say more, due to a confidentiality agreement with the restaurant for which she conducts her research."
+        },
+        {
+          "id": "P12",
+          "text": "While Hervé This, Blumenthal and Edwards Stuart are the pioneers, the next phase will be to bring science into kitchens at home. Already there are books that provide an insight into the wondrous chemistry that turns humble ingredients into cuisine. And as the movement grows it will not be long before we see laboratory test tubes, flasks and maybe the odd centrifuge on sale next to carving knives, rolling pins and pressure cookers. ------------------------------------------------------------------------------------------------- soufflé*:A French dish made using beaten eggs"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t10-p3-g1",
+          "questionRange": [
+            27,
+            31
+          ],
+          "type": "ynng",
+          "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "Scientists and chefs have a long established history of working together.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "There is a recent movement in the world of food, in which chefs are collaborating with scientists to teach themselves the chemistry and physics of cuisine.",
+              "evidenceTranslationVi": "Gần đây có một phong trào trong thế giới ẩm thực, trong đó các đầu bếp đang hợp tác với các nhà khoa học để tự học về hóa học và vật lý của ẩm thực.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn 1, câu 1 lập luận ngược lại với nhận định của câu hỏi."
+            },
+            {
+              "number": 28,
+              "prompt": "Traditional ways of cooking tend to be supported by modern scientific research.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 4",
+              "evidenceQuote": "You may wonder what’s wrong with long established culinary traditions.",
+              "evidenceTranslationVi": "Bạn có thể thắc mắc có điều gì sai trái với truyền thống ẩm thực lâu đời.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn 1, câu 4 lập luận ngược lại với nhận định của câu hỏi."
+            },
+            {
+              "number": 29,
+              "prompt": "The food produced by Heston Blumenthal at The Fat Duck is unconventional.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 2",
+              "evidenceQuote": "The restaurant is widely regarded as one of the best in the world, serving delightfully unexpected dishes such as nitro scrambled egg and bacon ice cream.",
+              "evidenceTranslationVi": "Nhà hàng được nhiều người đánh giá là một trong những nhà hàng ngon nhất thế giới, phục vụ các món ăn thú vị bất ngờ như trứng bác nitro và kem thịt xông khói.",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn 4, câu 2 hoàn toàn trùng với nhận định trong câu hỏi."
+            },
+            {
+              "number": 30,
+              "prompt": "El Bulli is the most popular restaurant of its kind in Spain.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P6",
+              "evidenceLocation": "Đoạn 6, câu 2",
+              "evidenceQuote": "El Bulli in Catalonia, Spain – directed by chef Ferran Adrià – is another leading restaurant thus enthusiastically engaging with scientific techniques.",
+              "evidenceTranslationVi": "El Bulli ở Catalonia, Tây Ban Nha – do đầu bếp Ferran Adrià chỉ đạo – là một nhà hàng hàng đầu khác do đó nhiệt tình áp dụng các kỹ thuật khoa học.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn 6, câu 2 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 31,
+              "prompt": "McGee has plans to open his own restaurant.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P9",
+              "evidenceLocation": "Đoạn 9, câu 2",
+              "evidenceQuote": "In a revised edition, McGee says the book was “riding a rising wave of general interest in food, a wave that grew and grew, and knocked down the barriers between science and cooking, especially in the last decade.",
+              "evidenceTranslationVi": "Trong một ấn bản sửa đổi, McGee cho biết cuốn sách đã “thúc đẩy một làn sóng quan tâm chung về thực phẩm ngày càng tăng, một làn sóng ngày càng lớn mạnh và phá bỏ các rào cản giữa khoa học và nấu ăn, đặc biệt là trong thập kỷ qua.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn 9, câu 2 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            }
+          ]
+        },
+        {
+          "id": "v8-t10-p3-g2",
+          "questionRange": [
+            32,
+            35
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 32,
+              "prompt": "The purpose of Hervé This’s research is to",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "determine how chemistry has influenced modern cooking."
+                },
+                {
+                  "key": "B",
+                  "text": "provide a scientific basis for traditional cooking methods."
+                },
+                {
+                  "key": "C",
+                  "text": "show that long held beliefs about cooking are wrong."
+                },
+                {
+                  "key": "D",
+                  "text": "offer practical advice to those who cook at home."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 1",
+              "evidenceQuote": "Hervé This, director of the Molecular Gastronomy team at the French National Institute for Agricultural Research, spends much of his time trying to disprove culinary old wives’ tales.",
+              "evidenceTranslationVi": "Hervé This, giám đốc nhóm Ẩm thực phân tử tại Viện nghiên cứu nông nghiệp quốc gia Pháp, dành phần lớn thời gian của mình để cố gắng bác bỏ những câu chuyện về các bà vợ già về ẩm thực.",
+              "explanationVi": "Thông tin tại Đoạn 2, câu 1 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 33,
+              "prompt": "According to Peter Barham, one difference between cookery books and scientific papers is that",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "scientific papers are checked by more people."
+                },
+                {
+                  "key": "B",
+                  "text": "the writers of cookery books need not be qualified."
+                },
+                {
+                  "key": "C",
+                  "text": "the language used in scientific papers is more complicated."
+                },
+                {
+                  "key": "D",
+                  "text": "recipe writers can profit more financially than scientific writers."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 3",
+              "evidenceQuote": "In stark contrast, he notes, scientific papers are subject to peer review, whereby experts pore over experiments to ensure they can be accurately reproduced.",
+              "evidenceTranslationVi": "Ngược lại, ông lưu ý, các bài báo khoa học phải được bình duyệt, theo đó các chuyên gia nghiên cứu kỹ các thí nghiệm để đảm bảo chúng có thể được sao chép chính xác.",
+              "explanationVi": "Thông tin tại Đoạn 3, câu 3 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 34,
+              "prompt": "Nicholas Kurti referred to a soufflé in order to",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "give an example of a dish that can easily be ruined by excess heat."
+                },
+                {
+                  "key": "B",
+                  "text": "highlight the inadequacy of scientific research into cooking."
+                },
+                {
+                  "key": "C",
+                  "text": "show that cooking is similar to other scientific processes."
+                },
+                {
+                  "key": "D",
+                  "text": "confess his own limitations as a cook."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 2",
+              "evidenceQuote": "Kurti once quipped that “it is a sad reflection that we know the temperature inside the stars better than the temperature inside a soufflé*.” Kurti and Hervé This devised the expression ‘molecular gastronomy’ during the 1980s to denote the science of culinary transformations and eating phenomena, and differentiate it from food science.",
+              "evidenceTranslationVi": "Kurti từng châm biếm rằng “thật đáng buồn khi chúng ta biết rõ nhiệt độ bên trong các ngôi sao hơn nhiệt độ bên trong một chiếc bánh soufflé*.” Kurti và Hervé Điều này đã nghĩ ra thuật ngữ 'ẩm thực phân tử' trong những năm 1980 để biểu thị khoa học về sự biến đổi ẩm thực và hiện tượng ăn uống, đồng thời phân biệt nó với khoa học thực phẩm.",
+              "explanationVi": "Thông tin tại Đoạn 7, câu 2 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 35,
+              "prompt": "One aspect of Rachel Edwards Stuart’s research involves",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "matching solid food to complementary liquids."
+                },
+                {
+                  "key": "B",
+                  "text": "determining which tastes appeal to young people."
+                },
+                {
+                  "key": "C",
+                  "text": "studying how food changes form in certain conditions."
+                },
+                {
+                  "key": "D",
+                  "text": "evaluating the risk of damage from using preservatives in food."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P10",
+              "evidenceLocation": "Đoạn 10, câu 2",
+              "evidenceQuote": "Rachel Edwards Stuart is a graduate PhD student who is studying some remarkable food additives, including modified cellulose gels that solidify on heating and melt again as they are cooled.",
+              "evidenceTranslationVi": "Rachel Edwards Stuart là một nghiên cứu sinh tiến sĩ đã tốt nghiệp đang nghiên cứu một số chất phụ gia thực phẩm đáng chú ý, bao gồm cả gel cellulose biến tính có thể đông cứng khi đun nóng và tan chảy trở lại khi chúng được làm lạnh.",
+              "explanationVi": "Thông tin tại Đoạn 10, câu 2 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t10-p3-g3",
+          "questionRange": [
+            36,
+            40
+          ],
+          "type": "matching_sentence_endings",
+          "instruction": "Complete each sentence with the correct ending, A–H, below.",
+          "options": [
+            {
+              "key": "A",
+              "text": "there used to be a clear division between cooking and science."
+            },
+            {
+              "key": "B",
+              "text": "well established cooking traditions have come back into fashion."
+            },
+            {
+              "key": "C",
+              "text": "cooking has failed to keep pace with scientific developments."
+            },
+            {
+              "key": "D",
+              "text": "an imaginary invention inspired scientific research."
+            },
+            {
+              "key": "E",
+              "text": "science has helped cooks make meals that would otherwise be unachievable."
+            },
+            {
+              "key": "F",
+              "text": "an award was given to acknowledge work in scientific gastronomy."
+            },
+            {
+              "key": "G",
+              "text": "there is new terminology to describe the study of culinary reactions."
+            },
+            {
+              "key": "H",
+              "text": "the home cook is not able to achieve the same level of innovation as a professional chef."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "prompt": "Question 36",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "there used to be a clear division between cooking and science."
+                },
+                {
+                  "key": "B",
+                  "text": "well established cooking traditions have come back into fashion."
+                },
+                {
+                  "key": "C",
+                  "text": "cooking has failed to keep pace with scientific developments."
+                },
+                {
+                  "key": "D",
+                  "text": "an imaginary invention inspired scientific research."
+                },
+                {
+                  "key": "E",
+                  "text": "science has helped cooks make meals that would otherwise be unachievable."
+                },
+                {
+                  "key": "F",
+                  "text": "an award was given to acknowledge work in scientific gastronomy."
+                },
+                {
+                  "key": "G",
+                  "text": "there is new terminology to describe the study of culinary reactions."
+                },
+                {
+                  "key": "H",
+                  "text": "the home cook is not able to achieve the same level of innovation as a professional chef."
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 3",
+              "evidenceQuote": "Colin Osborne of the Royal Society of Chemistry in London is enthusiastic: “Chefs are using unusual methods to produce exciting dishes that would be impossible without modern science,” he says.",
+              "evidenceTranslationVi": "Colin Osborne thuộc Hiệp hội Hóa học Hoàng gia ở London rất nhiệt tình: “Các đầu bếp đang sử dụng những phương pháp khác thường để tạo ra những món ăn thú vị mà không thể thực hiện được nếu không có khoa học hiện đại,” ông nói.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 3 khớp trực tiếp với lựa chọn E; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 37,
+              "prompt": "Question 37",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "there used to be a clear division between cooking and science."
+                },
+                {
+                  "key": "B",
+                  "text": "well established cooking traditions have come back into fashion."
+                },
+                {
+                  "key": "C",
+                  "text": "cooking has failed to keep pace with scientific developments."
+                },
+                {
+                  "key": "D",
+                  "text": "an imaginary invention inspired scientific research."
+                },
+                {
+                  "key": "E",
+                  "text": "science has helped cooks make meals that would otherwise be unachievable."
+                },
+                {
+                  "key": "F",
+                  "text": "an award was given to acknowledge work in scientific gastronomy."
+                },
+                {
+                  "key": "G",
+                  "text": "there is new terminology to describe the study of culinary reactions."
+                },
+                {
+                  "key": "H",
+                  "text": "the home cook is not able to achieve the same level of innovation as a professional chef."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 4",
+              "evidenceQuote": "“Since then, chemistry has undergone massive changes – but cooking methods have remained largely as they were in the Middle Ages.”",
+              "evidenceTranslationVi": "“Kể từ đó, hóa học đã trải qua những thay đổi lớn – nhưng phương pháp nấu ăn phần lớn vẫn giữ nguyên như thời Trung Cổ.”",
+              "explanationVi": "Thông tin tại Đoạn 2, câu 4 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 38,
+              "prompt": "Question 38",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "there used to be a clear division between cooking and science."
+                },
+                {
+                  "key": "B",
+                  "text": "well established cooking traditions have come back into fashion."
+                },
+                {
+                  "key": "C",
+                  "text": "cooking has failed to keep pace with scientific developments."
+                },
+                {
+                  "key": "D",
+                  "text": "an imaginary invention inspired scientific research."
+                },
+                {
+                  "key": "E",
+                  "text": "science has helped cooks make meals that would otherwise be unachievable."
+                },
+                {
+                  "key": "F",
+                  "text": "an award was given to acknowledge work in scientific gastronomy."
+                },
+                {
+                  "key": "G",
+                  "text": "there is new terminology to describe the study of culinary reactions."
+                },
+                {
+                  "key": "H",
+                  "text": "the home cook is not able to achieve the same level of innovation as a professional chef."
+                }
+              ],
+              "acceptedAnswers": [
+                "G"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 2",
+              "evidenceQuote": "Kurti once quipped that “it is a sad reflection that we know the temperature inside the stars better than the temperature inside a soufflé*.” Kurti and Hervé This devised the expression ‘molecular gastronomy’ during the 1980s to denote the science of culinary transformations and eating phenomena, and differentiate it from food science.",
+              "evidenceTranslationVi": "Kurti từng châm biếm rằng “thật đáng buồn khi chúng ta biết rõ nhiệt độ bên trong các ngôi sao hơn nhiệt độ bên trong một chiếc bánh soufflé*.” Kurti và Hervé Điều này đã nghĩ ra thuật ngữ 'ẩm thực phân tử' trong những năm 1980 để biểu thị khoa học về sự biến đổi ẩm thực và hiện tượng ăn uống, đồng thời phân biệt nó với khoa học thực phẩm.",
+              "explanationVi": "Thông tin tại Đoạn 7, câu 2 khớp trực tiếp với lựa chọn G; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 39,
+              "prompt": "Question 39",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "there used to be a clear division between cooking and science."
+                },
+                {
+                  "key": "B",
+                  "text": "well established cooking traditions have come back into fashion."
+                },
+                {
+                  "key": "C",
+                  "text": "cooking has failed to keep pace with scientific developments."
+                },
+                {
+                  "key": "D",
+                  "text": "an imaginary invention inspired scientific research."
+                },
+                {
+                  "key": "E",
+                  "text": "science has helped cooks make meals that would otherwise be unachievable."
+                },
+                {
+                  "key": "F",
+                  "text": "an award was given to acknowledge work in scientific gastronomy."
+                },
+                {
+                  "key": "G",
+                  "text": "there is new terminology to describe the study of culinary reactions."
+                },
+                {
+                  "key": "H",
+                  "text": "the home cook is not able to achieve the same level of innovation as a professional chef."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P8",
+              "evidenceLocation": "Đoạn 8, câu 1",
+              "evidenceQuote": "“Twenty years ago the worlds of science and cooking were neatly compartmentalised,” agrees author Harold McGee, a top food science writer.",
+              "evidenceTranslationVi": "Tác giả Harold McGee, một nhà văn khoa học thực phẩm hàng đầu, đồng ý: “Hai mươi năm trước, thế giới khoa học và nấu ăn được phân chia rõ ràng.",
+              "explanationVi": "Thông tin tại Đoạn 8, câu 1 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 40,
+              "prompt": "Question 40",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "there used to be a clear division between cooking and science."
+                },
+                {
+                  "key": "B",
+                  "text": "well established cooking traditions have come back into fashion."
+                },
+                {
+                  "key": "C",
+                  "text": "cooking has failed to keep pace with scientific developments."
+                },
+                {
+                  "key": "D",
+                  "text": "an imaginary invention inspired scientific research."
+                },
+                {
+                  "key": "E",
+                  "text": "science has helped cooks make meals that would otherwise be unachievable."
+                },
+                {
+                  "key": "F",
+                  "text": "an award was given to acknowledge work in scientific gastronomy."
+                },
+                {
+                  "key": "G",
+                  "text": "there is new terminology to describe the study of culinary reactions."
+                },
+                {
+                  "key": "H",
+                  "text": "the home cook is not able to achieve the same level of innovation as a professional chef."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P8",
+              "evidenceLocation": "Đoạn 8, câu 1",
+              "evidenceQuote": "“Twenty years ago the worlds of science and cooking were neatly compartmentalised,” agrees author Harold McGee, a top food science writer.",
+              "evidenceTranslationVi": "Tác giả Harold McGee, một nhà văn khoa học thực phẩm hàng đầu, đồng ý: “Hai mươi năm trước, thế giới khoa học và nấu ăn được phân chia rõ ràng.",
+              "explanationVi": "Thông tin tại Đoạn 8, câu 1 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1219 @@
+{
+  "vol": 8,
+  "test": 4,
+  "testId": "vol-8-test-4",
+  "title": "IELTS Reading Vol 8 - Test 4",
+  "sourceName": "VOL 8 - ORIGINAL EXAMS/READING/Test 4.pdf",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "The Pixar Story",
+      "subtitle": "The animation studio Pixar has experienced a number of challenges in its short history",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "Between 2000 and 2005. under former Chief Executive Officer (CEO) Michael D. Eisner, Walt Disney Company set its shareholder meetings in a series of cold-weather cities during cold-weather months. Many suspected that this had been to discourage attendance by the company's increasingly restless shareholders. In 2006, however, there was no need for such measures. In October 2005, Chief Operating Officer Robert Iger had replaced Eisner as CEO. On taking charge. Iger had quickly carried out a bold stroke, negotiating a buyout of Pixar Animation Studios. Although the price was high, the acquisition proved to be overwhelmingly popular.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "Pixar had started life twenty years earlier as Pixar Inc., a computer hardware company, one of hundreds dotting the landscape of the San Francisco Bay Area in California. Within the company, a tiny animation group made short promotional films that brought in practically zero revenue; the group came close more than once to being shut down. When the Pixar Image Computer proved unprofitable. the company turned to selling animation software and making animated commercials, but it kept losing money year after year.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "In 1991. when Disney agreed to finance the production of Pixar's first feature film for cinema release. Disney had virtually dictated the terms of the contract. In late 1993. Disney considered ordering Pixar to shut down production of the John Lasseter directed film. Toy Story. on account of issues with the script. At the time, Hollywood commentators doubted whether audiences would even sit through a full-length film in the new medium of computer animation. It was unclear whether computer animation would prove to be a novelty that would quickly wear thin.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Before long. however, things had changed dramatically. A succession of beloved and commercially successful animated feature films, starting with the 1995 release of Toy Story and including A Bug's Life and Finding Nemo, made Pixar the world's dominant animation studio. Disney made a fortune distributing the films. When Pixar's majority owner and CEO. Steve Jobs, cut off contract talks with Disney in early 2004, as the end of their distribution contract was in sight, the business press focused on the question of how Disney would cope. By then, it was Disney that seemed to need Pixar-the distribution of Pixar's films made up around 45% of the operating income from Disney's film operations. Disney's internal market research showed that mothers of young children trusted the Pixar brand more than Disney's.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "With the 2005 acquisition, John Lasseter was soon to hold the titles of Chief Creative Officer for Disney and Pixar animation and Principal Creative Advisor for Disney's worldwide theme parks and resorts. Having created a new genre of film with his colleagues at Pixar, Lasseter had been able to make the films he wanted to make, and he was coming back to Disney on his own terms, having briefly been an employee there when he was young.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "When lger brought Lasseter on to speak at the 2006 shareholders' meeting. Lasseter was met with energetic applause as the sound system played a few bars of the signature song of Toy Story. In his speech, Lasseter recalled afternoons as a schoolboy running home to catch Bugs Bunny cartoons on TV. It wasn't long. he told the audience, before he realized he wanted to earn a living from making cartoons. He went on to talk about working on the Jungle Cruise ride in Disneyland, and the terrible jokes that he and his fellow operator told to enliven the show. He said the experience had brought him out of his shell and given him confidence in front of people. He also explained how he joined Disney's animation division fresh out of the California Institute of the Arts, and saw one of the early trials of 3-D computer animation. He mentioned the disappointment he had felt as a young man in trying. and failing. to get the Disney studio to embrace the new technology. Keeping his presentation upbeat, he said simply. 'So I followed my dream to work with one of the most amazing people I've ever known in my life-Ed Catmull.' G The sixty-one-year-old president of Pixar, Dr. Edwin Catmull, was seated amongst the shareholders. Catmull has been a computer graphics researcher who had fallen accidentally into the role of business leader. Those who knew him well invariably described him as brilliant, but his intelligence was not the kind that advertised itself by dominating conversations; by and large, he was keener on listening than talking. When he did speak, his words were friendly and polite.",
+          "label": "F"
+        },
+        {
+          "id": "H",
+          "text": "While Catmull had built upon the work of others, the revolution in 3-D animation was in many respects his revolution. It was Catmull who had held to his vision of fully computer-animated movies. And it was Catmull, while running computer graphics labs at the New York Institute of Technology and George Lucas's Lucasfilm, who had assembled the technical and creative staff that would go on to become the heart of Pixar Animation Studios.",
+          "label": "H"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t4-p1-g1",
+          "questionRange": [
+            1,
+            6
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Robert Iger had a low opinion of Michael D. Eisner.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 5",
+              "evidenceQuote": "In October 2005, Chief Operating Officer Robert Iger had replaced Eisner as CEO.",
+              "evidenceTranslationVi": "Vào tháng 10 năm 2005, Giám đốc điều hành Robert Iger đã thay thế Eisner làm Giám đốc điều hành.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn A, câu 5 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 2,
+              "prompt": "Pixar Inc. had extremely limited financial success in its early years.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 1",
+              "evidenceQuote": "Pixar had started life twenty years earlier as Pixar Inc., a computer hardware company, one of hundreds dotting the landscape of the San Francisco Bay Area in California.",
+              "evidenceTranslationVi": "Pixar đã bắt đầu hoạt động sớm hơn hai mươi năm với tên gọi Pixar Inc., một công ty phần cứng máy tính, một trong hàng trăm công ty nằm rải rác ở Vùng Vịnh San Francisco ở California.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn B, câu 1 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 3,
+              "prompt": "There were difficulties during the production of the film Toy Story.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "In 1991. when Disney agreed to finance the production of Pixar's first feature film for cinema release.",
+              "evidenceTranslationVi": "Năm 1991. khi Disney đồng ý tài trợ cho việc sản xuất bộ phim điện ảnh đầu tiên của Pixar để ra rạp.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn C, câu 1 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 4,
+              "prompt": "In the early 1990s, Hollywood commentators were convinced animated films had a promising future.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 6",
+              "evidenceQuote": "At the time, Hollywood commentators doubted whether audiences would even sit through a full-length film in the new medium of computer animation.",
+              "evidenceTranslationVi": "Vào thời điểm đó, các nhà bình luận ở Hollywood nghi ngờ liệu khán giả có ngồi xem hết một bộ phim dài bằng phương tiện hoạt hình máy tính mới hay không.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn C, câu 6 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 5,
+              "prompt": "Finding Nemo was more popular than Toy Story.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 2",
+              "evidenceQuote": "A succession of beloved and commercially successful animated feature films, starting with the 1995 release of Toy Story and including A Bug's Life and Finding Nemo, made Pixar the world's dominant animation studio.",
+              "evidenceTranslationVi": "Một loạt phim hoạt hình được yêu thích và thành công về mặt thương mại, bắt đầu từ Toy Story phát hành năm 1995 và bao gồm A Bug's Life và Finding Nemo, đã đưa Pixar trở thành hãng phim hoạt hình thống trị thế giới.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn D, câu 2 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 6,
+              "prompt": "In 2004, Pixar contributed little to Disney's income from its film operations.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 6",
+              "evidenceQuote": "By then, it was Disney that seemed to need Pixar-the distribution of Pixar's films made up around 45% of the operating income from Disney's film operations.",
+              "evidenceTranslationVi": "Vào thời điểm đó, có vẻ như Disney cần Pixar - việc phân phối phim của Pixar chiếm khoảng 45% thu nhập hoạt động từ hoạt động phim của Disney.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn D, câu 6 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            }
+          ]
+        },
+        {
+          "id": "v8-t4-p1-g2",
+          "questionRange": [
+            7,
+            13
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "Lasseter and Catmull – a professional success story\nJohn Lasseter\n• was keen on watching Bugs Bunny cartoons when he was a schoolboy\n• worked as a ride {{blank:7}} at Disneyland which increased his",
+          "questions": [
+            {
+              "number": 7,
+              "prompt": "Lasseter and Catmull – a professional success story\nJohn Lasseter\n• was keen on watching Bugs Bunny cartoons when he was a schoolboy\n• worked as a ride {{blank:7}} at Disneyland which increased his",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "operator"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 5",
+              "evidenceQuote": "He went on to talk about working on the Jungle Cruise ride in Disneyland, and the terrible jokes that he and his fellow operator told to enliven the show.",
+              "evidenceTranslationVi": "Anh ấy tiếp tục nói về việc làm việc trên chuyến đi Jungle Cruise ở Disneyland, và những câu chuyện cười khủng khiếp mà anh ấy và người điều hành đồng nghiệp kể để làm sinh động chương trình.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 5 để điền \"operator\"."
+            },
+            {
+              "number": 8,
+              "prompt": "Question 8",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "confidence"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 6",
+              "evidenceQuote": "He said the experience had brought him out of his shell and given him confidence in front of people.",
+              "evidenceTranslationVi": "Anh cho biết trải nghiệm này đã đưa anh ra khỏi vỏ bọc của mình và giúp anh tự tin trước mọi người.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 6 để điền \"confidence\"."
+            },
+            {
+              "number": 9,
+              "prompt": "Question 9",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "disappointment"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 8",
+              "evidenceQuote": "He mentioned the disappointment he had felt as a young man in trying. and failing. to get the Disney studio to embrace the new technology.",
+              "evidenceTranslationVi": "Anh ấy đề cập đến nỗi thất vọng mà anh ấy đã cảm thấy khi còn trẻ khi cố gắng. và thất bại. để khiến hãng phim Disney tiếp thu công nghệ mới.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 8 để điền \"disappointment\"."
+            },
+            {
+              "number": 10,
+              "prompt": "Question 10",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "president"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 10",
+              "evidenceQuote": "'So I followed my dream to work with one of the most amazing people I've ever known in my life-Ed Catmull.' G The sixty-one-year-old president of Pixar, Dr.",
+              "evidenceTranslationVi": "'Vì vậy, tôi đã theo đuổi ước mơ của mình để được làm việc với một trong những người tuyệt vời nhất mà tôi từng biết trong đời - Ed Catmull.' G Vị chủ tịch 61 tuổi của Pixar, Dr.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 10 để điền \"president\"."
+            },
+            {
+              "number": 11,
+              "prompt": "Question 11",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "listening"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 13",
+              "evidenceQuote": "Those who knew him well invariably described him as brilliant, but his intelligence was not the kind that advertised itself by dominating conversations; by and large, he was keener on listening than talking.",
+              "evidenceTranslationVi": "Những người biết rõ về anh ấy luôn mô tả anh ấy là người thông minh, nhưng trí thông minh của anh ấy không phải là thứ được quảng cáo bằng cách lấn át các cuộc trò chuyện; nhìn chung, anh ấy thích nghe hơn là nói.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 13 để điền \"listening\"."
+            },
+            {
+              "number": 12,
+              "prompt": "Question 12",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "vision"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 2",
+              "evidenceQuote": "It was Catmull who had held to his vision of fully computer-animated movies.",
+              "evidenceTranslationVi": "Chính Catmull là người đã giữ vững tầm nhìn của mình về những bộ phim hoạt hình hoàn toàn bằng máy tính.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn H, câu 2 để điền \"vision\"."
+            },
+            {
+              "number": 13,
+              "prompt": "Question 13",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "heart"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 3",
+              "evidenceQuote": "And it was Catmull, while running computer graphics labs at the New York Institute of Technology and George Lucas's Lucasfilm, who had assembled the technical and creative staff that would go on to become the heart of Pixar Animation Studios.",
+              "evidenceTranslationVi": "Và chính Catmull, khi đang điều hành các phòng thí nghiệm đồ họa máy tính tại Viện Công nghệ New York và Lucasfilm của George Lucas, là người đã tập hợp đội ngũ kỹ thuật và sáng tạo để sau này trở thành trung tâm của Pixar Animation Studios.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn H, câu 3 để điền \"heart\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "Reading Passage 2",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "Q8",
+          "text": "• attended California Institute of the Arts • suffered (9)_______________________ over rejection of new technology by Disney studio Ed Catmull • was Pixar's (10)_____________________ at time of shareholder meeting in 2006 • preferred (11)______________________ to taking control of conversations • did not let go of his (12)_______________________ for computer animated films • ran various computer graphics laboratories • brought together the various teams on which the (13)____________________ of Pixar would be founded A mechanical friend for children",
+          "label": "Q8"
+        },
+        {
+          "id": "A",
+          "text": "The development of robots that interact socially with people and assist them in everyday life has been an elusive goal of modern science. Despite impressive advances in the mechanical aspects of this problem, producing robots that bond and socialize with people for sustained periods of time has proven difficult. The most successful robots so far have been storytellers, but they have only been able to maintain human interest for a limited time and typically rely on the robot telling stories that change over time. In practice, commercially available robots seldom cross the 10-hour barrier (i.e. individual users tend to spend less than a combined total of 10 hours with the robots before losing interest). This observation is in sharp contrast to the long-term interactions and bonding that commonly develop between humans and their pets.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "In a recent study, researchers from the Institute for Neural Computation in California introduced a state-of-the-art social robot into a classroom of 18- to 24-month-olds for five months as a way of studying human/robot interactions. The researchers, including Fumihide Tanaka and Javier R Movellan, introduced a toddler-sized humanoid robot into a classroom at a childhood education center. One of the QRIO series of robots, the 58cm machine, was originally developed by Sony. Children of toddler age were chosen because they have no preconceived notions of robots, according to Tanaka. One of the goals of the study was to establish whether it was possible for social robots to maintain the interest of children beyond the 10-hour barrier.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "The researchers sent instructions to the robot about every two minutes to do things like giggle, dance, sit down, fall down or walk in a certain direction. The 45 sessions were videotaped, and interactions between toddlers and the robot were later analyzed. The results showed that the quality of those interactions improved steadily over 27 sessions. The interactions deteriorated quickly over the next 15 sessions, when the robot was ordered to behave in a more limited, predictable manner. Finally, the human/robot relations improved in the last three sessions, after the robot had been instructed to display its full range of behaviors.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "'Initially the children treated the robot very differently from the way they treated each other,' Tanaka said. 'Early in the study some children cried when QRIO fell. But a month into the study, the toddlers helped QRIO stand up by pushing its back or pulling its hands.' The most important aspect of interaction was touch, Tanaka said. At first the toddlers would touch the robot on its face, but later on they would touch it only on its hands and arms, like they would with other humans. Another robot-like toy named Robby, which resembled QRIO but did not move, was used as a control in the study. While hugging of QRIO increased, hugging of Robby decreased throughout the study. Furthermore, when QRIO laid down on the floor as its batteries ran down, a toddler would put a blanket over his silver-colored 'friend' and say 'night-night'. Care-taking behaviors were frequently observed toward QRIO but seldom toward Robby.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "The study concluded that after 45 days of immersion in a childcare center over a period of five months, long-term bonding and socialization occurred between toddlers and a state-of-the-art social robot. Overall, the interaction between children and the robot improved over time and the children progressively treated it more as a peer than a plaything. 'To my knowledge, this is the first long-term study of this sort,' said Ronald Arkin, a roboticist at the Georgia Institute of Technology in the US.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "Tanaka and Movellan are now developing autonomous robots for the toddler classroom. 'It could have great potential in educational settings assisting teachers and enriching the classroom environment,' Tanaka said. The researchers hope that more advanced versions of robots like QRIO could become personalized tutors to assist teachers in classrooms. A robotic tutor could react on the spot to social cues and approximate social skills like facial expression and eye gaze, they said. 'It is becoming clear that, to achieve this goal, we are going to [need to] endow machines with something similar to emotion, not just traditional forms of intelligence,' said Movellan.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "Associate professor David Powers, an expert in artificial intelligence and cognitive science at Flinders University in South Australia, commented, 'In this study it is clearly demonstrated that limited range of robot behaviors, however impressive, is nowhere near as important to human/robot interaction as being able to make appropriate responses from a broad repertoire of behaviors'. Ronald Arkin was not surprised by the affection demonstrated by the toddlers toward the robot. 'Humans have a tremendous propensity to bond with artifacts, whether it be a car, a doll, or a robot,' he said. But he also cautioned that researchers do not yet understand the consequences of increased human/robot interaction. 'Studying how robots and humans work together can give us insight into whether this is a good thing or a bad thing for society,' Arkin said. 'We need to find out what the consequences are of introducing a robot into a cadre of children. How will that enhance, or potentially interfere with, their social development? Do we really understand the long-term impact of having a robot as a childhood friend?'",
+          "label": "G"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t4-p2-g1",
+          "questionRange": [
+            14,
+            18
+          ],
+          "type": "matching_info",
+          "instruction": "Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information? Choose the correct letter, A-G, in boxes 14-18. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "key": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "key": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "a comparison of children's reactions towards different robots",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 5",
+              "evidenceQuote": "Another robot-like toy named Robby, which resembled QRIO but did not move, was used as a control in the study.",
+              "evidenceTranslationVi": "Một món đồ chơi giống robot khác có tên Robby, giống QRIO nhưng không di chuyển, được sử dụng làm đối tượng điều khiển trong nghiên cứu.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn D (Đoạn D, câu 5)."
+            },
+            {
+              "number": 15,
+              "prompt": "a speculation about ways robots may be able to communicate",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 4",
+              "evidenceQuote": "A robotic tutor could react on the spot to social cues and approximate social skills like facial expression and eye gaze, they said.",
+              "evidenceTranslationVi": "Họ cho biết, một gia sư robot có thể phản ứng ngay tại chỗ với các tín hiệu xã hội và gần đúng các kỹ năng xã hội như nét mặt và ánh mắt.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn F (Đoạn F, câu 4)."
+            },
+            {
+              "number": 16,
+              "prompt": "a description of changes in the way the children physically handled a robot",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 4",
+              "evidenceQuote": "At first the toddlers would touch the robot on its face, but later on they would touch it only on its hands and arms, like they would with other humans.",
+              "evidenceTranslationVi": "Lúc đầu, trẻ mới biết đi sẽ chạm vào mặt robot, nhưng sau đó chúng chỉ chạm vào bàn tay và cánh tay của robot, giống như với những người khác.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn D (Đoạn D, câu 4)."
+            },
+            {
+              "number": 17,
+              "prompt": "a comparison between people's connections with animals and their connections with robots",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 5",
+              "evidenceQuote": "This observation is in sharp contrast to the long-term interactions and bonding that commonly develop between humans and their pets.",
+              "evidenceTranslationVi": "Quan sát này trái ngược hoàn toàn với sự tương tác và gắn kết lâu dài thường phát triển giữa con người và vật nuôi của họ.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn A (Đoạn A, câu 5)."
+            },
+            {
+              "number": 18,
+              "prompt": "an account of the way one robot was programmed",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "The researchers sent instructions to the robot about every two minutes to do things like giggle, dance, sit down, fall down or walk in a certain direction.",
+              "evidenceTranslationVi": "Cứ khoảng hai phút, các nhà nghiên cứu lại gửi hướng dẫn cho robot thực hiện những việc như cười khúc khích, nhảy múa, ngồi xuống, ngã hoặc đi theo một hướng nhất định.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn C (Đoạn C, câu 1)."
+            }
+          ]
+        },
+        {
+          "id": "v8-t4-p2-g2",
+          "questionRange": [
+            19,
+            23
+          ],
+          "type": "matching_features",
+          "instruction": "Look at the following statements (Questions 19-23) and the list of people below. Match each statement with the correct person, A-D. Choose the correct letter, A-D, in boxes 20-23. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fumihide Tanaka"
+            },
+            {
+              "key": "B",
+              "text": "Javier R Movellan"
+            },
+            {
+              "key": "C",
+              "text": "Ronald Arkin"
+            },
+            {
+              "key": "D",
+              "text": "David Powers A B C D"
+            }
+          ],
+          "questions": [
+            {
+              "number": 19,
+              "prompt": "In future, robots will not only have to think, but also to show feelings.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Fumihide Tanaka"
+                },
+                {
+                  "key": "B",
+                  "text": "Javier R Movellan"
+                },
+                {
+                  "key": "C",
+                  "text": "Ronald Arkin"
+                },
+                {
+                  "key": "D",
+                  "text": "David Powers A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 5",
+              "evidenceQuote": "'It is becoming clear that, to achieve this goal, we are going to [need to] endow machines with something similar to emotion, not just traditional forms of intelligence,' said Movellan.",
+              "evidenceTranslationVi": "Movellan nói: “Rõ ràng là, để đạt được mục tiêu này, chúng ta sẽ [cần] trang bị cho máy móc thứ gì đó tương tự như cảm xúc, chứ không chỉ là các dạng trí thông minh truyền thống”.",
+              "explanationVi": "Thông tin tại Đoạn F, câu 5 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 20,
+              "prompt": "It is uncertain whether more contact between people and robots will be beneficial.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Fumihide Tanaka"
+                },
+                {
+                  "key": "B",
+                  "text": "Javier R Movellan"
+                },
+                {
+                  "key": "C",
+                  "text": "Ronald Arkin"
+                },
+                {
+                  "key": "D",
+                  "text": "David Powers A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 4",
+              "evidenceQuote": "But he also cautioned that researchers do not yet understand the consequences of increased human/robot interaction.",
+              "evidenceTranslationVi": "Nhưng ông cũng cảnh báo rằng các nhà nghiên cứu vẫn chưa hiểu được hậu quả của việc tăng cường tương tác giữa con người và robot.",
+              "explanationVi": "Thông tin tại Đoạn G, câu 4 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 21,
+              "prompt": "Very young children have not yet developed ideas about robots.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Fumihide Tanaka"
+                },
+                {
+                  "key": "B",
+                  "text": "Javier R Movellan"
+                },
+                {
+                  "key": "C",
+                  "text": "Ronald Arkin"
+                },
+                {
+                  "key": "D",
+                  "text": "David Powers A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 4",
+              "evidenceQuote": "Children of toddler age were chosen because they have no preconceived notions of robots, according to Tanaka.",
+              "evidenceTranslationVi": "Theo Tanaka, trẻ em ở độ tuổi chập chững biết đi được chọn vì chúng không có khái niệm định sẵn về robot.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 4 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 22,
+              "prompt": "Robots need to perform a wide variety of actions for people to relate to them.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Fumihide Tanaka"
+                },
+                {
+                  "key": "B",
+                  "text": "Javier R Movellan"
+                },
+                {
+                  "key": "C",
+                  "text": "Ronald Arkin"
+                },
+                {
+                  "key": "D",
+                  "text": "David Powers A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 1",
+              "evidenceQuote": "Associate professor David Powers, an expert in artificial intelligence and cognitive science at Flinders University in South Australia, commented, 'In this study it is clearly demonstrated that limited range of robot behaviors, however impressive, is nowhere near as important to human/robot interaction as being able to make appropriate responses from a broad repertoire of behaviors'.",
+              "evidenceTranslationVi": "Phó giáo sư David Powers, một chuyên gia về trí tuệ nhân tạo và khoa học nhận thức tại Đại học Flinders ở Nam Úc, nhận xét: “Trong nghiên cứu này đã chứng minh rõ ràng rằng phạm vi hành vi hạn chế của robot, dù ấn tượng đến đâu, cũng không quan trọng bằng việc có thể đưa ra những phản ứng thích hợp từ một loạt hành vi rộng rãi đối với sự tương tác giữa con người/robot”.",
+              "explanationVi": "Thông tin tại Đoạn G, câu 1 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 23,
+              "prompt": "Using robots as an aid in schools may have many benefits.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Fumihide Tanaka"
+                },
+                {
+                  "key": "B",
+                  "text": "Javier R Movellan"
+                },
+                {
+                  "key": "C",
+                  "text": "Ronald Arkin"
+                },
+                {
+                  "key": "D",
+                  "text": "David Powers A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 2",
+              "evidenceQuote": "'It could have great potential in educational settings assisting teachers and enriching the classroom environment,' Tanaka said.",
+              "evidenceTranslationVi": "Tanaka nói: “Nó có thể có tiềm năng lớn trong môi trường giáo dục hỗ trợ giáo viên và làm phong phú thêm môi trường lớp học”.",
+              "explanationVi": "Thông tin tại Đoạn F, câu 2 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t4-p2-g3",
+          "questionRange": [
+            24,
+            26
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the sentences below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "Until recently, robots that were best at holding people's attention were those that acted as",
+          "questions": [
+            {
+              "number": 24,
+              "prompt": "Question 24",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "storytellers"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 3",
+              "evidenceQuote": "The most successful robots so far have been storytellers, but they have only been able to maintain human interest for a limited time and typically rely on the robot telling stories that change over time.",
+              "evidenceTranslationVi": "Những robot thành công nhất cho đến nay đều là những người kể chuyện, nhưng chúng chỉ có thể duy trì sự quan tâm của con người trong một khoảng thời gian giới hạn và thường dựa vào việc robot kể những câu chuyện thay đổi theo thời gian.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 3 để điền \"storytellers\"."
+            },
+            {
+              "number": 25,
+              "prompt": "Question 25",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "peer"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 2",
+              "evidenceQuote": "Overall, the interaction between children and the robot improved over time and the children progressively treated it more as a peer than a plaything.",
+              "evidenceTranslationVi": "Nhìn chung, sự tương tác giữa trẻ em và robot được cải thiện theo thời gian và trẻ em dần dần coi nó như một người ngang hàng hơn là một món đồ chơi.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 2 để điền \"peer\"."
+            },
+            {
+              "number": 26,
+              "prompt": "Question 26",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "affection"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 2",
+              "evidenceQuote": "Ronald Arkin was not surprised by the affection demonstrated by the toddlers toward the robot.",
+              "evidenceTranslationVi": "Ronald Arkin không ngạc nhiên trước tình cảm của những đứa trẻ mới biết đi đối với robot.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 2 để điền \"affection\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "Reading Passage 3",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "Q24",
+          "text": "The children responded to the QRIO robot as a friend or (25)_______________________, rather than as a toy. Arkin expected that the children would show (26)______________________ towards the QRIO robot. The peopling of Patagonia Anthropologists continue to investigate human migration to Patagonia at the southern tip of South America",
+          "label": "Q24"
+        },
+        {
+          "id": "A",
+          "text": "The human settlement of the southern extremity of the Americas has always fascinated pre-historians. Viewed from a global perspective, this was the last major continental land mass to be reached by human beings. The earliest occupation of Patagonia carries obvious implications for understanding when the North and South American continents were peopled, because it gives a baseline that all calculations regrading the rate of dispersion of humans throughout both continents must take into account.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "For many years the human settlement of North and South America has been conceived of as beginning in the far north and travelling progressively southwards to Patagonia. However, fundamental disagreements developed concerning the length of time involved. Some scholars accepted a human presence in the Americas as early as 20,000 years ago, while others proposed that it could date no earlier than 8,000 years ago, and the debate is still with us today.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "The idea of a relatively 'late' settlement of the Americas (around 8,000 years ago) implies that a rapid process of migration took place. Herein lies a second debate which revolves around the question of how migration is to be understood. The 'late' model demands a hypothetical migration conceived of as a single continually advancing wave of settlement. This has always been difficult to take seriously and many scholars now support the idea of an 'early' model that sees the migration as a less ordered migration, and this is surely the most realistic scenario as migrants slowly adapted to the diverse natural habitats they would have met while travelling through the continent.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Those who argue for an earlier settlement, however, must contend with the lack of unequivocal evidence for archaeological sites older than around 14,000 years. Nevertheless, evidence for human occupation of the centre of South America is now securely dated to around 12,500 years ago at the Monte Verde site, which casts doubt on the 'late' model. The lack of archaeological evidence further south for this time period may be explained by the obstacle to humans on foot posed by the huge glacial streams that were present at that time.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "We can speculate then that the retreat of the Patagonian glaciers around 14,000 years ago allowed the initial human intrusion into a pristine environment, which was similar to that of early post-glacial Europe. Human settlement of the vast horizontal expanse of treeless high country must have been tenuous at best, and the evidence for this occupation remains relatively scant, most of it coming from rock shelters in Argentina and Chile. There is, however, reliable evidence from these sites to confirm the presence of humans by around 11,000 years ago in different habitats and some hints of an even older occupation. However, some other sites where evidence for even earlier human occupation was initially posited, have recently come under fresh scrutiny. This is because anthropologists have come to recognise that bones or other evidence may be deposited in caves by natural agency, in other words by other forces such as floods or predators, and not necessarily by humans.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "We shall turn now to a more detailed discussion of the archaeological evidence found in various parts of Patagonia. At the site located beside Chinchihuapi Creek, excavations have produced convincing evidence of human occupation, including hut foundations and wooden artefacts. They were buried in layers of peat, which has the property of preserving wood remarkably well, and as a result radiocarbon dating* tests have shown these artefacts to date from around 12,500 years ago. One of the most famous Patagonian sites is a cave known as Los Toldos. However, the evidence from this site has recently been called into question, because dispersed flecks of carbon used in the test process were taken unsystematically from many different places in the site. As a result, the association of this material with the artefacts is not at all clear. About 150 kilometres south is the site called El Ceibo, where a similar collection of artefacts to that found at Los Toldos has been discovered from the lowest levels of the dig, but as yet no radiocarbon dates are available and this sort of analysis of the existing evidence is required before the site's value can be confirmed.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "The Arroyo Feo site is located very close to the high plateau. The artefacts from the earliest occupations were found at the same depth and have the same origins as those from Los Toldos, and have been securely dated to around 9,000 years ago. Another site that is mentioned in the debate is at Las Buitreras, where a number of stone flakes associated with bone remains of various animals have been discovered. However, anthropologists now believe that presumed cut marks on the bones are somewhat dubious, and despite detailed testing there is no way of securely relating any of these remains with human occupation. Finally some 50 kilometres to the south is the site at Cueva Fell, which was the first Patagonian site to be systematically studied by modern archaeological methods. However, it is now recognised that the utility of this site must be restricted to its direct vicinity, given changes to the nearby area caused by flooding, and findings cannot be freely extrapolated further afield.",
+          "label": "G"
+        },
+        {
+          "id": "H",
+          "text": "In conclusion, based on the evidence from a number of reliable sites, it seems probable that human populations reached Patagonia around 11,000 years ago. ________________________",
+          "label": "H"
+        },
+        {
+          "id": "P10",
+          "text": "contains"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t4-p3-g1",
+          "questionRange": [
+            27,
+            31
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "In the first paragraph, what is the writer's main point about migration to Patagonia?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It started earlier than previously thought."
+                },
+                {
+                  "key": "B",
+                  "text": "Historians have overlooked its importance."
+                },
+                {
+                  "key": "C",
+                  "text": "It impacts on research into the wider region."
+                },
+                {
+                  "key": "D",
+                  "text": "Researchers have calculated its effects on the environment."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 3",
+              "evidenceQuote": "The earliest occupation of Patagonia carries obvious implications for understanding when the North and South American continents were peopled, because it gives a baseline that all calculations regrading the rate of dispersion of humans throughout both continents must take into account.",
+              "evidenceTranslationVi": "Việc chiếm đóng Patagonia sớm nhất mang lại những hàm ý rõ ràng cho việc hiểu biết về thời điểm các lục địa Bắc và Nam Mỹ có dân cư sinh sống, bởi vì nó đưa ra một đường cơ sở mà tất cả các tính toán về tốc độ phân tán của con người trên khắp cả hai lục địa đều phải tính đến.",
+              "explanationVi": "Thông tin tại Đoạn A, câu 3 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 28,
+              "prompt": "In the second paragraph, what is the writer's purpose?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "to challenge previous research"
+                },
+                {
+                  "key": "B",
+                  "text": "to propose new areas to investigate"
+                },
+                {
+                  "key": "C",
+                  "text": "to summarise a scholarly debate"
+                },
+                {
+                  "key": "D",
+                  "text": "to suggest reasons for human migration"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 1",
+              "evidenceQuote": "For many years the human settlement of North and South America has been conceived of as beginning in the far north and travelling progressively southwards to Patagonia.",
+              "evidenceTranslationVi": "Trong nhiều năm, việc định cư của con người ở Bắc và Nam Mỹ được cho là bắt đầu từ cực bắc và di chuyển dần về phía nam đến Patagonia.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 1 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 29,
+              "prompt": "The writer refers to the 'late' model in order to",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "compare it with another theory of migration."
+                },
+                {
+                  "key": "B",
+                  "text": "evaluate the success of American migration."
+                },
+                {
+                  "key": "C",
+                  "text": "criticise the speed of research into migration."
+                },
+                {
+                  "key": "D",
+                  "text": "compare migration in different parts of the world."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 4",
+              "evidenceQuote": "This has always been difficult to take seriously and many scholars now support the idea of an 'early' model that sees the migration as a less ordered migration, and this is surely the most realistic scenario as migrants slowly adapted to the diverse natural habitats they would have met while travelling through the continent.",
+              "evidenceTranslationVi": "Điều này luôn khó được thực hiện một cách nghiêm túc và nhiều học giả hiện nay ủng hộ ý tưởng về một mô hình 'sớm' coi việc di cư là một cuộc di cư ít trật tự hơn và đây chắc chắn là kịch bản thực tế nhất khi những người di cư dần dần thích nghi với môi trường sống tự nhiên đa dạng mà họ sẽ gặp khi đi qua lục địa.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 4 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 30,
+              "prompt": "What is the writer's main point about the 'early' model?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Scholars support the idea of fast migrations."
+                },
+                {
+                  "key": "B",
+                  "text": "It is too random to be convincing theory."
+                },
+                {
+                  "key": "C",
+                  "text": "South America was more habitable at an earlier time."
+                },
+                {
+                  "key": "D",
+                  "text": "It is more consistent with the physical conditions of the land."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 4",
+              "evidenceQuote": "This has always been difficult to take seriously and many scholars now support the idea of an 'early' model that sees the migration as a less ordered migration, and this is surely the most realistic scenario as migrants slowly adapted to the diverse natural habitats they would have met while travelling through the continent.",
+              "evidenceTranslationVi": "Điều này luôn khó được thực hiện một cách nghiêm túc và nhiều học giả hiện nay ủng hộ ý tưởng về một mô hình 'sớm' coi việc di cư là một cuộc di cư ít trật tự hơn và đây chắc chắn là kịch bản thực tế nhất khi những người di cư dần dần thích nghi với môi trường sống tự nhiên đa dạng mà họ sẽ gặp khi đi qua lục địa.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 4 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 31,
+              "prompt": "What does the writer suggest about the Monte Verde site?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It is much younger than researchers once estimated."
+                },
+                {
+                  "key": "B",
+                  "text": "It provides supporting evidence for relatively early settlement"
+                },
+                {
+                  "key": "C",
+                  "text": "Archaeologists believe the site is of questionable value."
+                },
+                {
+                  "key": "D",
+                  "text": "Streams exposed the site, making new research possible."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 2",
+              "evidenceQuote": "Nevertheless, evidence for human occupation of the centre of South America is now securely dated to around 12,500 years ago at the Monte Verde site, which casts doubt on the 'late' model.",
+              "evidenceTranslationVi": "Tuy nhiên, bằng chứng về sự chiếm đóng của con người ở trung tâm Nam Mỹ hiện được xác định chắc chắn vào khoảng 12.500 năm trước tại địa điểm Monte Verde, điều này gây ra nghi ngờ về mô hình 'muộn'.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 2 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t4-p3-g2",
+          "questionRange": [
+            32,
+            35
+          ],
+          "type": "ynng",
+          "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "number": 32,
+              "prompt": "The conditions encountered by the first migrants to Patagonia were unique.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 1",
+              "evidenceQuote": "We can speculate then that the retreat of the Patagonian glaciers around 14,000 years ago allowed the initial human intrusion into a pristine environment, which was similar to that of early post-glacial Europe.",
+              "evidenceTranslationVi": "Khi đó, chúng ta có thể suy đoán rằng sự rút lui của sông băng Patagonia khoảng 14.000 năm trước đã tạo điều kiện cho con người xâm nhập ban đầu vào một môi trường nguyên sơ, tương tự như môi trường ở châu Âu thời kỳ hậu băng hà đầu tiên.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn E, câu 1 lập luận ngược lại với nhận định của câu hỏi."
+            },
+            {
+              "number": 33,
+              "prompt": "In the high country the first migrants hunted wild animals for food.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 2",
+              "evidenceQuote": "Human settlement of the vast horizontal expanse of treeless high country must have been tenuous at best, and the evidence for this occupation remains relatively scant, most of it coming from rock shelters in Argentina and Chile.",
+              "evidenceTranslationVi": "Sự định cư của con người trên vùng đất rộng lớn không có cây cối trong trường hợp tốt nhất chắc hẳn là rất khó khăn và bằng chứng về nghề nghiệp này vẫn còn tương đối ít, hầu hết đều đến từ các nơi trú ẩn bằng đá ở Argentina và Chile.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn E, câu 2 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 34,
+              "prompt": "Archaeologists have failed to draw conclusions from the evidence found at rock shelters in Argentina and Chile.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 3",
+              "evidenceQuote": "There is, however, reliable evidence from these sites to confirm the presence of humans by around 11,000 years ago in different habitats and some hints of an even older occupation.",
+              "evidenceTranslationVi": "Tuy nhiên, có bằng chứng đáng tin cậy từ những địa điểm này để xác nhận sự hiện diện của con người vào khoảng 11.000 năm trước ở các môi trường sống khác nhau và một số gợi ý về nghề nghiệp thậm chí còn lâu đời hơn.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn E, câu 3 lập luận ngược lại với nhận định của câu hỏi."
+            },
+            {
+              "number": 35,
+              "prompt": "Archaeological evidence can be moved from place to place in a variety of ways.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 5",
+              "evidenceQuote": "This is because anthropologists have come to recognise that bones or other evidence may be deposited in caves by natural agency, in other words by other forces such as floods or predators, and not necessarily by humans.",
+              "evidenceTranslationVi": "Điều này là do các nhà nhân chủng học đã nhận ra rằng xương hoặc các bằng chứng khác có thể được đưa vào hang động nhờ tác động tự nhiên, nói cách khác là do các tác nhân khác như lũ lụt hoặc động vật ăn thịt, chứ không nhất thiết là do con người.",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn E, câu 5 hoàn toàn trùng với nhận định trong câu hỏi."
+            }
+          ]
+        },
+        {
+          "id": "v8-t4-p3-g3",
+          "questionRange": [
+            36,
+            40
+          ],
+          "type": "summary_box",
+          "instruction": "Complete the summary using the list of words, A-J, below.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fixed date"
+            },
+            {
+              "key": "B",
+              "text": "random collection"
+            },
+            {
+              "key": "C",
+              "text": "similar properties"
+            },
+            {
+              "key": "D",
+              "text": "good condition"
+            },
+            {
+              "key": "E",
+              "text": "scientific evaluation"
+            },
+            {
+              "key": "F",
+              "text": "huge quantities"
+            },
+            {
+              "key": "G",
+              "text": "new samples"
+            },
+            {
+              "key": "H",
+              "text": "reliable connection"
+            },
+            {
+              "key": "I",
+              "text": "skilled preservation"
+            },
+            {
+              "key": "J",
+              "text": "immediate surroundings The archaeological evidence from Patagonia"
+            }
+          ],
+          "bodyText": "Building remains and other evidence have been found in {{blank:36}} at the Chinchihuapi\nCreek site, and because of this it has been possible to date them to around 12,500 years\nago. However, the {{blank:37}} of the sample taken from Los Toldos means that this site\nis of doubtful value. EI Ceibo is a more promising dig, where the examination of artefacts\nwould be beneficial in order to confirm the usefulness of discoveries there. The remains\nfound at the Arroyo Feo site show {{blank:38}} and date from around 9,000 years ago.\nUnfortunately, no {{blank:39}} can be made between the samples taken from Las\nBuitreras and human presence. The findings of the work carried out at Cueva Fell cannot\nprovide useful information beyond the {{blank:40}} In conclusion, though the evidence\nis mixed, it is believed that human population of Patagonia began about 11,000 years ago.",
+          "questions": [
+            {
+              "number": 36,
+              "prompt": "Building remains and other evidence have been found in {{blank:36}} at the Chinchihuapi\nCreek site, and because of this it has been possible to date them to around 12,500 years\nago.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 2",
+              "evidenceQuote": "At the site located beside Chinchihuapi Creek, excavations have produced convincing evidence of human occupation, including hut foundations and wooden artefacts.",
+              "evidenceTranslationVi": "Tại địa điểm nằm cạnh Lạch Chinchihuapi, các cuộc khai quật đã đưa ra bằng chứng thuyết phục về sự chiếm đóng của con người, bao gồm nền móng túp lều và đồ tạo tác bằng gỗ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 2 để điền \"D\"."
+            },
+            {
+              "number": 37,
+              "prompt": "However, the {{blank:37}} of the sample taken from Los Toldos means that this site\nis of doubtful value.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 5",
+              "evidenceQuote": "However, the evidence from this site has recently been called into question, because dispersed flecks of carbon used in the test process were taken unsystematically from many different places in the site.",
+              "evidenceTranslationVi": "Tuy nhiên, bằng chứng từ địa điểm này gần đây đã bị đặt dấu hỏi, bởi vì các mảnh carbon phân tán được sử dụng trong quá trình thử nghiệm đã được lấy một cách không có hệ thống từ nhiều nơi khác nhau trong địa điểm.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 5 để điền \"B\"."
+            },
+            {
+              "number": 38,
+              "prompt": "The remains\nfound at the Arroyo Feo site show {{blank:38}} and date from around 9,000 years ago.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 2",
+              "evidenceQuote": "The artefacts from the earliest occupations were found at the same depth and have the same origins as those from Los Toldos, and have been securely dated to around 9,000 years ago.",
+              "evidenceTranslationVi": "Các đồ tạo tác từ những nghề nghiệp sớm nhất được tìm thấy ở cùng độ sâu và có cùng nguồn gốc với đồ tạo tác từ Los Toldos, và được xác định niên đại chắc chắn khoảng 9.000 năm trước.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 2 để điền \"C\"."
+            },
+            {
+              "number": 39,
+              "prompt": "Unfortunately, no {{blank:39}} can be made between the samples taken from Las\nBuitreras and human presence.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "H"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 4",
+              "evidenceQuote": "However, anthropologists now believe that presumed cut marks on the bones are somewhat dubious, and despite detailed testing there is no way of securely relating any of these remains with human occupation.",
+              "evidenceTranslationVi": "Tuy nhiên, các nhà nhân chủng học hiện tin rằng các vết cắt được cho là trên xương có phần không rõ ràng, và mặc dù đã kiểm tra chi tiết nhưng không có cách nào liên hệ một cách chắc chắn bất kỳ dấu vết nào trong số này với nghề nghiệp của con người.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 4 để điền \"H\"."
+            },
+            {
+              "number": 40,
+              "prompt": "The findings of the work carried out at Cueva Fell cannot\nprovide useful information beyond the {{blank:40}} In conclusion, though the evidence\nis mixed, it is believed that human population of Patagonia began about 11,000 years ago.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "J"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 6",
+              "evidenceQuote": "However, it is now recognised that the utility of this site must be restricted to its direct vicinity, given changes to the nearby area caused by flooding, and findings cannot be freely extrapolated further afield.",
+              "evidenceTranslationVi": "Tuy nhiên, hiện nay người ta thừa nhận rằng tiện ích của địa điểm này phải được giới hạn ở vùng lân cận trực tiếp của nó, do những thay đổi đối với khu vực lân cận do lũ lụt gây ra và các phát hiện không thể tự do ngoại suy ở xa hơn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 6 để điền \"J\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

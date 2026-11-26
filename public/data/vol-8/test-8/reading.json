@@ -1,0 +1,1648 @@
+{
+  "vol": 8,
+  "test": 8,
+  "testId": "vol-8-test-8",
+  "title": "IELTS Reading Vol 8 - Test 8",
+  "sourceName": "VOL 8 - ORIGINAL EXAMS/READING/Test 8.pdf",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "Jethro Tull (1674-1741)",
+      "subtitle": "Inventor of the Seed Drill",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "The English gentleman farmer who revolutionised the practice of agriculture"
+        },
+        {
+          "id": "P2",
+          "text": "A Jethro Tull was a major pioneer in the modernisation of agriculture. He was born in 1674 in Berkshire, southern England, into a family of land-owning gentry. He studied first at Oxford University and then at the Inns of Court, London, in preparation for a legal or political career. However, ill health caused him to postpone these plans, and after qualifying as a barrister in 1699, he made a tour of Europe, in the hope that the milder climates of France and Italy would alleviate his breathing problems. In every country through which he passed, he made careful observations of the soil and agricultural production, and on his return to England, the young Tull married, then began farming with his father at Howberry Farm in Oxfordshire."
+        },
+        {
+          "id": "B",
+          "text": "Tull was determined to improve farming methods and increase crop yield on the family land, and pursued a number of agricultural experiments there. He particularly wanted to increase efficiency in the sowing of seeds. At that time seeds were still thrown by hand across the field in a haphazard manner, in a traditional method known as broadcasting. Tull soon realised this method of random distribution was inefficient, being wasteful of both seed and labour, so he instructed his staff to sow seeds at very precise, low densities. But by 1701, his frustration with their lack of co-operation prompted him to invent a machine to do the work for him.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "Earlier in his life, Tull had once dismantled a pipe-organ, and the application of the technology behind this musical instrument inspired him to devise a drill that would distribute precise amounts of seed into pre-cut channels. Basic seeding devices had been known for almost 2000 years, but Tull took the concept a stage further. In his device, as the main wheels of the drill turned, the cylinder rotated against a spring-held tongue. This allowed seed to pass evenly from the hopper above to a funnel below. From here, the seed was directed at regular intervals into three channels, or furrows, in the earth. These were dug to a specific depth by the blades at the front of the machine. Spikes at the back of the machine then turned the soil over to immediately cover the seeds. Tull's 'seed drill' would limit the wastage of seed, and as the seedlings grew in uniform rows, it would also make it easier to remove any unwanted weeds growing among the crop. Accordingly, each plant would have more space to grow, and although there would be fewer plants, the net yield would be greater.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Initially the machine was only a limited success, and in 1711 Tull decided to travel around Europe again, both to improve his health and to study agricultural techniques there. Upon his return in 1714, he perfected both his system and machinery. Following practices he had observed in the vine-growing methods of southern Europe, he used an animal-drawn hoe to turn over and pulverise the earth between the rows. He wrongly believed that this practice would release enough nutrients in the soil to nourish the crop, and so eliminate the need for manure to be used to fertilise the soil. His experiments were apparently successful, as he did manage to grow wheat in the same field for 13 successive years without the use of manure. However, it is more likely that it was the turning over and pulverisation of the soil that cut down on the volume of weeds competing with the seed.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "Tull's complete system eventually proved to be a major influence in the agricultural revolution, and its impact can still be seen in today's methods. Most subsequent drilling and hoeing implements have been either copies of, or improvements upon his inventions, and his modifications to the basic model of the plough continue to be visible in modern versions. Tull also advocated the use of horses over the oxen, more traditionally used to pull farm machinery, and published a book in 1731 outlining this and other ideas to enhance agricultural efficiency. The book caused great controversy when it appeared, and resistance to his revolutionary theories persisted for many decades. Another century would pass before his eventual vindication. It was only following the editing of his writings in 1822, and the subsequent translations and acceptance in France, that Tull's ideas finally achieved recognition in his native land. Although in his lifetime Tull's methods and inventions were dismissed and ridiculed, they were gradually adopted by large landowners, and in time, came to form the basis of modern agriculture.",
+          "label": "E"
+        },
+        {
+          "id": "Q5",
+          "text": "What type of agriculture gave Tull inspiration on his second tour of Europe?",
+          "label": "Q5"
+        },
+        {
+          "id": "Q6",
+          "text": "What traditional addition to soil did Tull believe to be unnecessary?",
+          "label": "Q6"
+        },
+        {
+          "id": "Q7",
+          "text": "What animals did Tull recommend farmers should use to pull their machinery?",
+          "label": "Q7"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t8-p1-g1",
+          "questionRange": [
+            1,
+            4
+          ],
+          "type": "diagram_label",
+          "instruction": "Label the diagram below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "Jethro Tull's seed drill\n{{blank:1}} {{blank:2}}\n{{blank:3}} {{blank:4}}",
+          "diagramUrl": "./data/vol-8/test-8/diagram-1.png",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Jethro Tull's seed drill\n{{blank:1}} {{blank:2}}\n{{blank:3}} {{blank:4}}",
+              "type": "diagram_label",
+              "acceptedAnswers": [
+                "hopper"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 5",
+              "evidenceQuote": "From here, the seed was directed at regular intervals into three channels, or furrows, in the earth.",
+              "evidenceTranslationVi": "Từ đây, hạt giống được định kỳ hướng vào ba kênh, hay các luống, trong lòng đất.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn C, câu 5 để điền \"hopper\"."
+            },
+            {
+              "number": 2,
+              "prompt": "Jethro Tull's seed drill\n{{blank:1}} {{blank:2}}\n{{blank:3}} {{blank:4}}",
+              "type": "diagram_label",
+              "acceptedAnswers": [
+                "cylinder"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 3",
+              "evidenceQuote": "In his device, as the main wheels of the drill turned, the cylinder rotated against a spring-held tongue.",
+              "evidenceTranslationVi": "Trong thiết bị của ông, khi các bánh xe chính của máy khoan quay, hình trụ quay theo một lưỡi được giữ bằng lò xo.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn C, câu 3 để điền \"cylinder\"."
+            },
+            {
+              "number": 3,
+              "prompt": "Jethro Tull's seed drill\n{{blank:1}} {{blank:2}}\n{{blank:3}} {{blank:4}}",
+              "type": "diagram_label",
+              "acceptedAnswers": [
+                "funnel"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 5",
+              "evidenceQuote": "From here, the seed was directed at regular intervals into three channels, or furrows, in the earth.",
+              "evidenceTranslationVi": "Từ đây, hạt giống được định kỳ hướng vào ba kênh, hay các luống, trong lòng đất.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn C, câu 5 để điền \"funnel\"."
+            },
+            {
+              "number": 4,
+              "prompt": "Jethro Tull's seed drill\n{{blank:1}} {{blank:2}}\n{{blank:3}} {{blank:4}}",
+              "type": "diagram_label",
+              "acceptedAnswers": [
+                "Spikes"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 7",
+              "evidenceQuote": "Spikes at the back of the machine then turned the soil over to immediately cover the seeds.",
+              "evidenceTranslationVi": "Sau đó dùng gai ở phía sau máy lật đất để che phủ ngay hạt giống.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn C, câu 7 để điền \"Spikes\"."
+            }
+          ]
+        },
+        {
+          "id": "v8-t8-p1-g2",
+          "questionRange": [
+            5,
+            8
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "bodyText": "What name was given to the traditional technique of seed-sowing?",
+          "questions": [
+            {
+              "number": 5,
+              "prompt": "Question 5",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "broadcasting"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 3",
+              "evidenceQuote": "At that time seeds were still thrown by hand across the field in a haphazard manner, in a traditional method known as broadcasting.",
+              "evidenceTranslationVi": "Vào thời điểm đó, hạt giống vẫn được ném bằng tay khắp ruộng một cách bừa bãi, theo phương pháp truyền thống được gọi là rải hạt.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 3 để điền \"broadcasting\"."
+            },
+            {
+              "number": 6,
+              "prompt": "Question 6",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "vine-growing"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 3",
+              "evidenceQuote": "Following practices he had observed in the vine-growing methods of southern Europe, he used an animal-drawn hoe to turn over and pulverise the earth between the rows.",
+              "evidenceTranslationVi": "Theo những thực hành mà ông đã quan sát được trong các phương pháp trồng nho ở miền nam châu Âu, ông đã sử dụng một chiếc cuốc do động vật kéo để lật và nghiền nát đất giữa các hàng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 3 để điền \"vine-growing\"."
+            },
+            {
+              "number": 7,
+              "prompt": "Question 7",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "manure"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 4",
+              "evidenceQuote": "He wrongly believed that this practice would release enough nutrients in the soil to nourish the crop, and so eliminate the need for manure to be used to fertilise the soil.",
+              "evidenceTranslationVi": "Ông đã tin tưởng một cách sai lầm rằng cách làm này sẽ giải phóng đủ chất dinh dưỡng trong đất để nuôi dưỡng cây trồng và do đó loại bỏ nhu cầu sử dụng phân để bón cho đất.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 4 để điền \"manure\"."
+            },
+            {
+              "number": 8,
+              "prompt": "Question 8",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "horses"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 3",
+              "evidenceQuote": "Tull also advocated the use of horses over the oxen, more traditionally used to pull farm machinery, and published a book in 1731 outlining this and other ideas to enhance agricultural efficiency.",
+              "evidenceTranslationVi": "Tull cũng ủng hộ việc sử dụng ngựa thay vì bò, loại ngựa truyền thống được sử dụng để kéo máy nông nghiệp, và xuất bản một cuốn sách vào năm 1731 nêu rõ ý tưởng này cũng như các ý tưởng khác nhằm nâng cao hiệu quả nông nghiệp.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 3 để điền \"horses\"."
+            }
+          ]
+        },
+        {
+          "id": "v8-t8-p1-g3",
+          "questionRange": [
+            9,
+            13
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 9,
+              "prompt": "Tull was employed in the legal profession before taking up farming.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 3",
+              "evidenceQuote": "He studied first at Oxford University and then at the Inns of Court, London, in preparation for a legal or political career.",
+              "evidenceTranslationVi": "Đầu tiên ông học tại Đại học Oxford và sau đó tại Inns of Court, London, để chuẩn bị cho sự nghiệp luật pháp hoặc chính trị.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn 2, câu 3 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 10,
+              "prompt": "The staff on Tull's farm were unwilling to follow his instructions.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 5",
+              "evidenceQuote": "But by 1701, his frustration with their lack of co-operation prompted him to invent a machine to do the work for him.",
+              "evidenceTranslationVi": "Nhưng đến năm 1701, sự thất vọng về sự thiếu hợp tác của họ đã thôi thúc ông phát minh ra một chiếc máy để thực hiện công việc cho mình.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn B, câu 5 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 11,
+              "prompt": "Tull reduced the amount of weeds in his wheatfield.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 6",
+              "evidenceQuote": "However, it is more likely that it was the turning over and pulverisation of the soil that cut down on the volume of weeds competing with the seed.",
+              "evidenceTranslationVi": "Tuy nhiên, có nhiều khả năng chính việc lật đất và nghiền thành bột đã làm giảm số lượng cỏ dại cạnh tranh với hạt giống.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn D, câu 6 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 12,
+              "prompt": "Tull lived to see his ideas finally accepted.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 7",
+              "evidenceQuote": "Although in his lifetime Tull's methods and inventions were dismissed and ridiculed, they were gradually adopted by large landowners, and in time, came to form the basis of modern agriculture.",
+              "evidenceTranslationVi": "Mặc dù trong cuộc đời của ông, các phương pháp và phát minh của Tull đã bị bác bỏ và chế giễu, nhưng chúng dần dần được các chủ đất lớn áp dụng và dần dần trở thành nền tảng của nền nông nghiệp hiện đại.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn E, câu 7 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 13,
+              "prompt": "Tull's original book, published in 1731, sold very few copies. The internal body clock Each of our cells has an internal ‘clock’ which dictates our daily rhythms. But why?",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 4",
+              "evidenceQuote": "The book caused great controversy when it appeared, and resistance to his revolutionary theories persisted for many decades.",
+              "evidenceTranslationVi": "Cuốn sách đã gây ra tranh cãi lớn khi xuất hiện và sự phản đối các lý thuyết cách mạng của ông vẫn tồn tại trong nhiều thập kỷ.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn E, câu 4 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "A From buffalo to bacteria, oaks to algae, all life follows the same relentless 24-hour cycle,",
+      "subtitle": "which is driven by the rising and setting of the Sun. Or is it? Over 250 years ago, a French",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "scientist performed a simple experiment that blew apart the idea that all life on Earth does the bidding of the Sun. Intrigued by the way some flowers open and close their leaves each day, Jean-Jacques de Mairan put a heliotrope in a darkened room and observed the effect. He was expecting the plant, robbed of sunlight, to cease its daily routine. To his astonishment, its leaves continued to open and close as if in response to some invisible timekeeper."
+        },
+        {
+          "id": "B",
+          "text": "But what – and where – is this internal timekeeper? And how does it achieve such astonishing regularity? These are the mysteries at the forefront of chronobiology, the study of the effect of time in living organisms. The search for answers is about more than just tying up some scientific loose ends. Internal ‘clocks’ clearly cause a lot of hardship. When an individual’s ‘clock’ is knocked out of synchronization through having to work at night or go on long-haul flights, that person can be left utterly unable to think or act. Yet even when these ‘clocks’ work correctly, the natural rhythms of alertness they generate prove dangerous: traffic accident statistics show two deadly peaks, at 4 a.m. and again twelve hours later when people are at their least alert.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "During the 1970s, best-selling books began to emerge claiming such phenomena were manifestations of so-called biorhythms, a set of three cycles governing physical, emotional and intellectual traits. Said to start from the moment of birth and repeat every 23, 28 and 33 days respectively, they were supposed to result in ‘critical days’ when one or more cycles led to sub- optimal performance, with unfortunate consequences.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Scientists have since dismissed biorhythms as pseudoscience, insisting the existence of the three cycles has no basis in fact. In 1998, Dr Terence Hines of Pace University, New York State published the most comprehensive study of the claims made for biorhythms, reviewing the results of over 130 investigations. He found that three-quarters of them failed to provide any support for biorhythms. Most of the remainder contained blunders ranging from faulty mathematics to basic errors in statistics, while the handful of positive studies were explicable as flukes.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "But there is no doubting the existence of 24-hour biological cycles – or, rather, ones roughly 24 hours long. Following de Mairan’s pioneering work, other researchers found that when deprived of the cues provided by sunlight, organisms settle down to ‘free-running’ cycles that are close to, but rarely exactly, 24 hours. In the case of humans, the cycle is typically around 24.5 hours long. This is the so-called ‘circadian’ cycle (from the Latin meaning ‘about a day’), the length of which is generated by the mysterious internal ‘clock’.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "During the late 1960s, chronobiologists believed they had found the ‘clock’, in the form of the suprachiasmatic nucleus (SCN), a collection of nerves in a region of the brain known as the hypothalamus. Linked to photosensitive cells in the eye, the SCN senses daylight and triggers the release of hormones like melatonin, which keep body functions in synchronization with the time of day. For a few years the SCN was regarded as the ultimate pacemaker – at least in higher organisms such as ourselves. But in 1971, scientists at the California Institute of Technology working with fruit flies found evidence for something truly amazing. Fruit flies appeared to have genes affecting the daily rhythm of their behavior – suggesting that there are ‘clocks’ inside each of their cells. Further evidence for this emerged in 1995, when researchers at Massachusetts General Hospital isolated nerve cells from the SCN, and found they kept up a circadian cycle without help from daylight. Finally in 1997, scientists at Northwestern University in Illinois found a gene that regulates the daily rhythms of cellular activity in mammals.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "The details of how this gene, known as CLOCK, actually works are still being investigated, but they could culminate in better ways of coping with shift-work and jet-lag. Professor Takahashi, who led the research, says that now that we know that circadian clocks exist throughout our bodies, we will need new strategies and therapeutics to reset all of our cells. But how do all the biochemical ‘clocks’ inside their cells stay in synchronization and why did organisms bother to acquire a link with sunlight? So far, no-one knows, though there are several theories. For example, sunlight might be useful in keeping the myriad cellular ‘clocks’ in lockstep.",
+          "label": "G"
+        },
+        {
+          "id": "H",
+          "text": "In the search for answers, researchers are studying the behavior of a microbe called cyanobacterium. In 2005, a team at Nagoya University, Japan, showed that chemical reactions between three proteins produced by this bacterium ebbed and flowed on a 24-hour cycle. Cyanobacterium is the oldest form of life on Earth, so this suggests that cellular ‘clocks’ have existed for over three billion years. All subsequent organisms have followed suit, says Professor Johnson of Vanderbilt University, Tennessee. ‘Bacteria, fungi, plants and animals all appear to have evolved clock systems independently from each other.’ Quite why is still unknown. But one thing is clear: the daily routine of life is certainly not a modern invention.",
+          "label": "H"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t8-p2-g1",
+          "questionRange": [
+            14,
+            18
+          ],
+          "type": "matching_info",
+          "instruction": "Reading Passage 2 has eight paragraphs. Which paragraph contains the following information?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "key": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "key": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "key": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "support for an earlier finding from experiments on insects",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 6",
+              "evidenceQuote": "Further evidence for this emerged in 1995, when researchers at Massachusetts General Hospital isolated nerve cells from the SCN, and found they kept up a circadian cycle without help from daylight.",
+              "evidenceTranslationVi": "Bằng chứng sâu hơn cho điều này xuất hiện vào năm 1995, khi các nhà nghiên cứu tại Bệnh viện Đa khoa Massachusetts phân lập các tế bào thần kinh khỏi SCN và nhận thấy chúng duy trì chu kỳ sinh học mà không cần sự trợ giúp từ ánh sáng ban ngày.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn F (Đoạn F, câu 6)."
+            },
+            {
+              "number": 15,
+              "prompt": "criticism of the way some research data was analysed",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 2",
+              "evidenceQuote": "In 1998, Dr Terence Hines of Pace University, New York State published the most comprehensive study of the claims made for biorhythms, reviewing the results of over 130 investigations.",
+              "evidenceTranslationVi": "Năm 1998, Tiến sĩ Terence Hines của Đại học Pace, Bang New York đã công bố nghiên cứu toàn diện nhất về các tuyên bố về nhịp sinh học, xem xét kết quả của hơn 130 cuộc điều tra.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn D (Đoạn D, câu 2)."
+            },
+            {
+              "number": 16,
+              "prompt": "reference to a basic test on a plant",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 2",
+              "evidenceQuote": "Intrigued by the way some flowers open and close their leaves each day, Jean-Jacques de Mairan put a heliotrope in a darkened room and observed the effect.",
+              "evidenceTranslationVi": "Bị hấp dẫn bởi cách một số bông hoa mở và đóng lá mỗi ngày, Jean-Jacques de Mairan đặt một cây vòi voi trong một căn phòng tối và quan sát hiệu ứng.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn A (Đoạn 1, câu 2)."
+            },
+            {
+              "number": 17,
+              "prompt": "a statement that the length of natural cycles varies slightly between living things",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 2",
+              "evidenceQuote": "Following de Mairan’s pioneering work, other researchers found that when deprived of the cues provided by sunlight, organisms settle down to ‘free-running’ cycles that are close to, but rarely exactly, 24 hours.",
+              "evidenceTranslationVi": "Tiếp nối công trình tiên phong của de Mairan, các nhà nghiên cứu khác phát hiện ra rằng khi bị tước đoạt các tín hiệu do ánh sáng mặt trời cung cấp, các sinh vật sẽ chuyển sang chu kỳ “chạy tự do” gần như nhưng hiếm khi chính xác là 24 giờ.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn E (Đoạn E, câu 2)."
+            },
+            {
+              "number": 18,
+              "prompt": "reference to a theory that became popular with the public",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "During the 1970s, best-selling books began to emerge claiming such phenomena were manifestations of so-called biorhythms, a set of three cycles governing physical, emotional and intellectual traits.",
+              "evidenceTranslationVi": "Trong những năm 1970, những cuốn sách bán chạy nhất bắt đầu xuất hiện khẳng định những hiện tượng như vậy là biểu hiện của cái gọi là nhịp sinh học, một bộ ba chu kỳ chi phối các đặc điểm thể chất, cảm xúc và trí tuệ.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn C (Đoạn C, câu 1)."
+            }
+          ]
+        },
+        {
+          "id": "v8-t8-p2-g2",
+          "questionRange": [
+            19,
+            22
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the summary below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "bodyText": "An overview of research into the existence of the internal ‘clock’\nTowards the end of the 1960s, research into the SCN, which is located in the hypothalamus\nled chronobiologists to believe they had found the internal ‘clock’ at last. Their theory was\nbased on the fact that certain hormones that regulate the timing of physical functions are\ncontrolled by the SCN. The SCN is able to perceive {{blank:19}} as a\nresult of connections to the eye.\nSeveral years later, research involving {{blank:20}} showed that the\ntiming of their normal actions was regulated by certain {{blank:21}} or\n‘clocks’, in their cells. Thus the internal ‘clock’ is not an individual mechanism, as previously\nthought, but exists within each cell. Other scientists went on to conduct experiments in the\ndark that proved that a {{blank:22}} was maintained by individual SCN\ncells.",
+          "questions": [
+            {
+              "number": 19,
+              "prompt": "The SCN is able to perceive {{blank:19}} as a\nresult of connections to the eye.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "daylight"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 2",
+              "evidenceQuote": "Linked to photosensitive cells in the eye, the SCN senses daylight and triggers the release of hormones like melatonin, which keep body functions in synchronization with the time of day.",
+              "evidenceTranslationVi": "Được liên kết với các tế bào cảm quang trong mắt, SCN cảm nhận ánh sáng ban ngày và kích hoạt giải phóng các hormone như melatonin, giúp giữ cho các chức năng của cơ thể đồng bộ với thời gian trong ngày.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 2 để điền \"daylight\"."
+            },
+            {
+              "number": 20,
+              "prompt": "Several years later, research involving {{blank:20}} showed that the\ntiming of their normal actions was regulated by certain {{blank:21}} or\n‘clocks’, in their cells.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "fruit flies"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 4",
+              "evidenceQuote": "But in 1971, scientists at the California Institute of Technology working with fruit flies found evidence for something truly amazing.",
+              "evidenceTranslationVi": "Nhưng vào năm 1971, các nhà khoa học tại Viện Công nghệ California khi nghiên cứu ruồi giấm đã tìm thấy bằng chứng cho một điều gì đó thực sự đáng kinh ngạc.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 4 để điền \"fruit flies\"."
+            },
+            {
+              "number": 21,
+              "prompt": "Several years later, research involving {{blank:20}} showed that the\ntiming of their normal actions was regulated by certain {{blank:21}} or\n‘clocks’, in their cells.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "genes"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 5",
+              "evidenceQuote": "Fruit flies appeared to have genes affecting the daily rhythm of their behavior – suggesting that there are ‘clocks’ inside each of their cells.",
+              "evidenceTranslationVi": "Ruồi giấm dường như có các gen ảnh hưởng đến nhịp điệu hành vi hàng ngày của chúng – cho thấy rằng có những “đồng hồ” bên trong mỗi tế bào của chúng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 5 để điền \"genes\"."
+            },
+            {
+              "number": 22,
+              "prompt": "Other scientists went on to conduct experiments in the\ndark that proved that a {{blank:22}} was maintained by individual SCN\ncells.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "circadian cycle"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 6",
+              "evidenceQuote": "Further evidence for this emerged in 1995, when researchers at Massachusetts General Hospital isolated nerve cells from the SCN, and found they kept up a circadian cycle without help from daylight.",
+              "evidenceTranslationVi": "Bằng chứng sâu hơn cho điều này xuất hiện vào năm 1995, khi các nhà nghiên cứu tại Bệnh viện Đa khoa Massachusetts phân lập các tế bào thần kinh khỏi SCN và nhận thấy chúng duy trì chu kỳ sinh học mà không cần sự trợ giúp từ ánh sáng ban ngày.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 6 để điền \"circadian cycle\"."
+            }
+          ]
+        },
+        {
+          "id": "v8-t8-p2-g3",
+          "questionRange": [
+            23,
+            24
+          ],
+          "type": "mcq_multi",
+          "instruction": "Choose TWO correct answers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a decrease in output in workplaces without windows to let in natural light"
+            },
+            {
+              "key": "B",
+              "text": "a failure among workers on night-shifts to perform tasks"
+            },
+            {
+              "key": "C",
+              "text": "an increase in casualties on the roads at specific times of day"
+            },
+            {
+              "key": "D",
+              "text": "a decline in efficiency on certain days in a number of fixed cycles"
+            },
+            {
+              "key": "E",
+              "text": "a rise in mood swings dependent on the appearance of the Sun"
+            }
+          ],
+          "selectCount": 2,
+          "questions": [
+            {
+              "number": 23,
+              "prompt": "Which TWO of the following problems are stated as being linked with the internal ‘clock’?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "a decrease in output in workplaces without windows to let in natural light"
+                },
+                {
+                  "key": "B",
+                  "text": "a failure among workers on night-shifts to perform tasks"
+                },
+                {
+                  "key": "C",
+                  "text": "an increase in casualties on the roads at specific times of day"
+                },
+                {
+                  "key": "D",
+                  "text": "a decline in efficiency on certain days in a number of fixed cycles"
+                },
+                {
+                  "key": "E",
+                  "text": "a rise in mood swings dependent on the appearance of the Sun"
+                }
+              ],
+              "siblingNumbers": [
+                23,
+                24
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 7",
+              "evidenceQuote": "Yet even when these ‘clocks’ work correctly, the natural rhythms of alertness they generate prove dangerous: traffic accident statistics show two deadly peaks, at 4 a.m. and again twelve hours later when people are at their least alert.",
+              "evidenceTranslationVi": "Tuy nhiên, ngay cả khi những 'đồng hồ' này hoạt động chính xác, nhịp điệu cảnh giác tự nhiên mà chúng tạo ra vẫn tỏ ra nguy hiểm: số liệu thống kê về tai nạn giao thông cho thấy hai đỉnh điểm chết người, lúc 4 giờ sáng và 12 giờ sau khi mọi người ở mức cảnh giác kém nhất.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 7 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 24,
+              "prompt": "Which TWO of the following problems are stated as being linked with the internal ‘clock’?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "a decrease in output in workplaces without windows to let in natural light"
+                },
+                {
+                  "key": "B",
+                  "text": "a failure among workers on night-shifts to perform tasks"
+                },
+                {
+                  "key": "C",
+                  "text": "an increase in casualties on the roads at specific times of day"
+                },
+                {
+                  "key": "D",
+                  "text": "a decline in efficiency on certain days in a number of fixed cycles"
+                },
+                {
+                  "key": "E",
+                  "text": "a rise in mood swings dependent on the appearance of the Sun"
+                }
+              ],
+              "siblingNumbers": [
+                23,
+                24
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 7",
+              "evidenceQuote": "Yet even when these ‘clocks’ work correctly, the natural rhythms of alertness they generate prove dangerous: traffic accident statistics show two deadly peaks, at 4 a.m. and again twelve hours later when people are at their least alert.",
+              "evidenceTranslationVi": "Tuy nhiên, ngay cả khi những 'đồng hồ' này hoạt động chính xác, nhịp điệu cảnh giác tự nhiên mà chúng tạo ra vẫn tỏ ra nguy hiểm: số liệu thống kê về tai nạn giao thông cho thấy hai đỉnh điểm chết người, lúc 4 giờ sáng và 12 giờ sau khi mọi người ở mức cảnh giác kém nhất.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 7 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t8-p2-g4",
+          "questionRange": [
+            25,
+            26
+          ],
+          "type": "mcq_multi",
+          "instruction": "Choose TWO correct answers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "the precise length of the free-running daily cycle in different animals"
+            },
+            {
+              "key": "B",
+              "text": "the reason for ‘clocks being temporarily driven out of synchronisation"
+            },
+            {
+              "key": "C",
+              "text": "the reason for living beings forming a connection with the Sun’s rhythms"
+            },
+            {
+              "key": "D",
+              "text": "the way in which all ‘clocks’ in a single organism are able to stay in step with one"
+            },
+            {
+              "key": "E",
+              "text": "another"
+            },
+            {
+              "key": "F",
+              "text": "the location of the ‘clocks’ across the whole range of living organisms"
+            }
+          ],
+          "selectCount": 2,
+          "questions": [
+            {
+              "number": 25,
+              "prompt": "Which TWO of the following issues relating to internal ‘clocks’ remain to be solved, according to information in the passage?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "the precise length of the free-running daily cycle in different animals"
+                },
+                {
+                  "key": "B",
+                  "text": "the reason for ‘clocks being temporarily driven out of synchronisation"
+                },
+                {
+                  "key": "C",
+                  "text": "the reason for living beings forming a connection with the Sun’s rhythms"
+                },
+                {
+                  "key": "D",
+                  "text": "the way in which all ‘clocks’ in a single organism are able to stay in step with one"
+                },
+                {
+                  "key": "E",
+                  "text": "another"
+                },
+                {
+                  "key": "F",
+                  "text": "the location of the ‘clocks’ across the whole range of living organisms"
+                }
+              ],
+              "siblingNumbers": [
+                25,
+                26
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 3",
+              "evidenceQuote": "But how do all the biochemical ‘clocks’ inside their cells stay in synchronization and why did organisms bother to acquire a link with sunlight?",
+              "evidenceTranslationVi": "Nhưng làm thế nào mà tất cả các ‘đồng hồ’ sinh hóa bên trong tế bào của chúng luôn đồng bộ và tại sao các sinh vật lại bận tâm đến việc có được mối liên kết với ánh sáng mặt trời?",
+              "explanationVi": "Thông tin tại Đoạn G, câu 3 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 26,
+              "prompt": "Which TWO of the following issues relating to internal ‘clocks’ remain to be solved, according to information in the passage?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "the precise length of the free-running daily cycle in different animals"
+                },
+                {
+                  "key": "B",
+                  "text": "the reason for ‘clocks being temporarily driven out of synchronisation"
+                },
+                {
+                  "key": "C",
+                  "text": "the reason for living beings forming a connection with the Sun’s rhythms"
+                },
+                {
+                  "key": "D",
+                  "text": "the way in which all ‘clocks’ in a single organism are able to stay in step with one"
+                },
+                {
+                  "key": "E",
+                  "text": "another"
+                },
+                {
+                  "key": "F",
+                  "text": "the location of the ‘clocks’ across the whole range of living organisms"
+                }
+              ],
+              "siblingNumbers": [
+                25,
+                26
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 3",
+              "evidenceQuote": "But how do all the biochemical ‘clocks’ inside their cells stay in synchronization and why did organisms bother to acquire a link with sunlight?",
+              "evidenceTranslationVi": "Nhưng làm thế nào mà tất cả các ‘đồng hồ’ sinh hóa bên trong tế bào của chúng luôn đồng bộ và tại sao các sinh vật lại bận tâm đến việc có được mối liên kết với ánh sáng mặt trời?",
+              "explanationVi": "Thông tin tại Đoạn G, câu 3 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "The origin of language",
+      "subtitle": "Theories on the origin and evolution of language have been a major area of my research for",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "many years. By 1859, when British scientist Charles Darwin published The Origin of Species, there was already a great deal of interest in this subject. However, the debate became plagued by strange theories, so much so that in 1866 the influential Société de Linguistique de Paris banned all discussions about the origin of language. The ban lasted for more than a century, before a surge of research began during the 1990s. Linguists, psychologists, anthropologists, and archaeologists now frequently debate the origin of language and have published many articles and books on this topic. And yet, despite almost frenzied activity, limited progress has been made."
+        },
+        {
+          "id": "P2",
+          "text": "I believe there are four reasons for this. The first is an insufficient concern with the archaeological and fossil proof of the brains and behaviour of our human ancestors. Many theories to date rely on an assumed association between brain size and language abilities, without acknowledging the problem this creates: fossil evidence indicates that the Neanderthals* had larger brains than modern humans, Homo sapiens, but archaeological evidence indicates that the Neanderthals lacked a capacity for language. So something is seriously amiss with those theories."
+        },
+        {
+          "id": "P3",
+          "text": "That ‘something’ might relate to the second reason for limited progress: insufficient concern with the other major aural and vocal communication system of modern humans: music. Even though the Société de Linguistique de Paris had nothing to say about studying the origin of music, academics appear to have had a self-imposed ban, with limited discussion of this issue during the 19th and 20th centuries. However, there are notable exceptions that should be acknowledged. One is the aforementioned Charles Darwin who, in his 1871 book on human evolution, The Descent of Man, devoted several pages to the development of music. Another is the renowned ethnomusicologist John Blacking, whose 1973 book, How Musical is Man?, broached the idea that music is an inherent and universal human quality."
+        },
+        {
+          "id": "P4",
+          "text": "The origin of music deserves as much attention as that of language, as we cannot treat one without the other. Those writers who had evidently annoyed the Société de Linguistique de Paris were quite aware of this. For them, music and language were intimately linked; the French writer and philosopher Jean-Jacques Rousseau’s On the Origin of Language (1781) was a reflection on both music and language. In contrast, Morten Christiansen and Simon Kirby’s book, Language Evolution (2000), which they conceived as ‘a definitive book on the subject,’ failed to mention music in any of its 17 chapters. Those authors have an important lesson to learn from Rousseau and other writers of his time who addressed the origin of language."
+        },
+        {
+          "id": "P5",
+          "text": "Music is a universal feature of human society and plays a significant role in the lives of all individuals. Indeed, music is perhaps in even greater need of study than language: the latter has a self-evident function — the transmission of information — and can be readily accepted as a product of evolution, even if its specific evolutionary history remains unclear. But what is the point of music?"
+        },
+        {
+          "id": "P6",
+          "text": "That question leads directly to a third reason for our lack of progress in understanding how language evolved, and indeed the human mind in general: an insufficient concern with emotion. If music is about anything, it is about expressing emotion. But while archaeologists have put significant effort into examining the intellectual capacities of our ancestors, their emotional lives have been sorely neglected. This has contributed to the neglect of music, which, in turn, has constrained our understanding of language."
+        },
+        {
+          "id": "P7",
+          "text": "There is one further reason why progress has been limited: those who have been most influential regarding the evolution of language have simply got it wrong, and misled everyone else. Linguist Derek Bickerton has made an important contribution towards our understanding of the origin of language by bringing his profound knowledge of linguistics to the discussions that have occurred. But Bickerton’s idea that the precursor of modern language consisted of words strung together with limited, if any, grammar is, I believe, fundamentally mistaken. Bickerton refers to this precursor as ‘proto-language’ and suggests that it was similar to the type of ‘language’ spoken by young children today, and mastered by apes through the use of computer keyboards. This idea has dominated the field of language origins for the last two decades, and is one that I once found persuasive. But I now understand that it is not only flawed but has severely limited the progress that should have been made."
+        },
+        {
+          "id": "P8",
+          "text": "My book therefore provides an alternative view, one that draws on the ideas of a linguist who has, I believe, identified the true nature of proto-language. Her name is Alison Wray. She argues that proto-language was ‘holistic’ rather than ‘compositional’ in character. By this she means that the precursor to language was a communication system composed of ‘messages’ rather than words; each message was uniquely associated with an arbitrary meaning, as are the utterances of language today. But in Wray’s proto-language, they were not composed out of smaller units of meaning (i.e. words) which could be combined together using a rule system (i.e. grammar) to make more complex messages with emergent meanings. For Wray, proto-language was ‘semantically complex and agrammatical’. I believe this insight enables us to understand the origin of music as well as language, and to relate both to the emotional lives of our human ancestors. ------------------------------------------------------"
+        },
+        {
+          "id": "P9",
+          "text": "Neanderthals*: an extinct race of humans who lived in Europe 230,000 to 35,000 years ago"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t8-p3-g1",
+          "questionRange": [
+            27,
+            31
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "In the first paragraph, what does the writer suggest about the origin of language?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Too many branches of science have been involved in its study."
+                },
+                {
+                  "key": "B",
+                  "text": "The Société de Linguistique de Paris instigated research in this area."
+                },
+                {
+                  "key": "C",
+                  "text": "The lack of progress is surprising given the amount of work being done."
+                },
+                {
+                  "key": "D",
+                  "text": "Most progress in the study of language was made between 1859 and 1866."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 6",
+              "evidenceQuote": "And yet, despite almost frenzied activity, limited progress has been made.",
+              "evidenceTranslationVi": "Tuy nhiên, mặc dù hoạt động gần như điên cuồng nhưng vẫn đạt được những tiến bộ hạn chế.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 6 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 28,
+              "prompt": "What is ‘the problem’ referred to in the second paragraph?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Some current theories are based on conflicting evidence."
+                },
+                {
+                  "key": "B",
+                  "text": "There is insufficient fossil evidence to reach a conclusion."
+                },
+                {
+                  "key": "C",
+                  "text": "Fossil evidence suggests that Homo sapiens had larger brains than Neanderthals."
+                },
+                {
+                  "key": "D",
+                  "text": "Archaeological evidence shows that Neanderthals were able to talk."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 3",
+              "evidenceQuote": "Many theories to date rely on an assumed association between brain size and language abilities, without acknowledging the problem this creates: fossil evidence indicates that the Neanderthals* had larger brains than modern humans, Homo sapiens, but archaeological evidence indicates that the Neanderthals lacked a capacity for language.",
+              "evidenceTranslationVi": "Nhiều lý thuyết cho đến nay dựa vào mối liên hệ giả định giữa kích thước não và khả năng ngôn ngữ mà không thừa nhận vấn đề mà điều này tạo ra: bằng chứng hóa thạch chỉ ra rằng người Neanderthal* có bộ não lớn hơn người hiện đại, Homo sapiens, nhưng bằng chứng khảo cổ học chỉ ra rằng người Neanderthal thiếu khả năng ngôn ngữ.",
+              "explanationVi": "Thông tin tại Đoạn 2, câu 3 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 29,
+              "prompt": "What does the writer suggest about Jean-Jacques Rousseau’s work in 1781?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Modern theorists should pay more attention to his approach."
+                },
+                {
+                  "key": "B",
+                  "text": "His ideas supported those of the Société de Linguistique de Paris."
+                },
+                {
+                  "key": "C",
+                  "text": "His ideas were mirrored in a later book called Language Evolution."
+                },
+                {
+                  "key": "D",
+                  "text": "His ideas are too outdated to be of any relevance today."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 5",
+              "evidenceQuote": "Those authors have an important lesson to learn from Rousseau and other writers of his time who addressed the origin of language.",
+              "evidenceTranslationVi": "Những tác giả này có một bài học quan trọng cần học từ Rousseau và các nhà văn khác cùng thời với ông, những người đề cập đến nguồn gốc của ngôn ngữ.",
+              "explanationVi": "Thông tin tại Đoạn 4, câu 5 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 30,
+              "prompt": "What is the writer’s current view of Derek Bickerton’s ideas?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have had little impact on the study of language."
+                },
+                {
+                  "key": "B",
+                  "text": "They have helped the study of linguistics to progress."
+                },
+                {
+                  "key": "C",
+                  "text": "They are not accepted by the majority of linguists."
+                },
+                {
+                  "key": "D",
+                  "text": "The assumption behind them is wrong."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 2",
+              "evidenceQuote": "Linguist Derek Bickerton has made an important contribution towards our understanding of the origin of language by bringing his profound knowledge of linguistics to the discussions that have occurred.",
+              "evidenceTranslationVi": "Nhà ngôn ngữ học Derek Bickerton đã có đóng góp quan trọng cho sự hiểu biết của chúng ta về nguồn gốc ngôn ngữ bằng cách đưa kiến ​​thức sâu sắc về ngôn ngữ học của mình vào các cuộc thảo luận đã diễn ra.",
+              "explanationVi": "Thông tin tại Đoạn 7, câu 2 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 31,
+              "prompt": "In the final paragraph, the writer concludes that Alison Wray’s ideas will help establish a link between:",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "grammar and meaning."
+                },
+                {
+                  "key": "B",
+                  "text": "messages and proto-language."
+                },
+                {
+                  "key": "C",
+                  "text": "language, music and emotions."
+                },
+                {
+                  "key": "D",
+                  "text": "proto-language and modern semantics."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P8",
+              "evidenceLocation": "Đoạn 8, câu 7",
+              "evidenceQuote": "I believe this insight enables us to understand the origin of music as well as language, and to relate both to the emotional lives of our human ancestors. ------------------------------------------------------",
+              "evidenceTranslationVi": "Tôi tin rằng cái nhìn sâu sắc này cho phép chúng ta hiểu được nguồn gốc của âm nhạc cũng như ngôn ngữ và liên hệ cả hai với đời sống tình cảm của tổ tiên loài người chúng ta. ------------------------------------------------------",
+              "explanationVi": "Thông tin tại Đoạn 8, câu 7 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t8-p3-g2",
+          "questionRange": [
+            32,
+            37
+          ],
+          "type": "matching_sentence_endings",
+          "instruction": "Complete each sentence with the correct ending, A-H, below.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Suggested music was an essential part of every individual."
+            },
+            {
+              "key": "B",
+              "text": "Made no link between music and language in a comprehensive study."
+            },
+            {
+              "key": "C",
+              "text": "Believes that early language was very musical."
+            },
+            {
+              "key": "D",
+              "text": "Felt that the origin of language should not be debated."
+            },
+            {
+              "key": "E",
+              "text": "States that early language was made up of basic words used in an unsystematic way."
+            },
+            {
+              "key": "F",
+              "text": "Devoted 17 chapters of a book to music."
+            },
+            {
+              "key": "G",
+              "text": "Believes that proto-language had no individual words."
+            },
+            {
+              "key": "H",
+              "text": "Referred to music in part of a book about the development of human beings."
+            }
+          ],
+          "questions": [
+            {
+              "number": 32,
+              "prompt": "Question 32",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Suggested music was an essential part of every individual."
+                },
+                {
+                  "key": "B",
+                  "text": "Made no link between music and language in a comprehensive study."
+                },
+                {
+                  "key": "C",
+                  "text": "Believes that early language was very musical."
+                },
+                {
+                  "key": "D",
+                  "text": "Felt that the origin of language should not be debated."
+                },
+                {
+                  "key": "E",
+                  "text": "States that early language was made up of basic words used in an unsystematic way."
+                },
+                {
+                  "key": "F",
+                  "text": "Devoted 17 chapters of a book to music."
+                },
+                {
+                  "key": "G",
+                  "text": "Believes that proto-language had no individual words."
+                },
+                {
+                  "key": "H",
+                  "text": "Referred to music in part of a book about the development of human beings."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 3",
+              "evidenceQuote": "However, the debate became plagued by strange theories, so much so that in 1866 the influential Société de Linguistique de Paris banned all discussions about the origin of language.",
+              "evidenceTranslationVi": "Tuy nhiên, cuộc tranh luận trở nên cản trở bởi những lý thuyết kỳ lạ, đến mức vào năm 1866, Hiệp hội Ngôn ngữ học có ảnh hưởng ở Paris đã cấm tất cả các cuộc thảo luận về nguồn gốc của ngôn ngữ.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 3 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 33,
+              "prompt": "Question 33",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Suggested music was an essential part of every individual."
+                },
+                {
+                  "key": "B",
+                  "text": "Made no link between music and language in a comprehensive study."
+                },
+                {
+                  "key": "C",
+                  "text": "Believes that early language was very musical."
+                },
+                {
+                  "key": "D",
+                  "text": "Felt that the origin of language should not be debated."
+                },
+                {
+                  "key": "E",
+                  "text": "States that early language was made up of basic words used in an unsystematic way."
+                },
+                {
+                  "key": "F",
+                  "text": "Devoted 17 chapters of a book to music."
+                },
+                {
+                  "key": "G",
+                  "text": "Believes that proto-language had no individual words."
+                },
+                {
+                  "key": "H",
+                  "text": "Referred to music in part of a book about the development of human beings."
+                }
+              ],
+              "acceptedAnswers": [
+                "H"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 4",
+              "evidenceQuote": "One is the aforementioned Charles Darwin who, in his 1871 book on human evolution, The Descent of Man, devoted several pages to the development of music.",
+              "evidenceTranslationVi": "Một là Charles Darwin đã nói ở trên, người trong cuốn sách về quá trình tiến hóa của loài người xuất bản năm 1871, The Descent of Man, đã dành nhiều trang để nói về sự phát triển của âm nhạc.",
+              "explanationVi": "Thông tin tại Đoạn 3, câu 4 khớp trực tiếp với lựa chọn H; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 34,
+              "prompt": "Question 34",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Suggested music was an essential part of every individual."
+                },
+                {
+                  "key": "B",
+                  "text": "Made no link between music and language in a comprehensive study."
+                },
+                {
+                  "key": "C",
+                  "text": "Believes that early language was very musical."
+                },
+                {
+                  "key": "D",
+                  "text": "Felt that the origin of language should not be debated."
+                },
+                {
+                  "key": "E",
+                  "text": "States that early language was made up of basic words used in an unsystematic way."
+                },
+                {
+                  "key": "F",
+                  "text": "Devoted 17 chapters of a book to music."
+                },
+                {
+                  "key": "G",
+                  "text": "Believes that proto-language had no individual words."
+                },
+                {
+                  "key": "H",
+                  "text": "Referred to music in part of a book about the development of human beings."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 5",
+              "evidenceQuote": "Another is the renowned ethnomusicologist John Blacking, whose 1973 book, How Musical is Man?, broached the idea that music is an inherent and universal human quality.",
+              "evidenceTranslationVi": "Một người khác là nhà âm nhạc dân tộc học nổi tiếng John Blacking, người có cuốn sách xuất bản năm 1973, Con người có tính âm nhạc như thế nào?, đã đưa ra ý tưởng rằng âm nhạc là một phẩm chất vốn có và phổ quát của con người.",
+              "explanationVi": "Thông tin tại Đoạn 3, câu 5 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 35,
+              "prompt": "Question 35",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Suggested music was an essential part of every individual."
+                },
+                {
+                  "key": "B",
+                  "text": "Made no link between music and language in a comprehensive study."
+                },
+                {
+                  "key": "C",
+                  "text": "Believes that early language was very musical."
+                },
+                {
+                  "key": "D",
+                  "text": "Felt that the origin of language should not be debated."
+                },
+                {
+                  "key": "E",
+                  "text": "States that early language was made up of basic words used in an unsystematic way."
+                },
+                {
+                  "key": "F",
+                  "text": "Devoted 17 chapters of a book to music."
+                },
+                {
+                  "key": "G",
+                  "text": "Believes that proto-language had no individual words."
+                },
+                {
+                  "key": "H",
+                  "text": "Referred to music in part of a book about the development of human beings."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 4",
+              "evidenceQuote": "In contrast, Morten Christiansen and Simon Kirby’s book, Language Evolution (2000), which they conceived as ‘a definitive book on the subject,’ failed to mention music in any of its 17 chapters.",
+              "evidenceTranslationVi": "Ngược lại, cuốn sách của Morten Christiansen và Simon Kirby, Sự tiến hóa ngôn ngữ (2000), mà họ coi là 'một cuốn sách dứt khoát về chủ đề này', đã không đề cập đến âm nhạc trong bất kỳ chương nào trong số 17 chương của nó.",
+              "explanationVi": "Thông tin tại Đoạn 4, câu 4 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 36,
+              "prompt": "Question 36",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Suggested music was an essential part of every individual."
+                },
+                {
+                  "key": "B",
+                  "text": "Made no link between music and language in a comprehensive study."
+                },
+                {
+                  "key": "C",
+                  "text": "Believes that early language was very musical."
+                },
+                {
+                  "key": "D",
+                  "text": "Felt that the origin of language should not be debated."
+                },
+                {
+                  "key": "E",
+                  "text": "States that early language was made up of basic words used in an unsystematic way."
+                },
+                {
+                  "key": "F",
+                  "text": "Devoted 17 chapters of a book to music."
+                },
+                {
+                  "key": "G",
+                  "text": "Believes that proto-language had no individual words."
+                },
+                {
+                  "key": "H",
+                  "text": "Referred to music in part of a book about the development of human beings."
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 2",
+              "evidenceQuote": "Linguist Derek Bickerton has made an important contribution towards our understanding of the origin of language by bringing his profound knowledge of linguistics to the discussions that have occurred.",
+              "evidenceTranslationVi": "Nhà ngôn ngữ học Derek Bickerton đã có đóng góp quan trọng cho sự hiểu biết của chúng ta về nguồn gốc ngôn ngữ bằng cách đưa kiến ​​thức sâu sắc về ngôn ngữ học của mình vào các cuộc thảo luận đã diễn ra.",
+              "explanationVi": "Thông tin tại Đoạn 7, câu 2 khớp trực tiếp với lựa chọn E; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 37,
+              "prompt": "Question 37",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Suggested music was an essential part of every individual."
+                },
+                {
+                  "key": "B",
+                  "text": "Made no link between music and language in a comprehensive study."
+                },
+                {
+                  "key": "C",
+                  "text": "Believes that early language was very musical."
+                },
+                {
+                  "key": "D",
+                  "text": "Felt that the origin of language should not be debated."
+                },
+                {
+                  "key": "E",
+                  "text": "States that early language was made up of basic words used in an unsystematic way."
+                },
+                {
+                  "key": "F",
+                  "text": "Devoted 17 chapters of a book to music."
+                },
+                {
+                  "key": "G",
+                  "text": "Believes that proto-language had no individual words."
+                },
+                {
+                  "key": "H",
+                  "text": "Referred to music in part of a book about the development of human beings."
+                }
+              ],
+              "acceptedAnswers": [
+                "G"
+              ],
+              "evidenceParagraphId": "P8",
+              "evidenceLocation": "Đoạn 8, câu 4",
+              "evidenceQuote": "By this she means that the precursor to language was a communication system composed of ‘messages’ rather than words; each message was uniquely associated with an arbitrary meaning, as are the utterances of language today.",
+              "evidenceTranslationVi": "Bằng cách này, cô ấy muốn nói rằng tiền thân của ngôn ngữ là một hệ thống giao tiếp bao gồm ‘thông điệp’ hơn là từ ngữ; mỗi thông điệp được liên kết duy nhất với một ý nghĩa tùy ý, giống như cách phát âm của ngôn ngữ ngày nay.",
+              "explanationVi": "Thông tin tại Đoạn 8, câu 4 khớp trực tiếp với lựa chọn G; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t8-p3-g3",
+          "questionRange": [
+            38,
+            40
+          ],
+          "type": "mcq_multi",
+          "instruction": "Choose THREE correct answers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Evidence from prehistoric times"
+            },
+            {
+              "key": "B",
+              "text": "Intelligence"
+            },
+            {
+              "key": "C",
+              "text": "Individual sounds"
+            },
+            {
+              "key": "D",
+              "text": "Music"
+            },
+            {
+              "key": "E",
+              "text": "Emotions"
+            },
+            {
+              "key": "F",
+              "text": "Human intellect"
+            },
+            {
+              "key": "G",
+              "text": "Children’s language"
+            }
+          ],
+          "selectCount": 3,
+          "questions": [
+            {
+              "number": 38,
+              "prompt": "According to the writer, which THREE of the following areas have not been studied enough in order to understand the origin of language?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Evidence from prehistoric times"
+                },
+                {
+                  "key": "B",
+                  "text": "Intelligence"
+                },
+                {
+                  "key": "C",
+                  "text": "Individual sounds"
+                },
+                {
+                  "key": "D",
+                  "text": "Music"
+                },
+                {
+                  "key": "E",
+                  "text": "Emotions"
+                },
+                {
+                  "key": "F",
+                  "text": "Human intellect"
+                },
+                {
+                  "key": "G",
+                  "text": "Children’s language"
+                }
+              ],
+              "siblingNumbers": [
+                38,
+                39,
+                40
+              ],
+              "acceptedAnswers": [
+                "A",
+                "D",
+                "E"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 2",
+              "evidenceQuote": "The first is an insufficient concern with the archaeological and fossil proof of the brains and behaviour of our human ancestors.",
+              "evidenceTranslationVi": "Đầu tiên là mối quan tâm chưa đầy đủ đối với bằng chứng khảo cổ và hóa thạch về bộ não cũng như hành vi của tổ tiên loài người chúng ta.",
+              "explanationVi": "Thông tin tại Đoạn 2, câu 2 khớp trực tiếp với lựa chọn A, D, E; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 39,
+              "prompt": "According to the writer, which THREE of the following areas have not been studied enough in order to understand the origin of language?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Evidence from prehistoric times"
+                },
+                {
+                  "key": "B",
+                  "text": "Intelligence"
+                },
+                {
+                  "key": "C",
+                  "text": "Individual sounds"
+                },
+                {
+                  "key": "D",
+                  "text": "Music"
+                },
+                {
+                  "key": "E",
+                  "text": "Emotions"
+                },
+                {
+                  "key": "F",
+                  "text": "Human intellect"
+                },
+                {
+                  "key": "G",
+                  "text": "Children’s language"
+                }
+              ],
+              "siblingNumbers": [
+                38,
+                39,
+                40
+              ],
+              "acceptedAnswers": [
+                "A",
+                "D",
+                "E"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 1",
+              "evidenceQuote": "That ‘something’ might relate to the second reason for limited progress: insufficient concern with the other major aural and vocal communication system of modern humans: music.",
+              "evidenceTranslationVi": "‘Điều gì đó’ đó có thể liên quan đến lý do thứ hai khiến tiến bộ bị hạn chế: không đủ quan tâm đến hệ thống giao tiếp bằng âm thanh và giọng nói chính khác của con người hiện đại: âm nhạc.",
+              "explanationVi": "Thông tin tại Đoạn 3, câu 1 khớp trực tiếp với lựa chọn A, D, E; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 40,
+              "prompt": "According to the writer, which THREE of the following areas have not been studied enough in order to understand the origin of language?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Evidence from prehistoric times"
+                },
+                {
+                  "key": "B",
+                  "text": "Intelligence"
+                },
+                {
+                  "key": "C",
+                  "text": "Individual sounds"
+                },
+                {
+                  "key": "D",
+                  "text": "Music"
+                },
+                {
+                  "key": "E",
+                  "text": "Emotions"
+                },
+                {
+                  "key": "F",
+                  "text": "Human intellect"
+                },
+                {
+                  "key": "G",
+                  "text": "Children’s language"
+                }
+              ],
+              "siblingNumbers": [
+                38,
+                39,
+                40
+              ],
+              "acceptedAnswers": [
+                "A",
+                "D",
+                "E"
+              ],
+              "evidenceParagraphId": "P6",
+              "evidenceLocation": "Đoạn 6, câu 1",
+              "evidenceQuote": "That question leads directly to a third reason for our lack of progress in understanding how language evolved, and indeed the human mind in general: an insufficient concern with emotion.",
+              "evidenceTranslationVi": "Câu hỏi đó dẫn trực tiếp đến lý do thứ ba khiến chúng ta thiếu tiến bộ trong việc hiểu ngôn ngữ phát triển như thế nào và thậm chí cả tâm trí con người nói chung: chưa quan tâm đầy đủ đến cảm xúc.",
+              "explanationVi": "Thông tin tại Đoạn 6, câu 1 khớp trực tiếp với lựa chọn A, D, E; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

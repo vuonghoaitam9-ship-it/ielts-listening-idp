@@ -1,0 +1,1476 @@
+{
+  "vol": 8,
+  "test": 6,
+  "testId": "vol-8-test-6",
+  "title": "IELTS Reading Vol 8 - Test 6",
+  "sourceName": "VOL 8 - ORIGINAL EXAMS/READING/Test 6.pdf",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "Optimism and Health",
+      "subtitle": "If you have a positive outlook, the likelihood is that you will lead a longer life. John Nash",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "examines the link between optimism and good health"
+        },
+        {
+          "id": "P2",
+          "text": "Medical studies are concluding that optimists really do have something to be cheerful about. Coincidental links between Optimism and improved general health have been found by researchers. Recently, a Yale University psychologists’ study of 660 volunteers aged 50 and above was published. It found that thinking positively about ageing adds an average of seven years to a person's life. The team, led by Dr Becca Levy, suggests that having an optimistic attitude can bolster the will to live, though they admit that they cannot explain it fully."
+        },
+        {
+          "id": "P3",
+          "text": "Another American research team, however, says they have identified a physical mechanism behind the phenomenon. Their eight-year study of 670 men aged about 63 found that the optimists had significantly better lung function than men who were more pessimistic. This is the first study to show such a link. The research team at Brigham & Women’s Hospital and Harvard Medical School believes that attitude somehow strengthens the immune system, and that adopting a more positive outlook may reverse physical decline. ‘Preliminary studies on heart patients suggest that by changing a person's outlook, you can improve their mortality risk,’ Says Dr Rosalind Wright."
+        },
+        {
+          "id": "P4",
+          "text": "The role of optimism in good health has long been noted but often sidelined. Sigmund Freud, the influential psychologist. optimism with ignorance. and from 1970 to 2000 there were 46,000 psychology papers on depression and only 40 on joy."
+        },
+        {
+          "id": "P5",
+          "text": "Part of that negativity may be blamed on optimists themselves. They are not necessarily fun to have around, Says Brice Pitt, the Emeritus Professor of the Psychiatry of Old Age at Imperial College, London. ‘Optimists tend to be insufferable people. Always jolly, always up, and, frankly, they have a hopelessly rosy outlook’ he says. ‘Depressive people see things as they really are, and that is a disadvantage from an evolutionary point of view. Optimism is a piece of evolutionary equipment that has carried us a long way through millennia of setbacks.’"
+        },
+        {
+          "id": "P6",
+          "text": "Studies show that optimists do better than pessimists in work, school and sports: suffer less depression, achieve more goals, respond better to stress and fight disease better. Among people aged from their mid-nineties into their hundreds, researchers generally fail to find consistencies in diet or exercise (and some still smoke). What the super-aged do tend to share, however, is a Positive, optimistic outlook."
+        },
+        {
+          "id": "P7",
+          "text": "Toshihiko Maruta, of the Mayo Institute, headed an earlier American medical study to find a link between optimism and longevity. Her study found that optimists live about 19 per cent longer than people with grim outlooks. ‘It tells us that mind and body are linked and that attitude has an impact on the final outcome: death,’ she says. That simple message might have far more effect than exhortations to eat fresh fruit and warnings to stay out of the sun."
+        },
+        {
+          "id": "P8",
+          "text": "Despite the benefits of unprecedented material wealth, the World Health Organisation estimates that depression is soon to become the second leading cause of disability. Popular wisdom blames this on our frenetically busy society. According to social forecasters at the Henley Centre, while people in developed countries are 65 per cent better off financially today than they were 15 years ago, there is no evidence that they are any more content with their lives. While much of this is down to the perception among many of being rushed and pressured for time and space, it is the perception not the reality that counts, they say."
+        },
+        {
+          "id": "P9",
+          "text": "The Henley researchers found that if people think they have enough time, space or money, they feel more relaxed about life, regardless of how much of these things they actually have. ‘In terms of money, some of the people who “feel” wealthiest, and some of those who “feel” poorest, actually have almost the same amount of money at their disposal. Their attitudes and behaviour patterns, however, are different from one another,’ says Chad Wallens, a researcher."
+        },
+        {
+          "id": "P10",
+          "text": "Few studies have tried to ascertain the proportion of optimists in the world. But a 1995 nationwide survey conducted in the USA for the American magazine Adweek found that about half the population counted themselves as optimists, with women slightly more apt than men (53 per cent versus 48 per cent) to identify themselves thus. That attitude drops, however, to less than a third of people between the ages of 55 and 64, which supports research showing that men, in particular, tend to become more irritable as they get older. Lynn Myers, a psychotherapist, points out. however, that too much optimism can be a bad thing: ‘You can be what is called a cock-eyed optimist, the sort of person who smokes but is convinced they will never get lung cancer.’ Curiously, though, the Brigham & Women's Hospital study found that that optimism was linked to improved lung function even after smoking was taken into account."
+        },
+        {
+          "id": "P11",
+          "text": "Myers is sceptical about whether there is a simple way that people can become optimistic in order to improve their health chances. ‘I certainly would not suggest that there is anything like “six easy lessons to change your outlook’ But if you can lower your anxiety levels, it tends to make you more optimistic. Conversely, people who are highly anxious tend to be Pessimistic,’ she says."
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t6-p1-g1",
+          "questionRange": [
+            1,
+            5
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the summary below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "bodyText": "Studies at Yale University have shown that a positive altitude can lengthen someone’s\nlifespan by approximately {{blank:1}} Another US research tear\nclaims to have found a physical reason why this happens. As a result of an eight-year study\non {{blank:2}} male subjects of 3 certain age, they have noted\ndifferences in the {{blank:3}} among positive and negative\nthinkers. This discovery has led them to conclude that positive thinking makes the body’s\nentire {{blank:4}} Stronger, which, in turn, reduces ageing.\nRosana Wright cites some early research on {{blank:5}} in support of\nthis view.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Studies at Yale University have shown that a positive altitude can lengthen someone’s\nlifespan by approximately {{blank:1}} Another US research tear\nclaims to have found a physical reason why this happens.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "seven years",
+                "7 years"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 4",
+              "evidenceQuote": "It found that thinking positively about ageing adds an average of seven years to a person's life.",
+              "evidenceTranslationVi": "Người ta phát hiện ra rằng suy nghĩ tích cực về tuổi già sẽ kéo dài tuổi thọ trung bình của một người thêm bảy năm.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 2, câu 4 để điền \"seven years\"."
+            },
+            {
+              "number": 2,
+              "prompt": "As a result of an eight-year study\non {{blank:2}} male subjects of 3 certain age, they have noted\ndifferences in the {{blank:3}} among positive and negative\nthinkers.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "670"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 2",
+              "evidenceQuote": "Their eight-year study of 670 men aged about 63 found that the optimists had significantly better lung function than men who were more pessimistic.",
+              "evidenceTranslationVi": "Nghiên cứu kéo dài 8 năm của họ trên 670 người đàn ông ở độ tuổi khoảng 63 cho thấy những người lạc quan có chức năng phổi tốt hơn đáng kể so với những người đàn ông bi quan hơn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 3, câu 2 để điền \"670\"."
+            },
+            {
+              "number": 3,
+              "prompt": "As a result of an eight-year study\non {{blank:2}} male subjects of 3 certain age, they have noted\ndifferences in the {{blank:3}} among positive and negative\nthinkers.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "lung function"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 2",
+              "evidenceQuote": "Their eight-year study of 670 men aged about 63 found that the optimists had significantly better lung function than men who were more pessimistic.",
+              "evidenceTranslationVi": "Nghiên cứu kéo dài 8 năm của họ trên 670 người đàn ông ở độ tuổi khoảng 63 cho thấy những người lạc quan có chức năng phổi tốt hơn đáng kể so với những người đàn ông bi quan hơn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 3, câu 2 để điền \"lung function\"."
+            },
+            {
+              "number": 4,
+              "prompt": "This discovery has led them to conclude that positive thinking makes the body’s\nentire {{blank:4}} Stronger, which, in turn, reduces ageing.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "immune system"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 4",
+              "evidenceQuote": "The research team at Brigham & Women’s Hospital and Harvard Medical School believes that attitude somehow strengthens the immune system, and that adopting a more positive outlook may reverse physical decline.",
+              "evidenceTranslationVi": "Nhóm nghiên cứu tại Bệnh viện Brigham & Women's và Trường Y Harvard tin rằng thái độ bằng cách nào đó sẽ củng cố hệ thống miễn dịch và việc áp dụng quan điểm tích cực hơn có thể đảo ngược tình trạng suy giảm thể chất.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 3, câu 4 để điền \"immune system\"."
+            },
+            {
+              "number": 5,
+              "prompt": "Rosana Wright cites some early research on {{blank:5}} in support of\nthis view.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "heart patients"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 5",
+              "evidenceQuote": "‘Preliminary studies on heart patients suggest that by changing a person's outlook, you can improve their mortality risk,’ Says Dr Rosalind Wright.",
+              "evidenceTranslationVi": "Tiến sĩ Rosalind Wright cho biết: “Các nghiên cứu sơ bộ về bệnh nhân tim cho thấy rằng bằng cách thay đổi quan điểm của một người, bạn có thể cải thiện nguy cơ tử vong của họ”.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 3, câu 5 để điền \"heart patients\"."
+            }
+          ]
+        },
+        {
+          "id": "v8-t6-p1-g2",
+          "questionRange": [
+            6,
+            10
+          ],
+          "type": "matching_sentence_endings",
+          "instruction": "Complete each sentence with the correct ending, A-H, below.",
+          "options": [
+            {
+              "key": "A",
+              "text": "optimists have an unrealistic view of life."
+            },
+            {
+              "key": "B",
+              "text": "long life is also linked to diet and exercise."
+            },
+            {
+              "key": "C",
+              "text": "excessive optimism may have negative consequences."
+            },
+            {
+              "key": "D",
+              "text": "optimism has not been considered a worthy research topic."
+            },
+            {
+              "key": "E",
+              "text": "a hectic lifestyle can lead to poor health."
+            },
+            {
+              "key": "F",
+              "text": "happiness is not inked to material comfort."
+            },
+            {
+              "key": "G",
+              "text": "levels of optimism can decrease with age."
+            },
+            {
+              "key": "H",
+              "text": "optimists can have 8 positive effect on pessimists."
+            }
+          ],
+          "questions": [
+            {
+              "number": 6,
+              "prompt": "Question 6",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "optimists have an unrealistic view of life."
+                },
+                {
+                  "key": "B",
+                  "text": "long life is also linked to diet and exercise."
+                },
+                {
+                  "key": "C",
+                  "text": "excessive optimism may have negative consequences."
+                },
+                {
+                  "key": "D",
+                  "text": "optimism has not been considered a worthy research topic."
+                },
+                {
+                  "key": "E",
+                  "text": "a hectic lifestyle can lead to poor health."
+                },
+                {
+                  "key": "F",
+                  "text": "happiness is not inked to material comfort."
+                },
+                {
+                  "key": "G",
+                  "text": "levels of optimism can decrease with age."
+                },
+                {
+                  "key": "H",
+                  "text": "optimists can have 8 positive effect on pessimists."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "examines the link between optimism and good health",
+              "evidenceTranslationVi": "kiểm tra mối liên hệ giữa sự lạc quan và sức khỏe tốt",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 1 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 7,
+              "prompt": "Question 7",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "optimists have an unrealistic view of life."
+                },
+                {
+                  "key": "B",
+                  "text": "long life is also linked to diet and exercise."
+                },
+                {
+                  "key": "C",
+                  "text": "excessive optimism may have negative consequences."
+                },
+                {
+                  "key": "D",
+                  "text": "optimism has not been considered a worthy research topic."
+                },
+                {
+                  "key": "E",
+                  "text": "a hectic lifestyle can lead to poor health."
+                },
+                {
+                  "key": "F",
+                  "text": "happiness is not inked to material comfort."
+                },
+                {
+                  "key": "G",
+                  "text": "levels of optimism can decrease with age."
+                },
+                {
+                  "key": "H",
+                  "text": "optimists can have 8 positive effect on pessimists."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 1",
+              "evidenceQuote": "Medical studies are concluding that optimists really do have something to be cheerful about.",
+              "evidenceTranslationVi": "Các nghiên cứu y học đang kết luận rằng những người lạc quan thực sự có điều gì đó để vui mừng.",
+              "explanationVi": "Thông tin tại Đoạn 2, câu 1 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 8,
+              "prompt": "Question 8",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "optimists have an unrealistic view of life."
+                },
+                {
+                  "key": "B",
+                  "text": "long life is also linked to diet and exercise."
+                },
+                {
+                  "key": "C",
+                  "text": "excessive optimism may have negative consequences."
+                },
+                {
+                  "key": "D",
+                  "text": "optimism has not been considered a worthy research topic."
+                },
+                {
+                  "key": "E",
+                  "text": "a hectic lifestyle can lead to poor health."
+                },
+                {
+                  "key": "F",
+                  "text": "happiness is not inked to material comfort."
+                },
+                {
+                  "key": "G",
+                  "text": "levels of optimism can decrease with age."
+                },
+                {
+                  "key": "H",
+                  "text": "optimists can have 8 positive effect on pessimists."
+                }
+              ],
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "P8",
+              "evidenceLocation": "Đoạn 8, câu 1",
+              "evidenceQuote": "Despite the benefits of unprecedented material wealth, the World Health Organisation estimates that depression is soon to become the second leading cause of disability.",
+              "evidenceTranslationVi": "Bất chấp lợi ích của sự giàu có vật chất chưa từng có, Tổ chức Y tế Thế giới ước tính rằng trầm cảm sẽ sớm trở thành nguyên nhân thứ hai gây ra tình trạng khuyết tật.",
+              "explanationVi": "Thông tin tại Đoạn 8, câu 1 khớp trực tiếp với lựa chọn F; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 9,
+              "prompt": "Question 9",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "optimists have an unrealistic view of life."
+                },
+                {
+                  "key": "B",
+                  "text": "long life is also linked to diet and exercise."
+                },
+                {
+                  "key": "C",
+                  "text": "excessive optimism may have negative consequences."
+                },
+                {
+                  "key": "D",
+                  "text": "optimism has not been considered a worthy research topic."
+                },
+                {
+                  "key": "E",
+                  "text": "a hectic lifestyle can lead to poor health."
+                },
+                {
+                  "key": "F",
+                  "text": "happiness is not inked to material comfort."
+                },
+                {
+                  "key": "G",
+                  "text": "levels of optimism can decrease with age."
+                },
+                {
+                  "key": "H",
+                  "text": "optimists can have 8 positive effect on pessimists."
+                }
+              ],
+              "acceptedAnswers": [
+                "G"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "examines the link between optimism and good health",
+              "evidenceTranslationVi": "kiểm tra mối liên hệ giữa sự lạc quan và sức khỏe tốt",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 1 khớp trực tiếp với lựa chọn G; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 10,
+              "prompt": "Question 10",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "optimists have an unrealistic view of life."
+                },
+                {
+                  "key": "B",
+                  "text": "long life is also linked to diet and exercise."
+                },
+                {
+                  "key": "C",
+                  "text": "excessive optimism may have negative consequences."
+                },
+                {
+                  "key": "D",
+                  "text": "optimism has not been considered a worthy research topic."
+                },
+                {
+                  "key": "E",
+                  "text": "a hectic lifestyle can lead to poor health."
+                },
+                {
+                  "key": "F",
+                  "text": "happiness is not inked to material comfort."
+                },
+                {
+                  "key": "G",
+                  "text": "levels of optimism can decrease with age."
+                },
+                {
+                  "key": "H",
+                  "text": "optimists can have 8 positive effect on pessimists."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "examines the link between optimism and good health",
+              "evidenceTranslationVi": "kiểm tra mối liên hệ giữa sự lạc quan và sức khỏe tốt",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 1 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t6-p1-g3",
+          "questionRange": [
+            11,
+            13
+          ],
+          "type": "ynng",
+          "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "number": 11,
+              "prompt": "It has been known for some time that there is a link between optimism and good health.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "examines the link between optimism and good health",
+              "evidenceTranslationVi": "kiểm tra mối liên hệ giữa sự lạc quan và sức khỏe tốt",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn 1, câu 1 hoàn toàn trùng với nhận định trong câu hỏi."
+            },
+            {
+              "number": 12,
+              "prompt": "Optimists have better personal relationships with others than pessimists.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P6",
+              "evidenceLocation": "Đoạn 6, câu 1",
+              "evidenceQuote": "Studies show that optimists do better than pessimists in work, school and sports: suffer less depression, achieve more goals, respond better to stress and fight disease better.",
+              "evidenceTranslationVi": "Các nghiên cứu cho thấy những người lạc quan làm tốt hơn những người bi quan trong công việc, học tập và thể thao: ít bị trầm cảm hơn, đạt được nhiều mục tiêu hơn, phản ứng tốt hơn với căng thẳng và chống lại bệnh tật tốt hơn.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn 6, câu 1 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 13,
+              "prompt": "People who live to be over ninety-five are known to take the same amount of regular exercise.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "P9",
+              "evidenceLocation": "Đoạn 9, câu 2",
+              "evidenceQuote": "‘In terms of money, some of the people who “feel” wealthiest, and some of those who “feel” poorest, actually have almost the same amount of money at their disposal.",
+              "evidenceTranslationVi": "‘Về mặt tiền bạc, một số người “cảm thấy” giàu có nhất và một số người “cảm thấy” nghèo nhất, thực sự có sẵn số tiền gần như nhau.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn 9, câu 2 lập luận ngược lại với nhận định của câu hỏi."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "New Technology in New Zealand's Health Service",
+      "subtitle": "A. At some time in their lives, nearly all New Zealanders will have to attend an after-hours",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "clinic following an emergency or accident. On entering the consulting room, the patient is faced with a barrage of questions. The first ones relate to the current episode, and are followed by more general enquiries. Do you have any allergies? Are you on any medications? And so on. But imagine a different scenario. The patient walks into the consulting room and there on the healthcare professional's computer screen is his or her medical record in its entirety allergies, medications, test results and everything else. To some, it's amazing that this isn't happening already. After all, individuals can track their bank accounts, phone records and countless other transactions online, so why can't they track their health? Ian McCrae, Orion Health's CEO, says that it's understandable if health often falls behind other sectors in its adoption of information technology (IT). It might be. he argues, because of concerns about patient privacy, but also because health care is just so complicated."
+        },
+        {
+          "id": "B",
+          "text": "The irony is, New Zealand started out being ahead of the game. The backbone of any health IT system is having a unique identifier for each patient, and New Zealand's national health index (NHI) number system was introduced in 1993, before most other countries in the world. Innovation then slowed for some years, but in 2011 the earthquake in Canterbury, which affected thousands of people, was a catalyst for health IT in that region of the country. Suddenly, many people couldn't be seen by their usual doctor and many health records were inaccessible. An existing plan for an electronic shared record was fast-tracked, and within six months a basic system, HealthOne, was up and running. By 2013, clinicians in the hospital emergency department were able to see all relevant medical information about patients. Dr. Nigel Millar, Chief Medical Officer for the Canterbury region, says within days doctors were telling him the information had already revolutionised the way they worked.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "This idea, known as a 'patient portal', is now in operation in other parts of the country, including the capital Wellington. With a mobile app patients can remain connected to their patient portal on their mobile device, allowing for added flexibility. However, there's a lot of complacency in medicine, according to Dr. Richard Medlicott. He says that innovative IT systems have the potential to radically change health care delivery, because they will free doctors from routine administrative tasks and instead allow them to focus on diagnosis and patient care, which is where their skills are really needed. But he admits there is some way to go in the adoption of shared care records, and also in changing the mindset of some doctors who are resistant to change. A good example of technology in use comes from Australia, where the National Home Doctor Service has brought back a service that was becoming infrequent the home visit. The after hours service uses an app to arrange an on-call doctor who will visit patients at home to provide on-the-spot healthcare.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "A key part of the health IT picture is maintaining a dialogue and exchange of ideas between healthcare professionals, according to Kate Reid. a director at Orion Health. Reid says this is critical, but it's not easy because there are so many different agencies that are sometimes in competition. Another issue, Reid says, is that there are many information systems that are being trialled today. However, these trials are not big enough to determine if they could ever work at a national level. One area where cooperation in health IT really could deliver benefits is in disease prevention and early intervention, says Reid. 'We've got innovations and technology that could be reaching at-risk people right now.’ she argues, but the infrastructure is not in place to allow funding to be shifted from treatment to prevention. Scott Arrol, CEO of New Zealand Health IT, says that advances are comin, they're just not arriving as fast as everybody would like.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "While IT is extremely important to a functioning health system. there are other areas where New Zealand technologies are improving health care. Dr. Hong Sheng Chiong, for example, has adapted a smartphone camera for medical use. The examination kit combines a phone adapter and app. allowing users to examine the eye with minimal training. Another innovation is the Clever MedKit, an intelligent first aid kit. It separates different items like band-aids and ice packs and orders replacements when necessary, making it particularly helpful in today's busy offices. In a separate field, the use of pre-made ceramic fittings which can be placed over a broken tooth in a single sitting reduces the cost of treatment. Dr. Adam Doudney came up with the idea before it was developed by researchers at the technology company Rhondium. Another idea is the Silhouette system, which offers a way to easily monitor wounds. It allows practitioners to detect small differences in wound size by collecting accurate images and data. Finally, the Auckland Bioengineering Institute is helping those wishing to keep fit or rehabilitate from injury. When placed on the body their special sensor moves with the wearer and measures the amount of movement, before the data is transmitted to the user's mobile or tablet. It'll be fascinating to see how these and other technologies transform medicine over the years to come.",
+          "label": "E"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t6-p2-g1",
+          "questionRange": [
+            14,
+            18
+          ],
+          "type": "matching_info",
+          "instruction": "Reading Passage 2 has five paragraphs, A-E. Which paragraph contains the following information? Choose the correct letter, A-E, in boxes 14-18. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "reference to a medical practice that became less common but is now being used more frequently in one country",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "This idea, known as a 'patient portal', is now in operation in other parts of the country, including the capital Wellington.",
+              "evidenceTranslationVi": "Ý tưởng này, được gọi là 'cổng thông tin bệnh nhân', hiện đang được áp dụng ở các vùng khác của đất nước, bao gồm cả thủ đô Wellington.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn C (Đoạn C, câu 1)."
+            },
+            {
+              "number": 15,
+              "prompt": "reference to a health management scheme in New Zealand that was more advanced than those used in other nations",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 1",
+              "evidenceQuote": "The irony is, New Zealand started out being ahead of the game.",
+              "evidenceTranslationVi": "Điều trớ trêu là New Zealand lại dẫn trước cuộc chơi.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn B (Đoạn B, câu 1)."
+            },
+            {
+              "number": 16,
+              "prompt": "the claim that some of the information systems being tested in the health sector are only on a small scale",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 3",
+              "evidenceQuote": "Another issue, Reid says, is that there are many information systems that are being trialled today.",
+              "evidenceTranslationVi": "Một vấn đề khác, Reid nói, là ngày nay có rất nhiều hệ thống thông tin đang được thử nghiệm.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn D (Đoạn D, câu 3)."
+            },
+            {
+              "number": 17,
+              "prompt": "reference to the fact that most people in New Zealand will experience an urgent medical situation at some point",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 1",
+              "evidenceQuote": "The irony is, New Zealand started out being ahead of the game.",
+              "evidenceTranslationVi": "Điều trớ trêu là New Zealand lại dẫn trước cuộc chơi.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn A (Đoạn B, câu 1)."
+            },
+            {
+              "number": 18,
+              "prompt": "mention of a dramatic event that led to improved use of health information technology in one part of New Zealand",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 1",
+              "evidenceQuote": "The irony is, New Zealand started out being ahead of the game.",
+              "evidenceTranslationVi": "Điều trớ trêu là New Zealand lại dẫn trước cuộc chơi.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn B (Đoạn B, câu 1)."
+            }
+          ]
+        },
+        {
+          "id": "v8-t6-p2-g2",
+          "questionRange": [
+            19,
+            22
+          ],
+          "type": "matching_features",
+          "instruction": "Look at the following statements (Questions 19-22) and the list of people below. Match each statement with the correct person, A-E. Choose the correct letter, A-E, in boxes 19-22. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ian McCrae"
+            },
+            {
+              "key": "B",
+              "text": "Nigel Millar"
+            },
+            {
+              "key": "C",
+              "text": "Richard Medlicott"
+            },
+            {
+              "key": "D",
+              "text": "Kate Reid"
+            },
+            {
+              "key": "E",
+              "text": "Scott Arrol A B C D E"
+            }
+          ],
+          "questions": [
+            {
+              "number": 19,
+              "prompt": "Money should be invested in technology that attempts to stop people becoming sick, rather than caring for them once they are sick.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ian McCrae"
+                },
+                {
+                  "key": "B",
+                  "text": "Nigel Millar"
+                },
+                {
+                  "key": "C",
+                  "text": "Richard Medlicott"
+                },
+                {
+                  "key": "D",
+                  "text": "Kate Reid"
+                },
+                {
+                  "key": "E",
+                  "text": "Scott Arrol A B C D E"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 7",
+              "evidenceQuote": "A good example of technology in use comes from Australia, where the National Home Doctor Service has brought back a service that was becoming infrequent the home visit.",
+              "evidenceTranslationVi": "Một ví dụ điển hình về công nghệ đang được sử dụng đến từ Úc, nơi Dịch vụ Bác sĩ Tại nhà Quốc gia đã mang lại một dịch vụ mà ngày càng ít người đến thăm nhà.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 7 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 20,
+              "prompt": "There are good reasons why healthcare does not make more use of technology to manage patient information.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ian McCrae"
+                },
+                {
+                  "key": "B",
+                  "text": "Nigel Millar"
+                },
+                {
+                  "key": "C",
+                  "text": "Richard Medlicott"
+                },
+                {
+                  "key": "D",
+                  "text": "Kate Reid"
+                },
+                {
+                  "key": "E",
+                  "text": "Scott Arrol A B C D E"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 11",
+              "evidenceQuote": "Ian McCrae, Orion Health's CEO, says that it's understandable if health often falls behind other sectors in its adoption of information technology (IT).",
+              "evidenceTranslationVi": "Ian McCrae, Giám đốc điều hành của Orion Health, nói rằng việc ngành y tế thường tụt hậu so với các lĩnh vực khác trong việc áp dụng công nghệ thông tin (CNTT) là điều dễ hiểu.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 11 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 21,
+              "prompt": "Health professionals need to communicate and work together, even if they have different interests.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ian McCrae"
+                },
+                {
+                  "key": "B",
+                  "text": "Nigel Millar"
+                },
+                {
+                  "key": "C",
+                  "text": "Richard Medlicott"
+                },
+                {
+                  "key": "D",
+                  "text": "Kate Reid"
+                },
+                {
+                  "key": "E",
+                  "text": "Scott Arrol A B C D E"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "A key part of the health IT picture is maintaining a dialogue and exchange of ideas between healthcare professionals, according to Kate Reid. a director at Orion Health.",
+              "evidenceTranslationVi": "Theo Kate Reid, một phần quan trọng của bức tranh CNTT y tế là duy trì đối thoại và trao đổi ý tưởng giữa các chuyên gia chăm sóc sức khỏe. một giám đốc tại Orion Health.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 1 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 22,
+              "prompt": "New technologies will enable healthcare professionals to concentrate on the most important aspects of their work.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ian McCrae"
+                },
+                {
+                  "key": "B",
+                  "text": "Nigel Millar"
+                },
+                {
+                  "key": "C",
+                  "text": "Richard Medlicott"
+                },
+                {
+                  "key": "D",
+                  "text": "Kate Reid"
+                },
+                {
+                  "key": "E",
+                  "text": "Scott Arrol A B C D E"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 1",
+              "evidenceQuote": "While IT is extremely important to a functioning health system. there are other areas where New Zealand technologies are improving health care.",
+              "evidenceTranslationVi": "Trong khi CNTT cực kỳ quan trọng đối với một hệ thống y tế đang hoạt động. có những lĩnh vực khác mà công nghệ của New Zealand đang cải thiện việc chăm sóc sức khỏe.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 1 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t6-p2-g3",
+          "questionRange": [
+            23,
+            26
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the summary below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "Other Health Technologies\nApart from IT, New Zealand scientists have made good progress with other types of medical\ntechnology. Dr Chiong has designed a camera so that doctors can look into a patient's\n{{blank:23}} Clever MedKit provides everyday medical supplies for use in\n{{blank:24}} and ensures stocks are always up-to-date. Meanwhile, the\ncost of repairing a {{blank:25}} is likely to be reduced thanks to Dr Adam\nDoudney, whose idea was developed by researchers at Rhondium. Another breakthrough is\nthat changes in the {{blank:26}} of wounds can now be recorded more\naccurately because of the new Silhouette system. Lastly, a new type of sensor developed by\nthe Auckland Bioengineering Institute can assist fitness and recovery.",
+          "questions": [
+            {
+              "number": 23,
+              "prompt": "Dr Chiong has designed a camera so that doctors can look into a patient's\n{{blank:23}} Clever MedKit provides everyday medical supplies for use in\n{{blank:24}} and ensures stocks are always up-to-date.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "eye"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 4",
+              "evidenceQuote": "The examination kit combines a phone adapter and app. allowing users to examine the eye with minimal training.",
+              "evidenceTranslationVi": "Bộ dụng cụ khám kết hợp bộ chuyển đổi điện thoại và ứng dụng. cho phép người dùng kiểm tra mắt với sự đào tạo tối thiểu.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 4 để điền \"eye\"."
+            },
+            {
+              "number": 24,
+              "prompt": "Dr Chiong has designed a camera so that doctors can look into a patient's\n{{blank:23}} Clever MedKit provides everyday medical supplies for use in\n{{blank:24}} and ensures stocks are always up-to-date.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "offices"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 6",
+              "evidenceQuote": "It separates different items like band-aids and ice packs and orders replacements when necessary, making it particularly helpful in today's busy offices.",
+              "evidenceTranslationVi": "Nó phân tách các vật dụng khác nhau như băng cá nhân, túi chườm đá và yêu cầu thay thế khi cần thiết, khiến nó đặc biệt hữu ích trong các văn phòng bận rộn ngày nay.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 6 để điền \"offices\"."
+            },
+            {
+              "number": 25,
+              "prompt": "Meanwhile, the\ncost of repairing a {{blank:25}} is likely to be reduced thanks to Dr Adam\nDoudney, whose idea was developed by researchers at Rhondium.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "tooth"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 7",
+              "evidenceQuote": "In a separate field, the use of pre-made ceramic fittings which can be placed over a broken tooth in a single sitting reduces the cost of treatment.",
+              "evidenceTranslationVi": "Trong một lĩnh vực riêng biệt, việc sử dụng các phụ kiện sứ làm sẵn có thể đặt lên chiếc răng bị gãy trong một lần duy nhất giúp giảm chi phí điều trị.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 7 để điền \"tooth\"."
+            },
+            {
+              "number": 26,
+              "prompt": "Another breakthrough is\nthat changes in the {{blank:26}} of wounds can now be recorded more\naccurately because of the new Silhouette system.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "size"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 11",
+              "evidenceQuote": "It allows practitioners to detect small differences in wound size by collecting accurate images and data.",
+              "evidenceTranslationVi": "Nó cho phép các bác sĩ phát hiện những khác biệt nhỏ về kích thước vết thương bằng cách thu thập hình ảnh và dữ liệu chính xác.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 11 để điền \"size\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "Game theory",
+      "subtitle": "Computer software that models human behaviour can make forecasts, outsmart rivals, and",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "transform negotiations"
+        },
+        {
+          "id": "P2",
+          "text": "A According to game theory, our chances of success in negotiations are based on the choices of others. Computer models have been developed to work out how events will unfold as people and organizations act in what they perceive to be their own best interests. Numerical values are placed on the goals, motivations, and influence of players, and likely options are considered. Game theory software then evaluates the ability of each of those players to influence others, and hence predicts the course of events."
+        },
+        {
+          "id": "B",
+          "text": "Although many individuals would feel uncomfortable having a computer make decisions for them, many organizations run such computer simulations for law firms, companies, and governments. But feeding software with accurate data on all the players involved is especially tricky for political matters. Reinier van Oosten of Decide, a Dutch firm that models political negotiations, notes that predictions may become unreliable when people unexpectedly give in to 'non-rational' emotions such as hatred, rather than pursuing what is apparently in their best interests. However, sorting out people's motivations is much easier when making money is the main object. Accordingly, modeling behavior using game theory is proving especially useful when applied to economics.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "Using game theory software to model auctions can be very lucrative. Consulting firms are entering the market to help clients design profitable auctions, or to win them less expensively. In 2006, in the run-up to an online auction of radio-spectrum licenses by America's Federal Communications Commission, Dr Paul Milgrom, a consultant and Stanford University professor in the United States, customized his game theory software to assist a consortium of bidders. He was apprehensive at first, but the result was a triumph. When the auction began, Milgrom's software tracked competitors' bids to estimate their budgets for the 1,132 licenses on offer. Crucially, the software estimated the secret values bidders placed on specific licenses and determined that certain big licenses were being overvalued. Milgrom's clients were then directed to obtain a collection of smaller, less expensive licenses instead. Two of his clients paid about a third less than their competitors for an equivalent amount of spectrum, saving almost $1.2 billion. Such a saving makes one wonder why everyone isn't using game theory software. And, if they were, how would that affect the game?",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "PA Consulting, a British firm, designs models for software based on game theory to help its clients solve specific problems in areas from pharmaceuticals to the production of television shows. British government agencies have asked PA Consulting to build models to test scenarios that address how many of a type of business should be allowed to operate in a particular area. A simple example: if two competing ice-cream sellers share a long beach, they will set up stalls back-to-back in the middle and stay put, explains Dr Stephen Black, a modeler for PA. Unfortunately for potential customers at the far ends of the beach, each seller prevents the other from relocating – no other spot would be closer to more people. Introduce a third seller, however, and the stifling equilibrium is broken as relocations and pricing changes energize the market. By studying a chain of events such as this, software designers can assess the effect of change and see the patterns in possible outcomes that may occur. As a result, the use of modeling makes clients more inclined to look at future repercussions when making business decisions, Black says.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "Where is all this heading? Alongside the increasingly elaborate modeling software, there are also efforts to develop software that can assist in negotiation and mediation. Two decades ago, Dr Clara Ponsati, a Spanish academic, came up with a clever idea. She accepted that, as negotiators everywhere know, the first side to disclose the maximum amount that it is willing to pay loses considerable bargaining power. Without leverage, it can be pushed backward in the bargaining process by a clever opponent. But if neither side reveals the concessions it is prepared to make, negotiations can become very slow or collapse. However, difficult negotiations can often be pushed along by neutral mediators, especially if they are entrusted with the secret bottom lines of all parties. Ponsati's idea was that if a human mediator was not trusted, affordable, or available, a computer could do the job instead. Negotiating parties would update the software with the confidential information on their bargaining positions after each round of talks. Once positions on both sides were no longer mutually exclusive, the software would be used to split the difference and propose an agreement. Ponsati, now head of the Institute of Economic Analysis at the Autonomous University of Barcelona in Spain, says such \"mediation machines\" could be employed to push negotiations forward by unlocking information that would otherwise be withheld from an opponent.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "Could mediation which has been achieved using software based on game theory spread from auction bids and utility pricing to resolving political and military disputes? Today's game theory software is not yet sufficiently advanced to mediate between warring countries. But one day opponents on the brink of war might be tempted to use it to exchange information without having to engage in conflict. According to some game theorists, opponents could learn how a war would turn out, skip the fighting, and strike a deal. Over-optimistic, perhaps – but game theorists do have rather an impressive track record when it comes to predicting the future.",
+          "label": "F"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t6-p3-g1",
+          "questionRange": [
+            27,
+            31
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "What does the writer suggest about game theory software in the first paragraph?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Traditional negotiating practices should be used to supplement the software."
+                },
+                {
+                  "key": "B",
+                  "text": "Success of the software depends on the accuracy of the assigned values."
+                },
+                {
+                  "key": "C",
+                  "text": "This software anticipates the outcome of future events."
+                },
+                {
+                  "key": "D",
+                  "text": "Future business negotiations will be dominated by this software."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 4",
+              "evidenceQuote": "Game theory software then evaluates the ability of each of those players to influence others, and hence predicts the course of events.",
+              "evidenceTranslationVi": "Sau đó, phần mềm lý thuyết trò chơi sẽ đánh giá khả năng của mỗi người chơi trong việc gây ảnh hưởng đến người khác và từ đó dự đoán diễn biến của các sự kiện.",
+              "explanationVi": "Thông tin tại Đoạn 2, câu 4 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 28,
+              "prompt": "Reinier van Oosten says predicting what people will do works best if",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "participants are honest about how they feel."
+                },
+                {
+                  "key": "B",
+                  "text": "there is a good understanding of the client's culture."
+                },
+                {
+                  "key": "C",
+                  "text": "people strongly dislike the other party."
+                },
+                {
+                  "key": "D",
+                  "text": "profit is the primary motivator."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 3",
+              "evidenceQuote": "Reinier van Oosten of Decide, a Dutch firm that models political negotiations, notes that predictions may become unreliable when people unexpectedly give in to 'non-rational' emotions such as hatred, rather than pursuing what is apparently in their best interests.",
+              "evidenceTranslationVi": "Reinier van Oosten của Decision, một công ty Hà Lan chuyên lập mô hình đàm phán chính trị, lưu ý rằng các dự đoán có thể trở nên không đáng tin cậy khi mọi người bất ngờ nhượng bộ những cảm xúc 'phi lý trí' như thù hận, thay vì theo đuổi những gì có vẻ là có lợi nhất cho họ.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 3 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 29,
+              "prompt": "After using game theory software in 2006, Dr Milgrom instructed his clients to",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "buy big licenses."
+                },
+                {
+                  "key": "B",
+                  "text": "negotiate with the other parties directly."
+                },
+                {
+                  "key": "C",
+                  "text": "make one big offer at the end of the auction."
+                },
+                {
+                  "key": "D",
+                  "text": "purchase a mix of licenses."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 3",
+              "evidenceQuote": "In 2006, in the run-up to an online auction of radio-spectrum licenses by America's Federal Communications Commission, Dr Paul Milgrom, a consultant and Stanford University professor in the United States, customized his game theory software to assist a consortium of bidders.",
+              "evidenceTranslationVi": "Năm 2006, trước cuộc đấu giá trực tuyến các giấy phép phổ vô tuyến của Ủy ban Truyền thông Liên bang Hoa Kỳ, Tiến sĩ Paul Milgrom, một nhà tư vấn và giáo sư Đại học Stanford ở Hoa Kỳ, đã tùy chỉnh phần mềm lý thuyết trò chơi của mình để hỗ trợ một nhóm các nhà thầu.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 3 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 30,
+              "prompt": "The writer refers to Stephen Black's ice-cream seller example in order to",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "show the impact new competitors have on business."
+                },
+                {
+                  "key": "B",
+                  "text": "highlight the importance of location on business success."
+                },
+                {
+                  "key": "C",
+                  "text": "demonstrate that businesses must follow a strategy."
+                },
+                {
+                  "key": "D",
+                  "text": "clarify how pricing affects sales."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 3",
+              "evidenceQuote": "A simple example: if two competing ice-cream sellers share a long beach, they will set up stalls back-to-back in the middle and stay put, explains Dr Stephen Black, a modeler for PA.",
+              "evidenceTranslationVi": "Tiến sĩ Stephen Black, người lập mô hình cho PA giải thích: Một ví dụ đơn giản: nếu hai người bán kem cạnh tranh nhau chia sẻ một bãi biển dài, họ sẽ dựng các quầy hàng giáp nhau ở giữa và giữ nguyên vị trí.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 3 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 31,
+              "prompt": "Ponsati believes business negotiations are more likely to progress if",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "a solution is proposed by one of the interested parties."
+                },
+                {
+                  "key": "B",
+                  "text": "mediators or computers take over the bargaining process."
+                },
+                {
+                  "key": "C",
+                  "text": "both parties follow the rules of negotiating."
+                },
+                {
+                  "key": "D",
+                  "text": "sufficient time is allowed for the bargaining process."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 5",
+              "evidenceQuote": "Without leverage, it can be pushed backward in the bargaining process by a clever opponent.",
+              "evidenceTranslationVi": "Nếu không có đòn bẩy, nó có thể bị một đối thủ thông minh đẩy lùi trong quá trình thương lượng.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 5 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t6-p3-g2",
+          "questionRange": [
+            32,
+            35
+          ],
+          "type": "ynng",
+          "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "number": 32,
+              "prompt": "Game theory software may be unhelpful when dealing with political issues.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 1",
+              "evidenceQuote": "Could mediation which has been achieved using software based on game theory spread from auction bids and utility pricing to resolving political and military disputes?",
+              "evidenceTranslationVi": "Liệu việc hòa giải đạt được bằng cách sử dụng phần mềm dựa trên lý thuyết trò chơi có thể lan rộng từ đấu giá thầu và định giá tiện ích sang giải quyết các tranh chấp chính trị và quân sự không?",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn F, câu 1 hoàn toàn trùng với nhận định trong câu hỏi."
+            },
+            {
+              "number": 33,
+              "prompt": "Dr Milgrom was confident about applying his software to an auction in 2006.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 3",
+              "evidenceQuote": "In 2006, in the run-up to an online auction of radio-spectrum licenses by America's Federal Communications Commission, Dr Paul Milgrom, a consultant and Stanford University professor in the United States, customized his game theory software to assist a consortium of bidders.",
+              "evidenceTranslationVi": "Năm 2006, trước cuộc đấu giá trực tuyến các giấy phép phổ vô tuyến của Ủy ban Truyền thông Liên bang Hoa Kỳ, Tiến sĩ Paul Milgrom, một nhà tư vấn và giáo sư Đại học Stanford ở Hoa Kỳ, đã tùy chỉnh phần mềm lý thuyết trò chơi của mình để hỗ trợ một nhóm các nhà thầu.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn C, câu 3 lập luận ngược lại với nhận định của câu hỏi."
+            },
+            {
+              "number": 34,
+              "prompt": "Dr Ponsati believes 'mediation machines' are an inappropriate method of negotiation in areas other than business.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "PA Consulting, a British firm, designs models for software based on game theory to help its clients solve specific problems in areas from pharmaceuticals to the production of television shows.",
+              "evidenceTranslationVi": "PA Consulting, một công ty của Anh, thiết kế các mô hình phần mềm dựa trên lý thuyết trò chơi để giúp khách hàng giải quyết các vấn đề cụ thể trong các lĩnh vực từ dược phẩm đến sản xuất chương trình truyền hình.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn D, câu 1 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 35,
+              "prompt": "Military organizations refuse to accept that software based on game theory could prevent wars.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 1",
+              "evidenceQuote": "Could mediation which has been achieved using software based on game theory spread from auction bids and utility pricing to resolving political and military disputes?",
+              "evidenceTranslationVi": "Liệu việc hòa giải đạt được bằng cách sử dụng phần mềm dựa trên lý thuyết trò chơi có thể lan rộng từ đấu giá thầu và định giá tiện ích sang giải quyết các tranh chấp chính trị và quân sự không?",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn F, câu 1 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            }
+          ]
+        },
+        {
+          "id": "v8-t6-p3-g3",
+          "questionRange": [
+            36,
+            40
+          ],
+          "type": "matching_sentence_endings",
+          "instruction": "Complete each sentence with the correct ending, A-F, below.",
+          "options": [
+            {
+              "key": "A",
+              "text": "something is thought to be worth more than it really is."
+            },
+            {
+              "key": "B",
+              "text": "discussions between the parties begin to break down."
+            },
+            {
+              "key": "C",
+              "text": "too much information is given to the other parties early on."
+            },
+            {
+              "key": "D",
+              "text": "businesses consider possible future developments."
+            },
+            {
+              "key": "E",
+              "text": "people allow their feelings to influence decisions."
+            },
+            {
+              "key": "F",
+              "text": "a solution requires face-to-face negotiation."
+            }
+          ],
+          "questions": [
+            {
+              "number": 36,
+              "prompt": "Question 36",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "something is thought to be worth more than it really is."
+                },
+                {
+                  "key": "B",
+                  "text": "discussions between the parties begin to break down."
+                },
+                {
+                  "key": "C",
+                  "text": "too much information is given to the other parties early on."
+                },
+                {
+                  "key": "D",
+                  "text": "businesses consider possible future developments."
+                },
+                {
+                  "key": "E",
+                  "text": "people allow their feelings to influence decisions."
+                },
+                {
+                  "key": "F",
+                  "text": "a solution requires face-to-face negotiation."
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 2",
+              "evidenceQuote": "Computer models have been developed to work out how events will unfold as people and organizations act in what they perceive to be their own best interests.",
+              "evidenceTranslationVi": "Các mô hình máy tính đã được phát triển để tìm ra các sự kiện sẽ diễn ra như thế nào khi mọi người và tổ chức hành động theo những gì họ cho là có lợi nhất cho mình.",
+              "explanationVi": "Thông tin tại Đoạn 2, câu 2 khớp trực tiếp với lựa chọn E; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 37,
+              "prompt": "Question 37",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "something is thought to be worth more than it really is."
+                },
+                {
+                  "key": "B",
+                  "text": "discussions between the parties begin to break down."
+                },
+                {
+                  "key": "C",
+                  "text": "too much information is given to the other parties early on."
+                },
+                {
+                  "key": "D",
+                  "text": "businesses consider possible future developments."
+                },
+                {
+                  "key": "E",
+                  "text": "people allow their feelings to influence decisions."
+                },
+                {
+                  "key": "F",
+                  "text": "a solution requires face-to-face negotiation."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "transform negotiations",
+              "evidenceTranslationVi": "chuyển đổi đàm phán",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 1 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 38,
+              "prompt": "Question 38",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "something is thought to be worth more than it really is."
+                },
+                {
+                  "key": "B",
+                  "text": "discussions between the parties begin to break down."
+                },
+                {
+                  "key": "C",
+                  "text": "too much information is given to the other parties early on."
+                },
+                {
+                  "key": "D",
+                  "text": "businesses consider possible future developments."
+                },
+                {
+                  "key": "E",
+                  "text": "people allow their feelings to influence decisions."
+                },
+                {
+                  "key": "F",
+                  "text": "a solution requires face-to-face negotiation."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 6",
+              "evidenceQuote": "By studying a chain of events such as this, software designers can assess the effect of change and see the patterns in possible outcomes that may occur.",
+              "evidenceTranslationVi": "Bằng cách nghiên cứu một chuỗi các sự kiện như thế này, các nhà thiết kế phần mềm có thể đánh giá tác động của sự thay đổi và xem các mô hình kết quả có thể xảy ra.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 6 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 39,
+              "prompt": "Question 39",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "something is thought to be worth more than it really is."
+                },
+                {
+                  "key": "B",
+                  "text": "discussions between the parties begin to break down."
+                },
+                {
+                  "key": "C",
+                  "text": "too much information is given to the other parties early on."
+                },
+                {
+                  "key": "D",
+                  "text": "businesses consider possible future developments."
+                },
+                {
+                  "key": "E",
+                  "text": "people allow their feelings to influence decisions."
+                },
+                {
+                  "key": "F",
+                  "text": "a solution requires face-to-face negotiation."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 9",
+              "evidenceQuote": "Negotiating parties would update the software with the confidential information on their bargaining positions after each round of talks.",
+              "evidenceTranslationVi": "Các bên đàm phán sẽ cập nhật phần mềm những thông tin bí mật về quan điểm thương lượng của họ sau mỗi vòng đàm phán.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 9 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 40,
+              "prompt": "Question 40",
+              "type": "matching_sentence_endings",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "something is thought to be worth more than it really is."
+                },
+                {
+                  "key": "B",
+                  "text": "discussions between the parties begin to break down."
+                },
+                {
+                  "key": "C",
+                  "text": "too much information is given to the other parties early on."
+                },
+                {
+                  "key": "D",
+                  "text": "businesses consider possible future developments."
+                },
+                {
+                  "key": "E",
+                  "text": "people allow their feelings to influence decisions."
+                },
+                {
+                  "key": "F",
+                  "text": "a solution requires face-to-face negotiation."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 7",
+              "evidenceQuote": "However, difficult negotiations can often be pushed along by neutral mediators, especially if they are entrusted with the secret bottom lines of all parties.",
+              "evidenceTranslationVi": "Tuy nhiên, những cuộc đàm phán khó khăn thường có thể được thúc đẩy bởi những người hòa giải trung lập, đặc biệt nếu họ được giao phó những thông tin mấu chốt bí mật của tất cả các bên.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 7 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

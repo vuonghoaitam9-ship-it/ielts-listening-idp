@@ -1,0 +1,1152 @@
+{
+  "vol": 8,
+  "test": 1,
+  "testId": "vol-8-test-1",
+  "title": "IELTS Reading Vol 8 - Test 1",
+  "sourceName": "VOL 8 - ORIGINAL EXAMS/READING/Test 1.pdf",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "Steam across the water",
+      "subtitle": "A look at the early history of boats powered by steam",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "During the 1600s, very early in the development of steam engines, inventive spirits like the Frenchman Denis Papin dreamed of – and experimented with – boats driven by steam, rather than by the wind or human effort, but many decades passed before those visions became reality."
+        },
+        {
+          "id": "P2",
+          "text": "Englishman Jonathan Hulls took out patents on a steamboat in 1736, but it was to be driven by a Newcomen engine, which was heavy and therefore inefficient, and would never be a success. In 1763, William Henry, an American. put a Watt steam engine in a boat, but it sank. Nearly 20 years later, in the 1780s, a steam-powered paddle-wheeler managed to last fifteen minutes against the current on the River Saone in France, but lacked the endurance for longer trips. Developments elsewhere included a boat driven by a steam-powered water-jet and able to do six kilometres per hour. However, all these steamboats were either too slow or too expensive to run. For example, American John Fitch successfully trialled his first steamboat in 1787, but although he tried a number of designs and solved many technical challenges – one of his boats could even travel at 13 km/h – he could never convince sceptics that steamboats would pay."
+        },
+        {
+          "id": "P3",
+          "text": "The 19th century came before real success could be claimed. In Scotland in 1802, Lord Dundas launched the steamboat Charlotte Dundas, which was driven by a paddle wheel and had an improved engine designed by William Symington. Barges, some weighing as much as 70 tonnes. were towed by this steamboat 30 kilometres along the Forth and Clyde Canal to Glasgow, Scotland’s second city. Soon after, success came to American Robert Fulton, whose countrymen called him ‘the father of the steamboat’. Inspired by news of the Charlotte Dundas, Fulton ran steamboat trials on the River Seine, in an attempt to attract French support for his submarine Nautilus. He later imported a Boulton-Watt steam engine and built a boat to use it in. In 1807, the Clermont began a scheduled passenger steamboat service between New York and Albany, 250 kilometres up the Hudson River, taking 30 hours for the trip. Within few years, steamers were running on the St Lawrence River in Canada and would soon appear on other rivers and lakes, including the Mississippi River, a most famous venue for the paddle-wheelers."
+        },
+        {
+          "id": "P4",
+          "text": "Back in Scotland, Fulton’s ideas inspired Henry Bell, who launched his Comet in 1812 on the Clyde between Glasgow and Greenock. Inside a decade, dozens of steamboats were to be seen on the rivers, lochs and canals of Scotland, carrying cargo and occasionally passengers. The age of steamboats had come."
+        },
+        {
+          "id": "P5",
+          "text": "Once steamboats were carrying passengers and industrial goods along the inland waterways and sheltered coastlines of Europe, North America and elsewhere, the challenge became to send steamboats onto the open ocean, such as across the Atlantic Ocean, between Europe and the US. Travelling under steam power alone would require engines to use less coal so the ship could stay at sea for several weeks. In order to provide a reliable service, it was also necessary to replace paddle wheels as a source of power with something less affected by the rolling of the ship."
+        },
+        {
+          "id": "P6",
+          "text": "Without waiting for such breakthroughs, crossings under a combination of steam and sail got underway in 1819 with the American ship Savannah. A regular service took another two decades and introduced the famous name of Cunard. Securing the British government contract for the mail service across the Atlantic, Samuel Cunard established a shipping line in 1840, soon carrying passengers as well, and offering guaranteed sailing dates. Cunard’s first ships used a sail-steam combination, but the era of the passenger liner, using steam alone, was getting close."
+        },
+        {
+          "id": "P7",
+          "text": "When it came to building the ships, the versatile British engineer Isambard Kingdom Brunel set the pace. Brunel, brilliant and daring, had already built the Great Western Railway. He created ever bigger ships – faster, more luxurious and comfortable for passengers. The Great Western, launched in 1838, was 70 metres long and crossed from Bristol to New York in just fifteen days. The largest paddle steamer ever built was Brunel’s Great Eastern. Ultimately too expensive to run as a passenger ship, it was leased to lay the first submarine telegraph cable from Europe to America. His 1853 Great Britain, nearly 100 metres long and luxuriously appointed, was the first ocean-going steamship made of iron, and the first to use the underwater screw propeller for powering movement in place of paddle wheels. The idea of the screw had been around since the experiments of the American John Stevens in 1803, but only in 1838 did a large steamer use one, the riverboat Archimedes built by Francis Pettit Smith. Later ships had twin screws for reliability."
+        },
+        {
+          "id": "P8",
+          "text": "In many modem ships, steam turbines have replaced engines with pistons, with fuel oil instead of coal to fire the boilers. Diesel engines keep others moving. The largest ships afloat now would dwarf Brunel’s Great Eastern (launched in 1860); the Atlantic can be crossed in only four days. But in whatever form, the ever-evolving descendants of the original visions of Denis Papin and Robert Fulton continue to travel the seas in vast numbers."
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t1-p1-g1",
+          "questionRange": [
+            1,
+            6
+          ],
+          "type": "table_completion",
+          "instruction": "Complete the table below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "table": {
+            "headers": [
+              "Date",
+              "Event"
+            ],
+            "rows": [
+              [
+                "1600s",
+                "● Early inventors like Papin started to develop boats that relied on steam instead of manpower or wind."
+              ],
+              [
+                "1730s",
+                "● The engine of Jonathan Hulls' steamboat was (1) due to its weight. __________________"
+              ]
+            ]
+          },
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Question 1",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "inefficient"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 1",
+              "evidenceQuote": "Englishman Jonathan Hulls took out patents on a steamboat in 1736, but it was to be driven by a Newcomen engine, which was heavy and therefore inefficient, and would never be a success.",
+              "evidenceTranslationVi": "Người Anh Jonathan Hulls đã nhận được bằng sáng chế về một chiếc tàu hơi nước vào năm 1736, nhưng nó được điều khiển bằng động cơ Newcomen, loại động cơ nặng và do đó không hiệu quả, và sẽ không bao giờ thành công.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 2, câu 1 để điền \"inefficient\"."
+            },
+            {
+              "number": 2,
+              "prompt": "__________________\n1780s | ● A French paddle steamer did not have the {{blank:2}} to keep going for more than a quarter of an hour.",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "endurance"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 3",
+              "evidenceQuote": "Nearly 20 years later, in the 1780s, a steam-powered paddle-wheeler managed to last fifteen minutes against the current on the River Saone in France, but lacked the endurance for longer trips.",
+              "evidenceTranslationVi": "Gần 20 năm sau, vào những năm 1780, một chiếc xe đạp có mái chèo chạy bằng hơi nước đã có thể chạy được mười lăm phút ngược dòng trên sông Saone ở Pháp, nhưng lại không đủ sức bền cho những chuyến đi dài hơn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 2, câu 3 để điền \"endurance\"."
+            },
+            {
+              "number": 3,
+              "prompt": "Question 3",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "technical"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 6",
+              "evidenceQuote": "For example, American John Fitch successfully trialled his first steamboat in 1787, but although he tried a number of designs and solved many technical challenges – one of his boats could even travel at 13 km/h – he could never convince sceptics that steamboats would pay.",
+              "evidenceTranslationVi": "Ví dụ, John Fitch người Mỹ đã thử nghiệm thành công chiếc tàu hơi nước đầu tiên của mình vào năm 1787, nhưng mặc dù ông đã thử một số thiết kế và giải quyết được nhiều thách thức kỹ thuật – một trong những chiếc thuyền của ông thậm chí có thể di chuyển với tốc độ 13 km/h – nhưng ông không bao giờ có thể thuyết phục được những người hoài nghi rằng tàu hơi nước sẽ thành công.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 2, câu 6 để điền \"technical\"."
+            },
+            {
+              "number": 4,
+              "prompt": "● In France, Fulton used a steamboat to try to raise interest in a {{blank:4}} ● Passengers in the US began to be carried regularly by a steamboat called the {{blank:5}}\n1812 onwards | ● In Scotland, steamboats transported some passengers, but mostly {{blank:6}}",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "submarine"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 5",
+              "evidenceQuote": "Inspired by news of the Charlotte Dundas, Fulton ran steamboat trials on the River Seine, in an attempt to attract French support for his submarine Nautilus.",
+              "evidenceTranslationVi": "Lấy cảm hứng từ tin tức về Charlotte Dundas, Fulton đã chạy thử tàu hơi nước trên sông Seine, trong nỗ lực thu hút sự hỗ trợ của Pháp cho tàu ngầm Nautilus của mình.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 3, câu 5 để điền \"submarine\"."
+            },
+            {
+              "number": 5,
+              "prompt": "● In France, Fulton used a steamboat to try to raise interest in a {{blank:4}} ● Passengers in the US began to be carried regularly by a steamboat called the {{blank:5}}\n1812 onwards | ● In Scotland, steamboats transported some passengers, but mostly {{blank:6}}",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "Clermont"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 7",
+              "evidenceQuote": "In 1807, the Clermont began a scheduled passenger steamboat service between New York and Albany, 250 kilometres up the Hudson River, taking 30 hours for the trip.",
+              "evidenceTranslationVi": "Năm 1807, Clermont bắt đầu dịch vụ tàu hơi nước chở khách theo lịch trình giữa New York và Albany, cách sông Hudson 250 km, mất 30 giờ cho chuyến đi.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 3, câu 7 để điền \"Clermont\"."
+            },
+            {
+              "number": 6,
+              "prompt": "● In France, Fulton used a steamboat to try to raise interest in a {{blank:4}} ● Passengers in the US began to be carried regularly by a steamboat called the {{blank:5}}\n1812 onwards | ● In Scotland, steamboats transported some passengers, but mostly {{blank:6}}",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "cargo"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 3",
+              "evidenceQuote": "The age of steamboats had come.",
+              "evidenceTranslationVi": "Thời đại của tàu hơi nước đã đến.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 4, câu 3 để điền \"cargo\"."
+            }
+          ]
+        },
+        {
+          "id": "v8-t1-p1-g2",
+          "questionRange": [
+            7,
+            13
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 7,
+              "prompt": "For steamboats to cross the Atlantic Ocean, engines which used fuel economically were needed.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 1",
+              "evidenceQuote": "Once steamboats were carrying passengers and industrial goods along the inland waterways and sheltered coastlines of Europe, North America and elsewhere, the challenge became to send steamboats onto the open ocean, such as across the Atlantic Ocean, between Europe and the US.",
+              "evidenceTranslationVi": "Khi tàu hơi nước chở hành khách và hàng hóa công nghiệp dọc theo đường thủy nội địa và bờ biển được che chắn của Châu Âu, Bắc Mỹ và các nơi khác, thách thức trở thành việc đưa tàu hơi nước ra đại dương rộng mở, chẳng hạn như băng qua Đại Tây Dương, giữa Châu Âu và Hoa Kỳ.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 5, câu 1 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 8,
+              "prompt": "Using paddle wheels guaranteed reliability on ocean crossings.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 3",
+              "evidenceQuote": "In order to provide a reliable service, it was also necessary to replace paddle wheels as a source of power with something less affected by the rolling of the ship.",
+              "evidenceTranslationVi": "Để cung cấp dịch vụ đáng tin cậy, cũng cần phải thay thế bánh mái chèo làm nguồn năng lượng bằng một thứ ít bị ảnh hưởng hơn khi tàu lăn.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn 5, câu 3 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 9,
+              "prompt": "The Savannah was much faster than a regular paddle steamer.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P6",
+              "evidenceLocation": "Đoạn 6, câu 1",
+              "evidenceQuote": "Without waiting for such breakthroughs, crossings under a combination of steam and sail got underway in 1819 with the American ship Savannah.",
+              "evidenceTranslationVi": "Không cần chờ đợi những đột phá như vậy, việc vượt biển bằng sự kết hợp giữa hơi nước và buồm đã được tiến hành vào năm 1819 với con tàu Savannah của Mỹ.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn 6, câu 1 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 10,
+              "prompt": "Brunel preferred designing railways to steamships.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 2",
+              "evidenceQuote": "Brunel, brilliant and daring, had already built the Great Western Railway.",
+              "evidenceTranslationVi": "Brunel, thông minh và táo bạo, đã xây dựng Đường sắt Great Western.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn 7, câu 2 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 11,
+              "prompt": "The Great Britain had more than one innovative feature.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 7",
+              "evidenceQuote": "His 1853 Great Britain, nearly 100 metres long and luxuriously appointed, was the first ocean-going steamship made of iron, and the first to use the underwater screw propeller for powering movement in place of paddle wheels.",
+              "evidenceTranslationVi": "Vương quốc Anh năm 1853 của ông, dài gần 100 mét và được trang bị sang trọng, là tàu hơi nước đi biển đầu tiên được làm bằng sắt và là tàu đầu tiên sử dụng cánh quạt trục vít dưới nước để cung cấp năng lượng cho chuyển động thay cho bánh chèo.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 7, câu 7 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 12,
+              "prompt": "The design of the riverboat Archimedes was widely admired.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 8",
+              "evidenceQuote": "The idea of the screw had been around since the experiments of the American John Stevens in 1803, but only in 1838 did a large steamer use one, the riverboat Archimedes built by Francis Pettit Smith.",
+              "evidenceTranslationVi": "Ý tưởng về chiếc vít đã có từ các thí nghiệm của John Stevens người Mỹ vào năm 1803, nhưng chỉ đến năm 1838, một chiếc tàu hơi nước lớn mới sử dụng chiếc vít này, chiếc thuyền trên sông Archimedes do Francis Pettit Smith chế tạo.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn 7, câu 8 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 13,
+              "prompt": "Modern ships that cross the Atlantic use the same energy source as the early steamships. IQ Scores How they are changing and what the changes",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "P8",
+              "evidenceLocation": "Đoạn 8, câu 1",
+              "evidenceQuote": "In many modem ships, steam turbines have replaced engines with pistons, with fuel oil instead of coal to fire the boilers.",
+              "evidenceTranslationVi": "Ở nhiều tàu hiện đại, tua-bin hơi nước đã thay thế động cơ bằng piston, dùng dầu đốt thay vì than để đốt nồi hơi.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn 8, câu 1 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "A Studies from numerous countries suggest that IQ scores have been rising fast since at",
+      "subtitle": "least the 1950s - enough to mean that someone with an IQ classed as average at that time",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "could be labelled as having low Intelligence today. However, psychologists disagree about what the upward trend in scores really means. Some researchers argue that people are not getting more intelligent overall, but just getting better at a particular sort of problem solving. Others say they have found echoes of rising 1Q scores in 'real world' measures of intelligence. To confuse things still more, there are hints that the trend may be about to grind to a halt."
+        },
+        {
+          "id": "B",
+          "text": "James Flynn, a professor of political science, first showed that IQ scores were rising in the mid-1980s, and became famous after others dubbed the pattern he had observed the 'Flynn effect. In a landmark paper he made detailed comparisons across fourteen countries of trends in the results of tests that measure reasoning power. Overall, these showed a real growth in scores of up to 25 points in a generation. To find out more, Flynn went on to look at scores for each type of reasoning that IQ tests set out to measure, such as verbal, numerical and visuo-10 tests set ou spatial. This last test category usually includes 'Raven's matrices' - sequential patterns with one piece missing. The candidate has to choose, from a set of alternatives, which shape to put in the empty space. When Flynn took a closer look ace. Whe at the scores, the pattern was clear. The strongest gains in almost every case were on Raven's matrices and similar tests, while verbal and arithmetical scores showed more modest rises. Since presenting his original paper, Flynn has looked at data from further countries and found the same upward trend, with the same skills responsible for most of the increase.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "Flynn feels that his eponymous effect is meaningful, but does not interpret it as evidence that people are becoming cleverer. Our grandparents were not retarded and we are not geniuses, he says. More likely we have simply developed the skills and habits of mind that make us better at solving abstract problems, and - just as importantly - we take such problems seriously. Flynn belleves that demands of visuo-spatial abilities have grown because of TV, computers and cars, and also that. In societies where intelligence has become something people focus on excessively abstract problem-solving skills develop faster than other skills.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Others have different views about what might account for the increase in 1Q scores. John Rust of the University of London suggests that it is not just an increase in visuo-spatial activities that is pushing up IQ scores. He believes that there are several factors, including the fact that, in more complex societies, people have to think harder to find solutions to problems they face. He also points out that if just one mind grasps a new concept, such as Einstein and the theory of relativity, it may then be easier for society in general to think in a more complex way. Others, such as experimental psychologist Robert Howard, argue that overall Intelligence really has risen, helped by better nutrition, smaller familles, wider access to education and other environmental changes.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "Howard's latest research has sent him on a different line of enquiry. Controversially, he now believes that the rise in IQ scores might have peaked in industrialised countries. To support this view, he cites data from Denmark. The Danish military still summons virtually all young men before a draft board to identify who is suitable to do military service. Since 1957, all 17-year-olds there have taken exactly the same qualifying IQ tests - including ones similar to Raven's matrices. Candidates must also be able to answer verbal questions such as 'Sun is to day as Moon is to ?', and number-series questions such as '2, 3, 5, 8, ?'. Results in these tests have been carefully analysed by Thomas Teasdale, a neuropsychologist. He found that during the 1960s and '70s, scores showed gains on a scale similar to those of other countries, but by the 1990s the rate of Improvement had slowed right down to about one IQ point over the decade. Furthermore, the scores were improving only on the visuo-spatial questions; verbal and numerical performance was flattening out. Most intriguingly, however, scores from 1999 onwards show an overall downturn. One explanation might be that there is some absolute ceiling to people's abilities to perform these tasks, no matter how much the prevailing culture encourages them. However, as Teasdale points out, if such a ceiling had been reached, the test results should show scores pushing against it rather than actually falling.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "Flynn is keeping a close eye on the findings, but is not jumping to conclusions until data from other countries is available. However, he does wonder whether the conditions leading to dramatic Improvements in mental ability disappear as societies become more prosperous. He points out that in human history, prosperity often led to decadence, and argues that the case of ancient Rome can be viewed as an Illustration of this.",
+          "label": "F"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t1-p2-g1",
+          "questionRange": [
+            14,
+            18
+          ],
+          "type": "matching_features",
+          "instruction": "Look at the following statements (Questions 14-18) and the List of people. Match each statement with the correct person, A, B, C or D Choose the correct letter, A, B, C or D, in boxes 14-18. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "James Flynn"
+            },
+            {
+              "key": "B",
+              "text": "John Rust"
+            },
+            {
+              "key": "C",
+              "text": "Robert Howard"
+            },
+            {
+              "key": "D",
+              "text": "Thomas Teasdale A B C D"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "Modern technology has influenced some aspects of human intelligence.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "James Flynn"
+                },
+                {
+                  "key": "B",
+                  "text": "John Rust"
+                },
+                {
+                  "key": "C",
+                  "text": "Robert Howard"
+                },
+                {
+                  "key": "D",
+                  "text": "Thomas Teasdale A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 5",
+              "evidenceQuote": "In societies where intelligence has become something people focus on excessively abstract problem-solving skills develop faster than other skills.",
+              "evidenceTranslationVi": "Trong những xã hội nơi trí thông minh đã trở thành thứ mà mọi người tập trung vào các kỹ năng giải quyết vấn đề quá trừu tượng sẽ phát triển nhanh hơn các kỹ năng khác.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 5 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 15,
+              "prompt": "IQ scores may not have attained their natural limit.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "James Flynn"
+                },
+                {
+                  "key": "B",
+                  "text": "John Rust"
+                },
+                {
+                  "key": "C",
+                  "text": "Robert Howard"
+                },
+                {
+                  "key": "D",
+                  "text": "Thomas Teasdale A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 8",
+              "evidenceQuote": "He found that during the 1960s and '70s, scores showed gains on a scale similar to those of other countries, but by the 1990s the rate of Improvement had slowed right down to about one IQ point over the decade.",
+              "evidenceTranslationVi": "Ông phát hiện ra rằng trong những năm 1960 và 70, điểm số cho thấy mức tăng tương tự như ở các quốc gia khác, nhưng đến những năm 1990, tốc độ Cải thiện đã chậm lại xuống còn khoảng một điểm IQ trong suốt thập kỷ.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 8 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 16,
+              "prompt": "Improved diet has a positive effect on mental powers",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "James Flynn"
+                },
+                {
+                  "key": "B",
+                  "text": "John Rust"
+                },
+                {
+                  "key": "C",
+                  "text": "Robert Howard"
+                },
+                {
+                  "key": "D",
+                  "text": "Thomas Teasdale A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 5",
+              "evidenceQuote": "Others, such as experimental psychologist Robert Howard, argue that overall Intelligence really has risen, helped by better nutrition, smaller familles, wider access to education and other environmental changes.",
+              "evidenceTranslationVi": "Những người khác, chẳng hạn như nhà tâm lý học thực nghiệm Robert Howard, cho rằng Trí thông minh tổng thể thực sự đã tăng lên nhờ dinh dưỡng tốt hơn, quy mô gia đình nhỏ hơn, khả năng tiếp cận giáo dục rộng rãi hơn và những thay đổi môi trường khác.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 5 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 17,
+              "prompt": "Exceptional individuals can have an impact on collective intelligence.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "James Flynn"
+                },
+                {
+                  "key": "B",
+                  "text": "John Rust"
+                },
+                {
+                  "key": "C",
+                  "text": "Robert Howard"
+                },
+                {
+                  "key": "D",
+                  "text": "Thomas Teasdale A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 4",
+              "evidenceQuote": "He also points out that if just one mind grasps a new concept, such as Einstein and the theory of relativity, it may then be easier for society in general to think in a more complex way.",
+              "evidenceTranslationVi": "Ông cũng chỉ ra rằng nếu chỉ một bộ óc nắm bắt được một khái niệm mới, chẳng hạn như Einstein và thuyết tương đối, thì xã hội nói chung có thể dễ dàng suy nghĩ theo cách phức tạp hơn.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 4 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 18,
+              "prompt": "As societies become more sophisticated the need for problem-solving skills increases.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "James Flynn"
+                },
+                {
+                  "key": "B",
+                  "text": "John Rust"
+                },
+                {
+                  "key": "C",
+                  "text": "Robert Howard"
+                },
+                {
+                  "key": "D",
+                  "text": "Thomas Teasdale A B C D"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 3",
+              "evidenceQuote": "He believes that there are several factors, including the fact that, in more complex societies, people have to think harder to find solutions to problems they face.",
+              "evidenceTranslationVi": "Ông tin rằng có một số yếu tố, bao gồm cả thực tế là trong những xã hội phức tạp hơn, mọi người phải suy nghĩ kỹ hơn để tìm ra giải pháp cho những vấn đề họ gặp phải.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 3 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t1-p2-g2",
+          "questionRange": [
+            19,
+            22
+          ],
+          "type": "matching_info",
+          "instruction": "Reading Passage 2 has six paragraphs, A-F Which paragraph contains the following information? Choose the correct letter, A-F, in boxes 19-22.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "key": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "questions": [
+            {
+              "number": 19,
+              "prompt": "an account of a selection procedure involving a particular group of people",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 4",
+              "evidenceQuote": "The Danish military still summons virtually all young men before a draft board to identify who is suitable to do military service.",
+              "evidenceTranslationVi": "Quân đội Đan Mạch vẫn triệu tập hầu như tất cả nam thanh niên trước ban quân dịch để xác định xem ai phù hợp để thực hiện nghĩa vụ quân sự.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn E (Đoạn E, câu 4)."
+            },
+            {
+              "number": 20,
+              "prompt": "a description of one component of a visuo-spatial test",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 4",
+              "evidenceQuote": "To find out more, Flynn went on to look at scores for each type of reasoning that IQ tests set out to measure, such as verbal, numerical and visuo-10 tests set ou spatial.",
+              "evidenceTranslationVi": "Để tìm hiểu thêm, Flynn tiếp tục xem xét điểm số của từng loại lý luận mà các bài kiểm tra IQ đặt ra để đo lường, chẳng hạn như các bài kiểm tra bằng lời nói, số và thị giác-10 đặt ra trong không gian.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn B (Đoạn B, câu 4)."
+            },
+            {
+              "number": 21,
+              "prompt": "an overview of the different interpretations of IQ score trends",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 3",
+              "evidenceQuote": "Some researchers argue that people are not getting more intelligent overall, but just getting better at a particular sort of problem solving.",
+              "evidenceTranslationVi": "Một số nhà nghiên cứu cho rằng con người không trở nên thông minh hơn về tổng thể mà chỉ trở nên giỏi hơn trong một cách giải quyết vấn đề cụ thể.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn A (Đoạn 1, câu 3)."
+            },
+            {
+              "number": 22,
+              "prompt": "an example of the negative effect affluence may have on IQ trends",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 2",
+              "evidenceQuote": "However, he does wonder whether the conditions leading to dramatic Improvements in mental ability disappear as societies become more prosperous.",
+              "evidenceTranslationVi": "Tuy nhiên, ông tự hỏi liệu các điều kiện dẫn đến sự cải thiện đáng kể về khả năng trí tuệ có biến mất khi xã hội trở nên thịnh vượng hơn hay không.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn F (Đoạn F, câu 2)."
+            }
+          ]
+        },
+        {
+          "id": "v8-t1-p2-g3",
+          "questionRange": [
+            23,
+            26
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+          "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bodyText": "James Flynn\nDuring the {{blank:23}}, James Flynn conducted research showing\nthat IQ scores were increasing. Flynn then analysed specific kinds of reasoning ability\nseparately. He found that tests called {{blank:24}}, which\nmeasured visuo-spatial skills, accounted for the biggest score increases, whereas scores in\nnumerical and {{blank:25}} components rose less steeply. Results from\nresearch in other {{blank:26}}, which Flynn has examined more\nrecently, are consistent with his earlier findings.\nPractical Learning in the Classroom\nA teacher describes a case study involving middle school students and traditional earthen\narchitecture",
+          "questions": [
+            {
+              "number": 23,
+              "prompt": "James Flynn\nDuring the {{blank:23}}, James Flynn conducted research showing\nthat IQ scores were increasing.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "Mid-1980s"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 1",
+              "evidenceQuote": "James Flynn, a professor of political science, first showed that IQ scores were rising in the mid-1980s, and became famous after others dubbed the pattern he had observed the 'Flynn effect.",
+              "evidenceTranslationVi": "James Flynn, giáo sư khoa học chính trị, lần đầu tiên chỉ ra rằng điểm IQ tăng lên vào giữa những năm 1980 và trở nên nổi tiếng sau khi những người khác gọi mô hình mà ông quan sát được là “hiệu ứng Flynn”.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 1 để điền \"Mid-1980s\"."
+            },
+            {
+              "number": 24,
+              "prompt": "He found that tests called {{blank:24}}, which\nmeasured visuo-spatial skills, accounted for the biggest score increases, whereas scores in\nnumerical and {{blank:25}} components rose less steeply.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "Raven's matrices"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 5",
+              "evidenceQuote": "This last test category usually includes 'Raven's matrices' - sequential patterns with one piece missing.",
+              "evidenceTranslationVi": "Loại thử nghiệm cuối cùng này thường bao gồm 'Ma trận của Raven' - các mẫu tuần tự bị thiếu một mảnh.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 5 để điền \"Raven's matrices\"."
+            },
+            {
+              "number": 25,
+              "prompt": "He found that tests called {{blank:24}}, which\nmeasured visuo-spatial skills, accounted for the biggest score increases, whereas scores in\nnumerical and {{blank:25}} components rose less steeply.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "several"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 9",
+              "evidenceQuote": "The strongest gains in almost every case were on Raven's matrices and similar tests, while verbal and arithmetical scores showed more modest rises.",
+              "evidenceTranslationVi": "Mức tăng mạnh nhất trong hầu hết mọi trường hợp là ở ma trận Raven và các bài kiểm tra tương tự, trong khi điểm số bằng lời nói và số học cho thấy mức tăng khiêm tốn hơn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 9 để điền \"several\"."
+            },
+            {
+              "number": 26,
+              "prompt": "Results from\nresearch in other {{blank:26}}, which Flynn has examined more\nrecently, are consistent with his earlier findings.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "Countries"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 10",
+              "evidenceQuote": "Since presenting his original paper, Flynn has looked at data from further countries and found the same upward trend, with the same skills responsible for most of the increase.",
+              "evidenceTranslationVi": "Kể từ khi trình bày bài báo đầu tiên của mình, Flynn đã xem xét dữ liệu từ các quốc gia khác và nhận thấy xu hướng tăng tương tự, với những kỹ năng tương tự chịu trách nhiệm cho phần lớn sự gia tăng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 10 để điền \"Countries\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "A The way we think about architecture in schools has come along way. Once, studying",
+      "subtitle": "architecture in the art class meant learning to appreciate great buildings art-history style,",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "through slide presentations. In recent years, though, the American Institute of Architects has fostered the idea that the process of architectural design, not just the appreciation of architecture, is a beneficial aspect of the art curriculum (Sadler, 1989)."
+        },
+        {
+          "id": "B",
+          "text": "The value of architectural design is that it is the concrete training ground for a broadly applicable creative process. Architectural training can help people design structures to meet needs. It can help farmers design crop rotations to meet needs. Furthermore, it provides hands-on experiences that reinforce learning in various other subjects, from math to social studies.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "In the ongoing dialogue about architecture in the middle school art curriculum, many believe students should actually build the structures they design in their courses. Although the technology and expertise required of modern architecture can prohibit students from actually realizing their designs, traditional architectural materials and methods remain quite accessible to the art classroom. Traditional architectural materials, such as earth, clay and straw, are cheap, easy to work with and readily available. Further, when students participate in the construction or preservation of a traditional earthen structure in their local community, they engage in a form of experiential learning and they are motivated to invest in the project. This is evident in a case study of an adobe* conservation project with middle school students in the town of Zuni, New Mexico, in the Southwestern United States.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Traditional architecture reaches back to preindustrial America, when local resources and cultures produced structures in styles unique to each region. In New Mexico, examples of hand-built earthen structures still abound. The region has seen some decline in traditional architecture as industrialization has brought new building codes and materials; however, the traditional, non-industrial home, either preserved from earlier generations or newly built, remains in use. Traditional building materials and the land that supplies them are so accessible that handcrafting a house still remains feasible.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "Thus, with no technical expertise and little cost, middle school students can participate in the construction or preservation of a traditional earthen structure. During the project, a student will get to know the materials, understand the chemistry, solve problems, work with classmates, and exercise muscles. The student can apply knowledge of design principles and the creative process while participating in a cooperative effort. But most significantly, this type of project-based activity motivates students to invest intellectually and emotionally in the outcome.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "The town of Zuni, where I taught art, was surrounded by adobe construction, new and old. Behind our main high school building there was a one-room adobe structure which was once used for teaching. Now it served as a place where old furniture could be kept. I sent my class home with the oral history assignment to ask their family, friends and neighbors questions to find out about that building. From their research we compiled a sketchy history: it began as a kindergarten classroom; it later became an art classroom; now it was full of broken desks.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "The building's design kept it relatively warm in the winter, even without heating, due to its broad south face, and it stayed cool in the summer due to its spacious, ventilated attic and massive earthen walls. Because of this, my students agreed it was worth preserving and were enthusiastic about helping. Preservationist Shalie Gasper arrived in the fall to help with an assessment of the building's needs. She recommended replacing the stucco** that encased the original adobe walls with a traditional mud plaster. She showed us where to find local supplies of sand and clay soil for the plaster mix. We began work on the stucco removal in late fall. The next spring the students were ready to replaster. To teach the traditional skills, Gasper and other local specialists joined us. They gave my class three full mornings of intensive workshops on history and preservation as well as mud-plastering technique, and the building got a new coat of traditional mud plaster.",
+          "label": "G"
+        },
+        {
+          "id": "H",
+          "text": "Small design-and-build projects such as this can be seen through to the finish when working with earth in the art curriculum. A simple landscape feature such as a wall, entryway, or arch can draw students into important aspects of design that involve the structure's interaction with people, the surrounding landscape, and natural elements. The same project may provide an opportunity to focus on the chemistry of soil or the structural dynamics of construction. Design goals might guide students to involve traditional forms, consider formal aspects, or integrate math skills of measuring and estimating. I During our traditional architecture unit, the students realized that something old and almost forgotten is valuable and worth preserving. Many others in the community and around the country share this renewal of interest in traditional earthen technologies. It is the connection to a cultural heritage that interests some; the quality of living within massive, natural walls that attracts others; or for others, the sustainability of the process and the minimal energy spent in construction. The value of adobe in general is becoming more and more known, but little has been said about its value in the art curriculum until now. This experiment in adobe conservation with middle school students convinced me that traditional architecture deserves a place in the regular curriculum. ________________________",
+          "label": "H"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t1-p3-g1",
+          "questionRange": [
+            27,
+            31
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "What education initiative does the American Institute of Architects currently promote?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "multimedia presentation of information in classrooms"
+                },
+                {
+                  "key": "B",
+                  "text": "the study of monumental buildings throughout history"
+                },
+                {
+                  "key": "C",
+                  "text": "the practice of designing architectural structures"
+                },
+                {
+                  "key": "D",
+                  "text": "processes to add more art classes in schools"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 2",
+              "evidenceQuote": "In recent years, though, the American Institute of Architects has fostered the idea that the process of architectural design, not just the appreciation of architecture, is a beneficial aspect of the art curriculum (Sadler, 1989).",
+              "evidenceTranslationVi": "Tuy nhiên, trong những năm gần đây, Viện Kiến trúc Hoa Kỳ đã nuôi dưỡng ý tưởng rằng quá trình thiết kế kiến ​​trúc, không chỉ là sự đánh giá cao về kiến ​​trúc, là một khía cạnh có lợi của chương trình giảng dạy nghệ thuật (Sadler, 1989).",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 2 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 28,
+              "prompt": "In the third paragraph, what problem with teaching architecture on art courses does the writer note?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Technology-based courses are unavailable."
+                },
+                {
+                  "key": "B",
+                  "text": "Students cannot always construct their designs."
+                },
+                {
+                  "key": "C",
+                  "text": "The curriculum is too traditional."
+                },
+                {
+                  "key": "D",
+                  "text": "Students lack motivation."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 2",
+              "evidenceQuote": "Although the technology and expertise required of modern architecture can prohibit students from actually realizing their designs, traditional architectural materials and methods remain quite accessible to the art classroom.",
+              "evidenceTranslationVi": "Mặc dù công nghệ và chuyên môn cần thiết của kiến ​​trúc hiện đại có thể ngăn cản sinh viên thực hiện các thiết kế của mình, nhưng các vật liệu và phương pháp kiến ​​trúc truyền thống vẫn có thể tiếp cận được với lớp học nghệ thuật.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 2 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 29,
+              "prompt": "What is the greatest benefit for students that the writer sees in a traditional architecture project?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "personal connection to the end result"
+                },
+                {
+                  "key": "B",
+                  "text": "participation in a cooperative project"
+                },
+                {
+                  "key": "C",
+                  "text": "building of problem-solving skills"
+                },
+                {
+                  "key": "D",
+                  "text": "conservation of a traditional building"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 4",
+              "evidenceQuote": "But most significantly, this type of project-based activity motivates students to invest intellectually and emotionally in the outcome.",
+              "evidenceTranslationVi": "Nhưng điều quan trọng nhất là loại hoạt động dựa trên dự án này thúc đẩy học sinh đầu tư trí tuệ và cảm xúc vào kết quả đạt được.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 4 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 30,
+              "prompt": "What is the purpose of the eighth paragraph?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "to explain why it is important that projects be small"
+                },
+                {
+                  "key": "B",
+                  "text": "to outline the multiple skills involved in one project"
+                },
+                {
+                  "key": "C",
+                  "text": "to discuss strategies for connecting content areas"
+                },
+                {
+                  "key": "D",
+                  "text": "to propose suggestions for traditional earth projects"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 2",
+              "evidenceQuote": "A simple landscape feature such as a wall, entryway, or arch can draw students into important aspects of design that involve the structure's interaction with people, the surrounding landscape, and natural elements.",
+              "evidenceTranslationVi": "Một đặc điểm cảnh quan đơn giản như bức tường, lối vào hoặc mái vòm có thể thu hút học sinh vào các khía cạnh quan trọng của thiết kế liên quan đến sự tương tác của cấu trúc với con người, cảnh quan xung quanh và các yếu tố tự nhiên.",
+              "explanationVi": "Thông tin tại Đoạn H, câu 2 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 31,
+              "prompt": "What does the writer say about traditional building and the general population?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Earthen architecture is becoming a profitable business."
+                },
+                {
+                  "key": "B",
+                  "text": "Earthen architecture is less feasible in some areas of the country."
+                },
+                {
+                  "key": "C",
+                  "text": "Interest in earthen architecture varies from region to region."
+                },
+                {
+                  "key": "D",
+                  "text": "People are attracted to earthen architecture for different reasons."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 6",
+              "evidenceQuote": "Many others in the community and around the country share this renewal of interest in traditional earthen technologies.",
+              "evidenceTranslationVi": "Nhiều người khác trong cộng đồng và trên khắp đất nước chia sẻ mối quan tâm mới này đối với công nghệ đất truyền thống.",
+              "explanationVi": "Thông tin tại Đoạn H, câu 6 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t1-p3-g2",
+          "questionRange": [
+            32,
+            36
+          ],
+          "type": "summary_box",
+          "instruction": "Complete the summary using the list of words, A-H, below.",
+          "options": [
+            {
+              "key": "A",
+              "text": "experts"
+            },
+            {
+              "key": "G",
+              "text": "training"
+            },
+            {
+              "key": "B",
+              "text": "location"
+            },
+            {
+              "key": "C",
+              "text": "design"
+            },
+            {
+              "key": "H",
+              "text": "businesses"
+            },
+            {
+              "key": "D",
+              "text": "storage"
+            },
+            {
+              "key": "E",
+              "text": "students"
+            },
+            {
+              "key": "F",
+              "text": "resources The Zuni earthen architecture project The students in Zuni chose to renovate an old building which was being used for"
+            }
+          ],
+          "bodyText": "{{blank:32}} They came to an agreement that the building was worthy of rehabilitation based\non its functional {{blank:33}} At the beginning of the project, students were given the task\nto discover the history of the building through interviews with local residents. Through the\ncourse of the project, they learned where to locate {{blank:34}} for the project. They also\nworked closely with a number of {{blank:35}} on each step of the project. During the\nproject, students were also given {{blank:36}} to build useful skills.",
+          "questions": [
+            {
+              "number": 32,
+              "prompt": "{{blank:32}} They came to an agreement that the building was worthy of rehabilitation based\non its functional {{blank:33}} At the beginning of the project, students were given the task\nto discover the history of the building through interviews with local residents.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 2",
+              "evidenceQuote": "Behind our main high school building there was a one-room adobe structure which was once used for teaching.",
+              "evidenceTranslationVi": "Đằng sau tòa nhà trung học chính của chúng tôi có một căn nhà bằng gạch nung một phòng từng được sử dụng để giảng dạy.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 2 để điền \"D\"."
+            },
+            {
+              "number": 33,
+              "prompt": "{{blank:32}} They came to an agreement that the building was worthy of rehabilitation based\non its functional {{blank:33}} At the beginning of the project, students were given the task\nto discover the history of the building through interviews with local residents.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 1",
+              "evidenceQuote": "The building's design kept it relatively warm in the winter, even without heating, due to its broad south face, and it stayed cool in the summer due to its spacious, ventilated attic and massive earthen walls.",
+              "evidenceTranslationVi": "Thiết kế của tòa nhà giữ cho nó tương đối ấm áp vào mùa đông, ngay cả khi không có hệ thống sưởi, do mặt rộng về hướng Nam và mát mẻ vào mùa hè nhờ tầng áp mái rộng rãi, thông thoáng và những bức tường đất đồ sộ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 1 để điền \"C\"."
+            },
+            {
+              "number": 34,
+              "prompt": "Through the\ncourse of the project, they learned where to locate {{blank:34}} for the project.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 5",
+              "evidenceQuote": "She showed us where to find local supplies of sand and clay soil for the plaster mix.",
+              "evidenceTranslationVi": "Cô ấy chỉ cho chúng tôi nơi tìm nguồn cung cấp cát và đất sét tại địa phương cho hỗn hợp thạch cao.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 5 để điền \"F\"."
+            },
+            {
+              "number": 35,
+              "prompt": "They also\nworked closely with a number of {{blank:35}} on each step of the project.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 8",
+              "evidenceQuote": "To teach the traditional skills, Gasper and other local specialists joined us.",
+              "evidenceTranslationVi": "Để dạy các kỹ năng truyền thống, Gasper và các chuyên gia địa phương khác đã tham gia cùng chúng tôi.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 8 để điền \"A\"."
+            },
+            {
+              "number": 36,
+              "prompt": "During the\nproject, students were also given {{blank:36}} to build useful skills.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "G"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 9",
+              "evidenceQuote": "They gave my class three full mornings of intensive workshops on history and preservation as well as mud-plastering technique, and the building got a new coat of traditional mud plaster.",
+              "evidenceTranslationVi": "Họ dành cho lớp tôi ba buổi sáng với những buổi hội thảo chuyên sâu về lịch sử và bảo tồn cũng như kỹ thuật trát bằng bùn, và tòa nhà đã được khoác một lớp trát bùn truyền thống mới.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 9 để điền \"G\"."
+            }
+          ]
+        },
+        {
+          "id": "v8-t1-p3-g3",
+          "questionRange": [
+            37,
+            40
+          ],
+          "type": "ynng",
+          "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "number": 37,
+              "prompt": "The price of materials is one drawback to using traditional architecture.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "now"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 3",
+              "evidenceQuote": "Traditional architectural materials, such as earth, clay and straw, are cheap, easy to work with and readily available.",
+              "evidenceTranslationVi": "Các vật liệu kiến ​​trúc truyền thống như đất, đất sét và rơm rất rẻ, dễ gia công và sẵn có.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn C, câu 3 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 38,
+              "prompt": "Earthen structures can easily be built in all regions of the U.S.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 5",
+              "evidenceQuote": "This is evident in a case study of an adobe* conservation project with middle school students in the town of Zuni, New Mexico, in the Southwestern United States.",
+              "evidenceTranslationVi": "Điều này được thể hiện rõ trong một nghiên cứu điển hình về dự án bảo tồn adobe* với học sinh cấp hai ở thị trấn Zuni, New Mexico, ở Tây Nam Hoa Kỳ.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn C, câu 5 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 39,
+              "prompt": "Working with a traditional earthen structure can have physical benefits.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 2",
+              "evidenceQuote": "During the project, a student will get to know the materials, understand the chemistry, solve problems, work with classmates, and exercise muscles.",
+              "evidenceTranslationVi": "Trong quá trình thực hiện dự án, học sinh sẽ được làm quen với tài liệu, hiểu về hóa học, giải quyết vấn đề, làm việc với các bạn cùng lớp và rèn luyện cơ bắp.",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn E, câu 2 hoàn toàn trùng với nhận định trong câu hỏi."
+            },
+            {
+              "number": 40,
+              "prompt": "A traditional architecture curriculum is best suited to middle school level students.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 9",
+              "evidenceQuote": "This experiment in adobe conservation with middle school students convinced me that traditional architecture deserves a place in the regular curriculum. ________________________",
+              "evidenceTranslationVi": "Thí nghiệm về bảo tồn adobe với học sinh cấp hai đã thuyết phục tôi rằng kiến ​​trúc truyền thống xứng đáng có một vị trí trong chương trình giảng dạy thông thường. ________________________",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn H, câu 9 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

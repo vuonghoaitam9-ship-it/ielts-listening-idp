@@ -1,0 +1,1102 @@
+{
+  "vol": 9,
+  "test": 9,
+  "testId": "vol-9-test-9",
+  "title": "IELTS Reading Vol 9 - Test 9",
+  "sourceName": "VOL 9 - ORIGINAL EXAMS/READING/TEST 9-R.docx",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "VOL 9 TEST 9 Cranberry Fruit The story of a unique North American crop",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "Cranberries are among the few fruits native to North America that have been grown commercially for centuries. These small, crimson berries thrive only in very unique environmental conditions, particularly in soil that is both sandy and acidic. Such terrain lets water pass through easily while still retaining enough moisture for the plants’ shallow roots. Since ordinary farmland cannot provide this delicate balance, cranberries are generally cultivated in low-lying areas called bogs. These natural basins, bordered by gentle ridges, allow growers to regulate water levels accurately. This setup creates a growing environment quite different from that required by most other fruit crops. Many bogs now used for cranberry farming were formed thousands of years ago when retreating glaciers carved deep hollows known as kettle ponds. Over time, these basins became lined with layers of sand and clay, producing a natural filtration system that keeps many pollutants out of the water. The clay bottom acts as a protective barrier, preventing harmful substances from entering the pond and preserving the clean water essential for healthy vines. Such geological conditions, combined with deliberate human control of water, have made kettle-pond sites especially well suited to this crop. Long before the arrival of European settlers, the Wampanoag people made practical use of the berry in several ways. The fruit’s sharp taste lent itself to preservation techniques; communities developed methods of drying and combining cranberries with other foods to extend their usefulness during months when fresh plants were scarce. These practices resulted in compact foodstuffs intended for consumption in colder seasons. In addition to dietary uses, the Wampanoag also employed the berry in first-aid traditions: crushed fruit was applied to sores and minor wounds, reflecting a practical knowledge of its cleansing properties. When Europeans first arrived in the seventeenth century, they found cranberries in many coastal hollows and quickly took note of their usefulness. Rather than attempting to transplant European varieties, the newcomers adopted the native species already adapted to regional conditions. Colonists used the fruit in preserves and beverages and valued it for its nutritional contributions during winter voyages and inland shortages. Over time, cranberries were assimilated into colonial cookery and later became associated with holiday traditions in North America. In the early nineteenth century, the shift from gathering wild berries to planned cultivation accelerated thanks to local experimentation. One Massachusetts grower, Captain Henry Hall, observed that windblown sand reaching his beds improved fruit quality and yield. He began deliberately applying sand to his plots and found that the practice changed both soil texture and pest incidence for the better. Hall’s practice of controlling the land and surface materials was an important step toward systematic cranberry farming. Cranberry cultivation follows a seasonal routine that links each operation to weather patterns. In winter farmers often choose to flood the bogs, forming a protective layer that freezes and insulates the vines from extreme cold and drying winds. On the frozen surface, sand is sometimes scattered so that, when thawed, the particles work into the bed and improve overall drainage, encouraging fresh shoots to establish. To reduce disease risk and improve crop vigour, farmers also remove trees and scrub beside the bogs so that air can move through the site more freely and humidity is kept low. With the coming of spring, the frozen cover is managed and water levels are adjusted; controlled water applications may be used at vulnerable times to shield budding shoots from sudden frosts. During this phase growers perform routine maintenance on channels, pumps and irrigation lines and take steps to reduce pest pressure before the plants enter full growth. By early summer the vines are active and the focus shifts toward ensuring the fruit matures evenly. Farmers inspect beds for any sign of weed emergence that would compete with the crop for nutrients and light, removing intruders promptly to protect potential yields. As autumn nears, ripening fruit signals the approach of harvest. In many operations the bogs are flooded again so that the buoyant berries float and can be separated from the vines, easing collection. Although mechanical aids and modern equipment have changed some details of the work, the overall system continues to depend on balancing soil, water and human management. From the Wampanoag’s early practical uses to the innovations of later growers, cranberry culture remains rooted in seasonal attention and careful control of a unique landscape."
+        }
+      ],
+      "groups": [
+        {
+          "id": "v9-t9-p1-g1",
+          "questionRange": [
+            1,
+            7
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "The cranberry requires a specific soil type to enable it to grow successfully.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 2",
+              "evidenceQuote": "These small, crimson berries thrive only in very unique environmental conditions, particularly in soil that is both sandy and acidic.",
+              "evidenceTranslationVi": "Những quả mọng nhỏ màu đỏ thẫm này chỉ phát triển mạnh trong điều kiện môi trường rất độc đáo, đặc biệt là ở đất vừa có cát vừa có tính axit.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 1, câu 2 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 2,
+              "prompt": "A layer of clay protects kettle ponds from harmful substances which could affect the water quality.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 9",
+              "evidenceQuote": "The clay bottom acts as a protective barrier, preventing harmful substances from entering the pond and preserving the clean water essential for healthy vines.",
+              "evidenceTranslationVi": "Đáy đất sét có tác dụng như một hàng rào bảo vệ, ngăn chặn các chất có hại xâm nhập vào ao nuôi và giữ lại nguồn nước sạch cần thiết cho cây nho khỏe mạnh.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 1, câu 9 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 3,
+              "prompt": "In the past, the Wampanoag people had to consume most cranberries shortly after picking them.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 11",
+              "evidenceQuote": "Long before the arrival of European settlers, the Wampanoag people made practical use of the berry in several ways.",
+              "evidenceTranslationVi": "Rất lâu trước khi những người định cư châu Âu đến, người Wampanoag đã sử dụng quả mọng này theo nhiều cách.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn 1, câu 11 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 4,
+              "prompt": "The Wampanoag people took advantage of the medicinal properties of cranberries.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 11",
+              "evidenceQuote": "Long before the arrival of European settlers, the Wampanoag people made practical use of the berry in several ways.",
+              "evidenceTranslationVi": "Rất lâu trước khi những người định cư châu Âu đến, người Wampanoag đã sử dụng quả mọng này theo nhiều cách.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 1, câu 11 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 5,
+              "prompt": "The first settlers in North America brought European varieties of cranberry with them when they arrived.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "Cranberries are among the few fruits native to North America that have been grown commercially for centuries.",
+              "evidenceTranslationVi": "Quả nam việt quất là một trong số ít loại trái cây có nguồn gốc từ Bắc Mỹ được trồng thương mại trong nhiều thế kỷ.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn 1, câu 1 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 6,
+              "prompt": "Captain Hall tried growing other fruit crops before cultivating cranberries.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 6",
+              "evidenceQuote": "This setup creates a growing environment quite different from that required by most other fruit crops.",
+              "evidenceTranslationVi": "Cách bố trí này tạo ra một môi trường phát triển hoàn toàn khác so với yêu cầu của hầu hết các loại cây ăn quả khác.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn 1, câu 6 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 7,
+              "prompt": "It took a long time for Captain Hall’s methods of cultivation to become popular among other cranberry producers.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 20",
+              "evidenceQuote": "One Massachusetts grower, Captain Henry Hall, observed that windblown sand reaching his beds improved fruit quality and yield.",
+              "evidenceTranslationVi": "Một người trồng trọt ở Massachusetts, Đại úy Henry Hall, đã quan sát thấy rằng cát được gió thổi tới luống của anh ấy đã cải thiện chất lượng và năng suất trái cây.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn 1, câu 20 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            }
+          ]
+        },
+        {
+          "id": "v9-t9-p1-g2",
+          "questionRange": [
+            8,
+            13
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "The Cycle of Cranberry Production\nWinter\nGrowers {{blank:8}} the bogs to protect vines.\nSand is put on bogs to increase {{blank:9}} and encourage growth.\nTrees are removed to promote the movement of {{blank:10}}\nSpring\n{{blank:11}} is supplied to protect against frost.\n{{blank:12}} is done to control pests.\nSummer\nGrowers check for {{blank:13}} growth.",
+          "questions": [
+            {
+              "number": 8,
+              "prompt": "The Cycle of Cranberry Production\nWinter\nGrowers {{blank:8}} the bogs to protect vines.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "flood"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 24",
+              "evidenceQuote": "In winter farmers often choose to flood the bogs, forming a protective layer that freezes and insulates the vines from extreme cold and drying winds.",
+              "evidenceTranslationVi": "Vào mùa đông, nông dân thường chọn cách ngập các đầm lầy, tạo thành một lớp bảo vệ có tác dụng đóng băng và cách nhiệt cho cây nho khỏi những cơn gió cực lạnh và khô.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 24 để điền \"flood\"."
+            },
+            {
+              "number": 9,
+              "prompt": "Sand is put on bogs to increase {{blank:9}} and encourage growth.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "drainage"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 25",
+              "evidenceQuote": "On the frozen surface, sand is sometimes scattered so that, when thawed, the particles work into the bed and improve overall drainage, encouraging fresh shoots to establish.",
+              "evidenceTranslationVi": "Trên bề mặt đóng băng, cát đôi khi được rải rác để khi tan băng, các hạt sẽ hoạt động trên lớp và cải thiện khả năng thoát nước tổng thể, khuyến khích các chồi mới hình thành.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 25 để điền \"drainage\"."
+            },
+            {
+              "number": 10,
+              "prompt": "Trees are removed to promote the movement of {{blank:10}}\nSpring\n{{blank:11}} is supplied to protect against frost.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "air"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 26",
+              "evidenceQuote": "To reduce disease risk and improve crop vigour, farmers also remove trees and scrub beside the bogs so that air can move through the site more freely and humidity is kept low.",
+              "evidenceTranslationVi": "Để giảm nguy cơ dịch bệnh và cải thiện sức sống của cây trồng, nông dân cũng loại bỏ cây cối và bụi rậm bên cạnh các đầm lầy để không khí có thể di chuyển qua khu vực này dễ dàng hơn và độ ẩm được giữ ở mức thấp.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 26 để điền \"air\"."
+            },
+            {
+              "number": 11,
+              "prompt": "Trees are removed to promote the movement of {{blank:10}}\nSpring\n{{blank:11}} is supplied to protect against frost.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "water"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 27",
+              "evidenceQuote": "With the coming of spring, the frozen cover is managed and water levels are adjusted; controlled water applications may be used at vulnerable times to shield budding shoots from sudden frosts.",
+              "evidenceTranslationVi": "Khi mùa xuân đến, lớp phủ đóng băng được quản lý và mực nước được điều chỉnh; việc sử dụng nước có kiểm soát có thể được sử dụng vào những thời điểm dễ bị tổn thương để bảo vệ các chồi non khỏi sương giá đột ngột.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 27 để điền \"water\"."
+            },
+            {
+              "number": 12,
+              "prompt": "{{blank:12}} is done to control pests.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "maintenance"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 28",
+              "evidenceQuote": "During this phase growers perform routine maintenance on channels, pumps and irrigation lines and take steps to reduce pest pressure before the plants enter full growth.",
+              "evidenceTranslationVi": "Trong giai đoạn này, người trồng thực hiện bảo trì định kỳ các kênh, máy bơm và đường tưới và thực hiện các bước để giảm áp lực sâu bệnh trước khi cây bước vào giai đoạn phát triển đầy đủ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 28 để điền \"maintenance\"."
+            },
+            {
+              "number": 13,
+              "prompt": "Summer\nGrowers check for {{blank:13}} growth.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "weed"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 30",
+              "evidenceQuote": "Farmers inspect beds for any sign of weed emergence that would compete with the crop for nutrients and light, removing intruders promptly to protect potential yields.",
+              "evidenceTranslationVi": "Nông dân kiểm tra các luống xem có bất kỳ dấu hiệu nào về sự xuất hiện của cỏ dại có thể cạnh tranh chất dinh dưỡng và ánh sáng với cây trồng hay không, loại bỏ những kẻ xâm nhập kịp thời để bảo vệ năng suất tiềm năng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 30 để điền \"weed\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "Dark Chocolate’s Health-giving Benefits Researchers are investigating whether taking dark chocolate daily can reduce the risk of heart disease and stroke",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "Dark chocolate is gaining a reputation as a heart-healthy food, and research suggests that there might be some substance behind those claims. Ginger Hultin, owner of Champagne Nutrition in Seattle and a spokesperson for the Academy of Nutrition and Dietetics says ‘Cocoa contains antioxidants in addition to magnesium, potassium, zinc, and iron. Plus, studies have shown that there could be some benefit to consuming chocolate or cocoa for the cardiovascular system, including potentially lowering blood pressure.’",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "Dark chocolate’s health benefits come from its cocoa – specifically its cocoa flavanols. Flavanols are a type of polyphenol, and polyphenols are one group of phytochemicals. Many fruits and vegetables contain flavanols, but they are especially rich in tea, wine, and cocoa. During digestion, cocoa is broken down into smaller chemical compounds. Some research suggests that these compounds have anti-inflammatory and antioxidant properties and may help protect against cardiovascular disease, which affects both the heart and brain. For example, research has found that even two weeks of eating dark chocolate or other flavanol-rich cocoa products is better than a placebo for lowering blood pressure in people who already have high blood pressure, although not to normal levels. In 2013, the European Food Safety Authority approved the claim that cocoa flavanols help maintain normal blood pressure, which means that the cost involved in future medical treatment may be less than scientists previously predicted.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "Researchers have also pointed out that people may digest cocoa differently. Variations in gut bacteria can influence how flavanols are processed and absorbed in the body. As a result, the health effects of cocoa may differ from person to person, depending on individual digestive systems and dietary habits.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Data from the long-running Physicians’ Health Study suggests that chocolate intake is associated with a reduced risk of developing Type 2 diabetes in younger and normal-weight men. However, take those findings with a grain of salt, because they were based on a single question about average yearly intake of chocolate that didn’t ask what type of chocolate- white, milk, or dark-says Howard Sesso, an associate professor of preventive medicine at Brigham and Woman’s Hospital in Boston. ‘If we assume that any benefits from cocoa are attributable to its flavanol content, then dark chocolate should in theory confer greater benefits than milk chocolate.’ Sesso and other researchers are investigating whether taking daily supplements of 600 mg of cocoa flavanols-not chocolate itself-reduces the risk for developing heart disease and stroke, as well as cancer. However, they have yet to determine how much people need to consume to reap benefits E What does that mean for the average person who enjoys chocolate and hopes they’re getting some health benefit from it? Sadly, results from the large European Prospective Investigation of Cancer, EPIC-Norfolk study suggest that the amount of flavanols that the average person in Europe or the United States consumes is unlikely to do much to reduce risk of cardiovascular disease compared with taking medicine. The research also suggested that certain groups, particularly overweight individuals, may not receive the same protective effects from chocolate consumption as younger and normal-weight men.",
+          "label": "D"
+        },
+        {
+          "id": "F",
+          "text": "Even though cocoa is a key ingredient in milk and dark chocolate, you can’t really be sure how many flavanols you’re getting. ‘Product packaging does not specify amounts of cocoa flavanols, only percent cacao,’ Sesso says. ‘Variable processing of the cocoa bean makes it difficult to equate percent cacao with cocoa flavanol content.’ White chocolate contains no cocoa solids, milk chocolate contains relatively small amounts of cocoa, while dark chocolate contains a much higher percentage of cocoa. Cocoa may also appear in the form of cocoa powder, cocoa butter, or concentrated cocoa extracts.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "In the meantime, remember that chocolate products are typically high in calories and fats; therefore, Sesso says it’s best not to think of dark chocolate as a health food. ‘Moderation is key; if someone enjoys eating chocolate, it should be done in moderation along with other foods.’ So for now, it’s best not to put all your flavanol eggs in a dark chocolate basket. ‘We get different phytochemicals and antioxidants from a wide variety of foods,’ Hultin says. ‘Including different colors of fruits, vegetables, whole grains and beans is the best way to gain access to fiber that could support health.’ That said, she does recommend enjoying a bit of chocolate or cocoa. ‘I put cocoa powder in my smoothies for an added boost of flavor, nutrients and antioxidants.’",
+          "label": "G"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v9-t9-p2-g1",
+          "questionRange": [
+            14,
+            18
+          ],
+          "type": "matching_info",
+          "instruction": "Reading Passage 2 has seven paragraphs, A–G. Which paragraph contains the following information? Choose the correct letter, A–G.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "key": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "key": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "a description of different kinds of cocoa used in chocolate production",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 1",
+              "evidenceQuote": "Even though cocoa is a key ingredient in milk and dark chocolate, you can’t really be sure how many flavanols you’re getting.",
+              "evidenceTranslationVi": "Mặc dù ca cao là thành phần chính trong sữa và sô cô la đen, nhưng bạn thực sự không thể chắc chắn mình đang nhận được bao nhiêu flavanol.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn F (Đoạn F, câu 1)."
+            },
+            {
+              "number": 15,
+              "prompt": "an explanation that chemicals produced during cocoa digestion may reduce the risks of diseases",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 4",
+              "evidenceQuote": "During digestion, cocoa is broken down into smaller chemical compounds.",
+              "evidenceTranslationVi": "Trong quá trình tiêu hóa, ca cao bị phân hủy thành các hợp chất hóa học nhỏ hơn.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn B (Đoạn B, câu 4)."
+            },
+            {
+              "number": 16,
+              "prompt": "a reference to a group of people who may not benefit from eating chocolate",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 6",
+              "evidenceQuote": "For example, research has found that even two weeks of eating dark chocolate or other flavanol-rich cocoa products is better than a placebo for lowering blood pressure in people who already have high blood pressure, although not to normal levels.",
+              "evidenceTranslationVi": "Ví dụ, nghiên cứu đã phát hiện ra rằng thậm chí hai tuần ăn sô cô la đen hoặc các sản phẩm ca cao giàu flavanol khác vẫn tốt hơn giả dược trong việc hạ huyết áp ở những người đã bị huyết áp cao, mặc dù chưa về mức bình thường.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn E (Đoạn B, câu 6)."
+            },
+            {
+              "number": 17,
+              "prompt": "an example of a specific way cocoa can be added into beverage",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "G"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 4",
+              "evidenceQuote": "‘Including different colors of fruits, vegetables, whole grains and beans is the best way to gain access to fiber that could support health.’ That said, she does recommend enjoying a bit of chocolate or cocoa.",
+              "evidenceTranslationVi": "'Thêm các màu sắc khác nhau của trái cây, rau, ngũ cốc nguyên hạt và đậu là cách tốt nhất để tiếp cận với chất xơ có thể hỗ trợ sức khỏe.' Tuy nhiên, cô ấy khuyên bạn nên thưởng thức một chút sô cô la hoặc ca cao.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn G (Đoạn G, câu 4)."
+            },
+            {
+              "number": 18,
+              "prompt": "information about differences in the way people digest cocoa",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "Researchers have also pointed out that people may digest cocoa differently.",
+              "evidenceTranslationVi": "Các nhà nghiên cứu cũng chỉ ra rằng mọi người có thể tiêu hóa ca cao một cách khác nhau.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn C (Đoạn C, câu 1)."
+            }
+          ]
+        },
+        {
+          "id": "v9-t9-p2-g2",
+          "questionRange": [
+            19,
+            22
+          ],
+          "type": "matching_features",
+          "instruction": "Look at the following statements and the list of people or organizations below. Match each statement with the correct person or organization, A–D.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ginger Hultin"
+            },
+            {
+              "key": "B",
+              "text": "European Food Safety Authority"
+            },
+            {
+              "key": "C",
+              "text": "Howard Sesso"
+            },
+            {
+              "key": "D",
+              "text": "EPIC-Norfolk"
+            }
+          ],
+          "questions": [
+            {
+              "number": 19,
+              "prompt": "Eating cocoa together with dietary fiber may improve health.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ginger Hultin"
+                },
+                {
+                  "key": "B",
+                  "text": "European Food Safety Authority"
+                },
+                {
+                  "key": "C",
+                  "text": "Howard Sesso"
+                },
+                {
+                  "key": "D",
+                  "text": "EPIC-Norfolk"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 2",
+              "evidenceQuote": "Ginger Hultin, owner of Champagne Nutrition in Seattle and a spokesperson for the Academy of Nutrition and Dietetics says ‘Cocoa contains antioxidants in addition to magnesium, potassium, zinc, and iron.",
+              "evidenceTranslationVi": "Ginger Hultin, chủ sở hữu của Champagne Nutrition ở Seattle và là người phát ngôn của Học viện Dinh dưỡng và Ăn kiêng cho biết 'Ca cao chứa chất chống oxy hóa cùng với magie, kali, kẽm và sắt.",
+              "explanationVi": "Thông tin tại Đoạn A, câu 2 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 20,
+              "prompt": "Dark chocolate consumption could reduce medical spending in the future.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ginger Hultin"
+                },
+                {
+                  "key": "B",
+                  "text": "European Food Safety Authority"
+                },
+                {
+                  "key": "C",
+                  "text": "Howard Sesso"
+                },
+                {
+                  "key": "D",
+                  "text": "EPIC-Norfolk"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 7",
+              "evidenceQuote": "In 2013, the European Food Safety Authority approved the claim that cocoa flavanols help maintain normal blood pressure, which means that the cost involved in future medical treatment may be less than scientists previously predicted.",
+              "evidenceTranslationVi": "Năm 2013, Cơ quan An toàn Thực phẩm Châu Âu đã phê duyệt tuyên bố rằng flavanol ca cao giúp duy trì huyết áp bình thường, điều đó có nghĩa là chi phí liên quan đến điều trị y tế trong tương lai có thể thấp hơn dự đoán trước đây của các nhà khoa học.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 7 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 21,
+              "prompt": "Dark chocolate should not be considered a replacement for medicine.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ginger Hultin"
+                },
+                {
+                  "key": "B",
+                  "text": "European Food Safety Authority"
+                },
+                {
+                  "key": "C",
+                  "text": "Howard Sesso"
+                },
+                {
+                  "key": "D",
+                  "text": "EPIC-Norfolk"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 3",
+              "evidenceQuote": "‘If we assume that any benefits from cocoa are attributable to its flavanol content, then dark chocolate should in theory confer greater benefits than milk chocolate.’ Sesso and other researchers are investigating whether taking daily supplements of 600 mg of cocoa flavanols-not chocolate itself-reduces the risk for developing heart disease and stroke, as well as cancer.",
+              "evidenceTranslationVi": "Sesso và các nhà nghiên cứu khác đang điều tra xem liệu việc bổ sung 600 mg flavanol ca cao hàng ngày - chứ không phải sô cô la - có làm giảm nguy cơ phát triển bệnh tim và đột quỵ cũng như ung thư hay không.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 3 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 22,
+              "prompt": "The amount of cocoa required for health benefits remains uncertain.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ginger Hultin"
+                },
+                {
+                  "key": "B",
+                  "text": "European Food Safety Authority"
+                },
+                {
+                  "key": "C",
+                  "text": "Howard Sesso"
+                },
+                {
+                  "key": "D",
+                  "text": "EPIC-Norfolk"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 1",
+              "evidenceQuote": "Dark chocolate’s health benefits come from its cocoa – specifically its cocoa flavanols.",
+              "evidenceTranslationVi": "Lợi ích sức khỏe của sô cô la đen đến từ ca cao - đặc biệt là flavanol ca cao.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 1 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v9-t9-p2-g3",
+          "questionRange": [
+            23,
+            26
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the sentences below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "The digestive process turns cocoa into less complex chemical {{blank:23}}\nThe {{blank:24}} would vary according to chocolate type with dark chocolate outperforming milk chocolate.\nDark chocolate should not be regarded as healthy due to its richness of calories and {{blank:25}}\nIn Hultin’s view, dietary diversity is the best strategy for acquiring {{blank:26}}",
+          "questions": [
+            {
+              "number": 23,
+              "prompt": "The digestive process turns cocoa into less complex chemical {{blank:23}}\nThe {{blank:24}} would vary according to chocolate type with dark chocolate outperforming milk chocolate.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "compounds"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 4",
+              "evidenceQuote": "During digestion, cocoa is broken down into smaller chemical compounds.",
+              "evidenceTranslationVi": "Trong quá trình tiêu hóa, ca cao bị phân hủy thành các hợp chất hóa học nhỏ hơn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 4 để điền \"compounds\"."
+            },
+            {
+              "number": 24,
+              "prompt": "The digestive process turns cocoa into less complex chemical {{blank:23}}\nThe {{blank:24}} would vary according to chocolate type with dark chocolate outperforming milk chocolate.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "benefits"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 3",
+              "evidenceQuote": "‘If we assume that any benefits from cocoa are attributable to its flavanol content, then dark chocolate should in theory confer greater benefits than milk chocolate.’ Sesso and other researchers are investigating whether taking daily supplements of 600 mg of cocoa flavanols-not chocolate itself-reduces the risk for developing heart disease and stroke, as well as cancer.",
+              "evidenceTranslationVi": "Sesso và các nhà nghiên cứu khác đang điều tra xem liệu việc bổ sung 600 mg flavanol ca cao hàng ngày - chứ không phải sô cô la - có làm giảm nguy cơ phát triển bệnh tim và đột quỵ cũng như ung thư hay không.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 3 để điền \"benefits\"."
+            },
+            {
+              "number": 25,
+              "prompt": "Dark chocolate should not be regarded as healthy due to its richness of calories and {{blank:25}}\nIn Hultin’s view, dietary diversity is the best strategy for acquiring {{blank:26}}",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "fats"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 1",
+              "evidenceQuote": "In the meantime, remember that chocolate products are typically high in calories and fats; therefore, Sesso says it’s best not to think of dark chocolate as a health food.",
+              "evidenceTranslationVi": "Đồng thời, hãy nhớ rằng các sản phẩm sô cô la thường chứa nhiều calo và chất béo; do đó, Sesso nói rằng tốt nhất bạn không nên nghĩ sô cô la đen là thực phẩm tốt cho sức khỏe.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 1 để điền \"fats\"."
+            },
+            {
+              "number": 26,
+              "prompt": "Dark chocolate should not be regarded as healthy due to its richness of calories and {{blank:25}}\nIn Hultin’s view, dietary diversity is the best strategy for acquiring {{blank:26}}",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "fiber"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 4",
+              "evidenceQuote": "‘Including different colors of fruits, vegetables, whole grains and beans is the best way to gain access to fiber that could support health.’ That said, she does recommend enjoying a bit of chocolate or cocoa.",
+              "evidenceTranslationVi": "'Thêm các màu sắc khác nhau của trái cây, rau, ngũ cốc nguyên hạt và đậu là cách tốt nhất để tiếp cận với chất xơ có thể hỗ trợ sức khỏe.' Tuy nhiên, cô ấy khuyên bạn nên thưởng thức một chút sô cô la hoặc ca cao.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 4 để điền \"fiber\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "All in the family",
+      "subtitle": "A person's brothers and sisters can have a powerful effect on their adult behaviour",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "We can choose our friends, the saying goes, but we cannot choose our family of origin. Our parents provide the genetic material and make powerful early role models, but even more influential in determining what kind of adult we will become are our brothers and sisters - our siblings. They occupy a position of unique intimacy in our lives and cast a longer shadow than many recognize or are prepared to acknowledge. By turns enraging and lovable, familiar and mysterious, our brothers and sisters are the human beings who people our first social relationships. And a sibling relationship is the most enduring relationship many of us will ever have, less emotionally intense than the bonds we form with our spouses and our own children if only because they started when we were so young. Surprising new research by Dr Gene Brody found that having older children who do well in school and are well liked by other children leads to parental 'basking' - increasing mothers' self-esteem. It is clear that in turn this is associated with more positive parenting of younger children, who display fewer behavioural problems as a result. Conversely, parents who get a difficult first child may in turn experience a negative spiral of household tension. International sports star Piri Weepu is a rugby hard man, but at least some of his tough temperament was forged long ago in the family home. His older brother Billy started rugby-tackling little Piri when he was just four - to 'harden him up'. It seemed to work: Piri followed his brother in playing for the under-sevens league before he even started school. There are as many such stories as there are families: in the formative hothouse of the family, siblings interact in complex ways with the powerful force fields of parents, genetics and personality already at work. It starts with birth order, which determines play roles: the firstborn leader, the middle-child mediator and the rebellious youngest. These are roles than can stick for life. Clinical psychologist Claire Cartwright says she has clients who believe, and it might not have been true, that they were treated differently from their siblings, that one child in the family was preferred over others. They are quite convinced that the parental judgments on them all those years ago were harsher, and that they were the ones who always got into trouble. Later, in the workplace, such a person might be particularly defensive, and so behave in a way more prone to attracting harsh judgements. However, the research shows that being Mummy or Daddy's favourite has its own traps. If you were the easy-going, co-operative child at home, you probably excelled at pleasing parents and, later, bosses. But you might, as an adult, find it hard to be assertive with authority figures and lack direction. On the other hand, the sibling who is disruptive and annoying as a child may be able to reinterpret that role later, turning those attention-seeking characteristics into strengths like determination and leadership. How is it that full siblings, despite sharing DNA, can turn out so differently? One answer is that, in fact, each sibling grows up in a different family, a unique micro-culture. For example, the firstborn is, for a while, an only child, and therefore has a completely different experience of the parents than those born later. The parents themselves are growing up too, weathering hardship or good fortune, so one sibling might experience stability and closeness while another might be raised in the midst of crisis. Of course, there are many positive aspects of sibling relationships. Annette Henderson, a lecturer in psychology, says firstborn children learn vocabulary more quickly than their siblings because they are not competing to spend one-on-one time with parents. But younger children in turn benefit from unintentional instruction from their bigger brothers and sisters, acquiring entire phrases and an understanding of social concepts such as politeness. Similarly, a Cambridge University study of 140 children found that even when there is a great deal of conflict, siblings will still create a rich world of play and make-believe that extends them developmentally. Love-hate relationships were common among the children, but even those who fought the most had as many positive interactions as the other sibling pairs. It is also true that children compete for parental attention by making themselves different from their brothers and sisters, particularly if they are close in age. A 2003 research paper studied adolescents from 185 families over two years, finding that those who changed, to differentiate themselves from their siblings, increased the amount of warmth they gained from parents, and also developed stronger personalities and a better sense of their own identity. Another consideration is that many families today are smaller and more intimate than their historical counterparts. This may be advantageous because siblings tend to know each other better and remain lifelong friends compared to children from bigger or more widely spaced families, who perhaps lose touch with one another after leaving home. Then there was a 2010 American study which found that having a sister, whether younger or older, meant that 10-to 14-year-olds were less likely to feel lonely, unloved, self-conscious or fearful. The same study found that having a loving sibling of either gender promoted good deeds, such as helping a neighbor around the house or helping other children at school."
+        }
+      ],
+      "groups": [
+        {
+          "id": "v9-t9-p3-g1",
+          "questionRange": [
+            27,
+            30
+          ],
+          "type": "ynng",
+          "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "Parents and siblings play equal roles in shaping people's adult personalities.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 2",
+              "evidenceQuote": "Our parents provide the genetic material and make powerful early role models, but even more influential in determining what kind of adult we will become are our brothers and sisters - our siblings.",
+              "evidenceTranslationVi": "Cha mẹ chúng ta cung cấp vật liệu di truyền và tạo ra những hình mẫu ban đầu mạnh mẽ, nhưng thậm chí còn có ảnh hưởng lớn hơn trong việc xác định chúng ta sẽ trở thành loại người trưởng thành như thế nào là anh chị em - anh chị em của chúng ta.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn 1, câu 2 lập luận ngược lại với nhận định của câu hỏi."
+            },
+            {
+              "number": 28,
+              "prompt": "People's first social relationships tend to be with siblings of their own gender.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 4",
+              "evidenceQuote": "By turns enraging and lovable, familiar and mysterious, our brothers and sisters are the human beings who people our first social relationships.",
+              "evidenceTranslationVi": "Lần lượt giận dữ và đáng yêu, quen thuộc và bí ẩn, anh chị em của chúng ta là những con người tạo nên những mối quan hệ xã hội đầu tiên của chúng ta.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn 1, câu 4 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 29,
+              "prompt": "People's relationships with their siblings tend to receive less attention when they marry.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 34",
+              "evidenceQuote": "This may be advantageous because siblings tend to know each other better and remain lifelong friends compared to children from bigger or more widely spaced families, who perhaps lose touch with one another after leaving home.",
+              "evidenceTranslationVi": "Điều này có thể thuận lợi vì anh chị em có xu hướng hiểu nhau hơn và vẫn là bạn bè suốt đời so với những đứa trẻ đến từ những gia đình lớn hơn hoặc xa nhau hơn, những đứa trẻ có thể mất liên lạc với nhau sau khi rời nhà.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn 1, câu 34 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 30,
+              "prompt": "Parental 'basking' is advantageous for later siblings.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 6",
+              "evidenceQuote": "Surprising new research by Dr Gene Brody found that having older children who do well in school and are well liked by other children leads to parental 'basking' - increasing mothers' self-esteem.",
+              "evidenceTranslationVi": "Nghiên cứu mới đáng ngạc nhiên của Tiến sĩ Gene Brody phát hiện ra rằng việc có những đứa con lớn hơn học giỏi ở trường và được những đứa trẻ khác yêu mến sẽ khiến cha mẹ 'nịnh nọt' - làm tăng lòng tự trọng của các bà mẹ.",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn 1, câu 6 hoàn toàn trùng với nhận định trong câu hỏi."
+            }
+          ]
+        },
+        {
+          "id": "v9-t9-p3-g2",
+          "questionRange": [
+            31,
+            34
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 31,
+              "prompt": "What point does the writer make about birth order in the third paragraph?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Its role is underestimated by parents."
+                },
+                {
+                  "key": "B",
+                  "text": "It may shape the characteristics of adults."
+                },
+                {
+                  "key": "C",
+                  "text": "Its importance decreases as children grow up."
+                },
+                {
+                  "key": "D",
+                  "text": "It has more influence on personality than genetics."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 2",
+              "evidenceQuote": "Our parents provide the genetic material and make powerful early role models, but even more influential in determining what kind of adult we will become are our brothers and sisters - our siblings.",
+              "evidenceTranslationVi": "Cha mẹ chúng ta cung cấp vật liệu di truyền và tạo ra những hình mẫu ban đầu mạnh mẽ, nhưng thậm chí còn có ảnh hưởng lớn hơn trong việc xác định chúng ta sẽ trở thành loại người trưởng thành như thế nào là anh chị em - anh chị em của chúng ta.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 2 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 32,
+              "prompt": "What are we told about some of Claire Cartwright's clients?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Their parents treated them fairly."
+                },
+                {
+                  "key": "B",
+                  "text": "They were treated harshly by their siblings."
+                },
+                {
+                  "key": "C",
+                  "text": "Their perceptions of childhood may be inaccurate."
+                },
+                {
+                  "key": "D",
+                  "text": "They have closer relations with their siblings as adults."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 15",
+              "evidenceQuote": "Clinical psychologist Claire Cartwright says she has clients who believe, and it might not have been true, that they were treated differently from their siblings, that one child in the family was preferred over others.",
+              "evidenceTranslationVi": "Nhà tâm lý học lâm sàng Claire Cartwright cho biết cô có những khách hàng tin rằng, và điều đó có thể không đúng, rằng họ được đối xử khác với anh chị em của mình, rằng một đứa trẻ trong gia đình được ưu ái hơn những đứa khác.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 15 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 33,
+              "prompt": "What is the writer's main point about siblings in the fifth paragraph?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Parents tend to repeat their own parents' mistakes."
+                },
+                {
+                  "key": "B",
+                  "text": "Favored children are likely to make good leaders as adults."
+                },
+                {
+                  "key": "C",
+                  "text": "Negative characteristics in children can become positive in adults."
+                },
+                {
+                  "key": "D",
+                  "text": "Attention-seeking children are unlikely to please bosses in later life."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 2",
+              "evidenceQuote": "Our parents provide the genetic material and make powerful early role models, but even more influential in determining what kind of adult we will become are our brothers and sisters - our siblings.",
+              "evidenceTranslationVi": "Cha mẹ chúng ta cung cấp vật liệu di truyền và tạo ra những hình mẫu ban đầu mạnh mẽ, nhưng thậm chí còn có ảnh hưởng lớn hơn trong việc xác định chúng ta sẽ trở thành loại người trưởng thành như thế nào là anh chị em - anh chị em của chúng ta.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 2 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 34,
+              "prompt": "Which of the following best summarises the writer's argument in the sixth paragraph?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Many children have a favourite parent."
+                },
+                {
+                  "key": "B",
+                  "text": "Parenting skills improve with later children."
+                },
+                {
+                  "key": "C",
+                  "text": "Siblings are born with different personalities."
+                },
+                {
+                  "key": "D",
+                  "text": "The family environment may change over time."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 15",
+              "evidenceQuote": "Clinical psychologist Claire Cartwright says she has clients who believe, and it might not have been true, that they were treated differently from their siblings, that one child in the family was preferred over others.",
+              "evidenceTranslationVi": "Nhà tâm lý học lâm sàng Claire Cartwright cho biết cô có những khách hàng tin rằng, và điều đó có thể không đúng, rằng họ được đối xử khác với anh chị em của mình, rằng một đứa trẻ trong gia đình được ưu ái hơn những đứa khác.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 15 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v9-t9-p3-g3",
+          "questionRange": [
+            35,
+            40
+          ],
+          "type": "summary_box",
+          "instruction": "Complete the summary using the list of words, A-K, below. Choose the correct letter, A-K, in boxes 35-40.",
+          "options": [
+            {
+              "key": "A",
+              "text": "parental love"
+            },
+            {
+              "key": "B",
+              "text": "imaginative games"
+            },
+            {
+              "key": "C",
+              "text": "physical development"
+            },
+            {
+              "key": "D",
+              "text": "generous behaviour"
+            },
+            {
+              "key": "E",
+              "text": "strong marriages"
+            },
+            {
+              "key": "F",
+              "text": "greater individuality"
+            },
+            {
+              "key": "G",
+              "text": "learning experiences"
+            },
+            {
+              "key": "H",
+              "text": "career success"
+            },
+            {
+              "key": "I",
+              "text": "closer relationships"
+            },
+            {
+              "key": "J",
+              "text": "healthy competition"
+            },
+            {
+              "key": "K",
+              "text": "mental well-being The positive aspects of sibling relationships"
+            }
+          ],
+          "bodyText": "Annette Henderson suggests that young children's interactions with older siblings involve {{blank:35}} Also, a Cambridge study found that siblings still enjoy {{blank:36}} even when they have a tendency to fight. Research conducted in 2003 suggests that children develop {{blank:37}} as a result of seeking attention. Another factor is the trend for smaller families, which may mean that today's siblings enjoy {{blank:38}} as adults. A 2010 American study linked having a sister with {{blank:39}} among children aged 10-14. Finally, having a sibling may promote {{blank:40}} according to the same study.",
+          "questions": [
+            {
+              "number": 35,
+              "prompt": "Annette Henderson suggests that young children's interactions with older siblings involve {{blank:35}} Also, a Cambridge study found that siblings still enjoy {{blank:36}} even when they have a tendency to fight.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "G"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 29",
+              "evidenceQuote": "Similarly, a Cambridge University study of 140 children found that even when there is a great deal of conflict, siblings will still create a rich world of play and make-believe that extends them developmentally.",
+              "evidenceTranslationVi": "Tương tự, một nghiên cứu của Đại học Cambridge trên 140 trẻ em cho thấy ngay cả khi có nhiều xung đột, anh chị em vẫn sẽ tạo ra một thế giới vui chơi và giả vờ phong phú giúp mở rộng sự phát triển của chúng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 29 để điền \"G\"."
+            },
+            {
+              "number": 36,
+              "prompt": "Annette Henderson suggests that young children's interactions with older siblings involve {{blank:35}} Also, a Cambridge study found that siblings still enjoy {{blank:36}} even when they have a tendency to fight.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 29",
+              "evidenceQuote": "Similarly, a Cambridge University study of 140 children found that even when there is a great deal of conflict, siblings will still create a rich world of play and make-believe that extends them developmentally.",
+              "evidenceTranslationVi": "Tương tự, một nghiên cứu của Đại học Cambridge trên 140 trẻ em cho thấy ngay cả khi có nhiều xung đột, anh chị em vẫn sẽ tạo ra một thế giới vui chơi và giả vờ phong phú giúp mở rộng sự phát triển của chúng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 29 để điền \"B\"."
+            },
+            {
+              "number": 37,
+              "prompt": "Research conducted in 2003 suggests that children develop {{blank:37}} as a result of seeking attention.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 6",
+              "evidenceQuote": "Surprising new research by Dr Gene Brody found that having older children who do well in school and are well liked by other children leads to parental 'basking' - increasing mothers' self-esteem.",
+              "evidenceTranslationVi": "Nghiên cứu mới đáng ngạc nhiên của Tiến sĩ Gene Brody phát hiện ra rằng việc có những đứa con lớn hơn học giỏi ở trường và được những đứa trẻ khác yêu mến sẽ khiến cha mẹ 'nịnh nọt' - làm tăng lòng tự trọng của các bà mẹ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 6 để điền \"F\"."
+            },
+            {
+              "number": 38,
+              "prompt": "Another factor is the trend for smaller families, which may mean that today's siblings enjoy {{blank:38}} as adults.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "I"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 33",
+              "evidenceQuote": "Another consideration is that many families today are smaller and more intimate than their historical counterparts.",
+              "evidenceTranslationVi": "Một điều cần cân nhắc khác là nhiều gia đình ngày nay nhỏ hơn và thân thiết hơn so với các gia đình trong lịch sử của họ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 33 để điền \"I\"."
+            },
+            {
+              "number": 39,
+              "prompt": "A 2010 American study linked having a sister with {{blank:39}} among children aged 10-14.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "K"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 35",
+              "evidenceQuote": "Then there was a 2010 American study which found that having a sister, whether younger or older, meant that 10-to 14-year-olds were less likely to feel lonely, unloved, self-conscious or fearful.",
+              "evidenceTranslationVi": "Sau đó, một nghiên cứu của Mỹ năm 2010 cho thấy có em gái, dù nhỏ hơn hay lớn hơn, có nghĩa là trẻ từ 10 đến 14 tuổi ít cảm thấy cô đơn, không được yêu thương, tự ti hoặc sợ hãi.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 35 để điền \"K\"."
+            },
+            {
+              "number": 40,
+              "prompt": "Finally, having a sibling may promote {{blank:40}} according to the same study.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 36",
+              "evidenceQuote": "The same study found that having a loving sibling of either gender promoted good deeds, such as helping a neighbor around the house or helping other children at school.",
+              "evidenceTranslationVi": "Nghiên cứu tương tự cho thấy việc có anh chị em yêu thương thuộc cả hai giới sẽ thúc đẩy những hành động tốt, chẳng hạn như giúp đỡ hàng xóm quanh nhà hoặc giúp đỡ những đứa trẻ khác ở trường.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 36 để điền \"D\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

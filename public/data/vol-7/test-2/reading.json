@@ -1,0 +1,1416 @@
+{
+  "vol": 7,
+  "test": 2,
+  "testId": "vol-7-test-2",
+  "title": "IELTS Reading Vol 7 - Test 2",
+  "sourceName": "VOL 7- ORIGINAL EXAMS/Reading/Test 1-10/Test 2.pdf",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "The early history of olive oil",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "Olive oil is produced from the fruit of the olive tree, which is a member of the Oleaceae plant family. The trees require some cold weather during the year, but also tolerate hot, dry conditions, and do not like moisture when they are flowering. They actually produce better when subjected to these stressful conditions, and as a result, olive trees have traditionally been grown on land where little else will survive.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "Archaeologists today are divided over exactly where the first domestication of the olive occurred: some say it was in the area which is now Iran, Syria, Jordan and Egypt, while others contend it was in mainland Greece or on the island of Crete. The one thing that can be said with certainty is that cultivation began at least 6,000 years ago and spread slowly westward across the lands bordering on the Mediterranean Sea. Olive oil was used for a variety of purposes during these early times, including as a pharmacological ointment and in rituals for anointing royalty.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "The ancient Greeks believed the olive tree was a priceless gift from the goddess Athena and used its oil in sacred religious rituals. In fact, the Greek poet Homer called olive oil 'liquid gold' , and during the 6th and 7th centuries BC Greek law forbade the cutting down of olive trees and made it punishable by death. The ancient Middle Eastern ruler King David valued his groves of olive trees and his olive oil warehouses so much that he posted guards around the clock to protect them.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Over the years, olive oil developed other uses. Its employment in cooking dates at least as far back as the 5th century BC, as described by the Greek philosopher Plato. Its use as an aid to beauty and health later became ingrained in many Mediterranean cultures. The Romans, for example, are said to have used generous amounts on their bodies to moisturise their skin after bathing. With the spread of the Roman Empire, olive oil became a major commonly and its trade promoted commerce throughout the ancient world. It is generally believed that in the 1st-2nd century BC, olive trees were taken to North Africa and then to Spain , which was later to become the world's largest producer of olive oil. Artefacts found at various Mediterranean archaeological sites include olive oil storage vessels with olive plant residue still in them. Historical evidence still in existence in the form of wall paintings and ancient manuscripts (including the works of the Roman naturalist and philosopher, Pliny the Elder) all record production techniques and the various uses of olive oil.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "Making olive oil in those early days was a laborious process accomplished without mechanisation. Processing or milling the fruit involved several distinct stages to extract the liquid. The olives were harvested from the trees by hand or by beating the fruit from the trees with long sticks. The olives were then rinsed and crushed to separate out the large seed found in the centre of each. The remaining seedless flesh was put in woven bags and pressed. Hot water was then poured over the bags to separate the oil from the solid bits of olive. The liquid produced in this process, consisting of oil and water, was drained into stone basins or tanks, where it was allowed to settle and separate. In cold weather a bit of salt was added to speed up the process. As much oil as possible was drawn off the water, but the result was still not pure oil. Therefore, this impure mixture was allowed once more to settle in vats and then separated in order to refine the product.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "The waste water from the milling process, which is called amurca, is a bitter- tasting and foul-smelling liquid. In many ancient civilisations it was often simply discarded, causing serious pollution because of its acidity and high salt content. However, in the Roman period it was regarded as a very useful substance. When spread on surfaces, amurca forms a hard finish and therefore it was often applied to the floors of grain storage buildings where it hardened , keeping out water, mud and pests. When boiled down amurca was applied to leather to soften it so that it was easier to shape into articles of clothing and shoes. It could also be eaten by farm animals and was, in fact, fed to livestock suffering from malnutrition. According to ancient texts, amurca was also utilised in moderate amounts by farmers as a fertiliser or as a pesticide helping them to protect their crops from insects and even small rodents .",
+          "label": "F"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v7-t2-p1-g1",
+          "questionRange": [
+            1,
+            6
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "In the cultivation of olives, a period without rain is advantageous.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 2",
+              "evidenceQuote": "The trees require some cold weather during the year, but also tolerate hot, dry conditions, and do not like moisture when they are flowering.",
+              "evidenceTranslationVi": "Cây cần một số thời tiết lạnh trong năm, nhưng cũng chịu được điều kiện nóng, khô và không ưa ẩm khi chúng ra hoa.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn A, câu 2 khẳng định trùng khớp ý với phát biểu trong câu hỏi (a period without rain = do not like moisture (không thích độ ẩm); advantageous = (việc cây \"không thích độ ẩm\" ngụ ý rằng không có mưa/ẩm là có lợi))."
+            },
+            {
+              "number": 2,
+              "prompt": "The most fertile fields are usually chosen for growing olives.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 3",
+              "evidenceQuote": "They actually produce better when subjected to these stressful conditions, and as a result, olive trees have traditionally been grown on land where little else will survive.",
+              "evidenceTranslationVi": "Họ thực sự sản xuất tốt hơn khi phải chịu những điều kiện căng thẳng này, và kết quả là, cây ô liu theo truyền thống được trồng trên những vùng đất mà rất ít loài khác có thể sống sót.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn A, câu 3 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra (most fertile fields (cánh đồng màu mỡ nhất) >< land where little else will survive (vùng đất nơi ít có loài nào khác sống sót được) -> Mâu thuẫn.)."
+            },
+            {
+              "number": 3,
+              "prompt": "In ancient Greece, the olive tree was said to have divine origins.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "The ancient Greeks believed the olive tree was a priceless gift from the goddess Athena and used its oil in sacred religious rituals.",
+              "evidenceTranslationVi": "Người Hy Lạp cổ đại tin rằng cây ô liu là một món quà vô giá từ nữ thần Athena và sử dụng dầu của nó trong các nghi lễ tôn giáo thiêng liêng.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn C, câu 1 khẳng định trùng khớp ý với phát biểu trong câu hỏi (divine origins = a priceless gift from the goddess Athena (một món quà vô giá từ nữ thần Athena))."
+            },
+            {
+              "number": 4,
+              "prompt": "Olive oil was more costly to buy in Greece than gold.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 1",
+              "evidenceQuote": "Olive oil is produced from the fruit of the olive tree, which is a member of the Oleaceae plant family.",
+              "evidenceTranslationVi": "Dầu ô liu được sản xuất từ ​​quả của cây ô liu, một thành viên của họ thực vật Oleaceae.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn A, câu 1 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 5,
+              "prompt": "Plato mentions the use of olive oil in the preparation of food.6 North African farmers initially resisted the introduction of olive trees.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 2",
+              "evidenceQuote": "Its employment in cooking dates at least as far back as the 5th century BC, as described by the Greek philosopher Plato.",
+              "evidenceTranslationVi": "Việc sử dụng nó trong nấu ăn ít nhất đã có từ thế kỷ thứ 5 trước Công nguyên, theo mô tả của nhà triết học Hy Lạp Plato.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn D, câu 2 khẳng định trùng khớp ý với phát biểu trong câu hỏi (mentions = as described by; in the preparation of food = in cooking)."
+            },
+            {
+              "number": 6,
+              "prompt": "North African farmers initially resisted the introduction of olive trees.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 6",
+              "evidenceQuote": "It is generally believed that in the 1st-2nd century BC, olive trees were taken to North Africa and then to Spain , which was later to become the world's largest producer of olive oil.",
+              "evidenceTranslationVi": "Người ta thường tin rằng vào thế kỷ 1-2 trước Công nguyên, cây ô liu đã được đưa đến Bắc Phi và sau đó đến Tây Ban Nha, nơi sau này trở thành nước sản xuất dầu ô liu lớn nhất thế giới.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn D, câu 6 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            }
+          ]
+        },
+        {
+          "id": "v7-t2-p1-g2",
+          "questionRange": [
+            7,
+            9
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the flow-chart below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "Ancient olive oil processing\nolives are harvested by picking them or {{blank:7}} the trees\n↓\nmilling stage\n↓\nolives are washed and crushed and seeds removed\n↓\nolive flesh is placed in {{blank:8}} and pressed\n↓\nwater is poured over the mixture\n↓\nresulting liquid is given time to settle and separate, and {{blank:9}} is used to aid the\nprocess\n↓\noil is drawn off and separation repeated",
+          "questions": [
+            {
+              "number": 7,
+              "prompt": "Ancient olive oil processing\nolives are harvested by picking them or {{blank:7}} the trees\n↓\nmilling stage\n↓\nolives are washed and crushed and seeds removed\n↓\nolive flesh is placed in {{blank:8}} and pressed\n↓\nwater is poured over the mixture\n↓\nresulting liquid is given time to settle and separate, and {{blank:9}} is used to aid the\nprocess\n↓\noil is drawn off and separation repeated",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "beating"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 3",
+              "evidenceQuote": "The olives were harvested from the trees by hand or by beating the fruit from the trees with long sticks.",
+              "evidenceTranslationVi": "Ô liu được thu hoạch trên cây bằng tay hoặc bằng cách dùng que dài đập quả trên cây.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 3 để điền \"beating\" (picking them = by hand)."
+            },
+            {
+              "number": 8,
+              "prompt": "Ancient olive oil processing\nolives are harvested by picking them or {{blank:7}} the trees\n↓\nmilling stage\n↓\nolives are washed and crushed and seeds removed\n↓\nolive flesh is placed in {{blank:8}} and pressed\n↓\nwater is poured over the mixture\n↓\nresulting liquid is given time to settle and separate, and {{blank:9}} is used to aid the\nprocess\n↓\noil is drawn off and separation repeated",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "bags"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 5",
+              "evidenceQuote": "The remaining seedless flesh was put in woven bags and pressed.",
+              "evidenceTranslationVi": "Phần thịt không hạt còn lại được cho vào túi dệt và ép chặt.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 5 để điền \"bags\" (placed in = put in)."
+            },
+            {
+              "number": 9,
+              "prompt": "Ancient olive oil processing\nolives are harvested by picking them or {{blank:7}} the trees\n↓\nmilling stage\n↓\nolives are washed and crushed and seeds removed\n↓\nolive flesh is placed in {{blank:8}} and pressed\n↓\nwater is poured over the mixture\n↓\nresulting liquid is given time to settle and separate, and {{blank:9}} is used to aid the\nprocess\n↓\noil is drawn off and separation repeated",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "salt"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 8",
+              "evidenceQuote": "In cold weather a bit of salt was added to speed up the process.",
+              "evidenceTranslationVi": "Trong thời tiết lạnh, một chút muối được thêm vào để tăng tốc quá trình.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 8 để điền \"salt\" (aid the process = speed up the process)."
+            }
+          ]
+        },
+        {
+          "id": "v7-t2-p1-g3",
+          "questionRange": [
+            10,
+            13
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "Amurca\nIn ancient times, this waste liquid was usually thrown away, which led to {{blank:10}}\nHowever, Romans had practical applications for America:\n• when dried, created hard surface, so used on {{blank:11}} of certain buildings\n• used when making {{blank:12}}\n• into goods to wear fed to livestock\n• used on farms as a {{blank:13}} to stop insects or animals damaging crops",
+          "questions": [
+            {
+              "number": 10,
+              "prompt": "Amurca\nIn ancient times, this waste liquid was usually thrown away, which led to {{blank:10}}\nHowever, Romans had practical applications for America:\n• when dried, created hard surface, so used on {{blank:11}} of certain buildings\n• used when making {{blank:12}}\n• into goods to wear fed to livestock\n• used on farms as a {{blank:13}} to stop insects or animals damaging crops",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "pollution"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 2",
+              "evidenceQuote": "In many ancient civilisations it was often simply discarded, causing serious pollution because of its acidity and high salt content.",
+              "evidenceTranslationVi": "Trong nhiều nền văn minh cổ đại, nó thường bị loại bỏ, gây ô nhiễm nghiêm trọng vì tính axit và hàm lượng muối cao.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 2 để điền \"pollution\" (thrown away = discarded; led to = causing)."
+            },
+            {
+              "number": 11,
+              "prompt": "Amurca\nIn ancient times, this waste liquid was usually thrown away, which led to {{blank:10}}\nHowever, Romans had practical applications for America:\n• when dried, created hard surface, so used on {{blank:11}} of certain buildings\n• used when making {{blank:12}}\n• into goods to wear fed to livestock\n• used on farms as a {{blank:13}} to stop insects or animals damaging crops",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "floors"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 4",
+              "evidenceQuote": "When spread on surfaces, amurca forms a hard finish and therefore it was often applied to the floors of grain storage buildings where it hardened , keeping out water, mud and pests.",
+              "evidenceTranslationVi": "Khi trải trên các bề mặt, amurca tạo thành một lớp hoàn thiện cứng và do đó nó thường được phủ lên sàn của các tòa nhà lưu trữ ngũ cốc, nơi nó cứng lại, ngăn nước, bùn và sâu bệnh.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 4 để điền \"floors\" (dried = hardened; hard surface = hard finish)."
+            },
+            {
+              "number": 12,
+              "prompt": "Amurca\nIn ancient times, this waste liquid was usually thrown away, which led to {{blank:10}}\nHowever, Romans had practical applications for America:\n• when dried, created hard surface, so used on {{blank:11}} of certain buildings\n• used when making {{blank:12}}\n• into goods to wear fed to livestock\n• used on farms as a {{blank:13}} to stop insects or animals damaging crops",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "leather"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 5",
+              "evidenceQuote": "When boiled down amurca was applied to leather to soften it so that it was easier to shape into articles of clothing and shoes.",
+              "evidenceTranslationVi": "Khi đun sôi, amurca được bôi lên da để làm mềm da, giúp dễ dàng tạo hình thành các sản phẩm quần áo và giày dép.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 5 để điền \"leather\" (goods to wear = articles of clothing and shoes)."
+            },
+            {
+              "number": 13,
+              "prompt": "Amurca\nIn ancient times, this waste liquid was usually thrown away, which led to {{blank:10}}\nHowever, Romans had practical applications for America:\n• when dried, created hard surface, so used on {{blank:11}} of certain buildings\n• used when making {{blank:12}}\n• into goods to wear fed to livestock\n• used on farms as a {{blank:13}} to stop insects or animals damaging crops",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "pesticide"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 7",
+              "evidenceQuote": "According to ancient texts, amurca was also utilised in moderate amounts by farmers as a fertiliser or as a pesticide helping them to protect their crops from insects and even small rodents .",
+              "evidenceTranslationVi": "Theo các văn bản cổ, amurca cũng được nông dân sử dụng với số lượng vừa phải làm phân bón hoặc thuốc trừ sâu giúp họ bảo vệ cây trồng khỏi côn trùng và thậm chí cả các loài gặm nhấm nhỏ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 7 để điền \"pesticide\" (stop ... damaging crops = protect their crops)."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "Playing with science",
+      "subtitle": "Is science always a serious matter? No, says Pierre Laszlo, who believes that",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "scientists are often just like children at play A The connection between science and play is not often discussed, perhaps because scientists take it for granted, or because they are a little self-conscious about it and therefore try to hide it. In this context, play might describe a number of different activities. Play might involve the exploration of new uses for everyday objects just for curiosity; it could also include word jokes, or the playing of jokes or tricks upon other scientists. The element of play in science is thus an elusive and difficult topic, but it is fundamental to the experience of scientists."
+        },
+        {
+          "id": "B",
+          "text": "One example of this connection is the jigsaw puzzle. Such puzzles present their players with two-dimensional fragments, each with a characteristic shape, from which to reconstruct an overall picture. Guessing the solution of a scientific problem has many similarities to completing a jigsaw puzzle. The scientists inspect each piece of data for a possible fit with its neighbours and, bit by bit, construct a whole argument. People who are good at jigsaw puzzles are able to guess which piece will fit even before trying it. In the same way, the best scientists are those who make the best guesses.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "But scientists do not play only at out-guessing each other, or at putting together pieces to complete a puzzle. They also regard their work as 'playing\" with \"toys\". Joseph Lambert, a professor of chemistry at Northwestern University in the US, shed some light on this tendency. In a letter he wrote the following: When I grew up, every kid put in some serious sandbox time, and it often involved building... complex sand structures around which fantasies were composed... The organic chemistry labs at Yale. and chemical transformations took place... The odours were pleasant, and the were fun in the same way. We mixed things up. physical process of working with our hands, as with sand, was satisfying... by the end of the year, I knew that I wanted to be an organic chemist, as I realised one could play in the sandbox for a living. Indeed, many scientists amuse themselves by 'playing with various \"toys' of their trade perhaps coming up with ingenious devices to get a particular job done, or diverting a piece of commercial equipment for novel scientific purposes. The apparatus put together by Robert Millikan and Harvey Fletcher to measure the charge of the electron, which involved a perfume atomiser bought at a local pharmacy, is a classic example of such inspired tinkering.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Whereas society often keeps a lid on playfulness, science encourages and nurtures it Take, for example, the funny names that scientists have given to various chemical substances: tristane, windowpane, penguinone or megaphone. Each class of organ molecules includes a few such humorous names. Similar fun is had in other fields of science.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "Hoaxes are a further aspect of the playfulness of scientists. A relatively recent example concerns the 'Plate of Brasse', which stated England's claim to California and was supposedly left by the English navigator Sir Francis Drake during his visit in 1579. A brass plate thought to be Drake's was discovered in the 1930s. But in 1977, Helen Michel and Frank Asaro, of the Lawrence Berkeley National Laboratory, showed that the copper and zinc used in the plate were of a higher quality than would have been available in the 1500s. They concluded that Drake's plate was most likely crafted much closer to the time when it was first brought to light.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "Shortly afterwards, staff at the University of California announced that the artefact was devised as a practical joke by a group of friends of Herbert E Bolton, who directed the Bancroft Library at the University's Berkeley campus. Bolton, it seems, was intrigued by tales of Drake having installed a plate to record his visit to California, and offen urged his students to look for it. Some of Bolton's friends decided to play a joke on him, but things misfired after Bolton went public and announced that the relic was authentic before he could be told about the joke.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "Sometimes hoaxes serve a useful purpose. Some years ago, Nathan Lewis, a professor of chemistry at California Institute of Technology, and a graduate student were doing experiments in the laboratory of a senior professor, Harry Gray. Another co-worker had the habit of going through their data and rushing to Gray with his interpretation. Lewis decided to set a trap for the co-worker. He recalls: I manufactured an NMR spectrum. We left it out as bait. (Our colleague] took it and wrote up a paper on how important this result was. He was ready to go right to [the Journal of the American Chemical Society]... We didn't let him mail it [but] this stopped him temporarily from taking our data and interpreting it before making sure that it was right.",
+          "label": "G"
+        },
+        {
+          "id": "H",
+          "text": "But is the playfulness of science usually so helpful? One might argue that to play a practical joke is a waste of time. So why do it? Perhaps play is an inherent part of the human condition. The psychologist's answer might be that scientists tend to play because science presents them with too much seriousness. Another possibility might be that scientists like to play because they tend to be very young. Some disciplines. mathematics especially, have a reputation for the narrow window of creativity in youth. But it may also be that there is some cognitive value to the playful element in science. Playing with ideas, after all, is what science is all about. A playful, childlike attitude may be extremely fruitful, and scientists should not be too embarrassed to acknowledge that play is often what motivates them.",
+          "label": "H"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v7-t2-p2-g1",
+          "questionRange": [
+            14,
+            20
+          ],
+          "type": "matching_info",
+          "instruction": "Reading Passage 2 has eight paragraphs, A-H. Which paragraph contains the following information? Choose the correct letter, A-H, in boxes 14-20.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "key": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "key": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "key": "H",
+              "text": "Paragraph H"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "a description of how a test showed some evidence to be fake",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 4",
+              "evidenceQuote": "But in 1977, Helen Michel and Frank Asaro, of the Lawrence Berkeley National Laboratory, showed that the copper and zinc used in the plate were of a higher quality than would have been available in the 1500s.",
+              "evidenceTranslationVi": "Nhưng vào năm 1977, Helen Michel và Frank Asaro, thuộc Phòng thí nghiệm quốc gia Lawrence Berkeley, đã chứng minh rằng đồng và kẽm được sử dụng trong tấm kim loại này có chất lượng cao hơn những gì có sẵn vào những năm 1500.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn E (Đoạn E, câu 4) (a test = (phân tích) the copper and zinc; showed some evidence to be fake = showed that the ... quality ... would [not] have been available)."
+            },
+            {
+              "number": 15,
+              "prompt": "reasons why scientists may be unwilling to admit that they play",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "scientists are often just like children at play A The connection between science and play is not often discussed, perhaps because scientists take it for granted, or because they are a little self-conscious about it and therefore try to hide it.",
+              "evidenceTranslationVi": "các nhà khoa học thường giống như những đứa trẻ đang chơi đùa. Mối liên hệ giữa khoa học và vui chơi không thường xuyên được thảo luận, có lẽ bởi vì các nhà khoa học coi đó là điều hiển nhiên, hoặc vì họ hơi tự ti về nó nên cố gắng che giấu nó.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn A (Đoạn 1, câu 1) (unwilling to admit = self-conscious about it and therefore try to hide it)."
+            },
+            {
+              "number": 16,
+              "prompt": "the result of a trick going wrong",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 3",
+              "evidenceQuote": "Some of Bolton's friends decided to play a joke on him, but things misfired after Bolton went public and announced that the relic was authentic before he could be told about the joke.",
+              "evidenceTranslationVi": "Một số bạn bè của Bolton quyết định đùa giỡn với anh ta, nhưng mọi thứ không suôn sẻ sau khi Bolton công khai và thông báo rằng thánh tích đó là xác thực trước khi anh ta được biết về trò đùa.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn F (Đoạn F, câu 3) (a trick going wrong = things misfired; a trick = a joke)."
+            },
+            {
+              "number": 17,
+              "prompt": "the similarity between a skill used in play and one used in science",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 3",
+              "evidenceQuote": "Guessing the solution of a scientific problem has many similarities to completing a jigsaw puzzle.",
+              "evidenceTranslationVi": "Việc đoán lời giải của một vấn đề khoa học có nhiều điểm tương đồng với việc hoàn thành một trò chơi ghép hình.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn B (Đoạn B, câu 3) (similarity = has many similarities to; skill = guessing)."
+            },
+            {
+              "number": 18,
+              "prompt": "how a group of scientists stopped a colleague misusing their results",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "G"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 8",
+              "evidenceQuote": "We didn't let him mail it [but] this stopped him temporarily from taking our data and interpreting it before making sure that it was right.",
+              "evidenceTranslationVi": "Chúng tôi đã không để anh ấy gửi nó qua đường bưu điện [nhưng] điều này đã ngăn anh ấy tạm thời lấy dữ liệu của chúng tôi và giải thích dữ liệu đó trước khi đảm bảo rằng dữ liệu đó đúng.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn G (Đoạn G, câu 8) (stopped a colleague = stopped him; misusing their results = taking our data and interpreting it)."
+            },
+            {
+              "number": 19,
+              "prompt": "some examples of the playful nature of scientific language",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "Whereas society often keeps a lid on playfulness, science encourages and nurtures it Take, for example, the funny names that scientists have given to various chemical substances: tristane, windowpane, penguinone or megaphone.",
+              "evidenceTranslationVi": "Trong khi xã hội thường hạn chế sự vui đùa thì khoa học lại khuyến khích và nuôi dưỡng nó. Ví dụ, những cái tên ngộ nghĩnh mà các nhà khoa học đặt cho nhiều chất hóa học khác nhau: tristane, windowpane, penguinone hoặc megaphone.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn D (Đoạn D, câu 1) (examples of the playful nature = funny names; scientific language = names ... given to various chemical substances)."
+            },
+            {
+              "number": 20,
+              "prompt": "an example of an everyday object put to a scientific use",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 9",
+              "evidenceQuote": "The apparatus put together by Robert Millikan and Harvey Fletcher to measure the charge of the electron, which involved a perfume atomiser bought at a local pharmacy, is a classic example of such inspired tinkering.",
+              "evidenceTranslationVi": "Thiết bị do Robert Millikan và Harvey Fletcher chế tạo để đo điện tích của electron, bao gồm một bình phun nước hoa mua ở một hiệu thuốc địa phương, là một ví dụ điển hình về sự mày mò đầy cảm hứng như vậy.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn C (Đoạn C, câu 9) (everyday object = a perfume atomiser bought at a local pharmacy; scientific use = (một phần của) apparatus (dụng cụ thí nghiệm))."
+            }
+          ]
+        },
+        {
+          "id": "v7-t2-p2-g2",
+          "questionRange": [
+            21,
+            22
+          ],
+          "type": "mcq_multi",
+          "instruction": "Choose TWO correct answers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Play may provide relief from their work."
+            },
+            {
+              "key": "B",
+              "text": "Scientists sometimes spend time as teachers."
+            },
+            {
+              "key": "C",
+              "text": "The age of scientists predisposes them to play."
+            },
+            {
+              "key": "D",
+              "text": "Scientists get ideas from children's questions."
+            },
+            {
+              "key": "E",
+              "text": "Scientists are secretive about their work."
+            }
+          ],
+          "selectCount": 2,
+          "questions": [
+            {
+              "number": 21,
+              "prompt": "Which TWO of the following reasons are given as possible explanations of scientists play behaviour?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Play may provide relief from their work."
+                },
+                {
+                  "key": "B",
+                  "text": "Scientists sometimes spend time as teachers."
+                },
+                {
+                  "key": "C",
+                  "text": "The age of scientists predisposes them to play."
+                },
+                {
+                  "key": "D",
+                  "text": "Scientists get ideas from children's questions."
+                },
+                {
+                  "key": "E",
+                  "text": "Scientists are secretive about their work."
+                }
+              ],
+              "siblingNumbers": [
+                21,
+                22
+              ],
+              "acceptedAnswers": [
+                "A",
+                "C"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 6",
+              "evidenceQuote": "Another possibility might be that scientists like to play because they tend to be very young.",
+              "evidenceTranslationVi": "Một khả năng khác có thể là các nhà khoa học thích chơi đùa vì họ có xu hướng còn rất trẻ.",
+              "explanationVi": "Thông tin tại Đoạn H, câu 6 khớp trực tiếp với lựa chọn A, C (provide relief from their work = play because science presents them with too much seriousness; The age of scientists predisposes them to play = play because they tend to be very young); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 22,
+              "prompt": "Which TWO of the following reasons are given as possible explanations of scientists play behaviour?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Play may provide relief from their work."
+                },
+                {
+                  "key": "B",
+                  "text": "Scientists sometimes spend time as teachers."
+                },
+                {
+                  "key": "C",
+                  "text": "The age of scientists predisposes them to play."
+                },
+                {
+                  "key": "D",
+                  "text": "Scientists get ideas from children's questions."
+                },
+                {
+                  "key": "E",
+                  "text": "Scientists are secretive about their work."
+                }
+              ],
+              "siblingNumbers": [
+                21,
+                22
+              ],
+              "acceptedAnswers": [
+                "A",
+                "C"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 6",
+              "evidenceQuote": "Another possibility might be that scientists like to play because they tend to be very young.",
+              "evidenceTranslationVi": "Một khả năng khác có thể là các nhà khoa học thích chơi đùa vì họ có xu hướng còn rất trẻ.",
+              "explanationVi": "Thông tin tại Đoạn H, câu 6 khớp trực tiếp với lựa chọn A, C (provide relief from their work = play because science presents them with too much seriousness; The age of scientists predisposes them to play = play because they tend to be very young); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v7-t2-p2-g3",
+          "questionRange": [
+            23,
+            26
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the summary below. Write NO MORE THAN THREE WORDS from the passage for each answer.",
+          "wordLimit": "NO MORE THAN THREE WORDS",
+          "bodyText": "Scientists play tricks\nThe passage gives two examples of tricks arising from the playfulness of scientists.\nResearchers at Caltech found that a colleague had been stealing their {{blank:23}} and\nused a hoax involving a fake NMR spectrum to trap the offender. Another story\nconcerns a plate which a famous {{blank:24}} is said to have left behind on a visit to\nCalifornia.\nThe {{blank:25}} that the plate was made of later revealed that it was a fake, a hoax\ncarried out by friends of the director of the {{blank:26}}.",
+          "questions": [
+            {
+              "number": 23,
+              "prompt": "Researchers at Caltech found that a colleague had been stealing their {{blank:23}} and\nused a hoax involving a fake NMR spectrum to trap the offender.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "data"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 3",
+              "evidenceQuote": "Another co-worker had the habit of going through their data and rushing to Gray with his interpretation.",
+              "evidenceTranslationVi": "Một đồng nghiệp khác có thói quen xem qua dữ liệu của họ và nhanh chóng giải thích cho Gray.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 3 để điền \"data\" (stealing their = going through their (trong ngữ cảnh này mang nghĩa lấy cắp))."
+            },
+            {
+              "number": 24,
+              "prompt": "Another story\nconcerns a plate which a famous {{blank:24}} is said to have left behind on a visit to\nCalifornia.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "English navigator"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 2",
+              "evidenceQuote": "A relatively recent example concerns the 'Plate of Brasse', which stated England's claim to California and was supposedly left by the English navigator Sir Francis Drake during his visit in 1579.",
+              "evidenceTranslationVi": "Một ví dụ tương đối gần đây liên quan đến 'Tấm đồng thau', trong đó tuyên bố chủ quyền của Anh đối với California và được cho là do nhà hàng hải người Anh Sir Francis Drake để lại trong chuyến thăm năm 1579.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 2 để điền \"English navigator\" (a famous = Sir Francis Drake (là một ví dụ cụ thể của người nổi tiếng))."
+            },
+            {
+              "number": 25,
+              "prompt": "The {{blank:25}} that the plate was made of later revealed that it was a fake, a hoax\ncarried out by friends of the director of the {{blank:26}}.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "copper & zinc"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 4",
+              "evidenceQuote": "But in 1977, Helen Michel and Frank Asaro, of the Lawrence Berkeley National Laboratory, showed that the copper and zinc used in the plate were of a higher quality than would have been available in the 1500s.",
+              "evidenceTranslationVi": "Nhưng vào năm 1977, Helen Michel và Frank Asaro, thuộc Phòng thí nghiệm quốc gia Lawrence Berkeley, đã chứng minh rằng đồng và kẽm được sử dụng trong tấm kim loại này có chất lượng cao hơn những gì có sẵn vào những năm 1500.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 4 để điền \"copper & zinc\"."
+            },
+            {
+              "number": 26,
+              "prompt": "The {{blank:25}} that the plate was made of later revealed that it was a fake, a hoax\ncarried out by friends of the director of the {{blank:26}}.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "Bancroft Library"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 1",
+              "evidenceQuote": "Shortly afterwards, staff at the University of California announced that the artefact was devised as a practical joke by a group of friends of Herbert E Bolton, who directed the Bancroft Library at the University's Berkeley campus.",
+              "evidenceTranslationVi": "Ngay sau đó, nhân viên tại Đại học California thông báo rằng đồ tạo tác này được một nhóm bạn của Herbert E Bolton, người điều hành Thư viện Bancroft tại khuôn viên Berkeley của trường, nghĩ ra như một trò đùa thực tế.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 1 để điền \"Bancroft Library\" (director = directed)."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "Does Class Size Matter?",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "Of all the ideas for improving education, few are as simple or attractive as reducing the number of pupils per teacher. Unlike competing proposals for reform, class-size reductions rarely elicit huge outcries or involve structural change. The testing of educators, by contrast, generally arouses the anger of unions. Similarly, establishing special 'charter' schools involves privileging some schools over others, with the credits provided usually coming out of the budgets of struggling local schools. With its uncomplicated appeal, class-size reduction in the U.S. has lately gone from being a subject of primary academic interest to a policy juggernaut with over twenty states aiming at decreasing class sizes.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "Do small classes improve school achievement? To answer this, investigators have attempted to analyse existing data, such as records at the U.S. Department of Education. These reveal that there were steep drops in pupil-teacher ratios between 1969 and 1997, but no significant gains in academic performance. But do these findings mean that class size makes no difference? Not necessarily. For instance, schools strive for more than just high test scores; they also usually try to keep their drop-out rates low. And, indeed, the drop-out rate for older students fell considerably over that period. Because drop-outs generally come from the low end of the achievement distribution, a reduction in the drop-out rate could be expected to pull down average test scores. Another reason for discounting those data is the difficulty of ensuring a level playing field. In a perfect world, U.S. students would all come from well-off families, with two highly educated English-speaking parents who are involved in their children's schooling. Teachers would all be creative and have complete mastery of the subject matter. The reality is very different.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "Over the past 35 years, some studies of existing data have produced evidence that smaller classes benefit students, but most of these studies were poorly designed. The exception was the Tennessee study called Project STAR (Student Teacher Achievement Ratio). Frederick Mosteller of Harvard University has called it 'one of the greatest experiments in education in United States history'. Students entering kindergarten were randomly assigned to one of three kinds of classes: a small class of 13 to 17 students, a regular-size class of 22 to 26 or a regular- size class with both a teacher and a full-time teacher's aide. The students remained in whatever category they had been assigned to throughout the third grade, after which they joined a regular classroom in the fourth. To ensure that teaching quality did not differ, teachers were randomly assigned to small and regular-size classrooms. Few teachers received any special training for working with small classes, and there were no new curricular materials.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "At the end of STAR, researchers analysed the data. Jeremy Finn of New York University and Charles Achilles of Eastern Michigan University found evidence for 'an array of benefits of small classes'. They calculated that students in smaller classes were outperforming their counterparts in regular-sized classes by the first grade and that this advantage persisted even after students returned to larger classes. They also found that the effect was stronger for black and Hispanic minority groups – a significant finding for policy-makers. Eric Hanushek of Stanford, however, criticises some of STAR's key conclusions. He argues that STAR does not prove that gains persist long after students return to regular classes. It was debatable how much later improvement stemmed from other factors, such as a supportive home. Nor does he accept that the benefits accumulate, with participants widening the gap with their peers in larger classes year by year. Hanushek and others have also shown that during the study too many children moved from regular to small classes, probably because school personnel caved in to parent demands. And Hanushek also asserts that STAR failed to ensure good randomisation of teacher and student assignments. However, these points do not undermine STAR's basic findings.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "The largest public class size reduction programme so far, California's, stands more as a warning than as worthy of emulation. That state is trying to reduce classes in kindergarten through grade three despite a shortage of teachers that is most acute in low-income areas. This is exacerbating the disparity in resources available to rich and poor schools in California, because more affluent areas can attract the best teachers. Indeed, some of the extra teachers needed are being recruited from the poorer schools. Researchers found a statistically significant achievement advantage in reading, writing and mathematics for students in classes that had been reduced to 20. What is more, the effect did not vary for students of different backgrounds.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "Wisconsin's Student Achievement Guarantee in Education (SAGE) was a five- year pilot study to do some of the groundwork for a major project. Class sizes were reduced in only 14 schools, but it was noteworthy for targeting schools at which 30% of the students were below poverty level, compared with California's across-the- board approach. SAGE lowered the average pupil-teacher ratio in kindergarten through third grade to 12-15:1 from 21-25:1. Analysts have studied the results of first-grade students in these schools and similar first-grade students elsewhere and found the results accord with those from STAR. STAR and SAGE have made it hard to argue against reducing class sizes. But the California initiative shows that reductions made with too lite forethought can yield minuscule gains. Administrators need solid information before they can make sensible policy decisions.",
+          "label": "F"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v7-t2-p3-g1",
+          "questionRange": [
+            27,
+            31
+          ],
+          "type": "matching_info",
+          "instruction": "Reading Passage 3 has six sections, A-F. Which section contains the following information? Choose the correct letter, A-F, in boxes 27-31. NB You may use any letter more than once",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "key": "F",
+              "text": "Paragraph F"
+            }
+          ],
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "detailed criticism of the methodology of a project",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 9",
+              "evidenceQuote": "Hanushek and others have also shown that during the study too many children moved from regular to small classes, probably because school personnel caved in to parent demands.",
+              "evidenceTranslationVi": "Hanushek và những người khác cũng chỉ ra rằng trong quá trình nghiên cứu, có quá nhiều trẻ em chuyển từ lớp bình thường sang lớp nhỏ, có thể là do nhân viên nhà trường đã chiều theo yêu cầu của phụ huynh.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn D (Đoạn D, câu 9) (detailed criticism = asserts that [project] failed to ensure...; methodology = randomisation of teacher and student assignments)."
+            },
+            {
+              "number": 28,
+              "prompt": "a comparison of the data from class-reduction projects",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 4",
+              "evidenceQuote": "Analysts have studied the results of first-grade students in these schools and similar first-grade students elsewhere and found the results accord with those from STAR.",
+              "evidenceTranslationVi": "Các nhà phân tích đã nghiên cứu kết quả của học sinh lớp một tại các trường này và học sinh lớp một tương tự ở những nơi khác và nhận thấy kết quả phù hợp với kết quả của STAR.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn F (Đoạn F, câu 4) (a comparison of the data = found the results accord with those from [another project])."
+            },
+            {
+              "number": 29,
+              "prompt": "the level of public interest in the issues of class-size reduction",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 5",
+              "evidenceQuote": "With its uncomplicated appeal, class-size reduction in the U.S. has lately gone from being a subject of primary academic interest to a policy juggernaut with over twenty states aiming at decreasing class sizes.",
+              "evidenceTranslationVi": "Với sự hấp dẫn không phức tạp của nó, việc giảm quy mô lớp học ở Hoa Kỳ gần đây đã từ một chủ đề được giới học thuật quan tâm hàng đầu trở thành một chính sách phức tạp với hơn 20 tiểu bang nhằm mục đích giảm quy mô lớp học.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn A (Đoạn A, câu 5) (public interest = a policy juggernaut with over twenty states aiming...)."
+            },
+            {
+              "number": 30,
+              "prompt": "details of action taken to protect the validity of a project",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 6",
+              "evidenceQuote": "To ensure that teaching quality did not differ, teachers were randomly assigned to small and regular-size classrooms.",
+              "evidenceTranslationVi": "Để đảm bảo chất lượng giảng dạy không có sự khác biệt, giáo viên được phân ngẫu nhiên vào các lớp học quy mô nhỏ và quy mô thông thường.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn C (Đoạn C, câu 6) (action taken to protect the validity = To ensure that... [something] did not differ; details of action = teachers were randomly assigned)."
+            },
+            {
+              "number": 31,
+              "prompt": "reasons why class composition changed during a project",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 9",
+              "evidenceQuote": "Hanushek and others have also shown that during the study too many children moved from regular to small classes, probably because school personnel caved in to parent demands.",
+              "evidenceTranslationVi": "Hanushek và những người khác cũng chỉ ra rằng trong quá trình nghiên cứu, có quá nhiều trẻ em chuyển từ lớp bình thường sang lớp nhỏ, có thể là do nhân viên nhà trường đã chiều theo yêu cầu của phụ huynh.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn D (Đoạn D, câu 9) (reasons why = because; class composition changed = children moved from regular to small classes)."
+            }
+          ]
+        },
+        {
+          "id": "v7-t2-p3-g2",
+          "questionRange": [
+            32,
+            40
+          ],
+          "type": "matching_features",
+          "instruction": "Choose the correct letter, A, B, or C, in boxes 32-40.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Project STAR"
+            },
+            {
+              "key": "B",
+              "text": "Project"
+            },
+            {
+              "key": "C",
+              "text": "SAGE"
+            }
+          ],
+          "questions": [
+            {
+              "number": 32,
+              "prompt": "The student composition of each class was left to chance.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Project STAR"
+                },
+                {
+                  "key": "B",
+                  "text": "Project"
+                },
+                {
+                  "key": "C",
+                  "text": "SAGE"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 4",
+              "evidenceQuote": "Students entering kindergarten were randomly assigned to one of three kinds of classes: a small class of 13 to 17 students, a regular-size class of 22 to 26 or a regular- size class with both a teacher and a full-time teacher's aide.",
+              "evidenceTranslationVi": "Học sinh vào mẫu giáo được phân ngẫu nhiên vào một trong ba loại lớp: lớp học nhỏ từ 13 đến 17 học sinh, lớp học thông thường từ 22 đến 26 học sinh hoặc lớp học bình thường có cả giáo viên và trợ giảng toàn thời gian.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 4 khớp trực tiếp với lựa chọn A (left to chance = randomly assigned); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 33,
+              "prompt": "A long-term improvement in performance was claimed.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Project STAR"
+                },
+                {
+                  "key": "B",
+                  "text": "Project"
+                },
+                {
+                  "key": "C",
+                  "text": "SAGE"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 3",
+              "evidenceQuote": "They calculated that students in smaller classes were outperforming their counterparts in regular-sized classes by the first grade and that this advantage persisted even after students returned to larger classes.",
+              "evidenceTranslationVi": "Họ tính toán rằng học sinh ở các lớp học nhỏ hơn có kết quả học tập tốt hơn so với các học sinh trong lớp học có quy mô bình thường vào lớp một và lợi thế này vẫn tồn tại ngay cả sau khi học sinh quay trở lại các lớp học lớn hơn.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 3 khớp trực tiếp với lựa chọn A (long-term = persisted; improvement in performance = advantage); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 34,
+              "prompt": "Similar results were obtained for all social groups.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Project STAR"
+                },
+                {
+                  "key": "B",
+                  "text": "Project"
+                },
+                {
+                  "key": "C",
+                  "text": "SAGE"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 6",
+              "evidenceQuote": "What is more, the effect did not vary for students of different backgrounds.",
+              "evidenceTranslationVi": "Hơn nữa, hiệu quả không khác nhau đối với các học sinh có hoàn cảnh khác nhau.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 6 khớp trực tiếp với lựa chọn B (Similar results = did not vary; for all social groups = for students of different backgrounds); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 35,
+              "prompt": "The project was a preliminary to a more comprehensive study.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Project STAR"
+                },
+                {
+                  "key": "B",
+                  "text": "Project"
+                },
+                {
+                  "key": "C",
+                  "text": "SAGE"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 1",
+              "evidenceQuote": "Wisconsin's Student Achievement Guarantee in Education (SAGE) was a five- year pilot study to do some of the groundwork for a major project.",
+              "evidenceTranslationVi": "Chương trình Bảo đảm Thành tích Học sinh trong Giáo dục (SAGE) của Wisconsin là một nghiên cứu thí điểm kéo dài 5 năm nhằm thực hiện một số nền tảng cho một dự án lớn.",
+              "explanationVi": "Thông tin tại Đoạn F, câu 1 khớp trực tiếp với lựa chọn C (preliminary = pilot study; a more comprehensive study = a major project); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 36,
+              "prompt": "Several different class types were involved in the project.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Project STAR"
+                },
+                {
+                  "key": "B",
+                  "text": "Project"
+                },
+                {
+                  "key": "C",
+                  "text": "SAGE"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 4",
+              "evidenceQuote": "Students entering kindergarten were randomly assigned to one of three kinds of classes: a small class of 13 to 17 students, a regular-size class of 22 to 26 or a regular- size class with both a teacher and a full-time teacher's aide.",
+              "evidenceTranslationVi": "Học sinh vào mẫu giáo được phân ngẫu nhiên vào một trong ba loại lớp: lớp học nhỏ từ 13 đến 17 học sinh, lớp học thông thường từ 22 đến 26 học sinh hoặc lớp học bình thường có cả giáo viên và trợ giảng toàn thời gian.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 4 khớp trực tiếp với lựa chọn A (Several different class types = three kinds of classes); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 37,
+              "prompt": "A special group of schools was selected to take part.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Project STAR"
+                },
+                {
+                  "key": "B",
+                  "text": "Project"
+                },
+                {
+                  "key": "C",
+                  "text": "SAGE"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 2",
+              "evidenceQuote": "Class sizes were reduced in only 14 schools, but it was noteworthy for targeting schools at which 30% of the students were below poverty level, compared with California's across-the- board approach.",
+              "evidenceTranslationVi": "Quy mô lớp học chỉ giảm ở 14 trường, nhưng điều đáng chú ý là nhắm vào các trường có 30% học sinh dưới mức nghèo, so với cách tiếp cận toàn diện của California.",
+              "explanationVi": "Thông tin tại Đoạn F, câu 2 khớp trực tiếp với lựa chọn C (A special group of schools = targeting schools at which [có đặc điểm riêng]); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 38,
+              "prompt": "Classroom assistants were used as part of the project.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Project STAR"
+                },
+                {
+                  "key": "B",
+                  "text": "Project"
+                },
+                {
+                  "key": "C",
+                  "text": "SAGE"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 4",
+              "evidenceQuote": "Students entering kindergarten were randomly assigned to one of three kinds of classes: a small class of 13 to 17 students, a regular-size class of 22 to 26 or a regular- size class with both a teacher and a full-time teacher's aide.",
+              "evidenceTranslationVi": "Học sinh vào mẫu giáo được phân ngẫu nhiên vào một trong ba loại lớp: lớp học nhỏ từ 13 đến 17 học sinh, lớp học thông thường từ 22 đến 26 học sinh hoặc lớp học bình thường có cả giáo viên và trợ giảng toàn thời gian.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 4 khớp trực tiếp với lựa chọn A (Classroom assistants = teacher's aide); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 39,
+              "prompt": "The project was responsible for aggravating existing problems.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Project STAR"
+                },
+                {
+                  "key": "B",
+                  "text": "Project"
+                },
+                {
+                  "key": "C",
+                  "text": "SAGE"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 3",
+              "evidenceQuote": "This is exacerbating the disparity in resources available to rich and poor schools in California, because more affluent areas can attract the best teachers.",
+              "evidenceTranslationVi": "Điều này đang làm trầm trọng thêm sự chênh lệch về nguồn lực dành cho các trường giàu và nghèo ở California, bởi vì những khu vực giàu có hơn có thể thu hút những giáo viên giỏi nhất.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 3 khớp trực tiếp với lựa chọn B (aggravating = exacerbating; existing problems = disparity in resources); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 40,
+              "prompt": "Certain groups of pupils within the sample were identified as having benefited.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Project STAR"
+                },
+                {
+                  "key": "B",
+                  "text": "Project"
+                },
+                {
+                  "key": "C",
+                  "text": "SAGE"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 4",
+              "evidenceQuote": "They also found that the effect was stronger for black and Hispanic minority groups – a significant finding for policy-makers.",
+              "evidenceTranslationVi": "Họ cũng phát hiện ra rằng hiệu ứng này mạnh hơn đối với các nhóm thiểu số da đen và gốc Tây Ban Nha – một phát hiện quan trọng đối với các nhà hoạch định chính sách.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 4 khớp trực tiếp với lựa chọn A (Certain groups of pupils = black and Hispanic minority groups; identified as having benefited = found that the effect was stronger for); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

@@ -193,6 +193,7 @@ export type VocabCategory =
   | 'places_maps'
   | 'academic_p3_p4'
   | 'paraphrase_pairs'
+  | 'reading_academic'
   | 'saved_from_test';
 
 export type Sm2Rating = 'again' | 'hard' | 'good' | 'easy';

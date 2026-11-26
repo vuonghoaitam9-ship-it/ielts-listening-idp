@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import { useLiveQuery } from 'dexie-react-hooks';
+import { ReadingDataManagerSection } from '../components/reading/ReadingDataManagerSection';
 import * as pdfjsLib from 'pdfjs-dist';
 import pdfWorkerUrl from 'pdfjs-dist/build/pdf.worker.min.mjs?url';
 import {
@@ -45,6 +47,8 @@ async function measurePdfPages(blob: Blob): Promise<number> {
 }
 
 export function DataManagerPage() {
+  const [searchParams, setSearchParams] = useSearchParams();
+  const activeTab = searchParams.get('tab') === 'reading' ? 'reading' : 'listening';
   const [manifest, setManifest] = useState<ManifestData | null>(null);
   const [volFilter, setVolFilter] = useState<number>(0);
   const [editingItem, setEditingItem] = useState<TestManifestItem | null>(null);
@@ -164,7 +168,36 @@ export function DataManagerPage() {
 
   return (
     <div className="space-y-5">
-      {feedback && (
+      <div className="flex flex-wrap items-center gap-2 border-b border-slate-300 pb-3">
+        <button
+          type="button"
+          onClick={() => setSearchParams({})}
+          className={`px-3.5 py-1.5 rounded border text-xs font-semibold cursor-pointer ${
+            activeTab === 'listening'
+              ? 'bg-[#0f2942] text-white border-[#0f2942]'
+              : 'bg-white text-slate-700 border-slate-300 hover:bg-slate-50'
+          }`}
+        >
+          Nguồn Listening (32 đề)
+        </button>
+        <button
+          type="button"
+          onClick={() => setSearchParams({ tab: 'reading' })}
+          className={`px-3.5 py-1.5 rounded border text-xs font-semibold cursor-pointer ${
+            activeTab === 'reading'
+              ? 'bg-[#0f2942] text-white border-[#0f2942]'
+              : 'bg-white text-slate-700 border-slate-300 hover:bg-slate-50'
+          }`}
+        >
+          Nguồn Reading (43 đề)
+        </button>
+      </div>
+
+      {activeTab === 'reading' ? (
+        <ReadingDataManagerSection />
+      ) : (
+        <>
+          {feedback && (
         <div className="p-3 rounded bg-blue-50 border border-blue-200 text-xs text-blue-900 flex items-center justify-between">
           <span>{feedback}</span>
           <button type="button" onClick={() => setFeedback(null)} className="cursor-pointer">
@@ -374,6 +407,8 @@ export function DataManagerPage() {
           </table>
         </div>
       </section>
+        </>
+      )}
 
       {/* Local Upload Modal */}
       {editingItem && (

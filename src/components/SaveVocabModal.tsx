@@ -127,7 +127,7 @@ export function SaveVocabModal({
           </div>
 
           <label className="block">
-            <span className="font-medium text-slate-700 block mb-1">Ngữ cảnh trong bài nghe</span>
+            <span className="font-medium text-slate-700 block mb-1">Ngữ cảnh trong bài (nghe / đọc)</span>
             <textarea
               rows={2}
               value={exampleEn}

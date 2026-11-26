@@ -1,0 +1,1148 @@
+{
+  "vol": 7,
+  "test": 11,
+  "testId": "vol-7-test-11",
+  "title": "IELTS Reading Vol 7 - Test 11",
+  "sourceName": "VOL 7- ORIGINAL EXAMS/Reading/Test 11-16/Test 11.pdf",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "Chilli Peppers",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "For thousands of years, humans have taken painful pleasure from adding chillies (also known as peppers or chilli peppers) to their food. A study published in the British Medical Journal in 2015 indicated that a diet filled with spices – including chillies – was beneficial for health. The study, which was carried out by scientists at the Chinese Academy of Medical Sciences, tracked the health of nearly half a million participants in China for several years. They found that participants who ate spicy food once or twice a week had a mortality rate 10% lower than those who ate spicy food less than once a week. Risk of death reduced still further for people who ate spicy food six or seven days a week. Chilli peppers were the most commonly used spice among the sample, and those who ate fresh chilli had a lower probability of death from cancer, heart disease and diabetes.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "The health-promoting properties of chillies can be found in capsaicin, which is the odourless, colourless chemical compound that makes chillies hot. Inside a chilli there are yellow stalks that attach the seeds to its sides and in many types of chilli, this is the location of capsaicin, but there are several varieties where this is not the case. The heat of a chilli is measured in Scoville heat units, which is the number of times a sample of dissolved dried chilli must be diluted by its own weight in sugar water before it loses its heat. For a green bell pepper this is zero. But habanero peppers have a Scoville value of between 100,000 and 350,000. For pure capsaicin the figure is 16 million. Pure capsaicin can be bought on the internet, though its use as a food additive is banned in the European Union. The use of chilli peppers as weapons dates back to pre- Columbian times (before 1492), when, it is said, Mayans burned rows of them to create a stinging smokescreen to protect themselves from their enemies. The Aztecs also put chilli on their teeth to kill toothache pain, and the use of capsaicin as a pain reliever continues today.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "Joshua Tewksbury,a natural historian at the University of Washington, thinks the burning sensation we experience when we come into contact with chillies is an evolutionary trick. 'We're not actually being damaged by the capsaicin the way we would be if we were touching a stove, but our brain thinks we are,' he says, adding that all mammals experience the same sensation but that birds do not. 'They can eat chillies like popcorn and they don't feel the heat.' In this way, Tewksbury suggests, the plant evolved to repel animals that might crush its seeds with their teeth, but not ones that would help spread them.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Chillies also fight bacteria. This was of great value in the days before refrigeration, when, particularly in the tropics, people were vulnerable to bacteria that could harm them directly or cause their food to spoil. Chillies kill or inhibit 75% of such bacteria. That may just explain the spice's world- conquering success. Just two or three years after the explorer Christopher Columbus brought chilli seeds back to Europe from the New World in 1493, Portuguese merchants took the plants to Asia, where they would transform the cuisine. People in hot countries are said to use more chilli because it makes them generate a lot of sweat, which cools them down. But in 1998, researchers at Cornell University pointed out that the greater use of spices in countries such as India, Thailand and China was likely to be linked to the antibacterial function. By studying books filled with recipes from all over the world, the researchers found that spices including chilli were more likely to be used close to the equator, and were also used more in valleys with high levels of humidity than on high plateaux.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "Capsaicin has even been suggested as a potential weight-loss tool. Research conducted by the University of Wyoming on mice that had been fed a high-fat diet found that the substance increased the metabolism of the animals, causing them to bum more energy and preventing weight gain. In another study, researchers at the University of Adelaide found that certain receptors that interact with capsaicin and are located inside the stomach play a role in sensing when you are full. Previous studies on humans seem to back the idea that eating spicy food may curb our appetite.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "Capsaicin is a natural painkiller. Capsaicin creams and patches are available in chemists to ease pain. But it's only recently that we have come to understand how something that causes pain can ease it too. Capsaicin binds to the pain receptor TRPV1, which our brains also use to detect changes in temperature- that's why we think chillies are hot. But after being over-stimulated the neurons stop responding, killing the pain. This process involves the release of endorphins, which can give us a ' rush' not unlike the feeling we have when we have done some exercise. This may explain why some people believe that hot food is addictive.",
+          "label": "F"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v7-t11-p1-g1",
+          "questionRange": [
+            1,
+            7
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "The study done by the Chinese Academy of Medical Sciences looked at eating habits in several countries.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 3",
+              "evidenceQuote": "The study, which was carried out by scientists at the Chinese Academy of Medical Sciences, tracked the health of nearly half a million participants in China for several years.",
+              "evidenceTranslationVi": "Nghiên cứu được thực hiện bởi các nhà khoa học tại Viện Khoa học Y tế Trung Quốc, đã theo dõi sức khỏe của gần nửa triệu người tham gia ở Trung Quốc trong vài năm.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn A, câu 3 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra (several countries (một số quốc gia) >< in China (ở Trung Quốc) -> Mâu thuẫn.)."
+            },
+            {
+              "number": 2,
+              "prompt": "Eating fresh chillies can decrease the likelihood of dying from certain serious illnesses.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 6",
+              "evidenceQuote": "Chilli peppers were the most commonly used spice among the sample, and those who ate fresh chilli had a lower probability of death from cancer, heart disease and diabetes.",
+              "evidenceTranslationVi": "Ớt là loại gia vị được sử dụng phổ biến nhất trong số những người ăn ớt tươi có nguy cơ tử vong do ung thư, bệnh tim và tiểu đường thấp hơn.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn A, câu 6 khẳng định trùng khớp ý với phát biểu trong câu hỏi (decrease the likelihood = a lower probability; dying from = death from; certain serious illnesses = cancer, heart disease and diabetes)."
+            },
+            {
+              "number": 3,
+              "prompt": "Capsaicin is found in the same place in all chilli varieties.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 2",
+              "evidenceQuote": "Inside a chilli there are yellow stalks that attach the seeds to its sides and in many types of chilli, this is the location of capsaicin, but there are several varieties where this is not the case.",
+              "evidenceTranslationVi": "Bên trong quả ớt có những cuống màu vàng gắn hạt vào các mặt của nó và ở nhiều loại ớt, đây là vị trí của capsaicin, nhưng có một số loại không như vậy.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn B, câu 2 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra (in the same place in all chilli varieties (ở cùng một vị trí trong tất cả các loại ớt) >< there are several varieties where this is not the case (có một số loại không phải như vậy) -> Mâu thuẫn.)."
+            },
+            {
+              "number": 4,
+              "prompt": "Habanero peppers are the hottest known peppers.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 1",
+              "evidenceQuote": "For thousands of years, humans have taken painful pleasure from adding chillies (also known as peppers or chilli peppers) to their food.",
+              "evidenceTranslationVi": "Trong hàng ngàn năm, con người đã có được niềm vui đau đớn khi thêm ớt (còn được gọi là ớt hoặc ớt) vào thức ăn của mình.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn A, câu 1 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 5,
+              "prompt": "Pure capsaicin is licensed for use in food products in the European Union.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 7",
+              "evidenceQuote": "Pure capsaicin can be bought on the internet, though its use as a food additive is banned in the European Union.",
+              "evidenceTranslationVi": "Capsaicin nguyên chất có thể được mua trên mạng, mặc dù việc sử dụng nó làm phụ gia thực phẩm bị cấm ở Liên minh Châu Âu.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn B, câu 7 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra (is licensed for use (được cấp phép sử dụng) >< is banned (bị cấm) -> Mâu thuẫn.)."
+            },
+            {
+              "number": 6,
+              "prompt": "The Aztecs were the first to use capsaicin as a pain killer.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 9",
+              "evidenceQuote": "The Aztecs also put chilli on their teeth to kill toothache pain, and the use of capsaicin as a pain reliever continues today.",
+              "evidenceTranslationVi": "Người Aztec cũng cho ớt lên răng để giảm đau răng và việc sử dụng capsaicin làm thuốc giảm đau vẫn tiếp tục cho đến ngày nay.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn B, câu 9 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 7,
+              "prompt": "Birds have different physical responses to eating chillies to those of mammals.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 3",
+              "evidenceQuote": "'They can eat chillies like popcorn and they don't feel the heat.' In this way, Tewksbury suggests, the plant evolved to repel animals that might crush its seeds with their teeth, but not ones that would help spread them.",
+              "evidenceTranslationVi": "'Họ có thể ăn ớt như bỏng ngô và không cảm thấy nóng.' Theo cách này, Tewksbury gợi ý, thực vật đã tiến hóa để xua đuổi những động vật có thể dùng răng nghiền nát hạt của nó, chứ không phải những loài giúp chúng phát tán.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn C, câu 3 khẳng định trùng khớp ý với phát biểu trong câu hỏi (different physical responses = experience the same sensation but that birds do not)."
+            }
+          ]
+        },
+        {
+          "id": "v7-t11-p1-g2",
+          "questionRange": [
+            8,
+            13
+          ],
+          "type": "table_completion",
+          "instruction": "Questions 8–13",
+          "table": {
+            "headers": [
+              "Complete the notes below.",
+              ""
+            ],
+            "rows": [
+              [
+                "Write ONE WORD ONLY from the passage for each answer.",
+                ""
+              ],
+              [
+                "The health benefits of chilli",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "Using chilli to fight bacteria",
+                ""
+              ],
+              [
+                "",
+                "chilli's ability to fight germs was very significant before the invention o"
+              ],
+              [
+                "",
+                "of {{blank:8}}"
+              ],
+              [
+                "",
+                "it was thought that chilli was eaten because it causes bodies to produce o"
+              ],
+              [
+                "",
+                "{{blank:9}} which reduces body heat"
+              ],
+              [
+                "",
+                "books of {{blank:10}} from around the world show chilli is more o"
+              ],
+              [
+                "",
+                "commonly used in certain geographical areas"
+              ],
+              [
+                "",
+                "chilli is most likely to be used in valleys with a lot of humidity o"
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "Using chilli for weight loss",
+                ""
+              ],
+              [
+                "",
+                "the University of Wyoming found that chilli raised the mice's {{blank:11}} o"
+              ],
+              [
+                "",
+                "the University of Adelaide found that receptors in the {{blank:12}} react o"
+              ],
+              [
+                "",
+                "with chilli to indicate when you've had enough to eat"
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "Using chilli as pain relief",
+                ""
+              ],
+              [
+                "",
+                "it reacts with the part of our brain that notices a difference in o"
+              ],
+              [
+                "",
+                "temperature"
+              ],
+              [
+                "",
+                "the sensation we have when eating chilli is similar to the one we have o"
+              ],
+              [
+                "",
+                "after {{blank:13}}"
+              ]
+            ]
+          },
+          "questions": [
+            {
+              "number": 8,
+              "prompt": "| of {{blank:8}}",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "refrigeration"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 2",
+              "evidenceQuote": "This was of great value in the days before refrigeration, when, particularly in the tropics, people were vulnerable to bacteria that could harm them directly or cause their food to spoil.",
+              "evidenceTranslationVi": "Điều này có giá trị rất lớn trong thời kỳ chưa có tủ lạnh, khi mà đặc biệt là ở vùng nhiệt đới, con người dễ bị vi khuẩn tấn công, có thể gây hại trực tiếp hoặc khiến thức ăn của họ bị hư hỏng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 2 để điền \"refrigeration\" (before the invention of = in the days before)."
+            },
+            {
+              "number": 9,
+              "prompt": "| {{blank:9}} which reduces body heat",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "sweat"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 6",
+              "evidenceQuote": "People in hot countries are said to use more chilli because it makes them generate a lot of sweat, which cools them down.",
+              "evidenceTranslationVi": "Người dân ở các nước nóng được cho là sử dụng nhiều ớt hơn vì nó khiến họ tiết ra nhiều mồ hôi, làm mát cơ thể.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 6 để điền \"sweat\" (produce = generate; reduces body heat = cools them down)."
+            },
+            {
+              "number": 10,
+              "prompt": "| books of {{blank:10}} from around the world show chilli is more o",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "recipes"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 8",
+              "evidenceQuote": "By studying books filled with recipes from all over the world, the researchers found that spices including chilli were more likely to be used close to the equator, and were also used more in valleys with high levels of humidity than on high plateaux.",
+              "evidenceTranslationVi": "Bằng cách nghiên cứu những cuốn sách chứa đầy công thức nấu ăn từ khắp nơi trên thế giới, các nhà nghiên cứu phát hiện ra rằng các loại gia vị bao gồm ớt thường được sử dụng ở gần xích đạo và cũng được sử dụng nhiều hơn ở các thung lũng có độ ẩm cao so với trên cao nguyên.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 8 để điền \"recipes\" (books of = books filled with)."
+            },
+            {
+              "number": 11,
+              "prompt": "| the University of Wyoming found that chilli raised the mice's {{blank:11}} o",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "metabolism"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 2",
+              "evidenceQuote": "Research conducted by the University of Wyoming on mice that had been fed a high-fat diet found that the substance increased the metabolism of the animals, causing them to bum more energy and preventing weight gain.",
+              "evidenceTranslationVi": "Nghiên cứu do Đại học Wyoming thực hiện trên những con chuột được cho ăn chế độ ăn nhiều chất béo cho thấy chất này làm tăng quá trình trao đổi chất của động vật, khiến chúng tiêu tốn nhiều năng lượng hơn và ngăn ngừa tăng cân.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 2 để điền \"metabolism\" (raised = increased)."
+            },
+            {
+              "number": 12,
+              "prompt": "| the University of Adelaide found that receptors in the {{blank:12}} react o",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "stomach"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 3",
+              "evidenceQuote": "In another study, researchers at the University of Adelaide found that certain receptors that interact with capsaicin and are located inside the stomach play a role in sensing when you are full.",
+              "evidenceTranslationVi": "Trong một nghiên cứu khác, các nhà nghiên cứu tại Đại học Adelaide phát hiện ra rằng một số thụ thể nhất định tương tác với capsaicin và nằm bên trong dạ dày đóng vai trò cảm nhận khi bạn no.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 3 để điền \"stomach\" (indicate when you've had enough to eat = sensing when you are full)."
+            },
+            {
+              "number": 13,
+              "prompt": "| after {{blank:13}}",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "exercise"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 6",
+              "evidenceQuote": "This process involves the release of endorphins, which can give us a ' rush' not unlike the feeling we have when we have done some exercise.",
+              "evidenceTranslationVi": "Quá trình này liên quan đến việc giải phóng endorphin, chất này có thể mang lại cho chúng ta cảm giác 'tăng tốc' không giống như cảm giác mà chúng ta có khi thực hiện một số bài tập.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 6 để điền \"exercise\" (similar to = not unlike)."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "STRESS LESS",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "How busy is too busy? For some it means sometimes having to have a short lunch; for others it may mean missing lunch altogether. For a few, it is not being able to take a day off once a month. Then there is a group of people for whom working every evening and weekend is normal, and feeling stressed is taken for granted. For most senior executives, workloads swing between extremely busy and frenzied. Neil Plumridge, vice-president of a management consultancy company, says that his weeks vary from a 'manageable' 45 hours to 80 hours, but average 60 hours.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "Three signs warn Plumridge about his workload: sleep, scheduling and family. He knows he is doing too much when he gets less than six hours' sleep for three consecutive nights, when he is constantly having to reschedule appointments, and when he misses a family birthday or anniversary. 'Then', he says, 'I know things are out of control'. Plumridge states that stress is often caused by his having unrealistic expectations of himself. 'I'll promise a client that I'll do something tomorrow, and then I'll promise another client that I'll do the same thing, when I know it's not going to happen. I could have said: \"Why don't I give that to you in 48 hours?\" The client wouldn't care.' C Over-committing is something people experience as an individual problem. However, new research indicates that people may be designed to over-commit. A study in the JOURNAL OF EXPERIMENTAL PSYCHOLOGY shows that people always believe that they will be less busy in the future. This is a misapprehension according to the authors of the report, Gal Zauberman of the University of North Carolina and John Lynch of Duke University. 'On average, an individual will be just as busy two weeks or a month from now as he or she is today. But that is not how it appears in everyday life,' they say. 'People make commitments long in advance that they would never make if the same commitments required immediate action. They discount future time investments relatively steeply.' D Being 'too busy' is highly subjective, but for any individual there are some concrete signs of stress: disturbed sleep and declining mental and physical health are the most common examples. Figures for National Workers' Compensation (insurance against injury caused by work) show that stress causes the most lost time of any workplace injury: employees suffering stress are absent from work for an average of 16.6 weeks. The effects of stress are also expensive. The Australian Government insurer reports that in 2003-2004, claims for stress-related psychological injury accounted for 7% of insurance claims, but almost 27% of the amount paid out in claim payments.",
+          "label": "B"
+        },
+        {
+          "id": "E",
+          "text": "Experts say the key to dealing with stress is not to focus on relief – a game of golf or a massage – but to reassess workloads. Neil Plumridge says he makes it a priority to work out what has to change: that might mean allocating extra staff to a job, allowing more time, or changing expectations. He also relies on the advice of colleagues, saying that his peers coach each other on business problems: 'Just a fresh pair of eyes over an issue can help,' he states.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "Executive stress is not confined to big organisations. Vanessa Stoykov has been running her own advertising agency and public relations business for seven years. Her company has grown so fast that it appeared on the BUSINESS REVIEW WEEKLY 'Fast 100' list of fastest-growing small enterprises in 2004, just after Stoykov had her first child. In 2005, revenue was projected to double to $2.4 million. She had just had her second child. With a fast-growing business and two small children, Stoykov says she has mastered the art of caring for children, typing, and talking on the phone at the same time. But, unlike many others, she appears to thrive on the mental stimulation of running her own business, despite the stress.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "Jan Elsner, a psychologist who specialises in executive coaching, says that doing well on a demanding workload is typical of senior executives. Some people work best with high-adrenaline periods followed by quieter times, while others thrive under sustained pressure. Elsner's practice is based on a movement known as positive psychology, a school of thought that argues that positive experiences – feeling engaged and challenged, for example – do not balance out negative experiences such as stress; instead they help people increase their resilience over time. Elsner says that many of the senior business people she coaches are increasingly relying more on regulating stress through methods such as meditation. She points to research showing that meditation can alter the biochemistry of the brain and the way that brains and bodies react to stress.",
+          "label": "G"
+        },
+        {
+          "id": "H",
+          "text": "Some experts believe there is too much emphasis on treating job stress as an individual problem. Tony LaMontagne, of the University of Melbourne, says that while personality traits do have some effect on stress, it is systemic stressors – qualities of job roles and organisations themselves – that have a far greater effect. His recent research shows that the major predictor of stress is the level of job control a person has. The best type of job combines challenging work with high autonomy. The worst jobs combine challenging work and low control. People with demanding jobs but little autonomy have up to four times the probability of depression and more than double the risk of heart attack.",
+          "label": "H"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v7-t11-p2-g1",
+          "questionRange": [
+            14,
+            18
+          ],
+          "type": "matching_features",
+          "instruction": "Look at the following statements (Questions 14-18) and the list of people below. Match each statement with the correct person, A-D. Choose the correct letter, A-D, in boxes 14-18. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Neil Plumridge"
+            },
+            {
+              "key": "B",
+              "text": "Gal Zauberman and John Lynch"
+            },
+            {
+              "key": "C",
+              "text": "Jan Elsner"
+            },
+            {
+              "key": "D",
+              "text": "Tony LaMontagne"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "High-level workers tend to react positively to stress.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Neil Plumridge"
+                },
+                {
+                  "key": "B",
+                  "text": "Gal Zauberman and John Lynch"
+                },
+                {
+                  "key": "C",
+                  "text": "Jan Elsner"
+                },
+                {
+                  "key": "D",
+                  "text": "Tony LaMontagne"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 1",
+              "evidenceQuote": "Jan Elsner, a psychologist who specialises in executive coaching, says that doing well on a demanding workload is typical of senior executives.",
+              "evidenceTranslationVi": "Jan Elsner, nhà tâm lý học chuyên về huấn luyện điều hành, nói rằng làm tốt khối lượng công việc đòi hỏi khắt khe là điển hình của các giám đốc điều hành cấp cao.",
+              "explanationVi": "Thông tin tại Đoạn G, câu 1 khớp trực tiếp với lựa chọn C (High-level workers = senior executives; react positively to stress = doing well on a demanding workload); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 15,
+              "prompt": "Stress levels are increased by trying to please customers.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Neil Plumridge"
+                },
+                {
+                  "key": "B",
+                  "text": "Gal Zauberman and John Lynch"
+                },
+                {
+                  "key": "C",
+                  "text": "Jan Elsner"
+                },
+                {
+                  "key": "D",
+                  "text": "Tony LaMontagne"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 5",
+              "evidenceQuote": "'I'll promise a client that I'll do something tomorrow, and then I'll promise another client that I'll do the same thing, when I know it's not going to happen.",
+              "evidenceTranslationVi": "'Tôi sẽ hứa với khách hàng rằng tôi sẽ làm điều gì đó vào ngày mai, và sau đó tôi sẽ hứa với khách hàng khác rằng tôi sẽ làm điều tương tự, khi tôi biết điều đó sẽ không xảy ra.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 5 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 16,
+              "prompt": "Support from other workers may relieve stress.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Neil Plumridge"
+                },
+                {
+                  "key": "B",
+                  "text": "Gal Zauberman and John Lynch"
+                },
+                {
+                  "key": "C",
+                  "text": "Jan Elsner"
+                },
+                {
+                  "key": "D",
+                  "text": "Tony LaMontagne"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 3",
+              "evidenceQuote": "He also relies on the advice of colleagues, saying that his peers coach each other on business problems: 'Just a fresh pair of eyes over an issue can help,' he states.",
+              "evidenceTranslationVi": "Anh ấy cũng dựa vào lời khuyên của các đồng nghiệp, nói rằng các đồng nghiệp của anh ấy huấn luyện lẫn nhau về các vấn đề kinh doanh: 'Chỉ cần một đôi mắt mới về một vấn đề có thể giúp ích', anh ấy nói.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 3 khớp trực tiếp với lựa chọn A (Support from other workers = advice of colleagues, his peers coach each other; may relieve stress = can help); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 17,
+              "prompt": "Lack of independence at work is often responsible for stress.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Neil Plumridge"
+                },
+                {
+                  "key": "B",
+                  "text": "Gal Zauberman and John Lynch"
+                },
+                {
+                  "key": "C",
+                  "text": "Jan Elsner"
+                },
+                {
+                  "key": "D",
+                  "text": "Tony LaMontagne"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 3",
+              "evidenceQuote": "His recent research shows that the major predictor of stress is the level of job control a person has.",
+              "evidenceTranslationVi": "Nghiên cứu gần đây của ông cho thấy yếu tố chính dự đoán mức độ căng thẳng là mức độ kiểm soát công việc của một người.",
+              "explanationVi": "Thông tin tại Đoạn H, câu 3 khớp trực tiếp với lựa chọn D (Lack of independence at work = low control, little autonomy; is often responsible for stress = the major predictor of stress); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 18,
+              "prompt": "Workers commonly expect their workloads to lessen over time.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Neil Plumridge"
+                },
+                {
+                  "key": "B",
+                  "text": "Gal Zauberman and John Lynch"
+                },
+                {
+                  "key": "C",
+                  "text": "Jan Elsner"
+                },
+                {
+                  "key": "D",
+                  "text": "Tony LaMontagne"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 8",
+              "evidenceQuote": "A study in the JOURNAL OF EXPERIMENTAL PSYCHOLOGY shows that people always believe that they will be less busy in the future.",
+              "evidenceTranslationVi": "Một nghiên cứu trên tạp chí TÂM LÝ THỰC NGHIỆM cho thấy mọi người luôn tin rằng họ sẽ ít bận rộn hơn trong tương lai.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 8 khớp trực tiếp với lựa chọn B (Workers = people; expect = believe that; workloads to lessen over time = be less busy in the future); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v7-t11-p2-g2",
+          "questionRange": [
+            19,
+            21
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 19,
+              "prompt": "Which of the following is NOT mentioned by Neil Plumridge as an indication that his workload is too heavy?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "an inability to keep to his schedule"
+                },
+                {
+                  "key": "B",
+                  "text": "inattention to family celebrations"
+                },
+                {
+                  "key": "C",
+                  "text": "a lack of concentration on a task"
+                },
+                {
+                  "key": "D",
+                  "text": "a period of insufficient sleep"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 6",
+              "evidenceQuote": "Neil Plumridge, vice-president of a management consultancy company, says that his weeks vary from a 'manageable' 45 hours to 80 hours, but average 60 hours.",
+              "evidenceTranslationVi": "Neil Plumridge, phó chủ tịch một công ty tư vấn quản lý, nói rằng các tuần của ông dao động từ 45 giờ “có thể quản lý được” đến 80 giờ, nhưng trung bình là 60 giờ.",
+              "explanationVi": "Thông tin tại Đoạn A, câu 6 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 20,
+              "prompt": "Which method of lessening work stress is NOT suggested by Neil Plumridge?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "rethinking ideas of what can be achieved"
+                },
+                {
+                  "key": "B",
+                  "text": "extending the deadline for completing the task"
+                },
+                {
+                  "key": "C",
+                  "text": "using more workers on a project"
+                },
+                {
+                  "key": "D",
+                  "text": "taking more time off for sport or other recreation"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 2",
+              "evidenceQuote": "Neil Plumridge says he makes it a priority to work out what has to change: that might mean allocating extra staff to a job, allowing more time, or changing expectations.",
+              "evidenceTranslationVi": "Neil Plumridge cho biết ông ưu tiên tìm ra những gì cần thay đổi: điều đó có thể có nghĩa là phân bổ thêm nhân viên cho một công việc, cho phép có thêm thời gian hoặc thay đổi kỳ vọng.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 2 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 21,
+              "prompt": "According to Jan Elsner, meditation offers a method of",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "taking a worker's mind off his troubles."
+                },
+                {
+                  "key": "B",
+                  "text": "changing physical response to stress."
+                },
+                {
+                  "key": "C",
+                  "text": "resting more effectively."
+                },
+                {
+                  "key": "D",
+                  "text": "encouraging executives to take breaks."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 5",
+              "evidenceQuote": "She points to research showing that meditation can alter the biochemistry of the brain and the way that brains and bodies react to stress.",
+              "evidenceTranslationVi": "Cô chỉ ra nghiên cứu cho thấy thiền có thể thay đổi quá trình sinh hóa của não cũng như cách não và cơ thể phản ứng với căng thẳng.",
+              "explanationVi": "Thông tin tại Đoạn G, câu 5 khớp trực tiếp với lựa chọn B (changing physical response to stress = alter... the way that... bodies react to stress.); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v7-t11-p2-g3",
+          "questionRange": [
+            22,
+            26
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+          "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bodyText": "Stress: its effects and how to reduce it\nStatistics on workers' compensation show that people take more time off work\ndue to stress than for any other {{blank:22}} at work. On average, workers who\ntake time off because of stress stay away for {{blank:23}}. This absence comes at\na high price – while the number of insurance claims due to stress amount to\nonly {{blank:24}} of the total, they account for a much higher proportion of the\ncost of claims payments.\nExperts believe that seeking to relieve stress through physical therapies such\nas sport or {{blank:25}} may be less effective than simply reviewing your\n{{blank:26}}.",
+          "questions": [
+            {
+              "number": 22,
+              "prompt": "Stress: its effects and how to reduce it\nStatistics on workers' compensation show that people take more time off work\ndue to stress than for any other {{blank:22}} at work.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "injury"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 14",
+              "evidenceQuote": "Figures for National Workers' Compensation (insurance against injury caused by work) show that stress causes the most lost time of any workplace injury: employees suffering stress are absent from work for an average of 16.6 weeks.",
+              "evidenceTranslationVi": "Số liệu về Bồi thường cho Người lao động Quốc gia (bảo hiểm chống lại thương tích do công việc gây ra) cho thấy căng thẳng gây ra tình trạng mất thời gian nhiều nhất trong số các chấn thương tại nơi làm việc: nhân viên bị căng thẳng phải nghỉ làm trung bình 16,6 tuần.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 14 để điền \"injury\" (take more time off work = causes the most lost time)."
+            },
+            {
+              "number": 23,
+              "prompt": "On average, workers who\ntake time off because of stress stay away for {{blank:23}}.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "16.6 weeks"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 14",
+              "evidenceQuote": "Figures for National Workers' Compensation (insurance against injury caused by work) show that stress causes the most lost time of any workplace injury: employees suffering stress are absent from work for an average of 16.6 weeks.",
+              "evidenceTranslationVi": "Số liệu về Bồi thường cho Người lao động Quốc gia (bảo hiểm chống lại thương tích do công việc gây ra) cho thấy căng thẳng gây ra tình trạng mất thời gian nhiều nhất trong số các chấn thương tại nơi làm việc: nhân viên bị căng thẳng phải nghỉ làm trung bình 16,6 tuần.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 14 để điền \"16.6 weeks\" (stay away for = are absent from work for)."
+            },
+            {
+              "number": 24,
+              "prompt": "This absence comes at\na high price – while the number of insurance claims due to stress amount to\nonly {{blank:24}} of the total, they account for a much higher proportion of the\ncost of claims payments.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "7%"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 16",
+              "evidenceQuote": "The Australian Government insurer reports that in 2003-2004, claims for stress-related psychological injury accounted for 7% of insurance claims, but almost 27% of the amount paid out in claim payments.",
+              "evidenceTranslationVi": "Công ty bảo hiểm của Chính phủ Úc báo cáo rằng trong năm 2003-2004, các yêu cầu bồi thường về chấn thương tâm lý liên quan đến căng thẳng chiếm 7% số yêu cầu bồi thường bảo hiểm, nhưng gần 27% số tiền được chi trả trong các khoản thanh toán yêu cầu bồi thường.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 16 để điền \"7%\" (amount to = accounted for)."
+            },
+            {
+              "number": 25,
+              "prompt": "Experts believe that seeking to relieve stress through physical therapies such\nas sport or {{blank:25}} may be less effective than simply reviewing your\n{{blank:26}}.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "a massage"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 1",
+              "evidenceQuote": "Experts say the key to dealing with stress is not to focus on relief – a game of golf or a massage – but to reassess workloads.",
+              "evidenceTranslationVi": "Các chuyên gia cho rằng chìa khóa để giải quyết căng thẳng không phải là tập trung vào việc giải tỏa – một trận gôn hay một buổi mát-xa – mà là đánh giá lại khối lượng công việc.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 1 để điền \"a massage\" (sport = a game of golf)."
+            },
+            {
+              "number": 26,
+              "prompt": "Experts believe that seeking to relieve stress through physical therapies such\nas sport or {{blank:25}} may be less effective than simply reviewing your\n{{blank:26}}.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "workloads"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 1",
+              "evidenceQuote": "Experts say the key to dealing with stress is not to focus on relief – a game of golf or a massage – but to reassess workloads.",
+              "evidenceTranslationVi": "Các chuyên gia cho rằng chìa khóa để giải quyết căng thẳng không phải là tập trung vào việc giải tỏa – một trận gôn hay một buổi mát-xa – mà là đánh giá lại khối lượng công việc.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 1 để điền \"workloads\" (reviewing = reassess)."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "Robert Louis Stevenson",
+      "subtitle": "The writer of some of the best-known stories in the English language, including",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "Treasure Island and The Strange Case of Dr. Jekyll and Mr. Hyde"
+        },
+        {
+          "id": "P2",
+          "text": "A It is more than 100 years since the death of the Scottish writer Robert Louis Stevenson on the South Pacific Island of Samoa, and it seems that time has not been kind to Stevenson's memory. Immediately after his death, his family and friends set to work to fashion the legend of Robert Louis Stevenson or RLS, as he became known one of the few writers familiar from his initials alone. Subsequent works of biography then turned him into a writer of almost religious importance. One example was literary critic Balfour, who in 1901 portrayed Stevenson's family as ministering angels to the dying genius during his final illness. Similarly, the biographer Crouch absurdly overstated Stevenson's significance by placing him in the same company as those most revered names in English literature: Shakespeare and Keats. The reaction to this nonsense was a number of highly critical assessments of Stevenson's legacy in the 1920s."
+        },
+        {
+          "id": "B",
+          "text": "Normally, the critical pendulum can be relied on to swing back again, but there are several aspects of Stevenson's work that have, until recently, acted against a more balanced appraisal. First is the allegation that Stevenson was a mere master of linguistic fireworks, who lacked moral depth. Some critics accused him of being a literary charlatan, of juggling words very prettily to strike effects which overawed an ignorant public, and served to distract from the inadequacy of his ideas.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "Then there has long been a prejudice against the adventure story as the proper medium for deep moral seriousness, a prejudice which is still extremely influential today. It seems that we can accept that an adventure film can successfully express profound moral truths, but we reject the same idea for a book. The absurdity of this becomes apparent when we think of writers like Joseph Conrad and Graham Greene, but it is no use pretending that this bias against adventure stories is not part of our high culture. A further problem is that Stevenson has often not found favour in the land of his birth because his conservatism so often collides with the strong radical tradition in Scotland. His many escapist stories and preference for living abroad have led to accusations that he camouflaged Scotland's health problems. Lastly the high adventure of Stevenson's own lifestyle has sometimes obscured his output. His globe- trotting, and above all the final phase of his life in Samoa, tended to make his own life a greater story than any he could devise. This was precisely what his friends feared would happen towards the end of his short life: his art might be overwhelmed by the drama of life in Samoa.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "One consequence of this has been that Stevenson's influence on other writers has too often been neglected. The writer and poet Oscar Wilde was deeply influenced by Stevenson, even though he declared that Stevenson would have produced better work if he had lived in London rather than Samoa. Stevenson tends to stick in the throat even of those writers who would like to spit him out, such as Shaw, who claimed to have learned from him that the romantic hero is always mocked by reality. Likewise, the writer Galsworthy, who began as a determined critic, later changed his mind and said that the superiority of Stevenson over the novelist Hardy was that Stevenson was all life and Hardy all death. The influence on the novelist Chesterton would also repay detailed study, for it was through him that Stevenson has managed to cross the ages, emerging as an influence on the modernist movement and our own contemporary Latin American school of 'magical realism'.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "When making an assessment of his life and work one question must inevitably be asked: was Robert Louis Stevenson Scotland's greatest writer of English prose? For most commentators this honour falls to Sir Walter Scott, author of Ivanhoe among many other classic novels and it is true that in terms of craftsmanship, precision and the ability to minutely regulate language to create the desired effect, Scott takes the Prize. However, this is not the something at all as inherent talent: by way of comparison one may take the example of the two great Russian composers Shostakovich and Prokofiev, of whom the former had learned more precise skills of execution but the latter's intrinsic genius was greater, and so it seems to be with Scott and Stevenson. Admittedly, Scott's detailed style does permit his stories to explore levels of tragedy that are beyond Stevenson's reach, but in this regard they have the musty smell of the museum, somehow artificial and removed from modern day reality. On the other hand, Stevenson's skill with plotting and narrative give his books a timeless quality, so that they still live today. And Stevenson was also the shrewder judge of behaviour and psychology. For example, his compelling descriptions of a man with a split personality in The Strange Case of Dr. Jekyll and Mr. Hyde have proved so accessible and accurate that the expression 'Jekyll and Hyde' has entered common English usage. Even if we do not see a revival of critical interest in this great Scottish writer, it is to be hoped that readers go back to Robert Louis Stevenson's magnificent stories and reassess this neglected genius.",
+          "label": "E"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v7-t11-p3-g1",
+          "questionRange": [
+            27,
+            31
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "In the opinion of the writer, the biographers Balfour and Crouch",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "understated the role played by Stevenson's family"
+                },
+                {
+                  "key": "B",
+                  "text": "misunderstood Stevenson's religious beliefs"
+                },
+                {
+                  "key": "C",
+                  "text": "overestimated other writers' influence on Stevenson"
+                },
+                {
+                  "key": "D",
+                  "text": "elevated Stevenson above his true status as a writer"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 3",
+              "evidenceQuote": "Subsequent works of biography then turned him into a writer of almost religious importance.",
+              "evidenceTranslationVi": "Các tác phẩm tiểu sử tiếp theo sau đó đã biến ông thành một nhà văn có tầm quan trọng gần như về mặt tôn giáo.",
+              "explanationVi": "Thông tin tại Đoạn 2, câu 3 khớp trực tiếp với lựa chọn D (elevated... above his true status = of almost religious importance, absurdly overstated... significance); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 28,
+              "prompt": "What point does the writer make about Stevenson in the second paragraph?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The public judged him more fairly than the critics."
+                },
+                {
+                  "key": "B",
+                  "text": "Recent criticism of him has been justified."
+                },
+                {
+                  "key": "C",
+                  "text": "Critics argued that his style covered up his faults."
+                },
+                {
+                  "key": "D",
+                  "text": "The ethical nature of his stories was often criticized."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 3",
+              "evidenceQuote": "Some critics accused him of being a literary charlatan, of juggling words very prettily to strike effects which overawed an ignorant public, and served to distract from the inadequacy of his ideas.",
+              "evidenceTranslationVi": "Một số nhà phê bình buộc tội anh ta là một lang băm văn học, tung hứng những từ ngữ rất hay để tạo ra hiệu ứng khiến công chúng thiếu hiểu biết phải kinh ngạc và nhằm mục đích đánh lạc hướng khỏi sự thiếu sót trong ý tưởng của anh ta.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 3 khớp trực tiếp với lựa chọn C (his style = juggling words very prettily; covered up his faults = served to distract from the inadequacy of his ideas); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 29,
+              "prompt": "According to the writer, the adventure story",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "is more appropriate for books than films."
+                },
+                {
+                  "key": "B",
+                  "text": "can be used by writers to tell moral stories."
+                },
+                {
+                  "key": "C",
+                  "text": "is more fashionable today than in the past."
+                },
+                {
+                  "key": "D",
+                  "text": "has been used by other writers but not Stevenson."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 2",
+              "evidenceQuote": "It seems that we can accept that an adventure film can successfully express profound moral truths, but we reject the same idea for a book.",
+              "evidenceTranslationVi": "Có vẻ như chúng ta có thể chấp nhận rằng một bộ phim phiêu lưu có thể thể hiện thành công những chân lý đạo đức sâu sắc, nhưng chúng ta lại bác bỏ quan điểm tương tự đối với một cuốn sách.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 2 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 30,
+              "prompt": "What point does the writer make about Stevenson and Scotland?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "His ideas contrasted with those of many Scots."
+                },
+                {
+                  "key": "B",
+                  "text": "He demonstrated great sympathy for Scotland's problems."
+                },
+                {
+                  "key": "C",
+                  "text": "He was not considered a true Scot as he was not born there."
+                },
+                {
+                  "key": "D",
+                  "text": "His unflattering stories about Scotland angered many Scots."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 4",
+              "evidenceQuote": "A further problem is that Stevenson has often not found favour in the land of his birth because his conservatism so often collides with the strong radical tradition in Scotland.",
+              "evidenceTranslationVi": "Một vấn đề nữa là Stevenson thường không được ưu ái ở quê hương mình vì tính bảo thủ của ông thường xung đột với truyền thống cấp tiến mạnh mẽ ở Scotland.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 4 khớp trực tiếp với lựa chọn A (His ideas contrasted with = his conservatism... collides with; those of many Scots = the strong radical tradition in Scotland); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 31,
+              "prompt": "According to the writer, Stevenson's own lifestyle",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "was envied by his friends."
+                },
+                {
+                  "key": "B",
+                  "text": "was responsible for his early death."
+                },
+                {
+                  "key": "C",
+                  "text": "attracted more attention than his books."
+                },
+                {
+                  "key": "D",
+                  "text": "did not prepare him for living in Samoa."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 7",
+              "evidenceQuote": "His globe- trotting, and above all the final phase of his life in Samoa, tended to make his own life a greater story than any he could devise.",
+              "evidenceTranslationVi": "Chuyến đi khắp thế giới của anh ấy, và trên hết là giai đoạn cuối cùng của cuộc đời anh ấy ở Samoa, có xu hướng biến cuộc đời anh ấy thành một câu chuyện vĩ đại hơn bất kỳ câu chuyện nào anh ấy có thể nghĩ ra.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 7 khớp trực tiếp với lựa chọn C (attracted more attention than his books = obscured his output, his own life a greater story); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v7-t11-p3-g2",
+          "questionRange": [
+            32,
+            35
+          ],
+          "type": "ynng",
+          "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "number": 32,
+              "prompt": "Although Oscar Wilde admired Stevenson's work, he believed Stevenson could have written something better.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 2",
+              "evidenceQuote": "The writer and poet Oscar Wilde was deeply influenced by Stevenson, even though he declared that Stevenson would have produced better work if he had lived in London rather than Samoa.",
+              "evidenceTranslationVi": "Nhà văn và nhà thơ Oscar Wilde bị ảnh hưởng sâu sắc bởi Stevenson, mặc dù ông tuyên bố rằng Stevenson sẽ tạo ra tác phẩm hay hơn nếu ông sống ở London thay vì Samoa.",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn D, câu 2 hoàn toàn trùng với nhận định trong câu hỏi (admired = was deeply influenced by; could have written something better = would have produced better work)."
+            },
+            {
+              "number": 33,
+              "prompt": "Stevenson encouraged Oscar Wilde to start writing.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 2",
+              "evidenceQuote": "The writer and poet Oscar Wilde was deeply influenced by Stevenson, even though he declared that Stevenson would have produced better work if he had lived in London rather than Samoa.",
+              "evidenceTranslationVi": "Nhà văn và nhà thơ Oscar Wilde bị ảnh hưởng sâu sắc bởi Stevenson, mặc dù ông tuyên bố rằng Stevenson sẽ tạo ra tác phẩm hay hơn nếu ông sống ở London thay vì Samoa.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn D, câu 2 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 34,
+              "prompt": "Galsworthy had greater respect for Hardy than Stevenson.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 4",
+              "evidenceQuote": "Likewise, the writer Galsworthy, who began as a determined critic, later changed his mind and said that the superiority of Stevenson over the novelist Hardy was that Stevenson was all life and Hardy all death.",
+              "evidenceTranslationVi": "Tương tự như vậy, nhà văn Galsworthy, người bắt đầu là một nhà phê bình kiên quyết, sau đó đã thay đổi quyết định và nói rằng sự vượt trội của Stevenson so với tiểu thuyết gia Hardy là Stevenson là tất cả sự sống và Hardy là tất cả cái chết.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn D, câu 4 lập luận ngược lại với nhận định của câu hỏi (greater respect for... than... (tôn trọng hơn) >< the superiority of Stevenson over the novelist Hardy (sự vượt trội của Stevenson so với Hardy) -> Mâu thuẫn.)."
+            },
+            {
+              "number": 35,
+              "prompt": "More research is needed regarding Stevenson's influence on Chesterton.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 5",
+              "evidenceQuote": "The influence on the novelist Chesterton would also repay detailed study, for it was through him that Stevenson has managed to cross the ages, emerging as an influence on the modernist movement and our own contemporary Latin American school of 'magical realism'.",
+              "evidenceTranslationVi": "Ảnh hưởng đối với tiểu thuyết gia Chesterton cũng sẽ mang lại kết quả nghiên cứu chi tiết, vì chính nhờ ông mà Stevenson đã vượt qua nhiều thời đại, nổi lên như một người có ảnh hưởng đến phong trào chủ nghĩa hiện đại và trường phái 'chủ nghĩa hiện thực huyền diệu' đương đại của Mỹ Latinh của chúng ta.",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn D, câu 5 hoàn toàn trùng với nhận định trong câu hỏi (More research is needed = would also repay detailed study)."
+            }
+          ]
+        },
+        {
+          "id": "v7-t11-p3-g3",
+          "questionRange": [
+            36,
+            40
+          ],
+          "type": "summary_box",
+          "instruction": "Complete the summary using the list of words, A-I, below.",
+          "options": [
+            {
+              "key": "A",
+              "text": "natural ability"
+            },
+            {
+              "key": "B",
+              "text": "critical acclaim"
+            },
+            {
+              "key": "C",
+              "text": "humour"
+            },
+            {
+              "key": "D",
+              "text": "romance"
+            },
+            {
+              "key": "E",
+              "text": "colorful language"
+            },
+            {
+              "key": "F",
+              "text": "technical control"
+            },
+            {
+              "key": "G",
+              "text": "story telling"
+            },
+            {
+              "key": "H",
+              "text": "depth"
+            },
+            {
+              "key": "I",
+              "text": "human nature"
+            }
+          ],
+          "bodyText": "Robert Louis Stevenson and Sir Walter Scott\nOpinions differ as to whether Robert Louis Stevenson or Sir Walter Scott\nshould be considered Scotland's best writer. Scott had greater {{blank:36}} but\nStevenson had more {{blank:37}} and the same distinction can be made\nbetween the two composers Shostakovich and Prokofiev. It is true that\nScott's books showed more {{blank:38}} when it came to tragedy though in an\nold-fashioned\nway while Stevenson's books are still popular because of his {{blank:39}}.\nAnd Stevenson's understanding of {{blank:40}} has resulted in the widespread\nuse of an express from one of his books.",
+          "questions": [
+            {
+              "number": 36,
+              "prompt": "Scott had greater {{blank:36}} but\nStevenson had more {{blank:37}} and the same distinction can be made\nbetween the two composers Shostakovich and Prokofiev.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 2",
+              "evidenceQuote": "For most commentators this honour falls to Sir Walter Scott, author of Ivanhoe among many other classic novels and it is true that in terms of craftsmanship, precision and the ability to minutely regulate language to create the desired effect, Scott takes the Prize.",
+              "evidenceTranslationVi": "Đối với hầu hết các nhà bình luận, vinh dự này thuộc về Sir Walter Scott, tác giả của Ivanhoe trong số nhiều tiểu thuyết kinh điển khác và đúng là về mặt khéo léo, độ chính xác và khả năng điều chỉnh ngôn ngữ một cách tỉ mỉ để tạo ra hiệu ứng mong muốn, Scott đã giành được Giải thưởng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 2 để điền \"F\" (technical control = craftsmanship, precision and the ability to minutely regulate language)."
+            },
+            {
+              "number": 37,
+              "prompt": "Scott had greater {{blank:36}} but\nStevenson had more {{blank:37}} and the same distinction can be made\nbetween the two composers Shostakovich and Prokofiev.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 3",
+              "evidenceQuote": "However, this is not the something at all as inherent talent: by way of comparison one may take the example of the two great Russian composers Shostakovich and Prokofiev, of whom the former had learned more precise skills of execution but the latter's intrinsic genius was greater, and so it seems to be with Scott and Stevenson.",
+              "evidenceTranslationVi": "Tuy nhiên, đây hoàn toàn không phải là tài năng bẩm sinh: bằng cách so sánh, người ta có thể lấy ví dụ về hai nhà soạn nhạc vĩ đại người Nga Shostakovich và Prokofiev, những người mà người trước đã học được những kỹ năng thực hiện chính xác hơn nhưng thiên tài nội tại của người sau lại lớn hơn, và điều đó dường như cũng đúng với Scott và Stevenson.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 3 để điền \"A\" (natural ability = inherent talent)."
+            },
+            {
+              "number": 38,
+              "prompt": "It is true that\nScott's books showed more {{blank:38}} when it came to tragedy though in an\nold-fashioned\nway while Stevenson's books are still popular because of his {{blank:39}}.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "H"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 4",
+              "evidenceQuote": "Admittedly, Scott's detailed style does permit his stories to explore levels of tragedy that are beyond Stevenson's reach, but in this regard they have the musty smell of the museum, somehow artificial and removed from modern day reality.",
+              "evidenceTranslationVi": "Phải thừa nhận rằng, phong cách chi tiết của Scott cho phép những câu chuyện của anh khám phá những cấp độ bi kịch nằm ngoài tầm với của Stevenson, nhưng về mặt này, chúng mang mùi mốc của bảo tàng, bằng cách nào đó nhân tạo và khác xa với thực tế thời hiện đại.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 4 để điền \"H\" (more... when it came to tragedy = to explore levels of tragedy; depth = levels)."
+            },
+            {
+              "number": 39,
+              "prompt": "It is true that\nScott's books showed more {{blank:38}} when it came to tragedy though in an\nold-fashioned\nway while Stevenson's books are still popular because of his {{blank:39}}.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "G"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 5",
+              "evidenceQuote": "On the other hand, Stevenson's skill with plotting and narrative give his books a timeless quality, so that they still live today.",
+              "evidenceTranslationVi": "Mặt khác, kỹ năng xây dựng cốt truyện và tường thuật của Stevenson đã mang lại cho những cuốn sách của ông một chất lượng vượt thời gian, để chúng vẫn tồn tại cho đến ngày nay.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 5 để điền \"G\" (still popular = still live today; story telling = skill with plotting and narrative)."
+            },
+            {
+              "number": 40,
+              "prompt": "And Stevenson's understanding of {{blank:40}} has resulted in the widespread\nuse of an express from one of his books.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "I"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 7",
+              "evidenceQuote": "For example, his compelling descriptions of a man with a split personality in The Strange Case of Dr.",
+              "evidenceTranslationVi": "Ví dụ, những mô tả hấp dẫn của ông về một người đàn ông có tính cách khác nhau trong The Strange Case of Dr.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 7 để điền \"I\" (understanding of human nature = shrewder judge of behaviour and psychology; widespread use of an expression = the expression... has entered common English usage)."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

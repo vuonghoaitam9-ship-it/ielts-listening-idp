@@ -3,7 +3,8 @@ import { BookOpen, Database, Headphones, Home, Layers } from 'lucide-react';
 
 export function AppShell() {
   const navItems = [
-    { to: '/', label: 'Danh sách đề', icon: Home, end: true },
+    { to: '/', label: 'Listening', icon: Home, end: true },
+    { to: '/reading', label: 'Reading', icon: BookOpen, end: false },
     { to: '/dictation', label: 'Dictation', icon: Headphones, end: false },
     { to: '/vocab', label: 'Flashcard SM-2', icon: Layers, end: false },
     { to: '/data', label: 'Dữ liệu Vol 7–10', icon: Database, end: false },
@@ -19,10 +20,10 @@ export function AppShell() {
             </span>
             <div className="leading-tight">
               <div className="text-sm font-semibold tracking-tight text-white">
-                IELTS Listening Suite
+                IELTS Practice Suite
               </div>
               <div className="text-[11px] text-slate-300">
-                IDP Computer-Delivered · Vol 7–10
+                IDP Computer-Delivered · Listening &amp; Reading Vol 7–10
               </div>
             </div>
           </NavLink>
@@ -55,7 +56,7 @@ export function AppShell() {
 
       <footer className="border-t border-slate-200 bg-white py-3 px-4 text-xs text-slate-500">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
-          <span>IELTS Listening Practice — Original Audio Only (Vol 7–10)</span>
+          <span>IELTS Listening &amp; Reading Practice — Original Sources Only (Vol 7–10)</span>
           <span>Lưu trữ cục bộ IndexedDB &amp; LocalStorage · Tương thích GitHub Pages</span>
         </div>
       </footer>

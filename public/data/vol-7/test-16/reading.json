@@ -1,0 +1,1339 @@
+{
+  "vol": 7,
+  "test": 16,
+  "testId": "vol-7-test-16",
+  "title": "IELTS Reading Vol 7 - Test 16",
+  "sourceName": "VOL 7- ORIGINAL EXAMS/Reading/Test 11-16/Test 16.pdf",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "Charles Heaphy and the settlement of New Zealand How did the work of an English artist influence European migration to New",
+      "subtitle": "Zealand?",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "In the early 19th century, the London-based New Zealand Company was set up to promote the colonisation of the North and South Islands of New Zealand. It hoped to encourage British migrants to settle there and buy land. To do this, it needed to capture the public imagination, and used paintings and drawings of the landscape for this purpose. Eighteen was a young age for someone to become a hired artist and explorer for this kind of major land-trading company, but Charles Heaphy took on this role after 18 months producing technical drawings for a British railway company, and a further two years studying occasionally at the Royal Academy's school of painting. His family had possibly lacked the financial means to enable him to continue at the Academy, but he was luckily introduced to someone in the New Zealand Company. Heaphy was offered, and accepted, a position on 6 May 1839- threedays before the Company's ship, Tory, departed Plymouth for New Zealand with its cargo of settlers.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "From his diaries, we can see that Heaphy was enthusiastic about this role. In addition to employment and position, it offered him the chance to explore a relatively little-known country. There was, however, some urgency placed on the young artist, as a large consignment of settlers was due to leave England a few months later, and so he needed to explore the country before they departed as efficiently as he could. His record of his travels through New Zealand is less comprehensive than those of some contemporaries, but what he did end up committing to paper and in paintings left an often vivid impression of travelling through various parts of the country.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "As is so often the case, though, his high expectations were dampened on arrival. On first sighting New Zealand's South Island, Heaphy commented that the high mountain ranges seemed to leave no space for farming, and that the country in general hardly seemed worth settling. However, Heaphy hoped there might be other agricultural opportunities somewhere in the interior. Queen Chalotte Sound was the first place Heaphy visited. He remained unconvinced for years afterwards that it possessed the greatest habour in the country but accepted that the few patches of fertile ground in the area were insufficient for a major settlement. From there, he went to Port Nicholson and was clearly impressed.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "However, his interpretations of this and many of the other locations he travelled through in the country were possibly not as' neutral' as they may appear. His choice of scenes, and the organisation of elements in many of his paintings suggest that his artistic view of the landscape was perhaps restricted by the requirements placed on him by his employer, the New Zealand Company. Indeed, his paintings of Port Nicholson could easily be mistaken for paintings of English country villages.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "Although Heaphy travelled widely around New Zealand, his explorations frequently were superficial at best, and there is a sense from Heaphy's records that as he observed the North Island, he and his colleagues' minds had already been made up regarding the superiority of Port Nicholson. This was the site they nominated for the New Zealand Company's headquarters.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "As ever more New Zealand Company migrants were being tempted to settle in New Zealand, the pressing demand for land forced officials to reconsider regions that they had previously ruled out. Heaphy accompanied one journey north from Port Nicholson to assess what parts of the country might be useful to establish new townships and farming districts on. One of the first places Heaphy's team went to was Porirua. They found that the hills between Port Nicholson and Porirua were easy to cross and did not form the barrier they had expected, and were also of exceedingly rich and fertile soil, making them a potential location for agriculture. Heaphy depicted this possible place for settlement as having the beautiful appearance of a park, and thought most of it was fit for cultivation. Its harbour was also suitably deep.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "From there Heaphy sailed further north, eventually reaching the Manawatu Plains. His assessment was again favourable, praising the level aspect of the plains and the way they were watered by numerous rivers. These, he said, were deep enough for the passage of small ships. Writing to the New Zealand Company, he was confident that the countryside there was well adapted for settlement, but explained that this could only be accomplished by the growth of the population of places already colonised. In the future, he envisaged, the region would become a major agricultural centre.",
+          "label": "G"
+        },
+        {
+          "id": "H",
+          "text": "As for the Taranaki region, Heaphy was even more impressed. His artistic response, Mt Egmont from the Southward, shows an image of the mountain that became his most famous painting. Despite the work being highly symmetrical, and the proportions being exaggerated, Heaphy turned this scene into a great piece of artistic propaganda. The foreground, with its small cleared section above a sandy shore, would have looked inviting to any would-be farmer, as would the forest in the middle ground, suggesting a ready supply of trees which could be exploited for the construction of homes and ships. I Other beneficial aspects of living in New Zealand were discovered by Heaphy as he travelled around. He was convinced it had the best climate in the world, and claimed that since the formation of the first Company settlement in Port Nicholson, almost no-one there had fallen sick. Indeed, Heaphy boasted that during his explorations, he had slept outside in all seasons and had never experienced a day's illness, certainly not the respiratory kind common in congested English cities. He certainly concluded that for anyone migrating to New Zealand, good prospects awaited.",
+          "label": "H"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v7-t16-p1-g1",
+          "questionRange": [
+            1,
+            5
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Charles Heaphy gained employment with a railway company in Britain before he went to New Zealand.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 4",
+              "evidenceQuote": "Eighteen was a young age for someone to become a hired artist and explorer for this kind of major land-trading company, but Charles Heaphy took on this role after 18 months producing technical drawings for a British railway company, and a further two years studying occasionally at the Royal Academy's school of painting.",
+              "evidenceTranslationVi": "Mười tám tuổi là một người trẻ tuổi để trở thành họa sĩ và nhà thám hiểm được thuê cho loại công ty buôn bán đất đai lớn này, nhưng Charles Heaphy đã đảm nhận vai trò này sau 18 tháng tạo ra các bản vẽ kỹ thuật cho một công ty đường sắt của Anh và thỉnh thoảng học thêm hai năm nữa tại trường hội họa của Học viện Hoàng gia.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn A, câu 4 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 2,
+              "prompt": "Heaphy completed his studies at the Royal Academy.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 5",
+              "evidenceQuote": "His family had possibly lacked the financial means to enable him to continue at the Academy, but he was luckily introduced to someone in the New Zealand Company.",
+              "evidenceTranslationVi": "Gia đình anh có thể thiếu phương tiện tài chính để giúp anh tiếp tục theo học tại Học viện, nhưng anh may mắn được giới thiệu với một người nào đó ở Công ty New Zealand.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn A, câu 5 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 3,
+              "prompt": "Heaphy's written records were generally more detailed than his paintings of New Zealand.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 4",
+              "evidenceQuote": "His record of his travels through New Zealand is less comprehensive than those of some contemporaries, but what he did end up committing to paper and in paintings left an often vivid impression of travelling through various parts of the country.",
+              "evidenceTranslationVi": "Ghi chép của ông về những chuyến đi qua New Zealand kém toàn diện hơn so với ghi chép của một số người cùng thời, nhưng những gì ông đã làm cuối cùng đã được ghi lại trên giấy và trong các bức tranh để lại ấn tượng sống động khi đi du lịch qua nhiều vùng khác nhau của đất nước.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn B, câu 4 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 4,
+              "prompt": "Heaphy's first impression of the New Zealand landscape was a positive one.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 2",
+              "evidenceQuote": "On first sighting New Zealand's South Island, Heaphy commented that the high mountain ranges seemed to leave no space for farming, and that the country in general hardly seemed worth settling.",
+              "evidenceTranslationVi": "Trong lần đầu tiên nhìn thấy Đảo Nam của New Zealand, Heaphy nhận xét rằng những dãy núi cao dường như không còn chỗ cho việc trồng trọt và đất nước này nói chung dường như không đáng để định cư.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn C, câu 2 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 5,
+              "prompt": "Heaphy believed that Queen Charlotte Sound was a poor choice for new migrants.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 5",
+              "evidenceQuote": "He remained unconvinced for years afterwards that it possessed the greatest habour in the country but accepted that the few patches of fertile ground in the area were insufficient for a major settlement.",
+              "evidenceTranslationVi": "Trong nhiều năm sau đó, ông vẫn không bị thuyết phục rằng nó sở hữu bến cảng lớn nhất đất nước nhưng chấp nhận rằng một vài mảnh đất màu mỡ trong khu vực không đủ để xây dựng một khu định cư lớn.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn C, câu 5 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            }
+          ]
+        },
+        {
+          "id": "v7-t16-p1-g2",
+          "questionRange": [
+            6,
+            13
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "Heaphy's observations of places in New Zealand\nPorirua\no Heaphy said the {{blank:6}} of the surrounding hills was of good quality.\no He described the land as looking like a {{blank:7}}\nManawatu Plains\no Heaphy noted that its many {{blank:8}} could be useful for transport\no He said a larger {{blank:9}}\nwas needed before Manawatu could be settled.\nThe Taranaki region\no Heaphy's painting of a {{blank:10}}\nwas impressive but inaccurate.\no He gave the impression that there were plenty of\n{{blank:11}} for building.\nNew Zealand in general\no Heaphy wrote favourably about the excellent {{blank:12}}\nthat New Zealand had.\no He implied in his writing that there was not as much {{blank:13}}\no in New Zealand as there was in England.",
+          "questions": [
+            {
+              "number": 6,
+              "prompt": "Heaphy's observations of places in New Zealand\nPorirua\no Heaphy said the {{blank:6}} of the surrounding hills was of good quality.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "soil"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 4",
+              "evidenceQuote": "They found that the hills between Port Nicholson and Porirua were easy to cross and did not form the barrier they had expected, and were also of exceedingly rich and fertile soil, making them a potential location for agriculture.",
+              "evidenceTranslationVi": "Họ phát hiện ra rằng những ngọn đồi giữa Port Nicholson và Porirua rất dễ vượt qua và không tạo thành rào cản như họ mong đợi, đồng thời cũng có đất đai cực kỳ trù phú và màu mỡ, khiến chúng trở thành địa điểm tiềm năng cho nông nghiệp.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 4 để điền \"soil\"."
+            },
+            {
+              "number": 7,
+              "prompt": "o He described the land as looking like a {{blank:7}}\nManawatu Plains\no Heaphy noted that its many {{blank:8}} could be useful for transport\no He said a larger {{blank:9}}\nwas needed before Manawatu could be settled.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "park"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 5",
+              "evidenceQuote": "Heaphy depicted this possible place for settlement as having the beautiful appearance of a park, and thought most of it was fit for cultivation.",
+              "evidenceTranslationVi": "Heaphy mô tả nơi có thể định cư này có vẻ đẹp của một công viên và cho rằng phần lớn nó phù hợp để trồng trọt.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 5 để điền \"park\"."
+            },
+            {
+              "number": 8,
+              "prompt": "o He described the land as looking like a {{blank:7}}\nManawatu Plains\no Heaphy noted that its many {{blank:8}} could be useful for transport\no He said a larger {{blank:9}}\nwas needed before Manawatu could be settled.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "rivers"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 2",
+              "evidenceQuote": "His assessment was again favourable, praising the level aspect of the plains and the way they were watered by numerous rivers.",
+              "evidenceTranslationVi": "Đánh giá của ông một lần nữa lại thuận lợi, ca ngợi khía cạnh bằng phẳng của đồng bằng và cách chúng được tưới nước bởi nhiều con sông.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 2 để điền \"rivers\"."
+            },
+            {
+              "number": 9,
+              "prompt": "o He described the land as looking like a {{blank:7}}\nManawatu Plains\no Heaphy noted that its many {{blank:8}} could be useful for transport\no He said a larger {{blank:9}}\nwas needed before Manawatu could be settled.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "population"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 4",
+              "evidenceQuote": "Writing to the New Zealand Company, he was confident that the countryside there was well adapted for settlement, but explained that this could only be accomplished by the growth of the population of places already colonised.",
+              "evidenceTranslationVi": "Viết cho Công ty New Zealand, ông tin tưởng rằng vùng nông thôn ở đó thích nghi tốt cho việc định cư, nhưng giải thích rằng điều này chỉ có thể đạt được bằng sự gia tăng dân số ở những nơi đã là thuộc địa.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 4 để điền \"population\"."
+            },
+            {
+              "number": 10,
+              "prompt": "The Taranaki region\no Heaphy's painting of a {{blank:10}}\nwas impressive but inaccurate.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "mountain"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 2",
+              "evidenceQuote": "His artistic response, Mt Egmont from the Southward, shows an image of the mountain that became his most famous painting.",
+              "evidenceTranslationVi": "Phản ứng nghệ thuật của ông, Mt Egmont từ phương Nam, cho thấy hình ảnh ngọn núi đã trở thành bức tranh nổi tiếng nhất của ông.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn H, câu 2 để điền \"mountain\"."
+            },
+            {
+              "number": 11,
+              "prompt": "o He gave the impression that there were plenty of\n{{blank:11}} for building.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "trees"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 4",
+              "evidenceQuote": "The foreground, with its small cleared section above a sandy shore, would have looked inviting to any would-be farmer, as would the forest in the middle ground, suggesting a ready supply of trees which could be exploited for the construction of homes and ships.",
+              "evidenceTranslationVi": "Tiền cảnh, với phần đất trống nhỏ phía trên bờ cát, sẽ trông hấp dẫn đối với bất kỳ người nông dân nào, cũng như khu rừng ở giữa, gợi ý nguồn cung cấp cây sẵn sàng có thể khai thác để xây dựng nhà cửa và tàu thuyền.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn H, câu 4 để điền \"trees\"."
+            },
+            {
+              "number": 12,
+              "prompt": "New Zealand in general\no Heaphy wrote favourably about the excellent {{blank:12}}\nthat New Zealand had.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "climate"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 6",
+              "evidenceQuote": "He was convinced it had the best climate in the world, and claimed that since the formation of the first Company settlement in Port Nicholson, almost no-one there had fallen sick.",
+              "evidenceTranslationVi": "Ông tin rằng nơi đây có khí hậu tốt nhất trên thế giới và tuyên bố rằng kể từ khi thành lập khu định cư đầu tiên của Công ty ở Port Nicholson, hầu như không có ai ở đó bị ốm.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn H, câu 6 để điền \"climate\"."
+            },
+            {
+              "number": 13,
+              "prompt": "o He implied in his writing that there was not as much {{blank:13}}\no in New Zealand as there was in England.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "illness"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 7",
+              "evidenceQuote": "Indeed, Heaphy boasted that during his explorations, he had slept outside in all seasons and had never experienced a day's illness, certainly not the respiratory kind common in congested English cities.",
+              "evidenceTranslationVi": "Thật vậy, Heaphy khoe rằng trong những chuyến khám phá của mình, anh ấy đã ngủ ngoài trời tất cả các mùa và chưa bao giờ bị bệnh một ngày nào, chắc chắn không phải là bệnh về đường hô hấp thường gặp ở các thành phố đông đúc ở Anh.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn H, câu 7 để điền \"illness\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "Bird Migration",
+      "subtitle": "A.Birds have many unique design features that enable them to perform such amazing",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "feats of endurance. They are equipped with lightweight, hollow bones, intricately designed feathers providing both lift and thrust for rapid flight, navigation systems superior to any that man has developed, and an ingenious heat-conserving design that, among other things, concentrates all blood circulation beneath layers of warm, waterproof plumage, leaving them fit to face life in the harshest of climates. Their respiratory systems have to perform efficiently during sustained flights at altitude, so they have a system of extracting oxygen from their lungs that far exceeds that of any other animal. During the later stages of the summer breeding season, when food is plentiful, their bodies can accumulate considerable layers of fat, to provide sufficient energy for their long migratory flights."
+        },
+        {
+          "id": "B",
+          "text": "The Fundamental reason that birds migrate is to find adequate food during the winter months when it is in short supply. This particularly applies to birds that breed in the temperate and Arctic regions of the Northern Hemisphere, where food is abundant during the short growing season. Many species can tolerate cold temperatures if food is plentiful, but when food is not available, they must migrate. However, intriguing questions remain.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "One puzzling fact is that many birds journey much further than would be necessary just to find food and good weather. Nobody knows, for instance, why British swallows, which could presumably survive equally well if they spent the winter in equatorial Africa, instead of flying several thousand miles further to their preferred winter home in South Africa's Cape Province. Another mystery involves the huge migrations performed by arctic terns and mudflat-feeding shorebirds that breed close to Polar Regions. In general, the further north a migrant species breeds, the further south it spends the winter. For arctic terns, this necessitates an annual round trip of 25,000 miles. Yet, en route to their final destination in far-flung southern latitudes, all these individuals overfly other areas of seemingly suitable habitat spanning two hemispheres. While we may not fully understand birds' reasons for going to particular places, we can marvel at their feats.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "One of the greatest mysteries is how young birds know how to find the traditional wintering areas without parental guidance. Very few adults migrate with juveniles in tow, and youngsters may even have little or no inkling of their parents' appearance. A familiar example is that of the cuckoo, which lays its eggs in another species' nest and never re-encounters its young. It is mind-boggling to consider that, once raised by its host species, the young cuckoo makes its way to ancestral wintering grounds in the tropics before returning single-handedly to northern Europe the next season to seek out a mate among its kind. The obvious implication is that it inherits from its parents an inbuilt route map and direction-finding capability, as well as a mental image of what another cuckoo looks like. Yet nobody has the slightest idea as to how this is possible.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "Mounting evidence has confirmed that birds use the positions of the sun and stars to obtain compass directions. They also seem to be able to detect the earth's magnetic field, probably due to having minute crystals of magnetite in the region of their brains. However, accurate navigation also requires an awareness of position and time, especially when lost. Experiments have shown that after being taken thousands of miles over an unfamiliar landmass, birds are still capable of returning rapidly to nest sites. Such phenomenal powers are the product of computing several sophisticated cues, including an inborn map of the night sky and the pull of the earth's magnetic field. How the birds use their 'instruments' remains unknown, but one thing is clear: they see the world with a superior sensory perception to ours. Most small birds migrate at night and take their direction from the position of the setting sun. However, as well as seeing the sun go down, they also seem to see the plane of polarized light caused by it, which calibrates their compass. Travelling at night provides other benefits. Daytime predators are avoided and the danger of dehydration due to flying for long periods in warm, sunlit skies is reduced. Furthermore, at night the air is generally cool and less turbulent and so conducive to sustained, stable flight.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "Nevertheless, all journeys involve considerable risk, and part of the skill in arriving safely is setting off at the right time. This means accurate weather forecasting and utilizing favourable winds. Birds are adept at both, and, in laboratory tests, some have been shown to detect the minute difference in barometric pressure between the floor and ceiling of a room. Often birds react to weather changes before there is any visible sign of them. Lapwings, which feed on grassland, flee west from the Netherlands to the British Isles, France, and Spain at the onset of a cold snap. When the ground surface freezes, the birds could starve. Yet they return to Holland ahead of a thaw, their arrival linked to a pressure change presaging an improvement in the weather.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "In one instance a Welsh Manx shearwater carried to America and released was back in its burrow on Skokholm Island, off the Pembrokeshire coast, one day before a letter announcing its release! Conversely, each autumn a small number of North American birds are blown across the Atlantic by fast-moving westerly tailwinds. Not only do they arrive safely in Europe, but, based on ringing evidence, some make it back to North America the following spring, after probably spending the winter with European migrants in sunny African climes.",
+          "label": "G"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v7-t16-p2-g1",
+          "questionRange": [
+            14,
+            20
+          ],
+          "type": "matching_headings",
+          "instruction": "Reading Passage 2 has seven paragraphs. Choose the correct heading for each paragraph from the list of headings below. Choose the correct number, i-x, in boxes 14-20.",
+          "options": [
+            {
+              "key": "i",
+              "text": "The best moment to migrate"
+            },
+            {
+              "key": "ii",
+              "text": "The unexplained rejection of closer feeding grounds"
+            },
+            {
+              "key": "iii",
+              "text": "The influence of weather on the migration route"
+            },
+            {
+              "key": "iv",
+              "text": "Physical characteristics that allow birds to migrate v. The main reason why birds migrate"
+            },
+            {
+              "key": "vi",
+              "text": "The best wintering grounds for birds"
+            },
+            {
+              "key": "vii",
+              "text": "Research findings on how birds migrate"
+            },
+            {
+              "key": "viii",
+              "text": "Successful migration despite the trouble of wind"
+            },
+            {
+              "key": "ix",
+              "text": "The contrast between long-distance migration and short-distance migration"
+            },
+            {
+              "key": "x",
+              "text": "Mysterious migration despite lack of teaching"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "Section A",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "The best moment to migrate"
+                },
+                {
+                  "key": "ii",
+                  "text": "The unexplained rejection of closer feeding grounds"
+                },
+                {
+                  "key": "iii",
+                  "text": "The influence of weather on the migration route"
+                },
+                {
+                  "key": "iv",
+                  "text": "Physical characteristics that allow birds to migrate v. The main reason why birds migrate"
+                },
+                {
+                  "key": "vi",
+                  "text": "The best wintering grounds for birds"
+                },
+                {
+                  "key": "vii",
+                  "text": "Research findings on how birds migrate"
+                },
+                {
+                  "key": "viii",
+                  "text": "Successful migration despite the trouble of wind"
+                },
+                {
+                  "key": "ix",
+                  "text": "The contrast between long-distance migration and short-distance migration"
+                },
+                {
+                  "key": "x",
+                  "text": "Mysterious migration despite lack of teaching"
+                }
+              ],
+              "acceptedAnswers": [
+                "iv"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 2",
+              "evidenceQuote": "They are equipped with lightweight, hollow bones, intricately designed feathers providing both lift and thrust for rapid flight, navigation systems superior to any that man has developed, and an ingenious heat-conserving design that, among other things, concentrates all blood circulation beneath layers of warm, waterproof plumage, leaving them fit to face life in the harshest of climates.",
+              "evidenceTranslationVi": "Chúng được trang bị xương rỗng, nhẹ, lông được thiết kế phức tạp cung cấp cả lực nâng và lực đẩy để bay nhanh, hệ thống định vị vượt trội hơn bất kỳ hệ thống nào mà con người đã phát triển và một thiết kế bảo tồn nhiệt khéo léo, cùng với những thứ khác, tập trung tất cả sự lưu thông máu bên dưới các lớp lông ấm áp, không thấm nước, giúp chúng phù hợp để đối mặt với cuộc sống ở những vùng khí hậu khắc nghiệt nhất.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 2 tương ứng tiêu đề iv; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 15,
+              "prompt": "Section B",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "The best moment to migrate"
+                },
+                {
+                  "key": "ii",
+                  "text": "The unexplained rejection of closer feeding grounds"
+                },
+                {
+                  "key": "iii",
+                  "text": "The influence of weather on the migration route"
+                },
+                {
+                  "key": "iv",
+                  "text": "Physical characteristics that allow birds to migrate v. The main reason why birds migrate"
+                },
+                {
+                  "key": "vi",
+                  "text": "The best wintering grounds for birds"
+                },
+                {
+                  "key": "vii",
+                  "text": "Research findings on how birds migrate"
+                },
+                {
+                  "key": "viii",
+                  "text": "Successful migration despite the trouble of wind"
+                },
+                {
+                  "key": "ix",
+                  "text": "The contrast between long-distance migration and short-distance migration"
+                },
+                {
+                  "key": "x",
+                  "text": "Mysterious migration despite lack of teaching"
+                }
+              ],
+              "acceptedAnswers": [
+                "v"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 1",
+              "evidenceQuote": "The Fundamental reason that birds migrate is to find adequate food during the winter months when it is in short supply.",
+              "evidenceTranslationVi": "Lý do cơ bản khiến chim di cư là để tìm đủ thức ăn trong những tháng mùa đông khi nguồn cung thiếu hụt.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn B, câu 1 tương ứng tiêu đề v; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 16,
+              "prompt": "Section C",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "The best moment to migrate"
+                },
+                {
+                  "key": "ii",
+                  "text": "The unexplained rejection of closer feeding grounds"
+                },
+                {
+                  "key": "iii",
+                  "text": "The influence of weather on the migration route"
+                },
+                {
+                  "key": "iv",
+                  "text": "Physical characteristics that allow birds to migrate v. The main reason why birds migrate"
+                },
+                {
+                  "key": "vi",
+                  "text": "The best wintering grounds for birds"
+                },
+                {
+                  "key": "vii",
+                  "text": "Research findings on how birds migrate"
+                },
+                {
+                  "key": "viii",
+                  "text": "Successful migration despite the trouble of wind"
+                },
+                {
+                  "key": "ix",
+                  "text": "The contrast between long-distance migration and short-distance migration"
+                },
+                {
+                  "key": "x",
+                  "text": "Mysterious migration despite lack of teaching"
+                }
+              ],
+              "acceptedAnswers": [
+                "ii"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "One puzzling fact is that many birds journey much further than would be necessary just to find food and good weather.",
+              "evidenceTranslationVi": "Một thực tế khó hiểu là nhiều loài chim di chuyển xa hơn mức cần thiết chỉ để tìm thức ăn và thời tiết tốt.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn C, câu 1 tương ứng tiêu đề ii; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 17,
+              "prompt": "Section D",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "The best moment to migrate"
+                },
+                {
+                  "key": "ii",
+                  "text": "The unexplained rejection of closer feeding grounds"
+                },
+                {
+                  "key": "iii",
+                  "text": "The influence of weather on the migration route"
+                },
+                {
+                  "key": "iv",
+                  "text": "Physical characteristics that allow birds to migrate v. The main reason why birds migrate"
+                },
+                {
+                  "key": "vi",
+                  "text": "The best wintering grounds for birds"
+                },
+                {
+                  "key": "vii",
+                  "text": "Research findings on how birds migrate"
+                },
+                {
+                  "key": "viii",
+                  "text": "Successful migration despite the trouble of wind"
+                },
+                {
+                  "key": "ix",
+                  "text": "The contrast between long-distance migration and short-distance migration"
+                },
+                {
+                  "key": "x",
+                  "text": "Mysterious migration despite lack of teaching"
+                }
+              ],
+              "acceptedAnswers": [
+                "x"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "One of the greatest mysteries is how young birds know how to find the traditional wintering areas without parental guidance.",
+              "evidenceTranslationVi": "Một trong những bí ẩn lớn nhất là làm thế nào những chú chim non có thể tìm được những khu vực trú đông truyền thống mà không cần sự hướng dẫn của cha mẹ.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn D, câu 1 tương ứng tiêu đề x; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 18,
+              "prompt": "Section E",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "The best moment to migrate"
+                },
+                {
+                  "key": "ii",
+                  "text": "The unexplained rejection of closer feeding grounds"
+                },
+                {
+                  "key": "iii",
+                  "text": "The influence of weather on the migration route"
+                },
+                {
+                  "key": "iv",
+                  "text": "Physical characteristics that allow birds to migrate v. The main reason why birds migrate"
+                },
+                {
+                  "key": "vi",
+                  "text": "The best wintering grounds for birds"
+                },
+                {
+                  "key": "vii",
+                  "text": "Research findings on how birds migrate"
+                },
+                {
+                  "key": "viii",
+                  "text": "Successful migration despite the trouble of wind"
+                },
+                {
+                  "key": "ix",
+                  "text": "The contrast between long-distance migration and short-distance migration"
+                },
+                {
+                  "key": "x",
+                  "text": "Mysterious migration despite lack of teaching"
+                }
+              ],
+              "acceptedAnswers": [
+                "vii"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 2",
+              "evidenceQuote": "They also seem to be able to detect the earth's magnetic field, probably due to having minute crystals of magnetite in the region of their brains.",
+              "evidenceTranslationVi": "Họ dường như cũng có thể phát hiện từ trường của trái đất, có lẽ là do có các tinh thể từ tính nhỏ trong vùng não của họ.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn E, câu 2 tương ứng tiêu đề vii; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 19,
+              "prompt": "Section F",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "The best moment to migrate"
+                },
+                {
+                  "key": "ii",
+                  "text": "The unexplained rejection of closer feeding grounds"
+                },
+                {
+                  "key": "iii",
+                  "text": "The influence of weather on the migration route"
+                },
+                {
+                  "key": "iv",
+                  "text": "Physical characteristics that allow birds to migrate v. The main reason why birds migrate"
+                },
+                {
+                  "key": "vi",
+                  "text": "The best wintering grounds for birds"
+                },
+                {
+                  "key": "vii",
+                  "text": "Research findings on how birds migrate"
+                },
+                {
+                  "key": "viii",
+                  "text": "Successful migration despite the trouble of wind"
+                },
+                {
+                  "key": "ix",
+                  "text": "The contrast between long-distance migration and short-distance migration"
+                },
+                {
+                  "key": "x",
+                  "text": "Mysterious migration despite lack of teaching"
+                }
+              ],
+              "acceptedAnswers": [
+                "iii"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 5",
+              "evidenceQuote": "Lapwings, which feed on grassland, flee west from the Netherlands to the British Isles, France, and Spain at the onset of a cold snap.",
+              "evidenceTranslationVi": "Lapwings, loài ăn cỏ trên đồng cỏ, chạy trốn về phía tây từ Hà Lan đến Quần đảo Anh, Pháp và Tây Ban Nha khi bắt đầu một đợt rét đậm.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn F, câu 5 tương ứng tiêu đề iii; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 20,
+              "prompt": "Section G",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "The best moment to migrate"
+                },
+                {
+                  "key": "ii",
+                  "text": "The unexplained rejection of closer feeding grounds"
+                },
+                {
+                  "key": "iii",
+                  "text": "The influence of weather on the migration route"
+                },
+                {
+                  "key": "iv",
+                  "text": "Physical characteristics that allow birds to migrate v. The main reason why birds migrate"
+                },
+                {
+                  "key": "vi",
+                  "text": "The best wintering grounds for birds"
+                },
+                {
+                  "key": "vii",
+                  "text": "Research findings on how birds migrate"
+                },
+                {
+                  "key": "viii",
+                  "text": "Successful migration despite the trouble of wind"
+                },
+                {
+                  "key": "ix",
+                  "text": "The contrast between long-distance migration and short-distance migration"
+                },
+                {
+                  "key": "x",
+                  "text": "Mysterious migration despite lack of teaching"
+                }
+              ],
+              "acceptedAnswers": [
+                "viii"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 2",
+              "evidenceQuote": "Conversely, each autumn a small number of North American birds are blown across the Atlantic by fast-moving westerly tailwinds.",
+              "evidenceTranslationVi": "Ngược lại, vào mỗi mùa thu, một số lượng nhỏ các loài chim Bắc Mỹ bị thổi bay qua Đại Tây Dương bởi những cơn gió Tây di chuyển nhanh.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn G, câu 2 tương ứng tiêu đề viii; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            }
+          ]
+        },
+        {
+          "id": "v7-t16-p2-g2",
+          "questionRange": [
+            21,
+            22
+          ],
+          "type": "mcq_multi",
+          "instruction": "Choose TWO correct answers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Birds often fly further than they need to."
+            },
+            {
+              "key": "B",
+              "text": "Birds travelling in family groups are safe."
+            },
+            {
+              "key": "C",
+              "text": "Birds flying at night need less water."
+            },
+            {
+              "key": "D",
+              "text": "Birds have much sharper eyesight than humans."
+            },
+            {
+              "key": "E",
+              "text": "Only shorebirds are resistant to strong winds."
+            }
+          ],
+          "selectCount": 2,
+          "questions": [
+            {
+              "number": 21,
+              "prompt": "Which TWO of the following statements are true of bird migration?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Birds often fly further than they need to."
+                },
+                {
+                  "key": "B",
+                  "text": "Birds travelling in family groups are safe."
+                },
+                {
+                  "key": "C",
+                  "text": "Birds flying at night need less water."
+                },
+                {
+                  "key": "D",
+                  "text": "Birds have much sharper eyesight than humans."
+                },
+                {
+                  "key": "E",
+                  "text": "Only shorebirds are resistant to strong winds."
+                }
+              ],
+              "siblingNumbers": [
+                21,
+                22
+              ],
+              "acceptedAnswers": [
+                "A",
+                "C"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "One puzzling fact is that many birds journey much further than would be necessary just to find food and good weather.",
+              "evidenceTranslationVi": "Một thực tế khó hiểu là nhiều loài chim di chuyển xa hơn mức cần thiết chỉ để tìm thức ăn và thời tiết tốt.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 1 khớp trực tiếp với lựa chọn A, C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 22,
+              "prompt": "Which TWO of the following statements are true of bird migration?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Birds often fly further than they need to."
+                },
+                {
+                  "key": "B",
+                  "text": "Birds travelling in family groups are safe."
+                },
+                {
+                  "key": "C",
+                  "text": "Birds flying at night need less water."
+                },
+                {
+                  "key": "D",
+                  "text": "Birds have much sharper eyesight than humans."
+                },
+                {
+                  "key": "E",
+                  "text": "Only shorebirds are resistant to strong winds."
+                }
+              ],
+              "siblingNumbers": [
+                21,
+                22
+              ],
+              "acceptedAnswers": [
+                "A",
+                "C"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 10",
+              "evidenceQuote": "Daytime predators are avoided and the danger of dehydration due to flying for long periods in warm, sunlit skies is reduced.",
+              "evidenceTranslationVi": "Những kẻ săn mồi ban ngày tránh được và nguy cơ mất nước do bay lâu trên bầu trời ấm áp, có ánh nắng sẽ giảm đi.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 10 khớp trực tiếp với lựa chọn A, C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v7-t16-p2-g3",
+          "questionRange": [
+            23,
+            26
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "bodyText": "It is a great mystery that young birds like cuckoos can find their wintering grounds\nwithout {{blank:23}}\nEvidence shows birds can tell directions like a {{blank:24}}\nby observing the sun and the stars.\nOne advantage for birds flying at night is that they can avoid contact with 25\n…………...\nLaboratory tests show that birds can detect weather without\n{{blank:26}} signs.",
+          "questions": [
+            {
+              "number": 23,
+              "prompt": "It is a great mystery that young birds like cuckoos can find their wintering grounds\nwithout {{blank:23}}\nEvidence shows birds can tell directions like a {{blank:24}}\nby observing the sun and the stars.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "It is a great mystery that young birds like cuckoos can find their wintering grounds without"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "One of the greatest mysteries is how young birds know how to find the traditional wintering areas without parental guidance.",
+              "evidenceTranslationVi": "Một trong những bí ẩn lớn nhất là làm thế nào những chú chim non có thể tìm được những khu vực trú đông truyền thống mà không cần sự hướng dẫn của cha mẹ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 1 để điền \"It is a great mystery that young birds like cuckoos can find their wintering grounds without\"."
+            },
+            {
+              "number": 24,
+              "prompt": "It is a great mystery that young birds like cuckoos can find their wintering grounds\nwithout {{blank:23}}\nEvidence shows birds can tell directions like a {{blank:24}}\nby observing the sun and the stars.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "Evidence shows birds can tell directions like a compass by observing the sun and the stars"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 1",
+              "evidenceQuote": "Mounting evidence has confirmed that birds use the positions of the sun and stars to obtain compass directions.",
+              "evidenceTranslationVi": "Bằng chứng ngày càng tăng đã xác nhận rằng loài chim sử dụng vị trí của mặt trời và các ngôi sao để xác định hướng la bàn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 1 để điền \"Evidence shows birds can tell directions like a compass by observing the sun and the stars\"."
+            },
+            {
+              "number": 25,
+              "prompt": "Question 25",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "One advantage for birds flying at night is that they can avoid contact with daytime predators"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 10",
+              "evidenceQuote": "Daytime predators are avoided and the danger of dehydration due to flying for long periods in warm, sunlit skies is reduced.",
+              "evidenceTranslationVi": "Những kẻ săn mồi ban ngày tránh được và nguy cơ mất nước do bay lâu trên bầu trời ấm áp, có ánh nắng sẽ giảm đi.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 10 để điền \"One advantage for birds flying at night is that they can avoid contact with daytime predators\"."
+            },
+            {
+              "number": 26,
+              "prompt": "Laboratory tests show that birds can detect weather without\n{{blank:26}} signs.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "Laboratory tests show that birds can detect weather without visible signs"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 3",
+              "evidenceQuote": "Birds are adept at both, and, in laboratory tests, some have been shown to detect the minute difference in barometric pressure between the floor and ceiling of a room.",
+              "evidenceTranslationVi": "Các loài chim đều thành thạo cả hai, và trong các thử nghiệm trong phòng thí nghiệm, một số loài đã được chứng minh là có thể phát hiện ra sự khác biệt nhỏ về áp suất khí quyển giữa sàn và trần của một căn phòng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 3 để điền \"Laboratory tests show that birds can detect weather without visible signs\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "Look – who was talking Stephen Oppenheimer explores the origins of human speech",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "When did we start talking to each other and how long did it take us to become so good at it? One view of language development, held by linguists such as Noam Chomsky and anthropologists such as Richard Klein, is that language, specifically the spoken word, appeared suddenly among modem humans a mere 35,000 to 50,000 years ago and that the ability to speak words and use syntax was recently genetically hard wired into our brains in a kind of language organ. This view of language is associated with the old idea that logical thought is dependent on words, a concept originating with Plato and much in vogue in the 19th century – that is, animals do not speak because they do not think. However, the abstract thought demonstrated in 20th century experiments with chimpanzees and bonobos put this theory in doubt.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "An alternative to the Chomskian theory is that language developed as a series of inventions. This was first suggested by the 18th century philosopher Etienne Bonnot de Condillac. He argued that spoken language had developed out of gesture language (langage d'action) and that both were inventions arising initially from the simple association between action and object. The theory sees gesture language as arising originally among apes as sounds accompanying gestures, with these sounds gradually becoming coded into 'words' as the new skill drove its own evolution. Subsequently, coded words developed into deliberate, complex communication. Evolutionary pressures promoted the development of an anatomy geared to speech- the larynx, vocal muscles and a specific part of the brain immediately next to the part responsible for gestures.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "The view that spoken language was ultimately a cultural invention like tool- making, which then drove the biological evolution of the brain and vocal apparatus, seems obvious when you think of the development of different languages. The unique features of a language such as French clearly do not result from any physiological aspect of being French, but are the cultural possessions of the French- speaking community. Each language evolves from one generation to the next, constantly adapting itself to cope with the learning biases of each new set of young, immature minds.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Those anthropologists and fossil experts who accept that speech started early still tend to think of language evolution as a gradual 2 million year process, with our own modem human species (homo sapiens) way out at the top. A major reason for this is the perception that brain growth among humans was gradual over a similar period. Several recent changes in the fossil evidence though, bring this into doubt.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "The first of these is a re-dating of soil layers from the famous Olduvai Gorge in East Africa, where many key fossil remains have been found. A number of big- brained human species appear to be much older than previously thought, with several specimens dating from over a million years ago. When brain sizes for all available skulls are plotted against time using the revised dates, the result is starting; the bulk of increases in brain size was over by around 1.2 million years ago, with some African human species having brain volumes easily within the modem human range by that time.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "So, we have the paradox that over the period when our brain was growing most rapidly, our material cultural development, as measured by stone tools, advanced only marginally; then, over a million years later, when the development of anatomically modem humans finally started to accelerate, artistically and technologically, our brains were actually getting smaller. The additional piece of evidence that makes this paradox all the more significant is that brain size did not just leap between human species in a direct line of ascent towards ourselves. Over the period from 2.5 to 1.5 million years ago, brains were growing more rapidly than at any time since, within all the different human species. The logical conclusion is that there must have been a unique new behaviour driving brain growth, shared between all species of humans.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "So, what was driving rapid brain growth right at the beginning, 2.5 million years ago? The answer may have been staring us in the face. Namely, that not only early humans, but their ancestors, had started the trend in the very useful skill of verbal communication. Around 2.5 million years ago, the weather took a decided turn for the worse, becoming more variable and colder and drier. The search for food became more taxing, and there would have been a real need to communicate more effectively and cope with the worsening environment in a co-operative way. The near maximum in brain size achieved by 1.2 million years ago indicates that those early ancestors could already have been talking perfectly well. Our brain, which had developed to manipulate and organise complex symbolic aspects of speech internally, could now be turned to a variety of other tasks.",
+          "label": "G"
+        },
+        {
+          "id": "H",
+          "text": "So what happened in the million-year gap after that? Why did we take so long to get to the moon? Cultural evolution aided by communication and teaching is a cumulative interactive process. If each new generation invented just one new skill or idea and passed it on with the rest to their children and cousins, you could predict exactly the same curve of cultural advance as we see from the archaeological and historical record first very slow, then faster and faster.",
+          "label": "H"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v7-t16-p3-g1",
+          "questionRange": [
+            27,
+            32
+          ],
+          "type": "matching_features",
+          "instruction": "Look at the following statements (Questions 27-32) and the list of people below. Match each statement with the correct person, A, B, or C. Choose the correct letter, A, B, or C, in boxes 27-32. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Chomsky"
+            },
+            {
+              "key": "B",
+              "text": "Condillac"
+            },
+            {
+              "key": "C",
+              "text": "neither Chomsky nor Condillac"
+            }
+          ],
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "The development of human speech can be traced back to apes.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Chomsky"
+                },
+                {
+                  "key": "B",
+                  "text": "Condillac"
+                },
+                {
+                  "key": "C",
+                  "text": "neither Chomsky nor Condillac"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 4",
+              "evidenceQuote": "The theory sees gesture language as arising originally among apes as sounds accompanying gestures, with these sounds gradually becoming coded into 'words' as the new skill drove its own evolution.",
+              "evidenceTranslationVi": "Lý thuyết này coi ngôn ngữ cử chỉ ban đầu phát sinh ở loài vượn dưới dạng âm thanh đi kèm với cử chỉ, với những âm thanh này dần dần được mã hóa thành 'từ' khi kỹ năng mới thúc đẩy sự phát triển của chính nó.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 4 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 28,
+              "prompt": "Animal research is essential for understanding the development of human speech",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Chomsky"
+                },
+                {
+                  "key": "B",
+                  "text": "Condillac"
+                },
+                {
+                  "key": "C",
+                  "text": "neither Chomsky nor Condillac"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 2",
+              "evidenceQuote": "One view of language development, held by linguists such as Noam Chomsky and anthropologists such as Richard Klein, is that language, specifically the spoken word, appeared suddenly among modem humans a mere 35,000 to 50,000 years ago and that the ability to speak words and use syntax was recently genetically hard wired into our brains in a kind of language organ.",
+              "evidenceTranslationVi": "Một quan điểm về sự phát triển ngôn ngữ, được các nhà ngôn ngữ học như Noam Chomsky và các nhà nhân chủng học như Richard Klein ủng hộ, đó là ngôn ngữ, cụ thể là lời nói, xuất hiện đột ngột ở người hiện đại chỉ khoảng 35.000 đến 50.000 năm trước và khả năng nói từ và sử dụng cú pháp gần đây đã được gắn chặt về mặt di truyền vào não của chúng ta trong một loại cơ quan ngôn ngữ.",
+              "explanationVi": "Thông tin tại Đoạn A, câu 2 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 29,
+              "prompt": "Language emerged relatively late in human evolution.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Chomsky"
+                },
+                {
+                  "key": "B",
+                  "text": "Condillac"
+                },
+                {
+                  "key": "C",
+                  "text": "neither Chomsky nor Condillac"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 2",
+              "evidenceQuote": "One view of language development, held by linguists such as Noam Chomsky and anthropologists such as Richard Klein, is that language, specifically the spoken word, appeared suddenly among modem humans a mere 35,000 to 50,000 years ago and that the ability to speak words and use syntax was recently genetically hard wired into our brains in a kind of language organ.",
+              "evidenceTranslationVi": "Một quan điểm về sự phát triển ngôn ngữ, được các nhà ngôn ngữ học như Noam Chomsky và các nhà nhân chủng học như Richard Klein ủng hộ, đó là ngôn ngữ, cụ thể là lời nói, xuất hiện đột ngột ở người hiện đại chỉ khoảng 35.000 đến 50.000 năm trước và khả năng nói từ và sử dụng cú pháp gần đây đã được gắn chặt về mặt di truyền vào não của chúng ta trong một loại cơ quan ngôn ngữ.",
+              "explanationVi": "Thông tin tại Đoạn A, câu 2 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 30,
+              "prompt": "Non-verbal language was essential in the development of verbal language.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Chomsky"
+                },
+                {
+                  "key": "B",
+                  "text": "Condillac"
+                },
+                {
+                  "key": "C",
+                  "text": "neither Chomsky nor Condillac"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 3",
+              "evidenceQuote": "He argued that spoken language had developed out of gesture language (langage d'action) and that both were inventions arising initially from the simple association between action and object.",
+              "evidenceTranslationVi": "Ông lập luận rằng ngôn ngữ nói đã phát triển từ ngôn ngữ cử chỉ (langage d'action) và cả hai đều là những phát minh ban đầu xuất phát từ sự liên kết đơn giản giữa hành động và đối tượng.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 3 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 31,
+              "prompt": "The development of different languages is related more to environmental than biological factors.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Chomsky"
+                },
+                {
+                  "key": "B",
+                  "text": "Condillac"
+                },
+                {
+                  "key": "C",
+                  "text": "neither Chomsky nor Condillac"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "The view that spoken language was ultimately a cultural invention like tool- making, which then drove the biological evolution of the brain and vocal apparatus, seems obvious when you think of the development of different languages.",
+              "evidenceTranslationVi": "Quan điểm cho rằng ngôn ngữ nói cuối cùng là một phát minh văn hóa giống như chế tạo công cụ, sau đó thúc đẩy quá trình tiến hóa sinh học của bộ não và bộ máy phát âm, có vẻ hiển nhiên khi bạn nghĩ đến sự phát triển của các ngôn ngữ khác nhau.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 1 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 32,
+              "prompt": "The ability to think rationally is linked to the ability to speak.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Chomsky"
+                },
+                {
+                  "key": "B",
+                  "text": "Condillac"
+                },
+                {
+                  "key": "C",
+                  "text": "neither Chomsky nor Condillac"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 3",
+              "evidenceQuote": "This view of language is associated with the old idea that logical thought is dependent on words, a concept originating with Plato and much in vogue in the 19th century – that is, animals do not speak because they do not think.",
+              "evidenceTranslationVi": "Quan điểm này về ngôn ngữ gắn liền với quan điểm cũ cho rằng tư duy logic phụ thuộc vào từ ngữ, một khái niệm bắt nguồn từ Plato và rất thịnh hành ở thế kỷ 19 - tức là động vật không nói vì chúng không suy nghĩ.",
+              "explanationVi": "Thông tin tại Đoạn A, câu 3 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v7-t16-p3-g2",
+          "questionRange": [
+            33,
+            37
+          ],
+          "type": "ynng",
+          "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "number": 33,
+              "prompt": "Anthropologists now agree on the point in time when speech began.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 3",
+              "evidenceQuote": "Several recent changes in the fossil evidence though, bring this into doubt.",
+              "evidenceTranslationVi": "Tuy nhiên, một số thay đổi gần đây trong bằng chứng hóa thạch khiến điều này bị nghi ngờ.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn D, câu 3 lập luận ngược lại với nhận định của câu hỏi."
+            },
+            {
+              "number": 34,
+              "prompt": "The rate of human technological development in ancient times was directly related to brain size.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 2",
+              "evidenceQuote": "The additional piece of evidence that makes this paradox all the more significant is that brain size did not just leap between human species in a direct line of ascent towards ourselves.",
+              "evidenceTranslationVi": "Bằng chứng bổ sung làm cho nghịch lý này trở nên quan trọng hơn là kích thước bộ não không chỉ nhảy vọt giữa các loài người theo đường hướng thẳng về phía chúng ta.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn F, câu 2 lập luận ngược lại với nhận định của câu hỏi."
+            },
+            {
+              "number": 35,
+              "prompt": "The period when the brain was growing most quickly has now been identified.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 3",
+              "evidenceQuote": "Over the period from 2.5 to 1.5 million years ago, brains were growing more rapidly than at any time since, within all the different human species.",
+              "evidenceTranslationVi": "Trong khoảng thời gian từ 2,5 đến 1,5 triệu năm trước, bộ não đã phát triển nhanh hơn bao giờ hết kể từ đó, ở tất cả các loài người khác nhau.",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn F, câu 3 hoàn toàn trùng với nhận định trong câu hỏi."
+            },
+            {
+              "number": 36,
+              "prompt": "The development of agriculture influenced language development.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 2",
+              "evidenceQuote": "One view of language development, held by linguists such as Noam Chomsky and anthropologists such as Richard Klein, is that language, specifically the spoken word, appeared suddenly among modem humans a mere 35,000 to 50,000 years ago and that the ability to speak words and use syntax was recently genetically hard wired into our brains in a kind of language organ.",
+              "evidenceTranslationVi": "Một quan điểm về sự phát triển ngôn ngữ, được các nhà ngôn ngữ học như Noam Chomsky và các nhà nhân chủng học như Richard Klein ủng hộ, đó là ngôn ngữ, cụ thể là lời nói, xuất hiện đột ngột ở người hiện đại chỉ khoảng 35.000 đến 50.000 năm trước và khả năng nói từ và sử dụng cú pháp gần đây đã được gắn chặt về mặt di truyền vào não của chúng ta trong một loại cơ quan ngôn ngữ.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn A, câu 2 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 37,
+              "prompt": "Cultural development has been seen to follow a particular pattern throughout human history.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 4",
+              "evidenceQuote": "If each new generation invented just one new skill or idea and passed it on with the rest to their children and cousins, you could predict exactly the same curve of cultural advance as we see from the archaeological and historical record first very slow, then faster and faster.",
+              "evidenceTranslationVi": "Nếu mỗi thế hệ mới phát minh ra chỉ một kỹ năng hoặc ý tưởng mới và truyền lại nó cho con cái và anh em họ của họ, bạn có thể dự đoán chính xác đường cong tiến bộ văn hóa giống như chúng ta thấy từ các ghi chép lịch sử và khảo cổ học lúc đầu rất chậm, sau đó nhanh hơn và nhanh hơn.",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn H, câu 4 hoàn toàn trùng với nhận định trong câu hỏi."
+            }
+          ]
+        },
+        {
+          "id": "v7-t16-p3-g3",
+          "questionRange": [
+            38,
+            40
+          ],
+          "type": "matching_features",
+          "instruction": "Look at the following statements (Questions 38-40) and the list of dates below. Match each statement with the correct date, A, B, C, or D. Choose the correct letter, A, B, C, or D, in boxes 38-40. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "2 5 million years ago"
+            },
+            {
+              "key": "B",
+              "text": "1.5 million years ago"
+            },
+            {
+              "key": "C",
+              "text": "1.2 million years ago"
+            },
+            {
+              "key": "D",
+              "text": "0.5 million years ago"
+            }
+          ],
+          "questions": [
+            {
+              "number": 38,
+              "prompt": "Revised fossil evidence indicates most brain growth was complete.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "2 5 million years ago"
+                },
+                {
+                  "key": "B",
+                  "text": "1.5 million years ago"
+                },
+                {
+                  "key": "C",
+                  "text": "1.2 million years ago"
+                },
+                {
+                  "key": "D",
+                  "text": "0.5 million years ago"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 3",
+              "evidenceQuote": "When brain sizes for all available skulls are plotted against time using the revised dates, the result is starting; the bulk of increases in brain size was over by around 1.2 million years ago, with some African human species having brain volumes easily within the modem human range by that time.",
+              "evidenceTranslationVi": "Khi kích thước não của tất cả các hộp sọ hiện có được vẽ theo thời gian sử dụng ngày tháng đã sửa đổi, kết quả sẽ bắt đầu; phần lớn sự gia tăng kích thước não đã kết thúc vào khoảng 1,2 triệu năm trước, với một số loài người châu Phi có thể tích não dễ dàng nằm trong phạm vi con người hiện đại vào thời điểm đó.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 3 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 39,
+              "prompt": "The writer suggests that language development was complete.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "2 5 million years ago"
+                },
+                {
+                  "key": "B",
+                  "text": "1.5 million years ago"
+                },
+                {
+                  "key": "C",
+                  "text": "1.2 million years ago"
+                },
+                {
+                  "key": "D",
+                  "text": "0.5 million years ago"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 6",
+              "evidenceQuote": "The near maximum in brain size achieved by 1.2 million years ago indicates that those early ancestors could already have been talking perfectly well.",
+              "evidenceTranslationVi": "Kích thước não gần như tối đa đạt được cách đây 1,2 triệu năm cho thấy những tổ tiên đầu tiên đó có thể đã nói chuyện rất tốt.",
+              "explanationVi": "Thông tin tại Đoạn G, câu 6 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 40,
+              "prompt": "An external change may have influenced language development. Đáp án:",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "2 5 million years ago"
+                },
+                {
+                  "key": "B",
+                  "text": "1.5 million years ago"
+                },
+                {
+                  "key": "C",
+                  "text": "1.2 million years ago"
+                },
+                {
+                  "key": "D",
+                  "text": "0.5 million years ago"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 4",
+              "evidenceQuote": "Around 2.5 million years ago, the weather took a decided turn for the worse, becoming more variable and colder and drier.",
+              "evidenceTranslationVi": "Khoảng 2,5 triệu năm trước, thời tiết ngày càng trở nên tồi tệ hơn, trở nên thay đổi nhiều hơn, lạnh hơn và khô hơn.",
+              "explanationVi": "Thông tin tại Đoạn G, câu 4 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

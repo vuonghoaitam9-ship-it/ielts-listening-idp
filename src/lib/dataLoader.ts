@@ -78,7 +78,49 @@ export async function loadTestData(vol: number, testNumber: number): Promise<Tes
 
 export async function seedVocabCoreIfNeeded(): Promise<void> {
   const existingCoreCount = await db.vocabCards.where('source').equals('core').count();
-  if (existingCoreCount > 0) return;
+  if (existingCoreCount > 0) {
+    const existingIds = new Set(
+      (await db.vocabCards.where('source').equals('core').primaryKeys()).map(String)
+    );
+    const resExisting = await fetch('./data/vocab-core.json');
+    if (!resExisting.ok) return;
+    const rawCore = (await resExisting.json()) as Array<{
+      id: string;
+      word: string;
+      ipa?: string;
+      partOfSpeech?: string;
+      meaningVi: string;
+      exampleEn?: string;
+      paraphraseNote?: string;
+      spellingTrap?: string;
+      category: import('../types').VocabCategory;
+      source: 'core';
+    }>;
+    const now = Date.now();
+    const missingCards: import('../types').VocabCard[] = rawCore
+      .filter((item) => !existingIds.has(item.id))
+      .map((item) => ({
+        id: item.id,
+        word: item.word,
+        ipa: item.ipa ?? '',
+        partOfSpeech: item.partOfSpeech ?? '',
+        meaningVi: item.meaningVi,
+        exampleEn: item.exampleEn ?? '',
+        paraphraseNote: item.paraphraseNote ?? '',
+        spellingTrap: item.spellingTrap ?? '',
+        category: item.category,
+        source: 'core',
+        repetitions: 0,
+        intervalDays: 0,
+        easeFactor: 2.5,
+        nextReviewAt: now,
+        createdAt: now,
+      }));
+    if (missingCards.length > 0) {
+      await db.vocabCards.bulkPut(missingCards);
+    }
+    return;
+  }
 
   const res = await fetch('./data/vocab-core.json');
   if (!res.ok) return;

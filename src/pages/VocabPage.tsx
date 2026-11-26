@@ -26,6 +26,7 @@ const CATEGORY_LABELS: Record<VocabCategory, string> = {
   places_maps: 'Địa điểm & Bản đồ',
   academic_p3_p4: 'Học thuật Part 3–4',
   paraphrase_pairs: 'Cặp Paraphrase',
+  reading_academic: 'Học thuật Reading',
   saved_from_test: 'Lưu từ Vol 7–10',
 };
 
@@ -177,7 +178,7 @@ export function VocabPage() {
         <div className="flex flex-wrap items-center justify-between gap-3">
           <div>
             <h1 className="text-lg font-bold text-slate-900">
-              Flashcard &amp; Spaced Learning (SM-2) Từ vựng IELTS Listening
+              Flashcard &amp; Spaced Learning (SM-2) Từ vựng IELTS Listening &amp; Reading
             </h1>
             <p className="text-xs text-slate-600">
               Tổng cộng {allCards.length} thẻ · Cần ôn hôm nay:{' '}

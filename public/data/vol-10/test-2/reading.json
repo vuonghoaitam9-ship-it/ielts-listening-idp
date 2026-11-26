@@ -1,0 +1,1455 @@
+{
+  "vol": 10,
+  "test": 2,
+  "testId": "vol-10-test-2",
+  "title": "IELTS Reading Vol 10 - Test 2",
+  "sourceName": "VOL 10 KEY.pdf (pp.16-30)",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "VOL 10 test 2",
+      "subtitle": "Sleep Study on Modern-Day Hunter-Gatherers Dispels Popular Notions",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "The sleep troubles common in modern life have long been blamed on our industrial society, from the city lights, long work hours and commutes, to caffeine and the Internet. Sleep researchers often look back on a time when humans were able to get more rest by sleeping and waking to the rhythms of the sun. It turns out that this may not be quite right. In fact, our ancestors may not have been getting the recommended eight hours of sleep, either.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "In a recent study, researchers traveled all over the world to examine sleep in some of the world's last remaining hunter-gatherer societies – the Hadza of Tanzania, the San of Namibia, and the Tsimane of Bolivia. Cut off from media, electricity and other distractions, these pre-industrial societies are thought to sleep the way humans did more than 10,000 years ago. Traveling to where they lived, often in humid, remote locations, researchers used medical devices to record the sleeping habits of 94 of these tribespeople and ended up collecting data representing 1,165 days.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "They found very similar sleep patterns despite their geographic isolation. On average, all three groups sleep a little less than 6.5 hours a night, do not take naps, and don't go to sleep when it gets dark. Like many of us, the Hadza, San, and Tsimane spend more time in bed – from 6.9 to 8.5 hours – than they do actually sleeping. This adds up to a sleep efficiency that is very similar to today's industrial populations.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "According to Jerome Siegel, director of the University of California's Center for Sleep Research, evidence suggests sleep habits may not be environmental or cultural, but central to the physical makeup of humans. These findings question the millions of dollars that have been spent on research that tries to explain why some sleepers get only about six hours of sleep a night. Also, such findings question whether lack of sleep is a cause of obesity, mood disorders, and other physical and mental illnesses which have become so common in recent decades. Scientists have documented that people's energy often falls in the mid-afternoon. Some have suggested that it's because we' ve managed to suppress a natural desire for a nap.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "However, the new study provides evidence that this is unlikely, and that napping was actually rare in hunter-gatherer societies. The researchers estimated that naps may have occurred on up to 7 percent of winter days and 22 percent of summer days. They noted that their devices were only good at detecting longer naps, so it is possible that some of the study subjects took naps that were short, perhaps 15 minutes or less.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "Another fascinating finding from the study had to do with the circadian rhythms, our daily activity cycles related to sunlight. Instead of going to sleep right at dusk, tribespeople were staying awake an average of between 2.5 and 4.4 hours after sunset. All three tribes had fires going, but the light itself was much lower than you might get from a light bulb. They did, however, have a tendency to wake up anywhere between an hour before and an hour after sunrise.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "Siegel and his co-authors investigated this further by looking into the significance of temperature. They found that it also played a big role, though it was somewhat less important than light in influencing sleep patterns. They wrote that \"sleep in both the winter and summer usually occurred during the period of cooling and that waking times usually occurred near the height of the daily warming trend.\"",
+          "label": "G"
+        },
+        {
+          "id": "H",
+          "text": "The tribespeople that were studied are different from people living in modern conditions in a number of respects. Importantly, almost none of them were troubled by sleeplessness. In interviews with the researchers conducted through interpreters, only 1.5 to 2.5 percent of the study subjects said they had severe difficulties sleeping more than once a year. This figure is far lower than the 10 to 30 percent recorded in many industrialized countries today. Siegel suggested that \"mimicking aspects of the natural environment\" may therefore help treat some sleep disorders.",
+          "label": "H"
+        },
+        {
+          "id": "I",
+          "text": "The tribespeople are also much healthier. Not a single one is overweight, indicating their overall higher levels of physical fitness. They also tended to have healthier hearts. Thus comes a critical question. If we can't blame our health problems on our lack of sleep, could it be that the reason we feel so unrested is because of poor health?",
+          "label": "I"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v10-t2-p1-g1",
+          "questionRange": [
+            1,
+            4
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Scientists studied hunter-gatherer societies because their sleep patterns are assumed to be similar to those of humans more than 10,000 years ago.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 2",
+              "evidenceQuote": "Cut off from media, electricity and other distractions, these pre-industrial societies are thought to sleep the way humans did more than 10,000 years ago.",
+              "evidenceTranslationVi": "Bị cắt đứt khỏi phương tiện truyền thông, điện và những phiền nhiễu khác, những xã hội tiền công nghiệp này được cho là ngủ theo cách con người đã ngủ hơn 10.000 năm trước.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn B, câu 2 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 2,
+              "prompt": "The medical devices used in the research were specially designed for humid conditions.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 3",
+              "evidenceQuote": "Traveling to where they lived, often in humid, remote locations, researchers used medical devices to record the sleeping habits of 94 of these tribespeople and ended up collecting data representing 1,165 days.",
+              "evidenceTranslationVi": "Khi đến nơi họ sinh sống, thường là ở những nơi ẩm ướt, xa xôi, các nhà nghiên cứu đã sử dụng thiết bị y tế để ghi lại thói quen ngủ của 94 người trong bộ lạc này và thu thập dữ liệu trong 1.165 ngày.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn B, câu 3 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 3,
+              "prompt": "Researchers found that tribespeople stayed longer in bed than inhabitants of industrialised regions.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 3",
+              "evidenceQuote": "Traveling to where they lived, often in humid, remote locations, researchers used medical devices to record the sleeping habits of 94 of these tribespeople and ended up collecting data representing 1,165 days.",
+              "evidenceTranslationVi": "Khi đến nơi họ sinh sống, thường là ở những nơi ẩm ướt, xa xôi, các nhà nghiên cứu đã sử dụng thiết bị y tế để ghi lại thói quen ngủ của 94 người trong bộ lạc này và thu thập dữ liệu trong 1.165 ngày.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn B, câu 3 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 4,
+              "prompt": "Jerome Siegel believes that environment and culture have little effect on sleep patterns.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG",
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "According to Jerome Siegel, director of the University of California's Center for Sleep Research, evidence suggests sleep habits may not be environmental or cultural, but central to the physical makeup of humans.",
+              "evidenceTranslationVi": "Theo Jerome Siegel, giám đốc Trung tâm Nghiên cứu Giấc ngủ của Đại học California, bằng chứng cho thấy thói quen ngủ có thể không phải do môi trường hay văn hóa mà là trung tâm của cấu tạo thể chất của con người.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn D, câu 1 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            }
+          ]
+        },
+        {
+          "id": "v10-t2-p1-g2",
+          "questionRange": [
+            5,
+            13
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "New Evidence on Sleep Patterns\nNew ideas about napping\n• scientists have recorded an afternoon drop in {{blank:5}}\n•\nstudies of hunter-gatherer societies show that napping was rare and occurred more often\nduring the {{blank:6}}\n• the devices may not have detected {{blank:7}} naps\nDaily activity cycles\n• the tribespeople went to sleep several hours after sunset even with {{blank:8}}\n• there was little light tribes people usually woke up around {{blank:9}}\n•\nscientists found that {{blank:10}} had almost as much influence on sleep patterns as\nlight\nDifferences between tribespeople and people in industrialised regions\n• {{blank:11}} is something that very few of the tribespeople suffered from\n• the environment of tribespeople may have been more suitable for sleep\n• tribespeople had better fitness than industrialised populations and were not {{blank:12}}\n• tribespeople also had stronger {{blank:13}}\nBristlecone Pines\nA On the dry, windswept mountain tops of the Great Basin in the western United States, at\naltitudes of over 3,000 m, grow the bristlecone pines (Pinus longaeva, Pinus aristata). The\nbristlecone has adjusted to places on earth that no other tree wants to inhabit, and in these\nharsh environments has flourished. Bristlecones don't grow very tall, 18.3 m at the most, but\nusually much less, while the girth of the largest one has been measured at 11.2 m. What makes\nbristlecone pines truly remarkable is their longevity: their average age is over 1,000 years, with\nthe oldest specimen - an individual known as Methuselah - dated at 4,723 years. This makes it\nnot only the world's oldest living tree; it is also the earth's oldest living inhabitant. The extreme\nage of bristlecone pines was not known about until the 1950s, and was only discovered then\nthanks to the efforts of Edmund Schulman. In 1932, Schulman had begun his career in\ndendrochronology as an assistant to A. E. Douglass of the Laboratory of Tree-ring Research at\nthe University of Arizona.",
+          "questions": [
+            {
+              "number": 5,
+              "prompt": "New Evidence on Sleep Patterns\nNew ideas about napping\n• scientists have recorded an afternoon drop in {{blank:5}}\n•\nstudies of hunter-gatherer societies show that napping was rare and occurred more often\nduring the {{blank:6}}\n• the devices may not have detected {{blank:7}} naps\nDaily activity cycles\n• the tribespeople went to sleep several hours after sunset even with {{blank:8}}\n• there was little light tribes people usually woke up around {{blank:9}}\n•\nscientists found that {{blank:10}} had almost as much influence on sleep patterns as\nlight\nDifferences between tribespeople and people in industrialised regions\n• {{blank:11}} is something that very few of the tribespeople suffered from\n• the environment of tribespeople may have been more suitable for sleep\n• tribespeople had better fitness than industrialised populations and were not {{blank:12}}\n• tribespeople also had stronger {{blank:13}}\nBristlecone Pines\nA On the dry, windswept mountain tops of the Great Basin in the western United States, at\naltitudes of over 3,000 m, grow the bristlecone pines (Pinus longaeva, Pinus aristata).",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "energy"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 4",
+              "evidenceQuote": "Scientists have documented that people's energy often falls in the mid-afternoon.",
+              "evidenceTranslationVi": "Các nhà khoa học đã ghi nhận rằng năng lượng của con người thường rơi vào giữa buổi chiều.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 4 để điền \"energy\"."
+            },
+            {
+              "number": 6,
+              "prompt": "New Evidence on Sleep Patterns\nNew ideas about napping\n• scientists have recorded an afternoon drop in {{blank:5}}\n•\nstudies of hunter-gatherer societies show that napping was rare and occurred more often\nduring the {{blank:6}}\n• the devices may not have detected {{blank:7}} naps\nDaily activity cycles\n• the tribespeople went to sleep several hours after sunset even with {{blank:8}}\n• there was little light tribes people usually woke up around {{blank:9}}\n•\nscientists found that {{blank:10}} had almost as much influence on sleep patterns as\nlight\nDifferences between tribespeople and people in industrialised regions\n• {{blank:11}} is something that very few of the tribespeople suffered from\n• the environment of tribespeople may have been more suitable for sleep\n• tribespeople had better fitness than industrialised populations and were not {{blank:12}}\n• tribespeople also had stronger {{blank:13}}\nBristlecone Pines\nA On the dry, windswept mountain tops of the Great Basin in the western United States, at\naltitudes of over 3,000 m, grow the bristlecone pines (Pinus longaeva, Pinus aristata).",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "summer"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 3",
+              "evidenceQuote": "They wrote that \"sleep in both the winter and summer usually occurred during the period of cooling and that waking times usually occurred near the height of the daily warming trend.\"",
+              "evidenceTranslationVi": "Họ viết rằng “giấc ngủ vào cả mùa đông và mùa hè thường xảy ra trong thời kỳ mát mẻ và thời gian thức giấc thường xảy ra gần mức cao nhất của xu hướng ấm lên hàng ngày”.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 3 để điền \"summer\"."
+            },
+            {
+              "number": 7,
+              "prompt": "New Evidence on Sleep Patterns\nNew ideas about napping\n• scientists have recorded an afternoon drop in {{blank:5}}\n•\nstudies of hunter-gatherer societies show that napping was rare and occurred more often\nduring the {{blank:6}}\n• the devices may not have detected {{blank:7}} naps\nDaily activity cycles\n• the tribespeople went to sleep several hours after sunset even with {{blank:8}}\n• there was little light tribes people usually woke up around {{blank:9}}\n•\nscientists found that {{blank:10}} had almost as much influence on sleep patterns as\nlight\nDifferences between tribespeople and people in industrialised regions\n• {{blank:11}} is something that very few of the tribespeople suffered from\n• the environment of tribespeople may have been more suitable for sleep\n• tribespeople had better fitness than industrialised populations and were not {{blank:12}}\n• tribespeople also had stronger {{blank:13}}\nBristlecone Pines\nA On the dry, windswept mountain tops of the Great Basin in the western United States, at\naltitudes of over 3,000 m, grow the bristlecone pines (Pinus longaeva, Pinus aristata).",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "short"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 3",
+              "evidenceQuote": "They noted that their devices were only good at detecting longer naps, so it is possible that some of the study subjects took naps that were short, perhaps 15 minutes or less.",
+              "evidenceTranslationVi": "Họ lưu ý rằng thiết bị của họ chỉ phát hiện tốt những giấc ngủ ngắn dài hơn, vì vậy có thể một số đối tượng nghiên cứu đã ngủ trưa ngắn, có thể là 15 phút hoặc ít hơn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 3 để điền \"short\"."
+            },
+            {
+              "number": 8,
+              "prompt": "New Evidence on Sleep Patterns\nNew ideas about napping\n• scientists have recorded an afternoon drop in {{blank:5}}\n•\nstudies of hunter-gatherer societies show that napping was rare and occurred more often\nduring the {{blank:6}}\n• the devices may not have detected {{blank:7}} naps\nDaily activity cycles\n• the tribespeople went to sleep several hours after sunset even with {{blank:8}}\n• there was little light tribes people usually woke up around {{blank:9}}\n•\nscientists found that {{blank:10}} had almost as much influence on sleep patterns as\nlight\nDifferences between tribespeople and people in industrialised regions\n• {{blank:11}} is something that very few of the tribespeople suffered from\n• the environment of tribespeople may have been more suitable for sleep\n• tribespeople had better fitness than industrialised populations and were not {{blank:12}}\n• tribespeople also had stronger {{blank:13}}\nBristlecone Pines\nA On the dry, windswept mountain tops of the Great Basin in the western United States, at\naltitudes of over 3,000 m, grow the bristlecone pines (Pinus longaeva, Pinus aristata).",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "fires"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 3",
+              "evidenceQuote": "All three tribes had fires going, but the light itself was much lower than you might get from a light bulb.",
+              "evidenceTranslationVi": "Cả ba bộ tộc đều đốt lửa, nhưng ánh sáng thấp hơn nhiều so với ánh sáng bạn có thể nhận được từ bóng đèn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 3 để điền \"fires\"."
+            },
+            {
+              "number": 9,
+              "prompt": "New Evidence on Sleep Patterns\nNew ideas about napping\n• scientists have recorded an afternoon drop in {{blank:5}}\n•\nstudies of hunter-gatherer societies show that napping was rare and occurred more often\nduring the {{blank:6}}\n• the devices may not have detected {{blank:7}} naps\nDaily activity cycles\n• the tribespeople went to sleep several hours after sunset even with {{blank:8}}\n• there was little light tribes people usually woke up around {{blank:9}}\n•\nscientists found that {{blank:10}} had almost as much influence on sleep patterns as\nlight\nDifferences between tribespeople and people in industrialised regions\n• {{blank:11}} is something that very few of the tribespeople suffered from\n• the environment of tribespeople may have been more suitable for sleep\n• tribespeople had better fitness than industrialised populations and were not {{blank:12}}\n• tribespeople also had stronger {{blank:13}}\nBristlecone Pines\nA On the dry, windswept mountain tops of the Great Basin in the western United States, at\naltitudes of over 3,000 m, grow the bristlecone pines (Pinus longaeva, Pinus aristata).",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "sunrise"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 4",
+              "evidenceQuote": "They did, however, have a tendency to wake up anywhere between an hour before and an hour after sunrise.",
+              "evidenceTranslationVi": "Tuy nhiên, họ có xu hướng thức dậy ở bất cứ đâu trong khoảng thời gian từ một giờ trước đến một giờ sau khi mặt trời mọc.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 4 để điền \"sunrise\"."
+            },
+            {
+              "number": 10,
+              "prompt": "New Evidence on Sleep Patterns\nNew ideas about napping\n• scientists have recorded an afternoon drop in {{blank:5}}\n•\nstudies of hunter-gatherer societies show that napping was rare and occurred more often\nduring the {{blank:6}}\n• the devices may not have detected {{blank:7}} naps\nDaily activity cycles\n• the tribespeople went to sleep several hours after sunset even with {{blank:8}}\n• there was little light tribes people usually woke up around {{blank:9}}\n•\nscientists found that {{blank:10}} had almost as much influence on sleep patterns as\nlight\nDifferences between tribespeople and people in industrialised regions\n• {{blank:11}} is something that very few of the tribespeople suffered from\n• the environment of tribespeople may have been more suitable for sleep\n• tribespeople had better fitness than industrialised populations and were not {{blank:12}}\n• tribespeople also had stronger {{blank:13}}\nBristlecone Pines\nA On the dry, windswept mountain tops of the Great Basin in the western United States, at\naltitudes of over 3,000 m, grow the bristlecone pines (Pinus longaeva, Pinus aristata).",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "temperature"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 1",
+              "evidenceQuote": "Siegel and his co-authors investigated this further by looking into the significance of temperature.",
+              "evidenceTranslationVi": "Siegel và các đồng tác giả đã nghiên cứu vấn đề này sâu hơn bằng cách xem xét tầm quan trọng của nhiệt độ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 1 để điền \"temperature\"."
+            },
+            {
+              "number": 11,
+              "prompt": "New Evidence on Sleep Patterns\nNew ideas about napping\n• scientists have recorded an afternoon drop in {{blank:5}}\n•\nstudies of hunter-gatherer societies show that napping was rare and occurred more often\nduring the {{blank:6}}\n• the devices may not have detected {{blank:7}} naps\nDaily activity cycles\n• the tribespeople went to sleep several hours after sunset even with {{blank:8}}\n• there was little light tribes people usually woke up around {{blank:9}}\n•\nscientists found that {{blank:10}} had almost as much influence on sleep patterns as\nlight\nDifferences between tribespeople and people in industrialised regions\n• {{blank:11}} is something that very few of the tribespeople suffered from\n• the environment of tribespeople may have been more suitable for sleep\n• tribespeople had better fitness than industrialised populations and were not {{blank:12}}\n• tribespeople also had stronger {{blank:13}}\nBristlecone Pines\nA On the dry, windswept mountain tops of the Great Basin in the western United States, at\naltitudes of over 3,000 m, grow the bristlecone pines (Pinus longaeva, Pinus aristata).",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "sleeplessness"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 2",
+              "evidenceQuote": "Importantly, almost none of them were troubled by sleeplessness.",
+              "evidenceTranslationVi": "Điều quan trọng là hầu như không ai trong số họ gặp rắc rối vì mất ngủ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn H, câu 2 để điền \"sleeplessness\"."
+            },
+            {
+              "number": 12,
+              "prompt": "New Evidence on Sleep Patterns\nNew ideas about napping\n• scientists have recorded an afternoon drop in {{blank:5}}\n•\nstudies of hunter-gatherer societies show that napping was rare and occurred more often\nduring the {{blank:6}}\n• the devices may not have detected {{blank:7}} naps\nDaily activity cycles\n• the tribespeople went to sleep several hours after sunset even with {{blank:8}}\n• there was little light tribes people usually woke up around {{blank:9}}\n•\nscientists found that {{blank:10}} had almost as much influence on sleep patterns as\nlight\nDifferences between tribespeople and people in industrialised regions\n• {{blank:11}} is something that very few of the tribespeople suffered from\n• the environment of tribespeople may have been more suitable for sleep\n• tribespeople had better fitness than industrialised populations and were not {{blank:12}}\n• tribespeople also had stronger {{blank:13}}\nBristlecone Pines\nA On the dry, windswept mountain tops of the Great Basin in the western United States, at\naltitudes of over 3,000 m, grow the bristlecone pines (Pinus longaeva, Pinus aristata).",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "overweight"
+              ],
+              "evidenceParagraphId": "I",
+              "evidenceLocation": "Đoạn I, câu 2",
+              "evidenceQuote": "Not a single one is overweight, indicating their overall higher levels of physical fitness.",
+              "evidenceTranslationVi": "Không một ai bị thừa cân, điều này cho thấy mức độ thể lực tổng thể của họ cao hơn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn I, câu 2 để điền \"overweight\"."
+            },
+            {
+              "number": 13,
+              "prompt": "New Evidence on Sleep Patterns\nNew ideas about napping\n• scientists have recorded an afternoon drop in {{blank:5}}\n•\nstudies of hunter-gatherer societies show that napping was rare and occurred more often\nduring the {{blank:6}}\n• the devices may not have detected {{blank:7}} naps\nDaily activity cycles\n• the tribespeople went to sleep several hours after sunset even with {{blank:8}}\n• there was little light tribes people usually woke up around {{blank:9}}\n•\nscientists found that {{blank:10}} had almost as much influence on sleep patterns as\nlight\nDifferences between tribespeople and people in industrialised regions\n• {{blank:11}} is something that very few of the tribespeople suffered from\n• the environment of tribespeople may have been more suitable for sleep\n• tribespeople had better fitness than industrialised populations and were not {{blank:12}}\n• tribespeople also had stronger {{blank:13}}\nBristlecone Pines\nA On the dry, windswept mountain tops of the Great Basin in the western United States, at\naltitudes of over 3,000 m, grow the bristlecone pines (Pinus longaeva, Pinus aristata).",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "hearts"
+              ],
+              "evidenceParagraphId": "I",
+              "evidenceLocation": "Đoạn I, câu 3",
+              "evidenceQuote": "They also tended to have healthier hearts.",
+              "evidenceTranslationVi": "Họ cũng có xu hướng có trái tim khỏe mạnh hơn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn I, câu 3 để điền \"hearts\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "B Douglass had noted that the wide rings of certain species of trees were produced during",
+      "subtitle": "wet years and, inversely, narrow rings during dry seasons. The more a tree's rate of growth has",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "been affected by such environmental factors, the more variation in ring-to-ring growth will be present. This variation is referred to as sensitivity and the lack of ring variability is called complacency. Patterns of ring variability are important for establishing chronologies, which allow precise dating of climatic conditions in the past. Samples taken from trees of unknown age can be studied for matches with samples from trees of a known age with known sequences of growth. Using this process, when the rings match or are found to have overlapping patterns, the chronology can be extended further back in time."
+        },
+        {
+          "id": "C",
+          "text": "In his search for older trees that would provide more extensive chronologies, Schulman learned that certain species of trees in the upper-forest zones, growing under stressful conditions, showed sensitive records of drought in their growth-ring sequences. The short, distorted, and dwarfed trees of the upper tree lines were now his focus. During 1954 and 1955, an extensive survey of bristlecone stands from California to Colorado was carried out by Schulman and his assistant assistant, C. W. Ferguson. They found the oldest trees at elevations of 3,048 to 3,354 m, often in seemingly impossible locations, on dolomite soils where no other plant life could survive. These trees showed large areas of deadwood and thin strips of living bark. The trees growing in the most extreme conditions, with scant soil and moisture, seemed to be the oldest. This prompted Schulman to write: 'The capacity of these trees to live so fantastically long may, when we come to understand it fully, perhaps serve as a guidepost on the road to the understanding of longevity in general.' D So what factors do account for the longevity of bristlecone pines? Spring comes to the bristlecone pines in early May with the melting of snow and rising temperatures. In this subalpine zone there are only three warm summer months, often only six weeks, to produce growth and reserves for overwintering. All of this must be accomplished on a mere 25.4 cm of rainfall. To live so long under such conditions, the bristlecone has established several strategies. Firstly, bristlecone needles can live twenty to thirty years; thus, adding new foliage to that already on the tree takes little energy. The long-lived needles provide a stable photosynthetic capacity to sustain the tree over years of severe stress. Another strategy for surviving is the gradual dieback of living bark when the tree is damaged because of fire, lightning, drought, or storms. This reduction of tissue that the crown of the tree has to supply with nutrients balances the effect of any damage sustained. The surviving parts remain quite healthy. As an example, Pine Alpha, at over 4,000 years old, is over a metre in diameter, yet has only a 25 cm strip of living bark to support it. Finally, invasions from bacteria, fungi, or insects that prey upon most plants are unknown to the bristlecones due to their highly resinous wood.",
+          "label": "C"
+        },
+        {
+          "id": "E",
+          "text": "Environmental factors also play their part. The dry air common in the subalpine region helps preserve the trees from rotting. The oldest bristlecones live in the most exposed sites, with considerable space between each tree. The longevity of the bristlecone needles and the inability of other plants to grow in the dolomite soil preferred by the bristlecones make for little leaf litter. This distance in between, combined with the lack of ground cover, ensures that if a tree sustains a lightning strike and catches fire, the fire does not spread to surrounding trees. Thus, the bristlecone pines have survived for unknown centuries. The current threat is from all the people who come to visit them. As a result, Methuselah, the oldest tree, is not marked or identified with a plaque due to the threat of vandalism. The recording of past events provided by these trees, along with their great beauty, is too valuable for us to lose.",
+          "label": "E"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v10-t2-p2-g1",
+          "questionRange": [
+            14,
+            17
+          ],
+          "type": "matching_info",
+          "instruction": "Reading Passage 2 has five paragraphs, A-E. Which paragraph contains the following information? Choose the correct letter, A-E, in boxes 14-17. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "an explanation of differences in ring patterns",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 3",
+              "evidenceQuote": "Patterns of ring variability are important for establishing chronologies, which allow precise dating of climatic conditions in the past.",
+              "evidenceTranslationVi": "Các mô hình biến thiên của vòng rất quan trọng để thiết lập niên đại, cho phép xác định niên đại chính xác của các điều kiện khí hậu trong quá khứ.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn B (Đoạn 1, câu 3)."
+            },
+            {
+              "number": 15,
+              "prompt": "mention of a human danger to bristlecone pines",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 6",
+              "evidenceQuote": "Thus, the bristlecone pines have survived for unknown centuries.",
+              "evidenceTranslationVi": "Vì vậy, những cây thông nón cứng đã tồn tại qua nhiều thế kỷ không xác định.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn E (Đoạn E, câu 6)."
+            },
+            {
+              "number": 16,
+              "prompt": "an account of research conducted on bristlecone pines",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 9",
+              "evidenceQuote": "This prompted Schulman to write: 'The capacity of these trees to live so fantastically long may, when we come to understand it fully, perhaps serve as a guidepost on the road to the understanding of longevity in general.' D So what factors do account for the longevity of bristlecone pines?",
+              "evidenceTranslationVi": "Điều này đã thôi thúc Schulman viết: 'Khả năng sống lâu đến mức kỳ diệu của những cây này có thể, khi chúng ta hiểu đầy đủ về nó, có thể đóng vai trò là kim chỉ nam trên con đường hiểu biết về tuổi thọ nói chung.' D Vậy yếu tố nào quyết định tuổi thọ của cây thông nón?",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn C (Đoạn C, câu 9)."
+            },
+            {
+              "number": 17,
+              "prompt": "an advantage of the bristlecone pines' habitat",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 3",
+              "evidenceQuote": "During 1954 and 1955, an extensive survey of bristlecone stands from California to Colorado was carried out by Schulman and his assistant assistant, C.",
+              "evidenceTranslationVi": "Trong năm 1954 và 1955, một cuộc khảo sát rộng rãi về các cây nón lông cứng từ California đến Colorado đã được Schulman và trợ lý của ông, C.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn A (Đoạn C, câu 3)."
+            }
+          ]
+        },
+        {
+          "id": "v10-t2-p2-g2",
+          "questionRange": [
+            18,
+            20
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 18,
+              "prompt": "According to the writer, the most interesting fact about bristlecone pines is their",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "habitat."
+                },
+                {
+                  "key": "B",
+                  "text": "height."
+                },
+                {
+                  "key": "C",
+                  "text": "width."
+                },
+                {
+                  "key": "D",
+                  "text": "age."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 9",
+              "evidenceQuote": "This prompted Schulman to write: 'The capacity of these trees to live so fantastically long may, when we come to understand it fully, perhaps serve as a guidepost on the road to the understanding of longevity in general.' D So what factors do account for the longevity of bristlecone pines?",
+              "evidenceTranslationVi": "Điều này đã thôi thúc Schulman viết: 'Khả năng sống lâu đến mức kỳ diệu của những cây này có thể, khi chúng ta hiểu đầy đủ về nó, có thể đóng vai trò là kim chỉ nam trên con đường hiểu biết về tuổi thọ nói chung.' D Vậy yếu tố nào quyết định tuổi thọ của cây thông nón?",
+              "explanationVi": "Thông tin tại Đoạn C, câu 9 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 19,
+              "prompt": "A pattern of narrow rings is caused by",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "alternating rainy and dry seasons."
+                },
+                {
+                  "key": "B",
+                  "text": "a lack of rain."
+                },
+                {
+                  "key": "C",
+                  "text": "restricted growth in some trees."
+                },
+                {
+                  "key": "D",
+                  "text": "high altitude."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 2",
+              "evidenceQuote": "This variation is referred to as sensitivity and the lack of ring variability is called complacency.",
+              "evidenceTranslationVi": "Sự biến đổi này được gọi là độ nhạy và sự thiếu biến thiên của vòng được gọi là sự tự mãn.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 2 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 20,
+              "prompt": "Schulman chose to study trees growing at high levels because they were",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "shorter than similar trees."
+                },
+                {
+                  "key": "B",
+                  "text": "growing in unusual shapes."
+                },
+                {
+                  "key": "C",
+                  "text": "much older than other trees."
+                },
+                {
+                  "key": "D",
+                  "text": "the only surviving plants."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "In his search for older trees that would provide more extensive chronologies, Schulman learned that certain species of trees in the upper-forest zones, growing under stressful conditions, showed sensitive records of drought in their growth-ring sequences.",
+              "evidenceTranslationVi": "Trong quá trình tìm kiếm những cây cổ thụ có thể cung cấp niên đại sâu rộng hơn, Schulman biết được rằng một số loài cây ở vùng rừng phía trên, phát triển trong điều kiện căng thẳng, đã cho thấy những ghi chép nhạy cảm về hạn hán trong trình tự vòng sinh trưởng của chúng.",
+              "explanationVi": "Thông tin tại Đoạn C, câu 1 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v10-t2-p2-g3",
+          "questionRange": [
+            21,
+            26
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "bodyText": "Factors in the survival of bristlecone pines\na. features of bristlecone pines\n• making new needles requires {{blank:21}}\n• trees damaged by weather or fire can exist with only small areas of {{blank:22}}\n• bristlecone wood is very {{blank:23}}\nb. features of the environment\n• trees don't decay because of the {{blank:24}}\n• fires don't spread easily because of the {{blank:25}}\nbetween trees and absence of {{blank:26}}\nLOSS OF RARE LANGUAGES\n\"Obviously we must do some serious rethinking of our priorities, lest linguistics go down in\nhistory as the only science that presided obviously over the disappearance of 90 percent of\nthe very field to which it is dedicated.\" - Michael Krauss, The World's languages in Crisis\"",
+          "questions": [
+            {
+              "number": 21,
+              "prompt": "features of bristlecone pines\n• making new needles requires {{blank:21}}\n• trees damaged by weather or fire can exist with only small areas of {{blank:22}}\n• bristlecone wood is very {{blank:23}}\nb.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "little energy"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 14",
+              "evidenceQuote": "Firstly, bristlecone needles can live twenty to thirty years; thus, adding new foliage to that already on the tree takes little energy.",
+              "evidenceTranslationVi": "Thứ nhất, kim lông cứng có thể sống từ hai mươi đến ba mươi năm; do đó, việc thêm những tán lá mới vào những tán lá đã có trên cây sẽ tốn ít năng lượng hơn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn C, câu 14 để điền \"little energy\"."
+            },
+            {
+              "number": 22,
+              "prompt": "features of bristlecone pines\n• making new needles requires {{blank:21}}\n• trees damaged by weather or fire can exist with only small areas of {{blank:22}}\n• bristlecone wood is very {{blank:23}}\nb.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "living bark"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 7",
+              "evidenceQuote": "These trees showed large areas of deadwood and thin strips of living bark.",
+              "evidenceTranslationVi": "Những cây này có nhiều khu vực gỗ chết và những dải vỏ cây sống mỏng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn C, câu 7 để điền \"living bark\"."
+            },
+            {
+              "number": 23,
+              "prompt": "features of bristlecone pines\n• making new needles requires {{blank:21}}\n• trees damaged by weather or fire can exist with only small areas of {{blank:22}}\n• bristlecone wood is very {{blank:23}}\nb.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "resinous"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 20",
+              "evidenceQuote": "Finally, invasions from bacteria, fungi, or insects that prey upon most plants are unknown to the bristlecones due to their highly resinous wood.",
+              "evidenceTranslationVi": "Cuối cùng, các loài côn trùng, nấm hoặc vi khuẩn xâm lấn hầu hết các loài thực vật đều không được biết đến do gỗ có nhiều nhựa của chúng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn C, câu 20 để điền \"resinous\"."
+            },
+            {
+              "number": 24,
+              "prompt": "features of the environment\n• trees don't decay because of the {{blank:24}}\n• fires don't spread easily because of the {{blank:25}}\nbetween trees and absence of {{blank:26}}\nLOSS OF RARE LANGUAGES\n\"Obviously we must do some serious rethinking of our priorities, lest linguistics go down in\nhistory as the only science that presided obviously over the disappearance of 90 percent of\nthe very field to which it is dedicated.\" - Michael Krauss, The World's languages in Crisis\"",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "dry air"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 2",
+              "evidenceQuote": "The dry air common in the subalpine region helps preserve the trees from rotting.",
+              "evidenceTranslationVi": "Không khí khô phổ biến ở vùng cận núi giúp bảo vệ cây khỏi bị mục nát.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 2 để điền \"dry air\"."
+            },
+            {
+              "number": 25,
+              "prompt": "features of the environment\n• trees don't decay because of the {{blank:24}}\n• fires don't spread easily because of the {{blank:25}}\nbetween trees and absence of {{blank:26}}\nLOSS OF RARE LANGUAGES\n\"Obviously we must do some serious rethinking of our priorities, lest linguistics go down in\nhistory as the only science that presided obviously over the disappearance of 90 percent of\nthe very field to which it is dedicated.\" - Michael Krauss, The World's languages in Crisis\"",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "distance"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 5",
+              "evidenceQuote": "This distance in between, combined with the lack of ground cover, ensures that if a tree sustains a lightning strike and catches fire, the fire does not spread to surrounding trees.",
+              "evidenceTranslationVi": "Khoảng cách ở giữa này, kết hợp với việc không có lớp phủ mặt đất, đảm bảo rằng nếu cây bị sét đánh và bắt lửa, lửa sẽ không lan sang các cây xung quanh.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 5 để điền \"distance\"."
+            },
+            {
+              "number": 26,
+              "prompt": "features of the environment\n• trees don't decay because of the {{blank:24}}\n• fires don't spread easily because of the {{blank:25}}\nbetween trees and absence of {{blank:26}}\nLOSS OF RARE LANGUAGES\n\"Obviously we must do some serious rethinking of our priorities, lest linguistics go down in\nhistory as the only science that presided obviously over the disappearance of 90 percent of\nthe very field to which it is dedicated.\" - Michael Krauss, The World's languages in Crisis\"",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "ground cover"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 5",
+              "evidenceQuote": "This distance in between, combined with the lack of ground cover, ensures that if a tree sustains a lightning strike and catches fire, the fire does not spread to surrounding trees.",
+              "evidenceTranslationVi": "Khoảng cách ở giữa này, kết hợp với việc không có lớp phủ mặt đất, đảm bảo rằng nếu cây bị sét đánh và bắt lửa, lửa sẽ không lan sang các cây xung quanh.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn E, câu 5 để điền \"ground cover\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "27 …………………… Ten years ago, Michael Krauss sent a shudder through the discipline of linguistics with his",
+      "subtitle": "prediction that half the 6,000 or so languages spoken in the world would cease to be uttered",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "within a century. Unless scientists and community leaders directed a worldwide effort to stabilize the decline of local languages, he warned, nine tenths of the linguistic diversity of humankind would probably be doomed to extinction. Krauss's prediction was little more than an educated guess, but other respected linguists had been clanging out similar alarms. Keneth L. Hale of the Massachusetts Institute of Technology noted in the same journal issue that eight languages on which he had done fieldwork had since passed into extinction. A 1990 survey in Australia found that 70 of the 90 surviving Aboriginal languages were no longer used regularly by all age groups. The same was true for all but 20 of the 175 Native American languages spoken or remembered in the US, Krauss told a congressional panel in 1992."
+        },
+        {
+          "id": "Q28",
+          "text": "Many experts in the field mourn the loss of rare languages, for several reasons. To start, there is scientific self-interest; some of the most basic questions in linguistics have to do with the limits of human speech, which are far from fully explored. Many researchers would like to know which structural elements of grammar and vocabulary—If any—are truly universal and probably therefore hardwired into the human brain. Other scientists try to reconstruct ancient migration patterns by comparing borrowed words that appear in otherwise unrelated languages, in each of these cases, the wider the portfolio of languages you study, the more likely you are to get the right answers. Example: vi) A period when there was an absence of real efforts made. Despite the near constant buzz in linguistics about endangered languages over the past 10 years, the field has accomplished depressingly little. \"You would think that there would be some organized response to this dire situation 'some attempt to determine which language can be saved and which should be documented before they disappear, \" says Sarah G Thomason, a linguist at the University of Michigan at Ann Arbor. But there isn't any such effort organized in the profession. It is only recently that it has become fashionable enough to work on endangered languages.\" Six years ago, recalls Douglas H. Whalen of Yale University, when I asked linguists who were raising money to deal with these problems, I mostly got blank stares.\" So, Whalen and a few other linguists founded the Endangered Languages Fund. In the five years to 2001 they were able to collect only $80,000 for research grants. A similar foundation in England, directed by Nicholas Ostler, has raised just $8,000 since 1995.",
+          "label": "Q28"
+        },
+        {
+          "id": "Q29",
+          "text": "But there are encouraging signs that the field has turned a corner. The Volkswagen Foundation, a German charity, just issued its second round of grants totaling more than 52 million. It has created a multimedia archive at the Max Planck Institute for Psycholinguistics in the Netherlands that can house recordings, grammars, dictionaries and other data on endangered languages. To fill the archive, the foundation has dispatched field linguists to document Aweti (100 or so speakers in Brazil), Ega (about 300 speakers in Ivory Coast). Waima'a (a few hundred speakers in East Timor), and a dozen or so other languages are unlikely to survive the century. The Ford Foundation has also edged into the arena. Its contributions helped to reinvigorate a master-apprentice program created in 1992 by Leanne Hinton of Berkeley and Native Americans worried about the imminent demise of about 50 indigenous languages in California. Fluent speakers receive $3,000 to teach a younger relative (who is also paid) their native tongue through 360 hours of shared activities, spread over six months. So far about 5 teams have completed the program, Hinton says, transmitting at least some knowledge of 25 languages. \"It's too early to call this language revitalization,\" Hinton admits. \"In California the death rate of elderly speakers will always be greater than the recruitment rate of young speakers. But at least we prolong the survival of the language.\" That will give linguists more time to record these tongues before they vanish.",
+          "label": "Q29"
+        },
+        {
+          "id": "Q30",
+          "text": "But the master-apprentice approach hasn't caught on outside the U.S., and Hinton's effort is a drop in the sea. At least 440 languages have been reduced to a mere handful of elders, according to the Ethnologue, a catalogue of languages produced by the Dallas-based group 511 International that comes closest to global coverage. For the vast majority of these languages, there is little or no record of their grammar, vocabulary, pronunciation or use in daily life. Even if a language has been fully documented, all that remains once it vanishes from active use is a fossil skeleton, a scattering of features that the scientist was lucky and astute enough to capture. Linguists may be able to sketch an outline of the forgotten language and fig its place on the evolutionary tree, but little more. \"How did people start conversations and talk to babies? How did husbands and wives converse?\" Hinton asks. \"Those are the first things you want to learn when you want to revitalize the language.\"",
+          "label": "Q30"
+        },
+        {
+          "id": "Q31",
+          "text": "But there is as yet no discipline of \"conservation linguistics,\" as there is for biology. Almost every strategy tried so far has succeeded in some places but failed in others, and there seems to be no way to predict with certainty what will work where. Twenty years ago in New Zealand, Maori speakers set up \"language nests,\" in which preschoolers were immersed in the native language. Additional Maori-only classes were added as the children progressed through elementary and secondary school. A similar approach was tried in Hawaii, with some success—the number of native speakers has stabilized at 1,000 or so, reports Joseph E. Grimes of SIL International, who is working on Oahu. Students can now get instruction in Hawaiian all the way through university.",
+          "label": "Q31"
+        },
+        {
+          "id": "Q32",
+          "text": "One factor that always seems to occur in the demise of a language is that the speakers begin to have collective doubts about the usefulness of language loyalty. Once they start regarding their own language as inferior to the majority language, people stop using it for all situations. Kids pick up on the attitude and prefer the dominant language. In many cases, people don't notice until they suddenly realize that their kids never speak the language, even at home. This is how Cornish, and some dialects of Scottish Gaelic, are still only rarely used for daily home life in Ireland, 80 years after the republic was founded with Irish as its first official language.",
+          "label": "Q32"
+        },
+        {
+          "id": "Q33",
+          "text": "Linguists agree that ultimately, the answer to the problem of language extinction is multilingualism. Even uneducated people can learn several languages, as long as they start as children. Indeed, most people in the world speak more than one tongue, and in places such as Cameroon (279 languages), Papua New Guinea (823) and India (387) it is common to speak three or four distinct languages and a dialect or two as well. Most Americans and Canadians, to the west of Quebec, have a gut reaction that anyone speaking another language in front of them is committing an immoral act. You get the same reaction in Australia and Russia. It is no coincidence that these are the areas where languages are disappearing the fastest. The first step in saving dying languages is to persuade the world's majorities to allow the minorities among them to speak with their own voices.",
+          "label": "Q33"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v10-t2-p3-g1",
+          "questionRange": [
+            27,
+            33
+          ],
+          "type": "matching_headings",
+          "instruction": "The reading passage has eight paragraphs. Choose the correct heading for paragraphs A-H from the list below. Choose the correct number, i-xi, in boxes 27-33.",
+          "options": [
+            {
+              "key": "i",
+              "text": "Inadequate data"
+            },
+            {
+              "key": "ii",
+              "text": "Consensus on an Initial recommendation for saving dying out languages"
+            },
+            {
+              "key": "iii",
+              "text": "Positive gains in protection efforts"
+            },
+            {
+              "key": "iv",
+              "text": "Minimum requirement for saving a language"
+            },
+            {
+              "key": "ix",
+              "text": "Practice in several developing countries v) Potential threat to minority languages"
+            },
+            {
+              "key": "vi",
+              "text": "A period when there was an absence of real efforts made."
+            },
+            {
+              "key": "vii",
+              "text": "Uncertainty about the success of native language programs."
+            },
+            {
+              "key": "viii",
+              "text": "Lack in confidence in young speakers as a negative factor"
+            },
+            {
+              "key": "x",
+              "text": "Value of minority languages to linguists."
+            },
+            {
+              "key": "xi",
+              "text": "Government participation in language field"
+            }
+          ],
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "Section/Paragraph for Question 27",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "Inadequate data"
+                },
+                {
+                  "key": "ii",
+                  "text": "Consensus on an Initial recommendation for saving dying out languages"
+                },
+                {
+                  "key": "iii",
+                  "text": "Positive gains in protection efforts"
+                },
+                {
+                  "key": "iv",
+                  "text": "Minimum requirement for saving a language"
+                },
+                {
+                  "key": "ix",
+                  "text": "Practice in several developing countries v) Potential threat to minority languages"
+                },
+                {
+                  "key": "vi",
+                  "text": "A period when there was an absence of real efforts made."
+                },
+                {
+                  "key": "vii",
+                  "text": "Uncertainty about the success of native language programs."
+                },
+                {
+                  "key": "viii",
+                  "text": "Lack in confidence in young speakers as a negative factor"
+                },
+                {
+                  "key": "x",
+                  "text": "Value of minority languages to linguists."
+                },
+                {
+                  "key": "xi",
+                  "text": "Government participation in language field"
+                }
+              ],
+              "acceptedAnswers": [
+                "v) Potential threat to minority languages"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "within a century.",
+              "evidenceTranslationVi": "trong vòng một thế kỷ.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 1 tương ứng tiêu đề v) Potential threat to minority languages; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 28,
+              "prompt": "Section/Paragraph for Question 28",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "Inadequate data"
+                },
+                {
+                  "key": "ii",
+                  "text": "Consensus on an Initial recommendation for saving dying out languages"
+                },
+                {
+                  "key": "iii",
+                  "text": "Positive gains in protection efforts"
+                },
+                {
+                  "key": "iv",
+                  "text": "Minimum requirement for saving a language"
+                },
+                {
+                  "key": "ix",
+                  "text": "Practice in several developing countries v) Potential threat to minority languages"
+                },
+                {
+                  "key": "vi",
+                  "text": "A period when there was an absence of real efforts made."
+                },
+                {
+                  "key": "vii",
+                  "text": "Uncertainty about the success of native language programs."
+                },
+                {
+                  "key": "viii",
+                  "text": "Lack in confidence in young speakers as a negative factor"
+                },
+                {
+                  "key": "x",
+                  "text": "Value of minority languages to linguists."
+                },
+                {
+                  "key": "xi",
+                  "text": "Government participation in language field"
+                }
+              ],
+              "acceptedAnswers": [
+                "x) Value of minority languages to linguists"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "within a century.",
+              "evidenceTranslationVi": "trong vòng một thế kỷ.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 1 tương ứng tiêu đề x) Value of minority languages to linguists; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 29,
+              "prompt": "Section/Paragraph for Question 29",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "Inadequate data"
+                },
+                {
+                  "key": "ii",
+                  "text": "Consensus on an Initial recommendation for saving dying out languages"
+                },
+                {
+                  "key": "iii",
+                  "text": "Positive gains in protection efforts"
+                },
+                {
+                  "key": "iv",
+                  "text": "Minimum requirement for saving a language"
+                },
+                {
+                  "key": "ix",
+                  "text": "Practice in several developing countries v) Potential threat to minority languages"
+                },
+                {
+                  "key": "vi",
+                  "text": "A period when there was an absence of real efforts made."
+                },
+                {
+                  "key": "vii",
+                  "text": "Uncertainty about the success of native language programs."
+                },
+                {
+                  "key": "viii",
+                  "text": "Lack in confidence in young speakers as a negative factor"
+                },
+                {
+                  "key": "x",
+                  "text": "Value of minority languages to linguists."
+                },
+                {
+                  "key": "xi",
+                  "text": "Government participation in language field"
+                }
+              ],
+              "acceptedAnswers": [
+                "iii) Positive gains in protection efforts"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "within a century.",
+              "evidenceTranslationVi": "trong vòng một thế kỷ.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 1 tương ứng tiêu đề iii) Positive gains in protection efforts; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 30,
+              "prompt": "Section/Paragraph for Question 30",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "Inadequate data"
+                },
+                {
+                  "key": "ii",
+                  "text": "Consensus on an Initial recommendation for saving dying out languages"
+                },
+                {
+                  "key": "iii",
+                  "text": "Positive gains in protection efforts"
+                },
+                {
+                  "key": "iv",
+                  "text": "Minimum requirement for saving a language"
+                },
+                {
+                  "key": "ix",
+                  "text": "Practice in several developing countries v) Potential threat to minority languages"
+                },
+                {
+                  "key": "vi",
+                  "text": "A period when there was an absence of real efforts made."
+                },
+                {
+                  "key": "vii",
+                  "text": "Uncertainty about the success of native language programs."
+                },
+                {
+                  "key": "viii",
+                  "text": "Lack in confidence in young speakers as a negative factor"
+                },
+                {
+                  "key": "x",
+                  "text": "Value of minority languages to linguists."
+                },
+                {
+                  "key": "xi",
+                  "text": "Government participation in language field"
+                }
+              ],
+              "acceptedAnswers": [
+                "iv) Minimum requirement for saving a language"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "within a century.",
+              "evidenceTranslationVi": "trong vòng một thế kỷ.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 1 tương ứng tiêu đề iv) Minimum requirement for saving a language; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 31,
+              "prompt": "Section/Paragraph for Question 31",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "Inadequate data"
+                },
+                {
+                  "key": "ii",
+                  "text": "Consensus on an Initial recommendation for saving dying out languages"
+                },
+                {
+                  "key": "iii",
+                  "text": "Positive gains in protection efforts"
+                },
+                {
+                  "key": "iv",
+                  "text": "Minimum requirement for saving a language"
+                },
+                {
+                  "key": "ix",
+                  "text": "Practice in several developing countries v) Potential threat to minority languages"
+                },
+                {
+                  "key": "vi",
+                  "text": "A period when there was an absence of real efforts made."
+                },
+                {
+                  "key": "vii",
+                  "text": "Uncertainty about the success of native language programs."
+                },
+                {
+                  "key": "viii",
+                  "text": "Lack in confidence in young speakers as a negative factor"
+                },
+                {
+                  "key": "x",
+                  "text": "Value of minority languages to linguists."
+                },
+                {
+                  "key": "xi",
+                  "text": "Government participation in language field"
+                }
+              ],
+              "acceptedAnswers": [
+                "vii) Uncertainty about the success of native language programs"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "within a century.",
+              "evidenceTranslationVi": "trong vòng một thế kỷ.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 1 tương ứng tiêu đề vii) Uncertainty about the success of native language programs; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 32,
+              "prompt": "Section/Paragraph for Question 32",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "Inadequate data"
+                },
+                {
+                  "key": "ii",
+                  "text": "Consensus on an Initial recommendation for saving dying out languages"
+                },
+                {
+                  "key": "iii",
+                  "text": "Positive gains in protection efforts"
+                },
+                {
+                  "key": "iv",
+                  "text": "Minimum requirement for saving a language"
+                },
+                {
+                  "key": "ix",
+                  "text": "Practice in several developing countries v) Potential threat to minority languages"
+                },
+                {
+                  "key": "vi",
+                  "text": "A period when there was an absence of real efforts made."
+                },
+                {
+                  "key": "vii",
+                  "text": "Uncertainty about the success of native language programs."
+                },
+                {
+                  "key": "viii",
+                  "text": "Lack in confidence in young speakers as a negative factor"
+                },
+                {
+                  "key": "x",
+                  "text": "Value of minority languages to linguists."
+                },
+                {
+                  "key": "xi",
+                  "text": "Government participation in language field"
+                }
+              ],
+              "acceptedAnswers": [
+                "viii) Lack in confidence in young speakers as a negative factor"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "within a century.",
+              "evidenceTranslationVi": "trong vòng một thế kỷ.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 1 tương ứng tiêu đề viii) Lack in confidence in young speakers as a negative factor; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 33,
+              "prompt": "Section/Paragraph for Question 33",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "Inadequate data"
+                },
+                {
+                  "key": "ii",
+                  "text": "Consensus on an Initial recommendation for saving dying out languages"
+                },
+                {
+                  "key": "iii",
+                  "text": "Positive gains in protection efforts"
+                },
+                {
+                  "key": "iv",
+                  "text": "Minimum requirement for saving a language"
+                },
+                {
+                  "key": "ix",
+                  "text": "Practice in several developing countries v) Potential threat to minority languages"
+                },
+                {
+                  "key": "vi",
+                  "text": "A period when there was an absence of real efforts made."
+                },
+                {
+                  "key": "vii",
+                  "text": "Uncertainty about the success of native language programs."
+                },
+                {
+                  "key": "viii",
+                  "text": "Lack in confidence in young speakers as a negative factor"
+                },
+                {
+                  "key": "x",
+                  "text": "Value of minority languages to linguists."
+                },
+                {
+                  "key": "xi",
+                  "text": "Government participation in language field"
+                }
+              ],
+              "acceptedAnswers": [
+                "ii) Consensus on an Initial recommendation for saving dying out languages"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "within a century.",
+              "evidenceTranslationVi": "trong vòng một thế kỷ.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 1 tương ứng tiêu đề ii) Consensus on an Initial recommendation for saving dying out languages; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            }
+          ]
+        },
+        {
+          "id": "v10-t2-p3-g2",
+          "questionRange": [
+            34,
+            38
+          ],
+          "type": "matching_features",
+          "instruction": "Use the information in the passage to match the people (listed A-F) with opinions or deeds below. Choose the appropriate letters A-F, in boxes 34-38.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Nicholas Ostler"
+            },
+            {
+              "key": "B",
+              "text": "Michael Krauss"
+            },
+            {
+              "key": "C",
+              "text": "Joseph E. Grimes"
+            },
+            {
+              "key": "D",
+              "text": "Sarah G. Thomason"
+            },
+            {
+              "key": "E",
+              "text": "Keneth L. Hale"
+            },
+            {
+              "key": "F",
+              "text": "Douglas H. Whalen A B C D E F"
+            }
+          ],
+          "questions": [
+            {
+              "number": 34,
+              "prompt": "Reported about the success of a language conservation practice In Hawaii",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Nicholas Ostler"
+                },
+                {
+                  "key": "B",
+                  "text": "Michael Krauss"
+                },
+                {
+                  "key": "C",
+                  "text": "Joseph E. Grimes"
+                },
+                {
+                  "key": "D",
+                  "text": "Sarah G. Thomason"
+                },
+                {
+                  "key": "E",
+                  "text": "Keneth L. Hale"
+                },
+                {
+                  "key": "F",
+                  "text": "Douglas H. Whalen A B C D E F"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "Q31",
+              "evidenceLocation": "Đoạn Q31, câu 5",
+              "evidenceQuote": "A similar approach was tried in Hawaii, with some success—the number of native speakers has stabilized at 1,000 or so, reports Joseph E.",
+              "evidenceTranslationVi": "Một cách tiếp cận tương tự đã được thử ở Hawaii và đạt được một số thành công—số lượng người bản xứ đã ổn định ở mức khoảng 1.000 người, theo báo cáo của Joseph E.",
+              "explanationVi": "Thông tin tại Đoạn Q31, câu 5 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 35,
+              "prompt": "Predicted that many languages would disappear soon",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Nicholas Ostler"
+                },
+                {
+                  "key": "B",
+                  "text": "Michael Krauss"
+                },
+                {
+                  "key": "C",
+                  "text": "Joseph E. Grimes"
+                },
+                {
+                  "key": "D",
+                  "text": "Sarah G. Thomason"
+                },
+                {
+                  "key": "E",
+                  "text": "Keneth L. Hale"
+                },
+                {
+                  "key": "F",
+                  "text": "Douglas H. Whalen A B C D E F"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 7",
+              "evidenceQuote": "The same was true for all but 20 of the 175 Native American languages spoken or remembered in the US, Krauss told a congressional panel in 1992.",
+              "evidenceTranslationVi": "Điều này cũng đúng với tất cả ngoại trừ 20 trong số 175 ngôn ngữ của người Mỹ bản địa được nói hoặc ghi nhớ ở Mỹ, Krauss phát biểu trước hội đồng quốc hội vào năm 1992.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 7 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 36,
+              "prompt": "Experienced loss of languages he had worked on personally",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Nicholas Ostler"
+                },
+                {
+                  "key": "B",
+                  "text": "Michael Krauss"
+                },
+                {
+                  "key": "C",
+                  "text": "Joseph E. Grimes"
+                },
+                {
+                  "key": "D",
+                  "text": "Sarah G. Thomason"
+                },
+                {
+                  "key": "E",
+                  "text": "Keneth L. Hale"
+                },
+                {
+                  "key": "F",
+                  "text": "Douglas H. Whalen A B C D E F"
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 5",
+              "evidenceQuote": "Hale of the Massachusetts Institute of Technology noted in the same journal issue that eight languages on which he had done fieldwork had since passed into extinction.",
+              "evidenceTranslationVi": "Hale của Viện Công nghệ Massachusetts đã lưu ý trong cùng một tạp chí rằng tám ngôn ngữ mà ông sử dụng để nghiên cứu thực địa đã bị tuyệt chủng.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 5 khớp trực tiếp với lựa chọn E; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 37,
+              "prompt": "Raised language funds In England",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Nicholas Ostler"
+                },
+                {
+                  "key": "B",
+                  "text": "Michael Krauss"
+                },
+                {
+                  "key": "C",
+                  "text": "Joseph E. Grimes"
+                },
+                {
+                  "key": "D",
+                  "text": "Sarah G. Thomason"
+                },
+                {
+                  "key": "E",
+                  "text": "Keneth L. Hale"
+                },
+                {
+                  "key": "F",
+                  "text": "Douglas H. Whalen A B C D E F"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "Q28",
+              "evidenceLocation": "Đoạn Q28, câu 12",
+              "evidenceQuote": "A similar foundation in England, directed by Nicholas Ostler, has raised just $8,000 since 1995.",
+              "evidenceTranslationVi": "Một quỹ tương tự ở Anh, do Nicholas Ostler chỉ đạo, chỉ huy động được 8.000 USD kể từ năm 1995.",
+              "explanationVi": "Thông tin tại Đoạn Q28, câu 12 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 38,
+              "prompt": "Not enough effort on saving languages until recent work",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Nicholas Ostler"
+                },
+                {
+                  "key": "B",
+                  "text": "Michael Krauss"
+                },
+                {
+                  "key": "C",
+                  "text": "Joseph E. Grimes"
+                },
+                {
+                  "key": "D",
+                  "text": "Sarah G. Thomason"
+                },
+                {
+                  "key": "E",
+                  "text": "Keneth L. Hale"
+                },
+                {
+                  "key": "F",
+                  "text": "Douglas H. Whalen A B C D E F"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "Q28",
+              "evidenceLocation": "Đoạn Q28, câu 9",
+              "evidenceQuote": "It is only recently that it has become fashionable enough to work on endangered languages.\" Six years ago, recalls Douglas H.",
+              "evidenceTranslationVi": "Chỉ gần đây nó mới trở nên đủ thời trang để nghiên cứu các ngôn ngữ có nguy cơ tuyệt chủng.\" Sáu năm trước, Douglas H.",
+              "explanationVi": "Thông tin tại Đoạn Q28, câu 9 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v10-t2-p3-g3",
+          "questionRange": [
+            39,
+            40
+          ],
+          "type": "mcq_single",
+          "instruction": "Questions 39–40",
+          "questions": [
+            {
+              "number": 39,
+              "prompt": "What is the real result of the master-apprentice program sponsored by The Ford Foundation?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Teach children how to speak native languages"
+                },
+                {
+                  "key": "B",
+                  "text": "Revive some endangered languages in California"
+                },
+                {
+                  "key": "C",
+                  "text": "Postpone the dying date for some endangered languages"
+                },
+                {
+                  "key": "D",
+                  "text": "Increase communication between students"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "Q29",
+              "evidenceLocation": "Đoạn Q29, câu 7",
+              "evidenceQuote": "Its contributions helped to reinvigorate a master-apprentice program created in 1992 by Leanne Hinton of Berkeley and Native Americans worried about the imminent demise of about 50 indigenous languages in California.",
+              "evidenceTranslationVi": "Những đóng góp của nó đã giúp phục hồi lại chương trình học nghề thạc sĩ do Leanne Hinton ở Berkeley thành lập năm 1992 và những người Mỹ bản địa lo lắng về sự biến mất sắp xảy ra của khoảng 50 ngôn ngữ bản địa ở California.",
+              "explanationVi": "Thông tin tại Đoạn Q29, câu 7 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 40,
+              "prompt": "What should majority language speakers do according to the last paragraph?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They should teach their children endangered languages"
+                },
+                {
+                  "key": "B",
+                  "text": "They should learn at least four languages"
+                },
+                {
+                  "key": "C",
+                  "text": "They should show their loyalty to a dying language"
+                },
+                {
+                  "key": "D",
+                  "text": "They should be more tolerant of minority language speakers"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "Q28",
+              "evidenceLocation": "Đoạn Q28, câu 7",
+              "evidenceQuote": "\"You would think that there would be some organized response to this dire situation 'some attempt to determine which language can be saved and which should be documented before they disappear, \" says Sarah G Thomason, a linguist at the University of Michigan at Ann Arbor.",
+              "evidenceTranslationVi": "Sarah G Thomason, một nhà ngôn ngữ học tại Đại học Michigan ở Ann Arbor, cho biết: “Bạn sẽ nghĩ rằng sẽ có một số phản ứng có tổ chức đối với tình huống thảm khốc này ‘một số nỗ lực nhằm xác định ngôn ngữ nào có thể được cứu và ngôn ngữ nào cần được ghi lại trước khi chúng biến mất”.",
+              "explanationVi": "Thông tin tại Đoạn Q28, câu 7 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

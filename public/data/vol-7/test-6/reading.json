@@ -1,0 +1,1190 @@
+{
+  "vol": 7,
+  "test": 6,
+  "testId": "vol-7-test-6",
+  "title": "IELTS Reading Vol 7 - Test 6",
+  "sourceName": "VOL 7- ORIGINAL EXAMS/Reading/Test 1-10/Test 6.pdf",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "Deep sea discovery",
+      "subtitle": "Recent research has provided new insights into how fish communicate",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "Nico Michiels is an ecologist from the University of Tubingen in Germany who spends part of each year in Egypt, where he dives in the Red Sea, observing fish life and gathering data on its coral reefs. In September 2007 he decided to find out how far red light could penetrate the ocean depths. Seawater absorbs different colours at different depths, and as an experienced diver, Michiels was aware that red light is extinguished not far below the surface whereas blue-green light penetrates deeper. To find out the depth at which red disappeared in this particular ocean, however, he attached a special plastic filter to his dive mask which was designed to block out all colours except red. Then he began to descend. In theory, once he reached about 15 metres, he should have been plunged into darkness. Instead, something totally unexpected happened. Sure enough, 20 metres down it was as dark as night. 'All the fish disappeared. With no light from the surface, they were effectively black and had become invisible,' he says. But it didn't stay black for long. Then I saw a group of goby fish with bright red eyes lit up against the background. After that red spots began to show up all over the reef.'"
+        },
+        {
+          "id": "B",
+          "text": "Even with the red filter removed, Michiels could pick them out without much trouble once his eyes grew accustomed to the gloom. It seems strange that no diver or researcher had spotted all this red before, but as Michiels points out, no one saw it because no one expected to see it. On that one dive Michiels discovered three fish species with prominent red markings, and has found many others since.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "But how can fish appear red where there's no red light? Ordinary red pigments* look red because they reflect red light while absorbing all other wavelengths. At 20 metres down, there had to be some other explanation for the red Michiels was seeing. He suspected fluorescence. Fluorescent pigments behave differently from ordinary ones: they receive incoming light of one wavelength, for example blue, and emit light of a longer wavelength, in this case red. On the reef in the Red Sea during daytime, the most likely explanation was that the predominantly blue and green wavelengths at depth triggered the emission of fluorescent red in the fish.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "With only a week left in Egypt, and lacking the equipment to confirm that the fish were fluorescent, Michiels photographed as many of them as he could. Then once back in Germany, he bought an assortment of tropical fish and installed them in his lab. Here he confirmed that the fish did indeed fluoresce. In most of the fish he looked at, the fluorescence could be traced to specialised pigment cells that lie in the skin beneath the scales. These cells contain 'guanine crystals', which scatter light to give fish their silvery sheen. However, Michiels says they are still not sure exactly what is fluorescing. 'It's not the crystals themselves. It's probably a fluorescent protein built into the crystals, and we have a suspicion that it might be made by bacteria.' E Intrigued, Michiels began a systematic search for red fluorescence in reef fish. He and his colleagues, Nils Anthes and Dennis Sprenger, have identified some 50 species with red fluorescence. The most common markings tend to be on the body towards the head and to a lesser extent around the eyes, and then the fins. To Michiels, the distribution of these markings is one of the strongest indications that red fluorescence has a very particular function: communication with other members of the species. According to several recent studies, a whole range of animals employ fluorescence as a natural highlighter to boost the visibility of body parts they use to signal, for example to ward off enemies. In reef fish, the red tends to be confined to parts of the body used to signal, suggesting these markings serve a similar function. But instead of highlighting an existing colour, the fluorescence gives the fish a colour that otherwise wouldn't exist. For example, fish commonly use eye rings to signal that they are present and their direction of gaze, and Michiels suspects that red-eyed gobies use signals to indicate their location and keep their group together.",
+          "label": "D"
+        },
+        {
+          "id": "F",
+          "text": "Red light, whatever its source, doesn't travel far through water, which suggests signals are intended to be private, seen only by nearby fish of the right species. There are several lines of evidence to support this, says Michiels. And closely related species do not have completely identical markings , which suggests they might be important in species recognition.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "Michiels suspects red fluorescence has another important role for some reef fish: helping them blend in. During his first dive with the red filter, he noticed corals glow a dark but faint red too. Against this irregular red background, a fish that glows red all over would be hard to distinguish. More compelling for Michiels is the case of the scorpionfish, which lies perfectly still until food swims past which it then sucks in.",
+          "label": "G"
+        },
+        {
+          "id": "H",
+          "text": "Yet if red plays any part in a fish's life then it must be able to see it. Fish that live in a world dominated by blue-green light are assumed to have eyes tuned to those wavelengths, and most marine fish that have been studied are thought incapable of seeing red. One exception is the seahorse, whose eyes are sensitive to red. As for the other fish, it remains to be seen. ________________________",
+          "label": "H"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v7-t6-p1-g1",
+          "questionRange": [
+            1,
+            6
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "During his 2007 dive, Michiels expected to encounter total darkness at about 15 metres.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 6",
+              "evidenceQuote": "In theory, once he reached about 15 metres, he should have been plunged into darkness.",
+              "evidenceTranslationVi": "Về lý thuyết, khi anh ta đạt tới khoảng 15 mét, anh ta đáng lẽ phải chìm vào bóng tối.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 1, câu 6 khẳng định trùng khớp ý với phát biểu trong câu hỏi (expected = In theory, should have been; encounter total darkness = plunged into darkness)."
+            },
+            {
+              "number": 2,
+              "prompt": "Michiels could see the red markings on fish without the aid of the red filter.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 1",
+              "evidenceQuote": "Even with the red filter removed, Michiels could pick them out without much trouble once his eyes grew accustomed to the gloom.",
+              "evidenceTranslationVi": "Ngay cả khi đã loại bỏ bộ lọc màu đỏ, Michiels vẫn có thể nhận ra chúng mà không gặp nhiều khó khăn khi mắt anh đã quen với bóng tối.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn B, câu 1 khẳng định trùng khớp ý với phát biểu trong câu hỏi (see = pick them out; without the aid of the red filter = with the red filter removed)."
+            },
+            {
+              "number": 3,
+              "prompt": "Other divers had assumed they would see fish with red markings.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 2",
+              "evidenceQuote": "It seems strange that no diver or researcher had spotted all this red before, but as Michiels points out, no one saw it because no one expected to see it.",
+              "evidenceTranslationVi": "Có vẻ kỳ lạ là trước đây chưa có thợ lặn hay nhà nghiên cứu nào phát hiện ra màu đỏ này, nhưng như Michiels đã chỉ ra, không ai nhìn thấy nó vì không ai mong đợi được nhìn thấy nó.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn B, câu 2 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra (assumed they would see (cho rằng họ sẽ thấy) >< no one expected to see it (không ai mong đợi sẽ thấy nó) -> Mâu thuẫn.)."
+            },
+            {
+              "number": 4,
+              "prompt": "All the fish with red markings that Michiels found during his diving expeditions came from the Red Sea.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 3",
+              "evidenceQuote": "On that one dive Michiels discovered three fish species with prominent red markings, and has found many others since.",
+              "evidenceTranslationVi": "Trong lần lặn đó, Michiels đã phát hiện ra ba loài cá có vết đỏ nổi bật và kể từ đó đã tìm thấy nhiều loài khác.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn B, câu 3 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 5,
+              "prompt": "Michiels first thought of the possibility that fish could fluoresce while he was in Germany.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "With only a week left in Egypt, and lacking the equipment to confirm that the fish were fluorescent, Michiels photographed as many of them as he could.",
+              "evidenceTranslationVi": "Chỉ còn một tuần ở Ai Cập và thiếu thiết bị để xác nhận rằng cá có khả năng phát huỳnh quang, Michiels đã chụp ảnh chúng nhiều nhất có thể.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn D, câu 1 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 6,
+              "prompt": "Michiels remains uncertain as to what creates fluorescence in fish.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 6",
+              "evidenceQuote": "However, Michiels says they are still not sure exactly what is fluorescing.",
+              "evidenceTranslationVi": "Tuy nhiên, Michiels cho biết họ vẫn chưa chắc chắn chính xác huỳnh quang là gì.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn D, câu 6 khẳng định trùng khớp ý với phát biểu trong câu hỏi (remains uncertain = are still not sure; what creates fluorescence = what is fluorescing)."
+            }
+          ]
+        },
+        {
+          "id": "v7-t6-p1-g2",
+          "questionRange": [
+            7,
+            13
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "Michiels's findings:\nMichiels has observed:\n○ 50 types of fish with red fluorescence in total\n○ markings mainly near the {{blank:7}}\nSome of Michiels's beliefs are that:\n○ red fluorescence is used specifically for {{blank:8}} purposes\n○ fish, like some animals, use fluorescence to keep {{blank:9}} away\n○ gobies depend on red fluorescence to show their {{blank:10}}\n○ there are variations in the markings of fish among those {{blank:11}} which are very\nsimilar\nOther benefits of red fluorescence:\n○ fish cannot easily be seen near backgrounds of {{blank:12}} which give off a red\nlight\n○ helps some fish catch their prey\nThe ability to see red amongst fish:\n○ the only fish proven to have this ability is the {{blank:13}}",
+          "questions": [
+            {
+              "number": 7,
+              "prompt": "Michiels's findings:\nMichiels has observed:\n○ 50 types of fish with red fluorescence in total\n○ markings mainly near the {{blank:7}}\nSome of Michiels's beliefs are that:\n○ red fluorescence is used specifically for {{blank:8}} purposes\n○ fish, like some animals, use fluorescence to keep {{blank:9}} away\n○ gobies depend on red fluorescence to show their {{blank:10}}\n○ there are variations in the markings of fish among those {{blank:11}} which are very\nsimilar\nOther benefits of red fluorescence:\n○ fish cannot easily be seen near backgrounds of {{blank:12}} which give off a red\nlight\n○ helps some fish catch their prey\nThe ability to see red amongst fish:\n○ the only fish proven to have this ability is the {{blank:13}}",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "head"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 10",
+              "evidenceQuote": "The most common markings tend to be on the body towards the head and to a lesser extent around the eyes, and then the fins.",
+              "evidenceTranslationVi": "Các dấu hiệu phổ biến nhất có xu hướng xuất hiện trên cơ thể về phía đầu và ở mức độ thấp hơn xung quanh mắt và sau đó là vây.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 10 để điền \"head\" (mainly = most common; near = towards)."
+            },
+            {
+              "number": 8,
+              "prompt": "Michiels's findings:\nMichiels has observed:\n○ 50 types of fish with red fluorescence in total\n○ markings mainly near the {{blank:7}}\nSome of Michiels's beliefs are that:\n○ red fluorescence is used specifically for {{blank:8}} purposes\n○ fish, like some animals, use fluorescence to keep {{blank:9}} away\n○ gobies depend on red fluorescence to show their {{blank:10}}\n○ there are variations in the markings of fish among those {{blank:11}} which are very\nsimilar\nOther benefits of red fluorescence:\n○ fish cannot easily be seen near backgrounds of {{blank:12}} which give off a red\nlight\n○ helps some fish catch their prey\nThe ability to see red amongst fish:\n○ the only fish proven to have this ability is the {{blank:13}}",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "communication"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 11",
+              "evidenceQuote": "To Michiels, the distribution of these markings is one of the strongest indications that red fluorescence has a very particular function: communication with other members of the species.",
+              "evidenceTranslationVi": "Đối với Michiels, sự phân bố của những dấu hiệu này là một trong những dấu hiệu mạnh mẽ nhất cho thấy huỳnh quang màu đỏ có một chức năng rất đặc biệt: giao tiếp với các thành viên khác của loài.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 11 để điền \"communication\" (used specifically for ... purposes = has a very particular function)."
+            },
+            {
+              "number": 9,
+              "prompt": "Michiels's findings:\nMichiels has observed:\n○ 50 types of fish with red fluorescence in total\n○ markings mainly near the {{blank:7}}\nSome of Michiels's beliefs are that:\n○ red fluorescence is used specifically for {{blank:8}} purposes\n○ fish, like some animals, use fluorescence to keep {{blank:9}} away\n○ gobies depend on red fluorescence to show their {{blank:10}}\n○ there are variations in the markings of fish among those {{blank:11}} which are very\nsimilar\nOther benefits of red fluorescence:\n○ fish cannot easily be seen near backgrounds of {{blank:12}} which give off a red\nlight\n○ helps some fish catch their prey\nThe ability to see red amongst fish:\n○ the only fish proven to have this ability is the {{blank:13}}",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "enemies"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 12",
+              "evidenceQuote": "According to several recent studies, a whole range of animals employ fluorescence as a natural highlighter to boost the visibility of body parts they use to signal, for example to ward off enemies.",
+              "evidenceTranslationVi": "Theo một số nghiên cứu gần đây, nhiều loài động vật sử dụng huỳnh quang như một chất đánh dấu tự nhiên để tăng khả năng hiển thị các bộ phận cơ thể mà chúng dùng để ra hiệu, chẳng hạn như để xua đuổi kẻ thù.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 12 để điền \"enemies\" (keep ... away = ward off)."
+            },
+            {
+              "number": 10,
+              "prompt": "Michiels's findings:\nMichiels has observed:\n○ 50 types of fish with red fluorescence in total\n○ markings mainly near the {{blank:7}}\nSome of Michiels's beliefs are that:\n○ red fluorescence is used specifically for {{blank:8}} purposes\n○ fish, like some animals, use fluorescence to keep {{blank:9}} away\n○ gobies depend on red fluorescence to show their {{blank:10}}\n○ there are variations in the markings of fish among those {{blank:11}} which are very\nsimilar\nOther benefits of red fluorescence:\n○ fish cannot easily be seen near backgrounds of {{blank:12}} which give off a red\nlight\n○ helps some fish catch their prey\nThe ability to see red amongst fish:\n○ the only fish proven to have this ability is the {{blank:13}}",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "location"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 15",
+              "evidenceQuote": "For example, fish commonly use eye rings to signal that they are present and their direction of gaze, and Michiels suspects that red-eyed gobies use signals to indicate their location and keep their group together.",
+              "evidenceTranslationVi": "Ví dụ, cá thường sử dụng vòng mắt để báo hiệu rằng chúng đang hiện diện và hướng nhìn của chúng, và Michiels nghi ngờ rằng cá bống tượng mắt đỏ sử dụng tín hiệu để chỉ ra vị trí của chúng và giữ nhóm của chúng lại với nhau.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 15 để điền \"location\" (show = indicate)."
+            },
+            {
+              "number": 11,
+              "prompt": "Michiels's findings:\nMichiels has observed:\n○ 50 types of fish with red fluorescence in total\n○ markings mainly near the {{blank:7}}\nSome of Michiels's beliefs are that:\n○ red fluorescence is used specifically for {{blank:8}} purposes\n○ fish, like some animals, use fluorescence to keep {{blank:9}} away\n○ gobies depend on red fluorescence to show their {{blank:10}}\n○ there are variations in the markings of fish among those {{blank:11}} which are very\nsimilar\nOther benefits of red fluorescence:\n○ fish cannot easily be seen near backgrounds of {{blank:12}} which give off a red\nlight\n○ helps some fish catch their prey\nThe ability to see red amongst fish:\n○ the only fish proven to have this ability is the {{blank:13}}",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "species"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 3",
+              "evidenceQuote": "And closely related species do not have completely identical markings , which suggests they might be important in species recognition.",
+              "evidenceTranslationVi": "Và các loài có quan hệ gần gũi không có những dấu hiệu hoàn toàn giống nhau, điều này cho thấy chúng có thể quan trọng trong việc nhận dạng loài.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 3 để điền \"species\" (variations in the markings = do not have completely identical markings; which are very similar = closely related)."
+            },
+            {
+              "number": 12,
+              "prompt": "Michiels's findings:\nMichiels has observed:\n○ 50 types of fish with red fluorescence in total\n○ markings mainly near the {{blank:7}}\nSome of Michiels's beliefs are that:\n○ red fluorescence is used specifically for {{blank:8}} purposes\n○ fish, like some animals, use fluorescence to keep {{blank:9}} away\n○ gobies depend on red fluorescence to show their {{blank:10}}\n○ there are variations in the markings of fish among those {{blank:11}} which are very\nsimilar\nOther benefits of red fluorescence:\n○ fish cannot easily be seen near backgrounds of {{blank:12}} which give off a red\nlight\n○ helps some fish catch their prey\nThe ability to see red amongst fish:\n○ the only fish proven to have this ability is the {{blank:13}}",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "corals"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 2",
+              "evidenceQuote": "During his first dive with the red filter, he noticed corals glow a dark but faint red too.",
+              "evidenceTranslationVi": "Trong lần lặn đầu tiên với bộ lọc màu đỏ, anh nhận thấy san hô cũng phát sáng màu đỏ sẫm nhưng mờ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 2 để điền \"corals\" (backgrounds of = (nền); give off a red light = glow a dark but faint red)."
+            },
+            {
+              "number": 13,
+              "prompt": "Michiels's findings:\nMichiels has observed:\n○ 50 types of fish with red fluorescence in total\n○ markings mainly near the {{blank:7}}\nSome of Michiels's beliefs are that:\n○ red fluorescence is used specifically for {{blank:8}} purposes\n○ fish, like some animals, use fluorescence to keep {{blank:9}} away\n○ gobies depend on red fluorescence to show their {{blank:10}}\n○ there are variations in the markings of fish among those {{blank:11}} which are very\nsimilar\nOther benefits of red fluorescence:\n○ fish cannot easily be seen near backgrounds of {{blank:12}} which give off a red\nlight\n○ helps some fish catch their prey\nThe ability to see red amongst fish:\n○ the only fish proven to have this ability is the {{blank:13}}",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "seahorse"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 3",
+              "evidenceQuote": "One exception is the seahorse, whose eyes are sensitive to red.",
+              "evidenceTranslationVi": "Một ngoại lệ là cá ngựa, loài có mắt nhạy cảm với màu đỏ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn H, câu 3 để điền \"seahorse\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "Jellyfish – The Dominant Species",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "Jellyfish have become the curse of beach holidays, permeating every ocean on the globe, thriving in the Arctic and the tropics. In an ever-changing world where other species struggle to endure, jellyfish populations are on the rise. To the untrained eye, these creatures drift aimlessly on the oceans' currents and appear benign. In addition, they lack sharp claws, piercing teeth or even a brain. Despite this, they are armed with an amazing arsenal of weapons, especially the stinging power of their tentacles. As a result, jellyfish are among the most-feared, least-understood creatures in the seas.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "According to Dr Monty Graham, a jellyfish scientist at the University of South Alabama, US, 'Jellyfish are a pretty good group of animals to track coastal ecosystems. When you start to see jellyfish numbers grow, that usually indicates a stressed system.' While populations appear to be down this year, Dr Graham sees 'a statistically solid increase' over the longer term. This increase first gained attention in the 1980s when a huge number of jellyfish, Atlantic Ocean natives named Mnemiopsis leidyi, devastated the Black Sea, an ecosystem already weakened by overfishing of anchovies. Scientists believe that this species of jellyfish came in on the bottom of a ship and then rapidly multiplied, feeding on anchovy eggs and the plankton that young fish rely on.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "Dense jellyfish aggregations can be a natural feature of healthy ocean ecosystems, but a clear picture is now emerging of more severe and frequent jellyfish outbreaks worldwide. Dr Anthony Richardson, from the University of Queensland, Australia, explains that once jellyfish gain a foothold, if conditions are right they can establish a massive population at the expense of other ocean life. The problem is that parts of the ocean might switch from being dominated by fish to being dominated by jellyfish.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "A study done by Richardson and his colleagues explores the causes behind jellyfish infestation, and the need for swift, decisive action to stem jellyfish takeover. Jellyfish outbreaks are linked directly to human actions, including overfishing, the input of fertilizer and sewage into the ocean, and climate change. Overfishing has removed fish from marine ecosystems at astounding rates. According to Richardson, this has made it possible for jellyfish to take their place. 'This is because small fish appear to keep jellyfish in check by predation (on jellyfish when they are very small) and competition (when feeding). So, once we remove fish, jellyfish can proliferate.' Eutrophication is another human-caused change in the ocean that has likely contributed to jellyfish explosions. Eutrophication is an increase of nitrogen and phosphorus in the ocean, largely caused by fertilizer and waste run-off. This leads to algae blooms, which lower oxygen in the marine ecosystem, creating so-called 'dead zones', which have been increasing dramatically around the world. According to Richardson, these low-oxygen waters give jellyfish the advantage. 'Fish avoid low-oxygen waters but jellyfish, having lower oxygen demands, not only survive but can thrive in these conditions as there is less predation and competition from fish.' E Furthermore, Richardson and his colleagues speculate that climate change may expand the traditional geographical range of jellyfish. 'As water warms, tropical species are moving towards the poles. Many venomous jellyfish species are tropical and could move into more densely populated subtropical and temperate regions.' F Once jellyfish appear en masse in an ecosystem they can make it very difficult for fish to stage a comeback. By feeding on fish. the jellyfish successfully prevent fish from returning to their normal population numbers, says Richardson. 'One can thus think of two alternate states with each being stable: one dominated by fish and the other by jellyfish. Unfortunately, where there is a jellyfish-dominated state then this does not support the nutritional needs of other fish, marine mammals, and seabirds.' In other words an ecosystem that loses fish also loses the species that depend on fish for survival. This state has been defined as a 'monoculture of jellyfish', an apt analogy since the situation shares similarities with other monocultures. When the rich biodiversity of tropical forests is replaced by plantations growing a single species of tree, an area of rich variety becomes a desert in terms of biodiversity, as do ocean ecosystems when jellyfish become the dominant species. One result of large jellyfish populations is the economic effect it has had on the fishing industry. In the Gulf of Mexico, shrimp fishermen are struggling with a jellyfish boom that fills nets, causing them to break and resulting in millions of dollars in losses.",
+          "label": "D"
+        },
+        {
+          "id": "G",
+          "text": "Experts say that a greater understanding of jellyfish, including their ideal water temperature and feeding habits, is necessary to determine with certainty what is causing the recent massive invasion, and to come up with ways to combat it. Due to the difficulty of turning ecosystems around once jellyfish have become dominant, Richardson and his colleagues propose focusing on 'prevention rather than cure'. They recommend a halt to overfishing small fish that are vital to keeping jellyfish in check, reducing the amount of fertilizer and sewage running off into the oceans, and finally, if possible, confronting climate change.",
+          "label": "G"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v7-t6-p2-g1",
+          "questionRange": [
+            14,
+            17
+          ],
+          "type": "matching_info",
+          "instruction": "Reading Passage 2 has seven sections, A-G. Which section contains the following information? Choose the correct letter, A-G, in boxes 14-17.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "key": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "key": "G",
+              "text": "Paragraph G"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "a prediction as to the direction in which the jellyfish population may spread",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 12",
+              "evidenceQuote": "Many venomous jellyfish species are tropical and could move into more densely populated subtropical and temperate regions.' F Once jellyfish appear en masse in an ecosystem they can make it very difficult for fish to stage a comeback.",
+              "evidenceTranslationVi": "Nhiều loài sứa độc sống ở vùng nhiệt đới và có thể di chuyển đến các vùng ôn đới và cận nhiệt đới đông dân cư hơn.” F Một khi sứa xuất hiện với số lượng lớn trong hệ sinh thái, chúng có thể khiến cá rất khó quay trở lại.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn E (Đoạn D, câu 12)."
+            },
+            {
+              "number": 15,
+              "prompt": "a description of some physical characteristics of jellyfish",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 5",
+              "evidenceQuote": "Despite this, they are armed with an amazing arsenal of weapons, especially the stinging power of their tentacles.",
+              "evidenceTranslationVi": "Mặc dù vậy, chúng được trang bị một kho vũ khí đáng kinh ngạc, đặc biệt là sức mạnh châm chích của các xúc tu.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn A (Đoạn A, câu 5)."
+            },
+            {
+              "number": 16,
+              "prompt": "an account of the consequences of jellyfish as lone survivors",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 15",
+              "evidenceQuote": "Unfortunately, where there is a jellyfish-dominated state then this does not support the nutritional needs of other fish, marine mammals, and seabirds.' In other words an ecosystem that loses fish also loses the species that depend on fish for survival.",
+              "evidenceTranslationVi": "Thật không may, ở những nơi có sứa thống trị thì điều này không hỗ trợ nhu cầu dinh dưỡng của các loài cá, động vật có vú ở biển và chim biển khác.' Nói cách khác, một hệ sinh thái mất đi cá cũng sẽ mất đi những loài phụ thuộc vào cá để sinh tồn.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn F (Đoạn D, câu 15)."
+            },
+            {
+              "number": 17,
+              "prompt": "suggestions on how to avoid further jellyfish invasions",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                }
+              ],
+              "acceptedAnswers": [
+                "G"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 3",
+              "evidenceQuote": "They recommend a halt to overfishing small fish that are vital to keeping jellyfish in check, reducing the amount of fertilizer and sewage running off into the oceans, and finally, if possible, confronting climate change.",
+              "evidenceTranslationVi": "Họ khuyến nghị ngừng đánh bắt quá mức những loài cá nhỏ có vai trò quan trọng trong việc kiểm soát sứa, giảm lượng phân bón và nước thải chảy ra đại dương, và cuối cùng, nếu có thể, đối mặt với biến đổi khí hậu.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn G (Đoạn G, câu 3)."
+            }
+          ]
+        },
+        {
+          "id": "v7-t6-p2-g2",
+          "questionRange": [
+            18,
+            19
+          ],
+          "type": "mcq_multi",
+          "instruction": "Choose TWO correct answers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "They have damaged the tourism industry in some areas."
+            },
+            {
+              "key": "B",
+              "text": "They have led to a reduction in the oceans' oxygen levels."
+            },
+            {
+              "key": "C",
+              "text": "They have contributed to the decline in the Black Sea anchovy population."
+            },
+            {
+              "key": "D",
+              "text": "They have caused the shrimp business in the Gulf of Mexico to shut down."
+            },
+            {
+              "key": "E",
+              "text": "They have created financial hardship in the fishing industry."
+            }
+          ],
+          "selectCount": 2,
+          "questions": [
+            {
+              "number": 18,
+              "prompt": "The list below gives some effects that jellyfish have had on the world. Which TWO of these effects are mentioned by the writer of the text?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have damaged the tourism industry in some areas."
+                },
+                {
+                  "key": "B",
+                  "text": "They have led to a reduction in the oceans' oxygen levels."
+                },
+                {
+                  "key": "C",
+                  "text": "They have contributed to the decline in the Black Sea anchovy population."
+                },
+                {
+                  "key": "D",
+                  "text": "They have caused the shrimp business in the Gulf of Mexico to shut down."
+                },
+                {
+                  "key": "E",
+                  "text": "They have created financial hardship in the fishing industry."
+                }
+              ],
+              "siblingNumbers": [
+                18,
+                19
+              ],
+              "acceptedAnswers": [
+                "C",
+                "E"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 3",
+              "evidenceQuote": "This increase first gained attention in the 1980s when a huge number of jellyfish, Atlantic Ocean natives named Mnemiopsis leidyi, devastated the Black Sea, an ecosystem already weakened by overfishing of anchovies.",
+              "evidenceTranslationVi": "Sự gia tăng này lần đầu tiên được chú ý vào những năm 1980 khi một số lượng lớn loài sứa bản địa Đại Tây Dương có tên là Mnemiopsis leidyi, tàn phá Biển Đen, một hệ sinh thái vốn đã suy yếu do đánh bắt cá cơm quá mức.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 3 khớp trực tiếp với lựa chọn C, E; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 19,
+              "prompt": "The list below gives some effects that jellyfish have had on the world. Which TWO of these effects are mentioned by the writer of the text?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "They have damaged the tourism industry in some areas."
+                },
+                {
+                  "key": "B",
+                  "text": "They have led to a reduction in the oceans' oxygen levels."
+                },
+                {
+                  "key": "C",
+                  "text": "They have contributed to the decline in the Black Sea anchovy population."
+                },
+                {
+                  "key": "D",
+                  "text": "They have caused the shrimp business in the Gulf of Mexico to shut down."
+                },
+                {
+                  "key": "E",
+                  "text": "They have created financial hardship in the fishing industry."
+                }
+              ],
+              "siblingNumbers": [
+                18,
+                19
+              ],
+              "acceptedAnswers": [
+                "C",
+                "E"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 3",
+              "evidenceQuote": "This increase first gained attention in the 1980s when a huge number of jellyfish, Atlantic Ocean natives named Mnemiopsis leidyi, devastated the Black Sea, an ecosystem already weakened by overfishing of anchovies.",
+              "evidenceTranslationVi": "Sự gia tăng này lần đầu tiên được chú ý vào những năm 1980 khi một số lượng lớn loài sứa bản địa Đại Tây Dương có tên là Mnemiopsis leidyi, tàn phá Biển Đen, một hệ sinh thái vốn đã suy yếu do đánh bắt cá cơm quá mức.",
+              "explanationVi": "Thông tin tại Đoạn B, câu 3 khớp trực tiếp với lựa chọn C, E; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v7-t6-p2-g3",
+          "questionRange": [
+            20,
+            21
+          ],
+          "type": "mcq_multi",
+          "instruction": "Choose TWO correct answers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a shortage of small fish in the oceans"
+            },
+            {
+              "key": "B",
+              "text": "the dumping of chemicals into the oceans"
+            },
+            {
+              "key": "C",
+              "text": "a decline in biodiversity in the oceans"
+            },
+            {
+              "key": "D",
+              "text": "more competition among other fish in the oceans"
+            },
+            {
+              "key": "E",
+              "text": "a decrease in seabird populations"
+            }
+          ],
+          "selectCount": 2,
+          "questions": [
+            {
+              "number": 20,
+              "prompt": "Which TWO of the following are possible causes of an increase in jellyfish numbers?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "a shortage of small fish in the oceans"
+                },
+                {
+                  "key": "B",
+                  "text": "the dumping of chemicals into the oceans"
+                },
+                {
+                  "key": "C",
+                  "text": "a decline in biodiversity in the oceans"
+                },
+                {
+                  "key": "D",
+                  "text": "more competition among other fish in the oceans"
+                },
+                {
+                  "key": "E",
+                  "text": "a decrease in seabird populations"
+                }
+              ],
+              "siblingNumbers": [
+                20,
+                21
+              ],
+              "acceptedAnswers": [
+                "A",
+                "B"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 3",
+              "evidenceQuote": "They recommend a halt to overfishing small fish that are vital to keeping jellyfish in check, reducing the amount of fertilizer and sewage running off into the oceans, and finally, if possible, confronting climate change.",
+              "evidenceTranslationVi": "Họ khuyến nghị ngừng đánh bắt quá mức những loài cá nhỏ có vai trò quan trọng trong việc kiểm soát sứa, giảm lượng phân bón và nước thải chảy ra đại dương, và cuối cùng, nếu có thể, đối mặt với biến đổi khí hậu.",
+              "explanationVi": "Thông tin tại Đoạn G, câu 3 khớp trực tiếp với lựa chọn A, B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 21,
+              "prompt": "Which TWO of the following are possible causes of an increase in jellyfish numbers?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "a shortage of small fish in the oceans"
+                },
+                {
+                  "key": "B",
+                  "text": "the dumping of chemicals into the oceans"
+                },
+                {
+                  "key": "C",
+                  "text": "a decline in biodiversity in the oceans"
+                },
+                {
+                  "key": "D",
+                  "text": "more competition among other fish in the oceans"
+                },
+                {
+                  "key": "E",
+                  "text": "a decrease in seabird populations"
+                }
+              ],
+              "siblingNumbers": [
+                20,
+                21
+              ],
+              "acceptedAnswers": [
+                "A",
+                "B"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 3",
+              "evidenceQuote": "They recommend a halt to overfishing small fish that are vital to keeping jellyfish in check, reducing the amount of fertilizer and sewage running off into the oceans, and finally, if possible, confronting climate change.",
+              "evidenceTranslationVi": "Họ khuyến nghị ngừng đánh bắt quá mức những loài cá nhỏ có vai trò quan trọng trong việc kiểm soát sứa, giảm lượng phân bón và nước thải chảy ra đại dương, và cuối cùng, nếu có thể, đối mặt với biến đổi khí hậu.",
+              "explanationVi": "Thông tin tại Đoạn G, câu 3 khớp trực tiếp với lựa chọn A, B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v7-t6-p2-g4",
+          "questionRange": [
+            22,
+            26
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the sentences below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "Some fish in the oceans may be unable to sustain their population as the jellyfish eat\ntheir {{blank:22}}\nThe state of jellyfish becoming the main ocean species has been named {{blank:23}}\nIncreasing numbers of jellyfish can damage {{blank:24}} used for commercial fishing.\nUnderstanding basic facts about jellyfish, such as the {{blank:25}} of the ocean which suits\nthem best, may help control their numbers.\nRichardson believes it is better to direct attention to {{blank:26}} instead of just trying to\nsolve existing problems.",
+          "questions": [
+            {
+              "number": 22,
+              "prompt": "Some fish in the oceans may be unable to sustain their population as the jellyfish eat\ntheir {{blank:22}}\nThe state of jellyfish becoming the main ocean species has been named {{blank:23}}\nIncreasing numbers of jellyfish can damage {{blank:24}} used for commercial fishing.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "eggs"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 4",
+              "evidenceQuote": "Scientists believe that this species of jellyfish came in on the bottom of a ship and then rapidly multiplied, feeding on anchovy eggs and the plankton that young fish rely on.",
+              "evidenceTranslationVi": "Các nhà khoa học tin rằng loài sứa này xâm nhập vào đáy tàu và sau đó nhân lên nhanh chóng, ăn trứng cá cơm và sinh vật phù du mà cá con sống dựa vào.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 4 để điền \"eggs\"."
+            },
+            {
+              "number": 23,
+              "prompt": "Some fish in the oceans may be unable to sustain their population as the jellyfish eat\ntheir {{blank:22}}\nThe state of jellyfish becoming the main ocean species has been named {{blank:23}}\nIncreasing numbers of jellyfish can damage {{blank:24}} used for commercial fishing.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "monoculture"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 16",
+              "evidenceQuote": "This state has been defined as a 'monoculture of jellyfish', an apt analogy since the situation shares similarities with other monocultures.",
+              "evidenceTranslationVi": "Trạng thái này được định nghĩa là 'độc canh sứa', một sự tương tự thích hợp vì tình hình có những điểm tương đồng với các trạng thái độc canh khác.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 16 để điền \"monoculture\"."
+            },
+            {
+              "number": 24,
+              "prompt": "Some fish in the oceans may be unable to sustain their population as the jellyfish eat\ntheir {{blank:22}}\nThe state of jellyfish becoming the main ocean species has been named {{blank:23}}\nIncreasing numbers of jellyfish can damage {{blank:24}} used for commercial fishing.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "nets"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 19",
+              "evidenceQuote": "In the Gulf of Mexico, shrimp fishermen are struggling with a jellyfish boom that fills nets, causing them to break and resulting in millions of dollars in losses.",
+              "evidenceTranslationVi": "Tại Vịnh Mexico, ngư dân đánh bắt tôm đang phải vật lộn với tình trạng sứa bùng nổ làm đầy lưới, khiến lưới bị đứt và gây thiệt hại hàng triệu USD.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 19 để điền \"nets\"."
+            },
+            {
+              "number": 25,
+              "prompt": "Understanding basic facts about jellyfish, such as the {{blank:25}} of the ocean which suits\nthem best, may help control their numbers.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "temperature"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 1",
+              "evidenceQuote": "Experts say that a greater understanding of jellyfish, including their ideal water temperature and feeding habits, is necessary to determine with certainty what is causing the recent massive invasion, and to come up with ways to combat it.",
+              "evidenceTranslationVi": "Các chuyên gia nói rằng cần phải hiểu rõ hơn về loài sứa, bao gồm nhiệt độ nước lý tưởng và thói quen kiếm ăn của chúng, để xác định chắc chắn nguyên nhân gây ra cuộc xâm lược lớn gần đây và tìm ra cách chống lại nó.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 1 để điền \"temperature\"."
+            },
+            {
+              "number": 26,
+              "prompt": "Richardson believes it is better to direct attention to {{blank:26}} instead of just trying to\nsolve existing problems.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "prevention"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 2",
+              "evidenceQuote": "Due to the difficulty of turning ecosystems around once jellyfish have become dominant, Richardson and his colleagues propose focusing on 'prevention rather than cure'.",
+              "evidenceTranslationVi": "Do khó khăn trong việc thay đổi hệ sinh thái khi sứa đã trở nên thống trị, Richardson và các đồng nghiệp của ông đề xuất tập trung vào việc 'phòng bệnh hơn là chữa bệnh'.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 2 để điền \"prevention\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "The Pirahã people of Brazil",
+      "subtitle": "The Pirahä language has stirred up debate among experts",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "The Pirahã tribe live deep in Brazil's Amazon forest, and their language is hotly debated by linguists. Since 1977, the ethnologist Daniel Everett has spent a total of seven years living with the Pirahã and has committed his career to studying their puzzling speech. Indeed, he was uncertain for so long about what he was actually hearing while living among the Pirahä that he waited nearly three decades before publishing his findings. The debate over the Pirahā language goes right to the core of the riddle regarding how Homo sapiens managed to develop vocal communication. Although bees dance, birds sing and whales even sing with syntax*, human language is unique, if only for the reason that it enables humans to piece together never-before- constructed thoughts, and be infinitely imaginative - think of Shakespeare's plays or Einstein's theory of relativity. Linguistics generally focuses on what features all human languages have in common, but the Pirahã language departs from what some academics have long maintained are essential and inalienable features of all human languages. Most of all, it may be unique for not employing subordinate clauses. Instead of saying, 'When I have finished eating, I will speak to you,' the Pirahã say, 'I finish eating, I speak with you.' Equally perplexing, the Pirahã appear not to use numbers. During the time he spent with them, Everett never heard words like 'all', 'every' and 'more'. There is one word, 'hoi', that comes close to the numeral 1, but it can also mean 'small'. And they were never observed to count without language,on their fingers for example, in order to determine important tasks in village life like how many pieces of meat to grill."
+        },
+        {
+          "id": "P2",
+          "text": "Everett's findings among the Pirahã have brought new life to a controversial theory by the linguist Benjamin Whorf, who suggested that people are only capable of constructing thoughts for which they possess actual words. Or to put it another way, because they have no words for numbers, they cannot even begin to understand the concept of numbers or arithmetic."
+        },
+        {
+          "id": "P3",
+          "text": "The Warlpiri language - spoken by a group of Australian Aborigines-like that of the Pirahã, features only the most rudimentary system of counting. However, the Warlpiri people had no difficulty counting farther than three in a foreign language, in this case English, but when Everett attempted to teach the Pirahã how to count in Portuguese like other Brazilians, not a single person could count to 10."
+        },
+        {
+          "id": "P4",
+          "text": "Everett is at pains to point out that the Pirahã are not unintelligent, for their thinking is not any slower than that of the average university student. And although they reside in a remote part of the forest, they do not live in complete genetic isolation, but mix with people from the surrounding populations and share similar intellectual capacities with their neighbours whose languages do contain numbers."
+        },
+        {
+          "id": "P5",
+          "text": "Eventually, after some 30 years of research, Everett has come up with a surprising explanation for the peculiarities of the Pirahã language. Language, he believes, is created by a people's way of life, their belief system and values. In this way, variety in human language is almost limitless, a function of the human capacity to live in different ways, such as in the forest. What Everett's research has revealed is that the central tenet of the Pirahã culture is to live in the here and now. The only thing of importance that is worth communicating to others is what is being experienced at that very moment, though this can often be described with great care and detail. In consequence, the language has no means to conjugate verbs in order to describe 'yesterday' or 'last week' or 'when I was a child'. Their very literal view of the world curtails abstract thought, and many features taken for granted among other peoples are absent among the Pirahã, such as a creation myth, story telling and painting. One manifestation of their beliefs is that by tradition the names they give their children are not particularly imaginative. Often they are named after other members of the tribe with whom they share similar character traits. Standing out or being different is not encouraged by the Pirahã, and this is reflected in their perhaps colourless choice of names."
+        },
+        {
+          "id": "P6",
+          "text": "Everett anticipated that these findings would be controversial and the reaction came as expected. Until this point, many linguists had defended the theories of Noam Chomsky, according to which all human languages have a universal grammar. What exactly makes up this universal grammar is the subject of debate, but at its heart is the concept of 'recursion', which is defined as replication of a structure within its single parts. Without it, humans would not be able to view separate thoughts as subordinate parts of a complex whole. And, most pertinent to Everett's work, there would not be subordinate clauses, which are responsible for translating the concept of recursion into grammar. But if the Pirahã do not form subordinate clauses, then recursion cannot explain the uniqueness of human language, and this would negate Chomsky's theories."
+        },
+        {
+          "id": "P7",
+          "text": "The logical way forward now would be to try to prove that the Pirahã can think in a recursive fashion. The only problem is, nobody can confirm or deny Everett's observations since no other researcher can speak Pirahã as well as he does. Despite this, several researchers - including two of Chomsky's colleagues - will soon travel to Brazil to check his claims. My concern is that soon the Pirahã will simply become one more scientific oddity with every aspect of their lives being exploited and analysed."
+        },
+        {
+          "id": "Q36",
+          "text": "A present B past C time D Future E culture F grammar G art H individuality I children",
+          "label": "Q36"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v7-t6-p3-g1",
+          "questionRange": [
+            27,
+            32
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "What are we told about Daniel Everett in the first paragraph?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He has lived among the Pirahã since 1977."
+                },
+                {
+                  "key": "B",
+                  "text": "It took him seven years to learn the Pirahã language."
+                },
+                {
+                  "key": "C",
+                  "text": "No one would publish his research for three decades."
+                },
+                {
+                  "key": "D",
+                  "text": "Studying the Pirahã language is the focus of his work."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 2",
+              "evidenceQuote": "Since 1977, the ethnologist Daniel Everett has spent a total of seven years living with the Pirahã and has committed his career to studying their puzzling speech.",
+              "evidenceTranslationVi": "Kể từ năm 1977, nhà dân tộc học Daniel Everett đã dành tổng cộng bảy năm chung sống với người Pirahã và đã dành sự nghiệp của mình để nghiên cứu cách nói khó hiểu của họ.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 2 khớp trực tiếp với lựa chọn D (the focus of his work = has committed his career to studying); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 28,
+              "prompt": "Which of the following is the best summary of the second paragraph?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Humans are the only species to be linguistically creative."
+                },
+                {
+                  "key": "B",
+                  "text": "Humans, bees, birds and whales share a characteristic."
+                },
+                {
+                  "key": "C",
+                  "text": "Human language is not fully understood by scientists."
+                },
+                {
+                  "key": "D",
+                  "text": "Humans are the only species to use syntax."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 5",
+              "evidenceQuote": "Although bees dance, birds sing and whales even sing with syntax*, human language is unique, if only for the reason that it enables humans to piece together never-before- constructed thoughts, and be infinitely imaginative - think of Shakespeare's plays or Einstein's theory of relativity.",
+              "evidenceTranslationVi": "Mặc dù ong nhảy múa, chim hót và cá voi thậm chí hát theo cú pháp*, ngôn ngữ của con người là duy nhất, nếu chỉ vì nó cho phép con người ghép những suy nghĩ chưa từng được xây dựng trước đây lại với nhau và có trí tưởng tượng vô hạn - hãy nghĩ đến những vở kịch của Shakespeare hoặc thuyết tương đối của Einstein.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 5 khớp trực tiếp với lựa chọn A (linguistically creative = infinitely imaginative); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 29,
+              "prompt": "Why does the writer refer to subordinate clauses?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "to criticise the general approach of linguistics"
+                },
+                {
+                  "key": "B",
+                  "text": "to compare two features of the Pirahã language"
+                },
+                {
+                  "key": "C",
+                  "text": "to explain why the Pirahã language is difficult to learn"
+                },
+                {
+                  "key": "D",
+                  "text": "to exemplify an unusual feature of the Pirahã language"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 7",
+              "evidenceQuote": "Most of all, it may be unique for not employing subordinate clauses.",
+              "evidenceTranslationVi": "Trên hết, nó có thể là duy nhất khi không sử dụng các mệnh đề phụ.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 7 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 30,
+              "prompt": "What point does the writer make about the work of Whorf?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He thought that numbers were common to all human languages."
+                },
+                {
+                  "key": "B",
+                  "text": "His theory might be supported by Everett's research."
+                },
+                {
+                  "key": "C",
+                  "text": "His research enabled him to find a new life among the Pirahã."
+                },
+                {
+                  "key": "D",
+                  "text": "He predicted that people like the Pirahã would never be found."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 1",
+              "evidenceQuote": "Everett's findings among the Pirahã have brought new life to a controversial theory by the linguist Benjamin Whorf, who suggested that people are only capable of constructing thoughts for which they possess actual words.",
+              "evidenceTranslationVi": "Những phát hiện của Everett về người Pirahã đã mang lại sức sống mới cho một lý thuyết gây tranh cãi của nhà ngôn ngữ học Benjamin Whorf, người cho rằng con người chỉ có khả năng xây dựng những suy nghĩ mà họ sở hữu những từ ngữ thực tế.",
+              "explanationVi": "Thông tin tại Đoạn 2, câu 1 khớp trực tiếp với lựa chọn B (might be supported by = have brought new life to); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 31,
+              "prompt": "The writer refers to the Warlpiri people in order to",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "suggest that the Pirahã be taught to count in English."
+                },
+                {
+                  "key": "B",
+                  "text": "show how tribal peoples lear a foreign language."
+                },
+                {
+                  "key": "C",
+                  "text": "compare counting in English and Portuguese."
+                },
+                {
+                  "key": "D",
+                  "text": "illustrate the uniqueness of the Pirahã."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 2",
+              "evidenceQuote": "However, the Warlpiri people had no difficulty counting farther than three in a foreign language, in this case English, but when Everett attempted to teach the Pirahã how to count in Portuguese like other Brazilians, not a single person could count to 10.",
+              "evidenceTranslationVi": "Tuy nhiên, người Warlpiri không gặp khó khăn gì khi đếm xa hơn ba bằng tiếng nước ngoài, trong trường hợp này là tiếng Anh, nhưng khi Everett cố gắng dạy người Pirahã cách đếm bằng tiếng Bồ Đào Nha như những người Brazil khác, không một người nào có thể đếm đến 10.",
+              "explanationVi": "Thông tin tại Đoạn 3, câu 2 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 32,
+              "prompt": "What is Everett's point about the Pirahä's intellectual capacities?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Pirahã students have not graduated from universities."
+                },
+                {
+                  "key": "B",
+                  "text": "He does not want people to criticise their intelligence."
+                },
+                {
+                  "key": "C",
+                  "text": "Their isolation makes it difficult to evaluate their intelligence."
+                },
+                {
+                  "key": "D",
+                  "text": "He believes their language is more complex than their neighbours'."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 1",
+              "evidenceQuote": "Everett is at pains to point out that the Pirahã are not unintelligent, for their thinking is not any slower than that of the average university student.",
+              "evidenceTranslationVi": "Everett đã cố gắng chỉ ra rằng người Pirahã không phải là người kém thông minh, vì suy nghĩ của họ không hề chậm hơn so với sinh viên đại học bình thường.",
+              "explanationVi": "Thông tin tại Đoạn 4, câu 1 khớp trực tiếp với lựa chọn B (does not want people to criticise their intelligence = is at pains to point out that the Pirahã are not unintelligent); các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v7-t6-p3-g2",
+          "questionRange": [
+            33,
+            36
+          ],
+          "type": "gap_fill",
+          "instruction": "Questions 33–36",
+          "bodyText": "Everett's explanation\nEverett believes that a group's language is a product of their {{blank:33}} and thus language\nis infinitely varied. During the time he spent living among them, he observed that the\nPirahã only place value on the {{blank:34}} and have no {{blank:35}} to describe completed\nevents. Similarly, the types of names they use reflect the fact that they do not celebrate",
+          "questions": [
+            {
+              "number": 33,
+              "prompt": "Everett's explanation\nEverett believes that a group's language is a product of their {{blank:33}} and thus language\nis infinitely varied.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "E. culture"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 2",
+              "evidenceQuote": "Language, he believes, is created by a people's way of life, their belief system and values.",
+              "evidenceTranslationVi": "Ông tin rằng ngôn ngữ được tạo ra bởi lối sống, hệ thống niềm tin và giá trị của con người.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 5, câu 2 để điền \"E. culture\"."
+            },
+            {
+              "number": 34,
+              "prompt": "During the time he spent living among them, he observed that the\nPirahã only place value on the {{blank:34}} and have no {{blank:35}} to describe completed\nevents.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "A. present"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 4",
+              "evidenceQuote": "What Everett's research has revealed is that the central tenet of the Pirahã culture is to live in the here and now.",
+              "evidenceTranslationVi": "Điều mà nghiên cứu của Everett đã tiết lộ là nguyên lý trung tâm của văn hóa Pirahã là sống ở đây và bây giờ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 5, câu 4 để điền \"A. present\" (the present = the here and now)."
+            },
+            {
+              "number": 35,
+              "prompt": "During the time he spent living among them, he observed that the\nPirahã only place value on the {{blank:34}} and have no {{blank:35}} to describe completed\nevents.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "F. grammar"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 6",
+              "evidenceQuote": "In consequence, the language has no means to conjugate verbs in order to describe 'yesterday' or 'last week' or 'when I was a child'.",
+              "evidenceTranslationVi": "Kết quả là, ngôn ngữ không có cách nào để chia động từ nhằm mô tả “ngày hôm qua” hay “tuần trước” hoặc “khi tôi còn là một đứa trẻ”.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 5, câu 6 để điền \"F. grammar\"."
+            },
+            {
+              "number": 36,
+              "prompt": "Question 36",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "H. individuality"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 10",
+              "evidenceQuote": "Standing out or being different is not encouraged by the Pirahã, and this is reflected in their perhaps colourless choice of names.",
+              "evidenceTranslationVi": "Nổi bật hoặc khác biệt không được người Pirahã khuyến khích và điều này được phản ánh qua việc lựa chọn tên có lẽ không màu mè của họ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 5, câu 10 để điền \"H. individuality\" (individuality = Standing out or being different)."
+            }
+          ]
+        },
+        {
+          "id": "v7-t6-p3-g3",
+          "questionRange": [
+            37,
+            40
+          ],
+          "type": "ynng",
+          "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "number": 37,
+              "prompt": "Everett was surprised by the way his research was greeted.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "P6",
+              "evidenceLocation": "Đoạn 6, câu 1",
+              "evidenceQuote": "Everett anticipated that these findings would be controversial and the reaction came as expected.",
+              "evidenceTranslationVi": "Everett đã đoán trước rằng những phát hiện này sẽ gây tranh cãi và phản ứng đã diễn ra đúng như mong đợi.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn 6, câu 1 lập luận ngược lại với nhận định của câu hỏi (surprised (ngạc nhiên) >< anticipated, as expected (lường trước, như mong đợi) -> Mâu thuẫn.)."
+            },
+            {
+              "number": 38,
+              "prompt": "Chomsky has been critical of Everett's research methodology.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 4",
+              "evidenceQuote": "What Everett's research has revealed is that the central tenet of the Pirahã culture is to live in the here and now.",
+              "evidenceTranslationVi": "Điều mà nghiên cứu của Everett đã tiết lộ là nguyên lý trung tâm của văn hóa Pirahã là sống ở đây và bây giờ.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn 5, câu 4 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 39,
+              "prompt": "If 'recursion' as a universal concept is disproved, Chomsky's ideas about language would be wrong.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "P6",
+              "evidenceLocation": "Đoạn 6, câu 6",
+              "evidenceQuote": "But if the Pirahã do not form subordinate clauses, then recursion cannot explain the uniqueness of human language, and this would negate Chomsky's theories.",
+              "evidenceTranslationVi": "Nhưng nếu Pirahã không hình thành các mệnh đề phụ thì phép đệ quy không thể giải thích tính độc đáo của ngôn ngữ con người và điều này sẽ phủ nhận các lý thuyết của Chomsky.",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn 6, câu 6 hoàn toàn trùng với nhận định trong câu hỏi (disproved = negate; ideas about language would be wrong = negate Chomsky's theories)."
+            },
+            {
+              "number": 40,
+              "prompt": "The Pirahã will benefit from their new-found status among academics.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 4",
+              "evidenceQuote": "My concern is that soon the Pirahã will simply become one more scientific oddity with every aspect of their lives being exploited and analysed.",
+              "evidenceTranslationVi": "Mối lo ngại của tôi là chẳng bao lâu nữa người Pirahã sẽ trở thành một loài kỳ quặc mang tính khoa học hơn với mọi khía cạnh trong cuộc sống của họ sẽ bị khai thác và phân tích.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn 7, câu 4 lập luận ngược lại với nhận định của câu hỏi."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

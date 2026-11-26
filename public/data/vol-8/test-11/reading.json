@@ -1,0 +1,1224 @@
+{
+  "vol": 8,
+  "test": 11,
+  "testId": "vol-8-test-11",
+  "title": "IELTS Reading Vol 8 - Test 11",
+  "sourceName": "VOL 8 - ORIGINAL EXAMS/READING/Tets 11.pdf",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "The Origins of Weather Forecasting",
+      "subtitle": "The world's first public weather forecast appeared in The Times newspaper over 150 years",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "ago: the beginning of a service that gives everyone something to comment on. The pioneering forecast on August 1, 1861, was introduced with a deceptively simple heading: ‘General weather probable during next two days.’ But those few words started an ongoing controversy that still continues today – after all, everyone remembers the forecasts that go wrong, but rarely the ones that are right. The first forecast was the idea of Admiral Robert FitzRoy, head of the newly founded Meteorological Department, and one of Britain's greatest but least-known heroes. It was a brave undertaking, because in those days predicting the weather had gained a reputation similar to astrology or fortune-telling. The few people who attempted it had become a national joke when their forecasts inevitably went wrong."
+        },
+        {
+          "id": "P2",
+          "text": "FitzRoy was different, though. His background was faultless, most famously his captaining of the ship HMS Beagle on Charles Darwin's voyage around the world, which eventually led to the publication of Darwin's well-known book On the Origin of Species. When FitzRoy retired from active service as an admiral in Britain's navy, he was looking for a new direction. He subsequently secured a job as chief statistician at the Meteorological Department, part of the Board of Trade. Parliament had voted to set up and fund the Meteorological Department on June 30, 1854, to chart the safest sailing routes across the Atlantic Ocean. However, the British Government was not impressed with the idea of collecting weather reports and establishing a weather forecast, and the suggestion by one Member of Parliament for this was met with laughter from the other MPs."
+        },
+        {
+          "id": "P3",
+          "text": "FitzRoy was given a staff of three clerks in a small office in London, but he soon grew bored with the tedium of transcribing thousands of ships’ reports. Instead, he focused on a much more pressing issue – the huge loss of life at sea from storms. This problem came to a head in 1859, when gale-force winds sank the ship named Royal Charter, with the loss of 430 lives, within sight of the shore. Even in those days when ships regularly sank in storms, the loss of the Royal Charter was considered a national tragedy. FitzRoy stirred up feelings even further when he wrote a letter to The Times newspaper explaining that the storm had been entirely predictable."
+        },
+        {
+          "id": "P4",
+          "text": "That same year, a total of 1,645 lives were lost off the British coast, and FitzRoy wrote repeatedly to The Times pushing for a storm-warning service for shipping. This was just the right moment for a national forecasting service. Knowledge of the weather was improving, barometer readings gave warning of approaching storms, and the invention of the electric telegraph and Morse code in 1844 gave instant communication for the first time."
+        },
+        {
+          "id": "P5",
+          "text": "So in February 1861, FitzRoy pressed ahead with a storm-warning service. Previous weather reports had been unreliable, but FitzRoy's innovation was to issue ships with standardised instruments which allowed for accurate weather reports. At exactly the same time each day the information was sent to him by telegraph, and he was able to draw up more detailed weather maps. The approach of an incoming storm could be recognised, and from London, FitzRoy could telegraph warnings to ports on the coast, where an ingenious system of flags was hoisted up high for passing ships to read. This represented the biggest advance in shipping safety after the introduction of the lifeboat, and in subsequent years the number of lives lost around Britain fell by about a third. FitzRoy became a hero to the fishing and maritime fleets. Encouraged by his storm-warning success, FitzRoy then started a public weather forecasting service. As he had a close connection with The Times, this newspaper introduced his daily forecast in August 1861. It attracted huge attention, including from Queen Victoria, who regularly sent messengers to FitzRoy's office to get a forecast for the sea crossing over the Solent to an island which she liked to visit off the south coast of England. He was also popular with ordinary fishermen, who were happy not to be out at sea in bad weather. The owners of fishing vessels, however, were not supportive of FitzRoy’s forecasts, which often caused delays for them when bad weather was forecast."
+        },
+        {
+          "id": "P6",
+          "text": "Nevertheless, weather forecasting at that time was very difficult, and one mistake could result in much bad publicity. It wasn’t long before some forecasts turned out wrong, and the letters pages of The Times were full of heated correspondence."
+        },
+        {
+          "id": "P7",
+          "text": "It is indisputable that FitzRoy was way ahead of his time, but it is only in recent years that he has been recognized as a towering figure in meteorology, with the honour of an area of sea being given his name in the shipping forecast (a radio broadcast of weather reports for the seas around Britain). His extraordinary determination to get forecasting established cost him dearly though, and he died prematurely. But his legacy lives on, because late in his life he published a book about weather forecasting which was recognized by other scientists to be well ahead of its time."
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t11-p1-g1",
+          "questionRange": [
+            1,
+            5
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "In Robert FitzRoy’s time, weather forecasting was a respected skill",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 5",
+              "evidenceQuote": "The few people who attempted it had become a national joke when their forecasts inevitably went wrong.",
+              "evidenceTranslationVi": "Một số ít người cố gắng thực hiện nó đã trở thành trò cười trên toàn quốc khi những dự đoán của họ chắc chắn đã sai.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn 1, câu 5 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 2,
+              "prompt": "When FitzRoy retired from the navy, he had already had a successful career at sea",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 2",
+              "evidenceQuote": "His background was faultless, most famously his captaining of the ship HMS Beagle on Charles Darwin's voyage around the world, which eventually led to the publication of Darwin's well-known book On the Origin of Species.",
+              "evidenceTranslationVi": "Lý lịch của ông không có lỗi lầm, nổi tiếng nhất là việc ông là thuyền trưởng của con tàu HMS Beagle trong chuyến hành trình vòng quanh thế giới của Charles Darwin, điều này cuối cùng đã dẫn đến việc xuất bản cuốn sách nổi tiếng của Darwin Về nguồn gốc các loài.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 2, câu 2 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 3,
+              "prompt": "FitzRoy faced competition from other applicants for the chief statistician’s job",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 4",
+              "evidenceQuote": "He subsequently secured a job as chief statistician at the Meteorological Department, part of the Board of Trade.",
+              "evidenceTranslationVi": "Sau đó, ông đảm bảo được công việc là trưởng nhóm thống kê tại Cục Khí tượng, một phần của Ban Thương mại.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn 2, câu 4 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 4,
+              "prompt": "The British Parliament supported the idea of regular weather forecasts in 1854",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 6",
+              "evidenceQuote": "However, the British Government was not impressed with the idea of collecting weather reports and establishing a weather forecast, and the suggestion by one Member of Parliament for this was met with laughter from the other MPs.",
+              "evidenceTranslationVi": "Tuy nhiên, Chính phủ Anh không ấn tượng với ý tưởng thu thập các báo cáo thời tiết và thiết lập dự báo thời tiết, và đề xuất của một Thành viên Quốc hội về việc này đã vấp phải sự phản đối của các nghị sĩ khác.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn 2, câu 6 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 5,
+              "prompt": "Progress in technology made it a good time for publicly available weather forecasting to begin",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 3",
+              "evidenceQuote": "Knowledge of the weather was improving, barometer readings gave warning of approaching storms, and the invention of the electric telegraph and Morse code in 1844 gave instant communication for the first time.",
+              "evidenceTranslationVi": "Kiến thức về thời tiết ngày càng được cải thiện, các chỉ số phong vũ biểu đưa ra cảnh báo về những cơn bão đang đến gần, và việc phát minh ra điện báo và mã Morse vào năm 1844 đã lần đầu tiên mang lại khả năng liên lạc tức thì.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 4, câu 3 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            }
+          ]
+        },
+        {
+          "id": "v8-t11-p1-g2",
+          "questionRange": [
+            6,
+            13
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the notes below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "February 1861: Storm warning service\n• FitzRoy received weather reports produced by ships using reliable {{blank:6}}\n• simultaneous weather reports were taken daily\n• storm warnings were telegraphed to {{blank:7}} along the shore\n• signals for ships were displayed using raised {{blank:8}}\n• the storm warning service was the greatest development in sea safety since the\n{{blank:9}} was introduced\nAugust 1861: Public weather forecasting service\n• very popular in The Times newspaper\n• frequently used by the English Queen for safe trips to a favourite {{blank:10}}\n• FitzRoy's forecasts were popular with fishermen but not with boat {{blank:11}}\n• in modern times FitzRoy's {{blank:12}} is used for a marine area\n• FitzRoy produced a {{blank:13}} which was respected by the scientific\ncommunity",
+          "questions": [
+            {
+              "number": 6,
+              "prompt": "February 1861: Storm warning service\n• FitzRoy received weather reports produced by ships using reliable {{blank:6}}\n• simultaneous weather reports were taken daily\n• storm warnings were telegraphed to {{blank:7}} along the shore\n• signals for ships were displayed using raised {{blank:8}}\n• the storm warning service was the greatest development in sea safety since the\n{{blank:9}} was introduced\nAugust 1861: Public weather forecasting service\n• very popular in The Times newspaper\n• frequently used by the English Queen for safe trips to a favourite {{blank:10}}\n• FitzRoy's forecasts were popular with fishermen but not with boat {{blank:11}}\n• in modern times FitzRoy's {{blank:12}} is used for a marine area\n• FitzRoy produced a {{blank:13}} which was respected by the scientific\ncommunity",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "instruments"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 2",
+              "evidenceQuote": "Previous weather reports had been unreliable, but FitzRoy's innovation was to issue ships with standardised instruments which allowed for accurate weather reports.",
+              "evidenceTranslationVi": "Các báo cáo thời tiết trước đây không đáng tin cậy, nhưng sự đổi mới của FitzRoy là cung cấp cho các tàu các thiết bị tiêu chuẩn hóa cho phép báo cáo thời tiết chính xác.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 5, câu 2 để điền \"instruments\"."
+            },
+            {
+              "number": 7,
+              "prompt": "February 1861: Storm warning service\n• FitzRoy received weather reports produced by ships using reliable {{blank:6}}\n• simultaneous weather reports were taken daily\n• storm warnings were telegraphed to {{blank:7}} along the shore\n• signals for ships were displayed using raised {{blank:8}}\n• the storm warning service was the greatest development in sea safety since the\n{{blank:9}} was introduced\nAugust 1861: Public weather forecasting service\n• very popular in The Times newspaper\n• frequently used by the English Queen for safe trips to a favourite {{blank:10}}\n• FitzRoy's forecasts were popular with fishermen but not with boat {{blank:11}}\n• in modern times FitzRoy's {{blank:12}} is used for a marine area\n• FitzRoy produced a {{blank:13}} which was respected by the scientific\ncommunity",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "ports"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 4",
+              "evidenceQuote": "The approach of an incoming storm could be recognised, and from London, FitzRoy could telegraph warnings to ports on the coast, where an ingenious system of flags was hoisted up high for passing ships to read.",
+              "evidenceTranslationVi": "Có thể nhận ra cách tiếp cận của một cơn bão đang đến và từ London, FitzRoy có thể gửi điện báo cảnh báo đến các cảng trên bờ biển, nơi một hệ thống cờ khéo léo được treo lên cao để các tàu đi qua có thể đọc được.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 5, câu 4 để điền \"ports\"."
+            },
+            {
+              "number": 8,
+              "prompt": "February 1861: Storm warning service\n• FitzRoy received weather reports produced by ships using reliable {{blank:6}}\n• simultaneous weather reports were taken daily\n• storm warnings were telegraphed to {{blank:7}} along the shore\n• signals for ships were displayed using raised {{blank:8}}\n• the storm warning service was the greatest development in sea safety since the\n{{blank:9}} was introduced\nAugust 1861: Public weather forecasting service\n• very popular in The Times newspaper\n• frequently used by the English Queen for safe trips to a favourite {{blank:10}}\n• FitzRoy's forecasts were popular with fishermen but not with boat {{blank:11}}\n• in modern times FitzRoy's {{blank:12}} is used for a marine area\n• FitzRoy produced a {{blank:13}} which was respected by the scientific\ncommunity",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "flags"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 4",
+              "evidenceQuote": "The approach of an incoming storm could be recognised, and from London, FitzRoy could telegraph warnings to ports on the coast, where an ingenious system of flags was hoisted up high for passing ships to read.",
+              "evidenceTranslationVi": "Có thể nhận ra cách tiếp cận của một cơn bão đang đến và từ London, FitzRoy có thể gửi điện báo cảnh báo đến các cảng trên bờ biển, nơi một hệ thống cờ khéo léo được treo lên cao để các tàu đi qua có thể đọc được.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 5, câu 4 để điền \"flags\"."
+            },
+            {
+              "number": 9,
+              "prompt": "February 1861: Storm warning service\n• FitzRoy received weather reports produced by ships using reliable {{blank:6}}\n• simultaneous weather reports were taken daily\n• storm warnings were telegraphed to {{blank:7}} along the shore\n• signals for ships were displayed using raised {{blank:8}}\n• the storm warning service was the greatest development in sea safety since the\n{{blank:9}} was introduced\nAugust 1861: Public weather forecasting service\n• very popular in The Times newspaper\n• frequently used by the English Queen for safe trips to a favourite {{blank:10}}\n• FitzRoy's forecasts were popular with fishermen but not with boat {{blank:11}}\n• in modern times FitzRoy's {{blank:12}} is used for a marine area\n• FitzRoy produced a {{blank:13}} which was respected by the scientific\ncommunity",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "lifeboat"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 5",
+              "evidenceQuote": "This represented the biggest advance in shipping safety after the introduction of the lifeboat, and in subsequent years the number of lives lost around Britain fell by about a third.",
+              "evidenceTranslationVi": "Đây là bước tiến lớn nhất về an toàn hàng hải sau khi xuồng cứu sinh được đưa vào sử dụng, và trong những năm tiếp theo, số người thiệt mạng trên khắp nước Anh đã giảm khoảng một phần ba.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 5, câu 5 để điền \"lifeboat\"."
+            },
+            {
+              "number": 10,
+              "prompt": "February 1861: Storm warning service\n• FitzRoy received weather reports produced by ships using reliable {{blank:6}}\n• simultaneous weather reports were taken daily\n• storm warnings were telegraphed to {{blank:7}} along the shore\n• signals for ships were displayed using raised {{blank:8}}\n• the storm warning service was the greatest development in sea safety since the\n{{blank:9}} was introduced\nAugust 1861: Public weather forecasting service\n• very popular in The Times newspaper\n• frequently used by the English Queen for safe trips to a favourite {{blank:10}}\n• FitzRoy's forecasts were popular with fishermen but not with boat {{blank:11}}\n• in modern times FitzRoy's {{blank:12}} is used for a marine area\n• FitzRoy produced a {{blank:13}} which was respected by the scientific\ncommunity",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "island"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 9",
+              "evidenceQuote": "It attracted huge attention, including from Queen Victoria, who regularly sent messengers to FitzRoy's office to get a forecast for the sea crossing over the Solent to an island which she liked to visit off the south coast of England.",
+              "evidenceTranslationVi": "Nó thu hút sự chú ý rất lớn, bao gồm cả Nữ hoàng Victoria, người thường xuyên cử sứ giả đến văn phòng của FitzRoy để nhận dự báo về chuyến vượt biển qua Solent đến một hòn đảo mà bà thích đến thăm ngoài khơi bờ biển phía nam nước Anh.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 5, câu 9 để điền \"island\"."
+            },
+            {
+              "number": 11,
+              "prompt": "February 1861: Storm warning service\n• FitzRoy received weather reports produced by ships using reliable {{blank:6}}\n• simultaneous weather reports were taken daily\n• storm warnings were telegraphed to {{blank:7}} along the shore\n• signals for ships were displayed using raised {{blank:8}}\n• the storm warning service was the greatest development in sea safety since the\n{{blank:9}} was introduced\nAugust 1861: Public weather forecasting service\n• very popular in The Times newspaper\n• frequently used by the English Queen for safe trips to a favourite {{blank:10}}\n• FitzRoy's forecasts were popular with fishermen but not with boat {{blank:11}}\n• in modern times FitzRoy's {{blank:12}} is used for a marine area\n• FitzRoy produced a {{blank:13}} which was respected by the scientific\ncommunity",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "owners"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 11",
+              "evidenceQuote": "The owners of fishing vessels, however, were not supportive of FitzRoy’s forecasts, which often caused delays for them when bad weather was forecast.",
+              "evidenceTranslationVi": "Tuy nhiên, chủ tàu cá không ủng hộ dự báo của FitzRoy, điều này thường gây ra sự chậm trễ cho họ khi dự báo thời tiết xấu.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 5, câu 11 để điền \"owners\"."
+            },
+            {
+              "number": 12,
+              "prompt": "February 1861: Storm warning service\n• FitzRoy received weather reports produced by ships using reliable {{blank:6}}\n• simultaneous weather reports were taken daily\n• storm warnings were telegraphed to {{blank:7}} along the shore\n• signals for ships were displayed using raised {{blank:8}}\n• the storm warning service was the greatest development in sea safety since the\n{{blank:9}} was introduced\nAugust 1861: Public weather forecasting service\n• very popular in The Times newspaper\n• frequently used by the English Queen for safe trips to a favourite {{blank:10}}\n• FitzRoy's forecasts were popular with fishermen but not with boat {{blank:11}}\n• in modern times FitzRoy's {{blank:12}} is used for a marine area\n• FitzRoy produced a {{blank:13}} which was respected by the scientific\ncommunity",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "name"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 1",
+              "evidenceQuote": "It is indisputable that FitzRoy was way ahead of his time, but it is only in recent years that he has been recognized as a towering figure in meteorology, with the honour of an area of sea being given his name in the shipping forecast (a radio broadcast of weather reports for the seas around Britain).",
+              "evidenceTranslationVi": "Không thể chối cãi rằng FitzRoy đã đi trước thời đại rất nhiều, nhưng chỉ trong những năm gần đây, ông mới được công nhận là một nhân vật xuất chúng trong lĩnh vực khí tượng học, với vinh dự có một khu vực biển được ghi tên ông trong chương trình dự báo vận tải biển (một chương trình phát thanh về dự báo thời tiết cho các vùng biển xung quanh nước Anh).",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 7, câu 1 để điền \"name\"."
+            },
+            {
+              "number": 13,
+              "prompt": "February 1861: Storm warning service\n• FitzRoy received weather reports produced by ships using reliable {{blank:6}}\n• simultaneous weather reports were taken daily\n• storm warnings were telegraphed to {{blank:7}} along the shore\n• signals for ships were displayed using raised {{blank:8}}\n• the storm warning service was the greatest development in sea safety since the\n{{blank:9}} was introduced\nAugust 1861: Public weather forecasting service\n• very popular in The Times newspaper\n• frequently used by the English Queen for safe trips to a favourite {{blank:10}}\n• FitzRoy's forecasts were popular with fishermen but not with boat {{blank:11}}\n• in modern times FitzRoy's {{blank:12}} is used for a marine area\n• FitzRoy produced a {{blank:13}} which was respected by the scientific\ncommunity",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "book"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 3",
+              "evidenceQuote": "But his legacy lives on, because late in his life he published a book about weather forecasting which was recognized by other scientists to be well ahead of its time.",
+              "evidenceTranslationVi": "Nhưng di sản của ông vẫn còn tồn tại, bởi vì vào cuối đời, ông đã xuất bản một cuốn sách về dự báo thời tiết được các nhà khoa học khác công nhận là đi trước thời đại rất nhiều.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 7, câu 3 để điền \"book\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "The importance of icebergs to ocean life",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "The word iceberg refers to pieces of ice larger than five meters across. The waters surrounding Antarctica are home to most of the icebergs on Earth, although they can also be found in the Arctic region. The water surrounding icebergs teems with life including a range of fish and, consequently, the seals which prey on them. Seabirds such as gulls, fulmars and other birds often visit as well. Some fishermen in Arctic regions claim that the fishing is often best in the immediate vicinity of icebergs. Recent research is beginning to shed light on what it is about icebergs that is attractive to wildlife.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "Ken Smith, senior scientist at the Monterey Bay Aquarium Research Institute, explains that \"free-drifting icebergs are hot spots of chemical and biological enrichment. His studies in the Weddell Sea off Antarctica confirmed high concentrations of chlorophyll, krill, and seabirds in the water surrounding the icebergs he sampled, extending out to about two miles around each berg. While he wouldn't speculate about whether the same results would be found around Arctic icebergs, other scientists say that the evidence suggests it may well be the case.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "During their first expedition, Smith and his research team deployed a series of oceanographic instruments, fishing nets, and video cameras attached to remotely operated vehicles around a small iceberg with a surface area of 0.12 square kilometers, as well as around another much larger example. Their results revealed how important icebergs are to the marine environment.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Perhaps their most significant finding was that as icebergs melt, accumulated dust, pulverized rocks, and other terrestrial materials are dispersed into the water. These were all incorporated into the ice millions of years ago when it was part of glaciers which scraped up debris from the surface of the soil while moving across huge areas of land. Once in the water, these materials act as ocean fertilizer to nourish microscopic marine organisms such as plankton, upon which the entire food chain ultimately depends. These icebergs can be compared to river estuaries that supply surrounding coastal regions with nutrients as they enter the ocean,' Smith and his team wrote.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "Oceanographer Greg Stone had a more hands-on approach to studying the productivity around icebergs. A vice president at Conservation International, one of the world's largest biodiversity conservation organizations, he led a team of scuba divers and scientists on a rare and dangerous expedition to study iceberg ecology around B-15, the largest iceberg ever known, which broke away from the Ross Ice Shelf in Antarctica in 2000. Nearly the size of the US state of Connecticut and containing enough fresh water to supply the entire US for five years, the berg had begun to break up by the time Stone's team arrived several months later, and the shifting pack ice made it impossible for them to reach it. But Stone and his colleagues still conducted about ninety dives around icebergs of various sizes. What they found was an unexpected bonanza of marine life in and around the ice.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "Greg Stone noted that the water of Antarctica where his team undertook dives was several degrees below freezing. Like Smith's team, they recorded higher concentrations of jellyfish and krill within a mile or so around the icebergs. They also frequently saw juvenile ice fish living in burrows in the ice, though they were uncertain whether the fish excavated these themselves to hide from predators or simply took advantage of natural features of the ice. In an especially dangerous dive, they swam 300 meters into a cave inside another iceberg that had been grounded for several years and found a spectacular garden of invertebrates - feather duster worms, starfish, colorful sponges, sea cucumbers, and more - living on the seafloor at the farthest reaches of the cave.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "According to Stone, most Antarctic icebergs get pushed around continuously by the wind and currents. As they move, their keel will rub along the seafloor, disturbing the benthic ecosystem. But because this particular iceberg had been grounded for several years, it served to protect bottom-dwelling creatures from the ravages of moving icebergs and nurtured this underwater garden.",
+          "label": "G"
+        },
+        {
+          "id": "H",
+          "text": "Stone agrees with Smith's conclusion that the big picture of iceberg ecology is the vital role they play in fertilizing the Southern Ocean, thereby creating the largest biomass on Earth. The whole food chain gets fired up around one of these things,' Stone explains. 'The ice is the biological engine that drives the ecosystem, fueled further by the Antarctic's twenty-four-hour summer sunshine. There's no doubt that if you're an ocean animal, you're going to be attracted to an iceberg because it's generally a better place to be.\" I If you're not an ocean animal, on the other hand, it's probably best to keep your distance from icebergs, because one thing they are not is safe. Just hours after Stone's dive team emerged from exploring the cave within the grounded iceberg, the entire berg completely crumbled and disintegrated, leaving in its place what Stone described as 'two square miles of shattered crystal'. The pressures caused by the continuous melting and re-freezing of water throughout these mountainous structures ultimately lead to their destruction. As frightening as it was to Stone and his team of scientists, who decided then and there never to dive in an iceberg cave again, it also may have been the first time anyone had witnessed such an event.",
+          "label": "H"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t11-p2-g1",
+          "questionRange": [
+            14,
+            19
+          ],
+          "type": "matching_info",
+          "instruction": "Reading Passage 2 has nine paragraphs, A-I. Which paragraph contains the following information? Choose the correct letter, A-I, in boxes 14-19. NB You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "key": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "key": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "key": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "key": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "examples of equipment used in the study of icebergs",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "During their first expedition, Smith and his research team deployed a series of oceanographic instruments, fishing nets, and video cameras attached to remotely operated vehicles around a small iceberg with a surface area of 0.12 square kilometers, as well as around another much larger example.",
+              "evidenceTranslationVi": "Trong chuyến thám hiểm đầu tiên của họ, Smith và nhóm nghiên cứu của ông đã triển khai một loạt thiết bị hải dương học, lưới đánh cá và máy quay video gắn với các phương tiện điều khiển từ xa xung quanh một tảng băng trôi nhỏ có diện tích bề mặt 0,12 km2, cũng như xung quanh một ví dụ khác lớn hơn nhiều.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn C (Đoạn C, câu 1)."
+            },
+            {
+              "number": 15,
+              "prompt": "a description of the volume of water inside one iceberg",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 3",
+              "evidenceQuote": "Nearly the size of the US state of Connecticut and containing enough fresh water to supply the entire US for five years, the berg had begun to break up by the time Stone's team arrived several months later, and the shifting pack ice made it impossible for them to reach it.",
+              "evidenceTranslationVi": "Có diện tích gần bằng bang Connecticut của Hoa Kỳ và chứa đủ nước ngọt để cung cấp cho toàn bộ nước Mỹ trong 5 năm, tảng băng đã bắt đầu vỡ ra khi nhóm của Stone đến vài tháng sau đó, và băng trôi khiến họ không thể tiếp cận được.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn E (Đoạn E, câu 3)."
+            },
+            {
+              "number": 16,
+              "prompt": "a reference to causes of instability in icebergs",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "acceptedAnswers": [
+                "I"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 6",
+              "evidenceQuote": "The pressures caused by the continuous melting and re-freezing of water throughout these mountainous structures ultimately lead to their destruction.",
+              "evidenceTranslationVi": "Áp lực gây ra bởi sự tan chảy và đóng băng liên tục của nước trên khắp các cấu trúc miền núi này cuối cùng dẫn đến sự phá hủy chúng.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn I (Đoạn H, câu 6)."
+            },
+            {
+              "number": 17,
+              "prompt": "an explanation as to the origins of the contents of the water around icebergs",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "Perhaps their most significant finding was that as icebergs melt, accumulated dust, pulverized rocks, and other terrestrial materials are dispersed into the water.",
+              "evidenceTranslationVi": "Có lẽ phát hiện quan trọng nhất của họ là khi các tảng băng trôi tan chảy, bụi tích tụ, đá nghiền thành bột và các vật liệu trên cạn khác sẽ phân tán vào trong nước.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn D (Đoạn D, câu 1)."
+            },
+            {
+              "number": 18,
+              "prompt": "a definition of the term 'iceberg'",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 1",
+              "evidenceQuote": "The word iceberg refers to pieces of ice larger than five meters across.",
+              "evidenceTranslationVi": "Từ tảng băng trôi dùng để chỉ những mảnh băng có chiều ngang lớn hơn năm mét.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn A (Đoạn A, câu 1)."
+            },
+            {
+              "number": 19,
+              "prompt": "a reference to the temperature of the water surrounding an iceberg",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 1",
+              "evidenceQuote": "Greg Stone noted that the water of Antarctica where his team undertook dives was several degrees below freezing.",
+              "evidenceTranslationVi": "Greg Stone lưu ý rằng nước ở Nam Cực nơi nhóm của ông tiến hành lặn có nhiệt độ thấp hơn mức đóng băng vài độ.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn F (Đoạn F, câu 1)."
+            }
+          ]
+        },
+        {
+          "id": "v8-t11-p2-g2",
+          "questionRange": [
+            20,
+            21
+          ],
+          "type": "mcq_multi",
+          "instruction": "Choose TWO correct answers.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ken Smith likened iceberg melt to river estuaries."
+            },
+            {
+              "key": "B",
+              "text": "He obtained all his results from a single Antarctic iceberg."
+            },
+            {
+              "key": "C",
+              "text": "He confirmed that all icebergs had identical ecosystems."
+            },
+            {
+              "key": "D",
+              "text": "He connected iceberg contents with surrounding marine life."
+            },
+            {
+              "key": "E",
+              "text": "He was the first to note bacteria around icebergs."
+            }
+          ],
+          "selectCount": 2,
+          "questions": [
+            {
+              "number": 20,
+              "prompt": "Which TWO of the following are true about Ken Smith’s findings?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ken Smith likened iceberg melt to river estuaries."
+                },
+                {
+                  "key": "B",
+                  "text": "He obtained all his results from a single Antarctic iceberg."
+                },
+                {
+                  "key": "C",
+                  "text": "He confirmed that all icebergs had identical ecosystems."
+                },
+                {
+                  "key": "D",
+                  "text": "He connected iceberg contents with surrounding marine life."
+                },
+                {
+                  "key": "E",
+                  "text": "He was the first to note bacteria around icebergs."
+                }
+              ],
+              "siblingNumbers": [
+                20,
+                21
+              ],
+              "acceptedAnswers": [
+                "A",
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 4",
+              "evidenceQuote": "These icebergs can be compared to river estuaries that supply surrounding coastal regions with nutrients as they enter the ocean,' Smith and his team wrote.",
+              "evidenceTranslationVi": "Smith và nhóm của ông viết: Những tảng băng trôi này có thể được so sánh với các cửa sông cung cấp chất dinh dưỡng cho các khu vực ven biển xung quanh khi chúng đi vào đại dương.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 4 khớp trực tiếp với lựa chọn A, D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 21,
+              "prompt": "Which TWO of the following are true about Ken Smith’s findings?",
+              "type": "mcq_multi",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Ken Smith likened iceberg melt to river estuaries."
+                },
+                {
+                  "key": "B",
+                  "text": "He obtained all his results from a single Antarctic iceberg."
+                },
+                {
+                  "key": "C",
+                  "text": "He confirmed that all icebergs had identical ecosystems."
+                },
+                {
+                  "key": "D",
+                  "text": "He connected iceberg contents with surrounding marine life."
+                },
+                {
+                  "key": "E",
+                  "text": "He was the first to note bacteria around icebergs."
+                }
+              ],
+              "siblingNumbers": [
+                20,
+                21
+              ],
+              "acceptedAnswers": [
+                "A",
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 3",
+              "evidenceQuote": "Once in the water, these materials act as ocean fertilizer to nourish microscopic marine organisms such as plankton, upon which the entire food chain ultimately depends.",
+              "evidenceTranslationVi": "Khi ở trong nước, những vật liệu này hoạt động như phân bón đại dương để nuôi dưỡng các sinh vật biển cực nhỏ như sinh vật phù du, mà cuối cùng toàn bộ chuỗi thức ăn phụ thuộc vào đó.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 3 khớp trực tiếp với lựa chọn A, D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t11-p2-g3",
+          "questionRange": [
+            22,
+            26
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the summary below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "Iceberg ecosystems\nOn his dives in Antarctica, Greg Stone and his team noted the presence of above-normal\nlevels of marine life, such as krill and {{blank:22}} in the immediate vicinity of the\nice. They also observed that under many icebergs, young fish appeared to have created\n{{blank:23}} to live in - possibly as a means of avoiding {{blank:24}}\nUnder one iceberg, they located a stunning display of sea cucumbers, sponges and other\ninvertebrates living deep within a {{blank:25}} in the ice. These had probably\nsurvived because the iceberg in question had become stuck on the seabed rather than being\nblown around or moved by ocean {{blank:26}}",
+          "questions": [
+            {
+              "number": 22,
+              "prompt": "Iceberg ecosystems\nOn his dives in Antarctica, Greg Stone and his team noted the presence of above-normal\nlevels of marine life, such as krill and {{blank:22}} in the immediate vicinity of the\nice.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "jellyfish"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 2",
+              "evidenceQuote": "Like Smith's team, they recorded higher concentrations of jellyfish and krill within a mile or so around the icebergs.",
+              "evidenceTranslationVi": "Giống như nhóm của Smith, họ ghi nhận mật độ sứa và nhuyễn thể cao hơn trong phạm vi khoảng một dặm xung quanh các tảng băng trôi.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 2 để điền \"jellyfish\"."
+            },
+            {
+              "number": 23,
+              "prompt": "They also observed that under many icebergs, young fish appeared to have created\n{{blank:23}} to live in - possibly as a means of avoiding {{blank:24}}\nUnder one iceberg, they located a stunning display of sea cucumbers, sponges and other\ninvertebrates living deep within a {{blank:25}} in the ice.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "burrows"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 3",
+              "evidenceQuote": "They also frequently saw juvenile ice fish living in burrows in the ice, though they were uncertain whether the fish excavated these themselves to hide from predators or simply took advantage of natural features of the ice.",
+              "evidenceTranslationVi": "Họ cũng thường xuyên nhìn thấy những con cá băng non sống trong hang trên băng, mặc dù họ không chắc liệu cá tự đào hang để trốn kẻ săn mồi hay chỉ đơn giản là lợi dụng đặc điểm tự nhiên của băng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 3 để điền \"burrows\"."
+            },
+            {
+              "number": 24,
+              "prompt": "They also observed that under many icebergs, young fish appeared to have created\n{{blank:23}} to live in - possibly as a means of avoiding {{blank:24}}\nUnder one iceberg, they located a stunning display of sea cucumbers, sponges and other\ninvertebrates living deep within a {{blank:25}} in the ice.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "predators"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 3",
+              "evidenceQuote": "They also frequently saw juvenile ice fish living in burrows in the ice, though they were uncertain whether the fish excavated these themselves to hide from predators or simply took advantage of natural features of the ice.",
+              "evidenceTranslationVi": "Họ cũng thường xuyên nhìn thấy những con cá băng non sống trong hang trên băng, mặc dù họ không chắc liệu cá tự đào hang để trốn kẻ săn mồi hay chỉ đơn giản là lợi dụng đặc điểm tự nhiên của băng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 3 để điền \"predators\"."
+            },
+            {
+              "number": 25,
+              "prompt": "They also observed that under many icebergs, young fish appeared to have created\n{{blank:23}} to live in - possibly as a means of avoiding {{blank:24}}\nUnder one iceberg, they located a stunning display of sea cucumbers, sponges and other\ninvertebrates living deep within a {{blank:25}} in the ice.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "cave"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 4",
+              "evidenceQuote": "In an especially dangerous dive, they swam 300 meters into a cave inside another iceberg that had been grounded for several years and found a spectacular garden of invertebrates - feather duster worms, starfish, colorful sponges, sea cucumbers, and more - living on the seafloor at the farthest reaches of the cave.",
+              "evidenceTranslationVi": "Trong một chuyến lặn đặc biệt nguy hiểm, họ đã bơi 300 mét vào một hang động bên trong một tảng băng trôi khác đã nằm yên trong vài năm và tìm thấy một khu vườn ngoạn mục gồm các động vật không xương sống - giun lông vũ, sao biển, bọt biển nhiều màu sắc, hải sâm, v.v. - sống dưới đáy biển ở nơi xa nhất của hang động.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn F, câu 4 để điền \"cave\"."
+            },
+            {
+              "number": 26,
+              "prompt": "These had probably\nsurvived because the iceberg in question had become stuck on the seabed rather than being\nblown around or moved by ocean {{blank:26}}",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "currents"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 1",
+              "evidenceQuote": "According to Stone, most Antarctic icebergs get pushed around continuously by the wind and currents.",
+              "evidenceTranslationVi": "Theo Stone, hầu hết các tảng băng trôi ở Nam Cực đều bị gió và dòng hải lưu đẩy đi liên tục.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn G, câu 1 để điền \"currents\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "The Dunedin study",
+      "subtitle": "The New Zealand city of Dunedin in the early 1970s can easily be made to sound idyllic.",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "There was next to no unemployment and people left their doors unlocked at night. New Zealand was then the ninth richest country in the world and many residents believed that, as a place to bring up children, this was a city without rival. However, Phil Silva, an educational psychologist, was not so certain and decided to take a closer look. Silva identified those children born in the year from April 1, 1972 whose mothers were still living in the city three years later. The parents were asked if they would mind bringing their children in for a health and development assessment. Incredibly, no fewer than 91% agreed to help and 1037 three-year-olds completed half a day of tests and experiments. In the process, the Dunedin Multidisciplinary Health and Development Study was born."
+        },
+        {
+          "id": "P2",
+          "text": "There was precious little money at Silva's disposal, so the assessments were done in a church with the help of dozens of volunteers. Each child was assessed against a range of measures such as height, weight, and head circumference. Language skills were assessed and profiles of behaviour were compiled. However, one set of assessments was never going to satisfy Silva's curiosity, so when the children were five, his same team asked the parents to bring the children back for a second study. Of the original 1037 children, 96% came. The data gathered at age three was updated and new measurement criteria – discipline, nutrition, dental health - were introduced."
+        },
+        {
+          "id": "P3",
+          "text": "By 1978, Silva was able to shock the nation with his findings: one in four children had delayed language development; 15% had ear problems; the researchers had identified one child who was blind and another who might have died from undetected skin cancer. New Zealanders, Silva declared, were more diligent about their cars than their children. Cars were required by law to be regularly checked; if children were treated similarly, ideally at behavioural clinics in schools, problems could be picked up in time to prevent lasting damage."
+        },
+        {
+          "id": "P4",
+          "text": "The parents were asked to bring their children back at ages seven, nine and 11 to the old church for further assessments. Crucially for the study's survival, the politicians were finally starting to take note and government funding began to trickle in. By the time the children returned at age 13, the study had taken up residence in an abandoned building tucked behind the dental school. It wouldn't have been the researchers' first choice, and was certainly not grand, but it was at least a site for the long term and its acquisition represented a landmark in the study's development. It was to this building that the participants returned at ages 15, 18, 21, 26 and, most recently, at 32."
+        },
+        {
+          "id": "P5",
+          "text": "Among the most recent findings are that birth complications - a focus of Silva's original research - don't necessarily set children up for problems as they mature in later life, although the amount a newborn infant weighs is associated with IQ. Paediatric textbooks had insisted for years that breast-feeding protected against medical problems like asthma and allergies. The Dunedin study has shown that assumption to be incorrect. Other findings that challenged the received wisdom include the fact that thumb-sucking does no harm; birth order makes no difference to later development; and pre-schoolers whose mothers work are not disadvantaged. Overall, the study has confirmed the notion that broad personality traits are laid down by the age of three. Along the way, the Dunedin researchers have been able to contradict old assumptions and explode medical myths long held by the profession."
+        },
+        {
+          "id": "P6",
+          "text": "The Dunedin study is important not only because of its findings, however. It also provides a model because of the extraordinary commitment of study members. No other longitudinal research project in the world matches its retention rate of 96% at age 32. Silva concedes that luck has a lot to do with this: Dunedin city was, and largely still is, close-knit, homogeneous and devoted to its university and medical school. It is large enough to produce a study population that produces findings that can be generalised to New Zealand and other developed countries, yet small enough that one in every 10 households has had a child or relative in the study."
+        },
+        {
+          "id": "P7",
+          "text": "More important than circumstance, though, was the approach taken by the researchers. Silva recalls that by year 13, participation had dropped off - only 82% came in for assessments. He realised the most important asset they had was the sample group and these people must be nurtured at all costs. He spent many long hours out in the field, finding those participants who had gone adrift and persuading them to come in. Study members are kept up to date with the steady flow of findings to which they have contributed. Privacy is absolutely paramount: Silva won't even say how many of the study members are now in prison: nothing must erode the trust that's been built up over the years."
+        },
+        {
+          "id": "P8",
+          "text": "Today, more than a quarter of the sample live overseas so the study also has its own travel agent, who does her best to accommodate requests to spend Christmas in Dunedin with family. This is just one example of the enormous effort that goes into maintaining contact and removing obstacles to participation. With such diligence and care, researchers hope the Dunedin study will continue for many years, perhaps generations, to come."
+        }
+      ],
+      "groups": [
+        {
+          "id": "v8-t11-p3-g1",
+          "questionRange": [
+            27,
+            32
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "What does the writer say about Dunedin in the 1970s?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "It was the safest city in the country."
+                },
+                {
+                  "key": "B",
+                  "text": "It was less prosperous than other cities."
+                },
+                {
+                  "key": "C",
+                  "text": "Many people were frustrated that they could not find a job."
+                },
+                {
+                  "key": "D",
+                  "text": "It was wealthy and seen as an ideal place to raise children."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 2",
+              "evidenceQuote": "New Zealand was then the ninth richest country in the world and many residents believed that, as a place to bring up children, this was a city without rival.",
+              "evidenceTranslationVi": "New Zealand khi đó là quốc gia giàu thứ chín trên thế giới và nhiều người dân tin rằng, là nơi nuôi dạy trẻ em, đây là một thành phố không có đối thủ.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 2 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 28,
+              "prompt": "What did the writer find surprising about Phil Silva’s original study?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "That the study was held in a church."
+                },
+                {
+                  "key": "B",
+                  "text": "That the tests took half a day."
+                },
+                {
+                  "key": "C",
+                  "text": "That 91% of parents agreed to help."
+                },
+                {
+                  "key": "D",
+                  "text": "That the study used volunteers."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 6",
+              "evidenceQuote": "Incredibly, no fewer than 91% agreed to help and 1037 three-year-olds completed half a day of tests and experiments.",
+              "evidenceTranslationVi": "Điều đáng kinh ngạc là không dưới 91% đồng ý giúp đỡ và 1037 trẻ ba tuổi đã hoàn thành nửa ngày các bài kiểm tra và thí nghiệm.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 6 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 29,
+              "prompt": "What was Silva's main finding in 1978?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Children had excellent language."
+                },
+                {
+                  "key": "B",
+                  "text": "Many children had developmental problems."
+                },
+                {
+                  "key": "C",
+                  "text": "No children had ear problems."
+                },
+                {
+                  "key": "D",
+                  "text": "All children were healthy."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 1",
+              "evidenceQuote": "By 1978, Silva was able to shock the nation with his findings: one in four children had delayed language development; 15% had ear problems; the researchers had identified one child who was blind and another who might have died from undetected skin cancer.",
+              "evidenceTranslationVi": "Đến năm 1978, Silva đã gây chấn động cả nước với những phát hiện của mình: cứ bốn đứa trẻ thì có một đứa trẻ chậm phát triển ngôn ngữ; 15% có vấn đề về tai; các nhà nghiên cứu đã xác định được một đứa trẻ bị mù và một đứa trẻ khác có thể đã chết vì bệnh ung thư da không được phát hiện.",
+              "explanationVi": "Thông tin tại Đoạn 3, câu 1 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 30,
+              "prompt": "What was different about the first and second studies?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "The sample group was smaller in the first study."
+                },
+                {
+                  "key": "B",
+                  "text": "The second study produced conflicting results."
+                },
+                {
+                  "key": "C",
+                  "text": "Helpers were not used in the second study."
+                },
+                {
+                  "key": "D",
+                  "text": "The second study collected additional types of information."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 6",
+              "evidenceQuote": "The data gathered at age three was updated and new measurement criteria – discipline, nutrition, dental health - were introduced.",
+              "evidenceTranslationVi": "Dữ liệu thu thập được ở tuổi lên ba đã được cập nhật và các tiêu chí đo lường mới – kỷ luật, dinh dưỡng, sức khỏe răng miệng – đã được đưa ra.",
+              "explanationVi": "Thông tin tại Đoạn 2, câu 6 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 31,
+              "prompt": "What problem did Silva face when conducting the original study?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "shortage of helpers."
+                },
+                {
+                  "key": "A",
+                  "text": "lack of available funding."
+                },
+                {
+                  "key": "A",
+                  "text": "The bad behaviour of some children."
+                },
+                {
+                  "key": "B",
+                  "text": "The poor language skills of the participants."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P2",
+              "evidenceLocation": "Đoạn 2, câu 1",
+              "evidenceQuote": "There was precious little money at Silva's disposal, so the assessments were done in a church with the help of dozens of volunteers.",
+              "evidenceTranslationVi": "Silva có rất ít tiền quý giá nên việc đánh giá được thực hiện trong một nhà thờ với sự giúp đỡ của hàng chục tình nguyện viên.",
+              "explanationVi": "Thông tin tại Đoạn 2, câu 1 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 32,
+              "prompt": "Why does the writer mention the new building in the fourth paragraph?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "To show how generous project funding had become."
+                },
+                {
+                  "key": "B",
+                  "text": "To show that the study was being taken seriously."
+                },
+                {
+                  "key": "C",
+                  "text": "To emphasise the temporary nature of the facilities."
+                },
+                {
+                  "key": "D",
+                  "text": "To highlight that the children disliked the site."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 4",
+              "evidenceQuote": "It wouldn't have been the researchers' first choice, and was certainly not grand, but it was at least a site for the long term and its acquisition represented a landmark in the study's development.",
+              "evidenceTranslationVi": "Nó không phải là lựa chọn đầu tiên của các nhà nghiên cứu và chắc chắn không lớn, nhưng ít nhất nó là một địa điểm về lâu dài và việc mua lại nó là một bước ngoặt trong sự phát triển của nghiên cứu.",
+              "explanationVi": "Thông tin tại Đoạn 4, câu 4 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v8-t11-p3-g2",
+          "questionRange": [
+            33,
+            36
+          ],
+          "type": "ynng",
+          "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "number": 33,
+              "prompt": "Recent results suggest that intellectual development and birth weight are linked.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 1",
+              "evidenceQuote": "Among the most recent findings are that birth complications - a focus of Silva's original research - don't necessarily set children up for problems as they mature in later life, although the amount a newborn infant weighs is associated with IQ.",
+              "evidenceTranslationVi": "Trong số những phát hiện gần đây nhất là các biến chứng khi sinh - trọng tâm nghiên cứu ban đầu của Silva - không nhất thiết khiến trẻ gặp vấn đề khi chúng trưởng thành trong cuộc sống sau này, mặc dù trọng lượng của trẻ sơ sinh có liên quan đến chỉ số IQ.",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn 5, câu 1 hoàn toàn trùng với nhận định trong câu hỏi."
+            },
+            {
+              "number": 34,
+              "prompt": "Medical textbooks used to claim that breast-fed children were more intelligent.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 2",
+              "evidenceQuote": "Paediatric textbooks had insisted for years that breast-feeding protected against medical problems like asthma and allergies.",
+              "evidenceTranslationVi": "Sách giáo khoa nhi khoa đã nhấn mạnh trong nhiều năm rằng việc nuôi con bằng sữa mẹ bảo vệ trẻ khỏi các vấn đề y tế như hen suyễn và dị ứng.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn 5, câu 2 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 35,
+              "prompt": "Children who suck their thumbs are prone to developmental problems.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "not"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 4",
+              "evidenceQuote": "Other findings that challenged the received wisdom include the fact that thumb-sucking does no harm; birth order makes no difference to later development; and pre-schoolers whose mothers work are not disadvantaged.",
+              "evidenceTranslationVi": "Những phát hiện khác thách thức sự hiểu biết đã được thừa nhận bao gồm thực tế là việc mút ngón tay cái không gây hại gì; thứ tự sinh không ảnh hưởng tới sự phát triển sau này; và trẻ mẫu giáo có mẹ đi làm không bị thiệt thòi.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn 5, câu 4 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 36,
+              "prompt": "The findings of the Dunedin study have challenged some doctors’ preconceptions",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "P5",
+              "evidenceLocation": "Đoạn 5, câu 6",
+              "evidenceQuote": "Along the way, the Dunedin researchers have been able to contradict old assumptions and explode medical myths long held by the profession.",
+              "evidenceTranslationVi": "Trong quá trình thực hiện, các nhà nghiên cứu ở Dunedin đã có thể bác bỏ những giả định cũ và làm sáng tỏ những huyền thoại y học đã tồn tại từ lâu trong nghề.",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn 5, câu 6 hoàn toàn trùng với nhận định trong câu hỏi."
+            }
+          ]
+        },
+        {
+          "id": "v8-t11-p3-g3",
+          "questionRange": [
+            37,
+            40
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the summary below by dragging each phrase to the correct gap.",
+          "bodyText": "Available phrases\nA generalisable research B study members C government funding\nD assessments E loyalty F barriers to involvement G confidentiality\nH results\nA model study\nThe success of the Dunedin project has been put down to two principal factors: good fortune\nand Phil Silva's methodology. The demographics of Dunedin mean that residents feel\ncommitted to the study, and that it also provides {{blank:37}} that can be applied both\nnationally and internationally, but even more important was Silva's conviction that the\n{{blank:38}} must be looked after; nothing should be done to threaten the study's\n{{blank:39}} and as a result Silva is cautious when questioned, and a lot of work is done\ntominimise {{blank:40}} in order to ensure that the study continues into the future.",
+          "questions": [
+            {
+              "number": 37,
+              "prompt": "The demographics of Dunedin mean that residents feel\ncommitted to the study, and that it also provides {{blank:37}} that can be applied both\nnationally and internationally, but even more important was Silva's conviction that the\n{{blank:38}} must be looked after; nothing should be done to threaten the study's\n{{blank:39}} and as a result Silva is cautious when questioned, and a lot of work is done\ntominimise {{blank:40}} in order to ensure that the study continues into the future.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "a"
+              ],
+              "evidenceParagraphId": "P6",
+              "evidenceLocation": "Đoạn 6, câu 5",
+              "evidenceQuote": "It is large enough to produce a study population that produces findings that can be generalised to New Zealand and other developed countries, yet small enough that one in every 10 households has had a child or relative in the study.",
+              "evidenceTranslationVi": "Nó đủ lớn để tạo ra một quần thể nghiên cứu tạo ra những phát hiện có thể khái quát cho New Zealand và các nước phát triển khác, nhưng cũng đủ nhỏ để cứ 10 hộ gia đình thì có một đứa trẻ hoặc người thân tham gia nghiên cứu.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 6, câu 5 để điền \"a\"."
+            },
+            {
+              "number": 38,
+              "prompt": "The demographics of Dunedin mean that residents feel\ncommitted to the study, and that it also provides {{blank:37}} that can be applied both\nnationally and internationally, but even more important was Silva's conviction that the\n{{blank:38}} must be looked after; nothing should be done to threaten the study's\n{{blank:39}} and as a result Silva is cautious when questioned, and a lot of work is done\ntominimise {{blank:40}} in order to ensure that the study continues into the future.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "8"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 3",
+              "evidenceQuote": "He realised the most important asset they had was the sample group and these people must be nurtured at all costs.",
+              "evidenceTranslationVi": "Ông nhận ra tài sản quan trọng nhất mà họ có được là nhóm mẫu và những người này phải được nuôi dưỡng bằng mọi giá.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 7, câu 3 để điền \"8\"."
+            },
+            {
+              "number": 39,
+              "prompt": "The demographics of Dunedin mean that residents feel\ncommitted to the study, and that it also provides {{blank:37}} that can be applied both\nnationally and internationally, but even more important was Silva's conviction that the\n{{blank:38}} must be looked after; nothing should be done to threaten the study's\n{{blank:39}} and as a result Silva is cautious when questioned, and a lot of work is done\ntominimise {{blank:40}} in order to ensure that the study continues into the future.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "G"
+              ],
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 6",
+              "evidenceQuote": "Privacy is absolutely paramount: Silva won't even say how many of the study members are now in prison: nothing must erode the trust that's been built up over the years.",
+              "evidenceTranslationVi": "Quyền riêng tư là điều tối quan trọng: Silva thậm chí sẽ không cho biết có bao nhiêu thành viên nghiên cứu hiện đang ở tù: không gì có thể làm xói mòn lòng tin đã được xây dựng qua nhiều năm.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 7, câu 6 để điền \"G\"."
+            },
+            {
+              "number": 40,
+              "prompt": "The demographics of Dunedin mean that residents feel\ncommitted to the study, and that it also provides {{blank:37}} that can be applied both\nnationally and internationally, but even more important was Silva's conviction that the\n{{blank:38}} must be looked after; nothing should be done to threaten the study's\n{{blank:39}} and as a result Silva is cautious when questioned, and a lot of work is done\ntominimise {{blank:40}} in order to ensure that the study continues into the future.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "P8",
+              "evidenceLocation": "Đoạn 8, câu 2",
+              "evidenceQuote": "This is just one example of the enormous effort that goes into maintaining contact and removing obstacles to participation.",
+              "evidenceTranslationVi": "Đây chỉ là một ví dụ về nỗ lực to lớn nhằm duy trì liên lạc và loại bỏ những trở ngại cho việc tham gia.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 8, câu 2 để điền \"F\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

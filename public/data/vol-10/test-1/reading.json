@@ -1,0 +1,1292 @@
+{
+  "vol": 10,
+  "test": 1,
+  "testId": "vol-10-test-1",
+  "title": "IELTS Reading Vol 10 - Test 1",
+  "sourceName": "VOL 10 KEY.pdf (pp.1-15)",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "VOL 10 TEST 1",
+      "subtitle": "VOL 10 TEST 1 Reading",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "Brief History of Glassmaking The first known glass objects can be traced back to the ancient Eastern empires, in about 3500 BC, building on existing knowledge about glazes, a new material, including sand and metal oxides, was developed. This material – glass – was initially used for small pieces of jewellery and inlays in small statues. Then it was used increasingly for vessels made to hold perfumes, oils, and fragrances. Transparency was not a characteristic of these works. Of greater interest to the early glass artisans was the ability to reproduce the colour-and-structures of highly valued semi-precious stones. By about 450 BC, artisans in the glass workshops of the Persian Empire had learned to apply other techniques to glassmaking, probably producing vessels of considerable size on a turning wheel. Cutting techniques were also used for some of their complex decorations. Meanwhile, the Greeks still concentrated their energies on ceramics, and used glass simply for coloured inlays in sculptures – especially for magnificent monumental statues in public sites. However, in the 1st and 2nd centuries BC, an industry of luxury glass items of various forms did emerge in former Greek areas strongly influenced by eastern cultures. This industry was in turn to have a profound effect on the glass art of the early-Roman Empire. The rise of the Roman Empire (1st century BC) was accompanied by an increase in glass production in the Mediterranean region. Initially glass retained its status as a luxury material – indeed from the earliest years of its development it had been generally considered equal to precious stones and valuable metals. Coloured glass bowls, mosaic-glass plates, and glass vessels with gold décor were very popular with the wealthy. However, as the empire expanded, the steps from luxury to mass production, and from decorative objects to vessels for daily use, were gradually taken. The grounding for this was the Syrian glassmakers’ discovery at the beginning of the 1st century BC that glass, when melted, can be made into shapes by blowing down a hollow metal tube. Thus it became possible for these craftsmen to produce a large variety of vessels for different uses – from simple bottles to more decorative and complex pieces. Starting with the leading Syrian glassworks, glass as a manufactured product spread across the entire area of Roman rule. With mass production, glass increasingly became a trade item – of no minor importance in convincing the so-called ‘barbarians’ from the border areas such as Germany of the superiority of Roman civilization. The well-planned network of roads in the Roman Empire ensured that the new shapes of manufactured glass objects, and the newly developed techniques used to produce them, were quickly spread and adopted. Wherever suitable materials were found, the same or very similar glass forms, with hardly any variation in quality, were made. This is true of the Italian peninsula, including Rome itself, where numerous workshops producing high-quality goods existed, as well as of Spain and along the shores of the Black Sea. Because of their particularly well-suited sand and large deposits of soda ash, however, the main centres of glass production remained in Syria, Mesopotamia, and Lower Egypt. Starting in the 1st century AD, small vessels and utensils in Roman households came to be made predominantly of wheel-blown glass, but also of glass. Beside the large number of everyday small vessels for storing fragrances and medicinal extracts, there were bowls in all shapes – some formed on the humming-wheel; some blown – plates, lamps, and much more. Even vessels technically very difficult to produce have been found, such as playful bottles in the shape of birds or other animals. Whereas colour characterised the appearance of early Roman glass – in keeping with the Greek tradition – from the 2nd century AD, the transparency and also lightness of the material as well as its shiny surface, came to be valued more. Usually it was left in its natural state, typical are vessels having a blue-green coloration of varying intensity. There was, though, an increasing tendency to apply intricate details, and a few coloured accents can be observed. Different coloured glass was also used for simple handles, or for one or two threads or strings of extra glass wrapped around the rims to give emphasis to the vessels’ mouths. In the late Roman period (3rd and 4th centuries AD) the tendency towards complexity was also reflected in the growing popularity of cut and engraved work. Blowing and the use of moulds were developed in new directions, surpassing the designs of the early period of glass-blowing. Later vessels such as the so-called shellfish beaker represented a climax in glassmaking of the later Roman period: fish and similar objects were blown separately, formed with special tools, and melted onto the walls of simply-shaped vessels. Roman glass art continued to be exemplary, and much of the world-famous Venetian glass art from the early 15th century was based on the revival of such methods as thread-glass decoration or mosaic glass. In fact, most methods of glassmaking and glass-decoration changed very little in the centuries following the Roman Empire. This is true of the development of European glass art, even up to the early 19th century. Until chemistry became an established scientific discipline in the second quarter of that century, glassmaking technology underwent only minor improvements. Even now, however, several of the techniques used in the Roman Empire remain a puzzle that modern glass technicians cannot resolve.",
+          "label": "A"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v10-t1-p1-g1",
+          "questionRange": [
+            1,
+            6
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "By about 450 BC, glass had become as important as ceramics in Greece.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 6",
+              "evidenceQuote": "By about 450 BC, artisans in the glass workshops of the Persian Empire had learned to apply other techniques to glassmaking, probably producing vessels of considerable size on a turning wheel.",
+              "evidenceTranslationVi": "Vào khoảng năm 450 trước Công nguyên, các nghệ nhân trong xưởng thủy tinh của Đế quốc Ba Tư đã học cách áp dụng các kỹ thuật khác vào sản xuất thủy tinh, có thể là sản xuất những chiếc tàu có kích thước đáng kể trên một bánh xe quay.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn A, câu 6 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 2,
+              "prompt": "The glassmakers of the early Roman Empire made copies of luxury Greek items.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 9",
+              "evidenceQuote": "However, in the 1st and 2nd centuries BC, an industry of luxury glass items of various forms did emerge in former Greek areas strongly influenced by eastern cultures.",
+              "evidenceTranslationVi": "Tuy nhiên, vào thế kỷ 1 và 2 trước Công nguyên, một ngành công nghiệp sản xuất các mặt hàng thủy tinh xa xỉ dưới nhiều hình thức khác nhau đã xuất hiện ở các khu vực Hy Lạp cũ chịu ảnh hưởng mạnh mẽ của văn hóa phương đông.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn A, câu 9 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 3,
+              "prompt": "With the rise of the Roman Empire, glass objects became more common.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 11",
+              "evidenceQuote": "The rise of the Roman Empire (1st century BC) was accompanied by an increase in glass production in the Mediterranean region.",
+              "evidenceTranslationVi": "Sự trỗi dậy của Đế chế La Mã (thế kỷ 1 trước Công nguyên) đi kèm với sự gia tăng sản xuất thủy tinh ở khu vực Địa Trung Hải.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn A, câu 11 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 4,
+              "prompt": "Syrian glassmakers created many different types of objects by blowing glass.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 15",
+              "evidenceQuote": "The grounding for this was the Syrian glassmakers’ discovery at the beginning of the 1st century BC that glass, when melted, can be made into shapes by blowing down a hollow metal tube.",
+              "evidenceTranslationVi": "Cơ sở cho điều này là phát hiện của những người thợ làm thủy tinh ở Syria vào đầu thế kỷ 1 trước Công nguyên rằng thủy tinh, khi nấu chảy, có thể tạo thành hình dạng bằng cách thổi xuống một ống kim loại rỗng.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn A, câu 15 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 5,
+              "prompt": "The Roman road network provided a safer way of transporting glass than previous methods.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 19",
+              "evidenceQuote": "The well-planned network of roads in the Roman Empire ensured that the new shapes of manufactured glass objects, and the newly developed techniques used to produce them, were quickly spread and adopted.",
+              "evidenceTranslationVi": "Mạng lưới đường sá được quy hoạch bài bản ở Đế quốc La Mã đảm bảo rằng hình dạng mới của các đồ vật bằng thủy tinh được sản xuất và các kỹ thuật mới được phát triển để sản xuất chúng nhanh chóng được phổ biến và áp dụng.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn A, câu 19 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 6,
+              "prompt": "Roman glass vessels produced in the 1st century AD were restricted to simple designs.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 23",
+              "evidenceQuote": "Starting in the 1st century AD, small vessels and utensils in Roman households came to be made predominantly of wheel-blown glass, but also of glass.",
+              "evidenceTranslationVi": "Bắt đầu từ thế kỷ 1 sau Công Nguyên, những chiếc bình nhỏ và đồ dùng trong các hộ gia đình La Mã chủ yếu được làm bằng thủy tinh thổi có bánh xe nhưng cũng có thể bằng thủy tinh.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn A, câu 23 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            }
+          ]
+        },
+        {
+          "id": "v10-t1-p1-g2",
+          "questionRange": [
+            7,
+            13
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "bodyText": "Developments in glassmaking\n2nd century AD\n● greater emphasis on glass having a {{blank:7}}, lightness and transparency\n● complex {{blank:8}} were often added, as well as coloured accents\n● extra threads of glass used to highlight the {{blank:9}} of vessels\nLate Roman period\n● high point of later Roman glassmaking can be seen in containers like the {{blank:10}}\n● certain tools were used to create shapes, which were then attached to simple vessels\nLater developments\n● from the 15th century, Venetians used old techniques like {{blank:11}} and thread-glass\ndecoration\n● acceptance of {{blank:12}} as a subject for serious study in the 19th century led to\nimprovements in glassmaking technology.\n● some methods dating back to the Roman Empire continue to be a {{blank:13}} for\ntoday’s glassmakers\nThe return of the black-footed ferret\nThe rise, fall, and rise of one of North America’s rarest mammals",
+          "questions": [
+            {
+              "number": 7,
+              "prompt": "Developments in glassmaking\n2nd century AD\n● greater emphasis on glass having a {{blank:7}}, lightness and transparency\n● complex {{blank:8}} were often added, as well as coloured accents\n● extra threads of glass used to highlight the {{blank:9}} of vessels\nLate Roman period\n● high point of later Roman glassmaking can be seen in containers like the {{blank:10}}\n● certain tools were used to create shapes, which were then attached to simple vessels\nLater developments\n● from the 15th century, Venetians used old techniques like {{blank:11}} and thread-glass\ndecoration\n● acceptance of {{blank:12}} as a subject for serious study in the 19th century led to\nimprovements in glassmaking technology.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "shiny surface"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 26",
+              "evidenceQuote": "Whereas colour characterised the appearance of early Roman glass – in keeping with the Greek tradition – from the 2nd century AD, the transparency and also lightness of the material as well as its shiny surface, came to be valued more.",
+              "evidenceTranslationVi": "Trong khi màu sắc đặc trưng cho vẻ ngoài của thủy tinh La Mã sơ khai - phù hợp với truyền thống Hy Lạp - từ thế kỷ thứ 2 sau Công nguyên, độ trong suốt và nhẹ của vật liệu cũng như bề mặt sáng bóng của nó dần được đánh giá cao hơn.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 26 để điền \"shiny surface\"."
+            },
+            {
+              "number": 8,
+              "prompt": "Developments in glassmaking\n2nd century AD\n● greater emphasis on glass having a {{blank:7}}, lightness and transparency\n● complex {{blank:8}} were often added, as well as coloured accents\n● extra threads of glass used to highlight the {{blank:9}} of vessels\nLate Roman period\n● high point of later Roman glassmaking can be seen in containers like the {{blank:10}}\n● certain tools were used to create shapes, which were then attached to simple vessels\nLater developments\n● from the 15th century, Venetians used old techniques like {{blank:11}} and thread-glass\ndecoration\n● acceptance of {{blank:12}} as a subject for serious study in the 19th century led to\nimprovements in glassmaking technology.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "details"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 28",
+              "evidenceQuote": "There was, though, an increasing tendency to apply intricate details, and a few coloured accents can be observed.",
+              "evidenceTranslationVi": "Tuy nhiên, xu hướng áp dụng các chi tiết phức tạp và một số điểm nhấn màu sắc ngày càng tăng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 28 để điền \"details\"."
+            },
+            {
+              "number": 9,
+              "prompt": "Developments in glassmaking\n2nd century AD\n● greater emphasis on glass having a {{blank:7}}, lightness and transparency\n● complex {{blank:8}} were often added, as well as coloured accents\n● extra threads of glass used to highlight the {{blank:9}} of vessels\nLate Roman period\n● high point of later Roman glassmaking can be seen in containers like the {{blank:10}}\n● certain tools were used to create shapes, which were then attached to simple vessels\nLater developments\n● from the 15th century, Venetians used old techniques like {{blank:11}} and thread-glass\ndecoration\n● acceptance of {{blank:12}} as a subject for serious study in the 19th century led to\nimprovements in glassmaking technology.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "mouths"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 29",
+              "evidenceQuote": "Different coloured glass was also used for simple handles, or for one or two threads or strings of extra glass wrapped around the rims to give emphasis to the vessels’ mouths.",
+              "evidenceTranslationVi": "Thủy tinh có màu sắc khác nhau cũng được sử dụng cho tay cầm đơn giản hoặc cho một hoặc hai sợi hoặc dây thủy tinh bổ sung quấn quanh vành để tạo điểm nhấn cho miệng bình.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 29 để điền \"mouths\"."
+            },
+            {
+              "number": 10,
+              "prompt": "Developments in glassmaking\n2nd century AD\n● greater emphasis on glass having a {{blank:7}}, lightness and transparency\n● complex {{blank:8}} were often added, as well as coloured accents\n● extra threads of glass used to highlight the {{blank:9}} of vessels\nLate Roman period\n● high point of later Roman glassmaking can be seen in containers like the {{blank:10}}\n● certain tools were used to create shapes, which were then attached to simple vessels\nLater developments\n● from the 15th century, Venetians used old techniques like {{blank:11}} and thread-glass\ndecoration\n● acceptance of {{blank:12}} as a subject for serious study in the 19th century led to\nimprovements in glassmaking technology.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "shellfish beaker"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 32",
+              "evidenceQuote": "Later vessels such as the so-called shellfish beaker represented a climax in glassmaking of the later Roman period: fish and similar objects were blown separately, formed with special tools, and melted onto the walls of simply-shaped vessels.",
+              "evidenceTranslationVi": "Những chiếc bình sau này, chẳng hạn như cái gọi là cốc thủy tinh có vỏ, đại diện cho đỉnh cao của nghề chế tạo thủy tinh thời kỳ La Mã sau này: cá và các đồ vật tương tự được thổi riêng biệt, tạo hình bằng các công cụ đặc biệt và nấu chảy trên thành của những chiếc bình có hình dạng đơn giản.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 32 để điền \"shellfish beaker\"."
+            },
+            {
+              "number": 11,
+              "prompt": "Developments in glassmaking\n2nd century AD\n● greater emphasis on glass having a {{blank:7}}, lightness and transparency\n● complex {{blank:8}} were often added, as well as coloured accents\n● extra threads of glass used to highlight the {{blank:9}} of vessels\nLate Roman period\n● high point of later Roman glassmaking can be seen in containers like the {{blank:10}}\n● certain tools were used to create shapes, which were then attached to simple vessels\nLater developments\n● from the 15th century, Venetians used old techniques like {{blank:11}} and thread-glass\ndecoration\n● acceptance of {{blank:12}} as a subject for serious study in the 19th century led to\nimprovements in glassmaking technology.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "mosaic glass"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 33",
+              "evidenceQuote": "Roman glass art continued to be exemplary, and much of the world-famous Venetian glass art from the early 15th century was based on the revival of such methods as thread-glass decoration or mosaic glass.",
+              "evidenceTranslationVi": "Nghệ thuật thủy tinh La Mã tiếp tục là mẫu mực, và phần lớn nghệ thuật thủy tinh Venice nổi tiếng thế giới từ đầu thế kỷ 15 đều dựa trên sự hồi sinh của các phương pháp như trang trí bằng sợi thủy tinh hoặc thủy tinh khảm.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 33 để điền \"mosaic glass\"."
+            },
+            {
+              "number": 12,
+              "prompt": "Developments in glassmaking\n2nd century AD\n● greater emphasis on glass having a {{blank:7}}, lightness and transparency\n● complex {{blank:8}} were often added, as well as coloured accents\n● extra threads of glass used to highlight the {{blank:9}} of vessels\nLate Roman period\n● high point of later Roman glassmaking can be seen in containers like the {{blank:10}}\n● certain tools were used to create shapes, which were then attached to simple vessels\nLater developments\n● from the 15th century, Venetians used old techniques like {{blank:11}} and thread-glass\ndecoration\n● acceptance of {{blank:12}} as a subject for serious study in the 19th century led to\nimprovements in glassmaking technology.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "chemistry"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 36",
+              "evidenceQuote": "Until chemistry became an established scientific discipline in the second quarter of that century, glassmaking technology underwent only minor improvements.",
+              "evidenceTranslationVi": "Cho đến khi hóa học trở thành một ngành khoa học được thiết lập vào quý hai của thế kỷ đó, công nghệ sản xuất thủy tinh chỉ trải qua những cải tiến nhỏ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 36 để điền \"chemistry\"."
+            },
+            {
+              "number": 13,
+              "prompt": "● some methods dating back to the Roman Empire continue to be a {{blank:13}} for\ntoday’s glassmakers\nThe return of the black-footed ferret\nThe rise, fall, and rise of one of North America’s rarest mammals",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "puzzle"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 37",
+              "evidenceQuote": "Even now, however, several of the techniques used in the Roman Empire remain a puzzle that modern glass technicians cannot resolve.",
+              "evidenceTranslationVi": "Tuy nhiên, ngay cả ngày nay, một số kỹ thuật được sử dụng ở Đế chế La Mã vẫn là một câu đố mà các kỹ thuật viên thủy tinh hiện đại không thể giải quyết được.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 37 để điền \"puzzle\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "Reading Passage 2",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "A",
+          "text": "The black-footed ferret (Mustela nigripes) is a small carnivorous mammal, similar in length to a domestic cat, and is the only ferret species native to North America. For at least 100,000 years they lived in an area that extended almost uninterrupted from southern Canada to northern Mexico. But numbers fell dramatically throughout the 19th and 20th centuries, to such an extent that the black-footed ferret was declared ‘possibly extinct’. Then, almost miraculously, it returned from the dead.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "Within the genus Mustela, the ferret belongs to the subgenus Putorius, of which there are only three extant species: the European polecat; the Siberian polecat; and the black-footed ferret. The European polecat lives in open forests and meadows, and is thought to be the ancestor of the domestic ferret. The Siberian polecat looks more similar to the black-footed ferret, and leads a similar life on open grasslands and semidesert regions across Russia, China and Siberia.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "Ferrets probably evolved in Europe between three and four million years ago, and dispersed into North America across an ice-age land bridge at least two million years ago. They then advanced south-eastward to the Great Plains through ice-free passageways. The black-footed ferret’s history in North America is inextricably linked to the creature which became almost its sole prey — the prairie dog. These small rodents are a type of ground squirrel which live in networks of underground tunnels, known as burrows. The black-footed ferret’s short legs and long, slim body make it superbly adapted for life in the burrow systems of its prey.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Spending virtually all their time underground, black-footed ferrets have always been elusive. Ferrets are never mentioned in accounts of the early explorers or pioneers who crossed the Great Plains by wagon train during the early to mid-1800s. They were, however, occasionally listed in records kept by fur companies in the upper Missouri River basin during that period. Black-footed ferrets were not officially recognized by scientists until 1851, when a description and drawing of one featured in a book by the renowned naturalist John James Audubon and Reverend John Bachman. For over two decades, no other specimens were seen, and scientists even began to question their existence. Then, in 1874, a Dr Elliott Coues issued a request for specimens through the popular magazine The American Sportsman, and was soon rewarded. With these he was able to add to Audubon’s description, and confirm the existence of the black-footed ferret.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "In the decades that followed, European settlement across North America changed the landscape dramatically, with vast areas being transformed into crop and grazing land. As agriculture and ranching expanded, the black-footed ferret’s main prey, the prairie dog, became a target for extermination, and was eventually eradicated from 98% of its original range. The result was devastating for black-footed ferret populations throughout the continent. Even today, the prairie dog is still trapped and poisoned, because ranchers believe that it competes with livestock for grass — a notion that belies recent research showing that prairie dogs and cattle feed on different plants.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "As late as the 1950s, black-footed ferrets were still thought to occur in low densities throughout most of their historic range. However, by the 1960s, the only known population was a small colony in south-western South Dakota. In 1967, the US Fish and Wildlife Service classified the black-footed ferret as an endangered species, and in 1974 the South Dakota colony disappeared. Finally, in January 1979, the last ferret in a captive-breeding programme died — making the black-footed ferret the first mammal to be declared extinct in the Northern Hemisphere in the 20th century.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "But that was not the end of the story. In 1981, a farm dog called Shep carried an oddlooking creature to its owner’s ranch house in Meeteetse, Wyoming. The rancher put the carcass in his fridge and alerted state officials. The dog had found a black-footed ferret — which led to efforts again being made to save the species. An intensive search in the region led to the discovery of a 130-strong population. This wild colony thrived for a while, but disaster struck again and the number of animals was drastically reduced by the disease distemper — probably contracted from domestic dogs. In 1985, in a final bid to save the species, the remaining 18 individuals in the colony were trapped for a new captive-breeding programme. This project was successful, and there are now more than 2,000 black-footed ferrets in captivity across the US and Canada.",
+          "label": "G"
+        },
+        {
+          "id": "H",
+          "text": "A reintroduction programme began in 1991. Before they can be reintroduced into their natural habitat, captive ferrets have to learn to hunt and escape from predators. They are first held in pens on the prairie, where they are fed prairie dog meat. Once the ferrets associate these animals with food, keepers unleash live prey into the pens, and they soon realise that they must hunt or go hungry. Then, to get the ferrets used to living underground, they have to be tempted into the holes with food. I Reintroduction programmes are now underway across the central USA, but there is one location that is key. The Janos area on the US-Mexico border is the obvious place to reactivate the continent’s wild black-footed ferret population, being one of the most important remaining grassland ecosystems in the Americas, and home to an abundance of prairie dogs. In the last report, the future of the black-footed ferret finally looks promising.",
+          "label": "H"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v10-t1-p2-g1",
+          "questionRange": [
+            14,
+            16
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
+          "wordLimit": "NO MORE THAN TWO WORDS",
+          "bodyText": "The black-footed ferret shares most characteristics with its relative, the {{blank:14}}\nNorth American ferrets are thought to have originally come from {{blank:15}}\nThe {{blank:16}} is the black-footed ferret’s primary source of food throughout their time in\nNorth America.",
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "The black-footed ferret shares most characteristics with its relative, the {{blank:14}}\nNorth American ferrets are thought to have originally come from {{blank:15}}\nThe {{blank:16}} is the black-footed ferret’s primary source of food throughout their time in\nNorth America.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "Siberian polecat"
+              ],
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 1",
+              "evidenceQuote": "Within the genus Mustela, the ferret belongs to the subgenus Putorius, of which there are only three extant species: the European polecat; the Siberian polecat; and the black-footed ferret.",
+              "evidenceTranslationVi": "Trong chi Mustela, chồn sương thuộc phân chi Putorius, trong đó chỉ có ba loài còn tồn tại: chồn sào châu Âu; mèo sào Siberia; và chồn chân đen.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 1 để điền \"Siberian polecat\"."
+            },
+            {
+              "number": 15,
+              "prompt": "The black-footed ferret shares most characteristics with its relative, the {{blank:14}}\nNorth American ferrets are thought to have originally come from {{blank:15}}\nThe {{blank:16}} is the black-footed ferret’s primary source of food throughout their time in\nNorth America.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "Europe"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "Ferrets probably evolved in Europe between three and four million years ago, and dispersed into North America across an ice-age land bridge at least two million years ago.",
+              "evidenceTranslationVi": "Chồn hương có lẽ đã tiến hóa ở châu Âu từ ba đến bốn triệu năm trước và phân tán sang Bắc Mỹ qua một vùng đất liền thuộc kỷ băng hà ít nhất hai triệu năm trước.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn C, câu 1 để điền \"Europe\"."
+            },
+            {
+              "number": 16,
+              "prompt": "The black-footed ferret shares most characteristics with its relative, the {{blank:14}}\nNorth American ferrets are thought to have originally come from {{blank:15}}\nThe {{blank:16}} is the black-footed ferret’s primary source of food throughout their time in\nNorth America.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "prairie dog"
+              ],
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 3",
+              "evidenceQuote": "The black-footed ferret’s history in North America is inextricably linked to the creature which became almost its sole prey — the prairie dog.",
+              "evidenceTranslationVi": "Lịch sử của chồn chân đen ở Bắc Mỹ gắn bó chặt chẽ với sinh vật gần như trở thành con mồi duy nhất của nó - chó đồng cỏ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn C, câu 3 để điền \"prairie dog\"."
+            }
+          ]
+        },
+        {
+          "id": "v10-t1-p2-g2",
+          "questionRange": [
+            17,
+            22
+          ],
+          "type": "matching_features",
+          "instruction": "Look at the following events (Questions 17–22) and the list of dates below. Match each event with the correct date, A–H. Choose the correct letter, A–H, in boxes 17–22.",
+          "options": [
+            {
+              "key": "A",
+              "text": "1851"
+            },
+            {
+              "key": "B",
+              "text": "1874"
+            },
+            {
+              "key": "C",
+              "text": "1967"
+            },
+            {
+              "key": "D",
+              "text": "1974"
+            },
+            {
+              "key": "E",
+              "text": "1979"
+            },
+            {
+              "key": "F",
+              "text": "1981"
+            },
+            {
+              "key": "G",
+              "text": "1985"
+            },
+            {
+              "key": "H",
+              "text": "1991"
+            }
+          ],
+          "questions": [
+            {
+              "number": 17,
+              "prompt": "An appeal for evidence of black-footed ferrets was published.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "1851"
+                },
+                {
+                  "key": "B",
+                  "text": "1874"
+                },
+                {
+                  "key": "C",
+                  "text": "1967"
+                },
+                {
+                  "key": "D",
+                  "text": "1974"
+                },
+                {
+                  "key": "E",
+                  "text": "1979"
+                },
+                {
+                  "key": "F",
+                  "text": "1981"
+                },
+                {
+                  "key": "G",
+                  "text": "1985"
+                },
+                {
+                  "key": "H",
+                  "text": "1991"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "Spending virtually all their time underground, black-footed ferrets have always been elusive.",
+              "evidenceTranslationVi": "Hầu như dành toàn bộ thời gian dưới lòng đất, chồn chân đen luôn khó nắm bắt.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 1 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 18,
+              "prompt": "A scheme for releasing captive-born black-footed ferrets into the wild was launched.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "1851"
+                },
+                {
+                  "key": "B",
+                  "text": "1874"
+                },
+                {
+                  "key": "C",
+                  "text": "1967"
+                },
+                {
+                  "key": "D",
+                  "text": "1974"
+                },
+                {
+                  "key": "E",
+                  "text": "1979"
+                },
+                {
+                  "key": "F",
+                  "text": "1981"
+                },
+                {
+                  "key": "G",
+                  "text": "1985"
+                },
+                {
+                  "key": "H",
+                  "text": "1991"
+                }
+              ],
+              "acceptedAnswers": [
+                "H"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "Spending virtually all their time underground, black-footed ferrets have always been elusive.",
+              "evidenceTranslationVi": "Hầu như dành toàn bộ thời gian dưới lòng đất, chồn chân đen luôn khó nắm bắt.",
+              "explanationVi": "Thông tin tại Đoạn D, câu 1 khớp trực tiếp với lựa chọn H; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 19,
+              "prompt": "The black-footed ferret first appeared in a scientific work.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "1851"
+                },
+                {
+                  "key": "B",
+                  "text": "1874"
+                },
+                {
+                  "key": "C",
+                  "text": "1967"
+                },
+                {
+                  "key": "D",
+                  "text": "1974"
+                },
+                {
+                  "key": "E",
+                  "text": "1979"
+                },
+                {
+                  "key": "F",
+                  "text": "1981"
+                },
+                {
+                  "key": "G",
+                  "text": "1985"
+                },
+                {
+                  "key": "H",
+                  "text": "1991"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "F",
+              "evidenceLocation": "Đoạn F, câu 4",
+              "evidenceQuote": "Finally, in January 1979, the last ferret in a captive-breeding programme died — making the black-footed ferret the first mammal to be declared extinct in the Northern Hemisphere in the 20th century.",
+              "evidenceTranslationVi": "Cuối cùng, vào tháng 1 năm 1979, con chồn cuối cùng trong chương trình nhân giống nuôi nhốt đã chết - khiến chồn chân đen trở thành loài động vật có vú đầu tiên bị tuyên bố tuyệt chủng ở Bắc bán cầu trong thế kỷ 20.",
+              "explanationVi": "Thông tin tại Đoạn F, câu 4 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 20,
+              "prompt": "The discovery of a single black-footed ferret led to renewed hope for the species.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "1851"
+                },
+                {
+                  "key": "B",
+                  "text": "1874"
+                },
+                {
+                  "key": "C",
+                  "text": "1967"
+                },
+                {
+                  "key": "D",
+                  "text": "1974"
+                },
+                {
+                  "key": "E",
+                  "text": "1979"
+                },
+                {
+                  "key": "F",
+                  "text": "1981"
+                },
+                {
+                  "key": "G",
+                  "text": "1985"
+                },
+                {
+                  "key": "H",
+                  "text": "1991"
+                }
+              ],
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 4",
+              "evidenceQuote": "The dog had found a black-footed ferret — which led to efforts again being made to save the species.",
+              "evidenceTranslationVi": "Con chó đã tìm thấy một con chồn chân đen - điều này dẫn đến những nỗ lực một lần nữa được thực hiện để cứu loài này.",
+              "explanationVi": "Thông tin tại Đoạn G, câu 4 khớp trực tiếp với lựa chọn F; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 21,
+              "prompt": "North America’s last wild-born black-footed ferrets were taken into captivity.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "1851"
+                },
+                {
+                  "key": "B",
+                  "text": "1874"
+                },
+                {
+                  "key": "C",
+                  "text": "1967"
+                },
+                {
+                  "key": "D",
+                  "text": "1974"
+                },
+                {
+                  "key": "E",
+                  "text": "1979"
+                },
+                {
+                  "key": "F",
+                  "text": "1981"
+                },
+                {
+                  "key": "G",
+                  "text": "1985"
+                },
+                {
+                  "key": "H",
+                  "text": "1991"
+                }
+              ],
+              "acceptedAnswers": [
+                "G"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 1",
+              "evidenceQuote": "The black-footed ferret (Mustela nigripes) is a small carnivorous mammal, similar in length to a domestic cat, and is the only ferret species native to North America.",
+              "evidenceTranslationVi": "Chồn chân đen (Mustela nigripes) là một loài động vật có vú ăn thịt nhỏ, có chiều dài tương tự mèo nhà và là loài chồn duy nhất có nguồn gốc từ Bắc Mỹ.",
+              "explanationVi": "Thông tin tại Đoạn A, câu 1 khớp trực tiếp với lựa chọn G; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 22,
+              "prompt": "Efforts to save the black-footed ferret were officially announced as having failed.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "1851"
+                },
+                {
+                  "key": "B",
+                  "text": "1874"
+                },
+                {
+                  "key": "C",
+                  "text": "1967"
+                },
+                {
+                  "key": "D",
+                  "text": "1974"
+                },
+                {
+                  "key": "E",
+                  "text": "1979"
+                },
+                {
+                  "key": "F",
+                  "text": "1981"
+                },
+                {
+                  "key": "G",
+                  "text": "1985"
+                },
+                {
+                  "key": "H",
+                  "text": "1991"
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 4",
+              "evidenceQuote": "The dog had found a black-footed ferret — which led to efforts again being made to save the species.",
+              "evidenceTranslationVi": "Con chó đã tìm thấy một con chồn chân đen - điều này dẫn đến những nỗ lực một lần nữa được thực hiện để cứu loài này.",
+              "explanationVi": "Thông tin tại Đoạn G, câu 4 khớp trực tiếp với lựa chọn E; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v10-t1-p2-g3",
+          "questionRange": [
+            23,
+            26
+          ],
+          "type": "matching_info",
+          "instruction": "Reading Passage 2 has nine paragraphs, A–I. Which paragraph contains the following information? Choose the correct letter, A–I, in boxes 23–26.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Paragraph A"
+            },
+            {
+              "key": "B",
+              "text": "Paragraph B"
+            },
+            {
+              "key": "C",
+              "text": "Paragraph C"
+            },
+            {
+              "key": "D",
+              "text": "Paragraph D"
+            },
+            {
+              "key": "E",
+              "text": "Paragraph E"
+            },
+            {
+              "key": "F",
+              "text": "Paragraph F"
+            },
+            {
+              "key": "G",
+              "text": "Paragraph G"
+            },
+            {
+              "key": "H",
+              "text": "Paragraph H"
+            },
+            {
+              "key": "I",
+              "text": "Paragraph I"
+            }
+          ],
+          "questions": [
+            {
+              "number": 23,
+              "prompt": "reasons for the sharp decrease in black-footed ferret populations.",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 3",
+              "evidenceQuote": "The result was devastating for black-footed ferret populations throughout the continent.",
+              "evidenceTranslationVi": "Kết quả là sự tàn phá đối với quần thể chồn chân đen trên khắp lục địa.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn E (Đoạn E, câu 3)."
+            },
+            {
+              "number": 24,
+              "prompt": "the procedure by which black-footed ferrets are taught to survive in the wild.",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "acceptedAnswers": [
+                "H"
+              ],
+              "evidenceParagraphId": "H",
+              "evidenceLocation": "Đoạn H, câu 7",
+              "evidenceQuote": "The Janos area on the US-Mexico border is the obvious place to reactivate the continent’s wild black-footed ferret population, being one of the most important remaining grassland ecosystems in the Americas, and home to an abundance of prairie dogs.",
+              "evidenceTranslationVi": "Khu vực Janos ở biên giới Mỹ-Mexico là nơi rõ ràng để kích hoạt lại quần thể chồn chân đen hoang dã của lục địa, là một trong những hệ sinh thái đồng cỏ quan trọng nhất còn sót lại ở châu Mỹ và là nơi sinh sống của rất nhiều loài chó đồng cỏ.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn H (Đoạn H, câu 7)."
+            },
+            {
+              "number": 25,
+              "prompt": "mention of doubts about whether there was such an animal as a black-footed ferret.",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 7",
+              "evidenceQuote": "With these he was able to add to Audubon’s description, and confirm the existence of the black-footed ferret.",
+              "evidenceTranslationVi": "Với những điều này, anh ấy có thể bổ sung vào mô tả của Audubon và xác nhận sự tồn tại của loài chồn chân đen.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn D (Đoạn D, câu 7)."
+            },
+            {
+              "number": 26,
+              "prompt": "reference to a site which is ideal for the release of black-footed ferrets into the wild. Rights for Apes Humans have rights, other animals don’t – no matter how human-like they are. Kate Douglas investigates the controversial campaign to get that changed grant great apes rudimentary ‘human rights’. They argue that great apes are enough like us to deserve special treatment over other animals. The campaign has gathered momentum over the past few years and is stirring up a good deal of controversy. Various religious groups and the human rights charity, Amnesty International, point out that we have a long way to go to secure rights for humans before we start thinking about animals. Other critics argue that the proposal is not radical enough and should be extended to other intelligent social animals such as elephants and dolphins, and potentially to all animals.",
+              "type": "matching_info",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Paragraph A"
+                },
+                {
+                  "key": "B",
+                  "text": "Paragraph B"
+                },
+                {
+                  "key": "C",
+                  "text": "Paragraph C"
+                },
+                {
+                  "key": "D",
+                  "text": "Paragraph D"
+                },
+                {
+                  "key": "E",
+                  "text": "Paragraph E"
+                },
+                {
+                  "key": "F",
+                  "text": "Paragraph F"
+                },
+                {
+                  "key": "G",
+                  "text": "Paragraph G"
+                },
+                {
+                  "key": "H",
+                  "text": "Paragraph H"
+                },
+                {
+                  "key": "I",
+                  "text": "Paragraph I"
+                }
+              ],
+              "acceptedAnswers": [
+                "I"
+              ],
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 2",
+              "evidenceQuote": "For at least 100,000 years they lived in an area that extended almost uninterrupted from southern Canada to northern Mexico.",
+              "evidenceTranslationVi": "Trong ít nhất 100.000 năm, họ sống ở một khu vực trải dài gần như không bị gián đoạn từ miền nam Canada đến miền bắc Mexico.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn I (Đoạn A, câu 2)."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "The Great Ape Project (GAP) is an international organisation that has been lobbying for legal",
+      "subtitle": "rights for apes since 1993. The project has had some degree of success. New Zealand",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "considered the possibility of extending human rights to great apes in 1999 as part of its new animal welfare bill. In the end, the bill did not go as far as granting apes individual legal rights, but did give them special status. Testing or teaching involving apes now requires government approval and must demonstrate that any likely benefits are not outweighed by harm to the individual animal. In effect that means no biomedical testing, only studies that increase our understanding of these species. The practice of using apes in biomedical research has also effectively ended in Europe now. So with all this legal protection in place, what’s the big deal about individual rights? GAP campaigners say that these regulations don’t go far enough and they still allow people who own great apes to lawfully neglect their needs. Michele Stumpe, a lawyer based in the US, points out that without rights, animals are mere property and their owners have no obligation to consider their best interests. Legally, however, only ‘persons’ can have ‘rights’, which is why the law needs to be changed to recognise the ‘personhood’ of apes. Stumpe says that one reason for the resistance is the use of terms like ‘rights’ and personhood’. It seems like a radical idea and that scares people, but when we talk about rights, it really just means protection in layman’s terms,’ she says. For the philosopher Peter Singer (Princeton University), the opposition runs deeper than just semantics. He says the great apes are ‘the victims of arbitrary discrimination’, or what he calls ‘speciesism’. He makes an argument on moral grounds for extending human rights to all beings that show intelligence and awareness – including some level of self-awareness – and have emotional and social needs. That means going beyond the boundaries of our own species – and therein lies the problem. ‘It’s that gulf between humans and animals that people want to maintain,’ he says. Others take a similar view. It requires a radical shift in people’s ideas about themselves, according to Ian Redmond, chief consultant for the UN Great Apes Survival Project. Gary Francione, a leading animal-rights lawyer from Rutgers University in Newark, New Jersey, and a member of the original GAP group, calls it ‘spiritual superiority. ‘We just think we’re special because we’re human.’"
+        },
+        {
+          "id": "P2",
+          "text": "Those less sympathetic to the animal rights agenda see things rather differently. Some argue that beyond the species barrier lies a slippery slope. ‘Mice share around 90 per cent of human DNA: should they get 90 per cent of human rights?’ asks geneticist Steve Jones from University College, London. He is concerned that giving rights to great apes would be the beginning of the end of all research with animals. Singer accepts that there is a question about where you draw the line, but sees no reason for that to stop society from taking the first step. ‘The strongest and clearest case is with great apes, but we’re open to arguments that it could be extended to other mammals,’ he says."
+        },
+        {
+          "id": "P3",
+          "text": "Some take it even further. Francione no longer supports the idea of extending rights to great apes on the basis that their minds are like ours. Instead, he argues that all sentient beings should have just one right: the right not to be treated as the property of humans. He believes his approach has the advantage of simplicity, because sentience – the ability to feel pain or distress – is an objective quality, and because it would bring an end to captive animals altogether. It would make it illegal to breed any animals, including agricultural animals and even pets. His ideas highlight a logical inconsistency at the heart of the GAP agenda: it seeks to give legal rights to animals but does not give them the right to be free. Francione’s approach is certainly several steps too far for many people."
+        },
+        {
+          "id": "P4",
+          "text": "It is not clear what GAP’s proposals mean for wild apes, and even some of the animals’ most outspoken defenders are not convinced that giving them human rights is the best way to protect them. Primatologist Frans de Waal, from the Yerkes Regional Primate Research Center in Atlanta, US, says ‘The concept of rights applies only to those capable of carrying responsibilities within our society.’ He believes the emphasis should be on the obligations humans have towards other animals, both for their care and for their conservation. Redmond, on the other hand, suggests that applying GAP principles to wild populations might lead to increased penalties for killing apes or even give them land rights, though he admits the latter is unlikely. At the very least, an increased regard for the well-being of apes among people in western countries would lead to a decreased demand for animals being kidnapped from the wild and then exported to zoos, wildlife parks or private collectors."
+        }
+      ],
+      "groups": [
+        {
+          "id": "v10-t1-p3-g1",
+          "questionRange": [
+            27,
+            31
+          ],
+          "type": "summary_box",
+          "instruction": "Complete the summary using the list of words, A-J, below.",
+          "options": [
+            {
+              "key": "A",
+              "text": "experience"
+            },
+            {
+              "key": "B",
+              "text": "well-being"
+            },
+            {
+              "key": "C",
+              "text": "knowledge"
+            },
+            {
+              "key": "D",
+              "text": "regulations"
+            },
+            {
+              "key": "E",
+              "text": "charities"
+            },
+            {
+              "key": "F",
+              "text": "research"
+            },
+            {
+              "key": "G",
+              "text": "dolphins"
+            },
+            {
+              "key": "H",
+              "text": "needs"
+            },
+            {
+              "key": "J",
+              "text": "species Some people believe that the campaign to grant human rights to the great apes does not go"
+            }
+          ],
+          "bodyText": "far enough. They want it to include other {{blank:27}} that are judged to demonstrate\nunderstanding. One country introduced {{blank:28}} which went some way to protecting the\napes. As a result, anyone who is interested in using apes for {{blank:29}} must first obtain the\nofficial go-ahead from the state. They will have to prove that any advances gained do not\ncome at the expense of the animal’s {{blank:30}}.So researchers can now only work on projects\nthat may lead to the acquisition of further {{blank:31}} about the way apes function and interact.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "They want it to include other {{blank:27}} that are judged to demonstrate\nunderstanding.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "J"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 3",
+              "evidenceQuote": "Testing or teaching involving apes now requires government approval and must demonstrate that any likely benefits are not outweighed by harm to the individual animal.",
+              "evidenceTranslationVi": "Việc thử nghiệm hoặc giảng dạy liên quan đến loài khỉ hiện nay cần có sự chấp thuận của chính phủ và phải chứng minh rằng bất kỳ lợi ích nào đều không bị ảnh hưởng nhiều hơn bởi tác hại đối với từng loài động vật.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 3 để điền \"J\"."
+            },
+            {
+              "number": 28,
+              "prompt": "One country introduced {{blank:28}} which went some way to protecting the\napes.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 1",
+              "evidenceQuote": "It is not clear what GAP’s proposals mean for wild apes, and even some of the animals’ most outspoken defenders are not convinced that giving them human rights is the best way to protect them.",
+              "evidenceTranslationVi": "Không rõ các đề xuất của GAP có ý nghĩa gì đối với loài vượn hoang dã và ngay cả một số người bảo vệ động vật thẳng thắn nhất cũng không bị thuyết phục rằng trao cho chúng quyền con người là cách tốt nhất để bảo vệ chúng.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 4, câu 1 để điền \"D\"."
+            },
+            {
+              "number": 29,
+              "prompt": "As a result, anyone who is interested in using apes for {{blank:29}} must first obtain the\nofficial go-ahead from the state.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "F"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 3",
+              "evidenceQuote": "Testing or teaching involving apes now requires government approval and must demonstrate that any likely benefits are not outweighed by harm to the individual animal.",
+              "evidenceTranslationVi": "Việc thử nghiệm hoặc giảng dạy liên quan đến loài khỉ hiện nay cần có sự chấp thuận của chính phủ và phải chứng minh rằng bất kỳ lợi ích nào đều không bị ảnh hưởng nhiều hơn bởi tác hại đối với từng loài động vật.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 3 để điền \"F\"."
+            },
+            {
+              "number": 30,
+              "prompt": "They will have to prove that any advances gained do not\ncome at the expense of the animal’s {{blank:30}}.So researchers can now only work on projects\nthat may lead to the acquisition of further {{blank:31}} about the way apes function and interact.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 3",
+              "evidenceQuote": "Testing or teaching involving apes now requires government approval and must demonstrate that any likely benefits are not outweighed by harm to the individual animal.",
+              "evidenceTranslationVi": "Việc thử nghiệm hoặc giảng dạy liên quan đến loài khỉ hiện nay cần có sự chấp thuận của chính phủ và phải chứng minh rằng bất kỳ lợi ích nào đều không bị ảnh hưởng nhiều hơn bởi tác hại đối với từng loài động vật.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 3 để điền \"B\"."
+            },
+            {
+              "number": 31,
+              "prompt": "They will have to prove that any advances gained do not\ncome at the expense of the animal’s {{blank:30}}.So researchers can now only work on projects\nthat may lead to the acquisition of further {{blank:31}} about the way apes function and interact.",
+              "type": "summary_box",
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 3",
+              "evidenceQuote": "Testing or teaching involving apes now requires government approval and must demonstrate that any likely benefits are not outweighed by harm to the individual animal.",
+              "evidenceTranslationVi": "Việc thử nghiệm hoặc giảng dạy liên quan đến loài khỉ hiện nay cần có sự chấp thuận của chính phủ và phải chứng minh rằng bất kỳ lợi ích nào đều không bị ảnh hưởng nhiều hơn bởi tác hại đối với từng loài động vật.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 3 để điền \"C\"."
+            }
+          ]
+        },
+        {
+          "id": "v10-t1-p3-g2",
+          "questionRange": [
+            32,
+            36
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 32,
+              "prompt": "Why does Stumpe refer to ‘layman’s terms’?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "to show that many people hold extreme views about animals."
+                },
+                {
+                  "key": "B",
+                  "text": "to suggest that campaigners are reluctant to criticise the law."
+                },
+                {
+                  "key": "C",
+                  "text": "to suggest that such inflated terminology is unnecessary."
+                },
+                {
+                  "key": "D",
+                  "text": "to argue that most people are not interested in protecting animals."
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 10",
+              "evidenceQuote": "Stumpe says that one reason for the resistance is the use of terms like ‘rights’ and personhood’.",
+              "evidenceTranslationVi": "Stumpe nói rằng một lý do dẫn đến sự phản kháng là việc sử dụng các thuật ngữ như “quyền” và tư cách con người.",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 10 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 33,
+              "prompt": "According to Singer, what is the root of the problem?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Levels of intelligence and awareness differ between species."
+                },
+                {
+                  "key": "B",
+                  "text": "People disagree on how intelligent animals like apes are."
+                },
+                {
+                  "key": "C",
+                  "text": "Moral principles are not easy for everyone to understand."
+                },
+                {
+                  "key": "D",
+                  "text": "Human beings want to see themselves as separate from animals."
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 1",
+              "evidenceQuote": "It is not clear what GAP’s proposals mean for wild apes, and even some of the animals’ most outspoken defenders are not convinced that giving them human rights is the best way to protect them.",
+              "evidenceTranslationVi": "Không rõ các đề xuất của GAP có ý nghĩa gì đối với loài vượn hoang dã và ngay cả một số người bảo vệ động vật thẳng thắn nhất cũng không bị thuyết phục rằng trao cho chúng quyền con người là cách tốt nhất để bảo vệ chúng.",
+              "explanationVi": "Thông tin tại Đoạn 4, câu 1 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 34,
+              "prompt": "If Francione’s current idea was implemented,",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "sentient animals could not be kept in cages."
+                },
+                {
+                  "key": "B",
+                  "text": "any form of large-scale agriculture would cease to exist."
+                },
+                {
+                  "key": "C",
+                  "text": "great apes would be granted all the same rights as humans."
+                },
+                {
+                  "key": "D",
+                  "text": "people could no longer offer shelter to an animal."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 2",
+              "evidenceQuote": "Francione no longer supports the idea of extending rights to great apes on the basis that their minds are like ours.",
+              "evidenceTranslationVi": "Francione không còn ủng hộ ý tưởng mở rộng quyền cho loài vượn lớn trên cơ sở rằng trí tuệ của chúng giống chúng ta.",
+              "explanationVi": "Thông tin tại Đoạn 3, câu 2 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 35,
+              "prompt": "What is the writer’s attitude to Francione’s theory?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "She is suspicious of the reasoning behind it."
+                },
+                {
+                  "key": "B",
+                  "text": "She is doubtful of its chances of being generally accepted."
+                },
+                {
+                  "key": "C",
+                  "text": "She is reassured by the impartial way it is expressed."
+                },
+                {
+                  "key": "D",
+                  "text": "She is pleased by its logical development."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 6",
+              "evidenceQuote": "So with all this legal protection in place, what’s the big deal about individual rights?",
+              "evidenceTranslationVi": "Vì vậy, với tất cả sự bảo vệ pháp lý này, vấn đề lớn về quyền cá nhân là gì?",
+              "explanationVi": "Thông tin tại Đoạn 1, câu 6 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 36,
+              "prompt": "How does de Waal change the perspective of the animal rights discussion?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "He recommends focusing on the way people look after animals."
+                },
+                {
+                  "key": "B",
+                  "text": "He would give rights only to those animals with a moral sense."
+                },
+                {
+                  "key": "C",
+                  "text": "He says that society should learn to be responsible for all of humanity."
+                },
+                {
+                  "key": "D",
+                  "text": "He thinks that conservation of endangered species should come first."
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 1",
+              "evidenceQuote": "It is not clear what GAP’s proposals mean for wild apes, and even some of the animals’ most outspoken defenders are not convinced that giving them human rights is the best way to protect them.",
+              "evidenceTranslationVi": "Không rõ các đề xuất của GAP có ý nghĩa gì đối với loài vượn hoang dã và ngay cả một số người bảo vệ động vật thẳng thắn nhất cũng không bị thuyết phục rằng trao cho chúng quyền con người là cách tốt nhất để bảo vệ chúng.",
+              "explanationVi": "Thông tin tại Đoạn 4, câu 1 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v10-t1-p3-g3",
+          "questionRange": [
+            37,
+            40
+          ],
+          "type": "ynng",
+          "instruction": "Choose YES if the statement agrees with the claims of the writer, choose NO if the statement contradicts the claims of the writer, or NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            {
+              "number": 37,
+              "prompt": "Particularly valuable animals in captivity are more likely to be protected by law.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 3",
+              "evidenceQuote": "Testing or teaching involving apes now requires government approval and must demonstrate that any likely benefits are not outweighed by harm to the individual animal.",
+              "evidenceTranslationVi": "Việc thử nghiệm hoặc giảng dạy liên quan đến loài khỉ hiện nay cần có sự chấp thuận của chính phủ và phải chứng minh rằng bất kỳ lợi ích nào đều không bị ảnh hưởng nhiều hơn bởi tác hại đối với từng loài động vật.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn 1, câu 3 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 38,
+              "prompt": "de Waal highlights the need to give human rights to higher order animals.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NO",
+                "N"
+              ],
+              "evidenceParagraphId": "P3",
+              "evidenceLocation": "Đoạn 3, câu 6",
+              "evidenceQuote": "His ideas highlight a logical inconsistency at the heart of the GAP agenda: it seeks to give legal rights to animals but does not give them the right to be free.",
+              "evidenceTranslationVi": "Ý tưởng của ông nêu bật sự mâu thuẫn logic ở trọng tâm của chương trình nghị sự GAP: nó tìm cách trao quyền hợp pháp cho động vật nhưng không trao cho chúng quyền được tự do.",
+              "explanationVi": "Trái quan điểm (NO) — Tác giả tại Đoạn 3, câu 6 lập luận ngược lại với nhận định của câu hỏi."
+            },
+            {
+              "number": 39,
+              "prompt": "If GAP beliefs were implemented in the wild, the survival rate of the larger apes would increase.",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 1",
+              "evidenceQuote": "It is not clear what GAP’s proposals mean for wild apes, and even some of the animals’ most outspoken defenders are not convinced that giving them human rights is the best way to protect them.",
+              "evidenceTranslationVi": "Không rõ các đề xuất của GAP có ý nghĩa gì đối với loài vượn hoang dã và ngay cả một số người bảo vệ động vật thẳng thắn nhất cũng không bị thuyết phục rằng trao cho chúng quyền con người là cách tốt nhất để bảo vệ chúng.",
+              "explanationVi": "Không có thông tin (NOT GIVEN) — Quanh Đoạn 4, câu 1 tác giả không đưa ra đánh giá hay khẳng định về ý này."
+            },
+            {
+              "number": 40,
+              "prompt": "If people in Western countries, for example, learned to consider apes’ needs, fewer apes would be captured for sale. KEY",
+              "type": "ynng",
+              "acceptedAnswers": [
+                "YES",
+                "Y"
+              ],
+              "evidenceParagraphId": "P4",
+              "evidenceLocation": "Đoạn 4, câu 4",
+              "evidenceQuote": "At the very least, an increased regard for the well-being of apes among people in western countries would lead to a decreased demand for animals being kidnapped from the wild and then exported to zoos, wildlife parks or private collectors.",
+              "evidenceTranslationVi": "Ít nhất, sự quan tâm ngày càng tăng của người dân ở các nước phương Tây đối với sức khỏe của loài khỉ sẽ dẫn đến giảm nhu cầu về động vật bị bắt cóc từ nơi hoang dã và sau đó xuất khẩu sang các vườn thú, công viên động vật hoang dã hoặc các nhà sưu tập tư nhân.",
+              "explanationVi": "Đồng ý (YES) — Quan điểm tác giả thể hiện ở Đoạn 4, câu 4 hoàn toàn trùng với nhận định trong câu hỏi."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}

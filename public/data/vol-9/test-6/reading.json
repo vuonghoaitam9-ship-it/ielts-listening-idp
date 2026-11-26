@@ -1,0 +1,1566 @@
+{
+  "vol": 9,
+  "test": 6,
+  "testId": "vol-9-test-6",
+  "title": "IELTS Reading Vol 9 - Test 6",
+  "sourceName": "VOL 9 - ORIGINAL EXAMS/READING/TEST 6-R.docx",
+  "status": "ready",
+  "hasKey": true,
+  "keyCount": 40,
+  "missingNote": null,
+  "passages": [
+    {
+      "passageNumber": 1,
+      "title": "VOL 9 TEST 6",
+      "subtitle": "HEALTH IN THE WILD",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "Many animals seem able to treat their illnesses themselves. Humans may have a thing or two to learn from them. For the past decade, Dr Cindy Engel, a lecturer in Environmental Sciences at Britain’s Open University, has been collating examples of self-medicating behaviour in wild animals. In a recent talk, she explained that the idea that animals can treat themselves has been generally regarded with some skepticism by other animal behaviourists. But a growing number of them now think that wild animals can and do deal with their own medical needs. Dr William Karesh of the Wildlife Conservation Society in New York, for example, has studied the health of a wide range of wild animals, including anaconda snakes, macaws, penguins, impala and buffalo. The animals were mostly in good physical condition, which is not surprising since the weak quickly die in the wild. But blood tests showed that many had encountered unpleasant viral and bacterial diseases in the past - including diseases that are often fatal in captive animals, even when treated by vets. Moreover, if healthy wild animals are brought into captivity, their health often deteriorates unless great care is taken over their living conditions. Such observations suggest that wild animals can do something to keep themselves healthy that captive animals cannot. One example of self-medicaction was discovered in 1987. Dr Michael Huffman and Mohamedi Seifu, working in the Mahale Mountains National Park in Tanzania, noticed that local chimpanzees suffering from intestinal worms would dose themselves with the pith (the white substance between the skin and the flesh) of a plant called Veronia. This plant produces poisonous chemicals called terpenes. Its pith contains a strong enough concentration to kill gut parasites, but not so strong as to kill chimps (nor people for that matter; locals use the pith for the same purpose). Since the Veronia-eating chimps were discovered, more evidence has emerged suggesting that animals often eat things for medical rather than nutritional reasons. Many species, for example, consume dirt - a behaviour known as geophagy. Historically, the preferred explanation was that soil supplies minerals such as salt. But geophagy occurs in areas where the earth is not a useful source of minerals, and also in places where minerals can be more easily obtained from certain plants that are known to be rich in them. Clearly, the animals must be getting something else out of eating the earth. The current belief is that soil - and particularly the clay in it - helps to detoxify the defensive poisons that some plants produce in an attempt to prevent themselves from being eaten. Evidence for the detoxifying nature of clay came in 1999 from an experiment carried out on macaws by Dr James Gilardi and his colleagues at the University of California, Davis. Macaws eat seeds containing alkaloids, a group of chemicals that has some notoriously toxic members, such as strychnine. In the wild, the birds are frequently seen perched on eroding riverbanks eating clay. Dr Gilardi fed one group of macaws a mixture of harmless alkaloid and clay, and a second group just the alkaloid. Several hours later, the macaws that had eaten the clay had 60% less alkaloid in their bloodstreams than those that had not, suggesting that the current hypothesis is correct. A third instance of animals’ self-medication is the use of mechanical scours to get rid of gut parasites. In 1972, Dr Richard Wrangham, a researcher at the Gombe Stream Reserve in Tanzania, noticed that chimpanzees were eating the leaves of a tree called Aspilia. The chimps chose the leaves carefully by testing them in their mouths. Having chosen a leaf, a chimp would fold it into a fan and swallow it. Some of the chimps were noticed wrinkling their noses as they swallowed these leaves, suggesting the experience was unpleasant. Later, undigested leaves were found on the forest floor. Dr Wrangham rightly guessed that the leaves had a medicinal purpose - this was, indeed, one of the earliest interpretations of a behaviour pattern known as self- medication. However, he guessed wrong about what the mechanism was. His (and everybody else’s) assumption was that Aspilia released a drug, and this sparked more than two decades of photochemical research to try to find out what chemical the chimps were after. But by the 1990s, chimps across Africa had been seen swallowing the leaves of 19 different Aspilia species that seemed to have few suitable chemicals in common. The drug hypothesis was looking more and more dubious. It was Dr Huffman who got to the root of problem. He did so by watching what came out of the chimps, rather than concentrating on what went in. he found that the egested leaves were full of intestinal worms. The factor common to all 19 species of leaves were full of intestinal worms. The factor common to all 19 species of leaves swallowed by the chimps was that they were covered with microscopic hooks. These caught the worms and dragged them from their lodgings. Dr Engel is now particularly excited about how knowledge of the way that animals look after themselves could be used to improve the health of livestock. People might also be able to learn a thing or two - and may, indeed, already have done so. Geophagy, for example, is a common behaviour in many parts of the world. The medical stalls in African markets frequently sell tablets made of different sorts of clays, appropriate to different medical conditions. Africans brought to the Americas as slaves continued this tradition, which gave their owners one more excuse to affect to despise them. Yet, as Dr Engel points out, Rwandan mountain gorillas eat a type of clay rather similar to kaolinite — the main ingredient of many patent medicines sold over the counter in the West for digestive complaints. Dirt can sometimes be good for you, and to be “as sick as a parrot” may, after all, be a state to be desired."
+        }
+      ],
+      "groups": [
+        {
+          "id": "v9-t6-p1-g1",
+          "questionRange": [
+            1,
+            4
+          ],
+          "type": "tfng",
+          "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Dr Engel has spent ten years gathering evidence for the notion that animals treat their own illnesses.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "Many animals seem able to treat their illnesses themselves.",
+              "evidenceTranslationVi": "Nhiều loài động vật dường như có thể tự chữa trị bệnh tật của mình.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 1, câu 1 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            },
+            {
+              "number": 2,
+              "prompt": "Animal behaviourists have always believed that animals know how to heal themselves.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "FALSE",
+                "F"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 4",
+              "evidenceQuote": "In a recent talk, she explained that the idea that animals can treat themselves has been generally regarded with some skepticism by other animal behaviourists.",
+              "evidenceTranslationVi": "Trong một cuộc nói chuyện gần đây, cô giải thích rằng ý tưởng cho rằng động vật có thể tự đối xử với bản thân thường bị các nhà hành vi động vật khác coi là hoài nghi.",
+              "explanationVi": "Sai (FALSE) — Dữ kiện tại Đoạn 1, câu 4 trái ngược trực tiếp với nội dung mà câu hỏi nêu ra."
+            },
+            {
+              "number": 3,
+              "prompt": "Dr Karesh enlisted the help of a medical team during his research.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "NOT GIVEN",
+                "NG"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 5",
+              "evidenceQuote": "But a growing number of them now think that wild animals can and do deal with their own medical needs.",
+              "evidenceTranslationVi": "Nhưng ngày càng nhiều người trong số họ nghĩ rằng động vật hoang dã có thể và thực sự giải quyết được nhu cầu y tế của chính chúng.",
+              "explanationVi": "Không đề cập (NOT GIVEN) — Bài đọc quanh Đoạn 1, câu 5 chỉ nêu ngữ cảnh liên quan, không có chi tiết xác nhận hay bác bỏ phát biểu này."
+            },
+            {
+              "number": 4,
+              "prompt": "Wild animals taken into captivity tend to experience a decline in health.",
+              "type": "tfng",
+              "acceptedAnswers": [
+                "TRUE",
+                "T"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 9",
+              "evidenceQuote": "Moreover, if healthy wild animals are brought into captivity, their health often deteriorates unless great care is taken over their living conditions.",
+              "evidenceTranslationVi": "Hơn nữa, nếu những động vật hoang dã khỏe mạnh bị đưa vào nuôi nhốt, sức khỏe của chúng thường xấu đi nếu không được chăm sóc cẩn thận về điều kiện sống của chúng.",
+              "explanationVi": "Đúng (TRUE) — Thông tin tại Đoạn 1, câu 9 khẳng định trùng khớp ý với phát biểu trong câu hỏi."
+            }
+          ]
+        },
+        {
+          "id": "v9-t6-p1-g2",
+          "questionRange": [
+            5,
+            9
+          ],
+          "type": "table_completion",
+          "instruction": "Complete the table below.",
+          "table": {
+            "headers": [
+              "Researchers",
+              "Subjects",
+              "Self-treatment",
+              "Findings",
+              "Other observations"
+            ],
+            "rows": [
+              [
+                "Micheal Huffman & Mohamedi Seifu 1987",
+                "Chimps with worms",
+                "Eat {{blank:5}} of Veronia plant",
+                "Plant contains toxins known as {{blank:6}} that kill parasites.",
+                "Remedy also used by people"
+              ],
+              [
+                "James Gilardi 1999",
+                "Macaws that consume poison-bearing seeds",
+                "Eat clay",
+                "Clay leads to reduction in level of {{blank:7}} in blood",
+                ""
+              ],
+              [
+                "Richard Wrangham",
+                "Chimps with gut parasites",
+                "Eat Aspilia leaves",
+                "Undigested leaves wrongly believed to contain a {{blank:8}}",
+                "Chimps indicate leaves have an {{blank:9}} taste"
+              ]
+            ]
+          },
+          "questions": [
+            {
+              "number": 5,
+              "prompt": "Researchers | Subjects | Self-treatment | Findings | Other observations\nMicheal Huffman & Mohamedi Seifu 1987 | Chimps with worms | Eat {{blank:5}} of Veronia plant | Plant contains toxins known as {{blank:6}} that kill parasites.",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "pith"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 12",
+              "evidenceQuote": "Dr Michael Huffman and Mohamedi Seifu, working in the Mahale Mountains National Park in Tanzania, noticed that local chimpanzees suffering from intestinal worms would dose themselves with the pith (the white substance between the skin and the flesh) of a plant called Veronia.",
+              "evidenceTranslationVi": "Tiến sĩ Michael Huffman và Mohamedi Seifu, làm việc tại Công viên Quốc gia Dãy núi Mahale ở Tanzania, nhận thấy rằng những con tinh tinh địa phương bị nhiễm giun đường ruột sẽ tự ăn lõi (chất trắng giữa da và thịt) của một loại cây có tên là Veronia.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 12 để điền \"pith\"."
+            },
+            {
+              "number": 6,
+              "prompt": "Researchers | Subjects | Self-treatment | Findings | Other observations\nMicheal Huffman & Mohamedi Seifu 1987 | Chimps with worms | Eat {{blank:5}} of Veronia plant | Plant contains toxins known as {{blank:6}} that kill parasites.",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "terpenes"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 13",
+              "evidenceQuote": "This plant produces poisonous chemicals called terpenes.",
+              "evidenceTranslationVi": "Loại cây này sản sinh ra chất độc gọi là terpenes.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 13 để điền \"terpenes\"."
+            },
+            {
+              "number": 7,
+              "prompt": "| Remedy also used by people\nJames Gilardi 1999 | Macaws that consume poison-bearing seeds | Eat clay | Clay leads to reduction in level of {{blank:7}} in blood | \nRichard Wrangham | Chimps with gut parasites | Eat Aspilia leaves | Undigested leaves wrongly believed to contain a {{blank:8}} | Chimps indicate leaves have an {{blank:9}} taste",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "poisons"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 20",
+              "evidenceQuote": "The current belief is that soil - and particularly the clay in it - helps to detoxify the defensive poisons that some plants produce in an attempt to prevent themselves from being eaten.",
+              "evidenceTranslationVi": "Niềm tin hiện nay là đất - và đặc biệt là đất sét trong đất - giúp giải độc các chất độc phòng thủ mà một số loài thực vật tạo ra nhằm ngăn chặn chúng bị ăn thịt.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 20 để điền \"poisons\"."
+            },
+            {
+              "number": 8,
+              "prompt": "| Remedy also used by people\nJames Gilardi 1999 | Macaws that consume poison-bearing seeds | Eat clay | Clay leads to reduction in level of {{blank:7}} in blood | \nRichard Wrangham | Chimps with gut parasites | Eat Aspilia leaves | Undigested leaves wrongly believed to contain a {{blank:8}} | Chimps indicate leaves have an {{blank:9}} taste",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "drug"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 34",
+              "evidenceQuote": "His (and everybody else’s) assumption was that Aspilia released a drug, and this sparked more than two decades of photochemical research to try to find out what chemical the chimps were after.",
+              "evidenceTranslationVi": "Giả định của ông (và của mọi người khác) là Aspilia đã tiết ra một loại thuốc, và điều này đã khơi dậy hơn hai thập kỷ nghiên cứu quang hóa để cố gắng tìm ra loại hóa chất mà tinh tinh đang tìm kiếm.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 34 để điền \"drug\"."
+            },
+            {
+              "number": 9,
+              "prompt": "| Remedy also used by people\nJames Gilardi 1999 | Macaws that consume poison-bearing seeds | Eat clay | Clay leads to reduction in level of {{blank:7}} in blood | \nRichard Wrangham | Chimps with gut parasites | Eat Aspilia leaves | Undigested leaves wrongly believed to contain a {{blank:8}} | Chimps indicate leaves have an {{blank:9}} taste",
+              "type": "table_completion",
+              "acceptedAnswers": [
+                "unpleasant"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 30",
+              "evidenceQuote": "Some of the chimps were noticed wrinkling their noses as they swallowed these leaves, suggesting the experience was unpleasant.",
+              "evidenceTranslationVi": "Người ta nhận thấy một số con tinh tinh nhăn mũi khi nuốt những chiếc lá này, cho thấy trải nghiệm đó thật khó chịu.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 30 để điền \"unpleasant\"."
+            }
+          ]
+        },
+        {
+          "id": "v9-t6-p1-g3",
+          "questionRange": [
+            10,
+            13
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the summary below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "Soil as medication\nThe consumption of soil for medicinal reasons is called {{blank:10}}.Initially, people believed that animals ate dirt to get {{blank:11}} and other minerals. They then realised that the soil eaten in some areas did not contain a lot of minerals, and that in other areas plants were a better mineral source. Many people believe that the clay in soil can {{blank:12}} poisons. Indeed, clay- based {{blank:13}} are sold in African markets to treat a range of illnesses.",
+          "questions": [
+            {
+              "number": 10,
+              "prompt": "Soil as medication\nThe consumption of soil for medicinal reasons is called {{blank:10}}.Initially, people believed that animals ate dirt to get {{blank:11}} and other minerals.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "geophagy"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 16",
+              "evidenceQuote": "Many species, for example, consume dirt - a behaviour known as geophagy.",
+              "evidenceTranslationVi": "Ví dụ, nhiều loài tiêu thụ chất bẩn - một hành vi được gọi là hành vi ăn đất.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 16 để điền \"geophagy\"."
+            },
+            {
+              "number": 11,
+              "prompt": "Soil as medication\nThe consumption of soil for medicinal reasons is called {{blank:10}}.Initially, people believed that animals ate dirt to get {{blank:11}} and other minerals.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "salt"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 17",
+              "evidenceQuote": "Historically, the preferred explanation was that soil supplies minerals such as salt.",
+              "evidenceTranslationVi": "Về mặt lịch sử, lời giải thích được ưa thích nhất là đất cung cấp các khoáng chất như muối.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 17 để điền \"salt\"."
+            },
+            {
+              "number": 12,
+              "prompt": "Many people believe that the clay in soil can {{blank:12}} poisons.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "detoxify"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 20",
+              "evidenceQuote": "The current belief is that soil - and particularly the clay in it - helps to detoxify the defensive poisons that some plants produce in an attempt to prevent themselves from being eaten.",
+              "evidenceTranslationVi": "Niềm tin hiện nay là đất - và đặc biệt là đất sét trong đất - giúp giải độc các chất độc phòng thủ mà một số loài thực vật tạo ra nhằm ngăn chặn chúng bị ăn thịt.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 20 để điền \"detoxify\"."
+            },
+            {
+              "number": 13,
+              "prompt": "Indeed, clay- based {{blank:13}} are sold in African markets to treat a range of illnesses.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "tablets"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 45",
+              "evidenceQuote": "The medical stalls in African markets frequently sell tablets made of different sorts of clays, appropriate to different medical conditions.",
+              "evidenceTranslationVi": "Các quầy y tế ở chợ châu Phi thường bán những viên thuốc làm từ nhiều loại đất sét khác nhau, phù hợp với các tình trạng bệnh lý khác nhau.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 45 để điền \"tablets\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        1,
+        13
+      ]
+    },
+    {
+      "passageNumber": 2,
+      "title": "SPEAKING OF NOTHING Why we talk about the weather and other trivial",
+      "subtitle": "14____________",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "Some workers are happier in their jobs than others, but it's not only to do with the work itself. For example, security guards, truck drivers and salespeople: year after year, these jobs appear on lists of the unhappiest careers. It's true that many factors can make a job cheerless, including unusual hours, low pay and a lack of chances for advancement. However, these three types of work stand out for another reason: they're characterised by a lack of conversation or by meaningless small talk, which unfortunately represents an obligatory part of the job. Examples of such small talk include comments about the weather, holiday destinations and food. Psychologists have long said that connecting with others through meaningful exchanges is central to well-being, but just how much conversation we require is under investigation."
+        },
+        {
+          "id": "Q15",
+          "text": "Matthias R. Mehl and Simine Vazire of the University of Arizona in the United States wanted to investigate the types of conversations people have. The team used a device to periodically record short verbal exchanges while participants went about their daily tasks. In the study, the researchers eavesdropped on undergraduates for four days, then catalogued each overheard conversation as either \"small talk\" (\"What do you have there? Popcorn? That looks good!\") or \"substantive\" (\"So did their proposal get funding?\" \"How did you feel?\"). They found that people who had more substantive conversations were more likely to say they were feeling happy and fulfilled overall. In fact, the happiest students had roughly twice as many substantive talks as the unhappiest ones. Small talk, meanwhile, made up only 10 per cent of their conversation, versus almost 30 per cent of conversation among the least content students.",
+          "label": "Q15"
+        },
+        {
+          "id": "Q16",
+          "text": "However, small talk still has a role to play. Rather than convey information, scientists believe that it can promote bonding. Ipek Kulahci and her team of researchers at University College Cork in Ireland tested the relationship between vocal exchanges and grooming in lemurs. The researchers reported that the animals reserve their call-and-response conversations, equivalent to human chitchat, for the animals they groom the most-suggesting that small talk maintains closeness with loved ones, and isn't merely for awkward exchanges with strangers. It appears that, even among animals, vocal exchanges indicate strong social bonds between the group members.",
+          "label": "Q16"
+        },
+        {
+          "id": "Q17",
+          "text": "Connecting with others seems to increase happiness, but strangers in close proximity routinely ignore each other. To examine the experience of connecting to strangers, psychologists Nicholas Epley and Juliana Schroeder from the University of Chicago in the United States gave volunteers varying directions about whether to talk with other commuters who usually took the same train to work every day - something they typically avoided. Those told to chat with others reported a more pleasant journey than those told to 'enjoy your solitude' or do whatever they normally would. All of the volunteers in the study who initiated conversations reported a positive reaction from the people they spoke to. Participants had predicted precisely the opposite outcome. They expected that the others on the train would have preferred to be left alone.",
+          "label": "Q17"
+        },
+        {
+          "id": "Q18",
+          "text": "When we buy a cup of coffee at a café, we sometimes chat with the service staff, but on other occasions we say as little as possible so as not to waste time. Every day we have opportunities to transform potentially impersonal exchanges into genuine social interactions; in other words, treating a service provider like we would an acquaintance might make us happier. In a study by Gillian Sandstrom and Elizabeth Dunn, people who had a social interaction with a server in a coffee shop felt better emotionally than people who were in a rush to get everything done. As well as feeling happier, the first group had a stronger sense of belonging. These results suggest that, although people are often reluctant to have a genuine social interaction with a stranger, they are happier when they do. In similar studies, when volunteers broke the silence at a gallery to chat with other visitors, the visitors felt happier and more connected to the paintings than those who were not approached. The pleasure of connection seems contagious; in a laboratory waiting room, participants who were talked to had equally positive experiences as those instructed to talk to them.",
+          "label": "Q18"
+        },
+        {
+          "id": "Q19",
+          "text": "Of course, some of us are better than others at small talk. In a study by Todd Kashdan and his team from George Mason University in the United States, people who were rated by the researchers as 'less curious about all aspects of life' had trouble getting a conversation going on their own. However, they had greater luck building closeness with others when they were supplied with topics that encouraged people to open up about themselves and their lives. But people who were deemed 'curious' needed no help transforming conversations about ordinary things like favourite holidays into other areas of conversation that allowed for intimate exchanges. The study showed that curious people expect to generate closeness during intimate conversations but not during small talk; less curious people anticipated poor outcomes in both situations. In an experiment by William Fleeson at Wake Forest University in the United States, participants were divided into two groups - those who were naturally outgoing, and those who were more reserved in social situations. They were then instructed to behave in the opposite manner to their usual nature. Participants reported more positive feelings when instructed to act extroverted than when instructed to act introverted. The overall conclusion, therefore, is that everyone can benefit from more conversation; the more meaningful, the better.",
+          "label": "Q19"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v9-t6-p2-g1",
+          "questionRange": [
+            14,
+            19
+          ],
+          "type": "matching_headings",
+          "instruction": "Reading Passage 2 has six paragraphs. Choose the correct heading for each paragraph from the list of headings below. Choose the correct number, i-ix, in boxes 14-19.",
+          "options": [
+            {
+              "key": "i",
+              "text": "How sounds and physical contact strengthen social connections"
+            },
+            {
+              "key": "ii",
+              "text": "A cross-cultural study of superficial interaction"
+            },
+            {
+              "key": "iii",
+              "text": "An experiment that led to surprising results"
+            },
+            {
+              "key": "iv",
+              "text": "A study that categorised types of spoken exchanges v The personality types that find small talk more difficult"
+            },
+            {
+              "key": "vi",
+              "text": "The effect of social media on conversation skills"
+            },
+            {
+              "key": "vii",
+              "text": "Some occupations involve little or no interesting conversation"
+            },
+            {
+              "key": "viii",
+              "text": "A campaign to improve interaction in the workplace"
+            },
+            {
+              "key": "ix",
+              "text": "A range of common situations that were enhanced by small talk"
+            }
+          ],
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "Section/Paragraph for Question 14",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "How sounds and physical contact strengthen social connections"
+                },
+                {
+                  "key": "ii",
+                  "text": "A cross-cultural study of superficial interaction"
+                },
+                {
+                  "key": "iii",
+                  "text": "An experiment that led to surprising results"
+                },
+                {
+                  "key": "iv",
+                  "text": "A study that categorised types of spoken exchanges v The personality types that find small talk more difficult"
+                },
+                {
+                  "key": "vi",
+                  "text": "The effect of social media on conversation skills"
+                },
+                {
+                  "key": "vii",
+                  "text": "Some occupations involve little or no interesting conversation"
+                },
+                {
+                  "key": "viii",
+                  "text": "A campaign to improve interaction in the workplace"
+                },
+                {
+                  "key": "ix",
+                  "text": "A range of common situations that were enhanced by small talk"
+                }
+              ],
+              "acceptedAnswers": [
+                "vii"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 4",
+              "evidenceQuote": "However, these three types of work stand out for another reason: they're characterised by a lack of conversation or by meaningless small talk, which unfortunately represents an obligatory part of the job.",
+              "evidenceTranslationVi": "Tuy nhiên, ba loại công việc này nổi bật vì một lý do khác: chúng có đặc điểm là thiếu đối thoại hoặc nói chuyện phiếm vô nghĩa, điều không may lại là một phần bắt buộc của công việc.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 4 tương ứng tiêu đề vii; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 15,
+              "prompt": "Section/Paragraph for Question 15",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "How sounds and physical contact strengthen social connections"
+                },
+                {
+                  "key": "ii",
+                  "text": "A cross-cultural study of superficial interaction"
+                },
+                {
+                  "key": "iii",
+                  "text": "An experiment that led to surprising results"
+                },
+                {
+                  "key": "iv",
+                  "text": "A study that categorised types of spoken exchanges v The personality types that find small talk more difficult"
+                },
+                {
+                  "key": "vi",
+                  "text": "The effect of social media on conversation skills"
+                },
+                {
+                  "key": "vii",
+                  "text": "Some occupations involve little or no interesting conversation"
+                },
+                {
+                  "key": "viii",
+                  "text": "A campaign to improve interaction in the workplace"
+                },
+                {
+                  "key": "ix",
+                  "text": "A range of common situations that were enhanced by small talk"
+                }
+              ],
+              "acceptedAnswers": [
+                "iv"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 4",
+              "evidenceQuote": "However, these three types of work stand out for another reason: they're characterised by a lack of conversation or by meaningless small talk, which unfortunately represents an obligatory part of the job.",
+              "evidenceTranslationVi": "Tuy nhiên, ba loại công việc này nổi bật vì một lý do khác: chúng có đặc điểm là thiếu đối thoại hoặc nói chuyện phiếm vô nghĩa, điều không may lại là một phần bắt buộc của công việc.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 4 tương ứng tiêu đề iv; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 16,
+              "prompt": "Section/Paragraph for Question 16",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "How sounds and physical contact strengthen social connections"
+                },
+                {
+                  "key": "ii",
+                  "text": "A cross-cultural study of superficial interaction"
+                },
+                {
+                  "key": "iii",
+                  "text": "An experiment that led to surprising results"
+                },
+                {
+                  "key": "iv",
+                  "text": "A study that categorised types of spoken exchanges v The personality types that find small talk more difficult"
+                },
+                {
+                  "key": "vi",
+                  "text": "The effect of social media on conversation skills"
+                },
+                {
+                  "key": "vii",
+                  "text": "Some occupations involve little or no interesting conversation"
+                },
+                {
+                  "key": "viii",
+                  "text": "A campaign to improve interaction in the workplace"
+                },
+                {
+                  "key": "ix",
+                  "text": "A range of common situations that were enhanced by small talk"
+                }
+              ],
+              "acceptedAnswers": [
+                "i"
+              ],
+              "evidenceParagraphId": "Q16",
+              "evidenceLocation": "Đoạn Q16, câu 5",
+              "evidenceQuote": "It appears that, even among animals, vocal exchanges indicate strong social bonds between the group members.",
+              "evidenceTranslationVi": "Có vẻ như, ngay cả ở các loài động vật, việc trao đổi giọng nói cho thấy mối liên kết xã hội bền chặt giữa các thành viên trong nhóm.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn Q16, câu 5 tương ứng tiêu đề i; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 17,
+              "prompt": "Section/Paragraph for Question 17",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "How sounds and physical contact strengthen social connections"
+                },
+                {
+                  "key": "ii",
+                  "text": "A cross-cultural study of superficial interaction"
+                },
+                {
+                  "key": "iii",
+                  "text": "An experiment that led to surprising results"
+                },
+                {
+                  "key": "iv",
+                  "text": "A study that categorised types of spoken exchanges v The personality types that find small talk more difficult"
+                },
+                {
+                  "key": "vi",
+                  "text": "The effect of social media on conversation skills"
+                },
+                {
+                  "key": "vii",
+                  "text": "Some occupations involve little or no interesting conversation"
+                },
+                {
+                  "key": "viii",
+                  "text": "A campaign to improve interaction in the workplace"
+                },
+                {
+                  "key": "ix",
+                  "text": "A range of common situations that were enhanced by small talk"
+                }
+              ],
+              "acceptedAnswers": [
+                "iii"
+              ],
+              "evidenceParagraphId": "Q18",
+              "evidenceLocation": "Đoạn Q18, câu 5",
+              "evidenceQuote": "These results suggest that, although people are often reluctant to have a genuine social interaction with a stranger, they are happier when they do.",
+              "evidenceTranslationVi": "Những kết quả này cho thấy rằng, mặc dù mọi người thường miễn cưỡng tương tác xã hội thực sự với một người lạ, nhưng họ sẽ hạnh phúc hơn khi làm như vậy.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn Q18, câu 5 tương ứng tiêu đề iii; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 18,
+              "prompt": "Section/Paragraph for Question 18",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "How sounds and physical contact strengthen social connections"
+                },
+                {
+                  "key": "ii",
+                  "text": "A cross-cultural study of superficial interaction"
+                },
+                {
+                  "key": "iii",
+                  "text": "An experiment that led to surprising results"
+                },
+                {
+                  "key": "iv",
+                  "text": "A study that categorised types of spoken exchanges v The personality types that find small talk more difficult"
+                },
+                {
+                  "key": "vi",
+                  "text": "The effect of social media on conversation skills"
+                },
+                {
+                  "key": "vii",
+                  "text": "Some occupations involve little or no interesting conversation"
+                },
+                {
+                  "key": "viii",
+                  "text": "A campaign to improve interaction in the workplace"
+                },
+                {
+                  "key": "ix",
+                  "text": "A range of common situations that were enhanced by small talk"
+                }
+              ],
+              "acceptedAnswers": [
+                "ix"
+              ],
+              "evidenceParagraphId": "Q19",
+              "evidenceLocation": "Đoạn Q19, câu 5",
+              "evidenceQuote": "The study showed that curious people expect to generate closeness during intimate conversations but not during small talk; less curious people anticipated poor outcomes in both situations.",
+              "evidenceTranslationVi": "Nghiên cứu cho thấy những người tò mò mong muốn tạo ra sự gần gũi trong những cuộc trò chuyện thân mật chứ không phải trong những cuộc trò chuyện nhỏ; những người ít tò mò hơn đã đoán trước được kết quả tồi tệ trong cả hai tình huống.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn Q19, câu 5 tương ứng tiêu đề ix; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 19,
+              "prompt": "Section/Paragraph for Question 19",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "How sounds and physical contact strengthen social connections"
+                },
+                {
+                  "key": "ii",
+                  "text": "A cross-cultural study of superficial interaction"
+                },
+                {
+                  "key": "iii",
+                  "text": "An experiment that led to surprising results"
+                },
+                {
+                  "key": "iv",
+                  "text": "A study that categorised types of spoken exchanges v The personality types that find small talk more difficult"
+                },
+                {
+                  "key": "vi",
+                  "text": "The effect of social media on conversation skills"
+                },
+                {
+                  "key": "vii",
+                  "text": "Some occupations involve little or no interesting conversation"
+                },
+                {
+                  "key": "viii",
+                  "text": "A campaign to improve interaction in the workplace"
+                },
+                {
+                  "key": "ix",
+                  "text": "A range of common situations that were enhanced by small talk"
+                }
+              ],
+              "acceptedAnswers": [
+                "v"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "Some workers are happier in their jobs than others, but it's not only to do with the work itself.",
+              "evidenceTranslationVi": "Một số công nhân cảm thấy hạnh phúc hơn trong công việc của mình so với những người khác, nhưng điều đó không chỉ liên quan đến bản thân công việc.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 1 tương ứng tiêu đề v; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            }
+          ]
+        },
+        {
+          "id": "v9-t6-p2-g2",
+          "questionRange": [
+            20,
+            23
+          ],
+          "type": "matching_features",
+          "instruction": "Look at the following statements (Questions 20-23) and the list of people below. Match each statement with the correct person, A-E. Choose the correct letter, A-E, in boxes 20-23. NB: You may use any letter more than once.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Matthias R. Mehl and Simine Vazire"
+            },
+            {
+              "key": "B",
+              "text": "Ipek Kulahci"
+            },
+            {
+              "key": "C",
+              "text": "Nicholas Epley and Juliana Schroeder"
+            },
+            {
+              "key": "D",
+              "text": "Gillian Sandstrom and Elizabeth Dunn"
+            },
+            {
+              "key": "E",
+              "text": "Todd Kashdan"
+            }
+          ],
+          "questions": [
+            {
+              "number": 20,
+              "prompt": "Interacting socially is preferable to hurrying through a transaction.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Matthias R. Mehl and Simine Vazire"
+                },
+                {
+                  "key": "B",
+                  "text": "Ipek Kulahci"
+                },
+                {
+                  "key": "C",
+                  "text": "Nicholas Epley and Juliana Schroeder"
+                },
+                {
+                  "key": "D",
+                  "text": "Gillian Sandstrom and Elizabeth Dunn"
+                },
+                {
+                  "key": "E",
+                  "text": "Todd Kashdan"
+                }
+              ],
+              "acceptedAnswers": [
+                "D"
+              ],
+              "evidenceParagraphId": "Q18",
+              "evidenceLocation": "Đoạn Q18, câu 3",
+              "evidenceQuote": "In a study by Gillian Sandstrom and Elizabeth Dunn, people who had a social interaction with a server in a coffee shop felt better emotionally than people who were in a rush to get everything done.",
+              "evidenceTranslationVi": "Trong một nghiên cứu của Gillian Sandstrom và Elizabeth Dunn, những người tương tác xã hội với người phục vụ trong quán cà phê cảm thấy tốt hơn về mặt cảm xúc so với những người đang vội vã hoàn thành mọi việc.",
+              "explanationVi": "Thông tin tại Đoạn Q18, câu 3 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 21,
+              "prompt": "People whose conversations are mainly of a personal and meaningful nature are more satisfied with their lives.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Matthias R. Mehl and Simine Vazire"
+                },
+                {
+                  "key": "B",
+                  "text": "Ipek Kulahci"
+                },
+                {
+                  "key": "C",
+                  "text": "Nicholas Epley and Juliana Schroeder"
+                },
+                {
+                  "key": "D",
+                  "text": "Gillian Sandstrom and Elizabeth Dunn"
+                },
+                {
+                  "key": "E",
+                  "text": "Todd Kashdan"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "Q15",
+              "evidenceLocation": "Đoạn Q15, câu 2",
+              "evidenceQuote": "Mehl and Simine Vazire of the University of Arizona in the United States wanted to investigate the types of conversations people have.",
+              "evidenceTranslationVi": "Mehl và Simine Vazire thuộc Đại học Arizona ở Hoa Kỳ muốn điều tra các kiểu trò chuyện mà mọi người thực hiện.",
+              "explanationVi": "Thông tin tại Đoạn Q15, câu 2 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 22,
+              "prompt": "There is more than one species whose members communicate for social reasons.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Matthias R. Mehl and Simine Vazire"
+                },
+                {
+                  "key": "B",
+                  "text": "Ipek Kulahci"
+                },
+                {
+                  "key": "C",
+                  "text": "Nicholas Epley and Juliana Schroeder"
+                },
+                {
+                  "key": "D",
+                  "text": "Gillian Sandstrom and Elizabeth Dunn"
+                },
+                {
+                  "key": "E",
+                  "text": "Todd Kashdan"
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "Q16",
+              "evidenceLocation": "Đoạn Q16, câu 3",
+              "evidenceQuote": "Ipek Kulahci and her team of researchers at University College Cork in Ireland tested the relationship between vocal exchanges and grooming in lemurs.",
+              "evidenceTranslationVi": "Ipek Kulahci và nhóm nghiên cứu của cô tại Đại học Cork ở Ireland đã thử nghiệm mối quan hệ giữa việc trao đổi giọng nói và việc chải lông ở loài vượn cáo.",
+              "explanationVi": "Thông tin tại Đoạn Q16, câu 3 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 23,
+              "prompt": "Some people find it easier than others to change the subject of a conversation.",
+              "type": "matching_features",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "Matthias R. Mehl and Simine Vazire"
+                },
+                {
+                  "key": "B",
+                  "text": "Ipek Kulahci"
+                },
+                {
+                  "key": "C",
+                  "text": "Nicholas Epley and Juliana Schroeder"
+                },
+                {
+                  "key": "D",
+                  "text": "Gillian Sandstrom and Elizabeth Dunn"
+                },
+                {
+                  "key": "E",
+                  "text": "Todd Kashdan"
+                }
+              ],
+              "acceptedAnswers": [
+                "E"
+              ],
+              "evidenceParagraphId": "Q19",
+              "evidenceLocation": "Đoạn Q19, câu 2",
+              "evidenceQuote": "In a study by Todd Kashdan and his team from George Mason University in the United States, people who were rated by the researchers as 'less curious about all aspects of life' had trouble getting a conversation going on their own.",
+              "evidenceTranslationVi": "Trong một nghiên cứu của Todd Kashdan và nhóm của ông từ Đại học George Mason ở Hoa Kỳ, những người được các nhà nghiên cứu đánh giá là “ít tò mò về mọi khía cạnh của cuộc sống” gặp khó khăn trong việc tự mình trò chuyện.",
+              "explanationVi": "Thông tin tại Đoạn Q19, câu 2 khớp trực tiếp với lựa chọn E; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v9-t6-p2-g3",
+          "questionRange": [
+            24,
+            26
+          ],
+          "type": "gap_fill",
+          "instruction": "Complete the sentences below. Write ONE WORD ONLY from the passage for each answer.",
+          "wordLimit": "ONE WORD ONLY",
+          "bodyText": "In a study that took place on a train, volunteers approached people who were regular {{blank:24}} In an experiment in an art gallery, people related more to the {{blank:25}} when they were drawn into a conversation. Introverted people found it helpful to be given {{blank:26}} which could use to start a conversation.",
+          "questions": [
+            {
+              "number": 24,
+              "prompt": "In a study that took place on a train, volunteers approached people who were regular {{blank:24}} In an experiment in an art gallery, people related more to the {{blank:25}} when they were drawn into a conversation.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "commuters"
+              ],
+              "evidenceParagraphId": "Q17",
+              "evidenceLocation": "Đoạn Q17, câu 2",
+              "evidenceQuote": "To examine the experience of connecting to strangers, psychologists Nicholas Epley and Juliana Schroeder from the University of Chicago in the United States gave volunteers varying directions about whether to talk with other commuters who usually took the same train to work every day - something they typically avoided.",
+              "evidenceTranslationVi": "Để kiểm tra trải nghiệm kết nối với người lạ, các nhà tâm lý học Nicholas Epley và Juliana Schroeder từ Đại học Chicago ở Hoa Kỳ đã đưa ra cho các tình nguyện viên những hướng dẫn khác nhau về việc có nên nói chuyện với những người đi làm khác, những người thường đi cùng một chuyến tàu đi làm hàng ngày hay không - điều mà họ thường tránh.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn Q17, câu 2 để điền \"commuters\"."
+            },
+            {
+              "number": 25,
+              "prompt": "In a study that took place on a train, volunteers approached people who were regular {{blank:24}} In an experiment in an art gallery, people related more to the {{blank:25}} when they were drawn into a conversation.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "paintings"
+              ],
+              "evidenceParagraphId": "Q18",
+              "evidenceLocation": "Đoạn Q18, câu 6",
+              "evidenceQuote": "In similar studies, when volunteers broke the silence at a gallery to chat with other visitors, the visitors felt happier and more connected to the paintings than those who were not approached.",
+              "evidenceTranslationVi": "Trong các nghiên cứu tương tự, khi các tình nguyện viên phá vỡ sự im lặng tại phòng trưng bày để trò chuyện với những du khách khác, du khách cảm thấy vui vẻ hơn và gắn kết với các bức tranh hơn những người không được tiếp cận.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn Q18, câu 6 để điền \"paintings\"."
+            },
+            {
+              "number": 26,
+              "prompt": "Introverted people found it helpful to be given {{blank:26}} which could use to start a conversation.",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "topics"
+              ],
+              "evidenceParagraphId": "Q19",
+              "evidenceLocation": "Đoạn Q19, câu 3",
+              "evidenceQuote": "However, they had greater luck building closeness with others when they were supplied with topics that encouraged people to open up about themselves and their lives.",
+              "evidenceTranslationVi": "Tuy nhiên, họ gặp may mắn hơn trong việc xây dựng sự gần gũi với người khác khi được cung cấp các chủ đề khuyến khích mọi người cởi mở về bản thân và cuộc sống của họ.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn Q19, câu 3 để điền \"topics\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        14,
+        26
+      ]
+    },
+    {
+      "passageNumber": 3,
+      "title": "CHANGES TO THE SOVIET UNION’S WORKING WEEK 27____________",
+      "subtitle": "",
+      "paragraphs": [
+        {
+          "id": "P1",
+          "text": "The Soviet Union's first Five Year Plan was intended to turn the weak and undeveloped country into a powerful, modern, industrial nation. Following its introduction in 1928, production of coal, iron and steel increased at a fantastic rate, and new industrial cities sprang up. Everyone's life was affected, as collectivised farming drove millions from the land to swell the industrial proletariat. Private enterprise disappeared in city and country, leaving the state supreme under the leadership of Stalin. Unlimited enthusiasm was the mood of the day, with the Communists believing that iron will and hard-working manpower alone would bring about a new world."
+        },
+        {
+          "id": "Q28",
+          "text": "Not even time itself was immune to efforts to make the state a huge, efficient machine, where not a moment would be wasted, especially in the workplace. Stalin's predecessor Lenin had already been intrigued by the ideas of Taylor, the American management expert whose time and motion studies had discovered ways of streamlining effort so that every worker could produce the maximum. The Communists were also great admirers of Ford's assembly line mass production and of his tractors that were imported in their thousands. Emulating and surpassing such capitalist models formed part of the training of the new Soviet Man. iii An attempt to create better working conditions? The goals of Communism had always included improving the lives of the proletariat. One major step in that direction was the announcement in 1927 that reduced the working day from eight to seven hours, in January 1929, all industries were ordered to adopt the shorter day by the end of the Plan. However, the state took away more than it gave, for this was part of a scheme to increase production by establishing a three-shift system, for six days a week. That meant that the factories were open day and night, and many people had to work at highly undesirable hours.",
+          "label": "Q28"
+        },
+        {
+          "id": "Q29",
+          "text": "Hardly had that policy been announced, though, than the economist Larin came up with an idea for even greater efficiency. Workers were free and plants were closed on Sundays. Why not abolish that wasted day by instituting a continuous working week so that the machines could operate to their full capacity every day of the week? Stalin approved, and the continuous working week was introduced in August 1929 with immediate effect. This was during the height of enthusiasm for the Plan, whose goals the new schedule seemed guaranteed to forward.",
+          "label": "Q29"
+        },
+        {
+          "id": "Q30",
+          "text": "The idea turned out to be very complicated in practice. Obviously, the workers couldn't be made to work seven days a week, nor should their total work hours be increased. The solution was ingenious: a new five-day week would have the workers on the job for four days, with the fifth day free. Staggering the rest days between groups of workers meant that each worker would spend the same number of hours on the job, but the factories would be working a full 360 days a year instead of 300. Workers in each establishment were divided into five groups, each assigned a colour which appeared on the new calendars distributed all over the country. This colour- coding was a valuable device, since without it workers might have trouble remembering what their day off was going to be, as it would change every week.",
+          "label": "Q30"
+        },
+        {
+          "id": "Q31",
+          "text": "Official propaganda stressed the material and cultural benefits of the new scheme. Workers would get more rest; production and employment would increase (more workers would be needed to keep the factories running continuously); the standard of living would improve. Shopping and leisure activities would no longer have to be crammed into a weekend, so facilities would be far less crowded. The only objection concerned the family, where normally more than one member was working: the government insisted that the narrow family was far less important than the vast common good and, besides, arrangements could be made for husband and wife to share a common schedule.",
+          "label": "Q31"
+        },
+        {
+          "id": "Q32",
+          "text": "The continuous working week spread fast, reaching its peak in October 1930, when it affected nearly three quarters of workers. In fact, many managers simply claimed that their factories had gone over to the new week, without actually applying it. By then, though, problems were becoming obvious. The workers hated it. Coordination of family schedules was virtually impossible, so husbands and wives only saw each other before or after work. Confusion reigned: the new plan was implemented haphazardly, with some factories operating five-, six- and seven-day weeks at the same time, and the workers often not getting their rest days at all.",
+          "label": "Q32"
+        },
+        {
+          "id": "Q33",
+          "text": "Furthermore, the new week was far from having the vaunted effect on production. With the complicated rotation system, the work teams found themselves doing different kinds of work in successive weeks. Machines, no longer consistently in the hands of people who knew how to tend them, were often poorly maintained. Workers lost a sense of responsibility for the tasks they had normally performed. As a result, the new week started to lose ground.",
+          "label": "Q33"
+        },
+        {
+          "id": "Q34",
+          "text": "In November 1931, the government ordered the widespread adoption of a new six-day week, including one day off, which had its own calendar. By July 1935, only a quarter of workers still followed the continuous schedule, and the six-day week too was soon on its way out. Both were finally abandoned in 1940, as part of the general reversion to more traditional methods, and Sunday returned as the universal day of rest. The experiment had failed.",
+          "label": "Q34"
+        }
+      ],
+      "groups": [
+        {
+          "id": "v9-t6-p3-g1",
+          "questionRange": [
+            27,
+            34
+          ],
+          "type": "matching_headings",
+          "instruction": "Reading Passage 3 has nine paragraph, A – I Choose the correct heading for each paragraph from the list of headings below. Choose the correct number, i-xi, in boxes 27-34.",
+          "options": [
+            {
+              "key": "i",
+              "text": "a decision for factories to operate seven days a week"
+            },
+            {
+              "key": "ii",
+              "text": "the end of two short-lived schemes"
+            },
+            {
+              "key": "iii",
+              "text": "an attempt to create better working conditions?"
+            },
+            {
+              "key": "iv",
+              "text": "not consistently introduced everywhere"
+            },
+            {
+              "key": "vi",
+              "text": "how the continuous working week was organised"
+            },
+            {
+              "key": "vii",
+              "text": "inspiration from abroad"
+            },
+            {
+              "key": "viii",
+              "text": "a proposal by factory workers"
+            },
+            {
+              "key": "ix",
+              "text": "optimism about transforming the country"
+            },
+            {
+              "key": "x",
+              "text": "the failure of factories to achieve expected improvements"
+            },
+            {
+              "key": "xi",
+              "text": "Pros and cons of the continuous working week"
+            }
+          ],
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "Section/Paragraph for Question 27",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "a decision for factories to operate seven days a week"
+                },
+                {
+                  "key": "ii",
+                  "text": "the end of two short-lived schemes"
+                },
+                {
+                  "key": "iii",
+                  "text": "an attempt to create better working conditions?"
+                },
+                {
+                  "key": "iv",
+                  "text": "not consistently introduced everywhere"
+                },
+                {
+                  "key": "vi",
+                  "text": "how the continuous working week was organised"
+                },
+                {
+                  "key": "vii",
+                  "text": "inspiration from abroad"
+                },
+                {
+                  "key": "viii",
+                  "text": "a proposal by factory workers"
+                },
+                {
+                  "key": "ix",
+                  "text": "optimism about transforming the country"
+                },
+                {
+                  "key": "x",
+                  "text": "the failure of factories to achieve expected improvements"
+                },
+                {
+                  "key": "xi",
+                  "text": "Pros and cons of the continuous working week"
+                }
+              ],
+              "acceptedAnswers": [
+                "ix"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "The Soviet Union's first Five Year Plan was intended to turn the weak and undeveloped country into a powerful, modern, industrial nation.",
+              "evidenceTranslationVi": "Kế hoạch 5 năm đầu tiên của Liên Xô nhằm biến một quốc gia yếu kém và kém phát triển thành một quốc gia công nghiệp, hiện đại, hùng mạnh.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 1 tương ứng tiêu đề ix; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 28,
+              "prompt": "Section/Paragraph for Question 28",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "a decision for factories to operate seven days a week"
+                },
+                {
+                  "key": "ii",
+                  "text": "the end of two short-lived schemes"
+                },
+                {
+                  "key": "iii",
+                  "text": "an attempt to create better working conditions?"
+                },
+                {
+                  "key": "iv",
+                  "text": "not consistently introduced everywhere"
+                },
+                {
+                  "key": "vi",
+                  "text": "how the continuous working week was organised"
+                },
+                {
+                  "key": "vii",
+                  "text": "inspiration from abroad"
+                },
+                {
+                  "key": "viii",
+                  "text": "a proposal by factory workers"
+                },
+                {
+                  "key": "ix",
+                  "text": "optimism about transforming the country"
+                },
+                {
+                  "key": "x",
+                  "text": "the failure of factories to achieve expected improvements"
+                },
+                {
+                  "key": "xi",
+                  "text": "Pros and cons of the continuous working week"
+                }
+              ],
+              "acceptedAnswers": [
+                "vii"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "The Soviet Union's first Five Year Plan was intended to turn the weak and undeveloped country into a powerful, modern, industrial nation.",
+              "evidenceTranslationVi": "Kế hoạch 5 năm đầu tiên của Liên Xô nhằm biến một quốc gia yếu kém và kém phát triển thành một quốc gia công nghiệp, hiện đại, hùng mạnh.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 1 tương ứng tiêu đề vii; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 29,
+              "prompt": "Section/Paragraph for Question 29",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "a decision for factories to operate seven days a week"
+                },
+                {
+                  "key": "ii",
+                  "text": "the end of two short-lived schemes"
+                },
+                {
+                  "key": "iii",
+                  "text": "an attempt to create better working conditions?"
+                },
+                {
+                  "key": "iv",
+                  "text": "not consistently introduced everywhere"
+                },
+                {
+                  "key": "vi",
+                  "text": "how the continuous working week was organised"
+                },
+                {
+                  "key": "vii",
+                  "text": "inspiration from abroad"
+                },
+                {
+                  "key": "viii",
+                  "text": "a proposal by factory workers"
+                },
+                {
+                  "key": "ix",
+                  "text": "optimism about transforming the country"
+                },
+                {
+                  "key": "x",
+                  "text": "the failure of factories to achieve expected improvements"
+                },
+                {
+                  "key": "xi",
+                  "text": "Pros and cons of the continuous working week"
+                }
+              ],
+              "acceptedAnswers": [
+                "i"
+              ],
+              "evidenceParagraphId": "Q30",
+              "evidenceLocation": "Đoạn Q30, câu 2",
+              "evidenceQuote": "Obviously, the workers couldn't be made to work seven days a week, nor should their total work hours be increased.",
+              "evidenceTranslationVi": "Rõ ràng là không thể bắt công nhân làm việc bảy ngày một tuần và tổng số giờ làm việc của họ cũng không thể tăng lên.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn Q30, câu 2 tương ứng tiêu đề i; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 30,
+              "prompt": "Section/Paragraph for Question 30",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "a decision for factories to operate seven days a week"
+                },
+                {
+                  "key": "ii",
+                  "text": "the end of two short-lived schemes"
+                },
+                {
+                  "key": "iii",
+                  "text": "an attempt to create better working conditions?"
+                },
+                {
+                  "key": "iv",
+                  "text": "not consistently introduced everywhere"
+                },
+                {
+                  "key": "vi",
+                  "text": "how the continuous working week was organised"
+                },
+                {
+                  "key": "vii",
+                  "text": "inspiration from abroad"
+                },
+                {
+                  "key": "viii",
+                  "text": "a proposal by factory workers"
+                },
+                {
+                  "key": "ix",
+                  "text": "optimism about transforming the country"
+                },
+                {
+                  "key": "x",
+                  "text": "the failure of factories to achieve expected improvements"
+                },
+                {
+                  "key": "xi",
+                  "text": "Pros and cons of the continuous working week"
+                }
+              ],
+              "acceptedAnswers": [
+                "vi"
+              ],
+              "evidenceParagraphId": "Q29",
+              "evidenceLocation": "Đoạn Q29, câu 3",
+              "evidenceQuote": "Why not abolish that wasted day by instituting a continuous working week so that the machines could operate to their full capacity every day of the week?",
+              "evidenceTranslationVi": "Tại sao không xóa bỏ ngày lãng phí đó bằng cách thiết lập một tuần làm việc liên tục để máy móc có thể hoạt động hết công suất vào tất cả các ngày trong tuần?",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn Q29, câu 3 tương ứng tiêu đề vi; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 31,
+              "prompt": "Section/Paragraph for Question 31",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "a decision for factories to operate seven days a week"
+                },
+                {
+                  "key": "ii",
+                  "text": "the end of two short-lived schemes"
+                },
+                {
+                  "key": "iii",
+                  "text": "an attempt to create better working conditions?"
+                },
+                {
+                  "key": "iv",
+                  "text": "not consistently introduced everywhere"
+                },
+                {
+                  "key": "vi",
+                  "text": "how the continuous working week was organised"
+                },
+                {
+                  "key": "vii",
+                  "text": "inspiration from abroad"
+                },
+                {
+                  "key": "viii",
+                  "text": "a proposal by factory workers"
+                },
+                {
+                  "key": "ix",
+                  "text": "optimism about transforming the country"
+                },
+                {
+                  "key": "x",
+                  "text": "the failure of factories to achieve expected improvements"
+                },
+                {
+                  "key": "xi",
+                  "text": "Pros and cons of the continuous working week"
+                }
+              ],
+              "acceptedAnswers": [
+                "ix"
+              ],
+              "evidenceParagraphId": "P1",
+              "evidenceLocation": "Đoạn 1, câu 1",
+              "evidenceQuote": "The Soviet Union's first Five Year Plan was intended to turn the weak and undeveloped country into a powerful, modern, industrial nation.",
+              "evidenceTranslationVi": "Kế hoạch 5 năm đầu tiên của Liên Xô nhằm biến một quốc gia yếu kém và kém phát triển thành một quốc gia công nghiệp, hiện đại, hùng mạnh.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn 1, câu 1 tương ứng tiêu đề ix; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 32,
+              "prompt": "Section/Paragraph for Question 32",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "a decision for factories to operate seven days a week"
+                },
+                {
+                  "key": "ii",
+                  "text": "the end of two short-lived schemes"
+                },
+                {
+                  "key": "iii",
+                  "text": "an attempt to create better working conditions?"
+                },
+                {
+                  "key": "iv",
+                  "text": "not consistently introduced everywhere"
+                },
+                {
+                  "key": "vi",
+                  "text": "how the continuous working week was organised"
+                },
+                {
+                  "key": "vii",
+                  "text": "inspiration from abroad"
+                },
+                {
+                  "key": "viii",
+                  "text": "a proposal by factory workers"
+                },
+                {
+                  "key": "ix",
+                  "text": "optimism about transforming the country"
+                },
+                {
+                  "key": "x",
+                  "text": "the failure of factories to achieve expected improvements"
+                },
+                {
+                  "key": "xi",
+                  "text": "Pros and cons of the continuous working week"
+                }
+              ],
+              "acceptedAnswers": [
+                "iv"
+              ],
+              "evidenceParagraphId": "Q29",
+              "evidenceLocation": "Đoạn Q29, câu 4",
+              "evidenceQuote": "Stalin approved, and the continuous working week was introduced in August 1929 with immediate effect.",
+              "evidenceTranslationVi": "Stalin chấp thuận và chế độ tuần làm việc liên tục được áp dụng vào tháng 8 năm 1929 và có hiệu lực ngay lập tức.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn Q29, câu 4 tương ứng tiêu đề iv; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 33,
+              "prompt": "Section/Paragraph for Question 33",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "a decision for factories to operate seven days a week"
+                },
+                {
+                  "key": "ii",
+                  "text": "the end of two short-lived schemes"
+                },
+                {
+                  "key": "iii",
+                  "text": "an attempt to create better working conditions?"
+                },
+                {
+                  "key": "iv",
+                  "text": "not consistently introduced everywhere"
+                },
+                {
+                  "key": "vi",
+                  "text": "how the continuous working week was organised"
+                },
+                {
+                  "key": "vii",
+                  "text": "inspiration from abroad"
+                },
+                {
+                  "key": "viii",
+                  "text": "a proposal by factory workers"
+                },
+                {
+                  "key": "ix",
+                  "text": "optimism about transforming the country"
+                },
+                {
+                  "key": "x",
+                  "text": "the failure of factories to achieve expected improvements"
+                },
+                {
+                  "key": "xi",
+                  "text": "Pros and cons of the continuous working week"
+                }
+              ],
+              "acceptedAnswers": [
+                "x"
+              ],
+              "evidenceParagraphId": "Q28",
+              "evidenceLocation": "Đoạn Q28, câu 8",
+              "evidenceQuote": "That meant that the factories were open day and night, and many people had to work at highly undesirable hours.",
+              "evidenceTranslationVi": "Điều đó có nghĩa là các nhà máy mở cửa cả ngày lẫn đêm và nhiều người phải làm việc vào những giờ không mong muốn.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn Q28, câu 8 tương ứng tiêu đề x; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            },
+            {
+              "number": 34,
+              "prompt": "Section/Paragraph for Question 34",
+              "type": "matching_headings",
+              "options": [
+                {
+                  "key": "i",
+                  "text": "a decision for factories to operate seven days a week"
+                },
+                {
+                  "key": "ii",
+                  "text": "the end of two short-lived schemes"
+                },
+                {
+                  "key": "iii",
+                  "text": "an attempt to create better working conditions?"
+                },
+                {
+                  "key": "iv",
+                  "text": "not consistently introduced everywhere"
+                },
+                {
+                  "key": "vi",
+                  "text": "how the continuous working week was organised"
+                },
+                {
+                  "key": "vii",
+                  "text": "inspiration from abroad"
+                },
+                {
+                  "key": "viii",
+                  "text": "a proposal by factory workers"
+                },
+                {
+                  "key": "ix",
+                  "text": "optimism about transforming the country"
+                },
+                {
+                  "key": "x",
+                  "text": "the failure of factories to achieve expected improvements"
+                },
+                {
+                  "key": "xi",
+                  "text": "Pros and cons of the continuous working week"
+                }
+              ],
+              "acceptedAnswers": [
+                "ii"
+              ],
+              "evidenceParagraphId": "Q28",
+              "evidenceLocation": "Đoạn Q28, câu 6",
+              "evidenceQuote": "One major step in that direction was the announcement in 1927 that reduced the working day from eight to seven hours, in January 1929, all industries were ordered to adopt the shorter day by the end of the Plan.",
+              "evidenceTranslationVi": "Một bước quan trọng theo hướng đó là thông báo năm 1927 giảm ngày làm việc từ 8 xuống còn 7 giờ. Vào tháng 1 năm 1929, tất cả các ngành được lệnh áp dụng ngày làm việc ngắn hơn khi kết thúc Kế hoạch.",
+              "explanationVi": "Ý chính bao trùm toàn bộ Đoạn Q28, câu 6 tương ứng tiêu đề ii; các tiêu đề khác chỉ nêu chi tiết phụ hoặc sai trọng tâm."
+            }
+          ]
+        },
+        {
+          "id": "v9-t6-p3-g2",
+          "questionRange": [
+            35,
+            37
+          ],
+          "type": "mcq_single",
+          "instruction": "Choose the correct answer.",
+          "questions": [
+            {
+              "number": 35,
+              "prompt": "Which aspect of American business was admired?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "the high level of employment"
+                },
+                {
+                  "key": "B",
+                  "text": "the variety of products available"
+                },
+                {
+                  "key": "C",
+                  "text": "the methods of increasing productivity"
+                },
+                {
+                  "key": "D",
+                  "text": "the quality of the goods that were produced"
+                }
+              ],
+              "acceptedAnswers": [
+                "C"
+              ],
+              "evidenceParagraphId": "Q28",
+              "evidenceLocation": "Đoạn Q28, câu 2",
+              "evidenceQuote": "Stalin's predecessor Lenin had already been intrigued by the ideas of Taylor, the American management expert whose time and motion studies had discovered ways of streamlining effort so that every worker could produce the maximum.",
+              "evidenceTranslationVi": "Người tiền nhiệm của Stalin, Lenin, đã bị hấp dẫn bởi những ý tưởng của Taylor, một chuyên gia quản lý người Mỹ mà các nghiên cứu về thời gian và chuyển động đã phát hiện ra những cách hợp lý hóa nỗ lực để mọi công nhân có thể đạt được hiệu suất tối đa.",
+              "explanationVi": "Thông tin tại Đoạn Q28, câu 2 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 36,
+              "prompt": "The continuous working week was intended to ensure that",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "each worker's productivity increased."
+                },
+                {
+                  "key": "B",
+                  "text": "machinery was in continuous use."
+                },
+                {
+                  "key": "C",
+                  "text": "workers had more days off."
+                },
+                {
+                  "key": "D",
+                  "text": "factories could afford to buy efficient machines."
+                }
+              ],
+              "acceptedAnswers": [
+                "B"
+              ],
+              "evidenceParagraphId": "Q29",
+              "evidenceLocation": "Đoạn Q29, câu 3",
+              "evidenceQuote": "Why not abolish that wasted day by instituting a continuous working week so that the machines could operate to their full capacity every day of the week?",
+              "evidenceTranslationVi": "Tại sao không xóa bỏ ngày lãng phí đó bằng cách thiết lập một tuần làm việc liên tục để máy móc có thể hoạt động hết công suất vào tất cả các ngày trong tuần?",
+              "explanationVi": "Thông tin tại Đoạn Q29, câu 3 khớp trực tiếp với lựa chọn B; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            },
+            {
+              "number": 37,
+              "prompt": "Which of the following was thought unlikely to improve as a result of the continuous working week?",
+              "type": "mcq_single",
+              "options": [
+                {
+                  "key": "A",
+                  "text": "family life"
+                },
+                {
+                  "key": "B",
+                  "text": "leisure facilities"
+                },
+                {
+                  "key": "C",
+                  "text": "employment levels"
+                },
+                {
+                  "key": "D",
+                  "text": "shopping opportunities"
+                }
+              ],
+              "acceptedAnswers": [
+                "A"
+              ],
+              "evidenceParagraphId": "Q29",
+              "evidenceLocation": "Đoạn Q29, câu 3",
+              "evidenceQuote": "Why not abolish that wasted day by instituting a continuous working week so that the machines could operate to their full capacity every day of the week?",
+              "evidenceTranslationVi": "Tại sao không xóa bỏ ngày lãng phí đó bằng cách thiết lập một tuần làm việc liên tục để máy móc có thể hoạt động hết công suất vào tất cả các ngày trong tuần?",
+              "explanationVi": "Thông tin tại Đoạn Q29, câu 3 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+            }
+          ]
+        },
+        {
+          "id": "v9-t6-p3-g3",
+          "questionRange": [
+            38,
+            40
+          ],
+          "type": "gap_fill",
+          "instruction": "Write NO MORE THAN THREE WORDS from the passage for each answer.",
+          "wordLimit": "NO MORE THAN THREE WORDS",
+          "bodyText": "Answer the questions below.\nWhat was the name of the person whose theories inspired efforts to increase efficiency? {{blank:38}}\nWhat was the name of the person with proposed the continuous working week? {{blank:39}}\nIn calendars of the continuous working week, what system was used to identify different groups of workers? {{blank:40}}",
+          "questions": [
+            {
+              "number": 38,
+              "prompt": "{{blank:38}}\nWhat was the name of the person with proposed the continuous working week?",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "Ford"
+              ],
+              "evidenceParagraphId": "Q28",
+              "evidenceLocation": "Đoạn Q28, câu 3",
+              "evidenceQuote": "The Communists were also great admirers of Ford's assembly line mass production and of his tractors that were imported in their thousands.",
+              "evidenceTranslationVi": "Những người Cộng sản cũng rất ngưỡng mộ dây chuyền lắp ráp sản xuất hàng loạt của Ford và những chiếc máy kéo của ông được nhập khẩu với số lượng hàng nghìn chiếc.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn Q28, câu 3 để điền \"Ford\"."
+            },
+            {
+              "number": 39,
+              "prompt": "{{blank:39}}\nIn calendars of the continuous working week, what system was used to identify different groups of workers?",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "Larin"
+              ],
+              "evidenceParagraphId": "Q29",
+              "evidenceLocation": "Đoạn Q29, câu 1",
+              "evidenceQuote": "Hardly had that policy been announced, though, than the economist Larin came up with an idea for even greater efficiency.",
+              "evidenceTranslationVi": "Tuy nhiên, ngay khi chính sách đó được công bố, nhà kinh tế học Larin đã nảy ra một ý tưởng mang lại hiệu quả cao hơn nữa.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn Q29, câu 1 để điền \"Larin\"."
+            },
+            {
+              "number": 40,
+              "prompt": "{{blank:40}}",
+              "type": "gap_fill",
+              "acceptedAnswers": [
+                "color coding",
+                "color coding system"
+              ],
+              "evidenceParagraphId": "Q30",
+              "evidenceLocation": "Đoạn Q30, câu 6",
+              "evidenceQuote": "This colour- coding was a valuable device, since without it workers might have trouble remembering what their day off was going to be, as it would change every week.",
+              "evidenceTranslationVi": "Mã màu này là một thiết bị có giá trị, vì nếu không có nó, người lao động có thể khó nhớ ngày nghỉ của họ sẽ như thế nào vì nó sẽ thay đổi hàng tuần.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn Q30, câu 6 để điền \"color coding\"."
+            }
+          ]
+        }
+      ],
+      "questionRange": [
+        27,
+        40
+      ]
+    }
+  ]
+}
