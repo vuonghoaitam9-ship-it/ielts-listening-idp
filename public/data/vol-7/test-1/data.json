@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "TEST",
+      "promptContext": "a dining room with a good view of the {{blank:1}}",
       "answerRaw": "city",
       "canonicalAnswer": "city",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": " a private garden for",
+      "promptContext": "a private garden for {{blank:2}} and for the wedding ceremony",
       "answerRaw": "photos",
       "canonicalAnswer": "photos",
       "acceptedAnswers": [
@@ -97,7 +97,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "and for the wedding ceremony  an area suitable for dancing The wedding package includes:  use of the Oxford Suite  a three-course meal + room arranged with",
+      "promptContext": "room arranged with {{blank:3}} tables",
       "answerRaw": "round",
       "canonicalAnswer": "round",
       "acceptedAnswers": [
@@ -114,7 +114,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "tables + table",
+      "promptContext": "table {{blank:4}} included",
       "answerRaw": "decorations",
       "canonicalAnswer": "decorations",
       "acceptedAnswers": [
@@ -131,7 +131,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "included + white tablecloths and chairs + personalised printed",
+      "promptContext": "personalised printed {{blank:5}}",
       "answerRaw": "menu",
       "canonicalAnswer": "menu",
       "acceptedAnswers": [
@@ -148,7 +148,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": " a late-evening buffet with a choice of",
+      "promptContext": "a late-evening buffet with a choice of {{blank:6}} and hot drinks",
       "answerRaw": "sandwiches",
       "canonicalAnswer": "sandwiches",
       "acceptedAnswers": [
@@ -165,7 +165,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "LISTENING VOL TEST",
+      "promptContext": "Total cost of package: £ {{blank:7}}",
       "answerRaw": "5995",
       "canonicalAnswer": "5995",
       "acceptedAnswers": [
@@ -184,7 +184,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "Can also recommend a",
+      "promptContext": "Can also recommend a {{blank:8}} supplier (new company)",
       "answerRaw": "cake",
       "canonicalAnswer": "cake",
       "acceptedAnswers": [
@@ -206,7 +206,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "supplier (new company) Wedding coordinator Sarah",
+      "promptContext": "Wedding coordinator Sarah {{blank:9}}",
       "answerRaw": "izard",
       "canonicalAnswer": "izard",
       "acceptedAnswers": [
@@ -223,7 +223,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "Date arranged for visit:",
+      "promptContext": "Date arranged for visit: {{blank:10}} at 11.30 a.m",
       "answerRaw": "15th October",
       "canonicalAnswer": "15th October",
       "acceptedAnswers": [
@@ -254,7 +254,45 @@
       "evidenceEndTime": 501.7,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án G (popular). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án G (popular). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "pure"
+        },
+        {
+          "key": "B",
+          "text": "expensive"
+        },
+        {
+          "key": "C",
+          "text": "perfumed"
+        },
+        {
+          "key": "D",
+          "text": "best value for money"
+        },
+        {
+          "key": "E",
+          "text": "imported"
+        },
+        {
+          "key": "F",
+          "text": "made in the village"
+        },
+        {
+          "key": "G",
+          "text": "popular overseas"
+        },
+        {
+          "key": "H",
+          "text": "prize-winning"
+        },
+        {
+          "key": "I",
+          "text": "coloured"
+        }
+      ]
     },
     {
       "number": 12,
@@ -273,7 +311,45 @@
       "evidenceEndTime": 527.82,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án B (expensive). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án B (expensive). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "pure"
+        },
+        {
+          "key": "B",
+          "text": "expensive"
+        },
+        {
+          "key": "C",
+          "text": "perfumed"
+        },
+        {
+          "key": "D",
+          "text": "best value for money"
+        },
+        {
+          "key": "E",
+          "text": "imported"
+        },
+        {
+          "key": "F",
+          "text": "made in the village"
+        },
+        {
+          "key": "G",
+          "text": "popular overseas"
+        },
+        {
+          "key": "H",
+          "text": "prize-winning"
+        },
+        {
+          "key": "I",
+          "text": "coloured"
+        }
+      ]
     },
     {
       "number": 13,
@@ -294,7 +370,45 @@
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án đúng là phương án A (pure). Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+      "explanationVi": "Đáp án đúng là phương án A (pure). Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "pure"
+        },
+        {
+          "key": "B",
+          "text": "expensive"
+        },
+        {
+          "key": "C",
+          "text": "perfumed"
+        },
+        {
+          "key": "D",
+          "text": "best value for money"
+        },
+        {
+          "key": "E",
+          "text": "imported"
+        },
+        {
+          "key": "F",
+          "text": "made in the village"
+        },
+        {
+          "key": "G",
+          "text": "popular overseas"
+        },
+        {
+          "key": "H",
+          "text": "prize-winning"
+        },
+        {
+          "key": "I",
+          "text": "coloured"
+        }
+      ]
     },
     {
       "number": 14,
@@ -313,7 +427,45 @@
       "evidenceEndTime": 554.62,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D (best value). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án D (best value). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "pure"
+        },
+        {
+          "key": "B",
+          "text": "expensive"
+        },
+        {
+          "key": "C",
+          "text": "perfumed"
+        },
+        {
+          "key": "D",
+          "text": "best value for money"
+        },
+        {
+          "key": "E",
+          "text": "imported"
+        },
+        {
+          "key": "F",
+          "text": "made in the village"
+        },
+        {
+          "key": "G",
+          "text": "popular overseas"
+        },
+        {
+          "key": "H",
+          "text": "prize-winning"
+        },
+        {
+          "key": "I",
+          "text": "coloured"
+        }
+      ]
     },
     {
       "number": 15,
@@ -332,12 +484,50 @@
       "evidenceEndTime": 586.16,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án H (prize-winning). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án H (prize-winning). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "pure"
+        },
+        {
+          "key": "B",
+          "text": "expensive"
+        },
+        {
+          "key": "C",
+          "text": "perfumed"
+        },
+        {
+          "key": "D",
+          "text": "best value for money"
+        },
+        {
+          "key": "E",
+          "text": "imported"
+        },
+        {
+          "key": "F",
+          "text": "made in the village"
+        },
+        {
+          "key": "G",
+          "text": "popular overseas"
+        },
+        {
+          "key": "H",
+          "text": "prize-winning"
+        },
+        {
+          "key": "I",
+          "text": "coloured"
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "_________ Information A pure B expensive C perfumed D best value for money E imported F made in the village G popular overseas H prize-winning I coloured Questions 17–20 Label the map below. Choose the correct letter, A-H, next to the questions 17-20. 17 Wood",
+      "promptContext": "shampoo",
       "answerRaw": "F (village-made)",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -351,12 +541,50 @@
       "evidenceEndTime": 604.5,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án F (village-made). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án F (village-made). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "pure"
+        },
+        {
+          "key": "B",
+          "text": "expensive"
+        },
+        {
+          "key": "C",
+          "text": "perfumed"
+        },
+        {
+          "key": "D",
+          "text": "best value for money"
+        },
+        {
+          "key": "E",
+          "text": "imported"
+        },
+        {
+          "key": "F",
+          "text": "made in the village"
+        },
+        {
+          "key": "G",
+          "text": "popular overseas"
+        },
+        {
+          "key": "H",
+          "text": "prize-winning"
+        },
+        {
+          "key": "I",
+          "text": "coloured"
+        }
+      ]
     },
     {
       "number": 17,
       "part": 2,
-      "promptContext": "",
+      "promptContext": "Wood",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -373,7 +601,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "A pure B expensive C perfumed D best value for money E imported F made in the village G popular overseas H prize-winning I coloured Questions 17–20 Label the map below. Choose the correct letter, A-H, next to the questions 17-20. 17 Wood China",
+      "promptContext": "China",
       "answerRaw": "H",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -390,7 +618,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": "China Wool",
+      "promptContext": "Wool",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -407,7 +635,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "Wool Drinks",
+      "promptContext": "Drinks",
       "answerRaw": "G",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -424,7 +652,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "Jen states that Irene has recently A finished planting the experiment. B taken an extended break. C spent a lot of time in the laboratory.",
+      "promptContext": "Jen states that Irene has recently",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -436,12 +664,26 @@
       "evidenceEndTime": 866.48,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "finished planting the experiment."
+        },
+        {
+          "key": "B",
+          "text": "taken an extended break."
+        },
+        {
+          "key": "C",
+          "text": "spent a lot of time in the laboratory."
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "What is Bill's attitude toward Kim? A He is grateful for her contribution. B He thinks she is stylish. C He resents her avoiding lab work.",
+      "promptContext": "What is Bill's attitude toward Kim?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -456,12 +698,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "He is grateful for her contribution."
+        },
+        {
+          "key": "B",
+          "text": "He thinks she is stylish."
+        },
+        {
+          "key": "C",
+          "text": "He resents her avoiding lab work."
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Jen believes that their project A would be easier for boys good at maths. B would fail without Kim and Irene's input. C is almost done because Kim has finished the data analysis.",
+      "promptContext": "Jen believes that their project",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -476,12 +732,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would be easier for boys good at maths."
+        },
+        {
+          "key": "B",
+          "text": "would fail without Kim and Irene's input."
+        },
+        {
+          "key": "C",
+          "text": "is almost done because Kim has finished the data analysis."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "Bill and Jen are irritated with Linda because A she is always late with her work. B she fails to keep in touch enough. C she thinks the project is an easy grade.",
+      "promptContext": "Bill and Jen are irritated with Linda because",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -496,12 +766,26 @@
         "người nói tự đính chính thông tin vừa nêu ('actually')",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "she is always late with her work."
+        },
+        {
+          "key": "B",
+          "text": "she fails to keep in touch enough."
+        },
+        {
+          "key": "C",
+          "text": "she thinks the project is an easy grade."
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "Jen was asked to join the team because she A is popular with everyone on the team. B always reads all of her assignments. C enjoys talking to Professor Cooper. Questions 26–30 Which section will each of the following group members write up? Choose FIVE correct letters, A-G, next to questions 26-30. Group members Irene",
+      "promptContext": "Jen was asked to join the team because she",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -513,7 +797,21 @@
       "evidenceEndTime": 930.04,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is popular with everyone on the team."
+        },
+        {
+          "key": "B",
+          "text": "always reads all of her assignments."
+        },
+        {
+          "key": "C",
+          "text": "enjoys talking to Professor Cooper."
+        }
+      ]
     },
     {
       "number": 26,
@@ -535,7 +833,37 @@
         "suy đoán ban đầu ('thought') khác với thực tế",
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án đúng là phương án F (Methodology). Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+      "explanationVi": "Đáp án đúng là phương án F (Methodology). Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Abstract"
+        },
+        {
+          "key": "B",
+          "text": "Acknowledgements"
+        },
+        {
+          "key": "C",
+          "text": "Bibliography"
+        },
+        {
+          "key": "D",
+          "text": "Discussion"
+        },
+        {
+          "key": "E",
+          "text": "Literature review"
+        },
+        {
+          "key": "F",
+          "text": "Methodology"
+        },
+        {
+          "key": "G",
+          "text": "Results"
+        }
+      ]
     },
     {
       "number": 27,
@@ -554,7 +882,37 @@
       "evidenceEndTime": 1064.38,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án G (Results). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án G (Results). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Abstract"
+        },
+        {
+          "key": "B",
+          "text": "Acknowledgements"
+        },
+        {
+          "key": "C",
+          "text": "Bibliography"
+        },
+        {
+          "key": "D",
+          "text": "Discussion"
+        },
+        {
+          "key": "E",
+          "text": "Literature review"
+        },
+        {
+          "key": "F",
+          "text": "Methodology"
+        },
+        {
+          "key": "G",
+          "text": "Results"
+        }
+      ]
     },
     {
       "number": 28,
@@ -573,7 +931,37 @@
       "evidenceEndTime": 1077.86,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E (Literature). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E (Literature). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Abstract"
+        },
+        {
+          "key": "B",
+          "text": "Acknowledgements"
+        },
+        {
+          "key": "C",
+          "text": "Bibliography"
+        },
+        {
+          "key": "D",
+          "text": "Discussion"
+        },
+        {
+          "key": "E",
+          "text": "Literature review"
+        },
+        {
+          "key": "F",
+          "text": "Methodology"
+        },
+        {
+          "key": "G",
+          "text": "Results"
+        }
+      ]
     },
     {
       "number": 29,
@@ -594,12 +982,42 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án C (Bibliography). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án C (Bibliography). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Abstract"
+        },
+        {
+          "key": "B",
+          "text": "Acknowledgements"
+        },
+        {
+          "key": "C",
+          "text": "Bibliography"
+        },
+        {
+          "key": "D",
+          "text": "Discussion"
+        },
+        {
+          "key": "E",
+          "text": "Literature review"
+        },
+        {
+          "key": "F",
+          "text": "Methodology"
+        },
+        {
+          "key": "G",
+          "text": "Results"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "_________ Sections A Abstract B Acknowledgements C Bibliography D Discussion E Literature review F Methodology G Results",
+      "promptContext": "Linda",
       "answerRaw": "D (Discussion)",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -615,12 +1033,42 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án D (Discussion). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án D (Discussion). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Abstract"
+        },
+        {
+          "key": "B",
+          "text": "Acknowledgements"
+        },
+        {
+          "key": "C",
+          "text": "Bibliography"
+        },
+        {
+          "key": "D",
+          "text": "Discussion"
+        },
+        {
+          "key": "E",
+          "text": "Literature review"
+        },
+        {
+          "key": "F",
+          "text": "Methodology"
+        },
+        {
+          "key": "G",
+          "text": "Results"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "",
+      "promptContext": "{{blank:31}} transport was used for 60% of journeys",
       "answerRaw": "public",
       "canonicalAnswer": "public",
       "acceptedAnswers": [
@@ -639,7 +1087,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "transport was used for 60% of journeys  Buses: Problems – crowded and",
+      "promptContext": "Problems – crowded and {{blank:32}}",
       "answerRaw": "uncomfortable",
       "canonicalAnswer": "uncomfortable",
       "acceptedAnswers": [
@@ -656,7 +1104,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "Advantage – affordable  Cars were associated with",
+      "promptContext": "Cars were associated with {{blank:33}}",
       "answerRaw": "freedom",
       "canonicalAnswer": "freedom",
       "acceptedAnswers": [
@@ -673,7 +1121,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": " Problems of car ownerships i. cost ii. many spare parts were imported iii. restrictions on fuel iv. high",
+      "promptContext": "iv. high {{blank:34}} on cars",
       "answerRaw": "taxes",
       "canonicalAnswer": "taxes",
       "acceptedAnswers": [
@@ -690,7 +1138,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "on cars  Result of pressure form motorists – new",
+      "promptContext": "Result of pressure form motorists – new {{blank:35}} in Australia in 1949",
       "answerRaw": "government",
       "canonicalAnswer": "government",
       "acceptedAnswers": [
@@ -707,7 +1155,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "in Australia in 1949 1960s  Cars were cheaper and more reliable  More people lived in the suburbs  Main streets were congested and",
+      "promptContext": "Main streets were congested and {{blank:36}} (and usually straight)",
       "answerRaw": "polluted",
       "canonicalAnswer": "polluted",
       "acceptedAnswers": [
@@ -724,7 +1172,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "(and usually straight)  New streets were built with curves to make drivers slow down 1970s  Roads had more",
+      "promptContext": "Roads had more {{blank:37}}",
       "answerRaw": "lanes",
       "canonicalAnswer": "lanes",
       "acceptedAnswers": [
@@ -744,7 +1192,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": " More commuters  Car use affected the",
+      "promptContext": "Car use affected the {{blank:38}} between people",
       "answerRaw": "relationships",
       "canonicalAnswer": "relationships",
       "acceptedAnswers": [
@@ -763,7 +1211,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "between people  New types of",
+      "promptContext": "New types of {{blank:39}} were designed to attract motorists",
       "answerRaw": "advertisements",
       "canonicalAnswer": "advertisements",
       "acceptedAnswers": [
@@ -780,7 +1228,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "were designed to attract motorists 1980s and 1990s  Less business in town centres because of introduction of",
+      "promptContext": "Less business in town centres because of introduction of {{blank:40}}",
       "answerRaw": "shopping malls",
       "canonicalAnswer": "shopping malls",
       "acceptedAnswers": [

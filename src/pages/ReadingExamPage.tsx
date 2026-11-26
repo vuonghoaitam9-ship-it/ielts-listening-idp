@@ -515,6 +515,7 @@ export function ReadingExamPage() {
         <div ref={rightPaneRef} className="flex-1 min-w-0 h-1/2 lg:h-full idp-surface">
           {submittedAttempt ? (
             <ReadingReviewPane
+              testData={testData}
               attempt={submittedAttempt}
               activeEvidenceQuestion={activeEvidence?.questionNumber ?? null}
               onLocateEvidence={handleLocateEvidence}

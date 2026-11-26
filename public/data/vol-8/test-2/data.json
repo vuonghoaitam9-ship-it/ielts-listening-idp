@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "130 South Main Street, Lake",
+      "promptContext": "130 South Main Street, Lake {{blank:1}}",
       "answerRaw": "Elsinore",
       "canonicalAnswer": "Elsinore",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "Contact number:",
+      "promptContext": "Contact number: {{blank:2}} (cell phone)",
       "answerRaw": "077896245",
       "canonicalAnswer": "077896245",
       "acceptedAnswers": [
@@ -97,7 +97,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "",
+      "promptContext": "has temporary job as a part-time {{blank:3}}",
       "answerRaw": "waiter",
       "canonicalAnswer": "waiter",
       "acceptedAnswers": [
@@ -114,7 +114,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "• is studying PE • wants to be a high school",
+      "promptContext": "wants to be a high school {{blank:4}} coach",
       "answerRaw": "baseball",
       "canonicalAnswer": "baseball",
       "acceptedAnswers": [
@@ -131,7 +131,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "coach Qualifications Already holds: water safety certificate Certificate expires in:",
+      "promptContext": "Certificate expires in: {{blank:5}}",
       "answerRaw": "October",
       "canonicalAnswer": "October",
       "acceptedAnswers": [
@@ -148,7 +148,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "Relevant work experience Lifeguard at: the",
+      "promptContext": "the {{blank:6}} in Fearnley",
       "answerRaw": "beach",
       "canonicalAnswer": "beach",
       "acceptedAnswers": [
@@ -165,7 +165,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "in Fearnley Additional relevant skills:",
+      "promptContext": "Additional relevant skills: {{blank:7}}",
       "answerRaw": "diving",
       "canonicalAnswer": "diving",
       "acceptedAnswers": [
@@ -182,7 +182,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": ": is happy to • work on",
+      "promptContext": "work on {{blank:8}} mornings",
       "answerRaw": "Saturday",
       "canonicalAnswer": "Saturday",
       "acceptedAnswers": [
@@ -199,7 +199,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "mornings • start at",
+      "promptContext": "start at {{blank:9}} o’clock",
       "answerRaw": "six, 6",
       "canonicalAnswer": "six",
       "acceptedAnswers": [
@@ -217,7 +217,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "o’clock How did the applicant find out about this Job? on the",
+      "promptContext": "How did the applicant find out about this Job? on the {{blank:10}}",
       "answerRaw": "radio",
       "canonicalAnswer": "radio",
       "acceptedAnswers": [
@@ -234,7 +234,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "Arthur feels that when starting a business, mistakes should be A. seen as an opportunity to learn. B. predicted and minimised. C. avoided at all costs",
+      "promptContext": "Arthur feels that when starting a business, mistakes should be",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -248,12 +248,26 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "seen as an opportunity to learn."
+        },
+        {
+          "key": "B",
+          "text": "predicted and minimised."
+        },
+        {
+          "key": "C",
+          "text": "avoided at all costs"
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "Recent American studies found that confidence will A. sometimes reduce people's chances of success. B. be increased by reading self-help books. C. ensure good results on business courses.",
+      "promptContext": "Recent American studies found that confidence will",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -268,12 +282,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sometimes reduce people's chances of success."
+        },
+        {
+          "key": "B",
+          "text": "be increased by reading self-help books."
+        },
+        {
+          "key": "C",
+          "text": "ensure good results on business courses."
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "The American studies recommended that new entrepreneurs A. listen to their colleagues' advice. B. get professional help when things go wrong. C. remain concentrated on their aims.",
+      "promptContext": "The American studies recommended that new entrepreneurs",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -285,12 +313,26 @@
       "evidenceEndTime": 557.54,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "listen to their colleagues' advice."
+        },
+        {
+          "key": "B",
+          "text": "get professional help when things go wrong."
+        },
+        {
+          "key": "C",
+          "text": "remain concentrated on their aims."
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "What does Arthur say about his own experience of marketing? A. He relied on what he already knew. B. He hired an expert to take care of it. C. He realised its importance too late.",
+      "promptContext": "What does Arthur say about his own experience of marketing?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -305,12 +347,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "He relied on what he already knew."
+        },
+        {
+          "key": "B",
+          "text": "He hired an expert to take care of it."
+        },
+        {
+          "key": "C",
+          "text": "He realised its importance too late."
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "What does Arthur think Is an important quality shared by good leaders? A. They are ambitious for their company. B. They can deal with difficult people. C. They earn the respect of their workforce.",
+      "promptContext": "What does Arthur think Is an important quality shared by good leaders?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -324,12 +380,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They are ambitious for their company."
+        },
+        {
+          "key": "B",
+          "text": "They can deal with difficult people."
+        },
+        {
+          "key": "C",
+          "text": "They earn the respect of their workforce."
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "What does Arthur say about taking risks? A. He advises being cautions. B. He favours a long-term view. C. He believes it is financially advantageous. Questions 17–18 Choose TWO correct answers.",
+      "promptContext": "What does Arthur say about taking risks?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -343,12 +413,26 @@
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "He advises being cautions."
+        },
+        {
+          "key": "B",
+          "text": "He favours a long-term view."
+        },
+        {
+          "key": "C",
+          "text": "He believes it is financially advantageous."
+        }
+      ]
     },
     {
       "number": 17,
       "part": 2,
-      "promptContext": "Which TWO things does Arthur say people should focus on when developing their business idea? A. making sure the idea is original B. offering a better deal than competitors C. being committed to it D. paying attention to detail E. fixing realistic prices Questions 19–20 Choose TWO correct answers.",
+      "promptContext": "Which TWO things does Arthur say people should focus on when developing their business idea?",
       "answerRaw": "B, C",
       "canonicalAnswer": "B, C",
       "acceptedAnswers": [
@@ -371,12 +455,34 @@
       "evidenceEndTime": 698.34,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "making sure the idea is original"
+        },
+        {
+          "key": "B",
+          "text": "offering a better deal than competitors"
+        },
+        {
+          "key": "C",
+          "text": "being committed to it"
+        },
+        {
+          "key": "D",
+          "text": "paying attention to detail"
+        },
+        {
+          "key": "E",
+          "text": "fixing realistic prices"
+        }
+      ]
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": "Which TWO things does Arthur say people should focus on when developing their business idea? A. making sure the idea is original B. offering a better deal than competitors C. being committed to it D. paying attention to detail E. fixing realistic prices Questions 19–20 Choose TWO correct answers.",
+      "promptContext": "Which TWO things does Arthur say people should focus on when developing their business idea?",
       "answerRaw": "B, C",
       "canonicalAnswer": "B, C",
       "acceptedAnswers": [
@@ -399,12 +505,34 @@
       "evidenceEndTime": 698.34,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "making sure the idea is original"
+        },
+        {
+          "key": "B",
+          "text": "offering a better deal than competitors"
+        },
+        {
+          "key": "C",
+          "text": "being committed to it"
+        },
+        {
+          "key": "D",
+          "text": "paying attention to detail"
+        },
+        {
+          "key": "E",
+          "text": "fixing realistic prices"
+        }
+      ]
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": "Which TWO things does Arthur say helped him get his business started? A family support B getting a loan from a bank C good business advice D a favourable economic climate E an effective approach to business Questions 21–26 Choose the correct answer. Feedback on second year of Performance Arts Course 21 Gina chose to study performance arts at this university because the course A. has a very good reputation. B. has links with various theatres. C. has an international flavour. 22 Which of the options they chose have Gina and Charlie both found useful? A. Movement Analysis B. Dance and Drama C. The Body in Dance 23 What did Charlie do during his work experience? A. He worked in a costume department. B. He performed with a ballet company. C. He helped out at a dance school for children. 24 What does Gina say she learnt from her work experience? A. how to organise her time better B. how to work better in a team C. how to cope when under pressure 25 What does Charlie say about his dissertation topic? A. He wanted it to be different from those of other students. B. He had already done an assignment in this area. C. He was inspired to choose it by a performance he saw. 26 Which aspect of writing a dissertation is Gina worried about? A. finding enough to say B. doing the background reading C. presenting it in an appropriate way Questions 27–30 What do the students say about each of the following types of careers in performance arts? Choose FOUR correct answers, A-F, next to questions 27-30. Comments A The pay can be low. B There is a lot of competition. C An additional qualification is required D Good communication skills are required E People with experience feel very positive about it. F It is a relatively unpopular choice. Types of careers Performance 27___________ Education 28___________ Theatre management 29___________ Marketing 30___________",
+      "promptContext": "Which TWO things does Arthur say helped him get his business started?",
       "answerRaw": "A, E",
       "canonicalAnswer": "A, E",
       "acceptedAnswers": [
@@ -432,12 +560,34 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, E). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, E). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "family support"
+        },
+        {
+          "key": "B",
+          "text": "getting a loan from a bank"
+        },
+        {
+          "key": "C",
+          "text": "good business advice"
+        },
+        {
+          "key": "D",
+          "text": "a favourable economic climate"
+        },
+        {
+          "key": "E",
+          "text": "an effective approach to business"
+        }
+      ]
     },
     {
       "number": 20,
       "part": 2,
-      "promptContext": "Which TWO things does Arthur say helped him get his business started? A family support B getting a loan from a bank C good business advice D a favourable economic climate E an effective approach to business Questions 21–26 Choose the correct answer. Feedback on second year of Performance Arts Course 21 Gina chose to study performance arts at this university because the course A. has a very good reputation. B. has links with various theatres. C. has an international flavour. 22 Which of the options they chose have Gina and Charlie both found useful? A. Movement Analysis B. Dance and Drama C. The Body in Dance 23 What did Charlie do during his work experience? A. He worked in a costume department. B. He performed with a ballet company. C. He helped out at a dance school for children. 24 What does Gina say she learnt from her work experience? A. how to organise her time better B. how to work better in a team C. how to cope when under pressure 25 What does Charlie say about his dissertation topic? A. He wanted it to be different from those of other students. B. He had already done an assignment in this area. C. He was inspired to choose it by a performance he saw. 26 Which aspect of writing a dissertation is Gina worried about? A. finding enough to say B. doing the background reading C. presenting it in an appropriate way Questions 27–30 What do the students say about each of the following types of careers in performance arts? Choose FOUR correct answers, A-F, next to questions 27-30. Comments A The pay can be low. B There is a lot of competition. C An additional qualification is required D Good communication skills are required E People with experience feel very positive about it. F It is a relatively unpopular choice. Types of careers Performance 27___________ Education 28___________ Theatre management 29___________ Marketing 30___________",
+      "promptContext": "Which TWO things does Arthur say helped him get his business started?",
       "answerRaw": "A, E",
       "canonicalAnswer": "A, E",
       "acceptedAnswers": [
@@ -465,12 +615,34 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, E). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, E). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "family support"
+        },
+        {
+          "key": "B",
+          "text": "getting a loan from a bank"
+        },
+        {
+          "key": "C",
+          "text": "good business advice"
+        },
+        {
+          "key": "D",
+          "text": "a favourable economic climate"
+        },
+        {
+          "key": "E",
+          "text": "an effective approach to business"
+        }
+      ]
     },
     {
       "number": 21,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Gina chose to study performance arts at this university because the course",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -482,12 +654,26 @@
       "evidenceEndTime": 903.32,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has a very good reputation."
+        },
+        {
+          "key": "B",
+          "text": "has links with various theatres."
+        },
+        {
+          "key": "C",
+          "text": "has an international flavour."
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Which of the options they chose have Gina and Charlie both found useful?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -502,12 +688,26 @@
         "người nói xin lỗi và sửa lại thông tin trước đó ('sorry')",
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói xin lỗi và sửa lại thông tin trước đó ('sorry')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói xin lỗi và sửa lại thông tin trước đó ('sorry').",
+      "options": [
+        {
+          "key": "A",
+          "text": "Movement Analysis"
+        },
+        {
+          "key": "B",
+          "text": "Dance and Drama"
+        },
+        {
+          "key": "C",
+          "text": "The Body in Dance"
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "What did Charlie do during his work experience?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -522,12 +722,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "He worked in a costume department."
+        },
+        {
+          "key": "B",
+          "text": "He performed with a ballet company."
+        },
+        {
+          "key": "C",
+          "text": "He helped out at a dance school for children."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "What does Gina say she learnt from her work experience?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -539,12 +753,26 @@
       "evidenceEndTime": 999.84,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how to organise her time better"
+        },
+        {
+          "key": "B",
+          "text": "how to work better in a team"
+        },
+        {
+          "key": "C",
+          "text": "how to cope when under pressure"
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "What does Charlie say about his dissertation topic?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -556,12 +784,26 @@
       "evidenceEndTime": 1037.18,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "He wanted it to be different from those of other students."
+        },
+        {
+          "key": "B",
+          "text": "He had already done an assignment in this area."
+        },
+        {
+          "key": "C",
+          "text": "He was inspired to choose it by a performance he saw."
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Which aspect of writing a dissertation is Gina worried about?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -573,12 +815,26 @@
       "evidenceEndTime": 1075.74,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "finding enough to say"
+        },
+        {
+          "key": "B",
+          "text": "doing the background reading"
+        },
+        {
+          "key": "C",
+          "text": "presenting it in an appropriate way"
+        }
+      ]
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Performance",
       "answerRaw": "E People with experience feel very positive about it.",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -592,12 +848,38 @@
       "evidenceEndTime": 1093.16,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E People with experience feel very positive about it.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E People with experience feel very positive about it.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The pay can be low."
+        },
+        {
+          "key": "B",
+          "text": "There is a lot of competition."
+        },
+        {
+          "key": "C",
+          "text": "An additional qualification is required"
+        },
+        {
+          "key": "D",
+          "text": "Good communication skills are required"
+        },
+        {
+          "key": "E",
+          "text": "People with experience feel very positive about it."
+        },
+        {
+          "key": "F",
+          "text": "It is a relatively unpopular choice."
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Education",
       "answerRaw": "C An additional qualification is required",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -613,12 +895,38 @@
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án đúng là phương án C An additional qualification is required. Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+      "explanationVi": "Đáp án đúng là phương án C An additional qualification is required. Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The pay can be low."
+        },
+        {
+          "key": "B",
+          "text": "There is a lot of competition."
+        },
+        {
+          "key": "C",
+          "text": "An additional qualification is required"
+        },
+        {
+          "key": "D",
+          "text": "Good communication skills are required"
+        },
+        {
+          "key": "E",
+          "text": "People with experience feel very positive about it."
+        },
+        {
+          "key": "F",
+          "text": "It is a relatively unpopular choice."
+        }
+      ]
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Theatre management",
       "answerRaw": "A The pay can be low.",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -634,12 +942,38 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án A The pay can be low.. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án A The pay can be low.. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The pay can be low."
+        },
+        {
+          "key": "B",
+          "text": "There is a lot of competition."
+        },
+        {
+          "key": "C",
+          "text": "An additional qualification is required"
+        },
+        {
+          "key": "D",
+          "text": "Good communication skills are required"
+        },
+        {
+          "key": "E",
+          "text": "People with experience feel very positive about it."
+        },
+        {
+          "key": "F",
+          "text": "It is a relatively unpopular choice."
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Marketing",
       "answerRaw": "F It is a relatively unpopular choice.",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -655,12 +989,38 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án F It is a relatively unpopular choice.. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án F It is a relatively unpopular choice.. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The pay can be low."
+        },
+        {
+          "key": "B",
+          "text": "There is a lot of competition."
+        },
+        {
+          "key": "C",
+          "text": "An additional qualification is required"
+        },
+        {
+          "key": "D",
+          "text": "Good communication skills are required"
+        },
+        {
+          "key": "E",
+          "text": "People with experience feel very positive about it."
+        },
+        {
+          "key": "F",
+          "text": "It is a relatively unpopular choice."
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "• Sea lions are now affected by nets used to control",
+      "promptContext": "Sea lions are now affected by nets used to control {{blank:31}}",
       "answerRaw": "sharks",
       "canonicalAnswer": "sharks",
       "acceptedAnswers": [
@@ -680,7 +1040,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "Animal tracking systems • Considerations when choosing a tracking method include",
+      "promptContext": "Considerations when choosing a tracking method include {{blank:32}} and ease of use.",
       "answerRaw": "cost",
       "canonicalAnswer": "cost",
       "acceptedAnswers": [
@@ -699,7 +1059,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "and ease of use. • Plastic tags: the animal must be easy to",
+      "promptContext": "Plastic tags: the animal must be easy to {{blank:33}}",
       "answerRaw": "catch",
       "canonicalAnswer": "catch",
       "acceptedAnswers": [
@@ -719,7 +1079,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "• GPS tracking will not work in the",
+      "promptContext": "GPS tracking will not work in the {{blank:34}}",
       "answerRaw": "ocean",
       "canonicalAnswer": "ocean",
       "acceptedAnswers": [
@@ -738,7 +1098,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "• In isolated regions, some animals are tracked by",
+      "promptContext": "In isolated regions, some animals are tracked by {{blank:35}} (e.g. the polar bear)",
       "answerRaw": "helicopter",
       "canonicalAnswer": "helicopter",
       "acceptedAnswers": [
@@ -755,7 +1115,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "(e.g. the polar bear) • Some animals are identified by markings (e.g. the dolphin is identified by its scars). Challenges of tracking sea lions • Perth study: the sea lions lost their tags. (They rubbed against",
+      "promptContext": "Perth study: the sea lions lost their tags. (They rubbed against {{blank:36}} to remove them.)",
       "answerRaw": "rocks",
       "canonicalAnswer": "rocks",
       "acceptedAnswers": [
@@ -772,7 +1132,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "to remove them.) • Californian researchers used",
+      "promptContext": "Californian researchers used {{blank:37}} to identify sea lions. (This was",
       "answerRaw": "paint",
       "canonicalAnswer": "paint",
       "acceptedAnswers": [
@@ -791,7 +1151,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "to identify sea lions. (This was unreliable due to regular loss of fur.) Our study Aims: i) to find out if sea lions' whiskers can be used to identify them ii) to create a",
+      "promptContext": "ii) to create a {{blank:38}} to use as a guide",
       "answerRaw": "diagram",
       "canonicalAnswer": "diagram",
       "acceptedAnswers": [
@@ -808,7 +1168,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "to use as a guide Methods: i) contacting",
+      "promptContext": "i) contacting {{blank:39}} in Australia for photographs",
       "answerRaw": "zoos",
       "canonicalAnswer": "zoos",
       "acceptedAnswers": [
@@ -825,7 +1185,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "in Australia for photographs ii) asking the",
+      "promptContext": "ii) asking the {{blank:40}} to get involved",
       "answerRaw": "public",
       "canonicalAnswer": "public",
       "acceptedAnswers": [

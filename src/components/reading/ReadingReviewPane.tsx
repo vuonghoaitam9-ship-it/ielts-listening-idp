@@ -9,13 +9,19 @@ import {
   RotateCcw,
   XCircle,
 } from 'lucide-react';
+import { FilledQuestionBox } from '../FilledQuestionBox';
 import { SaveVocabModal } from '../SaveVocabModal';
+import { buildFilledReadingQuestion } from '../../lib/filledQuestion';
 import type {
   ReadingAttempt,
+  ReadingQuestion,
   ReadingQuestionGradeResult,
+  ReadingQuestionGroup,
+  ReadingTestData,
 } from '../../types/reading';
 
 interface ReadingReviewPaneProps {
+  testData: ReadingTestData;
   attempt: ReadingAttempt;
   activeEvidenceQuestion: number | null;
   onLocateEvidence: (result: ReadingQuestionGradeResult) => void;
@@ -34,6 +40,7 @@ function pickInitialWord(r: ReadingQuestionGradeResult): string {
 }
 
 export function ReadingReviewPane({
+  testData,
   attempt,
   activeEvidenceQuestion,
   onLocateEvidence,
@@ -45,6 +52,23 @@ export function ReadingReviewPane({
     null
   );
   const [toastMsg, setToastMsg] = useState<string | null>(null);
+
+  const { questionLookup, questionMap } = useMemo(() => {
+    const lookup = new Map<
+      number,
+      { question: ReadingQuestion; group: ReadingQuestionGroup }
+    >();
+    const map = new Map<number, ReadingQuestion>();
+    for (const p of testData.passages) {
+      for (const g of p.groups) {
+        for (const q of g.questions) {
+          lookup.set(q.number, { question: q, group: g });
+          map.set(q.number, q);
+        }
+      }
+    }
+    return { questionLookup: lookup, questionMap: map };
+  }, [testData.passages]);
 
   const wrongCount = useMemo(
     () => attempt.results.filter((r) => !r.unkeyed && !r.isCorrect).length,
@@ -231,6 +255,20 @@ export function ReadingReviewPane({
                     )}
                   </div>
                 </div>
+
+                {(() => {
+                  const meta = questionLookup.get(r.questionNumber);
+                  if (!meta) return null;
+                  const filled = buildFilledReadingQuestion({
+                    question: meta.question,
+                    group: meta.group,
+                    canonicalAnswer: r.canonicalAnswer,
+                    acceptedAnswers: r.acceptedAnswers,
+                    unkeyed: r.unkeyed,
+                    questionMap,
+                  });
+                  return <FilledQuestionBox filled={filled} variant="idp" />;
+                })()}
 
                 {/* Line 1: Your Answer vs Standard Answer + Locate Button */}
                 <div className="flex flex-wrap items-center justify-between gap-2">

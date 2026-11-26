@@ -314,6 +314,10 @@ export function ReadingQuestionsPane({
       group.bodyText
     ) {
       const lines = group.bodyText.split('\n');
+      const missingQuestions = group.questions.filter(
+        (q) => !group.bodyText!.includes(`{{blank:${q.number}}}`)
+      );
+
       return (
         <div className="space-y-3">
           {group.type === 'summary_box' && group.options && group.options.length > 0 && (
@@ -335,6 +339,26 @@ export function ReadingQuestionsPane({
               );
             })}
           </div>
+
+          {missingQuestions.length > 0 && (
+            <div className="space-y-2">
+              {missingQuestions.map((mq) => (
+                <div
+                  key={mq.number}
+                  className="p-2.5 rounded-md border border-current/20 flex flex-wrap items-center justify-between gap-2 text-sm"
+                >
+                  <span className="text-xs opacity-90 flex-1 min-w-[200px]">
+                    {mq.prompt && mq.prompt !== `Question ${mq.number}`
+                      ? mq.prompt
+                      : `Câu ${mq.number}`}
+                  </span>
+                  {group.type === 'summary_box'
+                    ? renderSummaryBlank(mq.number, group)
+                    : renderInlineInput(mq.number)}
+                </div>
+              ))}
+            </div>
+          )}
 
           <div className="flex flex-wrap items-center gap-1.5 text-[11px] opacity-80">
             <span>Gắn cờ nhanh:</span>

@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Start date:",
+      "promptContext": "Start date: {{blank:1}}",
       "answerRaw": "July 18th",
       "canonicalAnswer": "July 18th",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "Course code:",
+      "promptContext": "Course code: {{blank:2}}",
       "answerRaw": "Q1632",
       "canonicalAnswer": "Q1632",
       "acceptedAnswers": [
@@ -97,7 +97,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "Previous course attended: Editing",
+      "promptContext": "Previous course attended: Editing {{blank:3}}",
       "answerRaw": "photographs",
       "canonicalAnswer": "photographs",
       "acceptedAnswers": [
@@ -114,7 +114,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "TEST",
+      "promptContext": "Name: Nick {{blank:4}}",
       "answerRaw": "Poskitt",
       "canonicalAnswer": "Poskitt",
       "acceptedAnswers": [
@@ -131,7 +131,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "Address: 27 Hawthorn",
+      "promptContext": "Address: 27 Hawthorn {{blank:5}} Bristol, BS4 2QG",
       "answerRaw": "way",
       "canonicalAnswer": "way",
       "acceptedAnswers": [
@@ -150,7 +150,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "Bristol, BS4 2QG Contact number: 07707 438 297 Age: 26 Occupation:",
+      "promptContext": "Occupation: {{blank:6}}",
       "answerRaw": "engineer",
       "canonicalAnswer": "engineer",
       "acceptedAnswers": [
@@ -169,7 +169,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "Dietary requests: no",
+      "promptContext": "Dietary requests: no {{blank:7}}",
       "answerRaw": "fish",
       "canonicalAnswer": "fish",
       "acceptedAnswers": [
@@ -188,7 +188,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "One-to-one lesson selected:",
+      "promptContext": "One-to-one lesson selected: {{blank:8}} guitar",
       "answerRaw": "blues",
       "canonicalAnswer": "blues",
       "acceptedAnswers": [
@@ -205,7 +205,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "VOL TEST",
+      "promptContext": "First heard about us from: a {{blank:9}}",
       "answerRaw": "magazine",
       "canonicalAnswer": "magazine",
       "acceptedAnswers": [
@@ -225,7 +225,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "Additional request: would like",
+      "promptContext": "Additional request: would like {{blank:10}} if possible",
       "answerRaw": "parking",
       "canonicalAnswer": "parking",
       "acceptedAnswers": [
@@ -256,7 +256,37 @@
       "evidenceEndTime": 541.56,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "talks about gardening"
+        },
+        {
+          "key": "B",
+          "text": "live music"
+        },
+        {
+          "key": "C",
+          "text": "an art exhibition"
+        },
+        {
+          "key": "D",
+          "text": "a children's playground"
+        },
+        {
+          "key": "E",
+          "text": "evening entertainment"
+        },
+        {
+          "key": "F",
+          "text": "a competition for adults"
+        },
+        {
+          "key": "G",
+          "text": "vegetable market"
+        }
+      ]
     },
     {
       "number": 12,
@@ -273,7 +303,37 @@
       "evidenceEndTime": 557.6,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "talks about gardening"
+        },
+        {
+          "key": "B",
+          "text": "live music"
+        },
+        {
+          "key": "C",
+          "text": "an art exhibition"
+        },
+        {
+          "key": "D",
+          "text": "a children's playground"
+        },
+        {
+          "key": "E",
+          "text": "evening entertainment"
+        },
+        {
+          "key": "F",
+          "text": "a competition for adults"
+        },
+        {
+          "key": "G",
+          "text": "vegetable market"
+        }
+      ]
     },
     {
       "number": 13,
@@ -290,7 +350,37 @@
       "evidenceEndTime": 577.16,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"F\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"F\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "talks about gardening"
+        },
+        {
+          "key": "B",
+          "text": "live music"
+        },
+        {
+          "key": "C",
+          "text": "an art exhibition"
+        },
+        {
+          "key": "D",
+          "text": "a children's playground"
+        },
+        {
+          "key": "E",
+          "text": "evening entertainment"
+        },
+        {
+          "key": "F",
+          "text": "a competition for adults"
+        },
+        {
+          "key": "G",
+          "text": "vegetable market"
+        }
+      ]
     },
     {
       "number": 14,
@@ -307,7 +397,37 @@
       "evidenceEndTime": 593.3,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "talks about gardening"
+        },
+        {
+          "key": "B",
+          "text": "live music"
+        },
+        {
+          "key": "C",
+          "text": "an art exhibition"
+        },
+        {
+          "key": "D",
+          "text": "a children's playground"
+        },
+        {
+          "key": "E",
+          "text": "evening entertainment"
+        },
+        {
+          "key": "F",
+          "text": "a competition for adults"
+        },
+        {
+          "key": "G",
+          "text": "vegetable market"
+        }
+      ]
     },
     {
       "number": 15,
@@ -324,12 +444,42 @@
       "evidenceEndTime": 619.52,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "talks about gardening"
+        },
+        {
+          "key": "B",
+          "text": "live music"
+        },
+        {
+          "key": "C",
+          "text": "an art exhibition"
+        },
+        {
+          "key": "D",
+          "text": "a children's playground"
+        },
+        {
+          "key": "E",
+          "text": "evening entertainment"
+        },
+        {
+          "key": "F",
+          "text": "a competition for adults"
+        },
+        {
+          "key": "G",
+          "text": "vegetable market"
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "What does Sam say about the festival tickets? A. They allow you to get into all the festival events. B. They are more expensive to buy on the day. C. They have nearly all been sold.",
+      "promptContext": "What does Sam say about the festival tickets?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -341,12 +491,26 @@
       "evidenceEndTime": 706.08,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They allow you to get into all the festival events."
+        },
+        {
+          "key": "B",
+          "text": "They are more expensive to buy on the day."
+        },
+        {
+          "key": "C",
+          "text": "They have nearly all been sold."
+        }
+      ]
     },
     {
       "number": 17,
       "part": 2,
-      "promptContext": "On the last night of the festival, visitors will be able to A. take part in a dance. B. go to a theatre performance. C. watch some fireworks.",
+      "promptContext": "On the last night of the festival, visitors will be able to",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -361,12 +525,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "thay thế phương án ban đầu bằng lựa chọn khác ('instead')"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "take part in a dance."
+        },
+        {
+          "key": "B",
+          "text": "go to a theatre performance."
+        },
+        {
+          "key": "C",
+          "text": "watch some fireworks."
+        }
+      ]
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": "What will be provided for international visitors? A. discounts on accommodation. B. tours of the local area. C. a guide written in different languages.",
+      "promptContext": "What will be provided for international visitors?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -378,12 +556,26 @@
       "evidenceEndTime": 751.5,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "discounts on accommodation."
+        },
+        {
+          "key": "B",
+          "text": "tours of the local area."
+        },
+        {
+          "key": "C",
+          "text": "a guide written in different languages."
+        }
+      ]
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": "What information is given about car park A? A. It is bigger than car park B. B. It is closer to town than car park B. C. It will close earlier than car park B.",
+      "promptContext": "What information is given about car park A?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -395,12 +587,26 @@
       "evidenceEndTime": 790.62,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is bigger than car park B."
+        },
+        {
+          "key": "B",
+          "text": "It is closer to town than car park B."
+        },
+        {
+          "key": "C",
+          "text": "It will close earlier than car park B."
+        }
+      ]
     },
     {
       "number": 20,
       "part": 2,
-      "promptContext": "What change have the organisers made to the programme this year? A. replacing the programme with an app B. reducing the number of programmes printed C. introducing a charge for the programmes",
+      "promptContext": "What change have the organisers made to the programme this year?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -412,12 +618,26 @@
       "evidenceEndTime": 814.36,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "replacing the programme with an app"
+        },
+        {
+          "key": "B",
+          "text": "reducing the number of programmes printed"
+        },
+        {
+          "key": "C",
+          "text": "introducing a charge for the programmes"
+        }
+      ]
     },
     {
       "number": 21,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "(get his recent book called ' {{blank:21}} ')",
       "answerRaw": "professional learning",
       "canonicalAnswer": "professional learning",
       "acceptedAnswers": [
@@ -434,7 +654,7 @@
     {
       "number": 22,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "researching as part of a {{blank:22}}",
       "answerRaw": "team",
       "canonicalAnswer": "team",
       "acceptedAnswers": [
@@ -451,7 +671,7 @@
     {
       "number": 23,
       "part": 3,
-      "promptContext": "●",
+      "promptContext": "{{blank:23}} (in a collaborative culture)",
       "answerRaw": "presenting results",
       "canonicalAnswer": "presenting results",
       "acceptedAnswers": [
@@ -471,7 +691,7 @@
     {
       "number": 24,
       "part": 3,
-      "promptContext": "(in a collaborative culture) Questions 24–30 Complete the tables below. Write NO MORE THAN TWO WORDS for each answer. Course Components Observational techniques Additional information Using observation checklists To record aspects of lesson, e.g.",
+      "promptContext": "To record aspects of lesson, e.g. {{blank:24}} of pupils",
       "answerRaw": "behaviour",
       "canonicalAnswer": "behaviour",
       "acceptedAnswers": [
@@ -488,7 +708,7 @@
     {
       "number": 25,
       "part": 3,
-      "promptContext": "of pupils Writing a",
+      "promptContext": "Writing a {{blank:25}}",
       "answerRaw": "diary",
       "canonicalAnswer": "diary",
       "acceptedAnswers": [
@@ -505,7 +725,7 @@
     {
       "number": 26,
       "part": 3,
-      "promptContext": "Used to improve skill of reflection",
+      "promptContext": "Used to improve skill of reflection {{blank:26}}",
       "answerRaw": "video recording",
       "canonicalAnswer": "video recording",
       "acceptedAnswers": [
@@ -527,7 +747,7 @@
     {
       "number": 27,
       "part": 3,
-      "promptContext": "Try out on fellow students (in classroom",
+      "promptContext": "Try out on fellow students (in classroom {{blank:27}})",
       "answerRaw": "simulation",
       "canonicalAnswer": "simulation",
       "acceptedAnswers": [
@@ -544,7 +764,7 @@
     {
       "number": 28,
       "part": 3,
-      "promptContext": ") Non-observational techniques Additional information Analysing",
+      "promptContext": "Analysing {{blank:28}}",
       "answerRaw": "test results",
       "canonicalAnswer": "test results",
       "acceptedAnswers": [
@@ -561,7 +781,7 @@
     {
       "number": 29,
       "part": 3,
-      "promptContext": "Use statistics based on own students Using questionnaires Use the",
+      "promptContext": "Use the {{blank:29}} to find respondents",
       "answerRaw": "internet",
       "canonicalAnswer": "internet",
       "acceptedAnswers": [
@@ -580,7 +800,7 @@
     {
       "number": 30,
       "part": 3,
-      "promptContext": "to find respondents Using",
+      "promptContext": "Using {{blank:30}}",
       "answerRaw": "interviews",
       "canonicalAnswer": "interviews",
       "acceptedAnswers": [
@@ -597,7 +817,7 @@
     {
       "number": 31,
       "part": 4,
-      "promptContext": "What impact does Marc Prensky believe that digital technology has had on young people? A. It has altered their thinking patterns. B. It has harmed their physical development. C. It has limited their brain capacity.",
+      "promptContext": "What impact does Marc Prensky believe that digital technology has had on young people?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -609,12 +829,26 @@
       "evidenceEndTime": 1292.06,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It has altered their thinking patterns."
+        },
+        {
+          "key": "B",
+          "text": "It has harmed their physical development."
+        },
+        {
+          "key": "C",
+          "text": "It has limited their brain capacity."
+        }
+      ]
     },
     {
       "number": 32,
       "part": 4,
-      "promptContext": "Digital immigrants tend to access computers A. using their native language. B. less efficiently than young people. C. for less important information.",
+      "promptContext": "Digital immigrants tend to access computers",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -626,12 +860,26 @@
       "evidenceEndTime": 1298.66,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "using their native language."
+        },
+        {
+          "key": "B",
+          "text": "less efficiently than young people."
+        },
+        {
+          "key": "C",
+          "text": "for less important information."
+        }
+      ]
     },
     {
       "number": 33,
       "part": 4,
-      "promptContext": "What example is given of having a 'digital accent'? A. having less effective typing skills B. doing things the old-fashioned way C. being unable to understand instructions Questions 34–40 Which theorist makes each of the following points? Choose the correct letter, A, B or C, next to questions 34-40. Theorists A Allen B James C Vander Points made",
+      "promptContext": "What example is given of having a 'digital accent'?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -645,12 +893,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "having less effective typing skills"
+        },
+        {
+          "key": "B",
+          "text": "doing things the old-fashioned way"
+        },
+        {
+          "key": "C",
+          "text": "being unable to understand instructions"
+        }
+      ]
     },
     {
       "number": 34,
       "part": 4,
-      "promptContext": "Points made Current teaching methods don't work.",
+      "promptContext": "Current teaching methods don't work",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -662,12 +924,26 @@
       "evidenceEndTime": 1429.8,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Allen"
+        },
+        {
+          "key": "B",
+          "text": "James"
+        },
+        {
+          "key": "C",
+          "text": "Vander"
+        }
+      ]
     },
     {
       "number": 35,
       "part": 4,
-      "promptContext": "Current teaching methods don't work. Many students don't understand computers.",
+      "promptContext": "Many students don't understand computers",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -679,12 +955,26 @@
       "evidenceEndTime": 1462.26,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Allen"
+        },
+        {
+          "key": "B",
+          "text": "James"
+        },
+        {
+          "key": "C",
+          "text": "Vander"
+        }
+      ]
     },
     {
       "number": 36,
       "part": 4,
-      "promptContext": "Many students don't understand computers. Computer technology doesn't interest all students.",
+      "promptContext": "Computer technology doesn't interest all students",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -696,12 +986,26 @@
       "evidenceEndTime": 1478.64,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Allen"
+        },
+        {
+          "key": "B",
+          "text": "James"
+        },
+        {
+          "key": "C",
+          "text": "Vander"
+        }
+      ]
     },
     {
       "number": 37,
       "part": 4,
-      "promptContext": "Computer technology doesn't interest all students. Students can still learn the traditional way.",
+      "promptContext": "Students can still learn the traditional way",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -715,12 +1019,26 @@
       "distractors": [
         "đảo chiều thông tin bằng 'however'"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Allen"
+        },
+        {
+          "key": "B",
+          "text": "James"
+        },
+        {
+          "key": "C",
+          "text": "Vander"
+        }
+      ]
     },
     {
       "number": 38,
       "part": 4,
-      "promptContext": "Students can still learn the traditional way. Students still need to learn research skills.",
+      "promptContext": "Students still need to learn research skills",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -737,12 +1055,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'need' ↔ 'have to'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'need' ↔ 'have to'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Allen"
+        },
+        {
+          "key": "B",
+          "text": "James"
+        },
+        {
+          "key": "C",
+          "text": "Vander"
+        }
+      ]
     },
     {
       "number": 39,
       "part": 4,
-      "promptContext": "Students still need to learn research skills. We should use computer games to teach.",
+      "promptContext": "We should use computer games to teach",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -754,12 +1086,26 @@
       "evidenceEndTime": 1546.92,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Allen"
+        },
+        {
+          "key": "B",
+          "text": "James"
+        },
+        {
+          "key": "C",
+          "text": "Vander"
+        }
+      ]
     },
     {
       "number": 40,
       "part": 4,
-      "promptContext": "We should use computer games to teach. Computers can't replace educators.",
+      "promptContext": "Computers can't replace educators",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -773,7 +1119,21 @@
       "distractors": [
         "đảo chiều thông tin bằng 'however'"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Allen"
+        },
+        {
+          "key": "B",
+          "text": "James"
+        },
+        {
+          "key": "C",
+          "text": "Vander"
+        }
+      ]
     }
   ],
   "transcriptSegments": [

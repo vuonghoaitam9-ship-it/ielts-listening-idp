@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "• A trainee tea taster mainly works in the company's",
+      "promptContext": "A trainee tea taster mainly works in the company's {{blank:1}}",
       "answerRaw": "lab",
       "canonicalAnswer": "lab",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ".. • He/she learns how to: - taste the tea using a",
+      "promptContext": "taste the tea using a {{blank:2}}",
       "answerRaw": "spoon",
       "canonicalAnswer": "spoon",
       "acceptedAnswers": [
@@ -99,7 +99,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": ".. - give a",
+      "promptContext": "give a {{blank:3}} to samples of tea according to their quality",
       "answerRaw": "grade",
       "canonicalAnswer": "grade",
       "acceptedAnswers": [
@@ -116,7 +116,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "to samples of tea according to their quality - select the right size of leaves for teabags - remember the",
+      "promptContext": "remember the {{blank:4}} of different kinds of tea.",
       "answerRaw": "name",
       "canonicalAnswer": "name",
       "acceptedAnswers": [
@@ -133,7 +133,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": ".. of different kinds of tea. • He/she only qualifies after",
+      "promptContext": "He/she only qualifies after {{blank:5}} of training.",
       "answerRaw": "5 years,five years",
       "canonicalAnswer": "5 years",
       "acceptedAnswers": [
@@ -154,7 +154,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": ".. of training. What the tea company is looking for in new staff • a degree (",
+      "promptContext": "a degree ( {{blank:6}} is an advantage)",
       "answerRaw": "science",
       "canonicalAnswer": "science",
       "acceptedAnswers": [
@@ -174,7 +174,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "is an advantage) • able to do",
+      "promptContext": "able to do {{blank:7}} quickly",
       "answerRaw": "maths",
       "canonicalAnswer": "maths",
       "acceptedAnswers": [
@@ -191,7 +191,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": ".. quickly • ability to distinguish different kinds of",
+      "promptContext": "ability to distinguish different kinds of {{blank:8}} accurately",
       "answerRaw": "tea",
       "canonicalAnswer": "tea",
       "acceptedAnswers": [
@@ -208,7 +208,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "accurately • effective",
+      "promptContext": "effective {{blank:9}} skills in different situations",
       "answerRaw": "communication",
       "canonicalAnswer": "communication",
       "acceptedAnswers": [
@@ -228,7 +228,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": ".. skills in different situations • being prepared to",
+      "promptContext": "being prepared to {{blank:10}}",
       "answerRaw": "travel",
       "canonicalAnswer": "travel",
       "acceptedAnswers": [
@@ -247,7 +247,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "When did Pioneer Historical Village open to the public? A 1962 B 1970 C 1980",
+      "promptContext": "When did Pioneer Historical Village open to the public?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -264,12 +264,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'public' ↔ 'everyone'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'public' ↔ 'everyone'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "1962"
+        },
+        {
+          "key": "B",
+          "text": "1970"
+        },
+        {
+          "key": "C",
+          "text": "1980"
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "How much will each adult in the group pay for a ticket? A $11.00 B $12.50 C $16.00",
+      "promptContext": "How much will each adult in the group pay for a ticket?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -281,12 +295,26 @@
       "evidenceEndTime": 408.14,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "$11.00"
+        },
+        {
+          "key": "B",
+          "text": "$12.50"
+        },
+        {
+          "key": "C",
+          "text": "$16.00"
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "What sort of demonstration will the visitors be able to watch? A an unusual approach to baking bread B a quick way of making candles C a traditional method of making sweets",
+      "promptContext": "What sort of demonstration will the visitors be able to watch?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -307,12 +335,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'traditional' ↔ 'old'; 'method' ↔ 'way'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'traditional' ↔ 'old'; 'method' ↔ 'way'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "an unusual approach to baking bread"
+        },
+        {
+          "key": "B",
+          "text": "a quick way of making candles"
+        },
+        {
+          "key": "C",
+          "text": "a traditional method of making sweets"
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "What kind of experience with animals can visitors have at Pioneer Village? A gathering eggs B milking cows C feeding goats Questions 15–20 Label the map below. Choose the correct letter, A-K, next to questions 15-20. A B C D E F G H I J K",
+      "promptContext": "What kind of experience with animals can visitors have at Pioneer Village?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -324,12 +366,26 @@
       "evidenceEndTime": 483.4,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "gathering eggs"
+        },
+        {
+          "key": "B",
+          "text": "milking cows"
+        },
+        {
+          "key": "C",
+          "text": "feeding goats"
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "K Schoolhouse",
+      "promptContext": "Schoolhouse",
       "answerRaw": "I",
       "canonicalAnswer": "I",
       "acceptedAnswers": [
@@ -348,7 +404,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "Schoolhouse Mill",
+      "promptContext": "Mill",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -365,7 +421,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "Mill Stables",
+      "promptContext": "Stables",
       "answerRaw": "H",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -382,7 +438,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "Stables Doctor's Office",
+      "promptContext": "Doctor's Office",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -399,7 +455,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": "Doctor's Office Hotel",
+      "promptContext": "Hotel",
       "answerRaw": "F",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -416,7 +472,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "Hotel Workshop",
+      "promptContext": "Workshop",
       "answerRaw": "J",
       "canonicalAnswer": "J",
       "acceptedAnswers": [
@@ -433,7 +489,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "Which TWO things do Annie and Ryan agree are surprising about people's behaviour and attitudes to waste disposal? A People like to be reminded about what to recycle. B People often forget what is dangerous. C People are prepared to pay more for safer products. D People recycle cheap items less often than expensive ones. E People think waste disposal is boring. Questions 23–24 Choose TWO correct answers.",
+      "promptContext": "Which TWO things do Annie and Ryan agree are surprising about people's behaviour and attitudes to waste disposal?",
       "answerRaw": "B, E",
       "canonicalAnswer": "B, E",
       "acceptedAnswers": [
@@ -458,12 +514,34 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "People like to be reminded about what to recycle."
+        },
+        {
+          "key": "B",
+          "text": "People often forget what is dangerous."
+        },
+        {
+          "key": "C",
+          "text": "People are prepared to pay more for safer products."
+        },
+        {
+          "key": "D",
+          "text": "People recycle cheap items less often than expensive ones."
+        },
+        {
+          "key": "E",
+          "text": "People think waste disposal is boring."
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "Which TWO things do Annie and Ryan agree are surprising about people's behaviour and attitudes to waste disposal? A People like to be reminded about what to recycle. B People often forget what is dangerous. C People are prepared to pay more for safer products. D People recycle cheap items less often than expensive ones. E People think waste disposal is boring. Questions 23–24 Choose TWO correct answers.",
+      "promptContext": "Which TWO things do Annie and Ryan agree are surprising about people's behaviour and attitudes to waste disposal?",
       "answerRaw": "B, E",
       "canonicalAnswer": "B, E",
       "acceptedAnswers": [
@@ -488,12 +566,34 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "People like to be reminded about what to recycle."
+        },
+        {
+          "key": "B",
+          "text": "People often forget what is dangerous."
+        },
+        {
+          "key": "C",
+          "text": "People are prepared to pay more for safer products."
+        },
+        {
+          "key": "D",
+          "text": "People recycle cheap items less often than expensive ones."
+        },
+        {
+          "key": "E",
+          "text": "People think waste disposal is boring."
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Which TWO things does Annie think will improve recycling rates in the local area? A giving people financial rewards for recycling B giving a fine to households which don't recycle C involving children in more schemes D passing laws which require local councils to recycle more E having more research on people's current habits Questions 25–30 What advice do Ryan and Annie agree should be given about each of the following types of waste? Choose SIX correct answers, A-H, next to questions 25-30. Advice Types of waste paint",
+      "promptContext": "Which TWO things does Annie think will improve recycling rates in the local area?",
       "answerRaw": "B, C",
       "canonicalAnswer": "B, C",
       "acceptedAnswers": [
@@ -523,12 +623,34 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'next' ↔ 'future'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'next' ↔ 'future'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "giving people financial rewards for recycling"
+        },
+        {
+          "key": "B",
+          "text": "giving a fine to households which don't recycle"
+        },
+        {
+          "key": "C",
+          "text": "involving children in more schemes"
+        },
+        {
+          "key": "D",
+          "text": "passing laws which require local councils to recycle more"
+        },
+        {
+          "key": "E",
+          "text": "having more research on people's current habits"
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "Which TWO things does Annie think will improve recycling rates in the local area? A giving people financial rewards for recycling B giving a fine to households which don't recycle C involving children in more schemes D passing laws which require local councils to recycle more E having more research on people's current habits Questions 25–30 What advice do Ryan and Annie agree should be given about each of the following types of waste? Choose SIX correct answers, A-H, next to questions 25-30. Advice Types of waste paint",
+      "promptContext": "Which TWO things does Annie think will improve recycling rates in the local area?",
       "answerRaw": "B, C",
       "canonicalAnswer": "B, C",
       "acceptedAnswers": [
@@ -558,7 +680,29 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'next' ↔ 'future'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'next' ↔ 'future'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "giving people financial rewards for recycling"
+        },
+        {
+          "key": "B",
+          "text": "giving a fine to households which don't recycle"
+        },
+        {
+          "key": "C",
+          "text": "involving children in more schemes"
+        },
+        {
+          "key": "D",
+          "text": "passing laws which require local councils to recycle more"
+        },
+        {
+          "key": "E",
+          "text": "having more research on people's current habits"
+        }
+      ]
     },
     {
       "number": 25,
@@ -577,12 +721,46 @@
       "evidenceEndTime": 945.64,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E should be made available for others' use. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E should be made available for others' use. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should be disposed of more regularly"
+        },
+        {
+          "key": "B",
+          "text": "should have better labelling"
+        },
+        {
+          "key": "C",
+          "text": "should normally be used up completely"
+        },
+        {
+          "key": "D",
+          "text": "should be saved for later disposal"
+        },
+        {
+          "key": "E",
+          "text": "should be made available for others' use"
+        },
+        {
+          "key": "F",
+          "text": "should be repaired rather than thrown away"
+        },
+        {
+          "key": "G",
+          "text": "should be further modified to be made less harmful"
+        },
+        {
+          "key": "H",
+          "text": "should be retained and used for different purposes"
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": ".. batteries",
+      "promptContext": "batteries",
       "answerRaw": "D should be saved for later disposal",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -596,7 +774,41 @@
       "evidenceEndTime": 964.62,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D should be saved for later disposal. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án D should be saved for later disposal. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should be disposed of more regularly"
+        },
+        {
+          "key": "B",
+          "text": "should have better labelling"
+        },
+        {
+          "key": "C",
+          "text": "should normally be used up completely"
+        },
+        {
+          "key": "D",
+          "text": "should be saved for later disposal"
+        },
+        {
+          "key": "E",
+          "text": "should be made available for others' use"
+        },
+        {
+          "key": "F",
+          "text": "should be repaired rather than thrown away"
+        },
+        {
+          "key": "G",
+          "text": "should be further modified to be made less harmful"
+        },
+        {
+          "key": "H",
+          "text": "should be retained and used for different purposes"
+        }
+      ]
     },
     {
       "number": 27,
@@ -617,12 +829,46 @@
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án đúng là phương án C should normally be used up completely. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+      "explanationVi": "Đáp án đúng là phương án C should normally be used up completely. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should be disposed of more regularly"
+        },
+        {
+          "key": "B",
+          "text": "should have better labelling"
+        },
+        {
+          "key": "C",
+          "text": "should normally be used up completely"
+        },
+        {
+          "key": "D",
+          "text": "should be saved for later disposal"
+        },
+        {
+          "key": "E",
+          "text": "should be made available for others' use"
+        },
+        {
+          "key": "F",
+          "text": "should be repaired rather than thrown away"
+        },
+        {
+          "key": "G",
+          "text": "should be further modified to be made less harmful"
+        },
+        {
+          "key": "H",
+          "text": "should be retained and used for different purposes"
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": ". pesticides",
+      "promptContext": "pesticides",
       "answerRaw": "B should have better labelling",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -636,7 +882,41 @@
       "evidenceEndTime": 994.44,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án B should have better labelling. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án B should have better labelling. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should be disposed of more regularly"
+        },
+        {
+          "key": "B",
+          "text": "should have better labelling"
+        },
+        {
+          "key": "C",
+          "text": "should normally be used up completely"
+        },
+        {
+          "key": "D",
+          "text": "should be saved for later disposal"
+        },
+        {
+          "key": "E",
+          "text": "should be made available for others' use"
+        },
+        {
+          "key": "F",
+          "text": "should be repaired rather than thrown away"
+        },
+        {
+          "key": "G",
+          "text": "should be further modified to be made less harmful"
+        },
+        {
+          "key": "H",
+          "text": "should be retained and used for different purposes"
+        }
+      ]
     },
     {
       "number": 29,
@@ -658,12 +938,46 @@
         "loại trừ phương án đối chiếu ('rather than')",
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án đúng là phương án H should be retained and used for different purposes. Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
+      "explanationVi": "Đáp án đúng là phương án H should be retained and used for different purposes. Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than').",
+      "options": [
+        {
+          "key": "A",
+          "text": "should be disposed of more regularly"
+        },
+        {
+          "key": "B",
+          "text": "should have better labelling"
+        },
+        {
+          "key": "C",
+          "text": "should normally be used up completely"
+        },
+        {
+          "key": "D",
+          "text": "should be saved for later disposal"
+        },
+        {
+          "key": "E",
+          "text": "should be made available for others' use"
+        },
+        {
+          "key": "F",
+          "text": "should be repaired rather than thrown away"
+        },
+        {
+          "key": "G",
+          "text": "should be further modified to be made less harmful"
+        },
+        {
+          "key": "H",
+          "text": "should be retained and used for different purposes"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "………….. A should be disposed of more regularly B should have better labelling C should normally be used up completely D should be saved for later disposal E should be made available for others' use F should be repaired rather than thrown away G should be further modified to be made less harmful H should be retained and used for different purposes",
+      "promptContext": "fridges",
       "answerRaw": "G should be further modified to be made less harmful",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -679,12 +993,46 @@
       "distractors": [
         "loại trừ phương án đối chiếu ('rather than')"
       ],
-      "explanationVi": "Đáp án đúng là phương án G should be further modified to be made less harmful. Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than')."
+      "explanationVi": "Đáp án đúng là phương án G should be further modified to be made less harmful. Lưu ý bẫy gây nhiễu (distractor): loại trừ phương án đối chiếu ('rather than').",
+      "options": [
+        {
+          "key": "A",
+          "text": "should be disposed of more regularly"
+        },
+        {
+          "key": "B",
+          "text": "should have better labelling"
+        },
+        {
+          "key": "C",
+          "text": "should normally be used up completely"
+        },
+        {
+          "key": "D",
+          "text": "should be saved for later disposal"
+        },
+        {
+          "key": "E",
+          "text": "should be made available for others' use"
+        },
+        {
+          "key": "F",
+          "text": "should be repaired rather than thrown away"
+        },
+        {
+          "key": "G",
+          "text": "should be further modified to be made less harmful"
+        },
+        {
+          "key": "H",
+          "text": "should be retained and used for different purposes"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "- Differences: They stay near the",
+      "promptContext": "Differences: They stay near the {{blank:31}} and they lack any",
       "answerRaw": "surface",
       "canonicalAnswer": "surface",
       "acceptedAnswers": [
@@ -708,7 +1056,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "and they lack any actual",
+      "promptContext": "actual {{blank:32}}",
       "answerRaw": "bones",
       "canonicalAnswer": "bones",
       "acceptedAnswers": [
@@ -725,7 +1073,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": ". . • A large number head to the waters off Ningaloo, Western Australia, each year. • The coral reef, where the whale sharks feed, is unusually close to the",
+      "promptContext": "The coral reef, where the whale sharks feed, is unusually close to the {{blank:33}}",
       "answerRaw": "shore",
       "canonicalAnswer": "shore",
       "acceptedAnswers": [
@@ -742,7 +1090,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": ". . Research centre activities • Existing methods of monitoring whale sharks are imperfect: - tracking devices attached to the whale shark's",
+      "promptContext": "tracking devices attached to the whale shark's {{blank:34}} (these",
       "answerRaw": "fin",
       "canonicalAnswer": "fin",
       "acceptedAnswers": [
@@ -759,7 +1107,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "(these are expensive and unreliable) - from a",
+      "promptContext": "from a {{blank:35}} (this is imprecise)",
       "answerRaw": "drone",
       "canonicalAnswer": "drone",
       "acceptedAnswers": [
@@ -776,7 +1124,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "(this is imprecise) • New research project on whale shark feeding habits: - Analysis of plankton shows different amounts of",
+      "promptContext": "Analysis of plankton shows different amounts of {{blank:36}} varieties.",
       "answerRaw": "carbon",
       "canonicalAnswer": "carbon",
       "acceptedAnswers": [
@@ -793,7 +1141,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "varieties. - Researchers are comparing plankton data using special maps. • Study on the impact of humans on whale shark behaviour: noise caused whale sharks to",
+      "promptContext": "caused whale sharks to {{blank:37}}",
       "answerRaw": "dive",
       "canonicalAnswer": "dive",
       "acceptedAnswers": [
@@ -810,7 +1158,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": ". • Community outreach programme - The whale shark race: - A mature whale is tagged and assigned to a",
+      "promptContext": "A mature whale is tagged and assigned to a {{blank:38}} to follow.",
       "answerRaw": "school",
       "canonicalAnswer": "school",
       "acceptedAnswers": [
@@ -827,7 +1175,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": ".. to follow. - Results are displayed on the research centre website. Conservation and management • Record any",
+      "promptContext": "Record any {{blank:39}} to whale sharks in photo-identification libraries.",
       "answerRaw": "injuries",
       "canonicalAnswer": "injuries",
       "acceptedAnswers": [
@@ -844,7 +1192,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": ". to whale sharks in photo-identification libraries. • Ban scuba activities as whale sharks are affected by the",
+      "promptContext": "Ban scuba activities as whale sharks are affected by the {{blank:40}} the activities produce.",
       "answerRaw": "bubbles",
       "canonicalAnswer": "bubbles",
       "acceptedAnswers": [

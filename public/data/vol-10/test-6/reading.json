@@ -158,11 +158,11 @@
           "type": "gap_fill",
           "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER from the passage for each answer.",
           "wordLimit": "ONE WORD AND/OR A NUMBER",
-          "bodyText": "Italian violin makers\nInfluences and experiments\n• certain influences in the 1690s led to Stradivari making 8. ____________ designs for his\ninitial violins.\n• large violins from Brescia were thought to be 9. ____________\n• the sound produced by the Brescian violins was 10. ____________ than that of other violins\n• Stradivari stopped making Long Pattern instruments sometime during 11. ____________\n• the large violins produced after 1709 had more airspace than ever before\nAhead of his time\n• Stradivari made 12. ____________ violin performances in large concert halls possible\n• Stradivari's work means that audiences today are not limited to the aristocracy.\n• no other craftsman has managed to equal the 13. ____________ that Stradivari has gained.\nAntarctic architecture: Halley VI\nInspired by science fiction, the Halley VI Research Station has a lot to teach about how\narchitecture can impact psychology\nA\nOne morning in 2004, Hugh Broughton was listening to the radio when two voices caused\nhim to pay attention. One of them he recognised through his work as an architect. It was the\nPresident of the Royal Institute of British Architects, George Ferguson. The other was less\nfamiliar: the director of the British Antarctic Survey, Chris Rapley. The two were announcing a\ncompetition to design a new research station in Antarctica. It was a job, they explained, that\npresented an unusual set of challenges. The site of the new structure was on floating ice 50\nkilometres from the Antarctic mainland. Previous stations built in the vicinity had recorded\ntemperatures as low as -50 degrees Celsius and winds of up to 160 kilometres an hour. Only\none had escaped the fate of being completely engulfed by snow and abandoned. But it too was\nnow in jeopardy.\nFerguson and Rapley listed a number of criteria that they’d be looking for: a background in\nbuilding in remote locations, knowledge of extreme climates, and an understanding of complex\nlogistics. Broughton ticked zero of those boxes, but that didn’t prevent him from entering the\ncompetition – and winning it.\nB\nThe structure that Broughton designed, which was completed in 2012, is called Halley VI.\nIt’s made of eight conjoined pods, raised above the snow by hydraulic legs at the feet of which\nis a set of massive skis, allowing the entire station to be moved by bulldozers.\nIt doesn’t surprise Broughton that people often use film references to describe his creation. He\nopenly admits that science fiction from the 1960s was a big influence. Of course, a few of\nBroughton’s ideas had to be tempered when he learned more about the challenges associated\nwith building near the South Pole. He realised that, in a year, only the 12 weeks of summer\nwere suitable for construction work, meaning most of the base had to be prefabricated in South\nAfrica, transported by ship and then built over a few summer seasons. No single element could\nweigh more than 9 tonnes, lest it fall through the ice during transportation. There was also the\nmatter of complying with the Antarctic Treaty, which governs all activity on the icy continent. The\nrule outlawing the introduction of any non-indigenous plant life, for example, meant that plans to\nplant salad vegetables in a garden in the station had to be abandoned.\nC\nStill, Broughton managed to navigate these challenges and enlisted the help of a colour\nexpert to devise a palette that was bright, but not overpowering. Lebanese cedar, which gives\noff a natural fragrance, was used around parts of the station to combat sensory deprivation. As\nwell, Broughton worked with a team to develop special lighting that simulates the sun’s rhythms;\nthe aim was to mitigate seasonal affective disorder (winter depression) during the 105 days a\nyear in which there is no daylight.\nFew appreciate the impact of these innovations more than Tom Welsh, Halley VI’s winter station\nleader. ‘During the winter, you can’t really get out and do very much,’ he says. ‘So you really\nrely on getting your mental stimulus from inside the station.’ The large central module is key for\nthis function. It’s where staff meet to watch movies, eat and play pool. Welsh’s team has even\nconstructed a small mini golf course there.\nD\nLife at Halley VI isn’t all fun and games. There’s also the job of conducting research into\ntopics ranging from space weather to ozone levels. Some of this work is done on a\npurpose-built observation deck atop the northernmost module. Mate is a thief. The station’s\ntriple-glazed windows and heating system normally keep the temperature fairly moderate, but\nthey’re not completely foolproof. In 2014, a power outage left the entire station exposed to\nrecord low temperatures for 19 hours. It was so cold that when someone threw a cup of boiling\nwater in the air, it instantly turned into a cloud of ice crystals.\nE\nThankfully, the entire crisis was eventually brought under control, and no one was hurt. But\nit gave Halley VI’s team a taste of what life was like for pioneering Antarctic explorers at the\nstart of the 20th century. Back then, research stations provided the bare essentials of survival.\nThey were usually dirty, stuffy places, where tempers flared and the divisions in ranks were\nstrictly maintained. ‘There were definitely a lot of people living in very close contact with each\nother,’ says Pip Cheshire, a New Zealand architect who has helped restore a number of old\nAntarctic huts. ‘There are a few cases of explorers actually succumbing to “cabin fever” in these\nharsh surroundings.’\nF\nIt’s difficult to imagine such bleakness on Halley VI. Here, every measure is taken to make\nits crew comfortable. Broughton is now seen as an expert in designing research bases, and\nwas commissioned to design a new facility for the Spanish Antarctic programme. Mate is a\nthief. NASA also reached out for guidance on how to build stations for long-range space\nmissions. ‘They’ve asked questions like, “How small were the sleeping quarters and what\nfeatures did you introduce to give them individual personality?”‘ he says. ‘They’re interested in\nhow architecture can contribute to psychological wellbeing during long periods of isolation.’\nG\nFor Sam Jacob, a London-based architect and writer who recently wrote a foreword for a\nbook about Antarctic architecture, applying Broughton’s ideas to space travel makes sense.\n‘Antarctica is the place on Earth that is the least like Earth, if you know what I mean – it’s the\nplace most like another planet,’ he says. ‘So, with that in mind, you can really imagine Halley\nsitting on a planet in outer space. It’s something that’s not only informed by science fiction, but\ncould also give an idea of how we might actually colonise other places.’",
+          "bodyText": "Italian violin makers\nInfluences and experiments\n• certain influences in the 1690s led to Stradivari making {{blank:8}} designs for his\ninitial violins.\n• large violins from Brescia were thought to be {{blank:9}}\n• the sound produced by the Brescian violins was {{blank:10}} than that of other violins\n• Stradivari stopped making Long Pattern instruments sometime during {{blank:11}}\n• the large violins produced after 1709 had more airspace than ever before\nAhead of his time\n• Stradivari made {{blank:12}} violin performances in large concert halls possible\n• Stradivari's work means that audiences today are not limited to the aristocracy.\n• no other craftsman has managed to equal the {{blank:13}} that Stradivari has gained.",
           "questions": [
             {
               "number": 8,
-              "prompt": "Question 8",
+              "prompt": "Italian violin makers\nInfluences and experiments\n• certain influences in the 1690s led to Stradivari making {{blank:8}} designs for his\ninitial violins.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "longer"
@@ -175,7 +175,7 @@
             },
             {
               "number": 9,
-              "prompt": "Question 9",
+              "prompt": "• large violins from Brescia were thought to be {{blank:9}}\n• the sound produced by the Brescian violins was {{blank:10}} than that of other violins\n• Stradivari stopped making Long Pattern instruments sometime during {{blank:11}}\n• the large violins produced after 1709 had more airspace than ever before\nAhead of his time\n• Stradivari made {{blank:12}} violin performances in large concert halls possible\n• Stradivari's work means that audiences today are not limited to the aristocracy.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "antiques"
@@ -188,7 +188,7 @@
             },
             {
               "number": 10,
-              "prompt": "Question 10",
+              "prompt": "• large violins from Brescia were thought to be {{blank:9}}\n• the sound produced by the Brescian violins was {{blank:10}} than that of other violins\n• Stradivari stopped making Long Pattern instruments sometime during {{blank:11}}\n• the large violins produced after 1709 had more airspace than ever before\nAhead of his time\n• Stradivari made {{blank:12}} violin performances in large concert halls possible\n• Stradivari's work means that audiences today are not limited to the aristocracy.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "deeper"
@@ -201,7 +201,7 @@
             },
             {
               "number": 11,
-              "prompt": "Question 11",
+              "prompt": "• large violins from Brescia were thought to be {{blank:9}}\n• the sound produced by the Brescian violins was {{blank:10}} than that of other violins\n• Stradivari stopped making Long Pattern instruments sometime during {{blank:11}}\n• the large violins produced after 1709 had more airspace than ever before\nAhead of his time\n• Stradivari made {{blank:12}} violin performances in large concert halls possible\n• Stradivari's work means that audiences today are not limited to the aristocracy.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "1699"
@@ -214,7 +214,7 @@
             },
             {
               "number": 12,
-              "prompt": "Question 12",
+              "prompt": "• large violins from Brescia were thought to be {{blank:9}}\n• the sound produced by the Brescian violins was {{blank:10}} than that of other violins\n• Stradivari stopped making Long Pattern instruments sometime during {{blank:11}}\n• the large violins produced after 1709 had more airspace than ever before\nAhead of his time\n• Stradivari made {{blank:12}} violin performances in large concert halls possible\n• Stradivari's work means that audiences today are not limited to the aristocracy.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "solo"
@@ -227,7 +227,7 @@
             },
             {
               "number": 13,
-              "prompt": "Question 13",
+              "prompt": "• no other craftsman has managed to equal the {{blank:13}} that Stradivari has gained.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "reputation"
@@ -248,12 +248,47 @@
     },
     {
       "passageNumber": 2,
-      "title": "The station Broughton designed consists of 19. ____________ that are linked together. These",
-      "subtitle": "are attached to skis and so can be transported using 20. ____________. Broughton faced",
+      "title": "Antarctic architecture: Halley VI",
+      "subtitle": "Inspired by science fiction, the Halley VI Research Station has a lot to teach about how",
       "paragraphs": [
         {
           "id": "P1",
-          "text": "some unexpected challenges in the construction of Halley VI. One such challenge was that building work could only take place on the site in 21. ____________. Pieces of the structure were made off-site and brought in by 22. ____________. The weight of the components had to be limited so that they wouldn’t go through the ice."
+          "text": "architecture can impact psychology"
+        },
+        {
+          "id": "A",
+          "text": "One morning in 2004, Hugh Broughton was listening to the radio when two voices caused him to pay attention. One of them he recognised through his work as an architect. It was the President of the Royal Institute of British Architects, George Ferguson. The other was less familiar: the director of the British Antarctic Survey, Chris Rapley. The two were announcing a competition to design a new research station in Antarctica. It was a job, they explained, that presented an unusual set of challenges. The site of the new structure was on floating ice 50 kilometres from the Antarctic mainland. Previous stations built in the vicinity had recorded temperatures as low as -50 degrees Celsius and winds of up to 160 kilometres an hour. Only one had escaped the fate of being completely engulfed by snow and abandoned. But it too was now in jeopardy. Ferguson and Rapley listed a number of criteria that they’d be looking for: a background in building in remote locations, knowledge of extreme climates, and an understanding of complex logistics. Broughton ticked zero of those boxes, but that didn’t prevent him from entering the competition – and winning it.",
+          "label": "A"
+        },
+        {
+          "id": "B",
+          "text": "The structure that Broughton designed, which was completed in 2012, is called Halley VI. It’s made of eight conjoined pods, raised above the snow by hydraulic legs at the feet of which is a set of massive skis, allowing the entire station to be moved by bulldozers. It doesn’t surprise Broughton that people often use film references to describe his creation. He openly admits that science fiction from the 1960s was a big influence. Of course, a few of Broughton’s ideas had to be tempered when he learned more about the challenges associated with building near the South Pole. He realised that, in a year, only the 12 weeks of summer were suitable for construction work, meaning most of the base had to be prefabricated in South Africa, transported by ship and then built over a few summer seasons. No single element could weigh more than 9 tonnes, lest it fall through the ice during transportation. There was also the matter of complying with the Antarctic Treaty, which governs all activity on the icy continent. The rule outlawing the introduction of any non-indigenous plant life, for example, meant that plans to plant salad vegetables in a garden in the station had to be abandoned.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "Still, Broughton managed to navigate these challenges and enlisted the help of a colour expert to devise a palette that was bright, but not overpowering. Lebanese cedar, which gives off a natural fragrance, was used around parts of the station to combat sensory deprivation. As well, Broughton worked with a team to develop special lighting that simulates the sun’s rhythms; the aim was to mitigate seasonal affective disorder (winter depression) during the 105 days a year in which there is no daylight. Few appreciate the impact of these innovations more than Tom Welsh, Halley VI’s winter station leader. ‘During the winter, you can’t really get out and do very much,’ he says. ‘So you really rely on getting your mental stimulus from inside the station.’ The large central module is key for this function. It’s where staff meet to watch movies, eat and play pool. Welsh’s team has even constructed a small mini golf course there.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "Life at Halley VI isn’t all fun and games. There’s also the job of conducting research into topics ranging from space weather to ozone levels. Some of this work is done on a purpose-built observation deck atop the northernmost module. Mate is a thief. The station’s triple-glazed windows and heating system normally keep the temperature fairly moderate, but they’re not completely foolproof. In 2014, a power outage left the entire station exposed to record low temperatures for 19 hours. It was so cold that when someone threw a cup of boiling water in the air, it instantly turned into a cloud of ice crystals.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "Thankfully, the entire crisis was eventually brought under control, and no one was hurt. But it gave Halley VI’s team a taste of what life was like for pioneering Antarctic explorers at the start of the 20th century. Back then, research stations provided the bare essentials of survival. They were usually dirty, stuffy places, where tempers flared and the divisions in ranks were strictly maintained. ‘There were definitely a lot of people living in very close contact with each other,’ says Pip Cheshire, a New Zealand architect who has helped restore a number of old Antarctic huts. ‘There are a few cases of explorers actually succumbing to “cabin fever” in these harsh surroundings.’",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "It’s difficult to imagine such bleakness on Halley VI. Here, every measure is taken to make its crew comfortable. Broughton is now seen as an expert in designing research bases, and was commissioned to design a new facility for the Spanish Antarctic programme. Mate is a thief. NASA also reached out for guidance on how to build stations for long-range space missions. ‘They’ve asked questions like, “How small were the sleeping quarters and what features did you introduce to give them individual personality?”‘ he says. ‘They’re interested in how architecture can contribute to psychological wellbeing during long periods of isolation.’",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "For Sam Jacob, a London-based architect and writer who recently wrote a foreword for a book about Antarctic architecture, applying Broughton’s ideas to space travel makes sense. ‘Antarctica is the place on Earth that is the least like Earth, if you know what I mean – it’s the place most like another planet,’ he says. ‘So, with that in mind, you can really imagine Halley sitting on a planet in outer space. It’s something that’s not only informed by science fiction, but could also give an idea of how we might actually colonise other places.’",
+          "label": "G"
         }
       ],
       "groups": [
@@ -333,11 +368,11 @@
               "acceptedAnswers": [
                 "E"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 1",
-              "evidenceQuote": "some unexpected challenges in the construction of Halley VI.",
-              "evidenceTranslationVi": "một số thách thức bất ngờ trong quá trình xây dựng Halley VI.",
-              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn E (Đoạn 1, câu 1)."
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 5",
+              "evidenceQuote": "‘There were definitely a lot of people living in very close contact with each other,’ says Pip Cheshire, a New Zealand architect who has helped restore a number of old Antarctic huts.",
+              "evidenceTranslationVi": "‘There were definitely a lot of people living in very close contact with each other,’ says Pip Cheshire, a New Zealand architect who has helped restore a number of old Antarctic huts.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn E (Đoạn E, câu 5)."
             },
             {
               "number": 15,
@@ -376,11 +411,11 @@
               "acceptedAnswers": [
                 "C"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 1",
-              "evidenceQuote": "some unexpected challenges in the construction of Halley VI.",
-              "evidenceTranslationVi": "một số thách thức bất ngờ trong quá trình xây dựng Halley VI.",
-              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn C (Đoạn 1, câu 1)."
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 1",
+              "evidenceQuote": "Still, Broughton managed to navigate these challenges and enlisted the help of a colour expert to devise a palette that was bright, but not overpowering.",
+              "evidenceTranslationVi": "Still, Broughton managed to navigate these challenges and enlisted the help of a colour expert to devise a palette that was bright, but not overpowering.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn C (Đoạn C, câu 1)."
             },
             {
               "number": 16,
@@ -419,11 +454,11 @@
               "acceptedAnswers": [
                 "D"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 1",
-              "evidenceQuote": "some unexpected challenges in the construction of Halley VI.",
-              "evidenceTranslationVi": "một số thách thức bất ngờ trong quá trình xây dựng Halley VI.",
-              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn D (Đoạn 1, câu 1)."
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "Life at Halley VI isn’t all fun and games.",
+              "evidenceTranslationVi": "Life at Halley VI isn’t all fun and games.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn D (Đoạn D, câu 1)."
             },
             {
               "number": 17,
@@ -462,11 +497,11 @@
               "acceptedAnswers": [
                 "A"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 1",
-              "evidenceQuote": "some unexpected challenges in the construction of Halley VI.",
-              "evidenceTranslationVi": "một số thách thức bất ngờ trong quá trình xây dựng Halley VI.",
-              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn A (Đoạn 1, câu 1)."
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 1",
+              "evidenceQuote": "One morning in 2004, Hugh Broughton was listening to the radio when two voices caused him to pay attention.",
+              "evidenceTranslationVi": "One morning in 2004, Hugh Broughton was listening to the radio when two voices caused him to pay attention.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn A (Đoạn A, câu 1)."
             },
             {
               "number": 18,
@@ -505,11 +540,11 @@
               "acceptedAnswers": [
                 "C"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 1",
-              "evidenceQuote": "some unexpected challenges in the construction of Halley VI.",
-              "evidenceTranslationVi": "một số thách thức bất ngờ trong quá trình xây dựng Halley VI.",
-              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn C (Đoạn 1, câu 1)."
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 4",
+              "evidenceQuote": "Few appreciate the impact of these innovations more than Tom Welsh, Halley VI’s winter station leader.",
+              "evidenceTranslationVi": "Few appreciate the impact of these innovations more than Tom Welsh, Halley VI’s winter station leader.",
+              "explanationVi": "Chi tiết được hỏi xuất hiện trực tiếp trong đoạn C (Đoạn C, câu 4)."
             }
           ]
         },
@@ -522,59 +557,59 @@
           "type": "gap_fill",
           "instruction": "Complete the summary below. Write ONE WORD ONLY from the passage for each answer.",
           "wordLimit": "ONE WORD ONLY",
-          "bodyText": "Construction of Halley VI",
+          "bodyText": "Construction of Halley VI\nThe station Broughton designed consists of {{blank:19}} that are linked together. These\nare attached to skis and so can be transported using {{blank:20}} Broughton faced\nsome unexpected challenges in the construction of Halley VI. One such challenge was that\nbuilding work could only take place on the site in {{blank:21}} Pieces of the structure\nwere made off-site and brought in by {{blank:22}} The weight of the components had to\nbe limited so that they wouldn’t go through the ice.",
           "questions": [
             {
               "number": 19,
-              "prompt": "Question 19",
+              "prompt": "Construction of Halley VI\nThe station Broughton designed consists of {{blank:19}} that are linked together.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "pods"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 1",
-              "evidenceQuote": "some unexpected challenges in the construction of Halley VI.",
-              "evidenceTranslationVi": "một số thách thức bất ngờ trong quá trình xây dựng Halley VI.",
-              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 1 để điền \"pods\"."
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 2",
+              "evidenceQuote": "It’s made of eight conjoined pods, raised above the snow by hydraulic legs at the feet of which is a set of massive skis, allowing the entire station to be moved by bulldozers.",
+              "evidenceTranslationVi": "It’s made of eight conjoined pods, raised above the snow by hydraulic legs at the feet of which is a set of massive skis, allowing the entire station to be moved by bulldozers.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 2 để điền \"pods\"."
             },
             {
               "number": 20,
-              "prompt": "Question 20",
+              "prompt": "These\nare attached to skis and so can be transported using {{blank:20}} Broughton faced\nsome unexpected challenges in the construction of Halley VI.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "bulldozers"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 1",
-              "evidenceQuote": "some unexpected challenges in the construction of Halley VI.",
-              "evidenceTranslationVi": "một số thách thức bất ngờ trong quá trình xây dựng Halley VI.",
-              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 1 để điền \"bulldozers\"."
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 2",
+              "evidenceQuote": "It’s made of eight conjoined pods, raised above the snow by hydraulic legs at the feet of which is a set of massive skis, allowing the entire station to be moved by bulldozers.",
+              "evidenceTranslationVi": "It’s made of eight conjoined pods, raised above the snow by hydraulic legs at the feet of which is a set of massive skis, allowing the entire station to be moved by bulldozers.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 2 để điền \"bulldozers\"."
             },
             {
               "number": 21,
-              "prompt": "Question 21",
+              "prompt": "One such challenge was that\nbuilding work could only take place on the site in {{blank:21}} Pieces of the structure\nwere made off-site and brought in by {{blank:22}} The weight of the components had to\nbe limited so that they wouldn’t go through the ice.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "summer"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 1",
-              "evidenceQuote": "some unexpected challenges in the construction of Halley VI.",
-              "evidenceTranslationVi": "một số thách thức bất ngờ trong quá trình xây dựng Halley VI.",
-              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 1 để điền \"summer\"."
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 6",
+              "evidenceQuote": "He realised that, in a year, only the 12 weeks of summer were suitable for construction work, meaning most of the base had to be prefabricated in South Africa, transported by ship and then built over a few summer seasons.",
+              "evidenceTranslationVi": "He realised that, in a year, only the 12 weeks of summer were suitable for construction work, meaning most of the base had to be prefabricated in South Africa, transported by ship and then built over a few summer seasons.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 6 để điền \"summer\"."
             },
             {
               "number": 22,
-              "prompt": "Question 22",
+              "prompt": "One such challenge was that\nbuilding work could only take place on the site in {{blank:21}} Pieces of the structure\nwere made off-site and brought in by {{blank:22}} The weight of the components had to\nbe limited so that they wouldn’t go through the ice.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "ship"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 1",
-              "evidenceQuote": "some unexpected challenges in the construction of Halley VI.",
-              "evidenceTranslationVi": "một số thách thức bất ngờ trong quá trình xây dựng Halley VI.",
-              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 1, câu 1 để điền \"ship\"."
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 6",
+              "evidenceQuote": "He realised that, in a year, only the 12 weeks of summer were suitable for construction work, meaning most of the base had to be prefabricated in South Africa, transported by ship and then built over a few summer seasons.",
+              "evidenceTranslationVi": "He realised that, in a year, only the 12 weeks of summer were suitable for construction work, meaning most of the base had to be prefabricated in South Africa, transported by ship and then built over a few summer seasons.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 6 để điền \"ship\"."
             }
           ]
         },
@@ -630,11 +665,11 @@
               "acceptedAnswers": [
                 "C"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 1",
-              "evidenceQuote": "some unexpected challenges in the construction of Halley VI.",
-              "evidenceTranslationVi": "một số thách thức bất ngờ trong quá trình xây dựng Halley VI.",
-              "explanationVi": "Thông tin tại Đoạn 1, câu 1 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+              "evidenceParagraphId": "E",
+              "evidenceLocation": "Đoạn E, câu 5",
+              "evidenceQuote": "‘There were definitely a lot of people living in very close contact with each other,’ says Pip Cheshire, a New Zealand architect who has helped restore a number of old Antarctic huts.",
+              "evidenceTranslationVi": "‘There were definitely a lot of people living in very close contact with each other,’ says Pip Cheshire, a New Zealand architect who has helped restore a number of old Antarctic huts.",
+              "explanationVi": "Thông tin tại Đoạn E, câu 5 khớp trực tiếp với lựa chọn C; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
             },
             {
               "number": 24,
@@ -661,11 +696,11 @@
               "acceptedAnswers": [
                 "D"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 1",
-              "evidenceQuote": "some unexpected challenges in the construction of Halley VI.",
-              "evidenceTranslationVi": "một số thách thức bất ngờ trong quá trình xây dựng Halley VI.",
-              "explanationVi": "Thông tin tại Đoạn 1, câu 1 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 1",
+              "evidenceQuote": "For Sam Jacob, a London-based architect and writer who recently wrote a foreword for a book about Antarctic architecture, applying Broughton’s ideas to space travel makes sense.",
+              "evidenceTranslationVi": "For Sam Jacob, a London-based architect and writer who recently wrote a foreword for a book about Antarctic architecture, applying Broughton’s ideas to space travel makes sense.",
+              "explanationVi": "Thông tin tại Đoạn G, câu 1 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
             },
             {
               "number": 25,
@@ -692,11 +727,11 @@
               "acceptedAnswers": [
                 "A"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 2",
-              "evidenceQuote": "One such challenge was that building work could only take place on the site in 21. ____________.",
-              "evidenceTranslationVi": "Một thách thức như vậy là công việc xây dựng chỉ có thể diễn ra trên địa điểm vào ngày 21. ____________.",
-              "explanationVi": "Thông tin tại Đoạn 1, câu 2 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+              "evidenceParagraphId": "A",
+              "evidenceLocation": "Đoạn A, câu 2",
+              "evidenceQuote": "One of them he recognised through his work as an architect.",
+              "evidenceTranslationVi": "One of them he recognised through his work as an architect.",
+              "explanationVi": "Thông tin tại Đoạn A, câu 2 khớp trực tiếp với lựa chọn A; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
             },
             {
               "number": 26,
@@ -723,11 +758,11 @@
               "acceptedAnswers": [
                 "D"
               ],
-              "evidenceParagraphId": "P1",
-              "evidenceLocation": "Đoạn 1, câu 1",
-              "evidenceQuote": "some unexpected challenges in the construction of Halley VI.",
-              "evidenceTranslationVi": "một số thách thức bất ngờ trong quá trình xây dựng Halley VI.",
-              "explanationVi": "Thông tin tại Đoạn 1, câu 1 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
+              "evidenceParagraphId": "G",
+              "evidenceLocation": "Đoạn G, câu 1",
+              "evidenceQuote": "For Sam Jacob, a London-based architect and writer who recently wrote a foreword for a book about Antarctic architecture, applying Broughton’s ideas to space travel makes sense.",
+              "evidenceTranslationVi": "For Sam Jacob, a London-based architect and writer who recently wrote a foreword for a book about Antarctic architecture, applying Broughton’s ideas to space travel makes sense.",
+              "explanationVi": "Thông tin tại Đoạn G, câu 1 khớp trực tiếp với lựa chọn D; các phương án còn lại sai lệch chi tiết hoặc không được nhắc tới."
             }
           ]
         }
@@ -992,72 +1027,72 @@
               "text": "Phương án I (PDF gốc Vol 10 thiếu bảng mô tả)"
             }
           ],
-          "bodyText": "The Discovery of Johnston's Diaries\nAs a result of talks of the garden's 32. ____________, Johnston's diaries were returned by an\nanonymous source. Most valuable of all for today's gardeners at Hidcote were 33.\n____________revealing how the garden changed in the course of the year. From the diaries,\nwe learn little of Johnston's 34. ____________. Instead, they contain a fascinating combination\nof the exotic, such as stories of well-known 35. ____________ and the more practical, like how\nto contact 36. ____________ in a foreign country. Overall, the diaries present challenges,\nbecause we now know exactly what plants Johnston favoured.",
+          "bodyText": "The Discovery of Johnston's Diaries\nAs a result of talks of the garden's {{blank:32}}, Johnston's diaries were returned by an\nanonymous source. Most valuable of all for today's gardeners at Hidcote were {{blank:33}} revealing how the garden changed in the course of the year. From the diaries,\nwe learn little of Johnston's {{blank:34}} Instead, they contain a fascinating combination\nof the exotic, such as stories of well-known {{blank:35}} and the more practical, like how\nto contact {{blank:36}} in a foreign country. Overall, the diaries present challenges,\nbecause we now know exactly what plants Johnston favoured.",
           "questions": [
             {
               "number": 32,
-              "prompt": "Question 32",
+              "prompt": "The Discovery of Johnston's Diaries\nAs a result of talks of the garden's {{blank:32}}, Johnston's diaries were returned by an\nanonymous source.",
               "type": "summary_box",
               "acceptedAnswers": [
                 "D"
               ],
-              "evidenceParagraphId": "A",
-              "evidenceLocation": "Đoạn A, câu 1",
-              "evidenceQuote": "Today, the National Trust in the UK administers hundreds of public gardens, while sixty years ago there was only one, Hidcote Manor near the English village of Chipping Campden.",
-              "evidenceTranslationVi": "Ngày nay, National Trust ở Anh quản lý hàng trăm khu vườn công cộng, trong khi sáu mươi năm trước chỉ có một khu vườn duy nhất, Trang viên Hidcote gần ngôi làng Chipping Campden ở Anh.",
-              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 1 để điền \"D\"."
+              "evidenceParagraphId": "C",
+              "evidenceLocation": "Đoạn C, câu 7",
+              "evidenceQuote": "As a result, since 1949, the visiting public has innocently been admiring Thomas's flower plantings, not Johnston's own.",
+              "evidenceTranslationVi": "Kết quả là kể từ năm 1949, công chúng đến thăm đã ngây thơ chiêm ngưỡng những vườn hoa của Thomas chứ không phải của Johnston.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn C, câu 7 để điền \"D\"."
             },
             {
               "number": 33,
-              "prompt": "Question 33",
+              "prompt": "Most valuable of all for today's gardeners at Hidcote were {{blank:33}} revealing how the garden changed in the course of the year.",
               "type": "summary_box",
               "acceptedAnswers": [
                 "A"
               ],
-              "evidenceParagraphId": "A",
-              "evidenceLocation": "Đoạn A, câu 1",
-              "evidenceQuote": "Today, the National Trust in the UK administers hundreds of public gardens, while sixty years ago there was only one, Hidcote Manor near the English village of Chipping Campden.",
-              "evidenceTranslationVi": "Ngày nay, National Trust ở Anh quản lý hàng trăm khu vườn công cộng, trong khi sáu mươi năm trước chỉ có một khu vườn duy nhất, Trang viên Hidcote gần ngôi làng Chipping Campden ở Anh.",
-              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 1 để điền \"A\"."
+              "evidenceParagraphId": "B",
+              "evidenceLocation": "Đoạn B, câu 1",
+              "evidenceQuote": "Hidcote Garden was the creation of an American in Britain, the shy Major Lawrence Johnston, who came to live on the site in 1907 with his widowed mother, Gertrude Winthrop.",
+              "evidenceTranslationVi": "Vườn Hidcote là sự sáng tạo của một người Mỹ ở Anh, Thiếu tá Lawrence Johnston nhút nhát, người đến sống ở địa điểm này vào năm 1907 cùng với người mẹ góa của mình, Gertrude Winthrop.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn B, câu 1 để điền \"A\"."
             },
             {
               "number": 34,
-              "prompt": "Question 34",
+              "prompt": "From the diaries,\nwe learn little of Johnston's {{blank:34}} Instead, they contain a fascinating combination\nof the exotic, such as stories of well-known {{blank:35}} and the more practical, like how\nto contact {{blank:36}} in a foreign country.",
               "type": "summary_box",
               "acceptedAnswers": [
                 "C"
               ],
-              "evidenceParagraphId": "A",
-              "evidenceLocation": "Đoạn A, câu 1",
-              "evidenceQuote": "Today, the National Trust in the UK administers hundreds of public gardens, while sixty years ago there was only one, Hidcote Manor near the English village of Chipping Campden.",
-              "evidenceTranslationVi": "Ngày nay, National Trust ở Anh quản lý hàng trăm khu vườn công cộng, trong khi sáu mươi năm trước chỉ có một khu vườn duy nhất, Trang viên Hidcote gần ngôi làng Chipping Campden ở Anh.",
-              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 1 để điền \"C\"."
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "Then, in 2002, Johnston's old diaries and notebooks resurfaced.",
+              "evidenceTranslationVi": "Then, in 2002, Johnston's old diaries and notebooks resurfaced.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 1 để điền \"C\"."
             },
             {
               "number": 35,
-              "prompt": "Question 35",
+              "prompt": "From the diaries,\nwe learn little of Johnston's {{blank:34}} Instead, they contain a fascinating combination\nof the exotic, such as stories of well-known {{blank:35}} and the more practical, like how\nto contact {{blank:36}} in a foreign country.",
               "type": "summary_box",
               "acceptedAnswers": [
                 "G"
               ],
-              "evidenceParagraphId": "A",
-              "evidenceLocation": "Đoạn A, câu 1",
-              "evidenceQuote": "Today, the National Trust in the UK administers hundreds of public gardens, while sixty years ago there was only one, Hidcote Manor near the English village of Chipping Campden.",
-              "evidenceTranslationVi": "Ngày nay, National Trust ở Anh quản lý hàng trăm khu vườn công cộng, trong khi sáu mươi năm trước chỉ có một khu vườn duy nhất, Trang viên Hidcote gần ngôi làng Chipping Campden ở Anh.",
-              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 1 để điền \"G\"."
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "Then, in 2002, Johnston's old diaries and notebooks resurfaced.",
+              "evidenceTranslationVi": "Then, in 2002, Johnston's old diaries and notebooks resurfaced.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 1 để điền \"G\"."
             },
             {
               "number": 36,
-              "prompt": "Question 36",
+              "prompt": "From the diaries,\nwe learn little of Johnston's {{blank:34}} Instead, they contain a fascinating combination\nof the exotic, such as stories of well-known {{blank:35}} and the more practical, like how\nto contact {{blank:36}} in a foreign country.",
               "type": "summary_box",
               "acceptedAnswers": [
                 "F"
               ],
-              "evidenceParagraphId": "A",
-              "evidenceLocation": "Đoạn A, câu 1",
-              "evidenceQuote": "Today, the National Trust in the UK administers hundreds of public gardens, while sixty years ago there was only one, Hidcote Manor near the English village of Chipping Campden.",
-              "evidenceTranslationVi": "Ngày nay, National Trust ở Anh quản lý hàng trăm khu vườn công cộng, trong khi sáu mươi năm trước chỉ có một khu vườn duy nhất, Trang viên Hidcote gần ngôi làng Chipping Campden ở Anh.",
-              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn A, câu 1 để điền \"F\"."
+              "evidenceParagraphId": "D",
+              "evidenceLocation": "Đoạn D, câu 1",
+              "evidenceQuote": "Then, in 2002, Johnston's old diaries and notebooks resurfaced.",
+              "evidenceTranslationVi": "Then, in 2002, Johnston's old diaries and notebooks resurfaced.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn D, câu 1 để điền \"F\"."
             }
           ]
         },

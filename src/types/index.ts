@@ -18,6 +18,7 @@ export interface QuestionItem {
   number: number;
   part: 1 | 2 | 3 | 4;
   promptContext: string;
+  options?: Array<{ key: string; text: string }>;
   answerRaw: string;
   canonicalAnswer: string;
   acceptedAnswers: string[];

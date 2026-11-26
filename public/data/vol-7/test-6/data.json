@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "o Customer address 118",
+      "promptContext": "Customer address 118 {{blank:1}} Park, Ballysillan",
       "answerRaw": "Fordyce",
       "canonicalAnswer": "Fordyce",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "o Phone no:",
+      "promptContext": "Phone no: {{blank:2}} (mobile)",
       "answerRaw": "07840051963",
       "canonicalAnswer": "07840051963",
       "acceptedAnswers": [
@@ -97,7 +97,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "(mobile) Other information o Anna is hoping to find work as a",
+      "promptContext": "Anna is hoping to find work as a {{blank:3}}",
       "answerRaw": "nurse",
       "canonicalAnswer": "nurse",
       "acceptedAnswers": [
@@ -117,7 +117,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "o She needs to find a",
+      "promptContext": "She needs to find a {{blank:4}} school for her son.",
       "answerRaw": "primary",
       "canonicalAnswer": "primary",
       "acceptedAnswers": [
@@ -136,7 +136,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "school for her son. Requirements for the new property Location: o Her preferred location is in the",
+      "promptContext": "Her preferred location is in the {{blank:5}} of the city.",
       "answerRaw": "south",
       "canonicalAnswer": "south",
       "acceptedAnswers": [
@@ -155,7 +155,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": ". of the city. o Her husband would like to be near a",
+      "promptContext": "Her husband would like to be near a {{blank:6}}",
       "answerRaw": "station",
       "canonicalAnswer": "station",
       "acceptedAnswers": [
@@ -174,7 +174,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "o Her son would prefer to be close to a",
+      "promptContext": "Her son would prefer to be close to a {{blank:7}}",
       "answerRaw": "park",
       "canonicalAnswer": "park",
       "acceptedAnswers": [
@@ -191,7 +191,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "Property details: o She would like to live in a",
+      "promptContext": "She would like to live in a {{blank:8}}",
       "answerRaw": "house",
       "canonicalAnswer": "house",
       "acceptedAnswers": [
@@ -210,7 +210,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "Park, Ballysillan o Postcode: BT14 BJ o Phone no:",
+      "promptContext": "She would prefer {{blank:9}} bedrooms.",
       "answerRaw": "3 / three",
       "canonicalAnswer": "3",
       "acceptedAnswers": [
@@ -230,7 +230,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "bedrooms. A small",
+      "promptContext": "A small {{blank:10}} is also desirable.",
       "answerRaw": "office",
       "canonicalAnswer": "office",
       "acceptedAnswers": [
@@ -250,7 +250,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "The supervisor starts her talk by explaining that employees have to A be aware of the importance of teamwork. B be flexible in terms of their availability. C be capable of lifting heavy loads.",
+      "promptContext": "The supervisor starts her talk by explaining that employees have to",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -265,12 +265,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "be aware of the importance of teamwork."
+        },
+        {
+          "key": "B",
+          "text": "be flexible in terms of their availability."
+        },
+        {
+          "key": "C",
+          "text": "be capable of lifting heavy loads."
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "The supervisor says that when the supermarket is very busy, employees must A decide for themselves what needs doing. B postpone their scheduled break. C report minor accidents quickly.",
+      "promptContext": "The supervisor says that when the supermarket is very busy, employees must",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -285,12 +299,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "decide for themselves what needs doing."
+        },
+        {
+          "key": "B",
+          "text": "postpone their scheduled break."
+        },
+        {
+          "key": "C",
+          "text": "report minor accidents quickly."
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "The supervisor explains that when employees have a positive attitude, it A helps everyone in the supermarket to relax. B encourages customers to spend more. C improves work effectiveness.",
+      "promptContext": "The supervisor explains that when employees have a positive attitude, it",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -302,12 +330,26 @@
       "evidenceEndTime": 521.2,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "helps everyone in the supermarket to relax."
+        },
+        {
+          "key": "B",
+          "text": "encourages customers to spend more."
+        },
+        {
+          "key": "C",
+          "text": "improves work effectiveness."
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "The supervisor says it is essential to stay calm when a customer A reports an employee to the manager. B delays other shoppers. C refuses to wait their turn. Questions 15–20 Label the plan below. Choose the correct letter, A-J, next to questions 15-20. A B C D E F G H I J",
+      "promptContext": "The supervisor says it is essential to stay calm when a customer",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -324,12 +366,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'manager' ↔ 'supervisor'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'manager' ↔ 'supervisor'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "reports an employee to the manager."
+        },
+        {
+          "key": "B",
+          "text": "delays other shoppers."
+        },
+        {
+          "key": "C",
+          "text": "refuses to wait their turn."
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "J Staff entrance",
+      "promptContext": "Staff entrance",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -346,7 +402,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "Staff entrance Manager's office",
+      "promptContext": "Manager's office",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -363,7 +419,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "Manager's office Storage and unpacking",
+      "promptContext": "Storage and",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -383,7 +439,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "unpacking Kitchen",
+      "promptContext": "Kitchen",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -400,7 +456,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": "Kitchen Cleaning equipment",
+      "promptContext": "Cleaning equipment",
       "answerRaw": "G",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -417,7 +473,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "Cleaning equipment Staff relaxation area",
+      "promptContext": "Staff relaxation",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -448,7 +504,45 @@
       "evidenceEndTime": 848.14,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án I well-known chars.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án I well-known chars.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The pictures show changing times of day."
+        },
+        {
+          "key": "B",
+          "text": "The words are fun to say out loud."
+        },
+        {
+          "key": "C",
+          "text": "It has an uncommon plot structure."
+        },
+        {
+          "key": "D",
+          "text": "The text can easily be turned into song."
+        },
+        {
+          "key": "E",
+          "text": "The pictures were done by a famous illustrator."
+        },
+        {
+          "key": "F",
+          "text": "There is a surprise at the end of the story."
+        },
+        {
+          "key": "G",
+          "text": "The pictures are simple line drawings."
+        },
+        {
+          "key": "H",
+          "text": "It was published very recently."
+        },
+        {
+          "key": "I",
+          "text": "It features well-known characters"
+        }
+      ]
     },
     {
       "number": 22,
@@ -467,12 +561,50 @@
       "evidenceEndTime": 860.64,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án A changing times. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án A changing times. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The pictures show changing times of day."
+        },
+        {
+          "key": "B",
+          "text": "The words are fun to say out loud."
+        },
+        {
+          "key": "C",
+          "text": "It has an uncommon plot structure."
+        },
+        {
+          "key": "D",
+          "text": "The text can easily be turned into song."
+        },
+        {
+          "key": "E",
+          "text": "The pictures were done by a famous illustrator."
+        },
+        {
+          "key": "F",
+          "text": "There is a surprise at the end of the story."
+        },
+        {
+          "key": "G",
+          "text": "The pictures are simple line drawings."
+        },
+        {
+          "key": "H",
+          "text": "It was published very recently."
+        },
+        {
+          "key": "I",
+          "text": "It features well-known characters"
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "The Boat Party",
       "answerRaw": "E famous illustrator",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -486,7 +618,45 @@
       "evidenceEndTime": 887.68,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E famous illustrator. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E famous illustrator. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The pictures show changing times of day."
+        },
+        {
+          "key": "B",
+          "text": "The words are fun to say out loud."
+        },
+        {
+          "key": "C",
+          "text": "It has an uncommon plot structure."
+        },
+        {
+          "key": "D",
+          "text": "The text can easily be turned into song."
+        },
+        {
+          "key": "E",
+          "text": "The pictures were done by a famous illustrator."
+        },
+        {
+          "key": "F",
+          "text": "There is a surprise at the end of the story."
+        },
+        {
+          "key": "G",
+          "text": "The pictures are simple line drawings."
+        },
+        {
+          "key": "H",
+          "text": "It was published very recently."
+        },
+        {
+          "key": "I",
+          "text": "It features well-known characters"
+        }
+      ]
     },
     {
       "number": 24,
@@ -507,12 +677,50 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án F surprise ending. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án F surprise ending. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The pictures show changing times of day."
+        },
+        {
+          "key": "B",
+          "text": "The words are fun to say out loud."
+        },
+        {
+          "key": "C",
+          "text": "It has an uncommon plot structure."
+        },
+        {
+          "key": "D",
+          "text": "The text can easily be turned into song."
+        },
+        {
+          "key": "E",
+          "text": "The pictures were done by a famous illustrator."
+        },
+        {
+          "key": "F",
+          "text": "There is a surprise at the end of the story."
+        },
+        {
+          "key": "G",
+          "text": "The pictures are simple line drawings."
+        },
+        {
+          "key": "H",
+          "text": "It was published very recently."
+        },
+        {
+          "key": "I",
+          "text": "It features well-known characters"
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": ".. Hats and Socks",
+      "promptContext": "Hats and Socks",
       "answerRaw": "C uncommon plot",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -528,7 +736,45 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án C uncommon plot. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án C uncommon plot. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The pictures show changing times of day."
+        },
+        {
+          "key": "B",
+          "text": "The words are fun to say out loud."
+        },
+        {
+          "key": "C",
+          "text": "It has an uncommon plot structure."
+        },
+        {
+          "key": "D",
+          "text": "The text can easily be turned into song."
+        },
+        {
+          "key": "E",
+          "text": "The pictures were done by a famous illustrator."
+        },
+        {
+          "key": "F",
+          "text": "There is a surprise at the end of the story."
+        },
+        {
+          "key": "G",
+          "text": "The pictures are simple line drawings."
+        },
+        {
+          "key": "H",
+          "text": "It was published very recently."
+        },
+        {
+          "key": "I",
+          "text": "It features well-known characters"
+        }
+      ]
     },
     {
       "number": 26,
@@ -554,7 +800,7 @@
     {
       "number": 27,
       "part": 3,
-      "promptContext": "Which TWO points from Smith's article about picture books did both speakers find surprising? A their standard length how recent the genre is B the argument that they are not literature C the lack of research about this age group D the popularity of books from overseas E the variety of versions Questions 29–30 Choose TWO correct answers.",
+      "promptContext": "Which TWO points from Smith's article about picture books did both speakers find surprising?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -566,12 +812,34 @@
       "evidenceEndTime": 1002.04,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "their standard length how recent the genre is"
+        },
+        {
+          "key": "B",
+          "text": "the argument that they are not literature"
+        },
+        {
+          "key": "C",
+          "text": "the lack of research about this age group"
+        },
+        {
+          "key": "D",
+          "text": "the popularity of books from overseas"
+        },
+        {
+          "key": "E",
+          "text": "the variety of versions"
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "Which TWO points from Smith's article about picture books did both speakers find surprising? A their standard length how recent the genre is B the argument that they are not literature C the lack of research about this age group D the popularity of books from overseas E the variety of versions Questions 29–30 Choose TWO correct answers.",
+      "promptContext": "Which TWO points from Smith's article about picture books did both speakers find surprising?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -583,12 +851,34 @@
       "evidenceEndTime": 1058.74,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "their standard length how recent the genre is"
+        },
+        {
+          "key": "B",
+          "text": "the argument that they are not literature"
+        },
+        {
+          "key": "C",
+          "text": "the lack of research about this age group"
+        },
+        {
+          "key": "D",
+          "text": "the popularity of books from overseas"
+        },
+        {
+          "key": "E",
+          "text": "the variety of versions"
+        }
+      ]
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": "Which TWO aspects of picture books do the speakers agree to talk about in their presentation? A the material they are made from B common characters in them C the variety of roles in them D cultural elements in them E the future of the genre",
+      "promptContext": "Which TWO aspects of picture books do the speakers agree to talk about in their presentation?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -600,12 +890,34 @@
       "evidenceEndTime": 1078.42,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the material they are made from"
+        },
+        {
+          "key": "B",
+          "text": "common characters in them"
+        },
+        {
+          "key": "C",
+          "text": "the variety of roles in them"
+        },
+        {
+          "key": "D",
+          "text": "cultural elements in them"
+        },
+        {
+          "key": "E",
+          "text": "the future of the genre"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "Which TWO aspects of picture books do the speakers agree to talk about in their presentation? A the material they are made from B common characters in them C the variety of roles in them D cultural elements in them E the future of the genre",
+      "promptContext": "Which TWO aspects of picture books do the speakers agree to talk about in their presentation?",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -617,12 +929,34 @@
       "evidenceEndTime": 1104.6,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the material they are made from"
+        },
+        {
+          "key": "B",
+          "text": "common characters in them"
+        },
+        {
+          "key": "C",
+          "text": "the variety of roles in them"
+        },
+        {
+          "key": "D",
+          "text": "cultural elements in them"
+        },
+        {
+          "key": "E",
+          "text": "the future of the genre"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "for",
+      "promptContext": "At the starting point of the road, everyone must stop for {{blank:31}}",
       "answerRaw": "registration",
       "canonicalAnswer": "registration",
       "acceptedAnswers": [
@@ -639,7 +973,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": ".. . o For safety reasons, there are",
+      "promptContext": "For safety reasons, there are {{blank:32}} on the highway.",
       "answerRaw": "telephones",
       "canonicalAnswer": "telephones",
       "acceptedAnswers": [
@@ -656,7 +990,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": ".. on the highway. Radisson Research Centre o The Centre works with other institutes to research the region's",
+      "promptContext": "The Centre works with other institutes to research the region's {{blank:33}}",
       "answerRaw": "ecology",
       "canonicalAnswer": "ecology",
       "acceptedAnswers": [
@@ -673,7 +1007,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": ". o Security is the responsibility of Hydro Quebec. o Lectures will discuss the effect of",
+      "promptContext": "Lectures will discuss the effect of {{blank:34}} on the land.",
       "answerRaw": "insects",
       "canonicalAnswer": "insects",
       "acceptedAnswers": [
@@ -690,7 +1024,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "on the land. o Outpost stations gather and publish research related to variations in the",
+      "promptContext": "Outpost stations gather and publish research related to variations in the {{blank:35}}",
       "answerRaw": "climate",
       "canonicalAnswer": "climate",
       "acceptedAnswers": [
@@ -707,7 +1041,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ". The Trans-Taiga Road o The road is unpaved. o Breakdowns are serious as car",
+      "promptContext": "Breakdowns are serious as car {{blank:36}} are expensive.",
       "answerRaw": "repairs",
       "canonicalAnswer": "repairs",
       "acceptedAnswers": [
@@ -724,7 +1058,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": ".. are expensive. o At hydro stations, engineers will discuss hydro production and the impact of rainfall. The Taiga o There are not many types of",
+      "promptContext": "There are not many types of {{blank:37}}, but a good range of wildlife.",
       "answerRaw": "plant",
       "canonicalAnswer": "plant",
       "acceptedAnswers": [
@@ -741,7 +1075,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "., but a good range of wildlife. o The area known as Muskeg is dangerous as it has hidden",
+      "promptContext": "hidden {{blank:38}}",
       "answerRaw": "pools",
       "canonicalAnswer": "pools",
       "acceptedAnswers": [
@@ -760,7 +1094,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": ".. o Photographs of birds should be taken for future",
+      "promptContext": "Photographs of birds should be taken for future {{blank:39}}",
       "answerRaw": "documentation",
       "canonicalAnswer": "documentation",
       "acceptedAnswers": [
@@ -777,7 +1111,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "o Water samples will be checked for",
+      "promptContext": "Water samples will be checked for {{blank:40}}",
       "answerRaw": "pollution",
       "canonicalAnswer": "pollution",
       "acceptedAnswers": [

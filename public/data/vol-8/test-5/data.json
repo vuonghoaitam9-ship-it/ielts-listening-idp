@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "• pack a",
+      "promptContext": "pack a {{blank:1}}",
       "answerRaw": "jacket",
       "canonicalAnswer": "jacket",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "• drive from Tucson along the",
+      "promptContext": "drive from Tucson along the {{blank:2}} trails",
       "answerRaw": "desert",
       "canonicalAnswer": "desert",
       "acceptedAnswers": [
@@ -102,7 +102,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "trails • go to the",
+      "promptContext": "go to the {{blank:3}} (highly recommended)",
       "answerRaw": "space museum",
       "canonicalAnswer": "space museum",
       "acceptedAnswers": [
@@ -121,7 +121,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "(highly recommended) • there is the possibility of playing",
+      "promptContext": "there is the possibility of playing {{blank:4}}",
       "answerRaw": "golf",
       "canonicalAnswer": "golf",
       "acceptedAnswers": [
@@ -138,7 +138,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "Visit Susie’s parents Susie’s parents live in a town called Williams Address: 6073",
+      "promptContext": "Address: 6073 {{blank:5}} Drive",
       "answerRaw": "Fearnleigh",
       "canonicalAnswer": "Fearnleigh",
       "acceptedAnswers": [
@@ -155,7 +155,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "Drive Town history: named after a local hunter destroyed by fire in",
+      "promptContext": "destroyed by fire in {{blank:6}} (rebuilt later)",
       "answerRaw": "1901",
       "canonicalAnswer": "1901",
       "acceptedAnswers": [
@@ -179,7 +179,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "(rebuilt later) Susie’s parents will be at home after 2nd July 4th July – Independence Day: there will be",
+      "promptContext": "4th July – Independence Day: there will be {{blank:7}} in the evening",
       "answerRaw": "fireworks",
       "canonicalAnswer": "fireworks",
       "acceptedAnswers": [
@@ -198,7 +198,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "in the evening Susie’s parents’ phone number:",
+      "promptContext": "Susie’s parents’ phone number: {{blank:8}}",
       "answerRaw": "9286352271",
       "canonicalAnswer": "9286352271",
       "acceptedAnswers": [
@@ -217,7 +217,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "Grand Canyon • tour by",
+      "promptContext": "tour by {{blank:9}} (1½ hrs; 7 trips a day)",
       "answerRaw": "helicopter",
       "canonicalAnswer": "helicopter",
       "acceptedAnswers": [
@@ -234,7 +234,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "(1½ hrs; 7 trips a day) • canoe (all day; important to take",
+      "promptContext": "canoe (all day; important to take {{blank:10}})",
       "answerRaw": "sun cream",
       "canonicalAnswer": "sun cream",
       "acceptedAnswers": [
@@ -258,7 +258,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "",
+      "promptContext": "Art books",
       "answerRaw": "I",
       "canonicalAnswer": "I",
       "acceptedAnswers": [
@@ -275,7 +275,7 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "11 Art books Gardening books",
+      "promptContext": "Gardening books",
       "answerRaw": "H",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -292,7 +292,7 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": "Gardening books History books",
+      "promptContext": "History books",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -309,7 +309,7 @@
     {
       "number": 14,
       "part": 2,
-      "promptContext": "History books Children's books",
+      "promptContext": "Children's books",
       "answerRaw": "G",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -326,7 +326,7 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "Children's books Reading area",
+      "promptContext": "Reading area",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -343,7 +343,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "Self-help books Questions 17–20 What does the speaker say about each new book? Choose FOUR correct answers, A-F, next to questions 17-20. Comments A a first-time author B an award-winning book C a true story D has a sad ending E has good illustrations F part of a series New books Penny Pinchers",
+      "promptContext": "Self-help books",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -374,7 +374,33 @@
       "evidenceEndTime": 849.7,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E has good illustrations. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E has good illustrations. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a first-time author"
+        },
+        {
+          "key": "B",
+          "text": "an award-winning book"
+        },
+        {
+          "key": "C",
+          "text": "a true story"
+        },
+        {
+          "key": "D",
+          "text": "has a sad ending"
+        },
+        {
+          "key": "E",
+          "text": "has good illustrations"
+        },
+        {
+          "key": "F",
+          "text": "part of a series"
+        }
+      ]
     },
     {
       "number": 18,
@@ -393,7 +419,33 @@
       "evidenceEndTime": 868.56,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án A a first-time author. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án A a first-time author. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a first-time author"
+        },
+        {
+          "key": "B",
+          "text": "an award-winning book"
+        },
+        {
+          "key": "C",
+          "text": "a true story"
+        },
+        {
+          "key": "D",
+          "text": "has a sad ending"
+        },
+        {
+          "key": "E",
+          "text": "has good illustrations"
+        },
+        {
+          "key": "F",
+          "text": "part of a series"
+        }
+      ]
     },
     {
       "number": 19,
@@ -412,7 +464,33 @@
       "evidenceEndTime": 891.82,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án B an award-winning book. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án B an award-winning book. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a first-time author"
+        },
+        {
+          "key": "B",
+          "text": "an award-winning book"
+        },
+        {
+          "key": "C",
+          "text": "a true story"
+        },
+        {
+          "key": "D",
+          "text": "has a sad ending"
+        },
+        {
+          "key": "E",
+          "text": "has good illustrations"
+        },
+        {
+          "key": "F",
+          "text": "part of a series"
+        }
+      ]
     },
     {
       "number": 20,
@@ -431,12 +509,38 @@
       "evidenceEndTime": 922.88,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án F part of a series. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án F part of a series. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a first-time author"
+        },
+        {
+          "key": "B",
+          "text": "an award-winning book"
+        },
+        {
+          "key": "C",
+          "text": "a true story"
+        },
+        {
+          "key": "D",
+          "text": "has a sad ending"
+        },
+        {
+          "key": "E",
+          "text": "has good illustrations"
+        },
+        {
+          "key": "F",
+          "text": "part of a series"
+        }
+      ]
     },
     {
       "number": 21,
       "part": 3,
-      "promptContext": "Katy thinks it might be inappropriate for academic essays to A. give both sides of an argument. B. express personal opinions. C. present a range of views.",
+      "promptContext": "Katy thinks it might be inappropriate for academic essays to",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -451,12 +555,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "give both sides of an argument."
+        },
+        {
+          "key": "B",
+          "text": "express personal opinions."
+        },
+        {
+          "key": "C",
+          "text": "present a range of views."
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "The tutor says that in one type of conclusion students should A. withhold their own views. B. avoid too much repetition. C. refer to the title.",
+      "promptContext": "The tutor says that in one type of conclusion students should",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -468,12 +586,26 @@
       "evidenceEndTime": 1098.42,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "withhold their own views."
+        },
+        {
+          "key": "B",
+          "text": "avoid too much repetition."
+        },
+        {
+          "key": "C",
+          "text": "refer to the title."
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "What does the tutor say about the bibliography? A. There is a standard format for references. B. Presentation is not assessed at this level. C. Book titles should be underlined.",
+      "promptContext": "What does the tutor say about the bibliography?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -488,12 +620,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "There is a standard format for references."
+        },
+        {
+          "key": "B",
+          "text": "Presentation is not assessed at this level."
+        },
+        {
+          "key": "C",
+          "text": "Book titles should be underlined."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "What advice does the tutor give about quotations? A. They provide evidence of how widely a student has read. B. They are useful for defining difficult concepts. C. There is a tendency to use too few of them.",
+      "promptContext": "What advice does the tutor give about quotations?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -508,12 +654,26 @@
         "người nói tự đính chính thông tin vừa nêu ('actually')",
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "They provide evidence of how widely a student has read."
+        },
+        {
+          "key": "B",
+          "text": "They are useful for defining difficult concepts."
+        },
+        {
+          "key": "C",
+          "text": "There is a tendency to use too few of them."
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "John suggests that the writer of the first essay should have A done more thorough research. B analysed his data more carefully. C given his views more clearly. Questions 26–30 Complete the sentences below. Write ONE WORD ONLY for each answer. • The tutor says that the most basic requirement of an essay is relevance. Katy thinks the writer separates different",
+      "promptContext": "John suggests that the writer of the first essay should have",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -525,12 +685,26 @@
       "evidenceEndTime": 1252.06,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "done more thorough research."
+        },
+        {
+          "key": "B",
+          "text": "analysed his data more carefully."
+        },
+        {
+          "key": "C",
+          "text": "given his views more clearly."
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "Katy thinks the writer separates different",
+      "promptContext": "Katy thinks the writer separates different {{blank:26}} very clearly.",
       "answerRaw": "subtopics",
       "canonicalAnswer": "subtopics",
       "acceptedAnswers": [
@@ -547,7 +721,7 @@
     {
       "number": 27,
       "part": 3,
-      "promptContext": "very clearly. John feels that bullet points and sub-headings might be more appropriate for",
+      "promptContext": "John feels that bullet points and sub-headings might be more appropriate for {{blank:27}} than for essays.",
       "answerRaw": "reports",
       "canonicalAnswer": "reports",
       "acceptedAnswers": [
@@ -566,7 +740,7 @@
     {
       "number": 28,
       "part": 3,
-      "promptContext": "than for essays. • The tutor thinks that paragraphs should be used to structure essays. John particularly admires the way the writer backs up his statements with",
+      "promptContext": "John particularly admires the way the writer backs up his statements with {{blank:28}}",
       "answerRaw": "examples",
       "canonicalAnswer": "examples",
       "acceptedAnswers": [
@@ -585,7 +759,7 @@
     {
       "number": 29,
       "part": 3,
-      "promptContext": ". Katy likes the writer’s use of language to link his",
+      "promptContext": "Katy likes the writer’s use of language to link his {{blank:29}}",
       "answerRaw": "ideas",
       "canonicalAnswer": "ideas",
       "acceptedAnswers": [
@@ -602,7 +776,7 @@
     {
       "number": 30,
       "part": 3,
-      "promptContext": ". The tutor thinks that wide",
+      "promptContext": "The tutor thinks that wide {{blank:30}} helps to develop writing ability",
       "answerRaw": "reading",
       "canonicalAnswer": "reading",
       "acceptedAnswers": [
@@ -621,7 +795,7 @@
     {
       "number": 31,
       "part": 4,
-      "promptContext": "• Early invented languages were used for religious purposes or for",
+      "promptContext": "Early invented languages were used for religious purposes or for {{blank:31}}",
       "answerRaw": "trade",
       "canonicalAnswer": "trade",
       "acceptedAnswers": [
@@ -638,7 +812,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "• We know of about 900 invented languages, but many have been lost. William Spencer • He wrote books about",
+      "promptContext": "He wrote books about {{blank:32}} so he needed an accurate language.",
       "answerRaw": "science",
       "canonicalAnswer": "science",
       "acceptedAnswers": [
@@ -657,7 +831,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "so he needed an accurate language. • At first he tried to base his language on",
+      "promptContext": "At first he tried to base his language on {{blank:33}}",
       "answerRaw": "numbers",
       "canonicalAnswer": "numbers",
       "acceptedAnswers": [
@@ -677,7 +851,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "• Later he classified words in the same way that was used for plants. Ludwig Zamenhof • He mixed together existing European languages. • He wrote",
+      "promptContext": "He wrote {{blank:34}} to help develop his new language.",
       "answerRaw": "songs",
       "canonicalAnswer": "songs",
       "acceptedAnswers": [
@@ -694,7 +868,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "to help develop his new language. • He wanted simplicity, e.g. one prefix to make words",
+      "promptContext": "He wanted simplicity, e.g. one prefix to make words {{blank:35}}",
       "answerRaw": "negative",
       "canonicalAnswer": "negative",
       "acceptedAnswers": [
@@ -711,7 +885,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "• He sent a",
+      "promptContext": "He sent a {{blank:36}} to his friends to publicise his language.",
       "answerRaw": "letter",
       "canonicalAnswer": "letter",
       "acceptedAnswers": [
@@ -728,7 +902,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "to his friends to publicise his language. • He created the most successful invented language. Bruce Goldie • Each word of his language was based on a",
+      "promptContext": "Each word of his language was based on a {{blank:37}}",
       "answerRaw": "picture",
       "canonicalAnswer": "picture",
       "acceptedAnswers": [
@@ -745,7 +919,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "• His language did not get academic recognition at first. • Children in a Canadian",
+      "promptContext": "Children in a Canadian {{blank:38}} learned to read using his language.",
       "answerRaw": "hospital",
       "canonicalAnswer": "hospital",
       "acceptedAnswers": [
@@ -762,7 +936,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "learned to read using his language. Conclusion: why have invented languages failed? • They cannot express",
+      "promptContext": "They cannot express {{blank:39}}",
       "answerRaw": "emotions",
       "canonicalAnswer": "emotions",
       "acceptedAnswers": [
@@ -779,7 +953,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "• English became the global language. • They are now invented by",
+      "promptContext": "They are now invented by {{blank:40}}, just for entertainment.",
       "answerRaw": "writers",
       "canonicalAnswer": "writers",
       "acceptedAnswers": [

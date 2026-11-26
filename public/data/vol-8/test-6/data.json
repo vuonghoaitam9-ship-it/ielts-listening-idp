@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "..for packing are provided free of charge The company will transport: • some electrical goods, e.g. a computer • a",
+      "promptContext": "a {{blank:1}}",
       "answerRaw": "bicycle",
       "canonicalAnswer": "bicycle",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ". The company will not transport: • any single item weighing more than",
+      "promptContext": "any single item weighing more than {{blank:2}} kg",
       "answerRaw": "40",
       "canonicalAnswer": "40",
       "acceptedAnswers": [
@@ -97,7 +97,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": ". kg • any",
+      "promptContext": "any {{blank:3}} (for security reasons) or foods",
       "answerRaw": "liquids",
       "canonicalAnswer": "liquids",
       "acceptedAnswers": [
@@ -117,7 +117,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": ".. (for security reasons) or foods • anything in containers made of",
+      "promptContext": "anything in containers made of {{blank:4}}",
       "answerRaw": "plastic",
       "canonicalAnswer": "plastic",
       "acceptedAnswers": [
@@ -137,7 +137,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": ". Additional services: • special deliveries - delivery on",
+      "promptContext": "delivery on {{blank:5}}",
       "answerRaw": "Saturdays",
       "canonicalAnswer": "Saturdays",
       "acceptedAnswers": [
@@ -154,7 +154,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "- express delivery • organisation of",
+      "promptContext": "organisation of {{blank:6}}",
       "answerRaw": "storage",
       "canonicalAnswer": "storage",
       "acceptedAnswers": [
@@ -171,7 +171,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": ".. Example of price: • for fifteen boxes and one violin sent from the UK to",
+      "promptContext": "for fifteen boxes and one violin sent from the UK to {{blank:7}}, the cost would be about £ {{blank:8}}",
       "answerRaw": "Sweden",
       "canonicalAnswer": "Sweden",
       "acceptedAnswers": [
@@ -188,7 +188,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": ". , the cost would be about £",
+      "promptContext": "for fifteen boxes and one violin sent from the UK to {{blank:7}}, the cost would be about £ {{blank:8}}",
       "answerRaw": "575",
       "canonicalAnswer": "575",
       "acceptedAnswers": [
@@ -205,7 +205,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": ". Payment options: • on the phone by debit or credit card, or in cash to the",
+      "promptContext": "on the phone by debit or credit card, or in cash to the {{blank:9}}",
       "answerRaw": "driver",
       "canonicalAnswer": "driver",
       "acceptedAnswers": [
@@ -222,7 +222,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "Documentation needed: • photocopy of",
+      "promptContext": "photocopy of {{blank:10}}",
       "answerRaw": "passport",
       "canonicalAnswer": "passport",
       "acceptedAnswers": [
@@ -253,12 +253,46 @@
       "evidenceEndTime": 556.3,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án C have individual cooking lessons. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án C have individual cooking lessons. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cook with one particular ingredient"
+        },
+        {
+          "key": "B",
+          "text": "learn about food history"
+        },
+        {
+          "key": "C",
+          "text": "have individual cooking lessons"
+        },
+        {
+          "key": "D",
+          "text": "make meals for college students"
+        },
+        {
+          "key": "E",
+          "text": "prepare healthy meals"
+        },
+        {
+          "key": "F",
+          "text": "go on a guided walking tour"
+        },
+        {
+          "key": "G",
+          "text": "make time-saving meals"
+        },
+        {
+          "key": "H",
+          "text": "go on an afternoon bus tour"
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": ".. Italy",
+      "promptContext": "Italy",
       "answerRaw": "H go on an afternoon bus tour",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -272,12 +306,46 @@
       "evidenceEndTime": 600.2,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án H go on an afternoon bus tour. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án H go on an afternoon bus tour. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cook with one particular ingredient"
+        },
+        {
+          "key": "B",
+          "text": "learn about food history"
+        },
+        {
+          "key": "C",
+          "text": "have individual cooking lessons"
+        },
+        {
+          "key": "D",
+          "text": "make meals for college students"
+        },
+        {
+          "key": "E",
+          "text": "prepare healthy meals"
+        },
+        {
+          "key": "F",
+          "text": "go on a guided walking tour"
+        },
+        {
+          "key": "G",
+          "text": "make time-saving meals"
+        },
+        {
+          "key": "H",
+          "text": "go on an afternoon bus tour"
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": ". New Orleans",
+      "promptContext": "New Orleans",
       "answerRaw": "F go on a guided walking tour",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -291,12 +359,46 @@
       "evidenceEndTime": 617.54,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án F go on a guided walking tour. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án F go on a guided walking tour. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cook with one particular ingredient"
+        },
+        {
+          "key": "B",
+          "text": "learn about food history"
+        },
+        {
+          "key": "C",
+          "text": "have individual cooking lessons"
+        },
+        {
+          "key": "D",
+          "text": "make meals for college students"
+        },
+        {
+          "key": "E",
+          "text": "prepare healthy meals"
+        },
+        {
+          "key": "F",
+          "text": "go on a guided walking tour"
+        },
+        {
+          "key": "G",
+          "text": "make time-saving meals"
+        },
+        {
+          "key": "H",
+          "text": "go on an afternoon bus tour"
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": ".. Budget Feasts",
+      "promptContext": "Budget Feasts",
       "answerRaw": "G make time-saving meals",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -312,12 +414,46 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án G make time-saving meals. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án G make time-saving meals. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cook with one particular ingredient"
+        },
+        {
+          "key": "B",
+          "text": "learn about food history"
+        },
+        {
+          "key": "C",
+          "text": "have individual cooking lessons"
+        },
+        {
+          "key": "D",
+          "text": "make meals for college students"
+        },
+        {
+          "key": "E",
+          "text": "prepare healthy meals"
+        },
+        {
+          "key": "F",
+          "text": "go on a guided walking tour"
+        },
+        {
+          "key": "G",
+          "text": "make time-saving meals"
+        },
+        {
+          "key": "H",
+          "text": "go on an afternoon bus tour"
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": ".. Cooking for Two",
+      "promptContext": "Cooking for Two",
       "answerRaw": "E prepare healthy meals",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -331,12 +467,46 @@
       "evidenceEndTime": 670.16,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E prepare healthy meals. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E prepare healthy meals. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cook with one particular ingredient"
+        },
+        {
+          "key": "B",
+          "text": "learn about food history"
+        },
+        {
+          "key": "C",
+          "text": "have individual cooking lessons"
+        },
+        {
+          "key": "D",
+          "text": "make meals for college students"
+        },
+        {
+          "key": "E",
+          "text": "prepare healthy meals"
+        },
+        {
+          "key": "F",
+          "text": "go on a guided walking tour"
+        },
+        {
+          "key": "G",
+          "text": "make time-saving meals"
+        },
+        {
+          "key": "H",
+          "text": "go on an afternoon bus tour"
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "……….. A cook with one particular ingredient B learn about food history C have individual cooking lessons D make meals for college students E prepare healthy meals F go on a guided walking tour G make time-saving meals H go on an afternoon bus tour A B C D E F G H I J",
+      "promptContext": "Variations on a Theme",
       "answerRaw": "A cook with one particular ingredient",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -350,7 +520,41 @@
       "evidenceEndTime": 681.64,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án A cook with one particular ingredient. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án A cook with one particular ingredient. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cook with one particular ingredient"
+        },
+        {
+          "key": "B",
+          "text": "learn about food history"
+        },
+        {
+          "key": "C",
+          "text": "have individual cooking lessons"
+        },
+        {
+          "key": "D",
+          "text": "make meals for college students"
+        },
+        {
+          "key": "E",
+          "text": "prepare healthy meals"
+        },
+        {
+          "key": "F",
+          "text": "go on a guided walking tour"
+        },
+        {
+          "key": "G",
+          "text": "make time-saving meals"
+        },
+        {
+          "key": "H",
+          "text": "go on an afternoon bus tour"
+        }
+      ]
     },
     {
       "number": 17,
@@ -430,7 +634,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "Adele read the article about Bitublocks because A it'll help her write an assignment. B she has to present it at a seminar. C it's on her dissertation topic.",
+      "promptContext": "Adele read the article about Bitublocks because",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -445,12 +649,26 @@
         "người nói tự đính chính thông tin vừa nêu ('actually')",
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "it'll help her write an assignment."
+        },
+        {
+          "key": "B",
+          "text": "she has to present it at a seminar."
+        },
+        {
+          "key": "C",
+          "text": "it's on her dissertation topic."
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "What does Adele think is the most innovative aspect of the manufacture of Bitublocks? A It uses entirely recycled materials. B It does not involve a chemical reaction. C It is such a simple process.",
+      "promptContext": "What does Adele think is the most innovative aspect of the manufacture of Bitublocks?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -469,12 +687,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'process' ↔ 'method'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'process' ↔ 'method'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It uses entirely recycled materials."
+        },
+        {
+          "key": "B",
+          "text": "It does not involve a chemical reaction."
+        },
+        {
+          "key": "C",
+          "text": "It is such a simple process."
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Ray was surprised to read that the Bitublocks are so A stable. B light. C absorbent.",
+      "promptContext": "Ray was surprised to read that the Bitublocks are so",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -489,12 +721,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "stable."
+        },
+        {
+          "key": "B",
+          "text": "light."
+        },
+        {
+          "key": "C",
+          "text": "absorbent."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "What do both Adele and Ray say about the manufacture of Bitublocks? A Existing methods are used. B Cheap materials are used C Only local materials are used.",
+      "promptContext": "What do both Adele and Ray say about the manufacture of Bitublocks?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -508,12 +754,26 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Existing methods are used."
+        },
+        {
+          "key": "B",
+          "text": "Cheap materials are used"
+        },
+        {
+          "key": "C",
+          "text": "Only local materials are used."
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "What insight did Ray get from reading about the hospital building? A how quickly UK building projects are growing B how poor UK construction materials are C how much material the UK construction industry uses",
+      "promptContext": "What insight did Ray get from reading about the hospital building?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -525,12 +785,26 @@
       "evidenceEndTime": 1036.82,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how quickly UK building projects are growing"
+        },
+        {
+          "key": "B",
+          "text": "how poor UK construction materials are"
+        },
+        {
+          "key": "C",
+          "text": "how much material the UK construction industry uses"
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "Adele thinks the research into the hospital was included in the article to show A how much recycled material is currently used. B ways to improve the levels of recycling. C problems caused when using recycled materials Questions 27–28 Choose TWO correct answers.",
+      "promptContext": "Adele thinks the research into the hospital was included in the article to show",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -544,12 +818,26 @@
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how much recycled material is currently used."
+        },
+        {
+          "key": "B",
+          "text": "ways to improve the levels of recycling."
+        },
+        {
+          "key": "C",
+          "text": "problems caused when using recycled materials"
+        }
+      ]
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "Which TWO things make Veggieblocks different from Bitublocks? AThey are cheaper to produce. B They have a more acceptable colour. C They are simpler to manufacture. D They have problems with their smell E They can be more easily covered. Questions 29–30 Choose TWO correct answers.",
+      "promptContext": "Which TWO things make Veggieblocks different from Bitublocks? AThey are cheaper to produce. B They have a more acceptable colour. C They are simpler to manufacture. D They have problems with their smell E They can be more easily covered.",
       "answerRaw": "B, D",
       "canonicalAnswer": "B, D",
       "acceptedAnswers": [
@@ -579,7 +867,7 @@
     {
       "number": 28,
       "part": 3,
-      "promptContext": "Which TWO things make Veggieblocks different from Bitublocks? AThey are cheaper to produce. B They have a more acceptable colour. C They are simpler to manufacture. D They have problems with their smell E They can be more easily covered. Questions 29–30 Choose TWO correct answers.",
+      "promptContext": "Which TWO things make Veggieblocks different from Bitublocks? AThey are cheaper to produce. B They have a more acceptable colour. C They are simpler to manufacture. D They have problems with their smell E They can be more easily covered.",
       "answerRaw": "B, D",
       "canonicalAnswer": "B, D",
       "acceptedAnswers": [
@@ -609,7 +897,7 @@
     {
       "number": 29,
       "part": 3,
-      "promptContext": "Which TWO things about the future of the construction industry do Adele and Ray agree on? A Architects will be willing to use new materials. B Bitublocks will have a major impact. C The industry will change very fast. D Veggieblocks will become very popular. E Financial incentives will be an important influence",
+      "promptContext": "Which TWO things about the future of the construction industry do Adele and Ray agree on?",
       "answerRaw": "A, E",
       "canonicalAnswer": "A, E",
       "acceptedAnswers": [
@@ -632,12 +920,34 @@
       "evidenceEndTime": 1151.86,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Architects will be willing to use new materials."
+        },
+        {
+          "key": "B",
+          "text": "Bitublocks will have a major impact."
+        },
+        {
+          "key": "C",
+          "text": "The industry will change very fast."
+        },
+        {
+          "key": "D",
+          "text": "Veggieblocks will become very popular."
+        },
+        {
+          "key": "E",
+          "text": "Financial incentives will be an important influence"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "Which TWO things about the future of the construction industry do Adele and Ray agree on? A Architects will be willing to use new materials. B Bitublocks will have a major impact. C The industry will change very fast. D Veggieblocks will become very popular. E Financial incentives will be an important influence",
+      "promptContext": "Which TWO things about the future of the construction industry do Adele and Ray agree on?",
       "answerRaw": "A, E",
       "canonicalAnswer": "A, E",
       "acceptedAnswers": [
@@ -660,12 +970,34 @@
       "evidenceEndTime": 1151.86,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Architects will be willing to use new materials."
+        },
+        {
+          "key": "B",
+          "text": "Bitublocks will have a major impact."
+        },
+        {
+          "key": "C",
+          "text": "The industry will change very fast."
+        },
+        {
+          "key": "D",
+          "text": "Veggieblocks will become very popular."
+        },
+        {
+          "key": "E",
+          "text": "Financial incentives will be an important influence"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "• 100 BC: invaded by Romans - trade in grain, olives and",
+      "promptContext": "100 BC: invaded by Romans - trade in grain, olives and {{blank:31}}",
       "answerRaw": "pottery",
       "canonicalAnswer": "pottery",
       "acceptedAnswers": [
@@ -682,7 +1014,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "• 518 AD: city abandoned following earthquake Rediscovery of site • 1706: French explorer believed the site was the remains of a",
+      "promptContext": "1706: French explorer believed the site was the remains of a {{blank:32}}",
       "answerRaw": "castle",
       "canonicalAnswer": "castle",
       "acceptedAnswers": [
@@ -701,7 +1033,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "• 19th century: a map was made of the site • 1982: a complete",
+      "promptContext": "1982: a complete {{blank:33}} was made",
       "answerRaw": "survey",
       "canonicalAnswer": "survey",
       "acceptedAnswers": [
@@ -721,7 +1053,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": ".. was made Excavation • the",
+      "promptContext": "the {{blank:34}} was the first place to be excavated",
       "answerRaw": "market",
       "canonicalAnswer": "market",
       "acceptedAnswers": [
@@ -741,7 +1073,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": ".. was the first place to be excavated • a number of",
+      "promptContext": "a number of {{blank:35}} were discovered",
       "answerRaw": "silver coins",
       "canonicalAnswer": "silver coins",
       "acceptedAnswers": [
@@ -758,7 +1090,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ".. were discovered • evidence of a",
+      "promptContext": "evidence of a {{blank:36}} industry was found",
       "answerRaw": "textile",
       "canonicalAnswer": "textile",
       "acceptedAnswers": [
@@ -775,7 +1107,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "industry was found Questions 37–40 Complete the table below. Write ONE WORD ONLY for each answer. Important buildings Buildings Where Notes Doric House Eastern area inhabitants came here to collect",
+      "promptContext": "inhabitants came here to collect {{blank:37}}",
       "answerRaw": "water",
       "canonicalAnswer": "water",
       "acceptedAnswers": [
@@ -792,7 +1124,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": ".. Theatre next to a stone",
+      "promptContext": "next to a stone {{blank:38}} capacity of 5,000",
       "answerRaw": "bridge",
       "canonicalAnswer": "bridge",
       "acceptedAnswers": [
@@ -809,7 +1141,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": ". capacity of 5,000 Stairway south-western area has sculptures of",
+      "promptContext": "has sculptures of {{blank:39}}",
       "answerRaw": "lions",
       "canonicalAnswer": "lions",
       "acceptedAnswers": [
@@ -826,7 +1158,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": ".. Roman Baths central area a statue of a Roman",
+      "promptContext": "a statue of a Roman {{blank:40}} was found",
       "answerRaw": "emperor",
       "canonicalAnswer": "emperor",
       "acceptedAnswers": [

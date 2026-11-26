@@ -1340,7 +1340,7 @@
           "type": "gap_fill",
           "instruction": "Write NO MORE THAN TWO WORDS for each answer.",
           "wordLimit": "NO MORE THAN TWO WORDS",
-          "bodyText": "The reason why grapefruit tastes bitter is because of a substance called {{blank:35}}\ncontained in it. However, bitterness plays a significant role for plants. It gives a signal\nthat certain plant is {{blank:36}} ….. For human beings, different person carries various\ngenetic abilities of tasting bitterness. According to a scientist at the University of Utah,\n{{blank:37}} … have exceptionally plenty of {{blank:38}} …. which allows them to perceive\nbitter compounds.",
+          "bodyText": "The reason why grapefruit tastes bitter is because of a substance called {{blank:35}}\ncontained in it. However, bitterness plays a significant role for plants. It gives a signal\nthat certain plant is {{blank:36}} For human beings, different person carries various\ngenetic abilities of tasting bitterness. According to a scientist at the University of Utah,\n{{blank:37}} have exceptionally plenty of {{blank:38}} which allows them to perceive\nbitter compounds.",
           "questions": [
             {
               "number": 35,
@@ -1357,7 +1357,7 @@
             },
             {
               "number": 36,
-              "prompt": "It gives a signal\nthat certain plant is {{blank:36}} …..",
+              "prompt": "It gives a signal\nthat certain plant is {{blank:36}} For human beings, different person carries various\ngenetic abilities of tasting bitterness.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "poisonous"
@@ -1370,7 +1370,7 @@
             },
             {
               "number": 37,
-              "prompt": "According to a scientist at the University of Utah,\n{{blank:37}} … have exceptionally plenty of {{blank:38}} ….",
+              "prompt": "According to a scientist at the University of Utah,\n{{blank:37}} have exceptionally plenty of {{blank:38}} which allows them to perceive\nbitter compounds.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "supertasters"
@@ -1383,7 +1383,7 @@
             },
             {
               "number": 38,
-              "prompt": "According to a scientist at the University of Utah,\n{{blank:37}} … have exceptionally plenty of {{blank:38}} ….",
+              "prompt": "According to a scientist at the University of Utah,\n{{blank:37}} have exceptionally plenty of {{blank:38}} which allows them to perceive\nbitter compounds.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "taste buds"

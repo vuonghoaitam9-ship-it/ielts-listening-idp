@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Date of birth:",
+      "promptContext": "Date of birth: {{blank:1}}",
       "answerRaw": "13 March,13 March 1998",
       "canonicalAnswer": "13 March",
       "acceptedAnswers": [
@@ -83,7 +83,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "Contact tel. no.:",
+      "promptContext": "Contact tel. no.: {{blank:2}}",
       "answerRaw": "0903775115",
       "canonicalAnswer": "0903775115",
       "acceptedAnswers": [
@@ -100,7 +100,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "Notes wants to travel in",
+      "promptContext": "wants to travel in {{blank:3}} Europe",
       "answerRaw": "northern",
       "canonicalAnswer": "northern",
       "acceptedAnswers": [
@@ -117,7 +117,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "Europe hopes to travel by",
+      "promptContext": "hopes to travel by {{blank:4}}",
       "answerRaw": "train",
       "canonicalAnswer": "train",
       "acceptedAnswers": [
@@ -136,7 +136,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": ". interested in working in a",
+      "promptContext": "interested in working in a {{blank:5}}",
       "answerRaw": "hotel",
       "canonicalAnswer": "hotel",
       "acceptedAnswers": [
@@ -155,7 +155,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": ". Address: 21 Waverley Road, Radstone, RD4 W",
+      "promptContext": "recommended to consider an alternative e.g. {{blank:6}} work",
       "answerRaw": "farm",
       "canonicalAnswer": "farm",
       "acceptedAnswers": [
@@ -172,7 +172,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": ".. work advised to buy a European",
+      "promptContext": "advised to buy a European {{blank:7}} for travelling",
       "answerRaw": "pass",
       "canonicalAnswer": "pass",
       "acceptedAnswers": [
@@ -189,7 +189,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "..for travelling given a",
+      "promptContext": "given a {{blank:8}} with accommodation details",
       "answerRaw": "booklet",
       "canonicalAnswer": "booklet",
       "acceptedAnswers": [
@@ -208,7 +208,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": ".. with accommodation details agreed to take out",
+      "promptContext": "agreed to take out {{blank:9}} from the Agency",
       "answerRaw": "insurance",
       "canonicalAnswer": "insurance",
       "acceptedAnswers": [
@@ -225,7 +225,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "from the Agency told to use an",
+      "promptContext": "told to use an {{blank:10}} for contacting people",
       "answerRaw": "internet cafe",
       "canonicalAnswer": "internet cafe",
       "acceptedAnswers": [
@@ -242,7 +242,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "H seating area",
+      "promptContext": "seating area",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -262,7 +262,7 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "seating area cushions",
+      "promptContext": "cushions",
       "answerRaw": "F",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -279,7 +279,7 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": "cushions computer bench",
+      "promptContext": "computer bench",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -296,7 +296,7 @@
     {
       "number": 14,
       "part": 2,
-      "promptContext": "computer bench café bar",
+      "promptContext": "café bar",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -313,7 +313,7 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "café bar newspapers",
+      "promptContext": "newspapers",
       "answerRaw": "H",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -330,7 +330,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "bookshop aims to A sell as many books as possible B create an energetic environment C attract people to remain in the shop",
+      "promptContext": "bookshop aims to",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -345,12 +345,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sell as many books as possible"
+        },
+        {
+          "key": "B",
+          "text": "create an energetic environment"
+        },
+        {
+          "key": "C",
+          "text": "attract people to remain in the shop"
+        }
+      ]
     },
     {
       "number": 17,
       "part": 2,
-      "promptContext": "children’s books are located A ground floor B highest level C midway up",
+      "promptContext": "children’s books are located",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -362,12 +376,26 @@
       "evidenceEndTime": 650.48,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "ground floor"
+        },
+        {
+          "key": "B",
+          "text": "highest level"
+        },
+        {
+          "key": "C",
+          "text": "midway up"
+        }
+      ]
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": "parents to relax A train floor-staff to take care children B free nursery C professional child care",
+      "promptContext": "parents to relax",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -382,12 +410,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "train floor-staff to take care children"
+        },
+        {
+          "key": "B",
+          "text": "free nursery"
+        },
+        {
+          "key": "C",
+          "text": "professional child care"
+        }
+      ]
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": "regular book reading A to sell more books B author gathering C bring more money by charing",
+      "promptContext": "regular book reading",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -407,12 +449,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'money' ↔ 'charge'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'money' ↔ 'charge'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to sell more books"
+        },
+        {
+          "key": "B",
+          "text": "author gathering"
+        },
+        {
+          "key": "C",
+          "text": "bring more money by charing"
+        }
+      ]
     },
     {
       "number": 20,
       "part": 2,
-      "promptContext": "poetry workshop A encourage their works to be published B to become professional poet C to read them in public",
+      "promptContext": "poetry workshop",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -424,12 +480,26 @@
       "evidenceEndTime": 730.68,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "encourage their works to be published"
+        },
+        {
+          "key": "B",
+          "text": "to become professional poet"
+        },
+        {
+          "key": "C",
+          "text": "to read them in public"
+        }
+      ]
     },
     {
       "number": 21,
       "part": 3,
-      "promptContext": "Ron suggests that in his presentation he should have A given credit to the originators of the JIT idea. B discussed why the Japanese adopted the JIT idea. C explained how supermarkets used the JIT idea.",
+      "promptContext": "Ron suggests that in his presentation he should have",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -441,12 +511,26 @@
       "evidenceEndTime": 851.36,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "given credit to the originators of the JIT idea."
+        },
+        {
+          "key": "B",
+          "text": "discussed why the Japanese adopted the JIT idea."
+        },
+        {
+          "key": "C",
+          "text": "explained how supermarkets used the JIT idea."
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "The tutor says that in his presentation Ron omitted A a description of classic business theory. B an introductory definition of JIT. C a statement of the aims of JIT.",
+      "promptContext": "The tutor says that in his presentation Ron omitted",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -458,12 +542,26 @@
       "evidenceEndTime": 897.46,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a description of classic business theory."
+        },
+        {
+          "key": "B",
+          "text": "an introductory definition of JIT."
+        },
+        {
+          "key": "C",
+          "text": "a statement of the aims of JIT."
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Ron says that he found his information on standardising parts from A a website. B journal articles C a textbook.",
+      "promptContext": "Ron says that he found his information on standardising parts from",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -482,12 +580,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'information' ↔ 'data'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'information' ↔ 'data'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a website."
+        },
+        {
+          "key": "B",
+          "text": "journal articles"
+        },
+        {
+          "key": "C",
+          "text": "a textbook."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "The tutor suggests that in the service sector, JIT is A difficult to apply because of the absence of countable things. B regarded by most members of staff as unfashionable C unlikely to be accepted by important clients Questions 25–30 What criticism is made of each of the following technical aspect of Ron's presentation? Choose SIX correct answers, A-H, next to questions 25-30. Criticisms Technical aspects of presentation speed of delivery",
+      "promptContext": "The tutor suggests that in the service sector, JIT is",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -499,7 +611,21 @@
       "evidenceEndTime": 971.72,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "difficult to apply because of the absence of countable things."
+        },
+        {
+          "key": "B",
+          "text": "regarded by most members of staff as unfashionable"
+        },
+        {
+          "key": "C",
+          "text": "unlikely to be accepted by important clients"
+        }
+      ]
     },
     {
       "number": 25,
@@ -521,12 +647,46 @@
         "người nói tự đính chính thông tin vừa nêu ('actually')",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án B too irregular. Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án đúng là phương án B too irregular. Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "too informal"
+        },
+        {
+          "key": "B",
+          "text": "too irregular"
+        },
+        {
+          "key": "C",
+          "text": "too predictable"
+        },
+        {
+          "key": "D",
+          "text": "too sudden"
+        },
+        {
+          "key": "E",
+          "text": "too technical"
+        },
+        {
+          "key": "F",
+          "text": "too unenthusiastic"
+        },
+        {
+          "key": "G",
+          "text": "too loosely related"
+        },
+        {
+          "key": "H",
+          "text": "too vague"
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": ". purpose",
+      "promptContext": "purpose",
       "answerRaw": "H too vague",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -542,12 +702,46 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án H too vague. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án H too vague. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too informal"
+        },
+        {
+          "key": "B",
+          "text": "too irregular"
+        },
+        {
+          "key": "C",
+          "text": "too predictable"
+        },
+        {
+          "key": "D",
+          "text": "too sudden"
+        },
+        {
+          "key": "E",
+          "text": "too technical"
+        },
+        {
+          "key": "F",
+          "text": "too unenthusiastic"
+        },
+        {
+          "key": "G",
+          "text": "too loosely related"
+        },
+        {
+          "key": "H",
+          "text": "too vague"
+        }
+      ]
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": ". transitions",
+      "promptContext": "transitions",
       "answerRaw": "D too sudden",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -561,12 +755,46 @@
       "evidenceEndTime": 1070.62,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D too sudden. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án D too sudden. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too informal"
+        },
+        {
+          "key": "B",
+          "text": "too irregular"
+        },
+        {
+          "key": "C",
+          "text": "too predictable"
+        },
+        {
+          "key": "D",
+          "text": "too sudden"
+        },
+        {
+          "key": "E",
+          "text": "too technical"
+        },
+        {
+          "key": "F",
+          "text": "too unenthusiastic"
+        },
+        {
+          "key": "G",
+          "text": "too loosely related"
+        },
+        {
+          "key": "H",
+          "text": "too vague"
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": ". visuals",
+      "promptContext": "visuals",
       "answerRaw": "G too loosely related",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -582,7 +810,41 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án G too loosely related. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án G too loosely related. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too informal"
+        },
+        {
+          "key": "B",
+          "text": "too irregular"
+        },
+        {
+          "key": "C",
+          "text": "too predictable"
+        },
+        {
+          "key": "D",
+          "text": "too sudden"
+        },
+        {
+          "key": "E",
+          "text": "too technical"
+        },
+        {
+          "key": "F",
+          "text": "too unenthusiastic"
+        },
+        {
+          "key": "G",
+          "text": "too loosely related"
+        },
+        {
+          "key": "H",
+          "text": "too vague"
+        }
+      ]
     },
     {
       "number": 29,
@@ -601,12 +863,46 @@
       "evidenceEndTime": 1078.66,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E too technical. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E too technical. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too informal"
+        },
+        {
+          "key": "B",
+          "text": "too irregular"
+        },
+        {
+          "key": "C",
+          "text": "too predictable"
+        },
+        {
+          "key": "D",
+          "text": "too sudden"
+        },
+        {
+          "key": "E",
+          "text": "too technical"
+        },
+        {
+          "key": "F",
+          "text": "too unenthusiastic"
+        },
+        {
+          "key": "G",
+          "text": "too loosely related"
+        },
+        {
+          "key": "H",
+          "text": "too vague"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "………… Criticisms A too informal B too irregular C too predictable D too sudden E too technical F too unenthusiastic G too loosely related H too vague",
+      "promptContext": "body language",
       "answerRaw": "F too unenthusiastic",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -620,12 +916,46 @@
       "evidenceEndTime": 1080.82,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án F too unenthusiastic. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án F too unenthusiastic. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too informal"
+        },
+        {
+          "key": "B",
+          "text": "too irregular"
+        },
+        {
+          "key": "C",
+          "text": "too predictable"
+        },
+        {
+          "key": "D",
+          "text": "too sudden"
+        },
+        {
+          "key": "E",
+          "text": "too technical"
+        },
+        {
+          "key": "F",
+          "text": "too unenthusiastic"
+        },
+        {
+          "key": "G",
+          "text": "too loosely related"
+        },
+        {
+          "key": "H",
+          "text": "too vague"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "Teaching applied in class",
+      "promptContext": "Teaching applied in class {{blank:31}} method of teaching",
       "answerRaw": "traditional",
       "canonicalAnswer": "traditional",
       "acceptedAnswers": [
@@ -644,7 +974,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": ". method of teaching Children have difficulty to learn the concept of",
+      "promptContext": "Children have difficulty to learn the concept of {{blank:32}} and sequence",
       "answerRaw": "time",
       "canonicalAnswer": "time",
       "acceptedAnswers": [
@@ -661,7 +991,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": ". and sequence In the class, they are taught everyday practice / problem e.g. dealing with",
+      "promptContext": "In the class, they are taught everyday practice / problem e.g. dealing with {{blank:33}}",
       "answerRaw": "money",
       "canonicalAnswer": "money",
       "acceptedAnswers": [
@@ -683,7 +1013,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": ". For children with mathematics disorder, they should develop more calculation to develop more",
+      "promptContext": "For children with mathematics disorder, they should develop more calculation to develop more {{blank:34}}",
       "answerRaw": "confidence",
       "canonicalAnswer": "confidence",
       "acceptedAnswers": [
@@ -700,7 +1030,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": ". Solution : teachers encourage them to solve the problem by",
+      "promptContext": "Solution: teachers encourage them to solve the problem by {{blank:35}}",
       "answerRaw": "guesses",
       "canonicalAnswer": "guesses",
       "acceptedAnswers": [
@@ -717,7 +1047,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ". Do exercises e.g. breathing , relaxation and",
+      "promptContext": "Do exercises e.g. breathing, relaxation and {{blank:36}}",
       "answerRaw": "walking",
       "canonicalAnswer": "walking",
       "acceptedAnswers": [
@@ -734,7 +1064,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": ". Researchers like to find a",
+      "promptContext": "Researchers like to find a {{blank:37}} with language barrier/ language learning difficulty",
       "answerRaw": "link",
       "canonicalAnswer": "link",
       "acceptedAnswers": [
@@ -751,7 +1081,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": ". with language barrier/ language learning difficulty Children are likely to have some problems with",
+      "promptContext": "Children are likely to have some problems with {{blank:38}}",
       "answerRaw": "concentration",
       "canonicalAnswer": "concentration",
       "acceptedAnswers": [
@@ -768,7 +1098,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "With this approach, children no longer needed",
+      "promptContext": "With this approach, children no longer needed {{blank:39}} training again",
       "answerRaw": "additional",
       "canonicalAnswer": "additional",
       "acceptedAnswers": [
@@ -787,7 +1117,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": ". training again The mathematics disorder is popular with",
+      "promptContext": "The mathematics disorder is popular with {{blank:40}} and families of children",
       "answerRaw": "teachers",
       "canonicalAnswer": "teachers",
       "acceptedAnswers": [

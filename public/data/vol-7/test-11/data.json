@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Might see large numbers of",
+      "promptContext": "Might see large numbers of {{blank:1}}",
       "answerRaw": "Birds",
       "canonicalAnswer": "Birds",
       "acceptedAnswers": [
@@ -85,7 +85,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "Write NO MORE THAN WORDS for each answer.",
+      "promptContext": "Type of accommodation: a {{blank:2}}",
       "answerRaw": "Tent",
       "canonicalAnswer": "Tent",
       "acceptedAnswers": [
@@ -104,7 +104,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": ". Day one Final destination:",
+      "promptContext": "Final destination: {{blank:3}}",
       "answerRaw": "Mountains",
       "canonicalAnswer": "Mountains",
       "acceptedAnswers": [
@@ -124,7 +124,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "Evening activity: chance to have a",
+      "promptContext": "Evening activity: chance to have a {{blank:4}}",
       "answerRaw": "Swim",
       "canonicalAnswer": "Swim",
       "acceptedAnswers": [
@@ -143,7 +143,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": ". Day two Explore the valley and have lunch by a",
+      "promptContext": "Explore the valley and have lunch by a {{blank:5}}",
       "answerRaw": "Waterfall",
       "canonicalAnswer": "Waterfall",
       "acceptedAnswers": [
@@ -160,7 +160,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "Afternoon trip to a",
+      "promptContext": "Afternoon trip to a {{blank:6}}",
       "answerRaw": "Cave",
       "canonicalAnswer": "Cave",
       "acceptedAnswers": [
@@ -177,7 +177,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "Tips for the holiday · unsuitable if you have",
+      "promptContext": "unsuitable if you have {{blank:7}} problems",
       "answerRaw": "Back",
       "canonicalAnswer": "Back",
       "acceptedAnswers": [
@@ -197,7 +197,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": ".problems · rocky paths so take",
+      "promptContext": "rocky paths so take {{blank:8}}",
       "answerRaw": "Walking boots",
       "canonicalAnswer": "Walking boots",
       "acceptedAnswers": [
@@ -217,7 +217,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": ". Booking details Book online to get a",
+      "promptContext": "Book online to get a {{blank:9}}",
       "answerRaw": "Discount",
       "canonicalAnswer": "Discount",
       "acceptedAnswers": [
@@ -243,7 +243,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": ".. Inform your",
+      "promptContext": "Inform your {{blank:10}} company about the type of holiday booked",
       "answerRaw": "Insurance",
       "canonicalAnswer": "Insurance",
       "acceptedAnswers": [
@@ -260,7 +260,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "The speaker says that he is happy to answer questions during his talk about A.the general operation of the camp B.the children who attend C.the job responsibilities",
+      "promptContext": "The speaker says that he is happy to answer questions during his talk about",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -274,12 +274,26 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the general operation of the camp"
+        },
+        {
+          "key": "B",
+          "text": "the children who attend"
+        },
+        {
+          "key": "C",
+          "text": "the job responsibilities"
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "Why do parents send their children to the camp again and again? A.They like the fact that it is cheaper than other camps. B.They are pleased with the wide range of facilities on offer. C.They know their children will be looked after at the camp.",
+      "promptContext": "Why do parents send their children to the camp again and again?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -291,12 +305,26 @@
       "evidenceEndTime": 524.86,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They like the fact that it is cheaper than other camps."
+        },
+        {
+          "key": "B",
+          "text": "They are pleased with the wide range of facilities on offer."
+        },
+        {
+          "key": "C",
+          "text": "They know their children will be looked after at the camp."
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "One special thing about this summer camp is A.the number of international students B.the preparation for professional sports C.the inclusion of non-sports activities",
+      "promptContext": "One special thing about this summer camp is",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -308,12 +336,26 @@
       "evidenceEndTime": 555.8,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the number of international students"
+        },
+        {
+          "key": "B",
+          "text": "the preparation for professional sports"
+        },
+        {
+          "key": "C",
+          "text": "the inclusion of non-sports activities"
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "The speaker says that this year, the camp particularly needs people A.who would like to work in the ofﬁce B.who have experience of cooking C.who young children can talk to",
+      "promptContext": "The speaker says that this year, the camp particularly needs people",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -332,12 +374,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'children' ↔ 'kids'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'children' ↔ 'kids'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "who would like to work in the ofﬁce"
+        },
+        {
+          "key": "B",
+          "text": "who have experience of cooking"
+        },
+        {
+          "key": "C",
+          "text": "who young children can talk to"
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "What should the new cameraperson have? A.artistic talents B.good camera equipment C.a qualiﬁcation in photography",
+      "promptContext": "What should the new cameraperson have?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -349,12 +405,26 @@
       "evidenceEndTime": 602.94,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "artistic talents"
+        },
+        {
+          "key": "B",
+          "text": "good camera equipment"
+        },
+        {
+          "key": "C",
+          "text": "a qualiﬁcation in photography"
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "What does the speaker say about working conditions? A.Sports coaches earn the most. B.Kitchen staff work the longest hours. C.Cleaners work in the mornings and evenings. Questions 17–18 Choose TWO correct answers.",
+      "promptContext": "What does the speaker say about working conditions?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -366,12 +436,26 @@
       "evidenceEndTime": 632.28,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sports coaches earn the most."
+        },
+        {
+          "key": "B",
+          "text": "Kitchen staff work the longest hours."
+        },
+        {
+          "key": "C",
+          "text": "Cleaners work in the mornings and evenings."
+        }
+      ]
     },
     {
       "number": 17,
       "part": 2,
-      "promptContext": "Which TWO beneﬁts are provided free of charge to camp workers? A.a sports bag B.a T-shirt C.use of sports facilities D.meals E.internet access Questions 19–20 Choose TWO correct answers.",
+      "promptContext": "Which TWO beneﬁts are provided free of charge to camp workers?",
       "answerRaw": "B, C",
       "canonicalAnswer": "B, C",
       "acceptedAnswers": [
@@ -394,12 +478,34 @@
       "evidenceEndTime": 690.66,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a sports bag"
+        },
+        {
+          "key": "B",
+          "text": "a T-shirt"
+        },
+        {
+          "key": "C",
+          "text": "use of sports facilities"
+        },
+        {
+          "key": "D",
+          "text": "meals"
+        },
+        {
+          "key": "E",
+          "text": "internet access"
+        }
+      ]
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": "Which TWO beneﬁts are provided free of charge to camp workers? A.a sports bag B.a T-shirt C.use of sports facilities D.meals E.internet access Questions 19–20 Choose TWO correct answers.",
+      "promptContext": "Which TWO beneﬁts are provided free of charge to camp workers?",
       "answerRaw": "B, C",
       "canonicalAnswer": "B, C",
       "acceptedAnswers": [
@@ -422,12 +528,34 @@
       "evidenceEndTime": 711.96,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 17–18 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a sports bag"
+        },
+        {
+          "key": "B",
+          "text": "a T-shirt"
+        },
+        {
+          "key": "C",
+          "text": "use of sports facilities"
+        },
+        {
+          "key": "D",
+          "text": "meals"
+        },
+        {
+          "key": "E",
+          "text": "internet access"
+        }
+      ]
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": "Which TWO things do applicants need in order to get a job at the camp? A.experience of working with children B.an ability to make decisions on their own C.a friendly personality D.relevant qualiﬁcations E.to be over a certain age",
+      "promptContext": "Which TWO things do applicants need in order to get a job at the camp?",
       "answerRaw": "C, E",
       "canonicalAnswer": "C, E",
       "acceptedAnswers": [
@@ -462,12 +590,34 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'children' ↔ 'kids'; 'need' ↔ 'essential'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Diễn đạt tương đương (paraphrase) giữa đề và audio: 'children' ↔ 'kids'; 'need' ↔ 'essential'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "experience of working with children"
+        },
+        {
+          "key": "B",
+          "text": "an ability to make decisions on their own"
+        },
+        {
+          "key": "C",
+          "text": "a friendly personality"
+        },
+        {
+          "key": "D",
+          "text": "relevant qualiﬁcations"
+        },
+        {
+          "key": "E",
+          "text": "to be over a certain age"
+        }
+      ]
     },
     {
       "number": 20,
       "part": 2,
-      "promptContext": "Which TWO things do applicants need in order to get a job at the camp? A.experience of working with children B.an ability to make decisions on their own C.a friendly personality D.relevant qualiﬁcations E.to be over a certain age",
+      "promptContext": "Which TWO things do applicants need in order to get a job at the camp?",
       "answerRaw": "C, E",
       "canonicalAnswer": "C, E",
       "acceptedAnswers": [
@@ -493,12 +643,34 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "từ chối hoặc báo không khả dụng ('I'm afraid')"
       ],
-      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Câu 19–20 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "experience of working with children"
+        },
+        {
+          "key": "B",
+          "text": "an ability to make decisions on their own"
+        },
+        {
+          "key": "C",
+          "text": "a friendly personality"
+        },
+        {
+          "key": "D",
+          "text": "relevant qualiﬁcations"
+        },
+        {
+          "key": "E",
+          "text": "to be over a certain age"
+        }
+      ]
     },
     {
       "number": 21,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "What source did Mike use for his definition?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -512,12 +684,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a history textbook"
+        },
+        {
+          "key": "B",
+          "text": "an academic article"
+        },
+        {
+          "key": "C",
+          "text": "a lecture handout"
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "According to Mike and his tutor, what is the most important contribution of the internet to oral history? A.the permanent preservation of recordings B.an increase in student interest C.wide access to the interviews by the public",
+      "promptContext": "According to Mike and his tutor, what is the most important contribution of the internet to oral history?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -531,12 +717,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the permanent preservation of recordings"
+        },
+        {
+          "key": "B",
+          "text": "an increase in student interest"
+        },
+        {
+          "key": "C",
+          "text": "wide access to the interviews by the public"
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Mike says he chose his particular topic because A.he is a football fan. B.his father loves football. C.his friends encouraged him.",
+      "promptContext": "Mike says he chose his particular topic because",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -551,12 +751,26 @@
         "người nói tự đính chính thông tin vừa nêu ('actually')",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "he is a football fan."
+        },
+        {
+          "key": "B",
+          "text": "his father loves football."
+        },
+        {
+          "key": "C",
+          "text": "his friends encouraged him."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "What does Mike say was his best source of information about the team? A.doing research in the local newspaper archives B.speaking to the team manager C.looking at materials in the local library",
+      "promptContext": "What does Mike say was his best source of information about the team?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -573,12 +787,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'local' ↔ 'town'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'local' ↔ 'town'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "doing research in the local newspaper archives"
+        },
+        {
+          "key": "B",
+          "text": "speaking to the team manager"
+        },
+        {
+          "key": "C",
+          "text": "looking at materials in the local library"
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "How did Mike find the former players he has arranged to interview? A.on the internet B.in the team records C.in the phone book Questions 26–30 What problems with the following aspects of the proposed interviews do the speakers identify? Choose FIVE correct letters, A-H, next to questions 26-30. A. too unreliable B. too short C. too noisy D. too long E. too formal F. too factual G. too complicated H. too vague Problems Aspects of the proposed interviews",
+      "promptContext": "How did Mike find the former players he has arranged to interview?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -598,12 +826,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'former' ↔ 'old'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'former' ↔ 'old'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "on the internet"
+        },
+        {
+          "key": "B",
+          "text": "in the team records"
+        },
+        {
+          "key": "C",
+          "text": "in the phone book"
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "Aspects of the proposed interviews .Questions drafted",
+      "promptContext": "Questions drafted",
       "answerRaw": "G too complicated",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -617,12 +859,46 @@
       "evidenceEndTime": 1046.8,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án G too complicated. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án G too complicated. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too unreliable"
+        },
+        {
+          "key": "B",
+          "text": "too short"
+        },
+        {
+          "key": "C",
+          "text": "too noisy"
+        },
+        {
+          "key": "D",
+          "text": "too long"
+        },
+        {
+          "key": "E",
+          "text": "too formal"
+        },
+        {
+          "key": "F",
+          "text": "too factual"
+        },
+        {
+          "key": "G",
+          "text": "too complicated"
+        },
+        {
+          "key": "H",
+          "text": "too vague"
+        }
+      ]
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Time allotted",
       "answerRaw": "D too long",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -638,12 +914,46 @@
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')"
       ],
-      "explanationVi": "Đáp án đúng là phương án D too long. Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án đúng là phương án D too long. Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "too unreliable"
+        },
+        {
+          "key": "B",
+          "text": "too short"
+        },
+        {
+          "key": "C",
+          "text": "too noisy"
+        },
+        {
+          "key": "D",
+          "text": "too long"
+        },
+        {
+          "key": "E",
+          "text": "too formal"
+        },
+        {
+          "key": "F",
+          "text": "too factual"
+        },
+        {
+          "key": "G",
+          "text": "too complicated"
+        },
+        {
+          "key": "H",
+          "text": "too vague"
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "27.Time allotted .Recording equipment used",
+      "promptContext": "Recording equipment used",
       "answerRaw": "A too unreliable",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -660,12 +970,46 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án A too unreliable. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án A too unreliable. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too unreliable"
+        },
+        {
+          "key": "B",
+          "text": "too short"
+        },
+        {
+          "key": "C",
+          "text": "too noisy"
+        },
+        {
+          "key": "D",
+          "text": "too long"
+        },
+        {
+          "key": "E",
+          "text": "too formal"
+        },
+        {
+          "key": "F",
+          "text": "too factual"
+        },
+        {
+          "key": "G",
+          "text": "too complicated"
+        },
+        {
+          "key": "H",
+          "text": "too vague"
+        }
+      ]
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": ".Recording equipment used .Subjects chosen",
+      "promptContext": "Subjects chosen",
       "answerRaw": "H too vague",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -681,12 +1025,46 @@
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án đúng là phương án H too vague. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+      "explanationVi": "Đáp án đúng là phương án H too vague. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too unreliable"
+        },
+        {
+          "key": "B",
+          "text": "too short"
+        },
+        {
+          "key": "C",
+          "text": "too noisy"
+        },
+        {
+          "key": "D",
+          "text": "too long"
+        },
+        {
+          "key": "E",
+          "text": "too formal"
+        },
+        {
+          "key": "F",
+          "text": "too factual"
+        },
+        {
+          "key": "G",
+          "text": "too complicated"
+        },
+        {
+          "key": "H",
+          "text": "too vague"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": ".Subjects chosen .Proposed report",
+      "promptContext": "Proposed report",
       "answerRaw": "F too factual",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -703,12 +1081,46 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án đúng là phương án F too factual. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án F too factual. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too unreliable"
+        },
+        {
+          "key": "B",
+          "text": "too short"
+        },
+        {
+          "key": "C",
+          "text": "too noisy"
+        },
+        {
+          "key": "D",
+          "text": "too long"
+        },
+        {
+          "key": "E",
+          "text": "too formal"
+        },
+        {
+          "key": "F",
+          "text": "too factual"
+        },
+        {
+          "key": "G",
+          "text": "too complicated"
+        },
+        {
+          "key": "H",
+          "text": "too vague"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "o convenient",
+      "promptContext": "convenient {{blank:31}} services",
       "answerRaw": "Transport",
       "canonicalAnswer": "Transport",
       "acceptedAnswers": [
@@ -728,7 +1140,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": ".. services o the hospital building should be",
+      "promptContext": "the hospital building should be {{blank:32}}",
       "answerRaw": "Clean",
       "canonicalAnswer": "Clean",
       "acceptedAnswers": [
@@ -747,7 +1159,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": ". o staff providing",
+      "promptContext": "staff providing {{blank:33}} prior to hospital treatment",
       "answerRaw": "Information",
       "canonicalAnswer": "Information",
       "acceptedAnswers": [
@@ -764,7 +1176,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "",
+      "promptContext": "develop web pages for local {{blank:34}} and for hospital staff",
       "answerRaw": "Doctors",
       "canonicalAnswer": "Doctors",
       "acceptedAnswers": [
@@ -781,7 +1193,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": ". and for hospital staff o a",
+      "promptContext": "a {{blank:35}} may be given as a reward to some staff for success and effort",
       "answerRaw": "Bonus",
       "canonicalAnswer": "Bonus",
       "acceptedAnswers": [
@@ -801,7 +1213,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ". may be given as a reward to some staff for success and effort o",
+      "promptContext": "{{blank:36}} will be asked to give their opinions of the hospital",
       "answerRaw": "Visitors",
       "canonicalAnswer": "Visitors",
       "acceptedAnswers": [
@@ -818,7 +1230,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": ".. will be asked to give their opinions of the hospital o effectiveness of",
+      "promptContext": "effectiveness of {{blank:37}} will be assessed at all levels",
       "answerRaw": "Communication",
       "canonicalAnswer": "Communication",
       "acceptedAnswers": [
@@ -835,7 +1247,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": ".. will be assessed at all levels Recommendations o new units should be opened, e.g. for patients that suffer from",
+      "promptContext": "new units should be opened, e.g. for patients that suffer from {{blank:38}} disturbance or who need {{blank:39}} surgery",
       "answerRaw": "Sleep",
       "canonicalAnswer": "Sleep",
       "acceptedAnswers": [
@@ -852,7 +1264,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": ". disturbance or who need",
+      "promptContext": "new units should be opened, e.g. for patients that suffer from {{blank:38}} disturbance or who need {{blank:39}} surgery",
       "answerRaw": "Plastic",
       "canonicalAnswer": "Plastic",
       "acceptedAnswers": [
@@ -871,7 +1283,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": ". surgery o the hospital has adequate equipment and space but needs improved",
+      "promptContext": "the hospital has adequate equipment and space but needs improved {{blank:40}} to maximize use of its facilities",
       "answerRaw": "Planning",
       "canonicalAnswer": "Planning",
       "acceptedAnswers": [

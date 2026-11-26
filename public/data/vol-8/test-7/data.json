@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Surname:",
+      "promptContext": "Surname: {{blank:1}}",
       "answerRaw": "Thorn",
       "canonicalAnswer": "Thorn",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "Month of travel: July Length of stay:",
+      "promptContext": "Length of stay: {{blank:2}}",
       "answerRaw": "five days,5 days",
       "canonicalAnswer": "five days",
       "acceptedAnswers": [
@@ -103,7 +103,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "Possible dates of travel: within first fortnight Airport: Brisbane Area of destination: the",
+      "promptContext": "Area of destination: the {{blank:3}} (near Brisbane)",
       "answerRaw": "Gold Coast",
       "canonicalAnswer": "Gold Coast",
       "acceptedAnswers": [
@@ -122,7 +122,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": ". (near Brisbane) Type of accommodation",
+      "promptContext": "Type of accommodation {{blank:4}}",
       "answerRaw": "apartment",
       "canonicalAnswer": "apartment",
       "acceptedAnswers": [
@@ -146,7 +146,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "According to the client, the children's favourite theme park will be A Movieworld. B Dreamworld. C Waterworld.",
+      "promptContext": "According to the client, the children's favourite theme park will be",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -158,12 +158,26 @@
       "evidenceEndTime": 232.76,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Movieworld."
+        },
+        {
+          "key": "B",
+          "text": "Dreamworld."
+        },
+        {
+          "key": "C",
+          "text": "Waterworld."
+        }
+      ]
     },
     {
       "number": 6,
       "part": 1,
-      "promptContext": "At the wildlife sanctuary they will be able to take close-up photographs of A the crocodiles. B the kangaroos. C the koalas.",
+      "promptContext": "At the wildlife sanctuary they will be able to take close-up photographs of",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -177,12 +191,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the crocodiles."
+        },
+        {
+          "key": "B",
+          "text": "the kangaroos."
+        },
+        {
+          "key": "C",
+          "text": "the koalas."
+        }
+      ]
     },
     {
       "number": 7,
       "part": 1,
-      "promptContext": "The client wants the accommodation to be near the A beach. B nightclubs. C shopping facilities. Questions 8–10 Choose THREE correct answers. 8-",
+      "promptContext": "The client wants the accommodation to be near the",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -196,12 +224,26 @@
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "beach."
+        },
+        {
+          "key": "B",
+          "text": "nightclubs."
+        },
+        {
+          "key": "C",
+          "text": "shopping facilities."
+        }
+      ]
     },
     {
       "number": 8,
       "part": 1,
-      "promptContext": "",
+      "promptContext": "Which THREE facilities does the client want at her accommodation?",
       "answerRaw": "B, E, F",
       "canonicalAnswer": "B, E, F",
       "acceptedAnswers": [
@@ -227,12 +269,42 @@
       "evidenceEndTime": 345.62,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 8–9–10 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E, F). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 8–9–10 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E, F). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "childcare"
+        },
+        {
+          "key": "B",
+          "text": "playroom"
+        },
+        {
+          "key": "C",
+          "text": "parking"
+        },
+        {
+          "key": "D",
+          "text": "gym"
+        },
+        {
+          "key": "E",
+          "text": "laundry"
+        },
+        {
+          "key": "F",
+          "text": "cleaning"
+        },
+        {
+          "key": "G",
+          "text": "sauna/spa"
+        }
+      ]
     },
     {
       "number": 9,
       "part": 1,
-      "promptContext": "",
+      "promptContext": "Which THREE facilities does the client want at her accommodation?",
       "answerRaw": "B, E, F",
       "canonicalAnswer": "B, E, F",
       "acceptedAnswers": [
@@ -258,12 +330,42 @@
       "evidenceEndTime": 345.62,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 8–9–10 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E, F). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 8–9–10 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E, F). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "childcare"
+        },
+        {
+          "key": "B",
+          "text": "playroom"
+        },
+        {
+          "key": "C",
+          "text": "parking"
+        },
+        {
+          "key": "D",
+          "text": "gym"
+        },
+        {
+          "key": "E",
+          "text": "laundry"
+        },
+        {
+          "key": "F",
+          "text": "cleaning"
+        },
+        {
+          "key": "G",
+          "text": "sauna/spa"
+        }
+      ]
     },
     {
       "number": 10,
       "part": 1,
-      "promptContext": "Which THREE facilities does the client want at her accommodation? A childcare B playroom C parking D gym E laundry F cleaning G sauna/spa",
+      "promptContext": "Which THREE facilities does the client want at her accommodation?",
       "answerRaw": "B, E, F",
       "canonicalAnswer": "B, E, F",
       "acceptedAnswers": [
@@ -289,12 +391,42 @@
       "evidenceEndTime": 345.62,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 8–9–10 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E, F). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 8–9–10 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E, F). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "childcare"
+        },
+        {
+          "key": "B",
+          "text": "playroom"
+        },
+        {
+          "key": "C",
+          "text": "parking"
+        },
+        {
+          "key": "D",
+          "text": "gym"
+        },
+        {
+          "key": "E",
+          "text": "laundry"
+        },
+        {
+          "key": "F",
+          "text": "cleaning"
+        },
+        {
+          "key": "G",
+          "text": "sauna/spa"
+        }
+      ]
     },
     {
       "number": 11,
       "part": 2,
-      "promptContext": "Tony Reynolds' first business produced",
+      "promptContext": "Tony Reynolds' first business produced {{blank:11}}",
       "answerRaw": "cars",
       "canonicalAnswer": "cars",
       "acceptedAnswers": [
@@ -313,7 +445,7 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "Reynolds Electrical was started in the year",
+      "promptContext": "Reynolds Electrical was started in the year {{blank:12}}",
       "answerRaw": "1928",
       "canonicalAnswer": "1928",
       "acceptedAnswers": [
@@ -330,7 +462,7 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": ".. There was previously a",
+      "promptContext": "There was previously a {{blank:13}} where the company is now based.",
       "answerRaw": "cinema",
       "canonicalAnswer": "cinema",
       "acceptedAnswers": [
@@ -347,7 +479,7 @@
     {
       "number": 14,
       "part": 2,
-      "promptContext": ".. where the company is now based. The",
+      "promptContext": "The {{blank:14}} of the products is an important factor for customers.",
       "answerRaw": "quality",
       "canonicalAnswer": "quality",
       "acceptedAnswers": [
@@ -364,7 +496,7 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "of the products is an important factor for customers. The company is building a new",
+      "promptContext": "The company is building a new {{blank:15}}",
       "answerRaw": "factory",
       "canonicalAnswer": "factory",
       "acceptedAnswers": [
@@ -381,7 +513,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": ".. The company recently won an award for its success in reducing",
+      "promptContext": "The company recently won an award for its success in reducing {{blank:16}}",
       "answerRaw": "waste",
       "canonicalAnswer": "waste",
       "acceptedAnswers": [
@@ -398,7 +530,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "Questions 17–20 Complete the table below. Write ONE WORD ONLY for each answer. Meetings Day Topic Monday possible improvements in",
+      "promptContext": "possible improvements in {{blank:17}}",
       "answerRaw": "safety",
       "canonicalAnswer": "safety",
       "acceptedAnswers": [
@@ -415,7 +547,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": ".. Tuesday",
+      "promptContext": "Tuesday {{blank:18}} development",
       "answerRaw": "website",
       "canonicalAnswer": "website",
       "acceptedAnswers": [
@@ -432,7 +564,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": ". development Wednesday communication with",
+      "promptContext": "communication with {{blank:19}}",
       "answerRaw": "customers",
       "canonicalAnswer": "customers",
       "acceptedAnswers": [
@@ -449,7 +581,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": ".. Thursday getting the right staff Friday making sure the company has enough",
+      "promptContext": "making sure the company has enough {{blank:20}}",
       "answerRaw": "money",
       "canonicalAnswer": "money",
       "acceptedAnswers": [
@@ -466,7 +598,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "According to Sandra, what is the most important thing to demonstrate in the portfolio? A creativity B development C quality",
+      "promptContext": "According to Sandra, what is the most important thing to demonstrate in the portfolio?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -478,12 +610,26 @@
       "evidenceEndTime": 870.12,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "creativity"
+        },
+        {
+          "key": "B",
+          "text": "development"
+        },
+        {
+          "key": "C",
+          "text": "quality"
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "What is Charlie going to include to show his understanding of design? A some photos B a poster C a publicity flyer",
+      "promptContext": "What is Charlie going to include to show his understanding of design?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -495,12 +641,26 @@
       "evidenceEndTime": 913.54,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "some photos"
+        },
+        {
+          "key": "B",
+          "text": "a poster"
+        },
+        {
+          "key": "C",
+          "text": "a publicity flyer"
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Charlie and Sandra choose drawings of the human body to show their ability to A provide realistic detail. B portray everyday situations. C represent movement.",
+      "promptContext": "Charlie and Sandra choose drawings of the human body to show their ability to",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -512,12 +672,26 @@
       "evidenceEndTime": 936.46,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "provide realistic detail."
+        },
+        {
+          "key": "B",
+          "text": "portray everyday situations."
+        },
+        {
+          "key": "C",
+          "text": "represent movement."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "Why does Charlie advise Sandra not to include her work on deserts? A It needs explanation. B It will take up too much space. C It doesn't fit in with the rest of her work.",
+      "promptContext": "Why does Charlie advise Sandra not to include her work on deserts?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -531,12 +705,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It needs explanation."
+        },
+        {
+          "key": "B",
+          "text": "It will take up too much space."
+        },
+        {
+          "key": "C",
+          "text": "It doesn't fit in with the rest of her work."
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "What did Sandra think was the best advice from their tutor? A Save the best for the end. B Make a strong first impression. C Organise work in groups.",
+      "promptContext": "What did Sandra think was the best advice from their tutor?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -548,12 +736,26 @@
       "evidenceEndTime": 964.78,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Save the best for the end."
+        },
+        {
+          "key": "B",
+          "text": "Make a strong first impression."
+        },
+        {
+          "key": "C",
+          "text": "Organise work in groups."
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "Who is Sandra going to ask to look at her portfolio before she submits it? A her parents B an art critic C an artist Questions 27–30 Which reason is given for the inclusion in Charlie's portfolio of each of the following pieces? Choose FOUR correct answers, A-F, next to questions 27-30. Reason for inclusion in Charlie's Portfolio Pieces a design fora book cover",
+      "promptContext": "Who is Sandra going to ask to look at her portfolio before she submits it?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -568,7 +770,21 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "her parents"
+        },
+        {
+          "key": "B",
+          "text": "an art critic"
+        },
+        {
+          "key": "C",
+          "text": "an artist"
+        }
+      ]
     },
     {
       "number": 27,
@@ -587,12 +803,38 @@
       "evidenceEndTime": 1091.7,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E use of lettering. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E use of lettering. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "explanation of a personal relationship"
+        },
+        {
+          "key": "B",
+          "text": "communication of a mood"
+        },
+        {
+          "key": "C",
+          "text": "high degree of accuracy"
+        },
+        {
+          "key": "D",
+          "text": "evidence of originality"
+        },
+        {
+          "key": "E",
+          "text": "use of lettering"
+        },
+        {
+          "key": "F",
+          "text": "combination of different materials"
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": ". designs for jewellery",
+      "promptContext": "designs for jewellery",
       "answerRaw": "C high degree of accuracy",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -606,7 +848,33 @@
       "evidenceEndTime": 1104.48,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án C high degree of accuracy. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án C high degree of accuracy. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "explanation of a personal relationship"
+        },
+        {
+          "key": "B",
+          "text": "communication of a mood"
+        },
+        {
+          "key": "C",
+          "text": "high degree of accuracy"
+        },
+        {
+          "key": "D",
+          "text": "evidence of originality"
+        },
+        {
+          "key": "E",
+          "text": "use of lettering"
+        },
+        {
+          "key": "F",
+          "text": "combination of different materials"
+        }
+      ]
     },
     {
       "number": 29,
@@ -625,12 +893,38 @@
       "evidenceEndTime": 1133.56,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D evidence of originality. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án D evidence of originality. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "explanation of a personal relationship"
+        },
+        {
+          "key": "B",
+          "text": "communication of a mood"
+        },
+        {
+          "key": "C",
+          "text": "high degree of accuracy"
+        },
+        {
+          "key": "D",
+          "text": "evidence of originality"
+        },
+        {
+          "key": "E",
+          "text": "use of lettering"
+        },
+        {
+          "key": "F",
+          "text": "combination of different materials"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "…………. A explanation of a personal relationship B communication of a mood C high degree of accuracy D evidence of originality E use of lettering F combination of different materials",
+      "promptContext": "an advertisement",
       "answerRaw": "B communication of a mood",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -646,12 +940,38 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án B communication of a mood. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án B communication of a mood. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "explanation of a personal relationship"
+        },
+        {
+          "key": "B",
+          "text": "communication of a mood"
+        },
+        {
+          "key": "C",
+          "text": "high degree of accuracy"
+        },
+        {
+          "key": "D",
+          "text": "evidence of originality"
+        },
+        {
+          "key": "E",
+          "text": "use of lettering"
+        },
+        {
+          "key": "F",
+          "text": "combination of different materials"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "• looking at gardens may speed recovery from surgery and from",
+      "promptContext": "looking at gardens may speed recovery from surgery and from {{blank:31}}",
       "answerRaw": "infection",
       "canonicalAnswer": "infection",
       "acceptedAnswers": [
@@ -668,7 +988,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "• patients with views of nature recovered much faster than patients with views of a",
+      "promptContext": "patients with views of nature recovered much faster than patients with views of a {{blank:32}}",
       "answerRaw": "wall",
       "canonicalAnswer": "wall",
       "acceptedAnswers": [
@@ -685,7 +1005,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "European studies • hospitals were a source of",
+      "promptContext": "hospitals were a source of {{blank:33}}",
       "answerRaw": "stress",
       "canonicalAnswer": "stress",
       "acceptedAnswers": [
@@ -702,7 +1022,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": ". Looking at nature • can affect electrical activity in the body, especially the",
+      "promptContext": "can affect electrical activity in the body, especially the {{blank:34}}",
       "answerRaw": "heart",
       "canonicalAnswer": "heart",
       "acceptedAnswers": [
@@ -719,7 +1039,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "• can be beneficial to the",
+      "promptContext": "can be beneficial to the {{blank:35}} system",
       "answerRaw": "immune",
       "canonicalAnswer": "immune",
       "acceptedAnswers": [
@@ -738,7 +1058,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ". system 1995 Cooper and Bennett study • research methods included analysis, observation and",
+      "promptContext": "research methods included analysis, observation and {{blank:36}}",
       "answerRaw": "interviews",
       "canonicalAnswer": "interviews",
       "acceptedAnswers": [
@@ -755,7 +1075,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": ". • gardens with a",
+      "promptContext": "gardens with a {{blank:37}} were particularly popular",
       "answerRaw": "fountain",
       "canonicalAnswer": "fountain",
       "acceptedAnswers": [
@@ -772,7 +1092,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": ". were particularly popular 'Behavioural maps' studies • showed gardens need - areas for private conversation and flat paths - easily moved",
+      "promptContext": "easily moved {{blank:38}}",
       "answerRaw": "furniture",
       "canonicalAnswer": "furniture",
       "acceptedAnswers": [
@@ -791,7 +1111,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": ".. - landscaping that attracts",
+      "promptContext": "landscaping that attracts {{blank:39}}",
       "answerRaw": "birds",
       "canonicalAnswer": "birds",
       "acceptedAnswers": [
@@ -808,7 +1128,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "",
+      "promptContext": "elderly patients want to feel a part of {{blank:40}}",
       "answerRaw": "society",
       "canonicalAnswer": "society",
       "acceptedAnswers": [

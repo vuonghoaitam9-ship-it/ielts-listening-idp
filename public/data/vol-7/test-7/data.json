@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "o A family ticket is $",
+      "promptContext": "A family ticket is $ {{blank:1}}",
       "answerRaw": "65",
       "canonicalAnswer": "65",
       "acceptedAnswers": [
@@ -82,7 +82,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ". o The fastest bus takes about",
+      "promptContext": "The fastest bus takes about {{blank:2}} minutes.",
       "answerRaw": "40",
       "canonicalAnswer": "40",
       "acceptedAnswers": [
@@ -101,7 +101,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "minutes. o You can hold some animals and have a",
+      "promptContext": "You can hold some animals and have a {{blank:3}} for a small fee.",
       "answerRaw": "photo",
       "canonicalAnswer": "photo",
       "acceptedAnswers": [
@@ -120,7 +120,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "for a small fee. The Entertainment Room o John …..is performing. o Performance run from Tuesday to",
+      "promptContext": "John {{blank:4}} is performing.",
       "answerRaw": "Rosie",
       "canonicalAnswer": "Rosie",
       "acceptedAnswers": [
@@ -137,7 +137,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "o Performance run from Tuesday to",
+      "promptContext": "Performance run from Tuesday to {{blank:5}}",
       "answerRaw": "Saturday",
       "canonicalAnswer": "Saturday",
       "acceptedAnswers": [
@@ -156,7 +156,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "o There is a",
+      "promptContext": "There is a {{blank:6}} on tickets for Monday night’s preview.",
       "answerRaw": "discount",
       "canonicalAnswer": "discount",
       "acceptedAnswers": [
@@ -173,7 +173,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "on tickets for Monday night’s preview. The City o Go to the city center",
+      "promptContext": "Go to the city center {{blank:7}} to see a special exhibition.",
       "answerRaw": "museum",
       "canonicalAnswer": "museum",
       "acceptedAnswers": [
@@ -190,7 +190,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "to see a special exhibition. – Do origami – we’ll need to take a small",
+      "promptContext": "– Do origami – we’ll need to take a small {{blank:8}}",
       "answerRaw": "box",
       "canonicalAnswer": "box",
       "acceptedAnswers": [
@@ -216,7 +216,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": ". Bunyabbie Island o Explore with a four-wheel drive. o Go snorkelling at Salty Lake – it’s on the",
+      "promptContext": "Go snorkelling at Salty Lake – it’s on the {{blank:9}} side of the Island.",
       "answerRaw": "Ocean",
       "canonicalAnswer": "Ocean",
       "acceptedAnswers": [
@@ -233,7 +233,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "side of the Island. o You’re not allowed to",
+      "promptContext": "You’re not allowed to {{blank:10}} on the island",
       "answerRaw": "camp",
       "canonicalAnswer": "camp",
       "acceptedAnswers": [
@@ -262,12 +262,38 @@
       "evidenceEndTime": 398.28,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"E\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "An office will be provided for this role."
+        },
+        {
+          "key": "B",
+          "text": "More than one person is needed for this role."
+        },
+        {
+          "key": "C",
+          "text": "This is a new role for this year’s fair."
+        },
+        {
+          "key": "D",
+          "text": "This role will start next month."
+        },
+        {
+          "key": "E",
+          "text": "This role will mainly involve evening work."
+        },
+        {
+          "key": "F",
+          "text": "To do this role you need your own transport."
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": ". Advertising and promotion co-ordinator",
+      "promptContext": "Advertising and promotion co-ordinator",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -279,7 +305,33 @@
       "evidenceEndTime": 423.62,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "An office will be provided for this role."
+        },
+        {
+          "key": "B",
+          "text": "More than one person is needed for this role."
+        },
+        {
+          "key": "C",
+          "text": "This is a new role for this year’s fair."
+        },
+        {
+          "key": "D",
+          "text": "This role will start next month."
+        },
+        {
+          "key": "E",
+          "text": "This role will mainly involve evening work."
+        },
+        {
+          "key": "F",
+          "text": "To do this role you need your own transport."
+        }
+      ]
     },
     {
       "number": 13,
@@ -296,12 +348,38 @@
       "evidenceEndTime": 430.44,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"F\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"F\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "An office will be provided for this role."
+        },
+        {
+          "key": "B",
+          "text": "More than one person is needed for this role."
+        },
+        {
+          "key": "C",
+          "text": "This is a new role for this year’s fair."
+        },
+        {
+          "key": "D",
+          "text": "This role will start next month."
+        },
+        {
+          "key": "E",
+          "text": "This role will mainly involve evening work."
+        },
+        {
+          "key": "F",
+          "text": "To do this role you need your own transport."
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "…………. A An office will be provided for this role. B More than one person is needed for this role. C This is a new role for this year’s fair. D This role will start next month. E This role will mainly involve evening work. F To do this role you need your own transport. Questions 15–20 Label the map below Choose the correct letter, A-I, next to questions 15-20. A B C D E F G H I",
+      "promptContext": "Staffing co-ordinator",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -320,12 +398,38 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'work' ↔ 'job'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "An office will be provided for this role."
+        },
+        {
+          "key": "B",
+          "text": "More than one person is needed for this role."
+        },
+        {
+          "key": "C",
+          "text": "This is a new role for this year’s fair."
+        },
+        {
+          "key": "D",
+          "text": "This role will start next month."
+        },
+        {
+          "key": "E",
+          "text": "This role will mainly involve evening work."
+        },
+        {
+          "key": "F",
+          "text": "To do this role you need your own transport."
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": ". A An office will be provided for this role. B More than one person is needed for this role. C This is a new role for this year’s fair. D This role will start next month. E This role will mainly involve evening work. F To do this role you need your own transp",
+      "promptContext": "Fairground",
       "answerRaw": "I",
       "canonicalAnswer": "I",
       "acceptedAnswers": [
@@ -349,7 +453,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "rides Entertainment stage",
+      "promptContext": "Entertainment",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -368,7 +472,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "stage Café",
+      "promptContext": "Café",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -385,7 +489,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "Café First aid tent",
+      "promptContext": "First aid tent",
       "answerRaw": "H",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -402,7 +506,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": "First aid tent Market stalls",
+      "promptContext": "Market stalls",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -419,7 +523,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "Market stalls Pony rides",
+      "promptContext": "Pony rides",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -450,12 +554,50 @@
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"F\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+      "explanationVi": "Đáp án chuẩn cần điền là \"F\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was surprisingly interesting"
+        },
+        {
+          "key": "B",
+          "text": "covered too many topics"
+        },
+        {
+          "key": "C",
+          "text": "included out-of-date materials"
+        },
+        {
+          "key": "D",
+          "text": "involved practical applications"
+        },
+        {
+          "key": "E",
+          "text": "supplied useful technical information"
+        },
+        {
+          "key": "F",
+          "text": "was too basic to be useful"
+        },
+        {
+          "key": "G",
+          "text": "provided unnecessary detail"
+        },
+        {
+          "key": "H",
+          "text": "was relevant to a topic in the news"
+        },
+        {
+          "key": "I",
+          "text": "seemed too limited geographically"
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": ". Sewage and drainage systems",
+      "promptContext": "Sewage and drainage systems",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -469,12 +611,50 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was surprisingly interesting"
+        },
+        {
+          "key": "B",
+          "text": "covered too many topics"
+        },
+        {
+          "key": "C",
+          "text": "included out-of-date materials"
+        },
+        {
+          "key": "D",
+          "text": "involved practical applications"
+        },
+        {
+          "key": "E",
+          "text": "supplied useful technical information"
+        },
+        {
+          "key": "F",
+          "text": "was too basic to be useful"
+        },
+        {
+          "key": "G",
+          "text": "provided unnecessary detail"
+        },
+        {
+          "key": "H",
+          "text": "was relevant to a topic in the news"
+        },
+        {
+          "key": "I",
+          "text": "seemed too limited geographically"
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": ". Agriculture and food security",
+      "promptContext": "Agriculture and food security",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -486,7 +666,45 @@
       "evidenceEndTime": 832.68,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was surprisingly interesting"
+        },
+        {
+          "key": "B",
+          "text": "covered too many topics"
+        },
+        {
+          "key": "C",
+          "text": "included out-of-date materials"
+        },
+        {
+          "key": "D",
+          "text": "involved practical applications"
+        },
+        {
+          "key": "E",
+          "text": "supplied useful technical information"
+        },
+        {
+          "key": "F",
+          "text": "was too basic to be useful"
+        },
+        {
+          "key": "G",
+          "text": "provided unnecessary detail"
+        },
+        {
+          "key": "H",
+          "text": "was relevant to a topic in the news"
+        },
+        {
+          "key": "I",
+          "text": "seemed too limited geographically"
+        }
+      ]
     },
     {
       "number": 24,
@@ -503,12 +721,50 @@
       "evidenceEndTime": 851.24,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was surprisingly interesting"
+        },
+        {
+          "key": "B",
+          "text": "covered too many topics"
+        },
+        {
+          "key": "C",
+          "text": "included out-of-date materials"
+        },
+        {
+          "key": "D",
+          "text": "involved practical applications"
+        },
+        {
+          "key": "E",
+          "text": "supplied useful technical information"
+        },
+        {
+          "key": "F",
+          "text": "was too basic to be useful"
+        },
+        {
+          "key": "G",
+          "text": "provided unnecessary detail"
+        },
+        {
+          "key": "H",
+          "text": "was relevant to a topic in the news"
+        },
+        {
+          "key": "I",
+          "text": "seemed too limited geographically"
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": ".. Government policy",
+      "promptContext": "Government policy",
       "answerRaw": "I",
       "canonicalAnswer": "I",
       "acceptedAnswers": [
@@ -520,12 +776,50 @@
       "evidenceEndTime": 872.6,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"I\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"I\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was surprisingly interesting"
+        },
+        {
+          "key": "B",
+          "text": "covered too many topics"
+        },
+        {
+          "key": "C",
+          "text": "included out-of-date materials"
+        },
+        {
+          "key": "D",
+          "text": "involved practical applications"
+        },
+        {
+          "key": "E",
+          "text": "supplied useful technical information"
+        },
+        {
+          "key": "F",
+          "text": "was too basic to be useful"
+        },
+        {
+          "key": "G",
+          "text": "provided unnecessary detail"
+        },
+        {
+          "key": "H",
+          "text": "was relevant to a topic in the news"
+        },
+        {
+          "key": "I",
+          "text": "seemed too limited geographically"
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "………. A was surprisingly interesting B covered too many topics C included out-of-date materials D involved practical applications E supplied useful technical information F was too basic to be useful G provided unnecessary detail H was relevant to a topic in the news I seemed too limited geographically Questions 27–28 Choose TWO correct answers.",
+      "promptContext": "Water management",
       "answerRaw": "G",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -539,12 +833,50 @@
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"G\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+      "explanationVi": "Đáp án chuẩn cần điền là \"G\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was surprisingly interesting"
+        },
+        {
+          "key": "B",
+          "text": "covered too many topics"
+        },
+        {
+          "key": "C",
+          "text": "included out-of-date materials"
+        },
+        {
+          "key": "D",
+          "text": "involved practical applications"
+        },
+        {
+          "key": "E",
+          "text": "supplied useful technical information"
+        },
+        {
+          "key": "F",
+          "text": "was too basic to be useful"
+        },
+        {
+          "key": "G",
+          "text": "provided unnecessary detail"
+        },
+        {
+          "key": "H",
+          "text": "was relevant to a topic in the news"
+        },
+        {
+          "key": "I",
+          "text": "seemed too limited geographically"
+        }
+      ]
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "Which TWO aspects of the course organisation did both Jamie and Martha like? A the amount of reading B the flexibility in the length of the course C the convenience of choosing when take modules D the range of different modules offered E the relevance of the module content Questions 29–30 Choose TWO correct answers.",
+      "promptContext": "Which TWO aspects of the course organisation did both Jamie and Martha like?",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -558,12 +890,34 @@
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the amount of reading"
+        },
+        {
+          "key": "B",
+          "text": "the flexibility in the length of the course"
+        },
+        {
+          "key": "C",
+          "text": "the convenience of choosing when take modules"
+        },
+        {
+          "key": "D",
+          "text": "the range of different modules offered"
+        },
+        {
+          "key": "E",
+          "text": "the relevance of the module content"
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "Which TWO aspects of the course organisation did both Jamie and Martha like? A the amount of reading B the flexibility in the length of the course C the convenience of choosing when take modules D the range of different modules offered E the relevance of the module content Questions 29–30 Choose TWO correct answers.",
+      "promptContext": "Which TWO aspects of the course organisation did both Jamie and Martha like?",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -577,12 +931,34 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"E\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"E\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the amount of reading"
+        },
+        {
+          "key": "B",
+          "text": "the flexibility in the length of the course"
+        },
+        {
+          "key": "C",
+          "text": "the convenience of choosing when take modules"
+        },
+        {
+          "key": "D",
+          "text": "the range of different modules offered"
+        },
+        {
+          "key": "E",
+          "text": "the relevance of the module content"
+        }
+      ]
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": "Which TWO suggestions for written assignment do Jamie and Martha agree to recommend to Dr Brown? A The time for choosing a topic should be changed. B The permitted world limit should be increased. C Discussions with fellow students should be arranged. D Face-to-face feedback sessions with the tutor should be scheduled. E Tutors should give more help in topic selection.",
+      "promptContext": "Which TWO suggestions for written assignment do Jamie and Martha agree to recommend to Dr Brown?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -596,12 +972,34 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The time for choosing a topic should be changed."
+        },
+        {
+          "key": "B",
+          "text": "The permitted world limit should be increased."
+        },
+        {
+          "key": "C",
+          "text": "Discussions with fellow students should be arranged."
+        },
+        {
+          "key": "D",
+          "text": "Face-to-face feedback sessions with the tutor should be scheduled."
+        },
+        {
+          "key": "E",
+          "text": "Tutors should give more help in topic selection."
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "Which TWO suggestions for written assignment do Jamie and Martha agree to recommend to Dr Brown? A The time for choosing a topic should be changed. B The permitted world limit should be increased. C Discussions with fellow students should be arranged. D Face-to-face feedback sessions with the tutor should be scheduled. E Tutors should give more help in topic selection.",
+      "promptContext": "Which TWO suggestions for written assignment do Jamie and Martha agree to recommend to Dr Brown?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -615,12 +1013,34 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The time for choosing a topic should be changed."
+        },
+        {
+          "key": "B",
+          "text": "The permitted world limit should be increased."
+        },
+        {
+          "key": "C",
+          "text": "Discussions with fellow students should be arranged."
+        },
+        {
+          "key": "D",
+          "text": "Face-to-face feedback sessions with the tutor should be scheduled."
+        },
+        {
+          "key": "E",
+          "text": "Tutors should give more help in topic selection."
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "o As well as music, he has written many",
+      "promptContext": "As well as music, he has written many {{blank:31}}",
       "answerRaw": "essays",
       "canonicalAnswer": "essays",
       "acceptedAnswers": [
@@ -637,7 +1057,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": ". o He has worn many awards – including one in 2011 for",
+      "promptContext": "He has worn many awards – including one in 2011 for {{blank:32}} in music.",
       "answerRaw": "originality",
       "canonicalAnswer": "originality",
       "acceptedAnswers": [
@@ -654,7 +1074,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": ". in music. Musical characteristics o Surprisingly, his music often features",
+      "promptContext": "Surprisingly, his music often features {{blank:33}} and very soft sounds.",
       "answerRaw": "silence",
       "canonicalAnswer": "silence",
       "acceptedAnswers": [
@@ -671,7 +1091,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": ". and very soft sounds. o His music uses unusual instrument techniques, e.g. violins often produce sounds which resemble those found in",
+      "promptContext": "produce sounds which resemble those found in {{blank:34}}",
       "answerRaw": "nature",
       "canonicalAnswer": "nature",
       "acceptedAnswers": [
@@ -688,7 +1108,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": ".. o He is seen as a",
+      "promptContext": "He is seen as a {{blank:35}} of music.",
       "answerRaw": "pioneer",
       "canonicalAnswer": "pioneer",
       "acceptedAnswers": [
@@ -707,7 +1127,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "of music. o Sciarrino compares his music to a distant",
+      "promptContext": "Sciarrino compares his music to a distant {{blank:36}}",
       "answerRaw": "volcano",
       "canonicalAnswer": "volcano",
       "acceptedAnswers": [
@@ -726,7 +1146,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": ".. Concert piece o for piano, chorus and orchestra o finished in 1979 and written in memory of a",
+      "promptContext": "finished in 1979 and written in memory of a {{blank:37}}",
       "answerRaw": "friend",
       "canonicalAnswer": "friend",
       "acceptedAnswers": [
@@ -743,7 +1163,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": ". o very difficult to play o starts with a noise that sounds like",
+      "promptContext": "starts with a noise that sounds like {{blank:38}}, produced by two",
       "answerRaw": "thunder",
       "canonicalAnswer": "thunder",
       "acceptedAnswers": [
@@ -765,7 +1185,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": ", produced by two people moving large pieces of",
+      "promptContext": "people moving large pieces of {{blank:39}}",
       "answerRaw": "metal",
       "canonicalAnswer": "metal",
       "acceptedAnswers": [
@@ -784,7 +1204,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": ".. although the music is unusual, it has a traditional",
+      "promptContext": "although the music is unusual, it has a traditional {{blank:40}}",
       "answerRaw": "structure",
       "canonicalAnswer": "structure",
       "acceptedAnswers": [

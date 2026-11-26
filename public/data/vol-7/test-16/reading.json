@@ -830,7 +830,7 @@
           "type": "gap_fill",
           "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
           "wordLimit": "NO MORE THAN TWO WORDS",
-          "bodyText": "It is a great mystery that young birds like cuckoos can find their wintering grounds\nwithout {{blank:23}}\nEvidence shows birds can tell directions like a {{blank:24}}\nby observing the sun and the stars.\nOne advantage for birds flying at night is that they can avoid contact with 25\n…………...\nLaboratory tests show that birds can detect weather without\n{{blank:26}} signs.",
+          "bodyText": "It is a great mystery that young birds like cuckoos can find their wintering grounds\nwithout {{blank:23}}\nEvidence shows birds can tell directions like a {{blank:24}}\nby observing the sun and the stars.\nOne advantage for birds flying at night is that they can avoid contact with {{blank:25}}\nLaboratory tests show that birds can detect weather without\n{{blank:26}} signs.",
           "questions": [
             {
               "number": 23,
@@ -860,7 +860,7 @@
             },
             {
               "number": 25,
-              "prompt": "Question 25",
+              "prompt": "One advantage for birds flying at night is that they can avoid contact with {{blank:25}}\nLaboratory tests show that birds can detect weather without\n{{blank:26}} signs.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "One advantage for birds flying at night is that they can avoid contact with daytime predators"
@@ -873,7 +873,7 @@
             },
             {
               "number": 26,
-              "prompt": "Laboratory tests show that birds can detect weather without\n{{blank:26}} signs.",
+              "prompt": "One advantage for birds flying at night is that they can avoid contact with {{blank:25}}\nLaboratory tests show that birds can detect weather without\n{{blank:26}} signs.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "Laboratory tests show that birds can detect weather without visible signs"

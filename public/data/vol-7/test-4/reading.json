@@ -144,11 +144,11 @@
           "type": "gap_fill",
           "instruction": "Complete the summary below. Write NO MORE THAN THREE WORDS from the passage for each answer.",
           "wordLimit": "NO MORE THAN THREE WORDS",
-          "bodyText": "The Commercial Development of Rubber\nEarly European travellers gave accounts of various rubber objects in use in Central\nand South America, and these accounts created interest in the commercial\nexploitation of rubber. In 1818, {{blank:7}} was produced using rubber, and in 1820\na machine was invented for recycling {{blank:8}} …....of rubber. Over the next few years,\nother attempts were made to improve rubber, but some problems remained. For\nexample, rubber products smelt bad when they were dissolved, and could turn either\nsoft or {{blank:9}} …depending on the temperature. However, in 1839 a new process\nto {{blank:10}} the substance greatly increased its potential. For example, rubber was\nused in the creation of the {{blank:11}} industry during the Industrial Revolution.\nThen in 1888 the {{blank:12}} was developed, and a few years later\nthe {{blank:13}} of the motor car began.\nThe Myth of the Eight-hour Sleep",
+          "bodyText": "The Commercial Development of Rubber\nEarly European travellers gave accounts of various rubber objects in use in Central\nand South America, and these accounts created interest in the commercial\nexploitation of rubber. In 1818, {{blank:7}} was produced using rubber, and in 1820\na machine was invented for recycling {{blank:8}} of rubber. Over the next few years,\nother attempts were made to improve rubber, but some problems remained. For\nexample, rubber products smelt bad when they were dissolved, and could turn either\nsoft or {{blank:9}}depending on the temperature. However, in 1839 a new process\nto {{blank:10}} the substance greatly increased its potential. For example, rubber was\nused in the creation of the {{blank:11}} industry during the Industrial Revolution.\nThen in 1888 the {{blank:12}} was developed, and a few years later\nthe {{blank:13}} of the motor car began.\nThe Myth of the Eight-hour Sleep",
           "questions": [
             {
               "number": 7,
-              "prompt": "In 1818, {{blank:7}} was produced using rubber, and in 1820\na machine was invented for recycling {{blank:8}} …....of rubber.",
+              "prompt": "In 1818, {{blank:7}} was produced using rubber, and in 1820\na machine was invented for recycling {{blank:8}} of rubber.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "waterproof cloth"
@@ -161,7 +161,7 @@
             },
             {
               "number": 8,
-              "prompt": "In 1818, {{blank:7}} was produced using rubber, and in 1820\na machine was invented for recycling {{blank:8}} …....of rubber.",
+              "prompt": "In 1818, {{blank:7}} was produced using rubber, and in 1820\na machine was invented for recycling {{blank:8}} of rubber.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "waste strips"
@@ -174,7 +174,7 @@
             },
             {
               "number": 9,
-              "prompt": "For\nexample, rubber products smelt bad when they were dissolved, and could turn either\nsoft or {{blank:9}} …depending on the temperature.",
+              "prompt": "For\nexample, rubber products smelt bad when they were dissolved, and could turn either\nsoft or {{blank:9}}depending on the temperature.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "rigid"

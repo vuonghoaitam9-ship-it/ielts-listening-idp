@@ -17,7 +17,9 @@ import {
 } from 'lucide-react';
 import { db } from '../db/database';
 import { useSegmentAudio } from '../hooks/useSegmentAudio';
+import { buildFilledListeningQuestion } from '../lib/filledQuestion';
 import { buildLongSegmentsFromShort, formatSecondsClock } from '../lib/subtitleParser';
+import { FilledQuestionBox } from './FilledQuestionBox';
 import { SaveVocabModal } from './SaveVocabModal';
 import { TimestampEditorModal } from './TimestampEditorModal';
 import type { ExamAttempt, QuestionItem, TestData, TranscriptSegment } from '../types';
@@ -573,6 +575,12 @@ export function ExamReviewView({
                   <span>Lưu từ vựng</span>
                 </button>
               </div>
+
+              {/* 0. Original Question With Standard Answer Filled */}
+              <FilledQuestionBox
+                filled={buildFilledListeningQuestion(q, questionMap)}
+                variant="light"
+              />
 
               {/* 1. Answer Comparison */}
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">

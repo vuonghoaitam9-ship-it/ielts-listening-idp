@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "The centre has enough accommodation for A 18 people. B 20 people. C 38 people.",
+      "promptContext": "The centre has enough accommodation for",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -75,12 +75,26 @@
       "evidenceEndTime": 181.76,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "18 people."
+        },
+        {
+          "key": "B",
+          "text": "20 people."
+        },
+        {
+          "key": "C",
+          "text": "38 people."
+        }
+      ]
     },
     {
       "number": 2,
       "part": 1,
-      "promptContext": "The meeting room is currently A unavailable. B flooded. C booked.",
+      "promptContext": "The meeting room is currently",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -92,12 +106,26 @@
       "evidenceEndTime": 206.92,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "unavailable."
+        },
+        {
+          "key": "B",
+          "text": "flooded."
+        },
+        {
+          "key": "C",
+          "text": "booked."
+        }
+      ]
     },
     {
       "number": 3,
       "part": 1,
-      "promptContext": "Visitors must tell the centre in advance if they want to A use the centre’s kitchen. B have meals cooked for them. C eat at restaurants outside.",
+      "promptContext": "Visitors must tell the centre in advance if they want to",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -109,12 +137,26 @@
       "evidenceEndTime": 233.62,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "use the centre’s kitchen."
+        },
+        {
+          "key": "B",
+          "text": "have meals cooked for them."
+        },
+        {
+          "key": "C",
+          "text": "eat at restaurants outside."
+        }
+      ]
     },
     {
       "number": 4,
       "part": 1,
-      "promptContext": "All visitors on the farm can A get information about organic farming. B help to feed the animals. C watch a tractor demonstration.",
+      "promptContext": "All visitors on the farm can",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -126,12 +168,26 @@
       "evidenceEndTime": 291.42,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "get information about organic farming."
+        },
+        {
+          "key": "B",
+          "text": "help to feed the animals."
+        },
+        {
+          "key": "C",
+          "text": "watch a tractor demonstration."
+        }
+      ]
     },
     {
       "number": 5,
       "part": 1,
-      "promptContext": "On the survival course people have to A learn to use map. B find their own food. C run through woodland.",
+      "promptContext": "On the survival course people have to",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -143,12 +199,26 @@
       "evidenceEndTime": 394.24,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "learn to use map."
+        },
+        {
+          "key": "B",
+          "text": "find their own food."
+        },
+        {
+          "key": "C",
+          "text": "run through woodland."
+        }
+      ]
     },
     {
       "number": 6,
       "part": 1,
-      "promptContext": "From the centre it is easy to walk to A Exmoor National Park. B the beach. C a cycling route.",
+      "promptContext": "From the centre it is easy to walk to",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -165,12 +235,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'walk' ↔ 'walking'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'walk' ↔ 'walking'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Exmoor National Park."
+        },
+        {
+          "key": "B",
+          "text": "the beach."
+        },
+        {
+          "key": "C",
+          "text": "a cycling route."
+        }
+      ]
     },
     {
       "number": 7,
       "part": 1,
-      "promptContext": "If the weather is bad visitors can go to a A cinema. B theatre. C museum.",
+      "promptContext": "If the weather is bad visitors can go to a",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -185,12 +269,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cinema."
+        },
+        {
+          "key": "B",
+          "text": "theatre."
+        },
+        {
+          "key": "C",
+          "text": "museum."
+        }
+      ]
     },
     {
       "number": 8,
       "part": 1,
-      "promptContext": "Group who wish to stay at the centre must pay A part of the cost in advance. B all the cost in advance. C all of the cost on arrival. Questions 9–10 Complete the notes below. Write ONE WORD AND/OR NUMBERS for each answer. Address: Winsham Farm",
+      "promptContext": "Group who wish to stay at the centre must pay",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -202,12 +300,26 @@
       "evidenceEndTime": 503.16,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "part of the cost in advance."
+        },
+        {
+          "key": "B",
+          "text": "all the cost in advance."
+        },
+        {
+          "key": "C",
+          "text": "all of the cost on arrival."
+        }
+      ]
     },
     {
       "number": 9,
       "part": 1,
-      "promptContext": "Address: Winsham Farm",
+      "promptContext": "Address: Winsham Farm {{blank:9}} Road",
       "answerRaw": "COTEHELE",
       "canonicalAnswer": "COTEHELE",
       "acceptedAnswers": [
@@ -224,7 +336,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "Road Near Sherbone",
+      "promptContext": "Near Sherbone {{blank:10}}",
       "answerRaw": "SH121LQ",
       "canonicalAnswer": "SH121LQ",
       "acceptedAnswers": [
@@ -241,7 +353,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "Stocktaking",
+      "promptContext": "Stocktaking {{blank:11}} tiring {{blank:12}}",
       "answerRaw": "travelling",
       "canonicalAnswer": "travelling",
       "acceptedAnswers": [
@@ -258,7 +370,7 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": ".. tiring",
+      "promptContext": "Stocktaking {{blank:11}} tiring {{blank:12}}",
       "answerRaw": "get good shoes",
       "canonicalAnswer": "get good shoes",
       "acceptedAnswers": [
@@ -277,7 +389,7 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": ". Office work air conditioning",
+      "promptContext": "conditioning {{blank:13}}",
       "answerRaw": "wearing formal",
       "canonicalAnswer": "wearing formal",
       "acceptedAnswers": [
@@ -294,7 +406,7 @@
     {
       "number": 14,
       "part": 2,
-      "promptContext": ". choose a",
+      "promptContext": "choose a {{blank:14}}",
       "answerRaw": "large office",
       "canonicalAnswer": "large office",
       "acceptedAnswers": [
@@ -316,7 +428,7 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "Theme park attendant",
+      "promptContext": "Theme park attendant {{blank:15}} rude customers {{blank:16}}",
       "answerRaw": "good pay",
       "canonicalAnswer": "good pay",
       "acceptedAnswers": [
@@ -333,7 +445,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "rude customers",
+      "promptContext": "Theme park attendant {{blank:15}} rude customers {{blank:16}}",
       "answerRaw": "live nearby",
       "canonicalAnswer": "live nearby",
       "acceptedAnswers": [
@@ -352,7 +464,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "Peter learned about the job A from a collenge friend. B on the computer. C from a student job centre.",
+      "promptContext": "Peter learned about the job",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -369,12 +481,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'job' ↔ 'work'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'job' ↔ 'work'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "from a collenge friend."
+        },
+        {
+          "key": "B",
+          "text": "on the computer."
+        },
+        {
+          "key": "C",
+          "text": "from a student job centre."
+        }
+      ]
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": "Peter mainly enjoyed the job because it was A easy. B challenging. C unusual.",
+      "promptContext": "Peter mainly enjoyed the job because it was",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -391,12 +517,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'job' ↔ 'work'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'job' ↔ 'work'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "easy."
+        },
+        {
+          "key": "B",
+          "text": "challenging."
+        },
+        {
+          "key": "C",
+          "text": "unusual."
+        }
+      ]
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": "The job’s most interesting aspect was A learning about the environment. B working with children. C caring for the animals.",
+      "promptContext": "The job’s most interesting aspect was",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -419,12 +559,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'children' ↔ 'kids'; 'job' ↔ 'career'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'children' ↔ 'kids'; 'job' ↔ 'career'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "learning about the environment."
+        },
+        {
+          "key": "B",
+          "text": "working with children."
+        },
+        {
+          "key": "C",
+          "text": "caring for the animals."
+        }
+      ]
     },
     {
       "number": 20,
       "part": 2,
-      "promptContext": "Peter has decided that next vacation he A won’t take a job. B will work at the zoo. C will work elsewhere.",
+      "promptContext": "Peter has decided that next vacation he",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -443,12 +597,26 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'job' ↔ 'work'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'job' ↔ 'work'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "won’t take a job."
+        },
+        {
+          "key": "B",
+          "text": "will work at the zoo."
+        },
+        {
+          "key": "C",
+          "text": "will work elsewhere."
+        }
+      ]
     },
     {
       "number": 21,
       "part": 3,
-      "promptContext": "o It gives the opportunity to",
+      "promptContext": "It gives the opportunity to {{blank:21}}",
       "answerRaw": "share ideas",
       "canonicalAnswer": "share ideas",
       "acceptedAnswers": [
@@ -465,7 +633,7 @@
     {
       "number": 22,
       "part": 3,
-      "promptContext": "o Shared reading means fuller notes o You can do",
+      "promptContext": "You can do {{blank:22}}",
       "answerRaw": "deeper research",
       "canonicalAnswer": "deeper research",
       "acceptedAnswers": [
@@ -482,7 +650,7 @@
     {
       "number": 23,
       "part": 3,
-      "promptContext": ".. Questions 23–25 Complete the table below Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. PLAN FOR STUDY SYNDICATE Date Geology Topic Name of Presenter 9th May",
+      "promptContext": "9th May {{blank:23}}",
       "answerRaw": "Mountain building",
       "canonicalAnswer": "Mountain building",
       "acceptedAnswers": [
@@ -501,7 +669,7 @@
     {
       "number": 24,
       "part": 3,
-      "promptContext": ".. Bob",
+      "promptContext": "Bob {{blank:24}}",
       "answerRaw": "17 May",
       "canonicalAnswer": "17 May",
       "acceptedAnswers": [
@@ -520,7 +688,7 @@
     {
       "number": 25,
       "part": 3,
-      "promptContext": ". Glaciated areas Andy 23rd May Rock information Helen and John",
+      "promptContext": "Helen and John {{blank:25}}",
       "answerRaw": "29 May",
       "canonicalAnswer": "29 May",
       "acceptedAnswers": [
@@ -537,7 +705,7 @@
     {
       "number": 26,
       "part": 3,
-      "promptContext": ".. Volcanoes John Questions 26–30 Complete the notes below Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. o Presentation should last for",
+      "promptContext": "Presentation should last for {{blank:26}}",
       "answerRaw": "30–40 minutes",
       "canonicalAnswer": "30–40 minutes",
       "acceptedAnswers": [
@@ -556,7 +724,7 @@
     {
       "number": 27,
       "part": 3,
-      "promptContext": ". (plan time for",
+      "promptContext": "(plan time for {{blank:27}})",
       "answerRaw": "questions and discussion",
       "canonicalAnswer": "questions and discussion",
       "acceptedAnswers": [
@@ -578,7 +746,7 @@
     {
       "number": 28,
       "part": 3,
-      "promptContext": "..) o Sources of information Bibliography Library books",
+      "promptContext": "Library books {{blank:28}} {{blank:29}}",
       "answerRaw": "articles",
       "canonicalAnswer": "articles",
       "acceptedAnswers": [
@@ -595,7 +763,7 @@
     {
       "number": 29,
       "part": 3,
-      "promptContext": "..",
+      "promptContext": "Library books {{blank:28}} {{blank:29}}",
       "answerRaw": "internet",
       "canonicalAnswer": "internet",
       "acceptedAnswers": [
@@ -612,7 +780,7 @@
     {
       "number": 30,
       "part": 3,
-      "promptContext": ".. o For the presentations, use: Overahead projector Whiteboard",
+      "promptContext": "Whiteboard {{blank:30}}",
       "answerRaw": "photocopies",
       "canonicalAnswer": "photocopies",
       "acceptedAnswers": [
@@ -629,7 +797,7 @@
     {
       "number": 31,
       "part": 4,
-      "promptContext": "∙ Skin is",
+      "promptContext": "∙ Skin is {{blank:31}} and can vary in colour",
       "answerRaw": "smooth",
       "canonicalAnswer": "smooth",
       "acceptedAnswers": [
@@ -646,7 +814,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "and can vary in colour ∙ Skin is coated with a slippery film for",
+      "promptContext": "∙ Skin is coated with a slippery film for {{blank:32}}",
       "answerRaw": "protection",
       "canonicalAnswer": "protection",
       "acceptedAnswers": [
@@ -663,7 +831,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "∙ Males are",
+      "promptContext": "∙ Males are {{blank:33}} the size of females",
       "answerRaw": "half",
       "canonicalAnswer": "half",
       "acceptedAnswers": [
@@ -680,7 +848,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "the size of females Habitats ∙ Native to Africa ∙ Live in fresh water – prefered water that is",
+      "promptContext": "∙ Live in fresh water – prefered water that is {{blank:34}}",
       "answerRaw": "still",
       "canonicalAnswer": "still",
       "acceptedAnswers": [
@@ -699,7 +867,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": ". ∙ Can survive high levels of",
+      "promptContext": "∙ Can survive high levels of {{blank:35}} in water",
       "answerRaw": "salt",
       "canonicalAnswer": "salt",
       "acceptedAnswers": [
@@ -718,7 +886,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ".. in water ∙ Cannot survive if there is any metal in water ∙ In drought conditions, may live in",
+      "promptContext": "∙ In drought conditions, may live in {{blank:36}} for up to a year",
       "answerRaw": "mud",
       "canonicalAnswer": "mud",
       "acceptedAnswers": [
@@ -737,7 +905,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": ". for up to a year Diet ∙ Eat living or dead water creatures ∙ Find food using their sense of",
+      "promptContext": "∙ Find food using their sense of {{blank:37}}, their fingers, and their lateral lines",
       "answerRaw": "smell",
       "canonicalAnswer": "smell",
       "acceptedAnswers": [
@@ -756,7 +924,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "., their fingers, and their lateral lines ∙ Take food into their mouths using from legs and a",
+      "promptContext": "∙ Take food into their mouths using from legs and a {{blank:38}} system",
       "answerRaw": "pump",
       "canonicalAnswer": "pump",
       "acceptedAnswers": [
@@ -773,7 +941,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "system Other information ∙ Now popular as a pet in the US ∙ In some US states they are identified as a",
+      "promptContext": "∙ In some US states they are identified as a {{blank:39}}",
       "answerRaw": "pest",
       "canonicalAnswer": "pest",
       "acceptedAnswers": [
@@ -792,7 +960,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": ". ∙ Used in laboratories for developmental research ∙ Mucus from the skin was",
+      "promptContext": "∙ Mucus from the skin was {{blank:40}} properties",
       "answerRaw": "antibiotic",
       "canonicalAnswer": "antibiotic",
       "acceptedAnswers": [

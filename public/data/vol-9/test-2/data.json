@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "• The poppies will be at their best at the end of the",
+      "promptContext": "The poppies will be at their best at the end of the {{blank:1}}",
       "answerRaw": "month",
       "canonicalAnswer": "month",
       "acceptedAnswers": [
@@ -82,7 +82,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ".. . • The poppies on the hills are",
+      "promptContext": "The poppies on the hills are {{blank:2}} in colour.",
       "answerRaw": "orange",
       "canonicalAnswer": "orange",
       "acceptedAnswers": [
@@ -102,7 +102,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": ". in colour. The reserve is located to the",
+      "promptContext": "The reserve is located to the {{blank:3}} of Lakeside.",
       "answerRaw": "east",
       "canonicalAnswer": "east",
       "acceptedAnswers": [
@@ -119,7 +119,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": ". of Lakeside. • The best time for photography is mid-afternoon. • Wear",
+      "promptContext": "Wear {{blank:4}} because of rattlesnakes.",
       "answerRaw": "trousers",
       "canonicalAnswer": "trousers",
       "acceptedAnswers": [
@@ -136,7 +136,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": ".. because of rattlesnakes. • The reserve is a",
+      "promptContext": "The reserve is a {{blank:5}} park.",
       "answerRaw": "state",
       "canonicalAnswer": "state",
       "acceptedAnswers": [
@@ -155,7 +155,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": ". park. Questions 6–10 Complete the table below. Write ONE WORD AND/OR A NUMBER for each answer. Tour Start time Duration Highlights Photography The",
+      "promptContext": "The {{blank:6}} tour",
       "answerRaw": "general",
       "canonicalAnswer": "general",
       "acceptedAnswers": [
@@ -172,7 +172,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": ".. tour Every hour from 7:30 a.m. 30 minutes Viewpoints, film and the",
+      "promptContext": "Viewpoints, film and the {{blank:7}}",
       "answerRaw": "museum",
       "canonicalAnswer": "museum",
       "acceptedAnswers": [
@@ -189,7 +189,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "Panoramic pictures The wildflower tour Every two hours from 8:00 a.m.",
+      "promptContext": "{{blank:8}}",
       "answerRaw": "one hour,1 hour",
       "canonicalAnswer": "one hour",
       "acceptedAnswers": [
@@ -207,7 +207,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "Poppy, cream cup, and stage Close- up tips The wildlife tour",
+      "promptContext": "The wildlife tour {{blank:9}} a.m. or 7:00 p.m.",
       "answerRaw": "5.30,5:30",
       "canonicalAnswer": "5.30",
       "acceptedAnswers": [
@@ -227,7 +227,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "a.m. or 7:00 p.m. 1.5 hours Coyote, quail, roadrunners Bring tripod and a",
+      "promptContext": "Bring tripod and a {{blank:10}} lens",
       "answerRaw": "zoom",
       "canonicalAnswer": "zoom",
       "acceptedAnswers": [
@@ -255,7 +255,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "Jim says that in the Iron Age village A he is sometimes cold at night. B he always gets up early. C he has time to himself.",
+      "promptContext": "Jim says that in the Iron Age village",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -267,12 +267,26 @@
       "evidenceEndTime": 532.26,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "he is sometimes cold at night."
+        },
+        {
+          "key": "B",
+          "text": "he always gets up early."
+        },
+        {
+          "key": "C",
+          "text": "he has time to himself."
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "What does Jim say about the food they eat in the village? A It takes time to prepare. B It is difficult to get used to. C It has to be eaten quickly.",
+      "promptContext": "What does Jim say about the food they eat in the village?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -287,12 +301,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It takes time to prepare."
+        },
+        {
+          "key": "B",
+          "text": "It is difficult to get used to."
+        },
+        {
+          "key": "C",
+          "text": "It has to be eaten quickly."
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "Jim says that at the evening meal A they are sometimes too tired to eat. B they mainly have fruit and berries. C they talk about what they've done.",
+      "promptContext": "Jim says that at the evening meal",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -304,12 +332,26 @@
       "evidenceEndTime": 601.92,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "they are sometimes too tired to eat."
+        },
+        {
+          "key": "B",
+          "text": "they mainly have fruit and berries."
+        },
+        {
+          "key": "C",
+          "text": "they talk about what they've done."
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "The most important job for the blacksmiths is A to mend broken tools and implements. B to maintain a good source of heat. C to collect sufficient firewood.",
+      "promptContext": "The most important job for the blacksmiths is",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -321,12 +363,26 @@
       "evidenceEndTime": 623.72,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to mend broken tools and implements."
+        },
+        {
+          "key": "B",
+          "text": "to maintain a good source of heat."
+        },
+        {
+          "key": "C",
+          "text": "to collect sufficient firewood."
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "Jim likes the fact that in the village, people A do varied activities. B share their knowledge. C get a lot of exercise. Questions 16–20 Complete the flow-chart below. Choose FIVE correct answers from the box, A-I, next to questions 16-20. MAKING AN IRON AGE ROUNDHOUSE Mark centre of planned house with a",
+      "promptContext": "Jim likes the fact that in the village, people",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -338,12 +394,26 @@
       "evidenceEndTime": 710.08,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "do varied activities."
+        },
+        {
+          "key": "B",
+          "text": "share their knowledge."
+        },
+        {
+          "key": "C",
+          "text": "get a lot of exercise."
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "Mark centre of planned house with a",
+      "promptContext": "Mark centre of planned house with a {{blank:16}}",
       "answerRaw": "G peg",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -362,7 +432,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "↓ Mark out circle for outer boundary ↓ Dig ground using tools made from",
+      "promptContext": "Dig ground using tools made from {{blank:17}}",
       "answerRaw": "A bone",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -384,7 +454,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": ".. ↓ Insert wall posts (Iron Age builders preferred wood from oak trees) ↓ Slot more stakes into upright posts ↓ Insert centre post and build a wooden",
+      "promptContext": "Insert centre post and build a wooden {{blank:18}} around it",
       "answerRaw": "I scaffold",
       "canonicalAnswer": "I",
       "acceptedAnswers": [
@@ -406,7 +476,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": "around it ↓ Add main supporting beams and ring beams ↓ Complete roof framework using",
+      "promptContext": "Complete roof framework using {{blank:19}} wood rods",
       "answerRaw": "E hazel",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -425,7 +495,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "………… lengths ↓ Daub with mixture of clay, dung and straw A bone B different C equal D elm E hazel F iron G peg H roof I scaffold",
+      "promptContext": "Cover roof with reed bundles of {{blank:20}} lengths",
       "answerRaw": "C equal",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -444,7 +514,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "What do the students find surprising about the way that complaints were dealt with at the call centre? A the way that customers responded to it B the employees’s lack of enthusiasm for it C the kind of questions employees were obliged to ask",
+      "promptContext": "What do the students find surprising about the way that complaints were dealt with at the call centre?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -458,12 +528,26 @@
       "distractors": [
         "đảo chiều thông tin bằng 'however'"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the way that customers responded to it"
+        },
+        {
+          "key": "B",
+          "text": "the employees’s lack of enthusiasm for it"
+        },
+        {
+          "key": "C",
+          "text": "the kind of questions employees were obliged to ask"
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "What does Emma say about the report by Jerry Kaplan? A It shows how machines will respond to human needs. B It emphasises the variety of roles that machines will have. C It explains the limitations of machines.",
+      "promptContext": "What does Emma say about the report by Jerry Kaplan?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -477,12 +561,26 @@
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It shows how machines will respond to human needs."
+        },
+        {
+          "key": "B",
+          "text": "It emphasises the variety of roles that machines will have."
+        },
+        {
+          "key": "C",
+          "text": "It explains the limitations of machines."
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "What is Nick's reaction to the article The Human Cloud? A He agrees that companies should focus on making savings. B He supports the concept of greater flexibility for employees. C He approves of businesses spending more on recruiting experts.",
+      "promptContext": "What is Nick's reaction to the article The Human Cloud?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -494,12 +592,26 @@
       "evidenceEndTime": 1061.44,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "He agrees that companies should focus on making savings."
+        },
+        {
+          "key": "B",
+          "text": "He supports the concept of greater flexibility for employees."
+        },
+        {
+          "key": "C",
+          "text": "He approves of businesses spending more on recruiting experts."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "What do the students agree about the use of technology to collect information about employees? A Cameras are an effective means of maintaining security. B Sometimes productivity is more important than individual privacy. C Employees may object to certain types of monitoring. Questions 25–30 What issue do Emma and Nick discuss for each aspect of the presentation? Choose SIX correct answers, A-H, next to questions 25-30. Issues Aspects of the presentation Introduction",
+      "promptContext": "What do the students agree about the use of technology to collect information about employees?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -511,7 +623,21 @@
       "evidenceEndTime": 1091.6,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cameras are an effective means of maintaining security."
+        },
+        {
+          "key": "B",
+          "text": "Sometimes productivity is more important than individual privacy."
+        },
+        {
+          "key": "C",
+          "text": "Employees may object to certain types of monitoring."
+        }
+      ]
     },
     {
       "number": 25,
@@ -530,12 +656,46 @@
       "evidenceEndTime": 1197.82,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án H which of them will present it. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án H which of them will present it. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at which point of the presentation it should come"
+        },
+        {
+          "key": "B",
+          "text": "whether it should be removed completely"
+        },
+        {
+          "key": "C",
+          "text": "whether it is clear enough"
+        },
+        {
+          "key": "D",
+          "text": "if it needs to be completely re-written"
+        },
+        {
+          "key": "E",
+          "text": "if visuals will help or not"
+        },
+        {
+          "key": "F",
+          "text": "if the information needs to be checked"
+        },
+        {
+          "key": "G",
+          "text": "which further examples should be included"
+        },
+        {
+          "key": "H",
+          "text": "which of them will present it"
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": ".. Researcher profiles",
+      "promptContext": "Researcher profiles",
       "answerRaw": "B whether it should be removed completely",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -549,12 +709,46 @@
       "evidenceEndTime": 1204.68,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án B whether it should be removed completely. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án B whether it should be removed completely. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at which point of the presentation it should come"
+        },
+        {
+          "key": "B",
+          "text": "whether it should be removed completely"
+        },
+        {
+          "key": "C",
+          "text": "whether it is clear enough"
+        },
+        {
+          "key": "D",
+          "text": "if it needs to be completely re-written"
+        },
+        {
+          "key": "E",
+          "text": "if visuals will help or not"
+        },
+        {
+          "key": "F",
+          "text": "if the information needs to be checked"
+        },
+        {
+          "key": "G",
+          "text": "which further examples should be included"
+        },
+        {
+          "key": "H",
+          "text": "which of them will present it"
+        }
+      ]
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "Section on automation",
       "answerRaw": "D if it needs to be completely re-written",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -568,7 +762,41 @@
       "evidenceEndTime": 1204.68,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D if it needs to be completely re-written. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án D if it needs to be completely re-written. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at which point of the presentation it should come"
+        },
+        {
+          "key": "B",
+          "text": "whether it should be removed completely"
+        },
+        {
+          "key": "C",
+          "text": "whether it is clear enough"
+        },
+        {
+          "key": "D",
+          "text": "if it needs to be completely re-written"
+        },
+        {
+          "key": "E",
+          "text": "if visuals will help or not"
+        },
+        {
+          "key": "F",
+          "text": "if the information needs to be checked"
+        },
+        {
+          "key": "G",
+          "text": "which further examples should be included"
+        },
+        {
+          "key": "H",
+          "text": "which of them will present it"
+        }
+      ]
     },
     {
       "number": 28,
@@ -589,12 +817,46 @@
       "distractors": [
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án đúng là phương án G which further examples should be included. Lưu ý bẫy gây nhiễu (distractor): giới hạn phạm vi bằng 'only'."
+      "explanationVi": "Đáp án đúng là phương án G which further examples should be included. Lưu ý bẫy gây nhiễu (distractor): giới hạn phạm vi bằng 'only'.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at which point of the presentation it should come"
+        },
+        {
+          "key": "B",
+          "text": "whether it should be removed completely"
+        },
+        {
+          "key": "C",
+          "text": "whether it is clear enough"
+        },
+        {
+          "key": "D",
+          "text": "if it needs to be completely re-written"
+        },
+        {
+          "key": "E",
+          "text": "if visuals will help or not"
+        },
+        {
+          "key": "F",
+          "text": "if the information needs to be checked"
+        },
+        {
+          "key": "G",
+          "text": "which further examples should be included"
+        },
+        {
+          "key": "H",
+          "text": "which of them will present it"
+        }
+      ]
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": ". Section on tracking technology",
+      "promptContext": "Section on tracking technology",
       "answerRaw": "E if visuals will help or not",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -608,12 +870,46 @@
       "evidenceEndTime": 1251.78,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E if visuals will help or not. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E if visuals will help or not. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at which point of the presentation it should come"
+        },
+        {
+          "key": "B",
+          "text": "whether it should be removed completely"
+        },
+        {
+          "key": "C",
+          "text": "whether it is clear enough"
+        },
+        {
+          "key": "D",
+          "text": "if it needs to be completely re-written"
+        },
+        {
+          "key": "E",
+          "text": "if visuals will help or not"
+        },
+        {
+          "key": "F",
+          "text": "if the information needs to be checked"
+        },
+        {
+          "key": "G",
+          "text": "which further examples should be included"
+        },
+        {
+          "key": "H",
+          "text": "which of them will present it"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "………… A at which point of the presentation it should come B whether it should be removed completely C whether it is clear enough D if it needs to be completely re-written E if visuals will help or not F if the information needs to be checked G which further examples should be included H which of them will present it",
+      "promptContext": "Interview with company manager",
       "answerRaw": "F if the information needs to be checked",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -627,12 +923,46 @@
       "evidenceEndTime": 1263.5,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án F if the information needs to be checked. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án F if the information needs to be checked. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "at which point of the presentation it should come"
+        },
+        {
+          "key": "B",
+          "text": "whether it should be removed completely"
+        },
+        {
+          "key": "C",
+          "text": "whether it is clear enough"
+        },
+        {
+          "key": "D",
+          "text": "if it needs to be completely re-written"
+        },
+        {
+          "key": "E",
+          "text": "if visuals will help or not"
+        },
+        {
+          "key": "F",
+          "text": "if the information needs to be checked"
+        },
+        {
+          "key": "G",
+          "text": "which further examples should be included"
+        },
+        {
+          "key": "H",
+          "text": "which of them will present it"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "• in number of night workers because of",
+      "promptContext": "in number of night workers because of {{blank:31}} 24-hour shopping/services",
       "answerRaw": "the number of",
       "canonicalAnswer": "the number of",
       "acceptedAnswers": [
@@ -649,7 +979,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": ". 24-hour shopping/services • need to examine effects of changing work and sleep habits US and British research found these lead to health problems Main Causes: A",
+      "promptContext": "A {{blank:32}}",
       "answerRaw": "internal clock,the internal clock",
       "canonicalAnswer": "internal clock",
       "acceptedAnswers": [
@@ -667,7 +997,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "• regulates daily life • connected to behavioural patterns and cycles of",
+      "promptContext": "connected to behavioural patterns and cycles of {{blank:33}}",
       "answerRaw": "light and dark",
       "canonicalAnswer": "light and dark",
       "acceptedAnswers": [
@@ -687,7 +1017,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "• programmes us to be awake and asleep at certain times B Sleep Debt • impossible to get enough sleep during daytime C",
+      "promptContext": "C {{blank:34}}",
       "answerRaw": "unsocial hours",
       "canonicalAnswer": "unsocial hours",
       "acceptedAnswers": [
@@ -704,7 +1034,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": ". • different working/sleeping times, ‘dislocation’ Effects: A Physical • higher incidence of heart and",
+      "promptContext": "higher incidence of heart and {{blank:35}} problems",
       "answerRaw": "stomach",
       "canonicalAnswer": "stomach",
       "acceptedAnswers": [
@@ -721,7 +1051,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "problems • more minor illnesses, suggesting that immunity of shift workers is affected B Psychological • most common:",
+      "promptContext": "most common: {{blank:36}}",
       "answerRaw": "depression",
       "canonicalAnswer": "depression",
       "acceptedAnswers": [
@@ -738,7 +1068,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": ". •",
+      "promptContext": "{{blank:37}} affected, e.g. decision-making, planning, which regulate",
       "answerRaw": "mental abilities",
       "canonicalAnswer": "mental abilities",
       "acceptedAnswers": [
@@ -755,7 +1085,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "affected, e.g. decision-making, planning, which regulate our",
+      "promptContext": "our {{blank:38}}",
       "answerRaw": "performance",
       "canonicalAnswer": "performance",
       "acceptedAnswers": [
@@ -772,7 +1102,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "C Social Night shift work can lead to: • destruction of",
+      "promptContext": "destruction of {{blank:39}} and other relationships, e.g. {{blank:40}}",
       "answerRaw": "family life",
       "canonicalAnswer": "family life",
       "acceptedAnswers": [
@@ -789,7 +1119,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": ". and other relationships, e.g.",
+      "promptContext": "destruction of {{blank:39}} and other relationships, e.g. {{blank:40}}",
       "answerRaw": "peer group",
       "canonicalAnswer": "peer group",
       "acceptedAnswers": [

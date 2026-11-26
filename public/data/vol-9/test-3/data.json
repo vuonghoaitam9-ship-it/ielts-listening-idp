@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "The centre has enough accommodation for A. 18 people. B. 20 people. C. 38 people.",
+      "promptContext": "The centre has enough accommodation for",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -75,12 +75,26 @@
       "evidenceEndTime": 106.8,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "18 people."
+        },
+        {
+          "key": "B",
+          "text": "20 people."
+        },
+        {
+          "key": "C",
+          "text": "38 people."
+        }
+      ]
     },
     {
       "number": 2,
       "part": 1,
-      "promptContext": "The meeting room is currently A. unavailable. B. flooded. C. booked.",
+      "promptContext": "The meeting room is currently",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -92,12 +106,26 @@
       "evidenceEndTime": 205.78,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "unavailable."
+        },
+        {
+          "key": "B",
+          "text": "flooded."
+        },
+        {
+          "key": "C",
+          "text": "booked."
+        }
+      ]
     },
     {
       "number": 3,
       "part": 1,
-      "promptContext": "Visitors must tell the centre in advance if they want to A. use the centre’s kitchen. B. have meals cooked for them. C. eat at restaurants outside.",
+      "promptContext": "Visitors must tell the centre in advance if they want to",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -109,12 +137,26 @@
       "evidenceEndTime": 232.52,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "use the centre’s kitchen."
+        },
+        {
+          "key": "B",
+          "text": "have meals cooked for them."
+        },
+        {
+          "key": "C",
+          "text": "eat at restaurants outside."
+        }
+      ]
     },
     {
       "number": 4,
       "part": 1,
-      "promptContext": "All visitors on the of the farm can A. get information about organic farming. B. help to feed the animals. C. watch a tractor demonstration.",
+      "promptContext": "All visitors on the of the farm can",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -126,12 +168,26 @@
       "evidenceEndTime": 290.28,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "get information about organic farming."
+        },
+        {
+          "key": "B",
+          "text": "help to feed the animals."
+        },
+        {
+          "key": "C",
+          "text": "watch a tractor demonstration."
+        }
+      ]
     },
     {
       "number": 5,
       "part": 1,
-      "promptContext": "On the survival course, people have to A. learn to use map. B. find their own food. C. run through woodland.",
+      "promptContext": "On the survival course, people have to",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -143,12 +199,26 @@
       "evidenceEndTime": 393.08,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "learn to use map."
+        },
+        {
+          "key": "B",
+          "text": "find their own food."
+        },
+        {
+          "key": "C",
+          "text": "run through woodland."
+        }
+      ]
     },
     {
       "number": 6,
       "part": 1,
-      "promptContext": "From the centre, it is easy to walk to A. Exmoor National Park. B. the beach. C. a cycling rout.",
+      "promptContext": "From the centre, it is easy to walk to",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -165,12 +235,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'walk' ↔ 'walking'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'walk' ↔ 'walking'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Exmoor National Park."
+        },
+        {
+          "key": "B",
+          "text": "the beach."
+        },
+        {
+          "key": "C",
+          "text": "a cycling rout."
+        }
+      ]
     },
     {
       "number": 7,
       "part": 1,
-      "promptContext": "If the weather is bad visitors can go to a A. cinema. B. theatre. C. museum.",
+      "promptContext": "If the weather is bad visitors can go to a",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -185,12 +269,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cinema."
+        },
+        {
+          "key": "B",
+          "text": "theatre."
+        },
+        {
+          "key": "C",
+          "text": "museum."
+        }
+      ]
     },
     {
       "number": 8,
       "part": 1,
-      "promptContext": "Groups who wish to stay at the centre must pay A. part of the cost in advance. B. all of the cost in advance. C. all of the cost on arrival. Questions 9–10 Complete the notes below. Write ONE WORD AND/ OR NUMBERS for each answer. Address: Winsham Farm Rd",
+      "promptContext": "Groups who wish to stay at the centre must pay",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -202,12 +300,26 @@
       "evidenceEndTime": 516.34,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "part of the cost in advance."
+        },
+        {
+          "key": "B",
+          "text": "all of the cost in advance."
+        },
+        {
+          "key": "C",
+          "text": "all of the cost on arrival."
+        }
+      ]
     },
     {
       "number": 9,
       "part": 1,
-      "promptContext": "Rd",
+      "promptContext": "Rd {{blank:9}}",
       "answerRaw": "Cotehele",
       "canonicalAnswer": "Cotehele",
       "acceptedAnswers": [
@@ -224,7 +336,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "near Sherbone",
+      "promptContext": "near Sherbone {{blank:10}}",
       "answerRaw": "SH121LQ",
       "canonicalAnswer": "SH121LQ",
       "acceptedAnswers": [
@@ -241,7 +353,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "Stocktaking",
+      "promptContext": "Stocktaking {{blank:11}}",
       "answerRaw": "travelling",
       "canonicalAnswer": "travelling",
       "acceptedAnswers": [
@@ -258,7 +370,7 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "_ tiring",
+      "promptContext": "_ tiring {{blank:12}}",
       "answerRaw": "get good shoes",
       "canonicalAnswer": "get good shoes",
       "acceptedAnswers": [
@@ -277,7 +389,7 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": "Office work air-conditioning",
+      "promptContext": "Office work air-conditioning {{blank:13}} choose a {{blank:14}} theme park attendant {{blank:15}}",
       "answerRaw": "wearing formal clothes",
       "canonicalAnswer": "wearing formal clothes",
       "acceptedAnswers": [
@@ -294,7 +406,7 @@
     {
       "number": 14,
       "part": 2,
-      "promptContext": "choose a",
+      "promptContext": "Office work air-conditioning {{blank:13}} choose a {{blank:14}} theme park attendant {{blank:15}}",
       "answerRaw": "large office",
       "canonicalAnswer": "large office",
       "acceptedAnswers": [
@@ -316,7 +428,7 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "theme park attendant",
+      "promptContext": "Office work air-conditioning {{blank:13}} choose a {{blank:14}} theme park attendant {{blank:15}}",
       "answerRaw": "good pay",
       "canonicalAnswer": "good pay",
       "acceptedAnswers": [
@@ -333,7 +445,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "_ rude customers",
+      "promptContext": "_ rude customers {{blank:16}}",
       "answerRaw": "live nearby",
       "canonicalAnswer": "live nearby",
       "acceptedAnswers": [
@@ -352,7 +464,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "Peter learned about the job A. from a college friend. B. on the computer. C. from a student job centre.",
+      "promptContext": "Peter learned about the job",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -369,12 +481,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'job' ↔ 'work'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'job' ↔ 'work'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "from a college friend."
+        },
+        {
+          "key": "B",
+          "text": "on the computer."
+        },
+        {
+          "key": "C",
+          "text": "from a student job centre."
+        }
+      ]
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": "Peter mainly enjoyed the job because it was A. easy. B. challenging. C. unusual.",
+      "promptContext": "Peter mainly enjoyed the job because it was",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -391,12 +517,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'job' ↔ 'work'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'job' ↔ 'work'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "easy."
+        },
+        {
+          "key": "B",
+          "text": "challenging."
+        },
+        {
+          "key": "C",
+          "text": "unusual."
+        }
+      ]
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": "The job’s most interesting aspect was A. learning about the environment. B. working with children. C. caring for the animals.",
+      "promptContext": "The job’s most interesting aspect was",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -419,12 +559,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'children' ↔ 'kids'; 'job' ↔ 'career'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'children' ↔ 'kids'; 'job' ↔ 'career'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "learning about the environment."
+        },
+        {
+          "key": "B",
+          "text": "working with children."
+        },
+        {
+          "key": "C",
+          "text": "caring for the animals."
+        }
+      ]
     },
     {
       "number": 20,
       "part": 2,
-      "promptContext": "Peter has decided that next vacation he A. won’t take a job. B. will work at the zoo. C. will work elsewhere.",
+      "promptContext": "Peter has decided that next vacation he",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -443,12 +597,26 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'job' ↔ 'work'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'job' ↔ 'work'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "won’t take a job."
+        },
+        {
+          "key": "B",
+          "text": "will work at the zoo."
+        },
+        {
+          "key": "C",
+          "text": "will work elsewhere."
+        }
+      ]
     },
     {
       "number": 21,
       "part": 3,
-      "promptContext": "Ed is giving the voice coaching workshop in order to get A. a new job. B. a qualification. C. a promotion.",
+      "promptContext": "Ed is giving the voice coaching workshop in order to get",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -460,12 +628,26 @@
       "evidenceEndTime": 1012.7,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a new job."
+        },
+        {
+          "key": "B",
+          "text": "a qualification."
+        },
+        {
+          "key": "C",
+          "text": "a promotion."
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "According to Fiona, the seating pattern that Ed chooses A. should be illustrated visually. B. has to be explained in detail. C. is not particularly important.",
+      "promptContext": "According to Fiona, the seating pattern that Ed chooses",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -477,12 +659,26 @@
       "evidenceEndTime": 1032.36,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "should be illustrated visually."
+        },
+        {
+          "key": "B",
+          "text": "has to be explained in detail."
+        },
+        {
+          "key": "C",
+          "text": "is not particularly important."
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Fiona and Ed agree that in the first activity, the students A. may feel uncomfortable. B. like to make group contact. C. must focus on themselves.",
+      "promptContext": "Fiona and Ed agree that in the first activity, the students",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -497,12 +693,26 @@
         "người nói tự đính chính thông tin vừa nêu ('actually')",
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "may feel uncomfortable."
+        },
+        {
+          "key": "B",
+          "text": "like to make group contact."
+        },
+        {
+          "key": "C",
+          "text": "must focus on themselves."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "Fiona and Ed agree that in the second activity, Ed should A. insist which students work together. B. tell students to prepare a speech. C. include a focus on breath control.",
+      "promptContext": "Fiona and Ed agree that in the second activity, Ed should",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -517,12 +727,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "insist which students work together."
+        },
+        {
+          "key": "B",
+          "text": "tell students to prepare a speech."
+        },
+        {
+          "key": "C",
+          "text": "include a focus on breath control."
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "What does Fiona suggest about working in a big space? A. It could be outside or inside. B. It is best to go to somewhere like a park. C. It is useful for getting actors to shout.",
+      "promptContext": "What does Fiona suggest about working in a big space?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -537,12 +761,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It could be outside or inside."
+        },
+        {
+          "key": "B",
+          "text": "It is best to go to somewhere like a park."
+        },
+        {
+          "key": "C",
+          "text": "It is useful for getting actors to shout."
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "What does Fiona think of Ed's selection of texts? A. It should include more classical texts. B. It needs to focus on a single emotion. C. It has to cover a wider range. Questions 27–30 What disadvantage do the speakers identify for each of the following textbooks? Choose FOUR correct answers, A-G, next to questions 27-30. Disadvantages A too expensive B too limited C prejudiced D unrealistic E out of date F too detailed G unavailable Textbooks Vocal Instruction",
+      "promptContext": "What does Fiona think of Ed's selection of texts?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -556,7 +794,21 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It should include more classical texts."
+        },
+        {
+          "key": "B",
+          "text": "It needs to focus on a single emotion."
+        },
+        {
+          "key": "C",
+          "text": "It has to cover a wider range."
+        }
+      ]
     },
     {
       "number": 27,
@@ -575,7 +827,37 @@
       "evidenceEndTime": 1245.58,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E out of date. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E out of date. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too expensive"
+        },
+        {
+          "key": "B",
+          "text": "too limited"
+        },
+        {
+          "key": "C",
+          "text": "prejudiced"
+        },
+        {
+          "key": "D",
+          "text": "unrealistic"
+        },
+        {
+          "key": "E",
+          "text": "out of date"
+        },
+        {
+          "key": "F",
+          "text": "too detailed"
+        },
+        {
+          "key": "G",
+          "text": "unavailable"
+        }
+      ]
     },
     {
       "number": 28,
@@ -597,7 +879,37 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án đúng là phương án B too limited. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án B too limited. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too expensive"
+        },
+        {
+          "key": "B",
+          "text": "too limited"
+        },
+        {
+          "key": "C",
+          "text": "prejudiced"
+        },
+        {
+          "key": "D",
+          "text": "unrealistic"
+        },
+        {
+          "key": "E",
+          "text": "out of date"
+        },
+        {
+          "key": "F",
+          "text": "too detailed"
+        },
+        {
+          "key": "G",
+          "text": "unavailable"
+        }
+      ]
     },
     {
       "number": 29,
@@ -616,7 +928,37 @@
       "evidenceEndTime": 1277.6,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án G unavailable. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án G unavailable. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too expensive"
+        },
+        {
+          "key": "B",
+          "text": "too limited"
+        },
+        {
+          "key": "C",
+          "text": "prejudiced"
+        },
+        {
+          "key": "D",
+          "text": "unrealistic"
+        },
+        {
+          "key": "E",
+          "text": "out of date"
+        },
+        {
+          "key": "F",
+          "text": "too detailed"
+        },
+        {
+          "key": "G",
+          "text": "unavailable"
+        }
+      ]
     },
     {
       "number": 30,
@@ -635,12 +977,42 @@
       "evidenceEndTime": 1301.78,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D unrealistic. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án D unrealistic. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "too expensive"
+        },
+        {
+          "key": "B",
+          "text": "too limited"
+        },
+        {
+          "key": "C",
+          "text": "prejudiced"
+        },
+        {
+          "key": "D",
+          "text": "unrealistic"
+        },
+        {
+          "key": "E",
+          "text": "out of date"
+        },
+        {
+          "key": "F",
+          "text": "too detailed"
+        },
+        {
+          "key": "G",
+          "text": "unavailable"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "• the product's",
+      "promptContext": "the product's {{blank:31}} (could they attract harmful bacteria?)",
       "answerRaw": "ingredients",
       "canonicalAnswer": "ingredients",
       "acceptedAnswers": [
@@ -657,7 +1029,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "(could they attract harmful bacteria?) • method of preparation (will it eliminate harmful micro-organisms?) • how products are",
+      "promptContext": "how products are {{blank:32}} and distributed",
       "answerRaw": "stored",
       "canonicalAnswer": "stored",
       "acceptedAnswers": [
@@ -679,7 +1051,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "and distributed • supermarkets (e.g. changes in",
+      "promptContext": "supermarkets (e.g. changes in {{blank:33}} affecting the condition of frozen food",
       "answerRaw": "temperature",
       "canonicalAnswer": "temperature",
       "acceptedAnswers": [
@@ -696,7 +1068,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "affecting the condition of frozen food • end-users (how is food usually handled in the home?) Factors affecting food consumption Legislation Consumer attitudes • e.g. dislike of additives → growth of the",
+      "promptContext": "e.g. dislike of additives → growth of the {{blank:34}} food market in Australia",
       "answerRaw": "organic",
       "canonicalAnswer": "organic",
       "acceptedAnswers": [
@@ -713,7 +1085,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "food market in Australia The food industry • supermarkets may use price or",
+      "promptContext": "supermarkets may use price or {{blank:35}} as their selling strategy (but the main concern is profitability)",
       "answerRaw": "image",
       "canonicalAnswer": "image",
       "acceptedAnswers": [
@@ -730,7 +1102,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "as their selling strategy (but the main concern is profitability) The mass media • now the main source of",
+      "promptContext": "now the main source of {{blank:36}} for many",
       "answerRaw": "information",
       "canonicalAnswer": "information",
       "acceptedAnswers": [
@@ -754,7 +1126,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "for many • negative effect because not objective: concern for",
+      "promptContext": "concern for {{blank:37}}",
       "answerRaw": "sales",
       "canonicalAnswer": "sales",
       "acceptedAnswers": [
@@ -771,7 +1143,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "news is now a form of",
+      "promptContext": "news is now a form of {{blank:38}} which can mislead the public",
       "answerRaw": "entertainment",
       "canonicalAnswer": "entertainment",
       "acceptedAnswers": [
@@ -788,7 +1160,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "which can mislead the public • few programmes deal with food safety or",
+      "promptContext": "few programmes deal with food safety or {{blank:39}}",
       "answerRaw": "nutritions",
       "canonicalAnswer": "nutritions",
       "acceptedAnswers": [
@@ -805,7 +1177,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "Personal opinion Importance of education: as with benefits of exercise, many children can influence their",
+      "promptContext": "their {{blank:40}}",
       "answerRaw": "parents",
       "canonicalAnswer": "parents",
       "acceptedAnswers": [

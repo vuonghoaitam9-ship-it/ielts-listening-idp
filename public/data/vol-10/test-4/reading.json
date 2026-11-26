@@ -134,11 +134,11 @@
           "type": "gap_fill",
           "instruction": "Complete the sentences below. Write ONE WORD ONLY from the passage for each answer.",
           "wordLimit": "ONE WORD ONLY",
-          "bodyText": "In France, people began to overcome their disgust towards potatoes because the King put a\npotato 6. ____________ in his buttonhole. Frederick realised the potential of the potato, but he\nhad to handle the 7. ____________ from ordinary people.\nThe King of Prussia adopted a form of 8. ____________psychology to make people accept\npotatoes.\nBefore 1800, English people preferred eating 9. ____________ with bread, butter and cheese.\nThe obvious way to deal with England’s food problems was high-yielding potato\n11.\n____________.\nThe Irish 11. ____________and climate suited potatoes well.\nBetween 1780 and 1841, thanks to the 12. ____________of the potato, the Irish population\ndoubled to eight million.\nThe potato’s high yields helped the poorest farmers to produce more healthy food almost\nwithout 13. ____________ or hard labour.\nSolving the problem of waste disposal\nWith the amount of rubbish being being produced around the world increasing, Mark Rowe asks\nwhether a new generation of incineration plants can help to solve the problem",
+          "bodyText": "In France, people began to overcome their disgust towards potatoes because the King put a\npotato {{blank:6}} in his buttonhole. Frederick realised the potential of the potato, but he\nhad to handle the {{blank:7}} from ordinary people.\nThe King of Prussia adopted a form of {{blank:8}} psychology to make people accept\npotatoes.\nBefore 1800, English people preferred eating {{blank:9}} with bread, butter and cheese.\nThe obvious way to deal with England’s food problems was high-yielding potato\n{{blank:11}}\nThe Irish {{blank:11}} and climate suited potatoes well.\nBetween 1780 and 1841, thanks to the {{blank:12}} of the potato, the Irish population\ndoubled to eight million.\nThe potato’s high yields helped the poorest farmers to produce more healthy food almost\nwithout {{blank:13}} or hard labour.\nSolving the problem of waste disposal\nWith the amount of rubbish being being produced around the world increasing, Mark Rowe asks\nwhether a new generation of incineration plants can help to solve the problem",
           "questions": [
             {
               "number": 6,
-              "prompt": "Question 6",
+              "prompt": "In France, people began to overcome their disgust towards potatoes because the King put a\npotato {{blank:6}} in his buttonhole.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "flower"
@@ -151,7 +151,7 @@
             },
             {
               "number": 7,
-              "prompt": "Question 7",
+              "prompt": "Frederick realised the potential of the potato, but he\nhad to handle the {{blank:7}} from ordinary people.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "prejudice"
@@ -164,7 +164,7 @@
             },
             {
               "number": 8,
-              "prompt": "Question 8",
+              "prompt": "The King of Prussia adopted a form of {{blank:8}} psychology to make people accept\npotatoes.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "reverse"
@@ -177,7 +177,7 @@
             },
             {
               "number": 9,
-              "prompt": "Question 9",
+              "prompt": "Before 1800, English people preferred eating {{blank:9}} with bread, butter and cheese.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "meat"
@@ -203,7 +203,7 @@
             },
             {
               "number": 11,
-              "prompt": "Question 11",
+              "prompt": "The obvious way to deal with England’s food problems was high-yielding potato\n{{blank:11}}\nThe Irish {{blank:11}} and climate suited potatoes well.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "soil"
@@ -216,20 +216,20 @@
             },
             {
               "number": 12,
-              "prompt": "Question 12",
+              "prompt": "Between 1780 and 1841, thanks to the {{blank:12}} of the potato, the Irish population\ndoubled to eight million.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "cultivation"
               ],
-              "evidenceParagraphId": "P4",
-              "evidenceLocation": "Đoạn 4, câu 2",
-              "evidenceQuote": "In 1662, the Royal Society recommended the cultivation of the tuber to the English government and the nation, but this recommendation had little impact.",
-              "evidenceTranslationVi": "Năm 1662, Hiệp hội Hoàng gia đã khuyến nghị chính phủ và quốc gia Anh trồng củ này, nhưng khuyến nghị này không có nhiều tác động.",
-              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 4, câu 2 để điền \"cultivation\"."
+              "evidenceParagraphId": "P7",
+              "evidenceLocation": "Đoạn 7, câu 4",
+              "evidenceQuote": "The Irish population doubled to eight million between 1780 and 1841, without any significant expansion of industry or reform of agricultural techniques beyond the widespread cultivation of the potato.",
+              "evidenceTranslationVi": "The Irish population doubled to eight million between 1780 and 1841, without any significant expansion of industry or reform of agricultural techniques beyond the widespread cultivation of the potato.",
+              "explanationVi": "Đối chiếu câu hỏi với ngữ cảnh tại Đoạn 7, câu 4 để điền \"cultivation\"."
             },
             {
               "number": 13,
-              "prompt": "Question 13",
+              "prompt": "The potato’s high yields helped the poorest farmers to produce more healthy food almost\nwithout {{blank:13}} or hard labour.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "investment"
@@ -757,11 +757,11 @@
           "type": "gap_fill",
           "instruction": "Complete the summary below. Write ONE WORD ONLY from the passage for each answer.",
           "wordLimit": "ONE WORD ONLY",
-          "bodyText": "What recent history tells us about recycling\nRichard Fisher, a researcher from Cranfield University, points out that the pace of consumerism\nhas increased more quickly than was predicted in the 1980s. There has, for example, been\nunexpected growth in waste from 24. _____________ products. He suggests that the need to\nprotect the environment should be linked to basic values, and adds that it might be better if\nconsumers had more influence over 25. _____________ and more direction was provided by",
+          "bodyText": "What recent history tells us about recycling\nRichard Fisher, a researcher from Cranfield University, points out that the pace of consumerism\nhas increased more quickly than was predicted in the 1980s. There has, for example, been\nunexpected growth in waste from {{blank:24}} products. He suggests that the need to\nprotect the environment should be linked to basic values, and adds that it might be better if\nconsumers had more influence over {{blank:25}} and more direction was provided by",
           "questions": [
             {
               "number": 24,
-              "prompt": "Question 24",
+              "prompt": "There has, for example, been\nunexpected growth in waste from {{blank:24}} products.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "electronic"
@@ -774,7 +774,7 @@
             },
             {
               "number": 25,
-              "prompt": "Question 25",
+              "prompt": "He suggests that the need to\nprotect the environment should be linked to basic values, and adds that it might be better if\nconsumers had more influence over {{blank:25}} and more direction was provided by",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "business"
@@ -940,11 +940,11 @@
           "type": "gap_fill",
           "instruction": "Complete the summary below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
           "wordLimit": "NO MORE THAN TWO WORDS",
-          "bodyText": "Net environmental benefit analysis\nIn this process, decisions about environmental incidents are made by specialists, drawing on\nboth their expertise and\n32. _____________. The factors that are considered include\ndestruction of the environment, more long-term 33. _____________ aspects such as the effect\non tourism, and a practical matter that may be linked to the 34. _____________ of various\nclean-up methods.\nSeveral types of intensive clean-up methods have been used in different parts of the world.\nThese include the use of high-pressure",
+          "bodyText": "Net environmental benefit analysis\nIn this process, decisions about environmental incidents are made by specialists, drawing on\nboth their expertise and\n{{blank:32}} The factors that are considered include\ndestruction of the environment, more long-term {{blank:33}} aspects such as the effect\non tourism, and a practical matter that may be linked to the {{blank:34}} of various\nclean-up methods.\nSeveral types of intensive clean-up methods have been used in different parts of the world.\nThese include the use of high-pressure",
           "questions": [
             {
               "number": 32,
-              "prompt": "_____________. The factors that are considered include",
+              "prompt": "Net environmental benefit analysis\nIn this process, decisions about environmental incidents are made by specialists, drawing on\nboth their expertise and\n{{blank:32}} The factors that are considered include\ndestruction of the environment, more long-term {{blank:33}} aspects such as the effect\non tourism, and a practical matter that may be linked to the {{blank:34}} of various\nclean-up methods.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "local knowledge"
@@ -957,7 +957,7 @@
             },
             {
               "number": 33,
-              "prompt": "Question 33",
+              "prompt": "Net environmental benefit analysis\nIn this process, decisions about environmental incidents are made by specialists, drawing on\nboth their expertise and\n{{blank:32}} The factors that are considered include\ndestruction of the environment, more long-term {{blank:33}} aspects such as the effect\non tourism, and a practical matter that may be linked to the {{blank:34}} of various\nclean-up methods.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "socio-economic"
@@ -970,7 +970,7 @@
             },
             {
               "number": 34,
-              "prompt": "Question 34",
+              "prompt": "Net environmental benefit analysis\nIn this process, decisions about environmental incidents are made by specialists, drawing on\nboth their expertise and\n{{blank:32}} The factors that are considered include\ndestruction of the environment, more long-term {{blank:33}} aspects such as the effect\non tourism, and a practical matter that may be linked to the {{blank:34}} of various\nclean-up methods.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "cost"

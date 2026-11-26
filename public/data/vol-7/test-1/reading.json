@@ -1176,11 +1176,11 @@
           "type": "gap_fill",
           "instruction": "Complete the summary below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
           "wordLimit": "NO MORE THAN TWO WORDS",
-          "bodyText": "The use of fire\nNeanderthalers could not have survived without fire because the conditions\nthey lived in were 37..…… Most evidence of purpose-built fires takes the form\nof ash piles, features of which suggest that the fires lasted a {{blank:38}} … time. It is\nhard to be certain about the size and structure of the fires, though they were\ncertainly needed to protect the occupants from dangerous {{blank:39}} among other\nthings.",
+          "bodyText": "The use of fire\nNeanderthalers could not have survived without fire because the conditions\nthey lived in were {{blank:37}} Most evidence of purpose-built fires takes the form\nof ash piles, features of which suggest that the fires lasted a {{blank:38}} time. It is\nhard to be certain about the size and structure of the fires, though they were\ncertainly needed to protect the occupants from dangerous {{blank:39}} among other\nthings.",
           "questions": [
             {
               "number": 37,
-              "prompt": "Question 37",
+              "prompt": "The use of fire\nNeanderthalers could not have survived without fire because the conditions\nthey lived in were {{blank:37}} Most evidence of purpose-built fires takes the form\nof ash piles, features of which suggest that the fires lasted a {{blank:38}} time.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "sub-arctic"
@@ -1193,7 +1193,7 @@
             },
             {
               "number": 38,
-              "prompt": "The use of fire\nNeanderthalers could not have survived without fire because the conditions\nthey lived in were 37..…… Most evidence of purpose-built fires takes the form\nof ash piles, features of which suggest that the fires lasted a {{blank:38}} … time.",
+              "prompt": "The use of fire\nNeanderthalers could not have survived without fire because the conditions\nthey lived in were {{blank:37}} Most evidence of purpose-built fires takes the form\nof ash piles, features of which suggest that the fires lasted a {{blank:38}} time.",
               "type": "gap_fill",
               "acceptedAnswers": [
                 "short"

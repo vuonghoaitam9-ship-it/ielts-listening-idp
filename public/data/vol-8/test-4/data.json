@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Address:",
+      "promptContext": "Address: {{blank:1}} Road, West Bromwich",
       "answerRaw": "354 Forest",
       "canonicalAnswer": "354 Forest",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "Road, West Bromwich Phone:",
+      "promptContext": "Phone: {{blank:2}}",
       "answerRaw": "07817983602",
       "canonicalAnswer": "07817983602",
       "acceptedAnswers": [
@@ -97,7 +97,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "Occupation:",
+      "promptContext": "Occupation: {{blank:3}}",
       "answerRaw": "dentist",
       "canonicalAnswer": "dentist",
       "acceptedAnswers": [
@@ -116,7 +116,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "Details of property wanted A two-bedroom:",
+      "promptContext": "A two-bedroom: {{blank:4}} apartment to rent",
       "answerRaw": "unfurnished",
       "canonicalAnswer": "unfurnished",
       "acceptedAnswers": [
@@ -133,7 +133,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "apartment to rent Maximum rent £650 a month The bedrooms must be",
+      "promptContext": "The bedrooms must be {{blank:5}}",
       "answerRaw": "doubles",
       "canonicalAnswer": "doubles",
       "acceptedAnswers": [
@@ -150,7 +150,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "Date required",
+      "promptContext": "Date required {{blank:6}}",
       "answerRaw": "1 November, 1st November, November 1, November 1st",
       "canonicalAnswer": "1 November",
       "acceptedAnswers": [
@@ -170,7 +170,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "If possible, the apartment should: • have a",
+      "promptContext": "have a {{blank:7}} or a {{blank:8}}",
       "answerRaw": "balcony",
       "canonicalAnswer": "balcony",
       "acceptedAnswers": [
@@ -190,7 +190,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "or a",
+      "promptContext": "have a {{blank:7}} or a {{blank:8}}",
       "answerRaw": "garden",
       "canonicalAnswer": "garden",
       "acceptedAnswers": [
@@ -209,7 +209,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "• be near a",
+      "promptContext": "be near a {{blank:9}}",
       "answerRaw": "station",
       "canonicalAnswer": "station",
       "acceptedAnswers": [
@@ -229,7 +229,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "• have a large",
+      "promptContext": "have a large {{blank:10}}",
       "answerRaw": "kitchen",
       "canonicalAnswer": "kitchen",
       "acceptedAnswers": [
@@ -246,7 +246,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "Compared to last years storm, this year A. more houses in the area were affected. B. the water levels rose much higher. C. there was more severe damage to trees.",
+      "promptContext": "Compared to last years storm, this year",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -260,12 +260,26 @@
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "more houses in the area were affected."
+        },
+        {
+          "key": "B",
+          "text": "the water levels rose much higher."
+        },
+        {
+          "key": "C",
+          "text": "there was more severe damage to trees."
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "According to the speaker, what should you do if your home has been flooded? A. switch off the electricity B. try to drain the water C. wait for a few days",
+      "promptContext": "According to the speaker, what should you do if your home has been flooded?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -279,12 +293,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "switch off the electricity"
+        },
+        {
+          "key": "B",
+          "text": "try to drain the water"
+        },
+        {
+          "key": "C",
+          "text": "wait for a few days"
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "What does the speaker advise residents to do with their garden waste? A. put it in a special bin B. take it to the council rubbish centre C. pile it next to the road",
+      "promptContext": "What does the speaker advise residents to do with their garden waste?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -299,12 +327,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "put it in a special bin"
+        },
+        {
+          "key": "B",
+          "text": "take it to the council rubbish centre"
+        },
+        {
+          "key": "C",
+          "text": "pile it next to the road"
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "People who cannot cook food should A. pick up vouchers from the council office B. get a meal in the community centre C. arrange for food to be brought to their home",
+      "promptContext": "People who cannot cook food should",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -324,12 +366,26 @@
         "từ chối hoặc báo không khả dụng ('I'm afraid')",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'food' ↔ 'meals'. Lưu ý bẫy gây nhiễu (distractor): từ chối hoặc báo không khả dụng ('I'm afraid')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'food' ↔ 'meals'. Lưu ý bẫy gây nhiễu (distractor): từ chối hoặc báo không khả dụng ('I'm afraid').",
+      "options": [
+        {
+          "key": "A",
+          "text": "pick up vouchers from the council office"
+        },
+        {
+          "key": "B",
+          "text": "get a meal in the community centre"
+        },
+        {
+          "key": "C",
+          "text": "arrange for food to be brought to their home"
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "People who want to help out are asked to A. contact their local council office B. come to the community centre in the morning C. bring their tools to the council office",
+      "promptContext": "People who want to help out are asked to",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -348,12 +404,26 @@
       "distractors": [
         "thay thế phương án ban đầu bằng lựa chọn khác ('instead')"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'local' ↔ 'community'. Lưu ý bẫy gây nhiễu (distractor): thay thế phương án ban đầu bằng lựa chọn khác ('instead')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'local' ↔ 'community'. Lưu ý bẫy gây nhiễu (distractor): thay thế phương án ban đầu bằng lựa chọn khác ('instead').",
+      "options": [
+        {
+          "key": "A",
+          "text": "contact their local council office"
+        },
+        {
+          "key": "B",
+          "text": "come to the community centre in the morning"
+        },
+        {
+          "key": "C",
+          "text": "bring their tools to the council office"
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "What problem should residents report to the council? A. an increased number of mosquitoes B. native animals found in unusual places C. contaminated water Questions 17–20 What comment does the speaker make about each of the following place? Choose FOUR correct answers, A-F, next to questions 17-20. Comments A It can't be reache by car. B Repairs are now finished. C Planned work has been cancelled. D Help is needed to move furniture. E New equipment will be bought. F Part of the building is damage. Places The school",
+      "promptContext": "What problem should residents report to the council?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -365,7 +435,21 @@
       "evidenceEndTime": 535.12,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "an increased number of mosquitoes"
+        },
+        {
+          "key": "B",
+          "text": "native animals found in unusual places"
+        },
+        {
+          "key": "C",
+          "text": "contaminated water"
+        }
+      ]
     },
     {
       "number": 17,
@@ -384,7 +468,33 @@
       "evidenceEndTime": 590.34,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D Help is needed to move furniture.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án D Help is needed to move furniture.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It can't be reache by car."
+        },
+        {
+          "key": "B",
+          "text": "Repairs are now finished."
+        },
+        {
+          "key": "C",
+          "text": "Planned work has been cancelled."
+        },
+        {
+          "key": "D",
+          "text": "Help is needed to move furniture."
+        },
+        {
+          "key": "E",
+          "text": "New equipment will be bought."
+        },
+        {
+          "key": "F",
+          "text": "Part of the building is damage."
+        }
+      ]
     },
     {
       "number": 18,
@@ -405,7 +515,33 @@
       "distractors": [
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án đúng là phương án F Part of the building is damage.. Lưu ý bẫy gây nhiễu (distractor): giới hạn phạm vi bằng 'only'."
+      "explanationVi": "Đáp án đúng là phương án F Part of the building is damage.. Lưu ý bẫy gây nhiễu (distractor): giới hạn phạm vi bằng 'only'.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It can't be reache by car."
+        },
+        {
+          "key": "B",
+          "text": "Repairs are now finished."
+        },
+        {
+          "key": "C",
+          "text": "Planned work has been cancelled."
+        },
+        {
+          "key": "D",
+          "text": "Help is needed to move furniture."
+        },
+        {
+          "key": "E",
+          "text": "New equipment will be bought."
+        },
+        {
+          "key": "F",
+          "text": "Part of the building is damage."
+        }
+      ]
     },
     {
       "number": 19,
@@ -426,7 +562,33 @@
       "distractors": [
         "từ chối hoặc báo không khả dụng ('I'm afraid')"
       ],
-      "explanationVi": "Đáp án đúng là phương án A It cAn't be reache by car.. Lưu ý bẫy gây nhiễu (distractor): từ chối hoặc báo không khả dụng ('I'm afraid')."
+      "explanationVi": "Đáp án đúng là phương án A It cAn't be reache by car.. Lưu ý bẫy gây nhiễu (distractor): từ chối hoặc báo không khả dụng ('I'm afraid').",
+      "options": [
+        {
+          "key": "A",
+          "text": "It can't be reache by car."
+        },
+        {
+          "key": "B",
+          "text": "Repairs are now finished."
+        },
+        {
+          "key": "C",
+          "text": "Planned work has been cancelled."
+        },
+        {
+          "key": "D",
+          "text": "Help is needed to move furniture."
+        },
+        {
+          "key": "E",
+          "text": "New equipment will be bought."
+        },
+        {
+          "key": "F",
+          "text": "Part of the building is damage."
+        }
+      ]
     },
     {
       "number": 20,
@@ -445,12 +607,38 @@
       "evidenceEndTime": 634.36,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án C Planned work has been cancelled.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án C Planned work has been cancelled.. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It can't be reache by car."
+        },
+        {
+          "key": "B",
+          "text": "Repairs are now finished."
+        },
+        {
+          "key": "C",
+          "text": "Planned work has been cancelled."
+        },
+        {
+          "key": "D",
+          "text": "Help is needed to move furniture."
+        },
+        {
+          "key": "E",
+          "text": "New equipment will be bought."
+        },
+        {
+          "key": "F",
+          "text": "Part of the building is damage."
+        }
+      ]
     },
     {
       "number": 21,
       "part": 3,
-      "promptContext": "Current course:",
+      "promptContext": "Current course: {{blank:21}}",
       "answerRaw": "Economic History",
       "canonicalAnswer": "Economic History",
       "acceptedAnswers": [
@@ -467,7 +655,7 @@
     {
       "number": 22,
       "part": 3,
-      "promptContext": "Date started:",
+      "promptContext": "Date started: {{blank:22}}",
       "answerRaw": "last September",
       "canonicalAnswer": "last September",
       "acceptedAnswers": [
@@ -484,7 +672,7 @@
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Courses interested in: 1st choice",
+      "promptContext": "1st choice {{blank:23}}",
       "answerRaw": "Politics",
       "canonicalAnswer": "Politics",
       "acceptedAnswers": [
@@ -504,7 +692,7 @@
     {
       "number": 24,
       "part": 3,
-      "promptContext": "2nd choice",
+      "promptContext": "2nd choice {{blank:24}}",
       "answerRaw": "Philosophy",
       "canonicalAnswer": "Philosophy",
       "acceptedAnswers": [
@@ -524,7 +712,7 @@
     {
       "number": 25,
       "part": 3,
-      "promptContext": "Problem Strategies tried Further strategies suggested finds",
+      "promptContext": "Further strategies suggested finds {{blank:25}} recording them",
       "answerRaw": "difficult",
       "canonicalAnswer": "difficult",
       "acceptedAnswers": [
@@ -541,7 +729,7 @@
     {
       "number": 26,
       "part": 3,
-      "promptContext": "recording them join other students in a",
+      "promptContext": "join other students in a {{blank:26}} {{blank:27}} talking to tutor arrange meetings in advance bad assignment more background reading {{blank:28}}",
       "answerRaw": "discussion group",
       "canonicalAnswer": "discussion group",
       "acceptedAnswers": [
@@ -560,7 +748,7 @@
     {
       "number": 27,
       "part": 3,
-      "promptContext": "",
+      "promptContext": "join other students in a {{blank:26}} {{blank:27}} talking to tutor arrange meetings in advance bad assignment more background reading {{blank:28}}",
       "answerRaw": "not enough tutorials",
       "canonicalAnswer": "not enough tutorials",
       "acceptedAnswers": [
@@ -579,7 +767,7 @@
     {
       "number": 28,
       "part": 3,
-      "promptContext": "talking to tutor arrange meetings in advance bad assignment more background reading",
+      "promptContext": "join other students in a {{blank:26}} {{blank:27}} talking to tutor arrange meetings in advance bad assignment more background reading {{blank:28}}",
       "answerRaw": "visiting student services",
       "canonicalAnswer": "visiting student services",
       "acceptedAnswers": [
@@ -596,7 +784,7 @@
     {
       "number": 29,
       "part": 3,
-      "promptContext": "Date for next meeting:",
+      "promptContext": "Date for next meeting: {{blank:29}} at 3.30 p.m.",
       "answerRaw": "17th of February, 17 February, February 17, 17th February, 17 February",
       "canonicalAnswer": "17th of February",
       "acceptedAnswers": [
@@ -618,7 +806,7 @@
     {
       "number": 30,
       "part": 3,
-      "promptContext": "at 3.30 p.m. With:",
+      "promptContext": "With: {{blank:30}}",
       "answerRaw": "senior advisor",
       "canonicalAnswer": "senior advisor",
       "acceptedAnswers": [
@@ -637,7 +825,7 @@
     {
       "number": 31,
       "part": 4,
-      "promptContext": "The museum started displaying perfume ornaments when A. a collection was donated B. the public showed an interest in them C. an expert decided some of them were valuable",
+      "promptContext": "The museum started displaying perfume ornaments when",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -656,12 +844,26 @@
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'public' ↔ 'general public'. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'public' ↔ 'general public'. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a collection was donated"
+        },
+        {
+          "key": "B",
+          "text": "the public showed an interest in them"
+        },
+        {
+          "key": "C",
+          "text": "an expert decided some of them were valuable"
+        }
+      ]
     },
     {
       "number": 32,
       "part": 4,
-      "promptContext": "People needed to wear perfume in the 11 century because A. washing was considered dangerous B. soap was not generally available C. water shortages were common",
+      "promptContext": "People needed to wear perfume in the 11 century because",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -673,12 +875,26 @@
       "evidenceEndTime": 1231.48,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "washing was considered dangerous"
+        },
+        {
+          "key": "B",
+          "text": "soap was not generally available"
+        },
+        {
+          "key": "C",
+          "text": "water shortages were common"
+        }
+      ]
     },
     {
       "number": 33,
       "part": 4,
-      "promptContext": "The perfume ornament known as a 'pomander took its name from A. the substance it was made of B. the liquid inside it C. the person who invented it",
+      "promptContext": "The perfume ornament known as a 'pomander took its name from",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -690,12 +906,26 @@
       "evidenceEndTime": 1251.32,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the substance it was made of"
+        },
+        {
+          "key": "B",
+          "text": "the liquid inside it"
+        },
+        {
+          "key": "C",
+          "text": "the person who invented it"
+        }
+      ]
     },
     {
       "number": 34,
       "part": 4,
-      "promptContext": "In medieval times, it was thought that wearing perfume made people A. more wealthy B. more attractive C. more cheerful",
+      "promptContext": "In medieval times, it was thought that wearing perfume made people",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -709,12 +939,26 @@
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế.",
+      "options": [
+        {
+          "key": "A",
+          "text": "more wealthy"
+        },
+        {
+          "key": "B",
+          "text": "more attractive"
+        },
+        {
+          "key": "C",
+          "text": "more cheerful"
+        }
+      ]
     },
     {
       "number": 35,
       "part": 4,
-      "promptContext": "Craftsmen found ways of preventing liquid perfume from A being spilled B drying up C losing its scent",
+      "promptContext": "Craftsmen found ways of preventing liquid perfume from",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -729,12 +973,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "being spilled"
+        },
+        {
+          "key": "B",
+          "text": "drying up"
+        },
+        {
+          "key": "C",
+          "text": "losing its scent"
+        }
+      ]
     },
     {
       "number": 36,
       "part": 4,
-      "promptContext": "The perfume in a vinaigrette was A. preserved in solid form B. absorbed by a sponge C. heated over a flame",
+      "promptContext": "The perfume in a vinaigrette was",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -746,12 +1004,26 @@
       "evidenceEndTime": 1369.84,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "preserved in solid form"
+        },
+        {
+          "key": "B",
+          "text": "absorbed by a sponge"
+        },
+        {
+          "key": "C",
+          "text": "heated over a flame"
+        }
+      ]
     },
     {
       "number": 37,
       "part": 4,
-      "promptContext": "Which part of the vinaigrette was made of gold? A. the inside B. the outside C. the lid",
+      "promptContext": "Which part of the vinaigrette was made of gold?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -765,12 +1037,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the inside"
+        },
+        {
+          "key": "B",
+          "text": "the outside"
+        },
+        {
+          "key": "C",
+          "text": "the lid"
+        }
+      ]
     },
     {
       "number": 38,
       "part": 4,
-      "promptContext": "Perfume bottles used in the mid- 19\"century A. were imports from outside Europe B. could be bought by large numbers of people C. were usually made of horn",
+      "promptContext": "Perfume bottles used in the mid- 19\"century",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -784,12 +1070,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were imports from outside Europe"
+        },
+        {
+          "key": "B",
+          "text": "could be bought by large numbers of people"
+        },
+        {
+          "key": "C",
+          "text": "were usually made of horn"
+        }
+      ]
     },
     {
       "number": 39,
       "part": 4,
-      "promptContext": "Tiffany bottles A. were produced by a number of companies B. could only be bought from catalogues C. showed skilled use of crystal",
+      "promptContext": "Tiffany bottles",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -801,12 +1101,26 @@
       "evidenceEndTime": 1452.48,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were produced by a number of companies"
+        },
+        {
+          "key": "B",
+          "text": "could only be bought from catalogues"
+        },
+        {
+          "key": "C",
+          "text": "showed skilled use of crystal"
+        }
+      ]
     },
     {
       "number": 40,
       "part": 4,
-      "promptContext": "The ‘Vanity’ was A. used for storing cosmetics B. the smallest perfume ornament ever made C. developed in the 1950s",
+      "promptContext": "The ‘Vanity’ was",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -821,7 +1135,21 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "used for storing cosmetics"
+        },
+        {
+          "key": "B",
+          "text": "the smallest perfume ornament ever made"
+        },
+        {
+          "key": "C",
+          "text": "developed in the 1950s"
+        }
+      ]
     }
   ],
   "transcriptSegments": [

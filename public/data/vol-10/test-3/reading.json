@@ -475,11 +475,11 @@
           "type": "gap_fill",
           "instruction": "Complete the following summary of the paragraphs of Reading Passage. Write NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
           "wordLimit": "NO MORE THAN TWO WORDS",
-          "bodyText": "Wegener found that continental drift instead of \"land bridge\" theory in which vegetation and\nwildlife\n9. _______________ intercontinentally. could explain strange species' distribution\nphenomenon. However, Eduard Suess compared the wrinkle of the crust to the 10.\n_______________ of an old apple. Now it is well known that we are living on the planet where\nthere are 11. _______________ in constant mobile states instead of what Suess described.\nThe debate in biogeography has switched to concerns between two terms: \" 12.\n_______________ \" and \" 13. _______________ \".\nDEMYSTIFYING YAWN\nA.\nWhen a scientist began to study yawning in the 1980s, it was difficult to convince some of\nhis research students of the merits of \"yawning science.\" Although it may appear quirky, his\ndecision to study yawning was a logical extension to human beings of his research in\ndevelopmental neuroscience, reported in such papers as \"Wing-flapping during Development\nand Evolution.\" As a neurobehavioral problem, there is not much difference between the\nwing-flapping of birds and the face and body flapping of human yawners.\nB.\nYawning is an ancient, primitive act. Humans do it even before they are born, opening wide\nin the womb. Some snakes unhinge their jaws to do it. One species of penguins yawns as part\nof mating. Only now are researchers beginning to understand why we yawn, when we yawn\nand why we yawn back. A professor of cognitive neuroscience at Drexel University in\nPhiladelphia, Steven Platek, studies the act of contagious yawning, something done only by\npeople and other primates.\nC.\nIn his first experiment, he used a psychological test to rank people on their empathic\nfeelings. He found that participants who did not score high on compassion did not yawn back.\n\"We literally had people saying, 'Why am I looking at people yawning?— Professor Platek said.\n\"It just had no effect.\"\nD.\nFor his second experiment, he put 10 students in a magnetic resonance imaging machine\nas they watched video tapes of people yawning. When the students watched the videos, the\npart of the brain which reacted was the part scientists believe controls empathy — the posterior\ncingulate, in the brain's middle rear.\" I don't know if it's necessarily that nice people yawn more,\nbut I think it's a good indicator of a state of mind,\" said Professor Platek. \"It's also a good\nindicator if you're empathizing with me and paying attention.\"\nE.\nHis third experiment is studying yawning in those with brain disorders, such as autism and\nschizophrenia, in which victims have difficulty connecting emotionally with others. A psychology\nprofessor at the University of Maryland, Robert Provine, is one of the few other researchers into\nyawning. He found the basic yawn lasts about six seconds and they come in bouts with an\ninterval of about 68 seconds. Men and women yawn or half-yawn equally often, but men are\nsignificantly less likely to cover their mouths which may indicate complex distinction in genders.\"\nA watched yawner never yawns,\" Professor Provine said. However, the physical root of yawning\nremains a mystery. Some researchers say it's coordinated within the hypothalamus of the brain,\nthe area that also controls breathing.\nF.\nYawning and stretching also share properties and may be performed together as parts of a\nglobal motor complex. But they do not always co-occur, people usually yawn when we stretch,\nbut we don't always stretch when we yawn, especially before bedtime. Studies by G.H.A. Visser\nand H.F. Prechtl in the early 1980s, charting movement In the developing fetus using\nultrasound, observed not just yawning but a link between yawning and stretching as early as\nthe end of the first prenatal trimester.\nG.\nThe most extraordinary demonstration of the yawn-stretch linkage occurs in many people\nparalyzed on one side of their body because of brain damage caused by a stroke. The\nprominent British neurologist Sir Francis Walshe noted in 1923 that when these hemiplegics\nyawn, they are startled and mystified to observe that their otherwise paralyzed arm rises and\nflexes automatically in what neurologists term an \"associated response.\" Yawning apparently\nactivates undamaged, unconsciously controlled connections between the brain and the cord\nmotor system innervating the paralyzed limb. It is not known whether the associated response\nis a positive prognosis for recovery, nor whether yawning is therapeutic for reinnervation or\nprevention of muscular atrophy.\nH.\nClinical neurology offers other surprises. Some patients with \"locked-in\" syndrome, who\nare almost totally deprived of the ability to move voluntarily, can yawn normally. The neural\ncircuits for spontaneous yawning must exist in the brain stem near other respiratory and\nvasomotor centers, because yawning is performed by anencephalic individuals who possess\nonly the medulla oblongata. The multiplicity of stimuli of contagious yawning, by contrast,\nimplicates many higher brain regions.",
+          "bodyText": "Wegener found that continental drift instead of \"land bridge\" theory in which vegetation and\nwildlife\n{{blank:9}} intercontinentally. could explain strange species' distribution\nphenomenon. However, Eduard Suess compared the wrinkle of the crust to the {{blank:10}} of an old apple. Now it is well known that we are living on the planet where\nthere are {{blank:11}} in constant mobile states instead of what Suess described.\nThe debate in biogeography has switched to concerns between two terms: \" {{blank:12}} \" and \" {{blank:13}} \".\nDEMYSTIFYING YAWN\nA.",
           "questions": [
             {
               "number": 9,
-              "prompt": "_______________ intercontinentally. could explain strange species' distribution",
+              "prompt": "Wegener found that continental drift instead of \"land bridge\" theory in which vegetation and\nwildlife\n{{blank:9}} intercontinentally.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -490,7 +490,7 @@
             },
             {
               "number": 10,
-              "prompt": "Question 10",
+              "prompt": "However, Eduard Suess compared the wrinkle of the crust to the {{blank:10}} of an old apple.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -501,7 +501,7 @@
             },
             {
               "number": 11,
-              "prompt": "Question 11",
+              "prompt": "Now it is well known that we are living on the planet where\nthere are {{blank:11}} in constant mobile states instead of what Suess described.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -512,7 +512,7 @@
             },
             {
               "number": 12,
-              "prompt": "Question 12",
+              "prompt": "The debate in biogeography has switched to concerns between two terms: \" {{blank:12}} \" and \" {{blank:13}} \".",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -523,7 +523,7 @@
             },
             {
               "number": 13,
-              "prompt": "Question 13",
+              "prompt": "The debate in biogeography has switched to concerns between two terms: \" {{blank:12}} \" and \" {{blank:13}} \".",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -542,12 +542,60 @@
     },
     {
       "passageNumber": 2,
-      "title": "followed by an 14. _____________ before another yawn. It is almost at the same frequency",
-      "subtitle": "that males and females yawn or half yawn, but behavior accompanied with yawning shows a",
+      "title": "When a scientist began to study yawning in the 1980s, it was difficult to convince some of",
+      "subtitle": "his research students of the merits of \"yawning science.\" Although it may appear quirky, his",
       "paragraphs": [
         {
           "id": "P1",
-          "text": "15. _____________ in genders. Besides, a part of the brain involved in yawning may also be responsible for 16. _____________. Another study found that there is a link between a yawn and 17. _____________ during the first three months of pregnancy, and yawning was also shown to set off an involuntary movement in people with 18. _____________ ."
+          "text": "decision to study yawning was a logical extension to human beings of his research in developmental neuroscience, reported in such papers as \"Wing-flapping during Development and Evolution.\" As a neurobehavioral problem, there is not much difference between the wing-flapping of birds and the face and body flapping of human yawners. B."
+        },
+        {
+          "id": "P2",
+          "text": "Yawning is an ancient, primitive act. Humans do it even before they are born, opening wide in the womb. Some snakes unhinge their jaws to do it. One species of penguins yawns as part of mating. Only now are researchers beginning to understand why we yawn, when we yawn and why we yawn back. A professor of cognitive neuroscience at Drexel University in Philadelphia, Steven Platek, studies the act of contagious yawning, something done only by people and other primates."
+        },
+        {
+          "id": "P3",
+          "text": "C."
+        },
+        {
+          "id": "P4",
+          "text": "In his first experiment, he used a psychological test to rank people on their empathic feelings. He found that participants who did not score high on compassion did not yawn back. \"We literally had people saying, 'Why am I looking at people yawning?— Professor Platek said. \"It just had no effect.\""
+        },
+        {
+          "id": "P5",
+          "text": "D."
+        },
+        {
+          "id": "P6",
+          "text": "For his second experiment, he put 10 students in a magnetic resonance imaging machine as they watched video tapes of people yawning. When the students watched the videos, the part of the brain which reacted was the part scientists believe controls empathy — the posterior cingulate, in the brain's middle rear.\" I don't know if it's necessarily that nice people yawn more, but I think it's a good indicator of a state of mind,\" said Professor Platek. \"It's also a good indicator if you're empathizing with me and paying attention.\" E."
+        },
+        {
+          "id": "P7",
+          "text": "His third experiment is studying yawning in those with brain disorders, such as autism and schizophrenia, in which victims have difficulty connecting emotionally with others. A psychology professor at the University of Maryland, Robert Provine, is one of the few other researchers into yawning. He found the basic yawn lasts about six seconds and they come in bouts with an interval of about 68 seconds. Men and women yawn or half-yawn equally often, but men are significantly less likely to cover their mouths which may indicate complex distinction in genders.\" A watched yawner never yawns,\" Professor Provine said. However, the physical root of yawning remains a mystery. Some researchers say it's coordinated within the hypothalamus of the brain, the area that also controls breathing."
+        },
+        {
+          "id": "P8",
+          "text": "F."
+        },
+        {
+          "id": "P9",
+          "text": "Yawning and stretching also share properties and may be performed together as parts of a global motor complex. But they do not always co-occur, people usually yawn when we stretch, but we don't always stretch when we yawn, especially before bedtime. Studies by G.H.A. Visser and H.F. Prechtl in the early 1980s, charting movement In the developing fetus using ultrasound, observed not just yawning but a link between yawning and stretching as early as the end of the first prenatal trimester."
+        },
+        {
+          "id": "P10",
+          "text": "G."
+        },
+        {
+          "id": "P11",
+          "text": "The most extraordinary demonstration of the yawn-stretch linkage occurs in many people paralyzed on one side of their body because of brain damage caused by a stroke. The prominent British neurologist Sir Francis Walshe noted in 1923 that when these hemiplegics yawn, they are startled and mystified to observe that their otherwise paralyzed arm rises and flexes automatically in what neurologists term an \"associated response.\" Yawning apparently activates undamaged, unconsciously controlled connections between the brain and the cord motor system innervating the paralyzed limb. It is not known whether the associated response is a positive prognosis for recovery, nor whether yawning is therapeutic for reinnervation or prevention of muscular atrophy."
+        },
+        {
+          "id": "P12",
+          "text": "H."
+        },
+        {
+          "id": "P13",
+          "text": "Clinical neurology offers other surprises. Some patients with \"locked-in\" syndrome, who are almost totally deprived of the ability to move voluntarily, can yawn normally. The neural circuits for spontaneous yawning must exist in the brain stem near other respiratory and vasomotor centers, because yawning is performed by anencephalic individuals who possess only the medulla oblongata. The multiplicity of stimuli of contagious yawning, by contrast, implicates many higher brain regions."
         }
       ],
       "groups": [
@@ -560,11 +608,11 @@
           "type": "gap_fill",
           "instruction": "Complete the Summary paragraph described below. Write NO MORE THAN THREE WORDS from the Reading Passage for each answer.",
           "wordLimit": "NO MORE THAN THREE WORDS",
-          "bodyText": "A psychology professor drew a conclusion that an average yawn lasts about 6 seconds",
+          "bodyText": "A psychology professor drew a conclusion that an average yawn lasts about 6 seconds\nfollowed by an {{blank:14}} before another yawn. It is almost at the same frequency\nthat males and females yawn or half yawn, but behavior accompanied with yawning shows a\n{{blank:15}} in genders. Besides, a part of the brain involved in yawning may also be\nresponsible for {{blank:16}} Another study found that there is a link between a yawn\nand {{blank:17}} during the first three months of pregnancy, and yawning was also\nshown to set off an involuntary movement in people with {{blank:18}}\n.",
           "questions": [
             {
               "number": 14,
-              "prompt": "Question 14",
+              "prompt": "A psychology professor drew a conclusion that an average yawn lasts about 6 seconds\nfollowed by an {{blank:14}} before another yawn.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -575,7 +623,7 @@
             },
             {
               "number": 15,
-              "prompt": "Question 15",
+              "prompt": "It is almost at the same frequency\nthat males and females yawn or half yawn, but behavior accompanied with yawning shows a\n{{blank:15}} in genders.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -586,7 +634,7 @@
             },
             {
               "number": 16,
-              "prompt": "Question 16",
+              "prompt": "Besides, a part of the brain involved in yawning may also be\nresponsible for {{blank:16}} Another study found that there is a link between a yawn\nand {{blank:17}} during the first three months of pregnancy, and yawning was also\nshown to set off an involuntary movement in people with {{blank:18}}\n.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -597,7 +645,7 @@
             },
             {
               "number": 17,
-              "prompt": "Question 17",
+              "prompt": "Besides, a part of the brain involved in yawning may also be\nresponsible for {{blank:16}} Another study found that there is a link between a yawn\nand {{blank:17}} during the first three months of pregnancy, and yawning was also\nshown to set off an involuntary movement in people with {{blank:18}}\n.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -608,7 +656,7 @@
             },
             {
               "number": 18,
-              "prompt": "Question 18",
+              "prompt": "Besides, a part of the brain involved in yawning may also be\nresponsible for {{blank:16}} Another study found that there is a link between a yawn\nand {{blank:17}} during the first three months of pregnancy, and yawning was also\nshown to set off an involuntary movement in people with {{blank:18}}\n.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",

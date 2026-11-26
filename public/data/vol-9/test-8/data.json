@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Caller’s name: Robert",
+      "promptContext": "Caller’s name: Robert {{blank:1}}",
       "answerRaw": "Ridyard",
       "canonicalAnswer": "Ridyard",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ". Address: 27",
+      "promptContext": "Address: 27 {{blank:2}}",
       "answerRaw": "Station Road",
       "canonicalAnswer": "Station Road",
       "acceptedAnswers": [
@@ -97,7 +97,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "Date of birth:",
+      "promptContext": "Date of birth: {{blank:3}}, 1975",
       "answerRaw": "25th February,25 February,February 25th,February 25",
       "canonicalAnswer": "25th February",
       "acceptedAnswers": [
@@ -119,7 +119,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": ". , 1975 Doctor’s name: Dr Craven Doctor’s address: Moortown Health Centre Reason for call: Pain in his",
+      "promptContext": "Reason for call: Pain in his {{blank:4}} back",
       "answerRaw": "Lower",
       "canonicalAnswer": "Lower",
       "acceptedAnswers": [
@@ -136,7 +136,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": ". Moortown Postcode: DP17 HJ",
+      "promptContext": "Details of present problem: Started {{blank:5}} ago",
       "answerRaw": "three days,3 days",
       "canonicalAnswer": "three days",
       "acceptedAnswers": [
@@ -154,7 +154,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": ". ago Got worse this",
+      "promptContext": "Got worse this {{blank:6}}",
       "answerRaw": "afternoon",
       "canonicalAnswer": "afternoon",
       "acceptedAnswers": [
@@ -171,7 +171,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": ". No abdominal pain Possible cause: Lifting up a heavy",
+      "promptContext": "Possible cause: Lifting up a heavy {{blank:7}}",
       "answerRaw": "box",
       "canonicalAnswer": "box",
       "acceptedAnswers": [
@@ -190,7 +190,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "Treatment already applied: Has applied heat Has taken",
+      "promptContext": "Has taken {{blank:8}}",
       "answerRaw": "painkillers",
       "canonicalAnswer": "painkillers",
       "acceptedAnswers": [
@@ -207,7 +207,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "Advice given: Try using",
+      "promptContext": "Advice given: Try using {{blank:9}}",
       "answerRaw": "ice",
       "canonicalAnswer": "ice",
       "acceptedAnswers": [
@@ -227,7 +227,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": ". Go to doctor tomorrow Ask for information about",
+      "promptContext": "Ask for information about {{blank:10}}",
       "answerRaw": "exercise",
       "canonicalAnswer": "exercise",
       "acceptedAnswers": [
@@ -244,7 +244,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "A trip to the outdoor education center will help the children A create good relationships B manage without adult supervision C react positively to new challenges",
+      "promptContext": "A trip to the outdoor education center will help the children",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -258,12 +258,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "create good relationships"
+        },
+        {
+          "key": "B",
+          "text": "manage without adult supervision"
+        },
+        {
+          "key": "C",
+          "text": "react positively to new challenges"
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "To prepare their children for the trip, parents should A let them try sleeping in a tent at home B make sure they get enough sleep before they leave C tell them that they will be in a tent with their friends",
+      "promptContext": "To prepare their children for the trip, parents should",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -278,12 +292,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "let them try sleeping in a tent at home"
+        },
+        {
+          "key": "B",
+          "text": "make sure they get enough sleep before they leave"
+        },
+        {
+          "key": "C",
+          "text": "tell them that they will be in a tent with their friends"
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "What do parents need to put in their children's backpack? A plastic bags B snacks and biscuits C a small amount of money",
+      "promptContext": "What do parents need to put in their children's backpack?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -298,12 +326,26 @@
         "người nói tự đính chính thông tin vừa nêu ('actually')",
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "plastic bags"
+        },
+        {
+          "key": "B",
+          "text": "snacks and biscuits"
+        },
+        {
+          "key": "C",
+          "text": "a small amount of money"
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "What are children allowed to bring on the trip? A electronic games B cell phones C penknives",
+      "promptContext": "What are children allowed to bring on the trip?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -317,12 +359,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "electronic games"
+        },
+        {
+          "key": "B",
+          "text": "cell phones"
+        },
+        {
+          "key": "C",
+          "text": "penknives"
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "How are parents selected to attend the trip? A The first ten parents to sign up will be able to go B Parents' names will be chosen from a box C Preference will be given to parents with camping skills",
+      "promptContext": "How are parents selected to attend the trip?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -336,12 +392,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The first ten parents to sign up will be able to go"
+        },
+        {
+          "key": "B",
+          "text": "Parents' names will be chosen from a box"
+        },
+        {
+          "key": "C",
+          "text": "Preference will be given to parents with camping skills"
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "Payment for the trip A must be handed to the child's teacher B can be left at the school office C should be made directly to the outdoor education center Questions 17–20 Label the map below Choose the correct letter, A-G, next to the questions 17-20. A B C D E F G",
+      "promptContext": "Payment for the trip",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -355,12 +425,26 @@
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must be handed to the child's teacher"
+        },
+        {
+          "key": "B",
+          "text": "can be left at the school office"
+        },
+        {
+          "key": "C",
+          "text": "should be made directly to the outdoor education center"
+        }
+      ]
     },
     {
       "number": 17,
       "part": 2,
-      "promptContext": "G Woodcarving studio",
+      "promptContext": "Woodcarving studio",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -377,7 +461,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "Woodcarving studio Emergency meeting point",
+      "promptContext": "Emergency meeting point",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -394,7 +478,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": "Emergency meeting point Conservation center",
+      "promptContext": "Conservation center",
       "answerRaw": "F",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -411,7 +495,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "Conservation center Arts and crafts room",
+      "promptContext": "Arts and crafts room",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -428,7 +512,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "According to Liz, Stone Point played a key role in local history because A it was used for defence or attack purposes. B it was the landing point for the first Maori settlers. C it was developed as a commercial port.",
+      "promptContext": "According to Liz, Stone Point played a key role in local history because",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -445,12 +529,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'history' ↔ 'historical'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'history' ↔ 'historical'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "it was used for defence or attack purposes."
+        },
+        {
+          "key": "B",
+          "text": "it was the landing point for the first Maori settlers."
+        },
+        {
+          "key": "C",
+          "text": "it was developed as a commercial port."
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "Scott and Liz agree Maori originally chose to inhabit Stone Point because of A its rich soil. B the supply of fish. C available building materials.",
+      "promptContext": "Scott and Liz agree Maori originally chose to inhabit Stone Point because of",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -464,12 +562,26 @@
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế.",
+      "options": [
+        {
+          "key": "A",
+          "text": "its rich soil."
+        },
+        {
+          "key": "B",
+          "text": "the supply of fish."
+        },
+        {
+          "key": "C",
+          "text": "available building materials."
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Scott and Liz agree that using Maori terminology in their presentation A will be of interest to international students. B is required as a component of their research. C would be best avoided.",
+      "promptContext": "Scott and Liz agree that using Maori terminology in their presentation",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -484,12 +596,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will be of interest to international students."
+        },
+        {
+          "key": "B",
+          "text": "is required as a component of their research."
+        },
+        {
+          "key": "C",
+          "text": "would be best avoided."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "When Scott mentions the engines at Stone Point, Liz advises him to A focus on the human aspect instead. B check the accuracy of specific dates. C explain complex technical language. Questions 25–30 What do Liz and Scott agree they must do for each of the following sections for their presentation on Stone Point? Choose SIX correct answers, A-G, next to questions 25-30. Things to do Sections of Presentation Early Maori inhibition of Stone Point",
+      "promptContext": "When Scott mentions the engines at Stone Point, Liz advises him to",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -506,7 +632,21 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'check' ↔ 'look at'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'check' ↔ 'look at'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "focus on the human aspect instead."
+        },
+        {
+          "key": "B",
+          "text": "check the accuracy of specific dates."
+        },
+        {
+          "key": "C",
+          "text": "explain complex technical language."
+        }
+      ]
     },
     {
       "number": 25,
@@ -525,12 +665,46 @@
       "evidenceEndTime": 975.66,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D check author’s details. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án D check author’s details. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "provide further description"
+        },
+        {
+          "key": "B",
+          "text": "find images"
+        },
+        {
+          "key": "C",
+          "text": "set up an interview"
+        },
+        {
+          "key": "D",
+          "text": "check author’s details"
+        },
+        {
+          "key": "E",
+          "text": "check the exact location"
+        },
+        {
+          "key": "F",
+          "text": "obtain official permission"
+        },
+        {
+          "key": "G",
+          "text": "be more objective"
+        },
+        {
+          "key": "H",
+          "text": "reduce it in length"
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": ".. The use of Stone Point as a lookout point",
+      "promptContext": "The use of Stone Point as a lookout point",
       "answerRaw": "B find images",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -544,7 +718,41 @@
       "evidenceEndTime": 986.18,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án B find images. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án B find images. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "provide further description"
+        },
+        {
+          "key": "B",
+          "text": "find images"
+        },
+        {
+          "key": "C",
+          "text": "set up an interview"
+        },
+        {
+          "key": "D",
+          "text": "check author’s details"
+        },
+        {
+          "key": "E",
+          "text": "check the exact location"
+        },
+        {
+          "key": "F",
+          "text": "obtain official permission"
+        },
+        {
+          "key": "G",
+          "text": "be more objective"
+        },
+        {
+          "key": "H",
+          "text": "reduce it in length"
+        }
+      ]
     },
     {
       "number": 27,
@@ -565,12 +773,46 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án A provide further description. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án A provide further description. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "provide further description"
+        },
+        {
+          "key": "B",
+          "text": "find images"
+        },
+        {
+          "key": "C",
+          "text": "set up an interview"
+        },
+        {
+          "key": "D",
+          "text": "check author’s details"
+        },
+        {
+          "key": "E",
+          "text": "check the exact location"
+        },
+        {
+          "key": "F",
+          "text": "obtain official permission"
+        },
+        {
+          "key": "G",
+          "text": "be more objective"
+        },
+        {
+          "key": "H",
+          "text": "reduce it in length"
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": ".. Modernisation of the fort in the 1930s-40s",
+      "promptContext": "Modernisation of the fort in the 1930s-40s",
       "answerRaw": "F obtain official permission",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -584,12 +826,46 @@
       "evidenceEndTime": 1006.4,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án F obtain official permission. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án F obtain official permission. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "provide further description"
+        },
+        {
+          "key": "B",
+          "text": "find images"
+        },
+        {
+          "key": "C",
+          "text": "set up an interview"
+        },
+        {
+          "key": "D",
+          "text": "check author’s details"
+        },
+        {
+          "key": "E",
+          "text": "check the exact location"
+        },
+        {
+          "key": "F",
+          "text": "obtain official permission"
+        },
+        {
+          "key": "G",
+          "text": "be more objective"
+        },
+        {
+          "key": "H",
+          "text": "reduce it in length"
+        }
+      ]
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": ".. Uses of Stone Point from 1950s to the present day",
+      "promptContext": "Uses of Stone Point from 1950s to the present day",
       "answerRaw": "C set up an interview",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -603,12 +879,46 @@
       "evidenceEndTime": 1029.56,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án C set up an interview. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án C set up an interview. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "provide further description"
+        },
+        {
+          "key": "B",
+          "text": "find images"
+        },
+        {
+          "key": "C",
+          "text": "set up an interview"
+        },
+        {
+          "key": "D",
+          "text": "check author’s details"
+        },
+        {
+          "key": "E",
+          "text": "check the exact location"
+        },
+        {
+          "key": "F",
+          "text": "obtain official permission"
+        },
+        {
+          "key": "G",
+          "text": "be more objective"
+        },
+        {
+          "key": "H",
+          "text": "reduce it in length"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "…………… A provide further description B find images C set up an interview D check author’s details E check the exact location F obtain official permission G be more objective H reduce it in length",
+      "promptContext": "The use of Stone Point as public park",
       "answerRaw": "E check the exact location",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -624,12 +934,46 @@
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án đúng là phương án E check the exact location. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+      "explanationVi": "Đáp án đúng là phương án E check the exact location. Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "provide further description"
+        },
+        {
+          "key": "B",
+          "text": "find images"
+        },
+        {
+          "key": "C",
+          "text": "set up an interview"
+        },
+        {
+          "key": "D",
+          "text": "check author’s details"
+        },
+        {
+          "key": "E",
+          "text": "check the exact location"
+        },
+        {
+          "key": "F",
+          "text": "obtain official permission"
+        },
+        {
+          "key": "G",
+          "text": "be more objective"
+        },
+        {
+          "key": "H",
+          "text": "reduce it in length"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "● began to lead a nomadic life, moving across",
+      "promptContext": "began to lead a nomadic life, moving across {{blank:31}} and mountains",
       "answerRaw": "deserts",
       "canonicalAnswer": "deserts",
       "acceptedAnswers": [
@@ -646,7 +990,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": ".. and mountains Different Berber Lifestyles ● some Berbers, known as",
+      "promptContext": "some Berbers, known as {{blank:32}} nomads, moved twice a year",
       "answerRaw": "seasonal",
       "canonicalAnswer": "seasonal",
       "acceptedAnswers": [
@@ -663,7 +1007,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": ". nomads, moved twice a year ● some Berbers were completely nomadic ● some Berbers settled by oases, producing fruit, vegetables, and",
+      "promptContext": "some Berbers settled by oases, producing fruit, vegetables, and {{blank:33}} to cook with",
       "answerRaw": "olive oil",
       "canonicalAnswer": "olive oil",
       "acceptedAnswers": [
@@ -680,7 +1024,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": ". to cook with ● people and belongings were carried by",
+      "promptContext": "people and belongings were carried by {{blank:34}}",
       "answerRaw": "camels",
       "canonicalAnswer": "camels",
       "acceptedAnswers": [
@@ -697,7 +1041,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "● settled Berbers lived in houses ● nomadic Berbers used tents ● settled communities organised themselves by holding regular meetings in the",
+      "promptContext": "meetings in the {{blank:35}} of the village",
       "answerRaw": "square",
       "canonicalAnswer": "square",
       "acceptedAnswers": [
@@ -716,7 +1060,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ". of the village The Tuaregs ● if goatskins were unavailable, tents were made from",
+      "promptContext": "if goatskins were unavailable, tents were made from {{blank:36}} or palm-leaf mats",
       "answerRaw": "grass",
       "canonicalAnswer": "grass",
       "acceptedAnswers": [
@@ -735,7 +1079,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "or palm-leaf mats ● Tuareg labourers were the descendants of",
+      "promptContext": "Tuareg labourers were the descendants of {{blank:37}}",
       "answerRaw": "slaves",
       "canonicalAnswer": "slaves",
       "acceptedAnswers": [
@@ -752,7 +1096,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": ". ● adult men always wore a",
+      "promptContext": "adult men always wore a {{blank:38}} veil",
       "answerRaw": "dark blue",
       "canonicalAnswer": "dark blue",
       "acceptedAnswers": [
@@ -769,7 +1113,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": ". veil ● some Tuaregs moved to Burkina Faso with their",
+      "promptContext": "some Tuaregs moved to Burkina Faso with their {{blank:39}}",
       "answerRaw": "herds",
       "canonicalAnswer": "herds",
       "acceptedAnswers": [
@@ -786,7 +1130,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": ". Tuaregs and Timbuktu ● Timbuktu was settled by Tuaregs around 1000 years ago ● the city built wealth on the salt and gold trades ● some Tuaregs now work as",
+      "promptContext": "some Tuaregs now work as {{blank:40}} for the Mallian",
       "answerRaw": "guides",
       "canonicalAnswer": "guides",
       "acceptedAnswers": [

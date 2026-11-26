@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Location: in the",
+      "promptContext": "Location: in the {{blank:1}}",
       "answerRaw": "Southwest",
       "canonicalAnswer": "Southwest",
       "acceptedAnswers": [
@@ -82,7 +82,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ".. Type of cleaning: regular Rooms: o two",
+      "promptContext": "two {{blank:2}} bedrooms",
       "answerRaw": "double",
       "canonicalAnswer": "double",
       "acceptedAnswers": [
@@ -99,7 +99,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "bedrooms (third bedroom used as",
+      "promptContext": "(third bedroom used as {{blank:3}})",
       "answerRaw": "an office",
       "canonicalAnswer": "an office",
       "acceptedAnswers": [
@@ -116,7 +116,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": ".. ) o kitchen/diner o",
+      "promptContext": "{{blank:4}}",
       "answerRaw": "lounge",
       "canonicalAnswer": "lounge",
       "acceptedAnswers": [
@@ -133,7 +133,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "Which extra service does agency agree to provide? A changing the bed linen B washing the windows C cleaning the fridge",
+      "promptContext": "Which extra service does agency agree to provide?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -145,12 +145,26 @@
       "evidenceEndTime": 152.46,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "changing the bed linen"
+        },
+        {
+          "key": "B",
+          "text": "washing the windows"
+        },
+        {
+          "key": "C",
+          "text": "cleaning the fridge"
+        }
+      ]
     },
     {
       "number": 6,
       "part": 1,
-      "promptContext": "What will be cleaned more thoroughly every three months? A the children’s room B the carpet C the bathroom",
+      "promptContext": "What will be cleaned more thoroughly every three months?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -165,12 +179,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the children’s room"
+        },
+        {
+          "key": "B",
+          "text": "the carpet"
+        },
+        {
+          "key": "C",
+          "text": "the bathroom"
+        }
+      ]
     },
     {
       "number": 7,
       "part": 1,
-      "promptContext": "The woman would like the cleaners to A do the washing B iron the clothes C put the clothes away Questions 8–10 Complete the form below Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. HOMECARE CLEANING AGENCY Customer Details Name: Rose Kelly Address: 48",
+      "promptContext": "The woman would like the cleaners to",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -184,12 +212,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "do the washing"
+        },
+        {
+          "key": "B",
+          "text": "iron the clothes"
+        },
+        {
+          "key": "C",
+          "text": "put the clothes away"
+        }
+      ]
     },
     {
       "number": 8,
       "part": 1,
-      "promptContext": "Address: 48",
+      "promptContext": "Address: 48 {{blank:8}} Road",
       "answerRaw": "AMYES",
       "canonicalAnswer": "AMYES",
       "acceptedAnswers": [
@@ -206,7 +248,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "Road Mount Eden Day of job:",
+      "promptContext": "Day of job: {{blank:9}}",
       "answerRaw": "Thursday",
       "canonicalAnswer": "Thursday",
       "acceptedAnswers": [
@@ -223,7 +265,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": ". Time: 9.30 am. Cost per hour: $25 Maximum length of job:",
+      "promptContext": "Maximum length of job: {{blank:10}}",
       "answerRaw": "3 hours",
       "canonicalAnswer": "3 hours",
       "acceptedAnswers": [
@@ -240,7 +282,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "What does the tour guide advise the visitors to do in the museum today? A see the most popular exhibits first B pay a brief visit to each gallery C go to the photography gallery last",
+      "promptContext": "What does the tour guide advise the visitors to do in the museum today?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -254,12 +296,26 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "see the most popular exhibits first"
+        },
+        {
+          "key": "B",
+          "text": "pay a brief visit to each gallery"
+        },
+        {
+          "key": "C",
+          "text": "go to the photography gallery last"
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "The museum was designed by William Craven, who also designed A a textile factory B a town hall C a railway station",
+      "promptContext": "The museum was designed by William Craven, who also designed",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -273,12 +329,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a textile factory"
+        },
+        {
+          "key": "B",
+          "text": "a town hall"
+        },
+        {
+          "key": "C",
+          "text": "a railway station"
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "The museum won an award for the preservation of the A staircase B floor C windows",
+      "promptContext": "The museum won an award for the preservation of the",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -292,12 +362,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "staircase"
+        },
+        {
+          "key": "B",
+          "text": "floor"
+        },
+        {
+          "key": "C",
+          "text": "windows"
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "Most of the money for the project came from A the public B the government C local business",
+      "promptContext": "Most of the money for the project came from",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -316,12 +400,26 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'money' ↔ 'charge'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'money' ↔ 'charge'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the public"
+        },
+        {
+          "key": "B",
+          "text": "the government"
+        },
+        {
+          "key": "C",
+          "text": "local business"
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "Over the next five years, the museum will invest mainly in A restoring existing collections. B developing educational programmes. C purchasing new objects for display.",
+      "promptContext": "Over the next five years, the museum will invest mainly in",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -335,12 +433,26 @@
       "distractors": [
         "đảo chiều thông tin bằng 'however'"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'.",
+      "options": [
+        {
+          "key": "A",
+          "text": "restoring existing collections."
+        },
+        {
+          "key": "B",
+          "text": "developing educational programmes."
+        },
+        {
+          "key": "C",
+          "text": "purchasing new objects for display."
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "Visitors who are interested in learning more about the exhibits should A visit the museum’s website B read the leaflet on display C attend the monthly lecture Questions 17–20 What information does the guide give about each of the following collections? Choose FOUR correct answers, A-F, next to questions 17-20. Information Collections",
+      "promptContext": "Visitors who are interested in learning more about the exhibits should",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -355,12 +467,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "visit the museum’s website"
+        },
+        {
+          "key": "B",
+          "text": "read the leaflet on display"
+        },
+        {
+          "key": "C",
+          "text": "attend the monthly lecture"
+        }
+      ]
     },
     {
       "number": 17,
       "part": 2,
-      "promptContext": "th-century paintings",
+      "promptContext": "18th-century paintings",
       "answerRaw": "C exhibits various",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -377,12 +503,38 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án đúng là phương án C exhibits various. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án C exhibits various. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has been shown in different museums"
+        },
+        {
+          "key": "B",
+          "text": "consist of work by a local resident"
+        },
+        {
+          "key": "C",
+          "text": "has exhibits from various countries"
+        },
+        {
+          "key": "D",
+          "text": "in only on temporary display"
+        },
+        {
+          "key": "E",
+          "text": "shows things that are no longer common"
+        },
+        {
+          "key": "F",
+          "text": "is on loan from foreign museum"
+        }
+      ]
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": "Collections th-century paintings",
+      "promptContext": "Farnley collection",
       "answerRaw": "B local resident",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -396,12 +548,38 @@
       "evidenceEndTime": 656.98,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án B local resident. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án B local resident. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has been shown in different museums"
+        },
+        {
+          "key": "B",
+          "text": "consist of work by a local resident"
+        },
+        {
+          "key": "C",
+          "text": "has exhibits from various countries"
+        },
+        {
+          "key": "D",
+          "text": "in only on temporary display"
+        },
+        {
+          "key": "E",
+          "text": "shows things that are no longer common"
+        },
+        {
+          "key": "F",
+          "text": "is on loan from foreign museum"
+        }
+      ]
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": ".. Kitchen appliances",
+      "promptContext": "Kitchen appliances",
       "answerRaw": "E no longer common",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -417,12 +595,38 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án E no longer common. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án E no longer common. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has been shown in different museums"
+        },
+        {
+          "key": "B",
+          "text": "consist of work by a local resident"
+        },
+        {
+          "key": "C",
+          "text": "has exhibits from various countries"
+        },
+        {
+          "key": "D",
+          "text": "in only on temporary display"
+        },
+        {
+          "key": "E",
+          "text": "shows things that are no longer common"
+        },
+        {
+          "key": "F",
+          "text": "is on loan from foreign museum"
+        }
+      ]
     },
     {
       "number": 20,
       "part": 2,
-      "promptContext": "……… A has been shown in different museums B consist of work by a local resident C has exhibits from various countries D in only on temporary display E shows things that are no longer common F is on loan from foreign museum",
+      "promptContext": "Fashion gallery",
       "answerRaw": "D temporary display",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -438,12 +642,38 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án D temporary display. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án D temporary display. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has been shown in different museums"
+        },
+        {
+          "key": "B",
+          "text": "consist of work by a local resident"
+        },
+        {
+          "key": "C",
+          "text": "has exhibits from various countries"
+        },
+        {
+          "key": "D",
+          "text": "in only on temporary display"
+        },
+        {
+          "key": "E",
+          "text": "shows things that are no longer common"
+        },
+        {
+          "key": "F",
+          "text": "is on loan from foreign museum"
+        }
+      ]
     },
     {
       "number": 21,
       "part": 3,
-      "promptContext": "PEST ….",
+      "promptContext": "PEST",
       "answerRaw": "C it does not fit our company",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -457,7 +687,37 @@
       "evidenceEndTime": 825.28,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án C it does not fit our company. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án C it does not fit our company. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "it will save a lot of business time and effort"
+        },
+        {
+          "key": "B",
+          "text": "it is visualized"
+        },
+        {
+          "key": "C",
+          "text": "it does not fit our company"
+        },
+        {
+          "key": "D",
+          "text": "it will take too long"
+        },
+        {
+          "key": "E",
+          "text": "it is easy to use"
+        },
+        {
+          "key": "F",
+          "text": "it is difficult to apply"
+        },
+        {
+          "key": "G",
+          "text": "it is suitable to almost all sized companies"
+        }
+      ]
     },
     {
       "number": 22,
@@ -476,7 +736,37 @@
       "evidenceEndTime": 831.92,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D it will take too long. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án D it will take too long. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "it will save a lot of business time and effort"
+        },
+        {
+          "key": "B",
+          "text": "it is visualized"
+        },
+        {
+          "key": "C",
+          "text": "it does not fit our company"
+        },
+        {
+          "key": "D",
+          "text": "it will take too long"
+        },
+        {
+          "key": "E",
+          "text": "it is easy to use"
+        },
+        {
+          "key": "F",
+          "text": "it is difficult to apply"
+        },
+        {
+          "key": "G",
+          "text": "it is suitable to almost all sized companies"
+        }
+      ]
     },
     {
       "number": 23,
@@ -495,7 +785,37 @@
       "evidenceEndTime": 850.92,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E it is easy to use. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E it is easy to use. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "it will save a lot of business time and effort"
+        },
+        {
+          "key": "B",
+          "text": "it is visualized"
+        },
+        {
+          "key": "C",
+          "text": "it does not fit our company"
+        },
+        {
+          "key": "D",
+          "text": "it will take too long"
+        },
+        {
+          "key": "E",
+          "text": "it is easy to use"
+        },
+        {
+          "key": "F",
+          "text": "it is difficult to apply"
+        },
+        {
+          "key": "G",
+          "text": "it is suitable to almost all sized companies"
+        }
+      ]
     },
     {
       "number": 24,
@@ -514,12 +834,42 @@
       "evidenceEndTime": 914.1,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án A it will save a lot of time. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án A it will save a lot of time. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "it will save a lot of business time and effort"
+        },
+        {
+          "key": "B",
+          "text": "it is visualized"
+        },
+        {
+          "key": "C",
+          "text": "it does not fit our company"
+        },
+        {
+          "key": "D",
+          "text": "it will take too long"
+        },
+        {
+          "key": "E",
+          "text": "it is easy to use"
+        },
+        {
+          "key": "F",
+          "text": "it is difficult to apply"
+        },
+        {
+          "key": "G",
+          "text": "it is suitable to almost all sized companies"
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "…….. A it will save a lot of business time and effort B it is visualized C it does not fit our company D it will take too long E it is easy to use F it is difficult to apply G it is suitable to almost all sized companies Questions 26–30 Choose the correct answer.",
+      "promptContext": "SWOT",
       "answerRaw": "G suitable to most companies",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -533,12 +883,42 @@
       "evidenceEndTime": 1036.12,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án G suitable to most companies. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án G suitable to most companies. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "it will save a lot of business time and effort"
+        },
+        {
+          "key": "B",
+          "text": "it is visualized"
+        },
+        {
+          "key": "C",
+          "text": "it does not fit our company"
+        },
+        {
+          "key": "D",
+          "text": "it will take too long"
+        },
+        {
+          "key": "E",
+          "text": "it is easy to use"
+        },
+        {
+          "key": "F",
+          "text": "it is difficult to apply"
+        },
+        {
+          "key": "G",
+          "text": "it is suitable to almost all sized companies"
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "What does Frances consider as the best strength of the company? A reputation B experienced employees C management",
+      "promptContext": "What does Frances consider as the best strength of the company?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -557,12 +937,26 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'employees' ↔ 'staff'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'employees' ↔ 'staff'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "reputation"
+        },
+        {
+          "key": "B",
+          "text": "experienced employees"
+        },
+        {
+          "key": "C",
+          "text": "management"
+        }
+      ]
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "What factor did Sam overlooked for the future growth of the company? A seek for cheaper suppliers B set up an overseas office C compete with major competitors",
+      "promptContext": "What factor did Sam overlooked for the future growth of the company?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -576,12 +970,26 @@
       "distractors": [
         "đảo chiều thông tin bằng 'however'"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): đảo chiều thông tin bằng 'however'.",
+      "options": [
+        {
+          "key": "A",
+          "text": "seek for cheaper suppliers"
+        },
+        {
+          "key": "B",
+          "text": "set up an overseas office"
+        },
+        {
+          "key": "C",
+          "text": "compete with major competitors"
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "Which of the following can be the threat to a company? A increasing competition B outdated technology C new legislation",
+      "promptContext": "Which of the following can be the threat to a company?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -593,12 +1001,26 @@
       "evidenceEndTime": 1093.98,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "increasing competition"
+        },
+        {
+          "key": "B",
+          "text": "outdated technology"
+        },
+        {
+          "key": "C",
+          "text": "new legislation"
+        }
+      ]
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": "What has Sam learned from the research? A using better tools B cost of a success business C gap between reality and theory",
+      "promptContext": "What has Sam learned from the research?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -618,12 +1040,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'research' ↔ 'study'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'research' ↔ 'study'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "using better tools"
+        },
+        {
+          "key": "B",
+          "text": "cost of a success business"
+        },
+        {
+          "key": "C",
+          "text": "gap between reality and theory"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "What is the professor’s suggestion for the report? A give a final determination B reorganize a clear structure C add more detailed information",
+      "promptContext": "What is the professor’s suggestion for the report?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -640,12 +1076,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'information' ↔ 'details'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'information' ↔ 'details'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "give a final determination"
+        },
+        {
+          "key": "B",
+          "text": "reorganize a clear structure"
+        },
+        {
+          "key": "C",
+          "text": "add more detailed information"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "o interviews from which subject:",
+      "promptContext": "interviews from which subject: {{blank:31}}",
       "answerRaw": "business management",
       "canonicalAnswer": "business management",
       "acceptedAnswers": [
@@ -662,7 +1112,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "",
+      "promptContext": "two research methods: email questionnaires and {{blank:32}}",
       "answerRaw": "phone interviews",
       "canonicalAnswer": "phone interviews",
       "acceptedAnswers": [
@@ -679,7 +1129,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "Findings o 32% of students tended to acquire another",
+      "promptContext": "32% of students tended to acquire another {{blank:33}}",
       "answerRaw": "qualification",
       "canonicalAnswer": "qualification",
       "acceptedAnswers": [
@@ -698,7 +1148,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "o only 4% were unemployed o most of students work in the",
+      "promptContext": "most of students work in the {{blank:34}} sector",
       "answerRaw": "public",
       "canonicalAnswer": "public",
       "acceptedAnswers": [
@@ -715,7 +1165,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": ". sector o majority are happy with:",
+      "promptContext": "majority are happy with: {{blank:35}}",
       "answerRaw": "expectations",
       "canonicalAnswer": "expectations",
       "acceptedAnswers": [
@@ -732,7 +1182,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ".. Feedback Useful skills learned in college: o working as a",
+      "promptContext": "working as a {{blank:36}} member",
       "answerRaw": "team",
       "canonicalAnswer": "team",
       "acceptedAnswers": [
@@ -749,7 +1199,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": ". member o personal organization o",
+      "promptContext": "{{blank:37}} ability",
       "answerRaw": "prsolving",
       "canonicalAnswer": "problem-solving",
       "acceptedAnswers": [
@@ -767,7 +1217,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": ". ability Useless skills: o",
+      "promptContext": "{{blank:38}} (lack of training)",
       "answerRaw": "presentations",
       "canonicalAnswer": "presentations",
       "acceptedAnswers": [
@@ -784,7 +1234,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "(lack of training) o advice on",
+      "promptContext": "advice on {{blank:39}} (unnecessary)",
       "answerRaw": "essay writing",
       "canonicalAnswer": "essay writing",
       "acceptedAnswers": [
@@ -801,7 +1251,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "(unnecessary) o advice on finding a",
+      "promptContext": "advice on finding a {{blank:40}} (not enough)",
       "answerRaw": "job",
       "canonicalAnswer": "job",
       "acceptedAnswers": [

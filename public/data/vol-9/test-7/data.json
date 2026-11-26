@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Registration number:",
+      "promptContext": "Registration number: {{blank:1}}",
       "answerRaw": "BD51STR",
       "canonicalAnswer": "BD51STR",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ". Make and model: Vida (4-door saloon) Date of manufacture: 2001 Number of miles",
+      "promptContext": "Number of miles {{blank:2}}",
       "answerRaw": "180,000",
       "canonicalAnswer": "180,000",
       "acceptedAnswers": [
@@ -99,7 +99,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": ". Problems · needs two new",
+      "promptContext": "needs two new {{blank:3}}",
       "answerRaw": "tyres",
       "canonicalAnswer": "tyres",
       "acceptedAnswers": [
@@ -118,7 +118,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": ".. · the inside",
+      "promptContext": "the inside {{blank:4}} needs fixing",
       "answerRaw": "light",
       "canonicalAnswer": "light",
       "acceptedAnswers": [
@@ -138,7 +138,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": ".. needs fixing · one passage seat",
+      "promptContext": "one passage seat {{blank:5}} is stuck",
       "answerRaw": "belt",
       "canonicalAnswer": "belt",
       "acceptedAnswers": [
@@ -157,7 +157,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "is stuck · the",
+      "promptContext": "the {{blank:6}} needs replacing",
       "answerRaw": "radio",
       "canonicalAnswer": "radio",
       "acceptedAnswers": [
@@ -176,7 +176,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": ". needs replacing · the",
+      "promptContext": "the {{blank:7}} brakes of the car need attention",
       "answerRaw": "front",
       "canonicalAnswer": "front",
       "acceptedAnswers": [
@@ -195,7 +195,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "brakes of the car need attention · needs a spare",
+      "promptContext": "needs a spare {{blank:8}}",
       "answerRaw": "key",
       "canonicalAnswer": "key",
       "acceptedAnswers": [
@@ -214,7 +214,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "Service arrangements Date/Time: Tuesday 5 October 8.00 a.m. Courtesy car?",
+      "promptContext": "Courtesy car? {{blank:9}} Yes, preferably",
       "answerRaw": "automatic",
       "canonicalAnswer": "automatic",
       "acceptedAnswers": [
@@ -236,7 +236,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "Yes, preferably Customer details Address: 361 College Road, Norwich Phone:",
+      "promptContext": "Phone: {{blank:10}}",
       "answerRaw": "07847 355780,07847355780",
       "canonicalAnswer": "07847 355780",
       "acceptedAnswers": [
@@ -254,7 +254,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "Why David Laws leading the meeting instead of Penny Williams today? A Penny Williams is not well recently B David Laws is the director now C The meeting will be postponed",
+      "promptContext": "Why David Laws leading the meeting instead of Penny Williams today?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -268,12 +268,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Penny Williams is not well recently"
+        },
+        {
+          "key": "B",
+          "text": "David Laws is the director now"
+        },
+        {
+          "key": "C",
+          "text": "The meeting will be postponed"
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "What does David say has been a problem with guest speaker talks? A expensive tickets B lack of publicity C inconvenient time",
+      "promptContext": "What does David say has been a problem with guest speaker talks?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -287,12 +301,26 @@
       "distractors": [
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): câu phủ định ('not') loại trừ phương án bẫy.",
+      "options": [
+        {
+          "key": "A",
+          "text": "expensive tickets"
+        },
+        {
+          "key": "B",
+          "text": "lack of publicity"
+        },
+        {
+          "key": "C",
+          "text": "inconvenient time"
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "What did the man say about break-in at library? A the building was destroyed to some damage B some valuable items were stolen C the thieves had a good preparation",
+      "promptContext": "What did the man say about break-in at library?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -306,12 +334,26 @@
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "the building was destroyed to some damage"
+        },
+        {
+          "key": "B",
+          "text": "some valuable items were stolen"
+        },
+        {
+          "key": "C",
+          "text": "the thieves had a good preparation"
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "Why they want to make an extension of the library? A it has no renovation since founded B it need to double the number of computers C increased number of visiting people",
+      "promptContext": "Why they want to make an extension of the library?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -323,12 +365,26 @@
       "evidenceEndTime": 539.32,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "it has no renovation since founded"
+        },
+        {
+          "key": "B",
+          "text": "it need to double the number of computers"
+        },
+        {
+          "key": "C",
+          "text": "increased number of visiting people"
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "The investment from the city council will be deployed for A extra staff recruitment B buy more computers C improve the lighting Questions 16–20 Label the map below Choose FIVE correct letters from the map, A-H, next to the questions 16-20. Rosedale Library A B C D E F G H",
+      "promptContext": "The investment from the city council will be deployed for",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -342,12 +398,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "extra staff recruitment"
+        },
+        {
+          "key": "B",
+          "text": "buy more computers"
+        },
+        {
+          "key": "C",
+          "text": "improve the lighting"
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "H Children’s room",
+      "promptContext": "Children’s room",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -364,7 +434,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "Children’s room Community room",
+      "promptContext": "Community room",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -388,7 +458,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "Community room Café",
+      "promptContext": "Café",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -412,7 +482,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": "Café Academic study room",
+      "promptContext": "Academic study room",
       "answerRaw": "H",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -429,7 +499,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "Academic study room Multimedia room",
+      "promptContext": "Multimedia room",
       "answerRaw": "G",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -449,7 +519,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "According to Jack, why did Samuel Prout never become very famous? A His output was very limited. B He has seen as out-fashioned. C His work never had a major exhibition.",
+      "promptContext": "According to Jack, why did Samuel Prout never become very famous?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -463,12 +533,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "His output was very limited."
+        },
+        {
+          "key": "B",
+          "text": "He has seen as out-fashioned."
+        },
+        {
+          "key": "C",
+          "text": "His work never had a major exhibition."
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "Dr Rubin and Jack agree that many of Prout’s problems were caused by A poor health. B jealous colleagues. C an unhappy marriage.",
+      "promptContext": "Dr Rubin and Jack agree that many of Prout’s problems were caused by",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -480,12 +564,26 @@
       "evidenceEndTime": 882.18,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "poor health."
+        },
+        {
+          "key": "B",
+          "text": "jealous colleagues."
+        },
+        {
+          "key": "C",
+          "text": "an unhappy marriage."
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "How did Prout learn painting? A His father taught him. B He went to art galleries. C He copied pictures.",
+      "promptContext": "How did Prout learn painting?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -497,12 +595,26 @@
       "evidenceEndTime": 882.18,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "His father taught him."
+        },
+        {
+          "key": "B",
+          "text": "He went to art galleries."
+        },
+        {
+          "key": "C",
+          "text": "He copied pictures."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "What point does Jack make about Prout’s style? A Prout used different styles simultaneously. B Many other artists had a similar style. C Prout’s style developed throughout his career.",
+      "promptContext": "What point does Jack make about Prout’s style?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -517,12 +629,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Prout used different styles simultaneously."
+        },
+        {
+          "key": "B",
+          "text": "Many other artists had a similar style."
+        },
+        {
+          "key": "C",
+          "text": "Prout’s style developed throughout his career."
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "What did John Ruskin admire about Prout’s paintings? A their realism B their presentation of buildings C their wide range of subject matters Questions 26–30 What information do the speakers give about each of the following pictures? Choose FIVE corect answers, A-G, next to questions 26-30. Information Pictures A view in Germany: at Wurzburg",
+      "promptContext": "What did John Ruskin admire about Prout’s paintings?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -537,7 +663,21 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "their realism"
+        },
+        {
+          "key": "B",
+          "text": "their presentation of buildings"
+        },
+        {
+          "key": "C",
+          "text": "their wide range of subject matters"
+        }
+      ]
     },
     {
       "number": 26,
@@ -580,12 +720,42 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án B probably an inaccurate title. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án B probably an inaccurate title. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "one of several paintings of the same view"
+        },
+        {
+          "key": "B",
+          "text": "probably an inaccurate title"
+        },
+        {
+          "key": "C",
+          "text": "may not be genuine"
+        },
+        {
+          "key": "D",
+          "text": "was never finished"
+        },
+        {
+          "key": "E",
+          "text": "typical subject matter for Prout"
+        },
+        {
+          "key": "F",
+          "text": "skillful painting of light and dark"
+        },
+        {
+          "key": "G",
+          "text": "shows an event that never took place"
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": ". Wooden scene",
+      "promptContext": "Wooden scene",
       "answerRaw": "C may not be genuine",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -599,7 +769,37 @@
       "evidenceEndTime": 1071.16,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án C may not be genuine. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án C may not be genuine. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "one of several paintings of the same view"
+        },
+        {
+          "key": "B",
+          "text": "probably an inaccurate title"
+        },
+        {
+          "key": "C",
+          "text": "may not be genuine"
+        },
+        {
+          "key": "D",
+          "text": "was never finished"
+        },
+        {
+          "key": "E",
+          "text": "typical subject matter for Prout"
+        },
+        {
+          "key": "F",
+          "text": "skillful painting of light and dark"
+        },
+        {
+          "key": "G",
+          "text": "shows an event that never took place"
+        }
+      ]
     },
     {
       "number": 29,
@@ -618,12 +818,42 @@
       "evidenceEndTime": 1112.98,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án F skillful painting of light and dark. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án F skillful painting of light and dark. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "one of several paintings of the same view"
+        },
+        {
+          "key": "B",
+          "text": "probably an inaccurate title"
+        },
+        {
+          "key": "C",
+          "text": "may not be genuine"
+        },
+        {
+          "key": "D",
+          "text": "was never finished"
+        },
+        {
+          "key": "E",
+          "text": "typical subject matter for Prout"
+        },
+        {
+          "key": "F",
+          "text": "skillful painting of light and dark"
+        },
+        {
+          "key": "G",
+          "text": "shows an event that never took place"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "…………. A one of several paintings of the same view B probably an inaccurate title C may not be genuine D was never finished E typical subject matter for Prout F skillful painting of light and dark G shows an event that never took place",
+      "promptContext": "Entrance to a harbor",
       "answerRaw": "A one of several paintings of the same view",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -640,12 +870,42 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án A one of several paintings of the same view. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án A one of several paintings of the same view. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "one of several paintings of the same view"
+        },
+        {
+          "key": "B",
+          "text": "probably an inaccurate title"
+        },
+        {
+          "key": "C",
+          "text": "may not be genuine"
+        },
+        {
+          "key": "D",
+          "text": "was never finished"
+        },
+        {
+          "key": "E",
+          "text": "typical subject matter for Prout"
+        },
+        {
+          "key": "F",
+          "text": "skillful painting of light and dark"
+        },
+        {
+          "key": "G",
+          "text": "shows an event that never took place"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "many US",
+      "promptContext": "Smith and his colleagues noticed the spread of mass-customisation in many US {{blank:31}}",
       "answerRaw": "industries",
       "canonicalAnswer": "industries",
       "acceptedAnswers": [
@@ -662,7 +922,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": ". • They decided to apply the idea to chocolate, and allow clients to decide which ingredients they wanted. • They called their company’s ‘Chocozine’. The email order • A European retailer wanted 15,000 chocolate bars to use as a",
+      "promptContext": "A European retailer wanted 15,000 chocolate bars to use as a {{blank:32}} for customers.",
       "answerRaw": "gift",
       "canonicalAnswer": "gift",
       "acceptedAnswers": [
@@ -679,7 +939,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": ".. for customers. • The deal could improve their sales and provide",
+      "promptContext": "The deal could improve their sales and provide {{blank:33}}",
       "answerRaw": "publicity",
       "canonicalAnswer": "publicity",
       "acceptedAnswers": [
@@ -696,7 +956,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": ".. . But there were risks: • They might not have sufficient time for the job. • If they failed, it could affect their finances and their",
+      "promptContext": "If they failed, it could affect their finances and their {{blank:34}}",
       "answerRaw": "reputation",
       "canonicalAnswer": "reputation",
       "acceptedAnswers": [
@@ -713,7 +973,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": ".. • They only had three",
+      "promptContext": "They only had three {{blank:35}}, which was not enough.",
       "answerRaw": "machines",
       "canonicalAnswer": "machines",
       "acceptedAnswers": [
@@ -732,7 +992,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ".. , which was not enough. They attempt to subcontract • At first they couldn’t find a subcontract with the right",
+      "promptContext": "At first they couldn’t find a subcontract with the right {{blank:36}}",
       "answerRaw": "toppings",
       "canonicalAnswer": "toppings",
       "acceptedAnswers": [
@@ -752,7 +1012,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": ". • A Harvard professor invited Smith to speak to students. • Many students said it would be a",
+      "promptContext": "Many students said it would be a {{blank:37}} to do the deal.",
       "answerRaw": "mistake",
       "canonicalAnswer": "mistake",
       "acceptedAnswers": [
@@ -771,7 +1031,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": ".. to do the deal. • One student had a",
+      "promptContext": "One student had a {{blank:38}} in the chocolate industry.",
       "answerRaw": "contact",
       "canonicalAnswer": "contact",
       "acceptedAnswers": [
@@ -790,7 +1050,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": ". in the chocolate industry. • But this subcontract had trouble with the unusual",
+      "promptContext": "But this subcontract had trouble with the unusual {{blank:39}} of the chocolate bar.",
       "answerRaw": "shape",
       "canonicalAnswer": "shape",
       "acceptedAnswers": [
@@ -809,7 +1069,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "of the chocolate bar. • Chocozine finally declined the order, but their sales improved anyway. Comment • Accepting",
+      "promptContext": "Accepting {{blank:40}} orders has created severe problems for many new businesses.",
       "answerRaw": "big",
       "canonicalAnswer": "big",
       "acceptedAnswers": [

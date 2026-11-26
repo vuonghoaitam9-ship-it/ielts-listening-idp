@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Located in",
+      "promptContext": "Located in {{blank:1}} Street, next to the {{blank:2}}",
       "answerRaw": "SKELLARN",
       "canonicalAnswer": "SKELLARN",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": "Street, next to the",
+      "promptContext": "Located in {{blank:1}} Street, next to the {{blank:2}}",
       "answerRaw": "park",
       "canonicalAnswer": "park",
       "acceptedAnswers": [
@@ -97,7 +97,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "Saturdays: open until",
+      "promptContext": "Saturdays: open until {{blank:3}} p.m.",
       "answerRaw": "4.30 / 4:30",
       "canonicalAnswer": "4.30",
       "acceptedAnswers": [
@@ -117,7 +117,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "p.m. Children’s activities - a",
+      "promptContext": "a {{blank:4}} club (5-13 year olds)",
       "answerRaw": "drama",
       "canonicalAnswer": "drama",
       "acceptedAnswers": [
@@ -137,7 +137,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "TEST",
+      "promptContext": "a {{blank:5}} club (every other Saturday)",
       "answerRaw": "singing",
       "canonicalAnswer": "singing",
       "acceptedAnswers": [
@@ -156,7 +156,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "club (every other Saturday) Adult activities - book of the Month club - can meet local",
+      "promptContext": "can meet local {{blank:6}} (about one a year)",
       "answerRaw": "artists",
       "canonicalAnswer": "artists",
       "acceptedAnswers": [
@@ -173,7 +173,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "LISTENING VOL TEST",
+      "promptContext": "can borrow {{blank:7}}",
       "answerRaw": "films",
       "canonicalAnswer": "films",
       "acceptedAnswers": [
@@ -193,7 +193,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "- computers are available (can be booked) - various",
+      "promptContext": "various {{blank:8}} are available",
       "answerRaw": "magazines",
       "canonicalAnswer": "magazines",
       "acceptedAnswers": [
@@ -213,7 +213,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "are available - can drop off books, etc via the letter box (must give card",
+      "promptContext": "can drop off books, etc via the letter box (must give card {{blank:9}})",
       "answerRaw": "number",
       "canonicalAnswer": "number",
       "acceptedAnswers": [
@@ -230,7 +230,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": ") Library shop sells - postcards (small selection) -",
+      "promptContext": "{{blank:10}} (wide range)",
       "answerRaw": "maps",
       "canonicalAnswer": "maps",
       "acceptedAnswers": [
@@ -250,7 +250,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "",
+      "promptContext": "Toilet block",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -267,7 +267,7 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": "11 Toilet block Shower block",
+      "promptContext": "Shower block",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -284,7 +284,7 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": "Shower block Tent site",
+      "promptContext": "Tent site",
       "answerRaw": "G",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -301,7 +301,7 @@
     {
       "number": 14,
       "part": 2,
-      "promptContext": "Tent site Cabins",
+      "promptContext": "Cabins",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -318,7 +318,7 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "Cabins Barbecue area",
+      "promptContext": "Barbecue area",
       "answerRaw": "F",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -335,7 +335,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": "Barbecue area Bike trail",
+      "promptContext": "Bike trail",
       "answerRaw": "H",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -352,7 +352,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": "Which TWO items is it recommended that campers bring? A earplugs B sunscreen C swimming toy D torch E boots Questions 19–20 Choose TWO correct answers.",
+      "promptContext": "Which TWO items is it recommended that campers bring?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -367,12 +367,34 @@
         "người nói tự đính chính thông tin vừa nêu ('actually')",
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "earplugs"
+        },
+        {
+          "key": "B",
+          "text": "sunscreen"
+        },
+        {
+          "key": "C",
+          "text": "swimming toy"
+        },
+        {
+          "key": "D",
+          "text": "torch"
+        },
+        {
+          "key": "E",
+          "text": "boots"
+        }
+      ]
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": "Which TWO items is it recommended that campers bring? A earplugs B sunscreen C swimming toy D torch E boots Questions 19–20 Choose TWO correct answers.",
+      "promptContext": "Which TWO items is it recommended that campers bring?",
       "answerRaw": "E",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -387,12 +409,34 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"E\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"E\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "earplugs"
+        },
+        {
+          "key": "B",
+          "text": "sunscreen"
+        },
+        {
+          "key": "C",
+          "text": "swimming toy"
+        },
+        {
+          "key": "D",
+          "text": "torch"
+        },
+        {
+          "key": "E",
+          "text": "boots"
+        }
+      ]
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": "Which does the organiser suggest are the TWO most popular concert items? A acting B dancing C poetry recital D singing E storytelling",
+      "promptContext": "Which does the organiser suggest are the TWO most popular concert items?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -407,12 +451,34 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "acting"
+        },
+        {
+          "key": "B",
+          "text": "dancing"
+        },
+        {
+          "key": "C",
+          "text": "poetry recital"
+        },
+        {
+          "key": "D",
+          "text": "singing"
+        },
+        {
+          "key": "E",
+          "text": "storytelling"
+        }
+      ]
     },
     {
       "number": 20,
       "part": 2,
-      "promptContext": "Which does the organiser suggest are the TWO most popular concert items? A acting B dancing C poetry recital D singing E storytelling",
+      "promptContext": "Which does the organiser suggest are the TWO most popular concert items?",
       "answerRaw": "D",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -431,12 +497,34 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'popular' ↔ 'favourite'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"D\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'popular' ↔ 'favourite'. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "acting"
+        },
+        {
+          "key": "B",
+          "text": "dancing"
+        },
+        {
+          "key": "C",
+          "text": "poetry recital"
+        },
+        {
+          "key": "D",
+          "text": "singing"
+        },
+        {
+          "key": "E",
+          "text": "storytelling"
+        }
+      ]
     },
     {
       "number": 21,
       "part": 3,
-      "promptContext": "Which TWO points did students most frequently make about their musical background before staring a music degree? A They had already composed music. B They had several music qualifications. C They could play more than one instrument. D They had performed in public. E They had had piano lessons. Questions 23–24 Choose TWO correct answers.",
+      "promptContext": "Which TWO points did students most frequently make about their musical background before staring a music degree?",
       "answerRaw": "C, D",
       "canonicalAnswer": "C, D",
       "acceptedAnswers": [
@@ -459,12 +547,34 @@
       "evidenceEndTime": 795.4,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They had already composed music."
+        },
+        {
+          "key": "B",
+          "text": "They had several music qualifications."
+        },
+        {
+          "key": "C",
+          "text": "They could play more than one instrument."
+        },
+        {
+          "key": "D",
+          "text": "They had performed in public."
+        },
+        {
+          "key": "E",
+          "text": "They had had piano lessons."
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "Which TWO points did students most frequently make about their musical background before staring a music degree? A They had already composed music. B They had several music qualifications. C They could play more than one instrument. D They had performed in public. E They had had piano lessons. Questions 23–24 Choose TWO correct answers.",
+      "promptContext": "Which TWO points did students most frequently make about their musical background before staring a music degree?",
       "answerRaw": "C, D",
       "canonicalAnswer": "C, D",
       "acceptedAnswers": [
@@ -487,12 +597,34 @@
       "evidenceEndTime": 795.4,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They had already composed music."
+        },
+        {
+          "key": "B",
+          "text": "They had several music qualifications."
+        },
+        {
+          "key": "C",
+          "text": "They could play more than one instrument."
+        },
+        {
+          "key": "D",
+          "text": "They had performed in public."
+        },
+        {
+          "key": "E",
+          "text": "They had had piano lessons."
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Which TWO points did students most frequently make about music practice? A They prefer to practise alone B They try to practise every day C They are motivated to practise by fear D They feel they don’t do enough practice E They enjoy the challenge of a difficult piece Questions 25–26 Choose TWO correct answers.",
+      "promptContext": "Which TWO points did students most frequently make about music practice?",
       "answerRaw": "C, E",
       "canonicalAnswer": "C, E",
       "acceptedAnswers": [
@@ -515,12 +647,34 @@
       "evidenceEndTime": 855.64,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They prefer to practise alone"
+        },
+        {
+          "key": "B",
+          "text": "They try to practise every day"
+        },
+        {
+          "key": "C",
+          "text": "They are motivated to practise by fear"
+        },
+        {
+          "key": "D",
+          "text": "They feel they don’t do enough practice"
+        },
+        {
+          "key": "E",
+          "text": "They enjoy the challenge of a difficult piece"
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "Which TWO points did students most frequently make about music practice? A They prefer to practise alone B They try to practise every day C They are motivated to practise by fear D They feel they don’t do enough practice E They enjoy the challenge of a difficult piece Questions 25–26 Choose TWO correct answers.",
+      "promptContext": "Which TWO points did students most frequently make about music practice?",
       "answerRaw": "C, E",
       "canonicalAnswer": "C, E",
       "acceptedAnswers": [
@@ -543,12 +697,34 @@
       "evidenceEndTime": 855.64,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They prefer to practise alone"
+        },
+        {
+          "key": "B",
+          "text": "They try to practise every day"
+        },
+        {
+          "key": "C",
+          "text": "They are motivated to practise by fear"
+        },
+        {
+          "key": "D",
+          "text": "They feel they don’t do enough practice"
+        },
+        {
+          "key": "E",
+          "text": "They enjoy the challenge of a difficult piece"
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "Which TWO points were most frequently made by students about the pieces they select for assessed performances? A They like to hear others performing the same pieces. B They like to choose little-known pieces C They like to play pieces from memory D They like their tutor to choose their pieces E They like to choose technically demanding pieces. Questions 27–30 Which comment did most students make about each of the following aspects of performance? Choose FOUR correct answers, A-G, next to question 27-30. Student Comments Aspects of performance Performing solo",
+      "promptContext": "Which TWO points were most frequently made by students about the pieces they select for assessed performances?",
       "answerRaw": "A, C",
       "canonicalAnswer": "A, C",
       "acceptedAnswers": [
@@ -571,12 +747,34 @@
       "evidenceEndTime": 1004.16,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They like to hear others performing the same pieces."
+        },
+        {
+          "key": "B",
+          "text": "They like to choose little-known pieces"
+        },
+        {
+          "key": "C",
+          "text": "They like to play pieces from memory"
+        },
+        {
+          "key": "D",
+          "text": "They like their tutor to choose their pieces"
+        },
+        {
+          "key": "E",
+          "text": "They like to choose technically demanding pieces."
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "Which TWO points were most frequently made by students about the pieces they select for assessed performances? A They like to hear others performing the same pieces. B They like to choose little-known pieces C They like to play pieces from memory D They like their tutor to choose their pieces E They like to choose technically demanding pieces. Questions 27–30 Which comment did most students make about each of the following aspects of performance? Choose FOUR correct answers, A-G, next to question 27-30. Student Comments Aspects of performance Performing solo",
+      "promptContext": "Which TWO points were most frequently made by students about the pieces they select for assessed performances?",
       "answerRaw": "A, C",
       "canonicalAnswer": "A, C",
       "acceptedAnswers": [
@@ -599,7 +797,29 @@
       "evidenceEndTime": 1004.16,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, C). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They like to hear others performing the same pieces."
+        },
+        {
+          "key": "B",
+          "text": "They like to choose little-known pieces"
+        },
+        {
+          "key": "C",
+          "text": "They like to play pieces from memory"
+        },
+        {
+          "key": "D",
+          "text": "They like their tutor to choose their pieces"
+        },
+        {
+          "key": "E",
+          "text": "They like to choose technically demanding pieces."
+        }
+      ]
     },
     {
       "number": 27,
@@ -621,7 +841,37 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án đúng là phương án B difficult but. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án B difficult but. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "This is very beneficial"
+        },
+        {
+          "key": "B",
+          "text": "This is difficult but enjoyable"
+        },
+        {
+          "key": "C",
+          "text": "This can affect relationships"
+        },
+        {
+          "key": "D",
+          "text": "This makes them very nervous"
+        },
+        {
+          "key": "E",
+          "text": "This is time-consuming"
+        },
+        {
+          "key": "F",
+          "text": "This is easy"
+        },
+        {
+          "key": "G",
+          "text": "This is happens infrequently"
+        }
+      ]
     },
     {
       "number": 28,
@@ -640,7 +890,37 @@
       "evidenceEndTime": 1022.7,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E time-consuming. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E time-consuming. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "This is very beneficial"
+        },
+        {
+          "key": "B",
+          "text": "This is difficult but enjoyable"
+        },
+        {
+          "key": "C",
+          "text": "This can affect relationships"
+        },
+        {
+          "key": "D",
+          "text": "This makes them very nervous"
+        },
+        {
+          "key": "E",
+          "text": "This is time-consuming"
+        },
+        {
+          "key": "F",
+          "text": "This is easy"
+        },
+        {
+          "key": "G",
+          "text": "This is happens infrequently"
+        }
+      ]
     },
     {
       "number": 29,
@@ -659,12 +939,42 @@
       "evidenceEndTime": 1036.46,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án G infrequently. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án G infrequently. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "This is very beneficial"
+        },
+        {
+          "key": "B",
+          "text": "This is difficult but enjoyable"
+        },
+        {
+          "key": "C",
+          "text": "This can affect relationships"
+        },
+        {
+          "key": "D",
+          "text": "This makes them very nervous"
+        },
+        {
+          "key": "E",
+          "text": "This is time-consuming"
+        },
+        {
+          "key": "F",
+          "text": "This is easy"
+        },
+        {
+          "key": "G",
+          "text": "This is happens infrequently"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "_______ A This is very beneficial B This is difficult but enjoyable C This can affect relationships D This makes them very nervous E This is time-consuming F This is easy G This is happens infrequently",
+      "promptContext": "Performing with musicians who play the same instrument",
       "answerRaw": "A very beneficial",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -680,12 +990,42 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án A very beneficial. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án A very beneficial. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "This is very beneficial"
+        },
+        {
+          "key": "B",
+          "text": "This is difficult but enjoyable"
+        },
+        {
+          "key": "C",
+          "text": "This can affect relationships"
+        },
+        {
+          "key": "D",
+          "text": "This makes them very nervous"
+        },
+        {
+          "key": "E",
+          "text": "This is time-consuming"
+        },
+        {
+          "key": "F",
+          "text": "This is easy"
+        },
+        {
+          "key": "G",
+          "text": "This is happens infrequently"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "- at first, engineers saw ethics as a",
+      "promptContext": "at first, engineers saw ethics as a {{blank:31}} issue",
       "answerRaw": "personal",
       "canonicalAnswer": "personal",
       "acceptedAnswers": [
@@ -704,7 +1044,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": "issue - attitudes changed because of three disasters involving the collapse of",
+      "promptContext": "attitudes changed because of three disasters involving the collapse of {{blank:32}}",
       "answerRaw": "bridges",
       "canonicalAnswer": "bridges",
       "acceptedAnswers": [
@@ -721,7 +1061,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "1876 – USA (metal fatigue) 1879 – Scotland (the impact of",
+      "promptContext": "1879 – Scotland (the impact of {{blank:33}} on the structure was miscalculated)",
       "answerRaw": "wind",
       "canonicalAnswer": "wind",
       "acceptedAnswers": [
@@ -738,7 +1078,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "on the structure was miscalculated) 1907 – Canada (the structure could not support its own",
+      "promptContext": "1907 – Canada (the structure could not support its own {{blank:34}})",
       "answerRaw": "weight",
       "canonicalAnswer": "weight",
       "acceptedAnswers": [
@@ -757,7 +1097,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": ") Boston Molasses Disaster At the time, molasses was the main",
+      "promptContext": "At the time, molasses was the main {{blank:35}} used in the USA",
       "answerRaw": "sweetener",
       "canonicalAnswer": "sweetener",
       "acceptedAnswers": [
@@ -776,7 +1116,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "used in the USA - Boston company: collapse of a",
+      "promptContext": "Boston company: collapse of a {{blank:36}} released 8 million litres of molasses",
       "answerRaw": "tank",
       "canonicalAnswer": "tank",
       "acceptedAnswers": [
@@ -793,7 +1133,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "released 8 million litres of molasses - the wave of molasses destroyed buildings and the railway - local residents insisted on a",
+      "promptContext": "local residents insisted on a {{blank:37}} of the molasses company",
       "answerRaw": "trial",
       "canonicalAnswer": "trial",
       "acceptedAnswers": [
@@ -810,7 +1150,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "of the molasses company Causes of the accident: - insufficient",
+      "promptContext": "insufficient {{blank:38}} check",
       "answerRaw": "safety",
       "canonicalAnswer": "safety",
       "acceptedAnswers": [
@@ -830,7 +1170,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "check - the fermentation caused the rising of",
+      "promptContext": "the fermentation caused the rising of {{blank:39}}",
       "answerRaw": "pressure",
       "canonicalAnswer": "pressure",
       "acceptedAnswers": [
@@ -847,7 +1187,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "Now, every engineer has to have a",
+      "promptContext": "Now, every engineer has to have a {{blank:40}}",
       "answerRaw": "license / lice",
       "canonicalAnswer": "license",
       "acceptedAnswers": [

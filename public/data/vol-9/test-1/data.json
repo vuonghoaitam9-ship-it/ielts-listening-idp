@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Jim's weekly rent will be $",
+      "promptContext": "Jim's weekly rent will be $ {{blank:1}}",
       "answerRaw": "80",
       "canonicalAnswer": "80",
       "acceptedAnswers": [
@@ -82,7 +82,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ". Jim can park his car in the",
+      "promptContext": "Jim can park his car in the {{blank:2}}",
       "answerRaw": "garage",
       "canonicalAnswer": "garage",
       "acceptedAnswers": [
@@ -101,7 +101,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "The telephone is in the",
+      "promptContext": "The telephone is in the {{blank:3}}",
       "answerRaw": "kitchen",
       "canonicalAnswer": "kitchen",
       "acceptedAnswers": [
@@ -120,7 +120,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": ". Jim will bring a",
+      "promptContext": "Jim will bring a {{blank:4}} for his bedroom.",
       "answerRaw": "heater",
       "canonicalAnswer": "heater",
       "acceptedAnswers": [
@@ -140,7 +140,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": ". for his bedroom. Peter would like Jim to bring a",
+      "promptContext": "Peter would like Jim to bring a {{blank:5}}",
       "answerRaw": "toaster",
       "canonicalAnswer": "toaster",
       "acceptedAnswers": [
@@ -159,7 +159,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": ".. Peter and Jim will probably watch TV on",
+      "promptContext": "Peter and Jim will probably watch TV on {{blank:6}}",
       "answerRaw": "Friday evening",
       "canonicalAnswer": "Friday evening",
       "acceptedAnswers": [
@@ -176,7 +176,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "Jim works in a",
+      "promptContext": "Jim works in a {{blank:7}} twice a week.",
       "answerRaw": "supermarket",
       "canonicalAnswer": "supermarket",
       "acceptedAnswers": [
@@ -193,7 +193,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "twice a week. Peter will share the cost of",
+      "promptContext": "Peter will share the cost of {{blank:8}} with Jim.",
       "answerRaw": "petrol",
       "canonicalAnswer": "petrol",
       "acceptedAnswers": [
@@ -210,7 +210,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": ".. with Jim. Peter wants Jim to move in by",
+      "promptContext": "Peter wants Jim to move in by {{blank:9}}",
       "answerRaw": "1st of June,1st June,1 June,June 1st ,June 1",
       "canonicalAnswer": "1st of June",
       "acceptedAnswers": [
@@ -231,7 +231,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "Jim agrees to move in after his",
+      "promptContext": "Jim agrees to move in after his {{blank:10}}",
       "answerRaw": "exam",
       "canonicalAnswer": "exam",
       "acceptedAnswers": [
@@ -248,7 +248,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "The school day starts at",
+      "promptContext": "The school day starts at {{blank:11}} with registration, and finishes at 4 p.m.",
       "answerRaw": "8:55,8.55,8:55 a.m.,8.55 a.m.",
       "canonicalAnswer": "8:55",
       "acceptedAnswers": [
@@ -270,7 +270,7 @@
     {
       "number": 12,
       "part": 2,
-      "promptContext": ". with registration, and finishes at 4 p.m. The school canteen offers a",
+      "promptContext": "The school canteen offers a {{blank:12}} for lunch.",
       "answerRaw": "hot meal",
       "canonicalAnswer": "hot meal",
       "acceptedAnswers": [
@@ -287,7 +287,7 @@
     {
       "number": 13,
       "part": 2,
-      "promptContext": ".. for lunch. The morning and afternoon breaks each last for",
+      "promptContext": "The morning and afternoon breaks each last for {{blank:13}}",
       "answerRaw": "15 minutes",
       "canonicalAnswer": "15 minutes",
       "acceptedAnswers": [
@@ -304,7 +304,7 @@
     {
       "number": 14,
       "part": 2,
-      "promptContext": "",
+      "promptContext": "On Thursday afternoons all children must take part in {{blank:14}}",
       "answerRaw": "sports",
       "canonicalAnswer": "sports",
       "acceptedAnswers": [
@@ -323,7 +323,7 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": ". Every term the children do a special",
+      "promptContext": "Every term the children do a special {{blank:15}}",
       "answerRaw": "poster",
       "canonicalAnswer": "poster",
       "acceptedAnswers": [
@@ -340,7 +340,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": ". The children are given tests each",
+      "promptContext": "The children are given tests each {{blank:16}}",
       "answerRaw": "month",
       "canonicalAnswer": "month",
       "acceptedAnswers": [
@@ -359,7 +359,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": ". The children can go to",
+      "promptContext": "The children can go to {{blank:17}} after school to learn new",
       "answerRaw": "clubs",
       "canonicalAnswer": "clubs",
       "acceptedAnswers": [
@@ -376,7 +376,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "",
+      "promptContext": "{{blank:18}} {{blank:19}} {{blank:20}}",
       "answerRaw": "E Head's office",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -395,7 +395,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": ".",
+      "promptContext": "{{blank:18}} {{blank:19}} {{blank:20}}",
       "answerRaw": "A music room",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -414,7 +414,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": "………… A music room B assembly hall C computer room D cloakroom E Head's office G gym H reception",
+      "promptContext": "{{blank:18}} {{blank:19}} {{blank:20}}",
       "answerRaw": "G gym",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -433,7 +433,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "What do the students agree about defining forensic linguistics? A The dictionary definition was not very useful. B They could provide an example of the kind of work involved. C They should read about the subject to see how it is described.",
+      "promptContext": "What do the students agree about defining forensic linguistics?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -447,12 +447,26 @@
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The dictionary definition was not very useful."
+        },
+        {
+          "key": "B",
+          "text": "They could provide an example of the kind of work involved."
+        },
+        {
+          "key": "C",
+          "text": "They should read about the subject to see how it is described."
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "Jen thinks it will be difficult to analyse the voice recording because A it is not of good quality. B the accent is difficult to understand. C she doesn't know if the speaker is male or female.",
+      "promptContext": "Jen thinks it will be difficult to analyse the voice recording because",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -466,12 +480,26 @@
       "distractors": [
         "người nói tự đính chính thông tin vừa nêu ('actually')"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "it is not of good quality."
+        },
+        {
+          "key": "B",
+          "text": "the accent is difficult to understand."
+        },
+        {
+          "key": "C",
+          "text": "she doesn't know if the speaker is male or female."
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Why does Jen think that the 'suspect' might vary their voice patterns? A because they're being recorded. B because they've been told to. C because they feel uncomfortable about their accent.",
+      "promptContext": "Why does Jen think that the 'suspect' might vary their voice patterns?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -483,12 +511,26 @@
       "evidenceEndTime": 893.92,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "because they're being recorded."
+        },
+        {
+          "key": "B",
+          "text": "because they've been told to."
+        },
+        {
+          "key": "C",
+          "text": "because they feel uncomfortable about their accent."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "What does Rob think about Jen's approach to study? A She worries too much about her ability. B She often ignores the most important issues. C She has trouble getting started. Questions 25–26 Choose TWO correct answers.",
+      "promptContext": "What does Rob think about Jen's approach to study?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -505,12 +547,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'trouble' ↔ 'problem'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'trouble' ↔ 'problem'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "She worries too much about her ability."
+        },
+        {
+          "key": "B",
+          "text": "She often ignores the most important issues."
+        },
+        {
+          "key": "C",
+          "text": "She has trouble getting started."
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "Which TWO books do Jen and Rob decide to get from the library? A Voice Identification B Modern Forensic Techniques C Language and Crime D Forensics Today E Research Methods in Forensic Linguistics Questions 27–28 Choose TWO correct answers.",
+      "promptContext": "Which TWO books do Jen and Rob decide to get from the library?",
       "answerRaw": "B, E",
       "canonicalAnswer": "B, E",
       "acceptedAnswers": [
@@ -535,12 +591,34 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Voice Identification"
+        },
+        {
+          "key": "B",
+          "text": "Modern Forensic Techniques"
+        },
+        {
+          "key": "C",
+          "text": "Language and Crime"
+        },
+        {
+          "key": "D",
+          "text": "Forensics Today"
+        },
+        {
+          "key": "E",
+          "text": "Research Methods in Forensic Linguistics"
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "Which TWO books do Jen and Rob decide to get from the library? A Voice Identification B Modern Forensic Techniques C Language and Crime D Forensics Today E Research Methods in Forensic Linguistics Questions 27–28 Choose TWO correct answers.",
+      "promptContext": "Which TWO books do Jen and Rob decide to get from the library?",
       "answerRaw": "B, E",
       "canonicalAnswer": "B, E",
       "acceptedAnswers": [
@@ -565,12 +643,34 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Câu 25–26 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Voice Identification"
+        },
+        {
+          "key": "B",
+          "text": "Modern Forensic Techniques"
+        },
+        {
+          "key": "C",
+          "text": "Language and Crime"
+        },
+        {
+          "key": "D",
+          "text": "Forensics Today"
+        },
+        {
+          "key": "E",
+          "text": "Research Methods in Forensic Linguistics"
+        }
+      ]
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "Which TWO practical considerations are both Jen and Rob concerned about? A how much time they have for writing up the project B being able to do enough research C only speaking to the 'suspect' once D using recording equipment E how easy it will be to contact the 'suspect' Questions 29–30 Choose TWO correct answers.",
+      "promptContext": "Which TWO practical considerations are both Jen and Rob concerned about?",
       "answerRaw": "A, D",
       "canonicalAnswer": "A, D",
       "acceptedAnswers": [
@@ -593,12 +693,34 @@
       "evidenceEndTime": 1107.94,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how much time they have for writing up the project"
+        },
+        {
+          "key": "B",
+          "text": "being able to do enough research"
+        },
+        {
+          "key": "C",
+          "text": "only speaking to the 'suspect' once"
+        },
+        {
+          "key": "D",
+          "text": "using recording equipment"
+        },
+        {
+          "key": "E",
+          "text": "how easy it will be to contact the 'suspect'"
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "Which TWO practical considerations are both Jen and Rob concerned about? A how much time they have for writing up the project B being able to do enough research C only speaking to the 'suspect' once D using recording equipment E how easy it will be to contact the 'suspect' Questions 29–30 Choose TWO correct answers.",
+      "promptContext": "Which TWO practical considerations are both Jen and Rob concerned about?",
       "answerRaw": "A, D",
       "canonicalAnswer": "A, D",
       "acceptedAnswers": [
@@ -621,12 +743,34 @@
       "evidenceEndTime": 1107.94,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "how much time they have for writing up the project"
+        },
+        {
+          "key": "B",
+          "text": "being able to do enough research"
+        },
+        {
+          "key": "C",
+          "text": "only speaking to the 'suspect' once"
+        },
+        {
+          "key": "D",
+          "text": "using recording equipment"
+        },
+        {
+          "key": "E",
+          "text": "how easy it will be to contact the 'suspect'"
+        }
+      ]
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": "Which TWO sections of the project will Rob write alone? A Methodology B Literature review C Introduction D Analysis E Discussion and conclusions",
+      "promptContext": "Which TWO sections of the project will Rob write alone?",
       "answerRaw": "C, E",
       "canonicalAnswer": "C, E",
       "acceptedAnswers": [
@@ -651,12 +795,34 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Methodology"
+        },
+        {
+          "key": "B",
+          "text": "Literature review"
+        },
+        {
+          "key": "C",
+          "text": "Introduction"
+        },
+        {
+          "key": "D",
+          "text": "Analysis"
+        },
+        {
+          "key": "E",
+          "text": "Discussion and conclusions"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "Which TWO sections of the project will Rob write alone? A Methodology B Literature review C Introduction D Analysis E Discussion and conclusions",
+      "promptContext": "Which TWO sections of the project will Rob write alone?",
       "answerRaw": "C, E",
       "canonicalAnswer": "C, E",
       "acceptedAnswers": [
@@ -681,12 +847,34 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: C, E). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Methodology"
+        },
+        {
+          "key": "B",
+          "text": "Literature review"
+        },
+        {
+          "key": "C",
+          "text": "Introduction"
+        },
+        {
+          "key": "D",
+          "text": "Analysis"
+        },
+        {
+          "key": "E",
+          "text": "Discussion and conclusions"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "• save available",
+      "promptContext": "save available {{blank:31}}",
       "answerRaw": "resources",
       "canonicalAnswer": "resources",
       "acceptedAnswers": [
@@ -703,7 +891,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": ".. • reduce demands on their environment Value of dormancy Organisms which become dormant: • can live in conditions which are environmentally",
+      "promptContext": "can live in conditions which are environmentally {{blank:32}}",
       "answerRaw": "stressful",
       "canonicalAnswer": "stressful",
       "acceptedAnswers": [
@@ -720,7 +908,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": "• can live in a wider range of places • have less",
+      "promptContext": "have less {{blank:33}} from other animals",
       "answerRaw": "competition",
       "canonicalAnswer": "competition",
       "acceptedAnswers": [
@@ -740,7 +928,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": ".. from other animals Causes of dormancy • changes in temperature and",
+      "promptContext": "changes in temperature and {{blank:34}}",
       "answerRaw": "light",
       "canonicalAnswer": "light",
       "acceptedAnswers": [
@@ -759,7 +947,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": ".. • availability of food, water, oxygen Dormancy in insects • There may be a",
+      "promptContext": "There may be a {{blank:35}} in their metabolism (diapause)",
       "answerRaw": "reduction",
       "canonicalAnswer": "reduction",
       "acceptedAnswers": [
@@ -776,7 +964,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ".. in their metabolism (diapause) • Diapause occurs during extreme conditions, or as part of the life cycle The African lungfish • It buries itself in the",
+      "promptContext": "It buries itself in the {{blank:36}} and creates a slimy cocoon",
       "answerRaw": "mud",
       "canonicalAnswer": "mud",
       "acceptedAnswers": [
@@ -793,7 +981,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": ". and creates a slimy cocoon • Two dangers:",
+      "promptContext": "Two dangers: {{blank:37}} and desiccation",
       "answerRaw": "starvation",
       "canonicalAnswer": "starvation",
       "acceptedAnswers": [
@@ -810,7 +998,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "and desiccation Snails • Some close their shells with a membrane during dormancy • Light-coloured shells reflect sunlight and limit",
+      "promptContext": "Light-coloured shells reflect sunlight and limit {{blank:38}}",
       "answerRaw": "evaporation",
       "canonicalAnswer": "evaporation",
       "acceptedAnswers": [
@@ -827,7 +1015,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": ". Hibernation • Only warm-blooded animals hibernate The Arctic ground squirrel • It hibernates in an insulated, underground",
+      "promptContext": "It hibernates in an insulated, underground {{blank:39}}",
       "answerRaw": "nest",
       "canonicalAnswer": "nest",
       "acceptedAnswers": [
@@ -844,7 +1032,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "• It loses 40% of its weight during hibernation • When it wakes up, the first part of the body to heat up is the",
+      "promptContext": "When it wakes up, the first part of the body to heat up is the {{blank:40}}",
       "answerRaw": "heart",
       "canonicalAnswer": "heart",
       "acceptedAnswers": [

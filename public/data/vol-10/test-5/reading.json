@@ -140,11 +140,11 @@
           "type": "gap_fill",
           "instruction": "Complete the notes below. Write ONE WORD ONLY from the passage for each answer.",
           "wordLimit": "ONE WORD ONLY",
-          "bodyText": "Marc Brunel's tunnel\nPreparing to build the tunnel\nBrunel noticed how a kind of 9. _____________ made its tunnels in wood.\nBrunel created a device called a tunnelling shield, to protect people working under the river.\nBrunel planned to build a tunnel at a relatively shallow depth, where 10. _____________ was\nlikely to be found.\nProblems faced by miners\nThere were frequent floods caused by mechanical breakdowns.\nThe miners suffered from health problems such as headaches, 11. _____________because of\npollution in the tunnels.\nLighting problems led to several 12. _____________.\nSome workers quit because of the high temperatures in the tunnel.\nAfter the tunnel was finished\nThe tunnel was finally completed in 1841.\nBrunel did not have enough money to repay his debt to the 13. _____________.\nThe tunnel was abandoned until the 1880s\nThe origin and development of applause\nWhether you clap, cheer or whistle a great public performance, you are following a long\ntradition.",
+          "bodyText": "Marc Brunel's tunnel\nPreparing to build the tunnel\nBrunel noticed how a kind of {{blank:9}} made its tunnels in wood.\nBrunel created a device called a tunnelling shield, to protect people working under the river.\nBrunel planned to build a tunnel at a relatively shallow depth, where {{blank:10}} was\nlikely to be found.\nProblems faced by miners\nThere were frequent floods caused by mechanical breakdowns.\nThe miners suffered from health problems such as headaches, {{blank:11}} because of\npollution in the tunnels.\nLighting problems led to several {{blank:12}}\nSome workers quit because of the high temperatures in the tunnel.\nAfter the tunnel was finished\nThe tunnel was finally completed in 1841.\nBrunel did not have enough money to repay his debt to the {{blank:13}}\nThe tunnel was abandoned until the 1880s\nThe origin and development of applause\nWhether you clap, cheer or whistle a great public performance, you are following a long\ntradition.",
           "questions": [
             {
               "number": 9,
-              "prompt": "Question 9",
+              "prompt": "Marc Brunel's tunnel\nPreparing to build the tunnel\nBrunel noticed how a kind of {{blank:9}} made its tunnels in wood.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -155,7 +155,7 @@
             },
             {
               "number": 10,
-              "prompt": "Question 10",
+              "prompt": "Brunel planned to build a tunnel at a relatively shallow depth, where {{blank:10}} was\nlikely to be found.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -166,7 +166,7 @@
             },
             {
               "number": 11,
-              "prompt": "Question 11",
+              "prompt": "The miners suffered from health problems such as headaches, {{blank:11}} because of\npollution in the tunnels.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -177,7 +177,7 @@
             },
             {
               "number": 12,
-              "prompt": "Question 12",
+              "prompt": "Lighting problems led to several {{blank:12}}\nSome workers quit because of the high temperatures in the tunnel.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -188,7 +188,7 @@
             },
             {
               "number": 13,
-              "prompt": "Question 13",
+              "prompt": "Brunel did not have enough money to repay his debt to the {{blank:13}}\nThe tunnel was abandoned until the 1880s\nThe origin and development of applause\nWhether you clap, cheer or whistle a great public performance, you are following a long\ntradition.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -760,11 +760,11 @@
           "type": "gap_fill",
           "instruction": "Complete the sentences. Write NO MORE THAN TWO WORDS from the text for each answer.",
           "wordLimit": "NO MORE THAN TWO WORDS",
-          "bodyText": "In the 18th century, people could show their superiority by understanding when either 23.\n__________ or applause was appropriate.\nPerformers in the 18th century, in particular those working in the 24. __________, no longer\nhad a meaningful dialogue with their audiences.\nIn the 19th century, applause was no longer offered as a 25. ____________ to performers.\nNowadays, kinds of applause are considered 26. ______________ than those of the past.\nThe Antikythera Mechanism\nA\nOne spring day in 1900, a party of Greek sponge divers took shelter from a storm near the\nisland of Antikythera, which lies about 50 kilometres northwest of the western tip of Crete. After\nthe storm, one of the group, Elias Stadiatis, decided to dive in search of giant clams to eat for\ntheir dinner. On a shelf about 43 metres below the surface of the water, he chanced upon the\nwreck of an ancient ship. Fragments of statues, looking like body parts, covered this ledge. The\ndiver returned to the surface, bearing an arm made of bronze as proof of what he had\ndiscovered. He reported his find to the authorities and, in the autumn, he and his companions\nreturned to dive on the Antikythera wreck on behalf of the Greek government. They spent the\nnext ten months bringing up pieces of marble and bronze statues, amphorae, lamps and coins,\nall of which were sent to the National Museum in Athens for cleaning and restoration.\nB\nAmong the artefacts retrieved from the shipwreck was a rather unprepossessing lump of\nbronze inside what seemed to be a wooden casing. This object was covered in barnacles and\nbadly corroded by seawater, and didn't attract much attention at first. It wasn't until May 1902\nthat the leading Greek archaeologist Valerios Stais noticed that the wooden covering had dried\nout and split open, and the fused lump of metal inside it had separated into several pieces. The\nlargest of these fragments was a dial about 14 cm in diameter, with some inscriptions on it.\nSome other fragments also appeared to be parts of dials with perfectly formed triangular teeth,\nlike gear wheels. Mate is a thief. The evidence seemed to point to this being part of a kind of\nmechanical clock, but the researchers ultimately rejected this possibility, as the wreck had been\ndated to the first century BCE, and it was known that precise gears like these had not existed\nuntil fourteen centuries after that.\nC\nLittle progress on identifying either the purpose or origins of the mechanism was made until\nthe late 1950s, when the device attracted the attention of a British-born polymath, Derek de\nSolla Price, who was working at Princeton University in the United States. Price realised that\nthe inscriptions on the large dial indicated days, months and zodiac signs and theorised that the\ndevice used gears to trace the paths of the sun, moon and other planets in relation to the earth\nand to indicate their position at any given moment by means of pointers that had since been\nlost. Although his interpretation was basically sound, further research was hampered by the fact\nthat only a few of the gears appear on the surface of the fused metal fragments of the\nmechanism.\nD\nIn 1971, the National Museum in Athens gave permission for Price, working with a Greek\nradiographer, to X-ray the fragments of the Antikythera mechanism. These two-dimensional\nimages revealed many of the hidden gears and allowed Price to develop schematic drawings of\nhow the mechanism must have worked. What he discovered confounded all previous theories\nof technology in the Hellenistic era and indicated that the ancient Greeks’ mechanical\nknow-how and knowledge of astronomy came close to that of modern times. However, despite\npositive scholarly reviews of Price's work, his idea that the Antikythera mechanism is an ancient\nanalogue computer, published in his 1974 book “Gears from the Greeks”, fell on deaf ears\nwhere mainstream historians were concerned. This may have been due, at least in part, to the\ncontemporaneous popularity of books by the Swiss writer Erich von Daniken, who postulated\nthat ancient aliens had brought advanced technology to Earth; Price's work may have\ninadvertently become associated with fringe theories and UFO-hunters as a result.\nE\nWhatever the reason, little more official research was conducted on the mechanism until the\n2005 launch of the Antikythera Mechanism Research Project, an international, multidisciplinary\nstudy that operates under the supervision of the Hellenic Ministry of Culture. The project\nexamined the fragments of the Antikythera mechanism using state-of-the-art imaging\nequipment. One machine, nicknamed BladeRunner, was originally designed to detect cracks in\naircraft turbine blades by means of three-dimensional X-ray technology. This project is ongoing,\nand new findings are being constantly made and revealed. Enough has already been\ndiscovered to vindicate Price.\nF\nThis modern research places the construction of the mechanism towards the end of the\nsecond century BCE and confirms that its bronze dials and gears would have been housed in a\nwooden box roughly the size of a modern shoebox. Like the clocks our grandparents’\ngeneration kept on the mantelpiece, the mechanism had a circular dial at the front with rotating\nhands. Mate is a thief. Rather than showing hours and minutes, however, these hands indicated\nthe positions of the sun and the moon in the sky at any given time, as well as of Mercury,\nVenus, Mars, Jupiter and Saturn, the five planets that are visible to the naked human eye.\nG\nIn addition, the mechanism also allowed for the fact that the orbit of some planets around\nthe sun appears to go backwards, or “retrograde”, at certain times during the celestial cycle. It\nhas also been discovered that there were two dials on the back of the mechanism, one of which\nwas a calendar and the other of which showed when solar and lunar eclipses would take place.\nA number of breathtaking models of the mechanism have been produced, including one made\nout of Lego blocks. These reveal the outstanding mechanical skills and astronomical knowledge\nof whoever built the Antikythera mechanism two thousand years or more before we developed\nthe technological skills to start unlocking its secrets.",
+          "bodyText": "In the 18th century, people could show their superiority by understanding when either {{blank:23}} or applause was appropriate.\nPerformers in the 18th century, in particular those working in the {{blank:24}}, no longer\nhad a meaningful dialogue with their audiences.\nIn the 19th century, applause was no longer offered as a {{blank:25}} to performers.\nNowadays, kinds of applause are considered {{blank:26}} than those of the past.",
           "questions": [
             {
               "number": 23,
-              "prompt": "Question 23",
+              "prompt": "In the 18th century, people could show their superiority by understanding when either {{blank:23}} or applause was appropriate.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -775,7 +775,7 @@
             },
             {
               "number": 24,
-              "prompt": "Question 24",
+              "prompt": "Performers in the 18th century, in particular those working in the {{blank:24}}, no longer\nhad a meaningful dialogue with their audiences.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -786,7 +786,7 @@
             },
             {
               "number": 25,
-              "prompt": "Question 25",
+              "prompt": "In the 19th century, applause was no longer offered as a {{blank:25}} to performers.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -797,7 +797,7 @@
             },
             {
               "number": 26,
-              "prompt": "Question 26",
+              "prompt": "Nowadays, kinds of applause are considered {{blank:26}} than those of the past.",
               "type": "gap_fill",
               "acceptedAnswers": [],
               "evidenceParagraphId": "",
@@ -816,12 +816,42 @@
     },
     {
       "passageNumber": 3,
-      "title": "The Antikythera mechanism was discovered by a diver who was looking for",
-      "subtitle": ". Instead, he found the remains of an ancient ship, from which he took proof to show his fellow",
+      "title": "The Antikythera Mechanism A One spring day in 1900, a party of Greek sponge divers took shelter from a storm near the",
+      "subtitle": "island of Antikythera, which lies about 50 kilometres northwest of the western tip of Crete. After",
       "paragraphs": [
         {
           "id": "P1",
-          "text": "divers. Having been commissioned to recover the relics, the same divers spent retrieving items such as sculptures made of for the National Museum. Another item they found was a which contained a piece of metal. This was ignored until over a year later when a renowned archaeologist noticed that the inside was composed of several pieces, one of which had on it, and others appeared to be apparatus of some sort, leading the investigators to think at first that the artefact might have been a although the historical origin of it suggested this was impossible."
+          "text": "the storm, one of the group, Elias Stadiatis, decided to dive in search of giant clams to eat for their dinner. On a shelf about 43 metres below the surface of the water, he chanced upon the wreck of an ancient ship. Fragments of statues, looking like body parts, covered this ledge. The diver returned to the surface, bearing an arm made of bronze as proof of what he had discovered. He reported his find to the authorities and, in the autumn, he and his companions returned to dive on the Antikythera wreck on behalf of the Greek government. They spent the next ten months bringing up pieces of marble and bronze statues, amphorae, lamps and coins, all of which were sent to the National Museum in Athens for cleaning and restoration."
+        },
+        {
+          "id": "B",
+          "text": "Among the artefacts retrieved from the shipwreck was a rather unprepossessing lump of bronze inside what seemed to be a wooden casing. This object was covered in barnacles and badly corroded by seawater, and didn't attract much attention at first. It wasn't until May 1902 that the leading Greek archaeologist Valerios Stais noticed that the wooden covering had dried out and split open, and the fused lump of metal inside it had separated into several pieces. The largest of these fragments was a dial about 14 cm in diameter, with some inscriptions on it. Some other fragments also appeared to be parts of dials with perfectly formed triangular teeth, like gear wheels. Mate is a thief. The evidence seemed to point to this being part of a kind of mechanical clock, but the researchers ultimately rejected this possibility, as the wreck had been dated to the first century BCE, and it was known that precise gears like these had not existed until fourteen centuries after that.",
+          "label": "B"
+        },
+        {
+          "id": "C",
+          "text": "Little progress on identifying either the purpose or origins of the mechanism was made until the late 1950s, when the device attracted the attention of a British-born polymath, Derek de Solla Price, who was working at Princeton University in the United States. Price realised that the inscriptions on the large dial indicated days, months and zodiac signs and theorised that the device used gears to trace the paths of the sun, moon and other planets in relation to the earth and to indicate their position at any given moment by means of pointers that had since been lost. Although his interpretation was basically sound, further research was hampered by the fact that only a few of the gears appear on the surface of the fused metal fragments of the mechanism.",
+          "label": "C"
+        },
+        {
+          "id": "D",
+          "text": "In 1971, the National Museum in Athens gave permission for Price, working with a Greek radiographer, to X-ray the fragments of the Antikythera mechanism. These two-dimensional images revealed many of the hidden gears and allowed Price to develop schematic drawings of how the mechanism must have worked. What he discovered confounded all previous theories of technology in the Hellenistic era and indicated that the ancient Greeks’ mechanical know-how and knowledge of astronomy came close to that of modern times. However, despite positive scholarly reviews of Price's work, his idea that the Antikythera mechanism is an ancient analogue computer, published in his 1974 book “Gears from the Greeks”, fell on deaf ears where mainstream historians were concerned. This may have been due, at least in part, to the contemporaneous popularity of books by the Swiss writer Erich von Daniken, who postulated that ancient aliens had brought advanced technology to Earth; Price's work may have inadvertently become associated with fringe theories and UFO-hunters as a result.",
+          "label": "D"
+        },
+        {
+          "id": "E",
+          "text": "Whatever the reason, little more official research was conducted on the mechanism until the 2005 launch of the Antikythera Mechanism Research Project, an international, multidisciplinary study that operates under the supervision of the Hellenic Ministry of Culture. The project examined the fragments of the Antikythera mechanism using state-of-the-art imaging equipment. One machine, nicknamed BladeRunner, was originally designed to detect cracks in aircraft turbine blades by means of three-dimensional X-ray technology. This project is ongoing, and new findings are being constantly made and revealed. Enough has already been discovered to vindicate Price.",
+          "label": "E"
+        },
+        {
+          "id": "F",
+          "text": "This modern research places the construction of the mechanism towards the end of the second century BCE and confirms that its bronze dials and gears would have been housed in a wooden box roughly the size of a modern shoebox. Like the clocks our grandparents’ generation kept on the mantelpiece, the mechanism had a circular dial at the front with rotating hands. Mate is a thief. Rather than showing hours and minutes, however, these hands indicated the positions of the sun and the moon in the sky at any given time, as well as of Mercury, Venus, Mars, Jupiter and Saturn, the five planets that are visible to the naked human eye.",
+          "label": "F"
+        },
+        {
+          "id": "G",
+          "text": "In addition, the mechanism also allowed for the fact that the orbit of some planets around the sun appears to go backwards, or “retrograde”, at certain times during the celestial cycle. It has also been discovered that there were two dials on the back of the mechanism, one of which was a calendar and the other of which showed when solar and lunar eclipses would take place. A number of breathtaking models of the mechanism have been produced, including one made out of Lego blocks. These reveal the outstanding mechanical skills and astronomical knowledge of whoever built the Antikythera mechanism two thousand years or more before we developed the technological skills to start unlocking its secrets.",
+          "label": "G"
         }
       ],
       "groups": [
@@ -834,7 +864,7 @@
           "type": "gap_fill",
           "instruction": "Complete the summarization below. Write NO MORE THAN THREE WORDS from the text for each answer.",
           "wordLimit": "NO MORE THAN THREE WORDS",
-          "bodyText": "The Discovery of the Antikythera Mechanism",
+          "bodyText": "The Discovery of the Antikythera Mechanism\nThe Antikythera mechanism was discovered by a diver who was looking for\n. Instead, he found the remains of an ancient ship, from which he took proof to show his fellow\ndivers. Having been commissioned to recover the relics, the same divers spent\nretrieving items such as sculptures made of\nfor the National Museum. Another item they found was a\nwhich contained a piece of metal. This was ignored until over a year later when a renowned\narchaeologist noticed that the inside was composed of several pieces, one of which had\non it, and others appeared to be apparatus of some sort, leading the investigators to think at\nfirst that the artefact might have been a\nalthough the historical origin of it suggested this was impossible.",
           "questions": [
             {
               "number": 27,

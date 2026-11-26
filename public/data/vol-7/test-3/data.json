@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Number of people:",
+      "promptContext": "Number of people: {{blank:1}}",
       "answerRaw": "80",
       "canonicalAnswer": "80",
       "acceptedAnswers": [
@@ -82,7 +82,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ".. Date:",
+      "promptContext": "Date: {{blank:2}}",
       "answerRaw": "26 September",
       "canonicalAnswer": "26 September",
       "acceptedAnswers": [
@@ -99,7 +99,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": "Location: the",
+      "promptContext": "Location: the {{blank:3}} Room",
       "answerRaw": "King",
       "canonicalAnswer": "King",
       "acceptedAnswers": [
@@ -116,7 +116,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "Room Type of music",
+      "promptContext": "Type of music {{blank:4}}",
       "answerRaw": "jazz",
       "canonicalAnswer": "jazz",
       "acceptedAnswers": [
@@ -135,7 +135,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "FOOD Service option",
+      "promptContext": "Service option {{blank:5}}",
       "answerRaw": "table",
       "canonicalAnswer": "table",
       "acceptedAnswers": [
@@ -152,7 +152,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": ". Flavour of cake:",
+      "promptContext": "Flavour of cake: {{blank:6}}",
       "answerRaw": "lemon",
       "canonicalAnswer": "lemon",
       "acceptedAnswers": [
@@ -171,7 +171,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": ". Message on cake:",
+      "promptContext": "Message on cake: {{blank:7}}",
       "answerRaw": "congratulations",
       "canonicalAnswer": "congratulations",
       "acceptedAnswers": [
@@ -190,7 +190,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": "PAYMENT Reservation fee paid: $100 Credit card type: Mastercard Credit card number:",
+      "promptContext": "Credit card number: {{blank:8}}",
       "answerRaw": "5544120043268887",
       "canonicalAnswer": "5544120043268887",
       "acceptedAnswers": [
@@ -209,7 +209,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "Name: Brian",
+      "promptContext": "Name: Brian {{blank:9}} Troy",
       "answerRaw": "SEBASTIAN",
       "canonicalAnswer": "SEBASTIAN",
       "acceptedAnswers": [
@@ -226,7 +226,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": ".. Day of week: Friday Time: 6 – p.m.",
+      "promptContext": "Additional fees: extra charge for {{blank:10}}",
       "answerRaw": "service",
       "canonicalAnswer": "service",
       "acceptedAnswers": [
@@ -246,7 +246,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "Joan normally gets up at A 5.30 a.m B 6.30 a.m C 7.30 a.m",
+      "promptContext": "Joan normally gets up at",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -258,12 +258,26 @@
       "evidenceEndTime": 612.22,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "5.30 a.m"
+        },
+        {
+          "key": "B",
+          "text": "6.30 a.m"
+        },
+        {
+          "key": "C",
+          "text": "7.30 a.m"
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "Joan’s first task of the day is to A clean the horses. B organise her son. C do farm work. Questions 13–14 Complete the summary below Write ONE WORD AND/OR A NUMBER for each answer. Joan’s official title in Riding for the Disabled (RDA) is chairperson. In her local district there are at present twenty-two riders and",
+      "promptContext": "Joan’s first task of the day is to",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -277,12 +291,26 @@
       "distractors": [
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): giới hạn phạm vi bằng 'only'."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): giới hạn phạm vi bằng 'only'.",
+      "options": [
+        {
+          "key": "A",
+          "text": "clean the horses."
+        },
+        {
+          "key": "B",
+          "text": "organise her son."
+        },
+        {
+          "key": "C",
+          "text": "do farm work."
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "her local district there are at present twenty-two riders and",
+      "promptContext": "Joan’s official title in Riding for the Disabled (RDA) is chairperson. In her local district there are at present twenty-two riders and {{blank:13}}",
       "answerRaw": "40",
       "canonicalAnswer": "40",
       "acceptedAnswers": [
@@ -302,7 +330,7 @@
     {
       "number": 14,
       "part": 2,
-      "promptContext": "……… come regularly. Questions 15–18 How much does Joan like doing each of the following activities? Choose the correct letter, A, B or C, next to questions 15 – 18. A She really likes it. B She doesn’t mind it. C She hates it. Activities",
+      "promptContext": "helpers on the volunteer list, out of whom {{blank:14}} come regularly.",
       "answerRaw": "25",
       "canonicalAnswer": "25",
       "acceptedAnswers": [
@@ -322,7 +350,7 @@
     {
       "number": 15,
       "part": 2,
-      "promptContext": "come regularly. Questions 15–18 How much does Joan like doing each of the following activities? Choose the correct letter, A, B or C, next to questions 15 – 18. A She really likes it. B She doesn’t mind it. C She hates it. Activities correspondence",
+      "promptContext": "correspondence",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -337,12 +365,46 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "She really likes it."
+        },
+        {
+          "key": "B",
+          "text": "She doesn’t mind it."
+        },
+        {
+          "key": "C",
+          "text": "She hates it."
+        },
+        {
+          "key": "A",
+          "text": "giving special training."
+        },
+        {
+          "key": "B",
+          "text": "making fund-raising more effective."
+        },
+        {
+          "key": "C",
+          "text": "opening more RDA centres."
+        },
+        {
+          "key": "D",
+          "text": "providing more helpers."
+        },
+        {
+          "key": "E",
+          "text": "recognising difficulties of disabled riders"
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "correspondence fund-raising",
+      "promptContext": "fund-raising",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -357,12 +419,46 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "She really likes it."
+        },
+        {
+          "key": "B",
+          "text": "She doesn’t mind it."
+        },
+        {
+          "key": "C",
+          "text": "She hates it."
+        },
+        {
+          "key": "A",
+          "text": "giving special training."
+        },
+        {
+          "key": "B",
+          "text": "making fund-raising more effective."
+        },
+        {
+          "key": "C",
+          "text": "opening more RDA centres."
+        },
+        {
+          "key": "D",
+          "text": "providing more helpers."
+        },
+        {
+          "key": "E",
+          "text": "recognising difficulties of disabled riders"
+        }
+      ]
     },
     {
       "number": 17,
       "part": 2,
-      "promptContext": "fund-raising calling riders",
+      "promptContext": "calling riders",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -376,12 +472,46 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "She really likes it."
+        },
+        {
+          "key": "B",
+          "text": "She doesn’t mind it."
+        },
+        {
+          "key": "C",
+          "text": "She hates it."
+        },
+        {
+          "key": "A",
+          "text": "giving special training."
+        },
+        {
+          "key": "B",
+          "text": "making fund-raising more effective."
+        },
+        {
+          "key": "C",
+          "text": "opening more RDA centres."
+        },
+        {
+          "key": "D",
+          "text": "providing more helpers."
+        },
+        {
+          "key": "E",
+          "text": "recognising difficulties of disabled riders"
+        }
+      ]
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": "calling riders organising accounts",
+      "promptContext": "organising accounts",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -395,7 +525,41 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "She really likes it."
+        },
+        {
+          "key": "B",
+          "text": "She doesn’t mind it."
+        },
+        {
+          "key": "C",
+          "text": "She hates it."
+        },
+        {
+          "key": "A",
+          "text": "giving special training."
+        },
+        {
+          "key": "B",
+          "text": "making fund-raising more effective."
+        },
+        {
+          "key": "C",
+          "text": "opening more RDA centres."
+        },
+        {
+          "key": "D",
+          "text": "providing more helpers."
+        },
+        {
+          "key": "E",
+          "text": "recognising difficulties of disabled riders"
+        }
+      ]
     },
     {
       "number": 19,
@@ -456,7 +620,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "Which TWO topics were the aims of the geography lesson related to? A global interdependency B manufacturing method C the environmental impact of trade D transport systems E the development of writing tools Questions 23–24 Choose TWO correct answers.",
+      "promptContext": "Which TWO topics were the aims of the geography lesson related to?",
       "answerRaw": "A, D",
       "canonicalAnswer": "A, D",
       "acceptedAnswers": [
@@ -479,12 +643,34 @@
       "evidenceEndTime": 1008.98,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "global interdependency"
+        },
+        {
+          "key": "B",
+          "text": "manufacturing method"
+        },
+        {
+          "key": "C",
+          "text": "the environmental impact of trade"
+        },
+        {
+          "key": "D",
+          "text": "transport systems"
+        },
+        {
+          "key": "E",
+          "text": "the development of writing tools"
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "Which TWO topics were the aims of the geography lesson related to? A global interdependency B manufacturing method C the environmental impact of trade D transport systems E the development of writing tools Questions 23–24 Choose TWO correct answers.",
+      "promptContext": "Which TWO topics were the aims of the geography lesson related to?",
       "answerRaw": "A, D",
       "canonicalAnswer": "A, D",
       "acceptedAnswers": [
@@ -507,12 +693,34 @@
       "evidenceEndTime": 1024.5,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 21–22 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: A, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "global interdependency"
+        },
+        {
+          "key": "B",
+          "text": "manufacturing method"
+        },
+        {
+          "key": "C",
+          "text": "the environmental impact of trade"
+        },
+        {
+          "key": "D",
+          "text": "transport systems"
+        },
+        {
+          "key": "E",
+          "text": "the development of writing tools"
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Which TWO problems do Dean and Hannah identify in their lesson? A the materials B the student grouping C the lesson structure D the teacher coordination E the timing Questions 25–30 Complete the flow - chart below. Choose SIX correct answers, A-H, next to questions 25–30. Geography lesson plan: student activities Examine a pencil and discuss where the component materials come from ↓ Locate the top",
+      "promptContext": "Which TWO problems do Dean and Hannah identify in their lesson?",
       "answerRaw": "B, E",
       "canonicalAnswer": "B, E",
       "acceptedAnswers": [
@@ -538,12 +746,34 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the materials"
+        },
+        {
+          "key": "B",
+          "text": "the student grouping"
+        },
+        {
+          "key": "C",
+          "text": "the lesson structure"
+        },
+        {
+          "key": "D",
+          "text": "the teacher coordination"
+        },
+        {
+          "key": "E",
+          "text": "the timing"
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "Which TWO problems do Dean and Hannah identify in their lesson? A the materials B the student grouping C the lesson structure D the teacher coordination E the timing Questions 25–30 Complete the flow - chart below. Choose SIX correct answers, A-H, next to questions 25–30. Geography lesson plan: student activities Examine a pencil and discuss where the component materials come from ↓ Locate the top",
+      "promptContext": "Which TWO problems do Dean and Hannah identify in their lesson?",
       "answerRaw": "B, E",
       "canonicalAnswer": "B, E",
       "acceptedAnswers": [
@@ -569,12 +799,34 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Câu 23–24 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the materials"
+        },
+        {
+          "key": "B",
+          "text": "the student grouping"
+        },
+        {
+          "key": "C",
+          "text": "the lesson structure"
+        },
+        {
+          "key": "D",
+          "text": "the teacher coordination"
+        },
+        {
+          "key": "E",
+          "text": "the timing"
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "Locate the top",
+      "promptContext": "Locate the top {{blank:25}} on a world map",
       "answerRaw": "G producers",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -593,7 +845,7 @@
     {
       "number": 26,
       "part": 3,
-      "promptContext": ".. on a world map ↓ Discuss the pros and cons of different",
+      "promptContext": "Discuss the pros and cons of different {{blank:26}}",
       "answerRaw": "H methods",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -617,7 +869,7 @@
     {
       "number": 27,
       "part": 3,
-      "promptContext": ". ↓ In groups, discuss countries' possible",
+      "promptContext": "In groups, discuss countries' possible {{blank:27}} to the USA",
       "answerRaw": "A export routes",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -636,7 +888,7 @@
     {
       "number": 28,
       "part": 3,
-      "promptContext": ".. to the USA ↓ Complete a",
+      "promptContext": "Complete a {{blank:28}} about pencil distribute a within the USA.",
       "answerRaw": "E worksheet",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -655,7 +907,7 @@
     {
       "number": 29,
       "part": 3,
-      "promptContext": ".. about pencil distribute a within the USA. ↓ Share ideas about the",
+      "promptContext": "Share ideas about the {{blank:29}} of pencils.",
       "answerRaw": "B future",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -674,7 +926,7 @@
     {
       "number": 30,
       "part": 3,
-      "promptContext": "…….. A export routes B future C talk D homework E worksheet F history G producers H methods of transport",
+      "promptContext": "Prepare a {{blank:30}}",
       "answerRaw": "C talk",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -693,7 +945,7 @@
     {
       "number": 31,
       "part": 4,
-      "promptContext": "",
+      "promptContext": "It was part of a ship’s {{blank:31}}, found in the sea near Antikythera, in Greece.",
       "answerRaw": "cargo",
       "canonicalAnswer": "cargo",
       "acceptedAnswers": [
@@ -710,7 +962,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": ".. , found in the sea near Antikythera, in Greece. It was wrongly thought to be a piece of",
+      "promptContext": "It was wrongly thought to be a piece of {{blank:32}}",
       "answerRaw": "rock",
       "canonicalAnswer": "rock",
       "acceptedAnswers": [
@@ -729,7 +981,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": ". . It was later found to be a mechanism that had broken into pieces. Equipment used for analysis of the mechanism “Dome” - produces photographs which make the",
+      "promptContext": "“Dome” - produces photographs which make the {{blank:33}} clearer",
       "answerRaw": "inscriptions",
       "canonicalAnswer": "inscriptions",
       "acceptedAnswers": [
@@ -746,7 +998,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": ".. clearer “BladeRunner” - produces X-prays - originally used to identify",
+      "promptContext": "originally used to identify {{blank:34}} in engines",
       "answerRaw": "cracks",
       "canonicalAnswer": "cracks",
       "acceptedAnswers": [
@@ -765,7 +1017,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": ".. in engines Description The mechanism consisted of: - 30 or more gear wheels made of",
+      "promptContext": "30 or more gear wheels made of {{blank:35}}",
       "answerRaw": "metal",
       "canonicalAnswer": "metal",
       "acceptedAnswers": [
@@ -782,7 +1034,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ".. - models of the sun, moon and planets - a framework made of",
+      "promptContext": "a framework made of {{blank:36}}",
       "answerRaw": "wood",
       "canonicalAnswer": "wood",
       "acceptedAnswers": [
@@ -801,7 +1053,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "How the mechanism was used The operator turned a",
+      "promptContext": "The operator turned a {{blank:37}} to move the gear wheels.",
       "answerRaw": "handle",
       "canonicalAnswer": "handle",
       "acceptedAnswers": [
@@ -818,7 +1070,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "to move the gear wheels. The sun, moon and planets could be moved into their correct positions for any date. Most surprisingly, the mechanism could calculate when an",
+      "promptContext": "an {{blank:38}} would occur.",
       "answerRaw": "eclipse",
       "canonicalAnswer": "eclipse",
       "acceptedAnswers": [
@@ -835,7 +1087,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": ". would occur. It may have been used as a",
+      "promptContext": "It may have been used as a {{blank:39}} when planning festivals.",
       "answerRaw": "calendar",
       "canonicalAnswer": "calendar",
       "acceptedAnswers": [
@@ -852,7 +1104,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "when planning festivals. Later use of similar technology 13th – 14th centuries: used for making",
+      "promptContext": "13th – 14th centuries: used for making {{blank:40}} in Western Europe.",
       "answerRaw": "clocks",
       "canonicalAnswer": "clocks",
       "acceptedAnswers": [

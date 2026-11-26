@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Location",
+      "promptContext": "Location {{blank:1}} Island",
       "answerRaw": "Jamieson",
       "canonicalAnswer": "Jamieson",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ".. Island Start date",
+      "promptContext": "Start date {{blank:2}}",
       "answerRaw": "11 July...",
       "canonicalAnswer": "11 July",
       "acceptedAnswers": [
@@ -106,7 +106,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": ".. Available jobs Vacancy 1: Calypso Bistro ○ working as a",
+      "promptContext": "working as a {{blank:3}}",
       "answerRaw": "waiter",
       "canonicalAnswer": "waiter",
       "acceptedAnswers": [
@@ -123,7 +123,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": ".. ○ no experience needed Vacancy 2: Guest Liaison ○ must be able to",
+      "promptContext": "must be able to {{blank:4}}",
       "answerRaw": "sing",
       "canonicalAnswer": "sing",
       "acceptedAnswers": [
@@ -145,7 +145,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": ". Vacancy 3: Activities staff ○ help with games and water sports ○ need experience with",
+      "promptContext": "need experience with {{blank:5}}",
       "answerRaw": "children",
       "canonicalAnswer": "children",
       "acceptedAnswers": [
@@ -164,7 +164,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": "Vacancy 4: In reception ○ as a porter ○ must be able to",
+      "promptContext": "must be able to {{blank:6}}",
       "answerRaw": "drive",
       "canonicalAnswer": "drive",
       "acceptedAnswers": [
@@ -183,7 +183,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": ". Benefits For all jobs, ○ there is free",
+      "promptContext": "there is free {{blank:7}}",
       "answerRaw": "transport",
       "canonicalAnswer": "transport",
       "acceptedAnswers": [
@@ -203,7 +203,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": ". ○ are provided",
+      "promptContext": "{{blank:8}} are provided",
       "answerRaw": "meals",
       "canonicalAnswer": "meals",
       "acceptedAnswers": [
@@ -223,7 +223,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "○ to be held on",
+      "promptContext": "to be held on {{blank:9}} at 2pm",
       "answerRaw": "Thursday",
       "canonicalAnswer": "Thursday",
       "acceptedAnswers": [
@@ -240,7 +240,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": "at 2pm ○ bring a CV and a",
+      "promptContext": "bring a CV and a {{blank:10}}",
       "answerRaw": "photo",
       "canonicalAnswer": "photo",
       "acceptedAnswers": [
@@ -262,7 +262,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "The walk is organised specfically for A.extremely fit people. B.parents with their children. C.tourists unfamiliar with the local area.",
+      "promptContext": "The walk is organised specfically for",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -274,12 +274,26 @@
       "evidenceEndTime": 545.48,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "extremely fit people."
+        },
+        {
+          "key": "B",
+          "text": "parents with their children."
+        },
+        {
+          "key": "C",
+          "text": "tourists unfamiliar with the local area."
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "The maximum number of people on the walk will be A.220. B.250. C.280.",
+      "promptContext": "The maximum number of people on the walk will be",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -293,12 +307,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "220."
+        },
+        {
+          "key": "B",
+          "text": "250."
+        },
+        {
+          "key": "C",
+          "text": "280."
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "The organisers will stop walkers taking part if they A.arrive without a waterproof coat. B.are causing a lot of trouble. C.are unable to answer basic safety questions. 14 The walk was cancelled two years previously because of A.illness in the organising team. B.very stormy weather. C.problems getting people to help.",
+      "promptContext": "The organisers will stop walkers taking part if they",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -310,12 +338,26 @@
       "evidenceEndTime": 607.48,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "arrive without a waterproof coat."
+        },
+        {
+          "key": "B",
+          "text": "are causing a lot of trouble."
+        },
+        {
+          "key": "C",
+          "text": "are unable to answer basic safety questions."
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "",
+      "promptContext": "The walk was cancelled two years previously because of",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -330,12 +372,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "illness in the organising team."
+        },
+        {
+          "key": "B",
+          "text": "very stormy weather."
+        },
+        {
+          "key": "C",
+          "text": "problems getting people to help."
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "Badges can be obtained A.only when they have been ordered before the walk. B.immediately people have completed the whole walk. C.one week after the walk has finished. Questions 16–20 What advice does Peter give about the following objects? Choose the correct letter, A, B or C next to questions 16-20. A. Walkers are advised to have this B. Walkers can have this, if they wish C. Walkers are advised NOT to have this A B C",
+      "promptContext": "Badges can be obtained",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -347,12 +403,26 @@
       "evidenceEndTime": 689.9,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "only when they have been ordered before the walk."
+        },
+        {
+          "key": "B",
+          "text": "immediately people have completed the whole walk."
+        },
+        {
+          "key": "C",
+          "text": "one week after the walk has finished."
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": "C a pair of thick trousers",
+      "promptContext": "a pair of thick trousers",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -367,12 +437,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Walkers are advised to have this"
+        },
+        {
+          "key": "B",
+          "text": "Walkers can have this, if they wish"
+        },
+        {
+          "key": "C",
+          "text": "Walkers are advised NOT to have this"
+        }
+      ]
     },
     {
       "number": 17,
       "part": 2,
-      "promptContext": "a pair of thick trousers a mobile phone",
+      "promptContext": "a mobile phone",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -387,12 +471,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Walkers are advised to have this"
+        },
+        {
+          "key": "B",
+          "text": "Walkers can have this, if they wish"
+        },
+        {
+          "key": "C",
+          "text": "Walkers are advised NOT to have this"
+        }
+      ]
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": "a mobile phone a torch",
+      "promptContext": "a torch",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -407,12 +505,26 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Walkers are advised to have this"
+        },
+        {
+          "key": "B",
+          "text": "Walkers can have this, if they wish"
+        },
+        {
+          "key": "C",
+          "text": "Walkers are advised NOT to have this"
+        }
+      ]
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": "a torch something to drink",
+      "promptContext": "something to drink",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -424,12 +536,26 @@
       "evidenceEndTime": 784.0,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Walkers are advised to have this"
+        },
+        {
+          "key": "B",
+          "text": "Walkers can have this, if they wish"
+        },
+        {
+          "key": "C",
+          "text": "Walkers are advised NOT to have this"
+        }
+      ]
     },
     {
       "number": 20,
       "part": 2,
-      "promptContext": "something to drink a rucksack",
+      "promptContext": "a rucksack",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -443,12 +569,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Walkers are advised to have this"
+        },
+        {
+          "key": "B",
+          "text": "Walkers can have this, if they wish"
+        },
+        {
+          "key": "C",
+          "text": "Walkers are advised NOT to have this"
+        }
+      ]
     },
     {
       "number": 21,
       "part": 3,
-      "promptContext": "is not freely accessible B. Too detailed for their purposes C. Contains a useful tool for users D. Convenient format E. Up-to-date information F difficult to navigate G some information is missing H useful historical information Websites National Geographic",
+      "promptContext": "National Geographic",
       "answerRaw": "C (useful tool)",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -465,7 +605,41 @@
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu",
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án đúng là phương án C (useful tool). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án C (useful tool). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Information is not freely accessible"
+        },
+        {
+          "key": "B",
+          "text": "Too detailed for their purposes"
+        },
+        {
+          "key": "C",
+          "text": "Contains a useful tool for users"
+        },
+        {
+          "key": "D",
+          "text": "Convenient format"
+        },
+        {
+          "key": "E",
+          "text": "Up-to-date information"
+        },
+        {
+          "key": "F",
+          "text": "difficult to navigate"
+        },
+        {
+          "key": "G",
+          "text": "some information is missing"
+        },
+        {
+          "key": "H",
+          "text": "useful historical information"
+        }
+      ]
     },
     {
       "number": 22,
@@ -486,12 +660,46 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án A (not free). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án A (not free). Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Information is not freely accessible"
+        },
+        {
+          "key": "B",
+          "text": "Too detailed for their purposes"
+        },
+        {
+          "key": "C",
+          "text": "Contains a useful tool for users"
+        },
+        {
+          "key": "D",
+          "text": "Convenient format"
+        },
+        {
+          "key": "E",
+          "text": "Up-to-date information"
+        },
+        {
+          "key": "F",
+          "text": "difficult to navigate"
+        },
+        {
+          "key": "G",
+          "text": "some information is missing"
+        },
+        {
+          "key": "H",
+          "text": "useful historical information"
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Administration",
+      "promptContext": "Energy Information Administration",
       "answerRaw": "G (missing info)",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -505,12 +713,46 @@
       "evidenceEndTime": 972.12,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án G (missing info). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án G (missing info). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Information is not freely accessible"
+        },
+        {
+          "key": "B",
+          "text": "Too detailed for their purposes"
+        },
+        {
+          "key": "C",
+          "text": "Contains a useful tool for users"
+        },
+        {
+          "key": "D",
+          "text": "Convenient format"
+        },
+        {
+          "key": "E",
+          "text": "Up-to-date information"
+        },
+        {
+          "key": "F",
+          "text": "difficult to navigate"
+        },
+        {
+          "key": "G",
+          "text": "some information is missing"
+        },
+        {
+          "key": "H",
+          "text": "useful historical information"
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": ". British Petroleum",
+      "promptContext": "British Petroleum",
       "answerRaw": "B (too detailed)",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -527,12 +769,46 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án đúng là phương án B (too detailed). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án B (too detailed). Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Information is not freely accessible"
+        },
+        {
+          "key": "B",
+          "text": "Too detailed for their purposes"
+        },
+        {
+          "key": "C",
+          "text": "Contains a useful tool for users"
+        },
+        {
+          "key": "D",
+          "text": "Convenient format"
+        },
+        {
+          "key": "E",
+          "text": "Up-to-date information"
+        },
+        {
+          "key": "F",
+          "text": "difficult to navigate"
+        },
+        {
+          "key": "G",
+          "text": "some information is missing"
+        },
+        {
+          "key": "H",
+          "text": "useful historical information"
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": ". Central Intelligence Agency",
+      "promptContext": "Central Intelligence Agency",
       "answerRaw": "E (up-to-date)",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -548,7 +824,41 @@
       "distractors": [
         "suy đoán ban đầu ('thought') khác với thực tế"
       ],
-      "explanationVi": "Đáp án đúng là phương án E (up-to-date). Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế."
+      "explanationVi": "Đáp án đúng là phương án E (up-to-date). Lưu ý bẫy gây nhiễu (distractor): suy đoán ban đầu ('thought') khác với thực tế.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Information is not freely accessible"
+        },
+        {
+          "key": "B",
+          "text": "Too detailed for their purposes"
+        },
+        {
+          "key": "C",
+          "text": "Contains a useful tool for users"
+        },
+        {
+          "key": "D",
+          "text": "Convenient format"
+        },
+        {
+          "key": "E",
+          "text": "Up-to-date information"
+        },
+        {
+          "key": "F",
+          "text": "difficult to navigate"
+        },
+        {
+          "key": "G",
+          "text": "some information is missing"
+        },
+        {
+          "key": "H",
+          "text": "useful historical information"
+        }
+      ]
     },
     {
       "number": 26,
@@ -567,12 +877,46 @@
       "evidenceEndTime": 1032.12,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án H (historical). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án H (historical). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Information is not freely accessible"
+        },
+        {
+          "key": "B",
+          "text": "Too detailed for their purposes"
+        },
+        {
+          "key": "C",
+          "text": "Contains a useful tool for users"
+        },
+        {
+          "key": "D",
+          "text": "Convenient format"
+        },
+        {
+          "key": "E",
+          "text": "Up-to-date information"
+        },
+        {
+          "key": "F",
+          "text": "difficult to navigate"
+        },
+        {
+          "key": "G",
+          "text": "some information is missing"
+        },
+        {
+          "key": "H",
+          "text": "useful historical information"
+        }
+      ]
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": "Which TWO decisions do the students reach about the subject matter of their assignment? A.They will keep the assessment criteria in mind. B.They will limit the scale of their investigation. C.They will select countries from all over the world. D.They will collect data about two groups of countries. E.They will find figures for wind and nuclear power. Questions 29–30 Choose TWO correct answers.",
+      "promptContext": "Which TWO decisions do the students reach about the subject matter of their assignment?",
       "answerRaw": "B, D",
       "canonicalAnswer": "B, D",
       "acceptedAnswers": [
@@ -595,12 +939,34 @@
       "evidenceEndTime": 1093.08,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They will keep the assessment criteria in mind."
+        },
+        {
+          "key": "B",
+          "text": "They will limit the scale of their investigation."
+        },
+        {
+          "key": "C",
+          "text": "They will select countries from all over the world."
+        },
+        {
+          "key": "D",
+          "text": "They will collect data about two groups of countries."
+        },
+        {
+          "key": "E",
+          "text": "They will find figures for wind and nuclear power."
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": "Which TWO decisions do the students reach about the subject matter of their assignment? A.They will keep the assessment criteria in mind. B.They will limit the scale of their investigation. C.They will select countries from all over the world. D.They will collect data about two groups of countries. E.They will find figures for wind and nuclear power. Questions 29–30 Choose TWO correct answers.",
+      "promptContext": "Which TWO decisions do the students reach about the subject matter of their assignment?",
       "answerRaw": "B, D",
       "canonicalAnswer": "B, D",
       "acceptedAnswers": [
@@ -623,12 +989,34 @@
       "evidenceEndTime": 1093.08,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 27–28 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, D). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They will keep the assessment criteria in mind."
+        },
+        {
+          "key": "B",
+          "text": "They will limit the scale of their investigation."
+        },
+        {
+          "key": "C",
+          "text": "They will select countries from all over the world."
+        },
+        {
+          "key": "D",
+          "text": "They will collect data about two groups of countries."
+        },
+        {
+          "key": "E",
+          "text": "They will find figures for wind and nuclear power."
+        }
+      ]
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": "Which TWO tasks will Charley be responsible for? A.reviewing the final draft B.collecting basic figures C.producing the graphics D.processing the raw data E.drafting the written sections",
+      "promptContext": "Which TWO tasks will Charley be responsible for?",
       "answerRaw": "B, E",
       "canonicalAnswer": "B, E",
       "acceptedAnswers": [
@@ -651,12 +1039,34 @@
       "evidenceEndTime": 1184.44,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "reviewing the final draft"
+        },
+        {
+          "key": "B",
+          "text": "collecting basic figures"
+        },
+        {
+          "key": "C",
+          "text": "producing the graphics"
+        },
+        {
+          "key": "D",
+          "text": "processing the raw data"
+        },
+        {
+          "key": "E",
+          "text": "drafting the written sections"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "Which TWO tasks will Charley be responsible for? A.reviewing the final draft B.collecting basic figures C.producing the graphics D.processing the raw data E.drafting the written sections",
+      "promptContext": "Which TWO tasks will Charley be responsible for?",
       "answerRaw": "B, E",
       "canonicalAnswer": "B, E",
       "acceptedAnswers": [
@@ -679,12 +1089,34 @@
       "evidenceEndTime": 1184.44,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Câu 29–30 là dạng chọn nhiều đáp án không phân biệt thứ tự (tập đáp án đúng: B, E). Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "reviewing the final draft"
+        },
+        {
+          "key": "B",
+          "text": "collecting basic figures"
+        },
+        {
+          "key": "C",
+          "text": "producing the graphics"
+        },
+        {
+          "key": "D",
+          "text": "processing the raw data"
+        },
+        {
+          "key": "E",
+          "text": "drafting the written sections"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "Comment on the",
+      "promptContext": "Comment on the {{blank:31}} of the monument",
       "answerRaw": "success",
       "canonicalAnswer": "success",
       "acceptedAnswers": [
@@ -701,7 +1133,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": ".of the monument Add information about its: • geographical location •",
+      "promptContext": "{{blank:32}} significance",
       "answerRaw": "social",
       "canonicalAnswer": "social",
       "acceptedAnswers": [
@@ -718,7 +1150,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": ".. significance • historical context Illustrate assignment with: •",
+      "promptContext": "{{blank:33}}",
       "answerRaw": "plans",
       "canonicalAnswer": "plans",
       "acceptedAnswers": [
@@ -735,7 +1167,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": ". • photos (with captions) End with: record of architect's achievements Section two: Design and construction Include information about • The",
+      "promptContext": "The {{blank:34}} of any particular style on the design",
       "answerRaw": "influence",
       "canonicalAnswer": "influence",
       "acceptedAnswers": [
@@ -752,7 +1184,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": ".. of any particular style on the design • The",
+      "promptContext": "The {{blank:35}} used in construction",
       "answerRaw": "materials",
       "canonicalAnswer": "materials",
       "acceptedAnswers": [
@@ -769,7 +1201,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ". used in construction • Specialist",
+      "promptContext": "Specialist {{blank:36}} required",
       "answerRaw": "skills",
       "canonicalAnswer": "skills",
       "acceptedAnswers": [
@@ -786,7 +1218,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": ".required Section three: Assessment of design Content should include: • personal assessment • results of your survey Use personal assessment and survey to consider: • the",
+      "promptContext": "the {{blank:37}} for building the monument",
       "answerRaw": "reason",
       "canonicalAnswer": "reason",
       "acceptedAnswers": [
@@ -803,7 +1235,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": ".. for building the monument • the monument's",
+      "promptContext": "the monument's {{blank:38}} effect on members of the public",
       "answerRaw": "emotional",
       "canonicalAnswer": "emotional",
       "acceptedAnswers": [
@@ -820,7 +1252,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": "..effect on members of the public • how well the monument suits its",
+      "promptContext": "how well the monument suits its {{blank:39}}",
       "answerRaw": "environment",
       "canonicalAnswer": "environment",
       "acceptedAnswers": [
@@ -839,7 +1271,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": "Remember! Credit given for good",
+      "promptContext": "Credit given for good {{blank:40}}",
       "answerRaw": "analysis",
       "canonicalAnswer": "analysis",
       "acceptedAnswers": [

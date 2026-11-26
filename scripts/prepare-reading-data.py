@@ -61,8 +61,8 @@ STOPWORDS = {
 }
 
 BLANKS_ANY_RE = re.compile(
-    r"(?:\(\s*(\d{1,2})\s*\)|(?<!\d)(\d{1,2}))\s*(?:[_.\u200b]{3,}|…+[_.]*|_[_\u200b]*_)"
-    r"|(?:[_.\u200b]{3,}|…+[_.]*|_[_\u200b]*_)\s*(?:\(\s*(\d{1,2})\s*\)|(\d{1,2})\b)"
+    r"(?:\(\s*(\d{1,2})\s*\)|(?<!\d)(\d{1,2}))(?:\.\s*|\s*)(?:[_.…\u200b]{3,}|…+[_.]*|_[_\u200b]*_)"
+    r"|(?:[_.…\u200b]{3,}|…+[_.]*|_[_\u200b]*_)\s*(?:\(\s*(\d{1,2})\s*\)|(\d{1,2})\b)"
 )
 
 
@@ -76,6 +76,8 @@ def normalize_blanks(text: str) -> str:
 
     # Replace spaced forms "(14) ______" or "14……" or "6 ........"
     s = BLANKS_ANY_RE.sub(repl, text)
+    # Clean stray leftover ellipsis/underscores directly after replaced blank tokens
+    s = re.sub(r"(\{\{blank:\d+\}\})\s*[…_]+", r"\1", s)
     # Also handle glued leading blanks like "6….. was..." or "(14)_____" without space
     s = re.sub(r"\s+", " ", s).strip()
     s = re.sub(r"\s+([,.;:?!])", r"\1", s)
@@ -1176,8 +1178,14 @@ def parse_questions_from_lines(
     body_text_parts: list[str] = []
 
     if q_type in ("summary_box", "gap_fill", "table_completion", "diagram_label"):
-        # Check if body consists of prose/notes containing {{blank:N}} rather than numbered stems
-        merged_lines = [normalize_blanks(x["text"]) for x in lines]
+        # Pre-join multiline wrapped blanks where number ends one line and underscores/ellipses start next line
+        raw_joined = "\n".join(x["text"] for x in lines)
+        raw_joined = re.sub(
+            r"(?<!\d)(\d{1,2})\.?\s*\n\s*(?:[_.…\u200b]{3,}|…+[_.]*|_[_\u200b]*_)",
+            lambda m: f" {{{{blank:{int(m.group(1))}}}}} " if 1 <= int(m.group(1)) <= 40 else m.group(0),
+            raw_joined,
+        )
+        merged_lines = [normalize_blanks(ln) for ln in raw_joined.split("\n")]
         joined = "\n".join(merged_lines)
         all_blanks = [int(b) for b in re.findall(r"\{\{blank:(\d+)\}\}", joined)]
         if tables:

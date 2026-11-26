@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "Model type: a",
+      "promptContext": "Model type: a {{blank:1}} mount",
       "answerRaw": "top",
       "canonicalAnswer": "top",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ".. mount Model number: S 654 391 X Colour:",
+      "promptContext": "Colour: {{blank:2}}",
       "answerRaw": "silver",
       "canonicalAnswer": "silver",
       "acceptedAnswers": [
@@ -99,7 +99,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": ".. Date of purchase:",
+      "promptContext": "Date of purchase: {{blank:3}}",
       "answerRaw": "12th January",
       "canonicalAnswer": "12th January",
       "acceptedAnswers": [
@@ -116,7 +116,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": ".. Problems: ∙ the",
+      "promptContext": "Problems: ∙ the {{blank:4}} in the fridge sounded",
       "answerRaw": "alarm",
       "canonicalAnswer": "alarm",
       "acceptedAnswers": [
@@ -133,7 +133,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": ".. in the fridge sounded ∙ freezer temperature is",
+      "promptContext": "∙ freezer temperature is {{blank:5}} degrees",
       "answerRaw": "10",
       "canonicalAnswer": "10",
       "acceptedAnswers": [
@@ -152,7 +152,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": ".degrees ∙ main fridge not working. Nearest service centre: Ken’s Appliances (near the",
+      "promptContext": "Nearest service centre: Ken’s Appliances (near the {{blank:6}})",
       "answerRaw": "station",
       "canonicalAnswer": "station",
       "acceptedAnswers": [
@@ -169,7 +169,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": ") Comments: ∙ customer needs the fridge to store food for her",
+      "promptContext": "∙ customer needs the fridge to store food for her {{blank:7}} shop",
       "answerRaw": "sandwich",
       "canonicalAnswer": "sandwich",
       "acceptedAnswers": [
@@ -203,7 +203,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": "To do: ∙ get the",
+      "promptContext": "To do: ∙ get the {{blank:9}} to call her today",
       "answerRaw": "manager",
       "canonicalAnswer": "manager",
       "acceptedAnswers": [
@@ -220,7 +220,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": ". to call her today ∙ replace damaged",
+      "promptContext": "∙ replace damaged {{blank:10}}",
       "answerRaw": "door",
       "canonicalAnswer": "door",
       "acceptedAnswers": [
@@ -239,7 +239,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "People who act as hosts for Connections A.are given a litte money. B.do not receive payment. C.can apply for expenses.",
+      "promptContext": "People who act as hosts for Connections",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -251,12 +251,26 @@
       "evidenceEndTime": 582.02,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are given a litte money."
+        },
+        {
+          "key": "B",
+          "text": "do not receive payment."
+        },
+        {
+          "key": "C",
+          "text": "can apply for expenses."
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "Connections is for people from other countries who A.have difficulty making friends. B.are looking for temporary work. C.can offer language support.",
+      "promptContext": "Connections is for people from other countries who",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -268,12 +282,26 @@
       "evidenceEndTime": 589.5,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "have difficulty making friends."
+        },
+        {
+          "key": "B",
+          "text": "are looking for temporary work."
+        },
+        {
+          "key": "C",
+          "text": "can offer language support."
+        }
+      ]
     },
     {
       "number": 13,
       "part": 2,
-      "promptContext": "According to the speaker, what can a guest expect to do during their stay? A.cook food for their host family B.explain their own family traditions. C.discuss matters of personal interest.",
+      "promptContext": "According to the speaker, what can a guest expect to do during their stay?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -285,12 +313,26 @@
       "evidenceEndTime": 598.74,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cook food for their host family"
+        },
+        {
+          "key": "B",
+          "text": "explain their own family traditions."
+        },
+        {
+          "key": "C",
+          "text": "discuss matters of personal interest."
+        }
+      ]
     },
     {
       "number": 14,
       "part": 2,
-      "promptContext": "According to the speaker, a long-term benefit of the Connections scheme could be A.an increased understanding between cultures. B.a programme of weekly visits. C.more involvement from people of different communities. Questions 15–20 Complete the fow – chart below. hoose SIX correct answers, A – H, next to questions 15 – 20. A. Acknowledgement B. Decision C. Identity D. An interview E. Legal status F. Records G. Rejection H. Vetting To apply to Connections as a guest The applicant makes an initial phone call to the",
+      "promptContext": "According to the speaker, a long-term benefit of the Connections scheme could be",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -309,12 +351,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'benefit' ↔ 'advantage'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'benefit' ↔ 'advantage'. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "an increased understanding between cultures."
+        },
+        {
+          "key": "B",
+          "text": "a programme of weekly visits."
+        },
+        {
+          "key": "C",
+          "text": "more involvement from people of different communities."
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "The applicant makes an initial phone call to the",
+      "promptContext": "The applicant makes an initial phone call to the {{blank:15}} department.",
       "answerRaw": "H vetting",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -333,7 +389,7 @@
     {
       "number": 16,
       "part": 2,
-      "promptContext": ".. department. ↓ The applicant sends in a reference to confirm his/her",
+      "promptContext": "The applicant sends in a reference to confirm his/her {{blank:16}}",
       "answerRaw": "C identity",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -357,7 +413,7 @@
     {
       "number": 17,
       "part": 2,
-      "promptContext": ".. . ↓ Following approval, an application form is emailed to the applicant. ↓ The applicant returns the completed form with two photographs (one for",
+      "promptContext": "The applicant returns the completed form with two photographs (one for {{blank:17}} and one for the family).",
       "answerRaw": "F records",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -376,7 +432,7 @@
     {
       "number": 18,
       "part": 2,
-      "promptContext": "and one for the family). ↓ The applicant receives",
+      "promptContext": "The applicant receives {{blank:18}} within seven days.",
       "answerRaw": "A acknowledgement",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -395,7 +451,7 @@
     {
       "number": 19,
       "part": 2,
-      "promptContext": ".. within seven days. ↓ The applicant has",
+      "promptContext": "The applicant has {{blank:19}} with a staff member.",
       "answerRaw": "D an interview",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -414,7 +470,7 @@
     {
       "number": 20,
       "part": 2,
-      "promptContext": ". with a staff member. ↓ The applicant receives a final",
+      "promptContext": "The applicant receives a final {{blank:20}} in writing.",
       "answerRaw": "B decision",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -436,7 +492,7 @@
     {
       "number": 21,
       "part": 3,
-      "promptContext": "Why is Beth unconvinced that allergies are linked to vitamin D deficiency? A.because people’s diets have improved since the 1950s B.because most people get enough vitamin D C.because the evidence only applies in Britain",
+      "promptContext": "Why is Beth unconvinced that allergies are linked to vitamin D deficiency?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -451,12 +507,26 @@
         "thông tin cũ trong quá khứ ('used to'), không phải hiện tại",
         "tình trạng không còn đúng nữa ('no longer')"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): thông tin cũ trong quá khứ ('used to'), không phải hiện tại."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): thông tin cũ trong quá khứ ('used to'), không phải hiện tại.",
+      "options": [
+        {
+          "key": "A",
+          "text": "because people’s diets have improved since the 1950s"
+        },
+        {
+          "key": "B",
+          "text": "because most people get enough vitamin D"
+        },
+        {
+          "key": "C",
+          "text": "because the evidence only applies in Britain"
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "Eliot explains that rising CO2 levels A.will mean distribution of pollen over a wider area. B.are having less impact on pollen than milder winters. C.are responsible for higher quantities of pollen.",
+      "promptContext": "Eliot explains that rising CO2 levels",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -470,12 +540,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will mean distribution of pollen over a wider area."
+        },
+        {
+          "key": "B",
+          "text": "are having less impact on pollen than milder winters."
+        },
+        {
+          "key": "C",
+          "text": "are responsible for higher quantities of pollen."
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "What does Beth say about seasonal changes? A.There is no clear short-term trend for the arrival of spring. B.In general, spring is likely to continue arriving early. C.Springs are becoming milder and longer.",
+      "promptContext": "What does Beth say about seasonal changes?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -492,12 +576,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'early' ↔ 'earlier'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'early' ↔ 'earlier'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "There is no clear short-term trend for the arrival of spring."
+        },
+        {
+          "key": "B",
+          "text": "In general, spring is likely to continue arriving early."
+        },
+        {
+          "key": "C",
+          "text": "Springs are becoming milder and longer."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "What point is made about the plant ragweed? A.it is spreading to more countries. B.it is the most widespread cause of allergies globally. C.it causes the most severe type of allergy.",
+      "promptContext": "What point is made about the plant ragweed?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -509,12 +607,26 @@
       "evidenceEndTime": 1125.5,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "it is spreading to more countries."
+        },
+        {
+          "key": "B",
+          "text": "it is the most widespread cause of allergies globally."
+        },
+        {
+          "key": "C",
+          "text": "it causes the most severe type of allergy."
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "Why is tree pollen a more serious problem in cities? A.Trees produce more pollen there. B.There is less to absorb the tree pollen. C.There is not enough control over tree-planting. Questions 26–30 What comment is made about the seasonal changes in pollen in each of the following European countries? Choose FIVE correct answers, A – G, next to question 26 – 30. Seasonal changes in pollen. European countries",
+      "promptContext": "Why is tree pollen a more serious problem in cities?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -528,12 +640,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trees produce more pollen there."
+        },
+        {
+          "key": "B",
+          "text": "There is less to absorb the tree pollen."
+        },
+        {
+          "key": "C",
+          "text": "There is not enough control over tree-planting."
+        }
+      ]
     },
     {
       "number": 26,
       "part": 3,
-      "promptContext": "European countries .Australia ..",
+      "promptContext": "Australia",
       "answerRaw": "G info birch",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -549,12 +675,42 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án G info birch. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án G info birch. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "greatest change recorded for oak pollen"
+        },
+        {
+          "key": "B",
+          "text": "changes identified for two pollen types only"
+        },
+        {
+          "key": "C",
+          "text": "a longer season for grass pollen"
+        },
+        {
+          "key": "D",
+          "text": "earlier start dates for all pollen types"
+        },
+        {
+          "key": "E",
+          "text": "significant change in start date of birch pollen"
+        },
+        {
+          "key": "F",
+          "text": "little difference in start dates"
+        },
+        {
+          "key": "G",
+          "text": "information only available for birch pollen"
+        }
+      ]
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": ".. .France ..",
+      "promptContext": "France",
       "answerRaw": "B two types",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -568,12 +724,42 @@
       "evidenceEndTime": 1163.7,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án B two types. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án B two types. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "greatest change recorded for oak pollen"
+        },
+        {
+          "key": "B",
+          "text": "changes identified for two pollen types only"
+        },
+        {
+          "key": "C",
+          "text": "a longer season for grass pollen"
+        },
+        {
+          "key": "D",
+          "text": "earlier start dates for all pollen types"
+        },
+        {
+          "key": "E",
+          "text": "significant change in start date of birch pollen"
+        },
+        {
+          "key": "F",
+          "text": "little difference in start dates"
+        },
+        {
+          "key": "G",
+          "text": "information only available for birch pollen"
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": ".. .The Netherlands .",
+      "promptContext": "The Netherlands",
       "answerRaw": "A oak pollen",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -590,12 +776,42 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "giới hạn phạm vi bằng 'only'"
       ],
-      "explanationVi": "Đáp án đúng là phương án A oak pollen. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án A oak pollen. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "greatest change recorded for oak pollen"
+        },
+        {
+          "key": "B",
+          "text": "changes identified for two pollen types only"
+        },
+        {
+          "key": "C",
+          "text": "a longer season for grass pollen"
+        },
+        {
+          "key": "D",
+          "text": "earlier start dates for all pollen types"
+        },
+        {
+          "key": "E",
+          "text": "significant change in start date of birch pollen"
+        },
+        {
+          "key": "F",
+          "text": "little difference in start dates"
+        },
+        {
+          "key": "G",
+          "text": "information only available for birch pollen"
+        }
+      ]
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": ". .Switzerland ..",
+      "promptContext": "Switzerland",
       "answerRaw": "D earlier start",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -609,12 +825,42 @@
       "evidenceEndTime": 1294.36,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D earlier start. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án D earlier start. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "greatest change recorded for oak pollen"
+        },
+        {
+          "key": "B",
+          "text": "changes identified for two pollen types only"
+        },
+        {
+          "key": "C",
+          "text": "a longer season for grass pollen"
+        },
+        {
+          "key": "D",
+          "text": "earlier start dates for all pollen types"
+        },
+        {
+          "key": "E",
+          "text": "significant change in start date of birch pollen"
+        },
+        {
+          "key": "F",
+          "text": "little difference in start dates"
+        },
+        {
+          "key": "G",
+          "text": "information only available for birch pollen"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": ".UK ……….. A greatest change recorded for oak pollen B changes identified for two pollen types only C a longer season for grass pollen D earlier start dates for all pollen types E significant change in start date of birch pollen F little difference in start dates G information only available for birch pollen",
+      "promptContext": "UK",
       "answerRaw": "C grass pollen",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -628,12 +874,42 @@
       "evidenceEndTime": 1313.32,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án C grass pollen. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án C grass pollen. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "greatest change recorded for oak pollen"
+        },
+        {
+          "key": "B",
+          "text": "changes identified for two pollen types only"
+        },
+        {
+          "key": "C",
+          "text": "a longer season for grass pollen"
+        },
+        {
+          "key": "D",
+          "text": "earlier start dates for all pollen types"
+        },
+        {
+          "key": "E",
+          "text": "significant change in start date of birch pollen"
+        },
+        {
+          "key": "F",
+          "text": "little difference in start dates"
+        },
+        {
+          "key": "G",
+          "text": "information only available for birch pollen"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "Number of stigmas needed for 50 grams:",
+      "promptContext": "Number of stigmas needed for 50 grams: {{blank:31}}",
       "answerRaw": "14,000 / 14000",
       "canonicalAnswer": "14,000",
       "acceptedAnswers": [
@@ -653,7 +929,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": ". Method of preservation:",
+      "promptContext": "Method of preservation: {{blank:32}}",
       "answerRaw": "drying",
       "canonicalAnswer": "drying",
       "acceptedAnswers": [
@@ -675,7 +951,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": ". Taste and aroma: like honey Forms in which sold: as whole stigmas and as a",
+      "promptContext": "Forms in which sold: as whole stigmas and as a {{blank:33}}",
       "answerRaw": "powder",
       "canonicalAnswer": "powder",
       "acceptedAnswers": [
@@ -692,7 +968,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": "Uses of saffron today To colour and flavour food in many countries especially for making",
+      "promptContext": "To colour and flavour food in many countries especially for making {{blank:34}} dishes",
       "answerRaw": "rice",
       "canonicalAnswer": "rice",
       "acceptedAnswers": [
@@ -711,7 +987,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "dishes In medicine • as a drug in treatment of problems affecting the",
+      "promptContext": "as a drug in treatment of problems affecting the {{blank:35}}",
       "answerRaw": "eye",
       "canonicalAnswer": "eye",
       "acceptedAnswers": [
@@ -728,7 +1004,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": "• experiments with rats as protection from exposure to some types of",
+      "promptContext": "experiments with rats as protection from exposure to some types of {{blank:36}}",
       "answerRaw": "lights",
       "canonicalAnswer": "lights",
       "acceptedAnswers": [
@@ -745,7 +1021,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": "History of saffron use Ancient Crete as a dye for",
+      "promptContext": "Ancient Crete as a dye for {{blank:37}}",
       "answerRaw": "clothes",
       "canonicalAnswer": "clothes",
       "acceptedAnswers": [
@@ -762,7 +1038,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": "Roman Empire • in oil used for the production of",
+      "promptContext": "in oil used for the production of {{blank:38}}",
       "answerRaw": "cosmetics",
       "canonicalAnswer": "cosmetics",
       "acceptedAnswers": [
@@ -781,7 +1057,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": ". • as a",
+      "promptContext": "as a {{blank:39}} in public baths",
       "answerRaw": "perfume",
       "canonicalAnswer": "perfume",
       "acceptedAnswers": [
@@ -798,7 +1074,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": ".. in public baths Persia (Iran) as a dye used in the making of",
+      "promptContext": "Persia (Iran) as a dye used in the making of {{blank:40}}",
       "answerRaw": "carpets",
       "canonicalAnswer": "carpets",
       "acceptedAnswers": [

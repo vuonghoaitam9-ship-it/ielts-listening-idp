@@ -63,7 +63,7 @@
     {
       "number": 1,
       "part": 1,
-      "promptContext": "o Name: Sally",
+      "promptContext": "Name: Sally {{blank:1}}",
       "answerRaw": "Keyworth",
       "canonicalAnswer": "Keyworth",
       "acceptedAnswers": [
@@ -80,7 +80,7 @@
     {
       "number": 2,
       "part": 1,
-      "promptContext": ".. o phone: 027 584 6613 Kitchen o needs a bigger window o the kitchen is too hot – fit a",
+      "promptContext": "the kitchen is too hot – fit a {{blank:2}}",
       "answerRaw": "fan",
       "canonicalAnswer": "fan",
       "acceptedAnswers": [
@@ -100,7 +100,7 @@
     {
       "number": 3,
       "part": 1,
-      "promptContext": ".. Bathroom o put in a",
+      "promptContext": "put in a {{blank:3}} on the back wall",
       "answerRaw": "shower",
       "canonicalAnswer": "shower",
       "acceptedAnswers": [
@@ -119,7 +119,7 @@
     {
       "number": 4,
       "part": 1,
-      "promptContext": "on the back wall o decide the",
+      "promptContext": "decide the {{blank:4}} of the small tiles later",
       "answerRaw": "colour,color",
       "canonicalAnswer": "colour",
       "acceptedAnswers": [
@@ -139,7 +139,7 @@
     {
       "number": 5,
       "part": 1,
-      "promptContext": "of the small tiles later Outside o put a higher",
+      "promptContext": "put a higher {{blank:5}} in the garden",
       "answerRaw": "gate",
       "canonicalAnswer": "gate",
       "acceptedAnswers": [
@@ -158,7 +158,7 @@
     {
       "number": 6,
       "part": 1,
-      "promptContext": ". in the garden o put a new",
+      "promptContext": "put a new {{blank:6}} on the garage door",
       "answerRaw": "lock",
       "canonicalAnswer": "lock",
       "acceptedAnswers": [
@@ -177,7 +177,7 @@
     {
       "number": 7,
       "part": 1,
-      "promptContext": "on the garage door o fix the roof – it was damaged by a",
+      "promptContext": "fix the roof – it was damaged by a {{blank:7}}",
       "answerRaw": "storm",
       "canonicalAnswer": "storm",
       "acceptedAnswers": [
@@ -194,7 +194,7 @@
     {
       "number": 8,
       "part": 1,
-      "promptContext": ".. o fit a new rain gutter made of",
+      "promptContext": "fit a new rain gutter made of {{blank:8}}",
       "answerRaw": "plastic",
       "canonicalAnswer": "plastic",
       "acceptedAnswers": [
@@ -211,7 +211,7 @@
     {
       "number": 9,
       "part": 1,
-      "promptContext": ".. Other information o start date:",
+      "promptContext": "start date: {{blank:9}}",
       "answerRaw": "May 8th/8 May",
       "canonicalAnswer": "May 8th",
       "acceptedAnswers": [
@@ -229,7 +229,7 @@
     {
       "number": 10,
       "part": 1,
-      "promptContext": ".. o security code:",
+      "promptContext": "security code: {{blank:10}}",
       "answerRaw": "AG4176",
       "canonicalAnswer": "AG4176",
       "acceptedAnswers": [
@@ -246,7 +246,7 @@
     {
       "number": 11,
       "part": 2,
-      "promptContext": "All entry points along the trail A provide secure parking facilities from cars. B are within easy access from public roads. C have a regular shuttle bus service.",
+      "promptContext": "All entry points along the trail",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -258,12 +258,26 @@
       "evidenceEndTime": 509.98,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "provide secure parking facilities from cars."
+        },
+        {
+          "key": "B",
+          "text": "are within easy access from public roads."
+        },
+        {
+          "key": "C",
+          "text": "have a regular shuttle bus service."
+        }
+      ]
     },
     {
       "number": 12,
       "part": 2,
-      "promptContext": "Which facilities at the trail rest stations has been added as a result of a user survey? A electric recharge points B picnic areas C maps and other information On the Red Rock Walk, hikers are easily able to A see many different plants. B enjoy spectacular scenic views. C identify a wide range of birds.",
+      "promptContext": "Which facilities at the trail rest stations has been added as a result of a user survey?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -275,7 +289,33 @@
       "evidenceEndTime": 563.94,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "electric recharge points"
+        },
+        {
+          "key": "B",
+          "text": "picnic areas"
+        },
+        {
+          "key": "C",
+          "text": "maps and other information On the Red Rock Walk, hikers are easily able to"
+        },
+        {
+          "key": "A",
+          "text": "see many different plants."
+        },
+        {
+          "key": "B",
+          "text": "enjoy spectacular scenic views."
+        },
+        {
+          "key": "C",
+          "text": "identify a wide range of birds."
+        }
+      ]
     },
     {
       "number": 13,
@@ -299,7 +339,7 @@
     {
       "number": 14,
       "part": 2,
-      "promptContext": "What does the speaker say about the River Walk in wintertime? A There are not many other walkers in the area. B The area does not get much ice and snow. C It may not be possible to use this section of the trail. Questions 15–20 Which information is given about each of the following facilities at the Halfway Hostel? Choose SIX correct answers, A-I, next to questions 15-20. Information Facilities at the hostel dormitory beds",
+      "promptContext": "What does the speaker say about the River Walk in wintertime?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -314,12 +354,26 @@
         "người nói tự đính chính thông tin vừa nêu ('actually')",
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "There are not many other walkers in the area."
+        },
+        {
+          "key": "B",
+          "text": "The area does not get much ice and snow."
+        },
+        {
+          "key": "C",
+          "text": "It may not be possible to use this section of the trail."
+        }
+      ]
     },
     {
       "number": 15,
       "part": 2,
-      "promptContext": "Facilities at the hostel dormitory beds",
+      "promptContext": "dormitory beds",
       "answerRaw": "H first-come-first-served",
       "canonicalAnswer": "H",
       "acceptedAnswers": [
@@ -333,12 +387,50 @@
       "evidenceEndTime": 675.1,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án H first-come-first-served. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án H first-come-first-served. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "only at weekends"
+        },
+        {
+          "key": "B",
+          "text": "voluntary donation expected"
+        },
+        {
+          "key": "C",
+          "text": "not yet available"
+        },
+        {
+          "key": "D",
+          "text": "help from guests requested"
+        },
+        {
+          "key": "E",
+          "text": "provided free"
+        },
+        {
+          "key": "F",
+          "text": "advance booking required"
+        },
+        {
+          "key": "G",
+          "text": "new equipment"
+        },
+        {
+          "key": "H",
+          "text": "available on first-come-first-served basic"
+        },
+        {
+          "key": "I",
+          "text": "special rate for children"
+        }
+      ]
     },
     {
       "number": 16,
       "part": 2,
-      "promptContext": ".. family rooms",
+      "promptContext": "family rooms",
       "answerRaw": "F advance booking required",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -354,12 +446,50 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án F advance booking required. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án F advance booking required. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "only at weekends"
+        },
+        {
+          "key": "B",
+          "text": "voluntary donation expected"
+        },
+        {
+          "key": "C",
+          "text": "not yet available"
+        },
+        {
+          "key": "D",
+          "text": "help from guests requested"
+        },
+        {
+          "key": "E",
+          "text": "provided free"
+        },
+        {
+          "key": "F",
+          "text": "advance booking required"
+        },
+        {
+          "key": "G",
+          "text": "new equipment"
+        },
+        {
+          "key": "H",
+          "text": "available on first-come-first-served basic"
+        },
+        {
+          "key": "I",
+          "text": "special rate for children"
+        }
+      ]
     },
     {
       "number": 17,
       "part": 2,
-      "promptContext": ".. clothes washing",
+      "promptContext": "clothes washing",
       "answerRaw": "G new equipment",
       "canonicalAnswer": "G",
       "acceptedAnswers": [
@@ -373,12 +503,50 @@
       "evidenceEndTime": 726.98,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án G new equipment. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án G new equipment. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "only at weekends"
+        },
+        {
+          "key": "B",
+          "text": "voluntary donation expected"
+        },
+        {
+          "key": "C",
+          "text": "not yet available"
+        },
+        {
+          "key": "D",
+          "text": "help from guests requested"
+        },
+        {
+          "key": "E",
+          "text": "provided free"
+        },
+        {
+          "key": "F",
+          "text": "advance booking required"
+        },
+        {
+          "key": "G",
+          "text": "new equipment"
+        },
+        {
+          "key": "H",
+          "text": "available on first-come-first-served basic"
+        },
+        {
+          "key": "I",
+          "text": "special rate for children"
+        }
+      ]
     },
     {
       "number": 18,
       "part": 2,
-      "promptContext": ".. meals",
+      "promptContext": "meals",
       "answerRaw": "D help from guests",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -392,12 +560,50 @@
       "evidenceEndTime": 749.48,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án D help from guests. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án D help from guests. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "only at weekends"
+        },
+        {
+          "key": "B",
+          "text": "voluntary donation expected"
+        },
+        {
+          "key": "C",
+          "text": "not yet available"
+        },
+        {
+          "key": "D",
+          "text": "help from guests requested"
+        },
+        {
+          "key": "E",
+          "text": "provided free"
+        },
+        {
+          "key": "F",
+          "text": "advance booking required"
+        },
+        {
+          "key": "G",
+          "text": "new equipment"
+        },
+        {
+          "key": "H",
+          "text": "available on first-come-first-served basic"
+        },
+        {
+          "key": "I",
+          "text": "special rate for children"
+        }
+      ]
     },
     {
       "number": 19,
       "part": 2,
-      "promptContext": ". hot showers",
+      "promptContext": "hot showers",
       "answerRaw": "E provided free",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -411,12 +617,50 @@
       "evidenceEndTime": 771.98,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E provided free. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E provided free. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "only at weekends"
+        },
+        {
+          "key": "B",
+          "text": "voluntary donation expected"
+        },
+        {
+          "key": "C",
+          "text": "not yet available"
+        },
+        {
+          "key": "D",
+          "text": "help from guests requested"
+        },
+        {
+          "key": "E",
+          "text": "provided free"
+        },
+        {
+          "key": "F",
+          "text": "advance booking required"
+        },
+        {
+          "key": "G",
+          "text": "new equipment"
+        },
+        {
+          "key": "H",
+          "text": "available on first-come-first-served basic"
+        },
+        {
+          "key": "I",
+          "text": "special rate for children"
+        }
+      ]
     },
     {
       "number": 20,
       "part": 2,
-      "promptContext": "…………. A only at weekends B voluntary donation expected C not yet available D help from guests requested E provided free F advance booking required G new equipment H available on first-come-first-served basic I special rate for children",
+      "promptContext": "bicycle rental",
       "answerRaw": "C not yet available",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -439,12 +683,50 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án C not yet available. Diễn đạt tương đương (paraphrase) giữa đề và audio: 'free' ↔ 'no charge'; 'free' ↔ 'available'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án C not yet available. Diễn đạt tương đương (paraphrase) giữa đề và audio: 'free' ↔ 'no charge'; 'free' ↔ 'available'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "only at weekends"
+        },
+        {
+          "key": "B",
+          "text": "voluntary donation expected"
+        },
+        {
+          "key": "C",
+          "text": "not yet available"
+        },
+        {
+          "key": "D",
+          "text": "help from guests requested"
+        },
+        {
+          "key": "E",
+          "text": "provided free"
+        },
+        {
+          "key": "F",
+          "text": "advance booking required"
+        },
+        {
+          "key": "G",
+          "text": "new equipment"
+        },
+        {
+          "key": "H",
+          "text": "available on first-come-first-served basic"
+        },
+        {
+          "key": "I",
+          "text": "special rate for children"
+        }
+      ]
     },
     {
       "number": 21,
       "part": 3,
-      "promptContext": "What do Pam and Jason primarily hope to learn more about from their project? A maximizing profits B minimizing environmental damage C meeting legal requirements",
+      "promptContext": "What do Pam and Jason primarily hope to learn more about from their project?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -456,12 +738,26 @@
       "evidenceEndTime": 872.1,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "maximizing profits"
+        },
+        {
+          "key": "B",
+          "text": "minimizing environmental damage"
+        },
+        {
+          "key": "C",
+          "text": "meeting legal requirements"
+        }
+      ]
     },
     {
       "number": 22,
       "part": 3,
-      "promptContext": "Which issue about packaging do Pam and Jason feel is most important to food shoppers today? A providing information about contents B extending the useful life of products C reducing excess waste from packaging",
+      "promptContext": "Which issue about packaging do Pam and Jason feel is most important to food shoppers today?",
       "answerRaw": "B",
       "canonicalAnswer": "B",
       "acceptedAnswers": [
@@ -478,12 +774,26 @@
         }
       ],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'important' ↔ 'main'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"B\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'important' ↔ 'main'. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "providing information about contents"
+        },
+        {
+          "key": "B",
+          "text": "extending the useful life of products"
+        },
+        {
+          "key": "C",
+          "text": "reducing excess waste from packaging"
+        }
+      ]
     },
     {
       "number": 23,
       "part": 3,
-      "promptContext": "Why have Pam and Jason decided to concentrate specifically on large supermarkets? A They are the subjects of previously published studies. B They are the most profitable food retail businesses. C They will offer good opportunities for interviews.",
+      "promptContext": "Why have Pam and Jason decided to concentrate specifically on large supermarkets?",
       "answerRaw": "C",
       "canonicalAnswer": "C",
       "acceptedAnswers": [
@@ -497,12 +807,26 @@
       "distractors": [
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án chuẩn cần điền là \"C\". Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They are the subjects of previously published studies."
+        },
+        {
+          "key": "B",
+          "text": "They are the most profitable food retail businesses."
+        },
+        {
+          "key": "C",
+          "text": "They will offer good opportunities for interviews."
+        }
+      ]
     },
     {
       "number": 24,
       "part": 3,
-      "promptContext": "The professor says that the local population has unusual food- shopping habits because of A its range of nationalities B its high education level C its young age",
+      "promptContext": "The professor says that the local population has unusual food- shopping habits because of",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -522,12 +846,26 @@
         "người nói tự đính chính thông tin vừa nêu ('actually')",
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu"
       ],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'local' ↔ 'town'. Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually')."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Diễn đạt tương đương (paraphrase) giữa đề và audio: 'local' ↔ 'town'. Lưu ý bẫy gây nhiễu (distractor): người nói tự đính chính thông tin vừa nêu ('actually').",
+      "options": [
+        {
+          "key": "A",
+          "text": "its range of nationalities"
+        },
+        {
+          "key": "B",
+          "text": "its high education level"
+        },
+        {
+          "key": "C",
+          "text": "its young age"
+        }
+      ]
     },
     {
       "number": 25,
       "part": 3,
-      "promptContext": "According to the literature, what influences food shoppers most? A taste B price C health benefits Questions 26–30 What action do Pam and Jason agree to take for each of the following aspects of their experiment? Choose FIVE correct answers, A-G, next to questions 26-30. Agreed actions Aspects of the experiment the number of different designs offered",
+      "promptContext": "According to the literature, what influences food shoppers most?",
       "answerRaw": "A",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -539,7 +877,21 @@
       "evidenceEndTime": 1015.36,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án chuẩn cần điền là \"A\". Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "taste"
+        },
+        {
+          "key": "B",
+          "text": "price"
+        },
+        {
+          "key": "C",
+          "text": "health benefits"
+        }
+      ]
     },
     {
       "number": 26,
@@ -561,12 +913,42 @@
         "chuyển ý đối lập bằng 'but' để loại phương án nhiễu",
         "câu phủ định ('not') loại trừ phương án bẫy"
       ],
-      "explanationVi": "Đáp án đúng là phương án B widen the choice. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu."
+      "explanationVi": "Đáp án đúng là phương án B widen the choice. Lưu ý bẫy gây nhiễu (distractor): chuyển ý đối lập bằng 'but' để loại phương án nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "refer to course notes"
+        },
+        {
+          "key": "B",
+          "text": "widen the choice"
+        },
+        {
+          "key": "C",
+          "text": "use more colours"
+        },
+        {
+          "key": "D",
+          "text": "allow for more time"
+        },
+        {
+          "key": "E",
+          "text": "ask for help"
+        },
+        {
+          "key": "F",
+          "text": "design a questionnaire"
+        },
+        {
+          "key": "G",
+          "text": "plan for oral interviews"
+        }
+      ]
     },
     {
       "number": 27,
       "part": 3,
-      "promptContext": ".. the sample size of students",
+      "promptContext": "the sample size of students",
       "answerRaw": "E ask for help",
       "canonicalAnswer": "E",
       "acceptedAnswers": [
@@ -580,12 +962,42 @@
       "evidenceEndTime": 1100.68,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án E ask for help. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án E ask for help. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "refer to course notes"
+        },
+        {
+          "key": "B",
+          "text": "widen the choice"
+        },
+        {
+          "key": "C",
+          "text": "use more colours"
+        },
+        {
+          "key": "D",
+          "text": "allow for more time"
+        },
+        {
+          "key": "E",
+          "text": "ask for help"
+        },
+        {
+          "key": "F",
+          "text": "design a questionnaire"
+        },
+        {
+          "key": "G",
+          "text": "plan for oral interviews"
+        }
+      ]
     },
     {
       "number": 28,
       "part": 3,
-      "promptContext": ".. how to display the packages",
+      "promptContext": "how to display the packages",
       "answerRaw": "A refer to notes",
       "canonicalAnswer": "A",
       "acceptedAnswers": [
@@ -599,12 +1011,42 @@
       "evidenceEndTime": 1141.98,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án A refer to notes. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án A refer to notes. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "refer to course notes"
+        },
+        {
+          "key": "B",
+          "text": "widen the choice"
+        },
+        {
+          "key": "C",
+          "text": "use more colours"
+        },
+        {
+          "key": "D",
+          "text": "allow for more time"
+        },
+        {
+          "key": "E",
+          "text": "ask for help"
+        },
+        {
+          "key": "F",
+          "text": "design a questionnaire"
+        },
+        {
+          "key": "G",
+          "text": "plan for oral interviews"
+        }
+      ]
     },
     {
       "number": 29,
       "part": 3,
-      "promptContext": ". finding the reasons for students' choices",
+      "promptContext": "finding the reasons for students' choices",
       "answerRaw": "F design questionnaire",
       "canonicalAnswer": "F",
       "acceptedAnswers": [
@@ -618,12 +1060,42 @@
       "evidenceEndTime": 1154.82,
       "paraphrases": [],
       "distractors": [],
-      "explanationVi": "Đáp án đúng là phương án F design questionnaire. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn."
+      "explanationVi": "Đáp án đúng là phương án F design questionnaire. Nghe đoạn trích dẫn tương ứng để xác nhận từ khóa và chính tả chuẩn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "refer to course notes"
+        },
+        {
+          "key": "B",
+          "text": "widen the choice"
+        },
+        {
+          "key": "C",
+          "text": "use more colours"
+        },
+        {
+          "key": "D",
+          "text": "allow for more time"
+        },
+        {
+          "key": "E",
+          "text": "ask for help"
+        },
+        {
+          "key": "F",
+          "text": "design a questionnaire"
+        },
+        {
+          "key": "G",
+          "text": "plan for oral interviews"
+        }
+      ]
     },
     {
       "number": 30,
       "part": 3,
-      "promptContext": "……….. A refer to course notes B widen the choice C use more colours D allow for more time E ask for help F design a questionnaire G plan for oral interviews",
+      "promptContext": "analysis of data collected",
       "answerRaw": "D allow more time",
       "canonicalAnswer": "D",
       "acceptedAnswers": [
@@ -639,12 +1111,42 @@
       "distractors": [
         "dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu"
       ],
-      "explanationVi": "Đáp án đúng là phương án D allow more time. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu."
+      "explanationVi": "Đáp án đúng là phương án D allow more time. Lưu ý bẫy gây nhiễu (distractor): dạng phủ định ('n't') bác bỏ chi tiết gây nhiễu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "refer to course notes"
+        },
+        {
+          "key": "B",
+          "text": "widen the choice"
+        },
+        {
+          "key": "C",
+          "text": "use more colours"
+        },
+        {
+          "key": "D",
+          "text": "allow for more time"
+        },
+        {
+          "key": "E",
+          "text": "ask for help"
+        },
+        {
+          "key": "F",
+          "text": "design a questionnaire"
+        },
+        {
+          "key": "G",
+          "text": "plan for oral interviews"
+        }
+      ]
     },
     {
       "number": 31,
       "part": 4,
-      "promptContext": "create and use",
+      "promptContext": "The invention of computers is as significant as the discovery of how to create and use {{blank:31}}",
       "answerRaw": "fire",
       "canonicalAnswer": "fire",
       "acceptedAnswers": [
@@ -661,7 +1163,7 @@
     {
       "number": 32,
       "part": 4,
-      "promptContext": ". Computer will be seen as being",
+      "promptContext": "Computer will be seen as being {{blank:32}}",
       "answerRaw": "intelligent",
       "canonicalAnswer": "intelligent",
       "acceptedAnswers": [
@@ -678,7 +1180,7 @@
     {
       "number": 33,
       "part": 4,
-      "promptContext": ".. . Psychology Research will become much more",
+      "promptContext": "Research will become much more {{blank:33}}, and also more practical since more {{blank:34}} will be working in the field.",
       "answerRaw": "varied",
       "canonicalAnswer": "varied",
       "acceptedAnswers": [
@@ -695,7 +1197,7 @@
     {
       "number": 34,
       "part": 4,
-      "promptContext": ", and also more practical since more",
+      "promptContext": "Research will become much more {{blank:33}}, and also more practical since more {{blank:34}} will be working in the field.",
       "answerRaw": "women",
       "canonicalAnswer": "women",
       "acceptedAnswers": [
@@ -712,7 +1214,7 @@
     {
       "number": 35,
       "part": 4,
-      "promptContext": "will be working in the field. Imaging devices will give information about the behaviour of the",
+      "promptContext": "Imaging devices will give information about the behaviour of the {{blank:35}}",
       "answerRaw": "brain",
       "canonicalAnswer": "brain",
       "acceptedAnswers": [
@@ -729,7 +1231,7 @@
     {
       "number": 36,
       "part": 4,
-      "promptContext": ".. . Genetics With increased life expectancy, it is important to consider the",
+      "promptContext": "the {{blank:36}} of elderly people’s lives.",
       "answerRaw": "quality",
       "canonicalAnswer": "quality",
       "acceptedAnswers": [
@@ -753,7 +1255,7 @@
     {
       "number": 37,
       "part": 4,
-      "promptContext": ". of elderly people’s lives. Knowledge of a person’s genome will indicate whether they are likely to be affected by a",
+      "promptContext": "Knowledge of a person’s genome will indicate whether they are likely to be affected by a {{blank:37}}",
       "answerRaw": "disease",
       "canonicalAnswer": "disease",
       "acceptedAnswers": [
@@ -770,7 +1272,7 @@
     {
       "number": 38,
       "part": 4,
-      "promptContext": ". . The approach to treatment will be on an increasingly",
+      "promptContext": "The approach to treatment will be on an increasingly {{blank:38}} basis.",
       "answerRaw": "personal",
       "canonicalAnswer": "personal",
       "acceptedAnswers": [
@@ -787,7 +1289,7 @@
     {
       "number": 39,
       "part": 4,
-      "promptContext": ".. basis. Zoology People can explore the world via satellite. For example, it is possible to see the effects of the destruction of",
+      "promptContext": "For example, it is possible to see the effects of the destruction of {{blank:39}} in East Africa.",
       "answerRaw": "forests",
       "canonicalAnswer": "forests",
       "acceptedAnswers": [
@@ -804,7 +1306,7 @@
     {
       "number": 40,
       "part": 4,
-      "promptContext": ". in East Africa. Such increased awareness should enable us to do more to look after the",
+      "promptContext": "the {{blank:40}}",
       "answerRaw": "planet",
       "canonicalAnswer": "planet",
       "acceptedAnswers": [
